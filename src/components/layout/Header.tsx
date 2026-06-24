@@ -31,7 +31,7 @@ export const Header: React.FC = () => {
                 <Github className="h-6 w-6 animate-pulse" />
               </div>
               <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
-                GitDevRank
+                Github Top Devs
               </span>
             </Link>
           </div>

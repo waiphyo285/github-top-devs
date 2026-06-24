@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
           <div className="flex flex-col space-y-3">
             <div className="flex items-center space-x-2">
               <span className="text-lg font-bold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
-                GitDevRank
+                Github Top Devs
               </span>
             </div>
             <p className="text-sm text-muted-foreground max-w-xs">
@@ -71,7 +71,7 @@ export const Footer: React.FC = () => {
 
         {/* Bottom bar */}
         <div className="mt-8 pt-8 border-t border-border/20 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-muted-foreground">
-          <p>&copy; {currentYear} GitDevRank. All rights reserved.</p>
+          <p>&copy; {currentYear} Github Top Devs. All rights reserved.</p>
           <div className="flex items-center space-x-1">
             <span>Built for developers with</span>
             <Heart className="h-3 w-3 text-emerald-500 fill-emerald-500" />

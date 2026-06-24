@@ -23,7 +23,7 @@ export default function AboutPage() {
       <div className="border-b border-border/20 pb-6">
         <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent flex items-center gap-2.5">
           <Info className="h-7 w-7 text-primary animate-pulse" />
-          <span>About GitDevRank</span>
+          <span>About Github Top Devs</span>
         </h1>
         <p className="text-sm text-muted-foreground mt-1">
           Learn about our metrics, ranking methodology, and data sourcing pipeline.
@@ -94,7 +94,7 @@ export default function AboutPage() {
         <Card className="border-border/40 bg-card/25 backdrop-blur-md">
           <CardContent className="p-6 space-y-4">
             <p className="text-sm text-muted-foreground leading-relaxed">
-              GitDevRank is a **read-only client web interface**. We do not run databases, query credentials, or track user activity.
+              Github Top Devs is a **read-only client web interface**. We do not run databases, query credentials, or track user activity.
             </p>
             <p className="text-sm text-muted-foreground leading-relaxed">
               All stats, ranks, avatars, and profile metadata are fetched directly from the open-source{' '}
@@ -145,7 +145,7 @@ export default function AboutPage() {
             },
             {
               q: 'How often is the data synced?',
-              a: 'The upstream repository crawls daily. GitDevRank caches this data inside static files inside the Next.js bundle and revalidates them periodically (hourly) to guarantee fast page response times under 2 seconds worldwide.',
+              a: 'The upstream repository crawls daily. Github Top Devs caches this data inside static files inside the Next.js bundle and revalidates them periodically (hourly) to guarantee fast page response times under 2 seconds worldwide.',
             },
           ].map((faq, index) => (
             <Card key={index} className="border-border/40 bg-card/15">
@@ -165,7 +165,7 @@ export default function AboutPage() {
       {/* Stats Sync Timestamp */}
       <div className="flex justify-center pt-4 border-t border-border/20 text-xs text-muted-foreground/60 gap-1.5 items-center font-mono">
         <Calendar className="h-3.5 w-3.5" />
-        <span>GitDevRank Client v1.0.0 (MVP) • Static CDN cache enabled</span>
+        <span>Github Top Devs Client v1.0.0 (MVP) • Static CDN cache enabled</span>
       </div>
     </div>
   );
