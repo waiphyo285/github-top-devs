@@ -1,13 +1,18 @@
-'use client';
+"use client";
 
-import React, { useState } from 'react';
-import Image, { ImageProps } from 'next/image';
+import React, { useState } from "react";
+import Image, { ImageProps } from "next/image";
 
-interface AvatarProps extends Omit<ImageProps, 'src'> {
+interface AvatarProps extends Omit<ImageProps, "src"> {
   src: string;
 }
 
-export const Avatar: React.FC<AvatarProps> = ({ src, alt, className, ...props }) => {
+export const Avatar: React.FC<AvatarProps> = ({
+  src,
+  alt,
+  className,
+  ...props
+}) => {
   const [error, setError] = useState(false);
   const [prevSrc, setPrevSrc] = useState(src);
 
@@ -18,7 +23,7 @@ export const Avatar: React.FC<AvatarProps> = ({ src, alt, className, ...props })
 
   return (
     <Image
-      src={error ? '/placeholder-dev.png' : src}
+      src={error ? "/placeholder-dev.png" : src}
       alt={alt}
       className={className}
       onError={() => {

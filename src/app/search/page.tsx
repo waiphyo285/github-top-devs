@@ -1,7 +1,7 @@
-import React from 'react';
-import Link from 'next/link';
-import { getPaginatedDevelopers, getCountries } from '@/lib/data';
-import { Avatar } from '@/components/ui/avatar';
+import React from "react";
+import Link from "next/link";
+import { getPaginatedDevelopers, getCountries } from "@/lib/data";
+import { Avatar } from "@/components/ui/avatar";
 import {
   Search,
   MapPin,
@@ -9,10 +9,10 @@ import {
   ChevronRight,
   Sparkles,
   ChevronLeft,
-} from 'lucide-react';
-import { Card, CardContent } from '@/components/ui/card';
-import { Button, buttonVariants } from '@/components/ui/button';
-import { FlagImage } from '@/components/ui/flag-image';
+} from "lucide-react";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button, buttonVariants } from "@/components/ui/button";
+import { FlagImage } from "@/components/ui/flag-image";
 
 interface SearchPageProps {
   searchParams: Promise<{
@@ -25,11 +25,11 @@ export const revalidate = 0; // Dynamic search page
 
 export default async function SearchPage({ searchParams }: SearchPageProps) {
   const params = await searchParams;
-  const query = params.q || '';
-  const page = Math.max(1, parseInt(params.page || '1', 10));
+  const query = params.q || "";
+  const page = Math.max(1, parseInt(params.page || "1", 10));
 
   // Fetch paginated results for search query
-  let devs: ReturnType<typeof getPaginatedDevelopers>['data'] = [];
+  let devs: ReturnType<typeof getPaginatedDevelopers>["data"] = [];
   let total = 0;
   let totalPages = 0;
 
@@ -37,8 +37,8 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
     const result = getPaginatedDevelopers({
       page,
       pageSize: 30,
-      sortBy: 'score',
-      sortOrder: 'desc',
+      sortBy: "score",
+      sortOrder: "desc",
       search: query,
     });
     devs = result.data;
@@ -50,7 +50,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
   const countries = getCountries();
   const getFlagUrl = (countryName: string) => {
     const match = countries.find(
-      (c) => c.country.toLowerCase() === countryName.toLowerCase()
+      (c) => c.country.toLowerCase() === countryName.toLowerCase(),
     );
     return match ? match.flagUrl : null;
   };
@@ -69,14 +69,19 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
             Global Search
           </h1>
           <p className="text-sm text-muted-foreground mt-1">
-            Query across the database of 120,000+ developers, countries, and companies.
+            Query across the database of 120,000+ developers, countries, and
+            companies.
           </p>
         </div>
 
         {/* Big Search Input */}
         <Card className="border-border/40 bg-card/25 backdrop-blur-sm p-2 shadow-lg">
           <CardContent className="p-0">
-            <form method="GET" action="/search" className="relative flex items-center">
+            <form
+              method="GET"
+              action="/search"
+              className="relative flex items-center"
+            >
               <Search className="absolute left-4 h-5 w-5 text-muted-foreground" />
               <input
                 type="text"
@@ -131,7 +136,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                           className="object-cover"
                         />
                       </Link>
-                      
+
                       <div className="min-w-0 space-y-1">
                         <div className="flex flex-wrap items-center gap-1.5">
                           <Link
@@ -153,7 +158,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                               <span className="truncate">{dev.company}</span>
                             </span>
                           )}
-                          
+
                           {dev.location && (
                             <span className="inline-flex items-center gap-1 bg-secondary/60 px-2 py-0.5 rounded max-w-[150px] truncate">
                               <MapPin className="h-3 w-3 shrink-0" />
@@ -213,7 +218,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                         <ChevronRight className="h-4.5 w-4.5" />
                       </Link>
                     </div>
-
                   </div>
                 );
               })}
@@ -230,7 +234,8 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           {totalPages > 1 && (
             <div className="flex items-center justify-between border-t border-border/20 pt-6">
               <div className="text-sm text-muted-foreground font-mono">
-                Page <span className="text-foreground font-bold">{page}</span> of{' '}
+                Page <span className="text-foreground font-bold">{page}</span>{" "}
+                of{" "}
                 <span className="text-foreground font-bold">{totalPages}</span>
               </div>
 
@@ -239,8 +244,9 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                   <Link
                     href={createPaginationUrl(page - 1)}
                     className={buttonVariants({
-                      variant: 'outline',
-                      className: 'h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm',
+                      variant: "outline",
+                      className:
+                        "h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm",
                     })}
                   >
                     <ChevronLeft className="h-4 w-4" />
@@ -261,8 +267,9 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                   <Link
                     href={createPaginationUrl(page + 1)}
                     className={buttonVariants({
-                      variant: 'outline',
-                      className: 'h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm',
+                      variant: "outline",
+                      className:
+                        "h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm",
                     })}
                   >
                     <span>Next</span>
@@ -281,7 +288,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
               </div>
             </div>
           )}
-
         </div>
       ) : (
         /* Empty/Entry state */
@@ -296,19 +302,19 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {[
               {
-                title: 'Specific Usernames',
+                title: "Specific Usernames",
                 desc: 'Type exact handles like "aung aung", "kyaw kyaw", or "waiphyo".',
-                query: 'aung aung',
+                query: "aung aung",
               },
               {
-                title: 'Company / Organization',
+                title: "Company / Organization",
                 desc: 'Search for developers at organizations like "KBZ Bank", "Wave Money", or "AYA Bank".',
-                query: 'KBZ Bank',
+                query: "KBZ Bank",
               },
               {
-                title: 'City or Region',
+                title: "City or Region",
                 desc: 'Discover developers located in cities like "Yangon", "Mandalay", or "Naypyidaw".',
-                query: 'Yangon',
+                query: "Yangon",
               },
             ].map((suggest, index) => (
               <Link

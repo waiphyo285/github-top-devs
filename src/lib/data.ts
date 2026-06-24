@@ -1,5 +1,5 @@
-import fs from 'fs';
-import path from 'path';
+import fs from "fs";
+import path from "path";
 
 export interface Developer {
   login: string;
@@ -43,17 +43,19 @@ export function getAllDevelopers(): Developer[] {
   }
 
   try {
-    const filePath = path.join(process.cwd(), 'public', 'data', 'all.json');
+    const filePath = path.join(process.cwd(), "public", "data", "all.json");
     if (fs.existsSync(filePath)) {
-      console.log('Loading all.json into memory...');
-      const fileContent = fs.readFileSync(filePath, 'utf8');
+      console.log("Loading all.json into memory...");
+      const fileContent = fs.readFileSync(filePath, "utf8");
       cachedDevelopers = JSON.parse(fileContent);
-      console.log(`Successfully loaded ${cachedDevelopers?.length} developers.`);
+      console.log(
+        `Successfully loaded ${cachedDevelopers?.length} developers.`,
+      );
     } else {
       cachedDevelopers = [];
     }
   } catch (error) {
-    console.error('Error loading all developers:', error);
+    console.error("Error loading all developers:", error);
     cachedDevelopers = [];
   }
 
@@ -62,36 +64,55 @@ export function getAllDevelopers(): Developer[] {
 
 export function getCountries(): CountryMetadata[] {
   try {
-    const filePath = path.join(process.cwd(), 'public', 'data', 'countries.json');
+    const filePath = path.join(
+      process.cwd(),
+      "public",
+      "data",
+      "countries.json",
+    );
     if (fs.existsSync(filePath)) {
-      const fileContent = fs.readFileSync(filePath, 'utf8');
-      return JSON.parse(fileContent);
+      const fileContent = fs.readFileSync(filePath, "utf8");
+      const list: CountryMetadata[] = JSON.parse(fileContent);
+      const myanmarIndex = list.findIndex(
+        (c) => c.country.toLowerCase() === "myanmar",
+      );
+      if (myanmarIndex > -1) {
+        const [myanmar] = list.splice(myanmarIndex, 1);
+        list.unshift(myanmar);
+      }
+      return list;
     }
   } catch (error) {
-    console.error('Error loading countries metadata:', error);
+    console.error("Error loading countries metadata:", error);
   }
   return [];
 }
 
 export function getGlobalStats(): GlobalStats | null {
   try {
-    const filePath = path.join(process.cwd(), 'public', 'data', 'stats.json');
+    const filePath = path.join(process.cwd(), "public", "data", "stats.json");
     if (fs.existsSync(filePath)) {
-      const fileContent = fs.readFileSync(filePath, 'utf8');
+      const fileContent = fs.readFileSync(filePath, "utf8");
       return JSON.parse(fileContent);
     }
   } catch (error) {
-    console.error('Error loading global stats:', error);
+    console.error("Error loading global stats:", error);
   }
   return null;
 }
 
 export function getCountryDevelopers(countryKey: string): Developer[] {
   try {
-    const formattedKey = countryKey.toLowerCase().replace(/ /g, '_');
-    const filePath = path.join(process.cwd(), 'public', 'data', 'countries', `${formattedKey}.json`);
+    const formattedKey = countryKey.toLowerCase().replace(/ /g, "_");
+    const filePath = path.join(
+      process.cwd(),
+      "public",
+      "data",
+      "countries",
+      `${formattedKey}.json`,
+    );
     if (fs.existsSync(filePath)) {
-      const fileContent = fs.readFileSync(filePath, 'utf8');
+      const fileContent = fs.readFileSync(filePath, "utf8");
       return JSON.parse(fileContent);
     }
   } catch (error) {
@@ -122,15 +143,20 @@ export interface PaginatedResult<T> {
 export function getPaginatedDevelopers({
   page = 1,
   pageSize = 50,
-  sortBy = 'globalRank',
-  sortOrder = 'asc',
-  search = '',
-  country = '',
+  sortBy = "globalRank",
+  sortOrder = "asc",
+  search = "",
+  country = "",
 }: {
   page?: number;
   pageSize?: number;
-  sortBy?: 'globalRank' | 'countryRank' | 'followers' | 'score' | 'publicContributions';
-  sortOrder?: 'asc' | 'desc';
+  sortBy?:
+    | "globalRank"
+    | "countryRank"
+    | "followers"
+    | "score"
+    | "publicContributions";
+  sortOrder?: "asc" | "desc";
   search?: string;
   country?: string;
 } = {}): PaginatedResult<Developer> {
@@ -152,7 +178,7 @@ export function getPaginatedDevelopers({
         (dev.name && dev.name.toLowerCase().includes(query)) ||
         (dev.company && dev.company.toLowerCase().includes(query)) ||
         (dev.location && dev.location.toLowerCase().includes(query)) ||
-        (dev.countryName && dev.countryName.toLowerCase().includes(query))
+        (dev.countryName && dev.countryName.toLowerCase().includes(query)),
     );
   }
 
@@ -160,7 +186,7 @@ export function getPaginatedDevelopers({
   list.sort((a, b) => {
     const valA = a[sortBy];
     const valB = b[sortBy];
-    return sortOrder === 'asc' ? valA - valB : valB - valA;
+    return sortOrder === "asc" ? valA - valB : valB - valA;
   });
 
   const total = list.length;

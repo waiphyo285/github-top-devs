@@ -1,6 +1,6 @@
-import React from 'react';
-import Link from 'next/link';
-import { getCountries } from '@/lib/data';
+import React from "react";
+import Link from "next/link";
+import { getCountries } from "@/lib/data";
 import {
   Globe,
   Search,
@@ -10,10 +10,10 @@ import {
   ChevronRight,
   Users,
   ArrowDownAZ,
-} from 'lucide-react';
-import { Card, CardContent } from '@/components/ui/card';
-import {  buttonVariants } from '@/components/ui/button';
-import { FlagImage } from '@/components/ui/flag-image';
+} from "lucide-react";
+import { Card, CardContent } from "@/components/ui/card";
+import { buttonVariants } from "@/components/ui/button";
+import { FlagImage } from "@/components/ui/flag-image";
 
 interface PageProps {
   searchParams: Promise<{
@@ -27,9 +27,9 @@ export const revalidate = 3600; // Hourly revalidation since countries catalog c
 
 export default async function CountriesPage({ searchParams }: PageProps) {
   const params = await searchParams;
-  const search = params.search || '';
-  const sortBy = params.sortBy === 'name' ? 'name' : 'developerCount';
-  const sortOrder = params.sortOrder === 'asc' ? 'asc' : 'desc';
+  const search = params.search || "";
+  const sortBy = params.sortBy === "name" ? "name" : "developerCount";
+  const sortOrder = params.sortOrder === "asc" ? "asc" : "desc";
 
   // Load countries catalog
   let list = getCountries();
@@ -40,34 +40,43 @@ export default async function CountriesPage({ searchParams }: PageProps) {
     list = list.filter(
       (c) =>
         c.country.toLowerCase().includes(query) ||
-        c.geoName.toLowerCase().includes(query)
+        c.geoName.toLowerCase().includes(query),
     );
   }
 
   // Sort list
   list.sort((a, b) => {
-    if (sortBy === 'name') {
+    if (sortBy === "name") {
       const nameA = a.geoName.toLowerCase();
       const nameB = b.geoName.toLowerCase();
-      if (nameA < nameB) return sortOrder === 'asc' ? -1 : 1;
-      if (nameA > nameB) return sortOrder === 'asc' ? 1 : -1;
+      if (nameA < nameB) return sortOrder === "asc" ? -1 : 1;
+      if (nameA > nameB) return sortOrder === "asc" ? 1 : -1;
       return 0;
     } else {
       const countA = a.developerCount;
       const fontB = b.developerCount;
-      return sortOrder === 'asc' ? countA - fontB : fontB - countA;
+      return sortOrder === "asc" ? countA - fontB : fontB - countA;
     }
   });
+
+  // Always show Myanmar first, ignoring any sort
+  const myanmarIndex = list.findIndex(
+    (c) => c.country.toLowerCase() === "myanmar",
+  );
+  if (myanmarIndex > -1) {
+    const [myanmar] = list.splice(myanmarIndex, 1);
+    list.unshift(myanmar);
+  }
 
   // Helper to build URL with updated params
   const createQueryString = (update: Record<string, string | undefined>) => {
     const current = new URLSearchParams();
-    if (search) current.set('search', search);
-    if (sortBy !== 'developerCount') current.set('sortBy', sortBy);
-    if (sortOrder !== 'desc') current.set('sortOrder', sortOrder);
+    if (search) current.set("search", search);
+    if (sortBy !== "developerCount") current.set("sortBy", sortBy);
+    if (sortOrder !== "desc") current.set("sortOrder", sortOrder);
 
     Object.entries(update).forEach(([key, val]) => {
-      if (val === undefined || val === '') {
+      if (val === undefined || val === "") {
         current.delete(key);
       } else {
         current.set(key, val);
@@ -75,17 +84,21 @@ export default async function CountriesPage({ searchParams }: PageProps) {
     });
 
     const query = current.toString();
-    return query ? `?${query}` : '';
+    return query ? `?${query}` : "";
   };
 
   const renderSortLink = (
     column: typeof sortBy,
     label: string,
-    SortIcon: React.ComponentType<{ className?: string }>
+    SortIcon: React.ComponentType<{ className?: string }>,
   ) => {
     const isActive = sortBy === column;
-    const nextOrder = isActive && sortOrder === 'desc' ? 'asc' : 'desc';
-    const Icon = isActive ? (sortOrder === 'asc' ? ArrowUp : ArrowDown) : ArrowUpDown;
+    const nextOrder = isActive && sortOrder === "desc" ? "asc" : "desc";
+    const Icon = isActive
+      ? sortOrder === "asc"
+        ? ArrowUp
+        : ArrowDown
+      : ArrowUpDown;
 
     return (
       <Link
@@ -93,8 +106,8 @@ export default async function CountriesPage({ searchParams }: PageProps) {
         title={label}
         className={`inline-flex items-center gap-1.5 hover:text-primary transition-colors text-xs font-semibold px-2.5 py-1.5 rounded-lg border ${
           isActive
-            ? 'bg-primary/10 text-primary border-primary/20 shadow-[0_0_10px_rgba(16,185,129,0.05)]'
-            : 'border-border bg-card/40 text-muted-foreground'
+            ? "bg-primary/10 text-primary border-primary/20 shadow-[0_0_10px_rgba(16,185,129,0.05)]"
+            : "border-border bg-card/40 text-muted-foreground"
         }`}
       >
         <SortIcon className="h-4 w-4" />
@@ -126,9 +139,16 @@ export default async function CountriesPage({ searchParams }: PageProps) {
       {/* Filtering and sorting dashboard */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         {/* Search Form */}
-        <form method="GET" className="relative flex items-center max-w-sm w-full">
-          {sortBy !== 'developerCount' && <input type="hidden" name="sortBy" value={sortBy} />}
-          {sortOrder !== 'desc' && <input type="hidden" name="sortOrder" value={sortOrder} />}
+        <form
+          method="GET"
+          className="relative flex items-center max-w-sm w-full"
+        >
+          {sortBy !== "developerCount" && (
+            <input type="hidden" name="sortBy" value={sortBy} />
+          )}
+          {sortOrder !== "desc" && (
+            <input type="hidden" name="sortOrder" value={sortOrder} />
+          )}
           <Search className="absolute left-3.5 h-4 w-4 text-muted-foreground" />
           <input
             type="text"
@@ -140,7 +160,9 @@ export default async function CountriesPage({ searchParams }: PageProps) {
         </form>
 
         <div className="flex items-center space-x-2">
-          <span className="text-xs text-muted-foreground font-mono">Sort by:</span>
+          <span className="text-xs text-muted-foreground font-mono">
+            Sort by:
+          </span>
           {renderSortLink("developerCount", "Sort by Developer Count", Users)}
           {renderSortLink("name", "Sort Alphabetically", ArrowDownAZ)}
         </div>
@@ -152,7 +174,7 @@ export default async function CountriesPage({ searchParams }: PageProps) {
           {list.map((c) => (
             <Link
               key={c.country}
-              href={`/countries/${c.country.toLowerCase().replace(/ /g, '_')}`}
+              href={`/countries/${c.country.toLowerCase().replace(/ /g, "_")}`}
               className="group"
             >
               <Card className="h-full border-border/40 bg-card/20 hover:bg-card/45 hover:border-primary/30 transition-all shadow-sm group-hover:-translate-y-1 duration-200">
@@ -178,7 +200,9 @@ export default async function CountriesPage({ searchParams }: PageProps) {
                     </div>
 
                     <div className="flex items-center justify-between pt-2 border-t border-border/10">
-                      <span className="text-xs text-muted-foreground">Top Developers</span>
+                      <span className="text-xs text-muted-foreground">
+                        Top Developers
+                      </span>
                       <div className="flex items-center space-x-1">
                         <span className="text-xs font-mono font-bold bg-secondary px-2.5 py-0.5 rounded text-foreground">
                           {c.developerCount.toLocaleString()}
@@ -194,12 +218,14 @@ export default async function CountriesPage({ searchParams }: PageProps) {
         </div>
       ) : (
         <div className="text-center py-20 border border-dashed border-border/40 rounded-2xl">
-          <p className="text-muted-foreground font-medium">No countries found matching your search.</p>
+          <p className="text-muted-foreground font-medium">
+            No countries found matching your search.
+          </p>
           <Link
             href="/countries"
             className={buttonVariants({
-              variant: 'link',
-              className: 'text-primary mt-2',
+              variant: "link",
+              className: "text-primary mt-2",
             })}
           >
             Reset Search

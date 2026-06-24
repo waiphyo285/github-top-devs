@@ -1,6 +1,6 @@
-import React from 'react';
-import Link from 'next/link';
-import { Heart } from 'lucide-react';
+import React from "react";
+import Link from "next/link";
+import { Heart } from "lucide-react";
 
 export const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
@@ -17,24 +17,39 @@ export const Footer: React.FC = () => {
               </span>
             </div>
             <p className="text-sm text-muted-foreground max-w-xs">
-              Explore and track the world&apos;s top GitHub developers, ranked by followers, contributions, and global score.
+              Explore and track the world&apos;s top GitHub developers, ranked
+              by followers, contributions, and global score.
             </p>
           </div>
 
           {/* Quick links */}
           <div className="flex flex-col space-y-3">
-            <h4 className="text-sm font-semibold text-foreground uppercase tracking-wider">Navigation</h4>
+            <h4 className="text-sm font-semibold text-foreground uppercase tracking-wider">
+              Navigation
+            </h4>
             <div className="grid grid-cols-2 gap-2 text-sm">
-              <Link href="/developers" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link
+                href="/developers"
+                className="text-muted-foreground hover:text-primary transition-colors"
+              >
                 Top Developers
               </Link>
-              <Link href="/countries" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link
+                href="/countries"
+                className="text-muted-foreground hover:text-primary transition-colors"
+              >
                 Countries Grid
               </Link>
-              <Link href="/search" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link
+                href="/search"
+                className="text-muted-foreground hover:text-primary transition-colors"
+              >
                 Fuzzy Search
               </Link>
-              <Link href="/about" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link
+                href="/about"
+                className="text-muted-foreground hover:text-primary transition-colors"
+              >
                 Methodology
               </Link>
             </div>
@@ -42,9 +57,11 @@ export const Footer: React.FC = () => {
 
           {/* About / Data source */}
           <div className="flex flex-col space-y-3">
-            <h4 className="text-sm font-semibold text-foreground uppercase tracking-wider">Data & Credits</h4>
+            <h4 className="text-sm font-semibold text-foreground uppercase tracking-wider">
+              Data & Credits
+            </h4>
             <p className="text-sm text-muted-foreground">
-              Data dynamically loaded from the open-source{' '}
+              Data dynamically loaded from the open-source{" "}
               <a
                 href="https://github.com/gayanvoice/top-github-users"
                 target="_blank"
@@ -52,7 +69,7 @@ export const Footer: React.FC = () => {
                 className="text-primary hover:underline"
               >
                 top-github-users
-              </a>{' '}
+              </a>{" "}
               repository.
             </p>
           </div>

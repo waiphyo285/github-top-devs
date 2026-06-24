@@ -1,7 +1,7 @@
-import React from 'react';
-import Link from 'next/link';
-import { getPaginatedDevelopers, getCountries } from '@/lib/data';
-import { Avatar } from '@/components/ui/avatar';
+import React from "react";
+import Link from "next/link";
+import { getPaginatedDevelopers, getCountries } from "@/lib/data";
+import { Avatar } from "@/components/ui/avatar";
 import {
   Search,
   ArrowUpDown,
@@ -12,10 +12,10 @@ import {
   Users,
   MapPin,
   Building,
-} from 'lucide-react';
-import { Button, buttonVariants } from '@/components/ui/button';
-import { Card, CardContent } from '@/components/ui/card';
-import { Combobox } from '@/components/ui/combobox';
+} from "lucide-react";
+import { Button, buttonVariants } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { Combobox } from "@/components/ui/combobox";
 
 interface PageProps {
   searchParams: Promise<{
@@ -31,22 +31,31 @@ export const revalidate = 0; // Dynamic page
 
 export default async function DevelopersPage({ searchParams }: PageProps) {
   const params = await searchParams;
-  const page = Math.max(1, parseInt(params.page || '1', 10));
-  const search = params.search || '';
-  const country = params.country || '';
-  
+  const page = Math.max(1, parseInt(params.page || "1", 10));
+  const search = params.search || "";
+  const country = params.country || "";
+
   // Sort parsing
-  const validSortBy = ['globalRank', 'followers', 'score', 'publicContributions'];
-  const sortBy = validSortBy.includes(params.sortBy || '')
-    ? (params.sortBy as 'globalRank' | 'followers' | 'score' | 'publicContributions')
-    : 'globalRank';
-  
-  const sortOrder = params.sortOrder === 'desc' ? 'desc' : 'asc';
+  const validSortBy = [
+    "globalRank",
+    "followers",
+    "score",
+    "publicContributions",
+  ];
+  const sortBy = validSortBy.includes(params.sortBy || "")
+    ? (params.sortBy as
+        | "globalRank"
+        | "followers"
+        | "score"
+        | "publicContributions")
+    : "globalRank";
+
+  const sortOrder = params.sortOrder === "desc" ? "desc" : "asc";
 
   // Load countries list for the dropdown filter
   const countries = getCountries();
   const comboboxOptions = [
-    { value: '', label: 'All Countries', searchLabel: 'All Countries' },
+    { value: "", label: "All Countries", searchLabel: "All Countries" },
     ...countries.map((c) => ({
       value: c.country,
       label: `${c.geoName} (${c.developerCount.toLocaleString()} devs)`,
@@ -55,7 +64,11 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
   ];
 
   // Load paginated list
-  const { data: devs, total, totalPages } = getPaginatedDevelopers({
+  const {
+    data: devs,
+    total,
+    totalPages,
+  } = getPaginatedDevelopers({
     page,
     pageSize: 50,
     sortBy,
@@ -65,16 +78,18 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
   });
 
   // Helper to build URL with updated params
-  const createQueryString = (update: Record<string, string | number | undefined>) => {
+  const createQueryString = (
+    update: Record<string, string | number | undefined>,
+  ) => {
     const current = new URLSearchParams();
-    if (page > 1) current.set('page', page.toString());
-    if (search) current.set('search', search);
-    if (country) current.set('country', country);
-    if (sortBy !== 'globalRank') current.set('sortBy', sortBy);
-    if (sortOrder !== 'asc') current.set('sortOrder', sortOrder);
+    if (page > 1) current.set("page", page.toString());
+    if (search) current.set("search", search);
+    if (country) current.set("country", country);
+    if (sortBy !== "globalRank") current.set("sortBy", sortBy);
+    if (sortOrder !== "asc") current.set("sortOrder", sortOrder);
 
     Object.entries(update).forEach(([key, val]) => {
-      if (val === undefined || val === '') {
+      if (val === undefined || val === "") {
         current.delete(key);
       } else {
         current.set(key, val.toString());
@@ -82,20 +97,24 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
     });
 
     const query = current.toString();
-    return query ? `?${query}` : '';
+    return query ? `?${query}` : "";
   };
 
   // Helper to render sort icon or toggle sorting links
   const renderSortLink = (column: typeof sortBy, label: string) => {
     const isActive = sortBy === column;
-    const nextOrder = isActive && sortOrder === 'asc' ? 'desc' : 'asc';
-    const Icon = isActive ? (sortOrder === 'asc' ? ArrowUp : ArrowDown) : ArrowUpDown;
+    const nextOrder = isActive && sortOrder === "asc" ? "desc" : "asc";
+    const Icon = isActive
+      ? sortOrder === "asc"
+        ? ArrowUp
+        : ArrowDown
+      : ArrowUpDown;
 
     return (
       <Link
         href={`/developers${createQueryString({ sortBy: column, sortOrder: nextOrder, page: 1 })}`}
         className={`inline-flex items-center gap-1 hover:text-primary transition-colors py-2 ${
-          isActive ? 'text-primary font-bold' : 'text-muted-foreground'
+          isActive ? "text-primary font-bold" : "text-muted-foreground"
         }`}
       >
         <span>{label}</span>
@@ -113,7 +132,8 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
             Global Leaderboard
           </h1>
           <p className="text-sm text-muted-foreground mt-1">
-            Displaying {Math.min(total, 50)} of {total.toLocaleString()} developers worldwide.
+            Displaying {Math.min(total, 50)} of {total.toLocaleString()}{" "}
+            developers worldwide.
           </p>
         </div>
 
@@ -129,8 +149,12 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
         <CardContent className="p-4">
           <form method="GET" className="grid grid-cols-1 md:grid-cols-12 gap-4">
             {/* Preserve sorting states */}
-            {sortBy !== 'globalRank' && <input type="hidden" name="sortBy" value={sortBy} />}
-            {sortOrder !== 'asc' && <input type="hidden" name="sortOrder" value={sortOrder} />}
+            {sortBy !== "globalRank" && (
+              <input type="hidden" name="sortBy" value={sortBy} />
+            )}
+            {sortOrder !== "asc" && (
+              <input type="hidden" name="sortOrder" value={sortOrder} />
+            )}
 
             {/* Search Input */}
             <div className="relative md:col-span-6 flex items-center">
@@ -157,16 +181,20 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
 
             {/* Filter buttons */}
             <div className="md:col-span-2 flex gap-2">
-              <Button type="submit" className="flex-1 h-10 text-xs bg-primary text-primary-foreground hover:bg-primary/90 font-bold rounded-lg shadow-sm">
+              <Button
+                type="submit"
+                className="flex-1 h-10 text-xs bg-primary text-primary-foreground hover:bg-primary/90 font-bold rounded-lg shadow-sm"
+              >
                 Apply Filters
               </Button>
               {(search || country) && (
                 <Link
                   href="/developers"
                   className={buttonVariants({
-                    variant: 'outline',
-                    size: 'default',
-                    className: 'h-10 border-border hover:bg-secondary text-xs flex items-center justify-center px-3',
+                    variant: "outline",
+                    size: "default",
+                    className:
+                      "h-10 border-border hover:bg-secondary text-xs flex items-center justify-center px-3",
                   })}
                 >
                   Reset
@@ -206,7 +234,9 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                 >
                   {/* Rank */}
                   <td className="py-4 px-6 font-mono font-bold text-muted-foreground/80">
-                    <span className="text-foreground">#{dev.globalRank || dev.countryRank}</span>
+                    <span className="text-foreground">
+                      #{dev.globalRank || dev.countryRank}
+                    </span>
                   </td>
 
                   {/* Profile info */}
@@ -294,8 +324,12 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
               ))
             ) : (
               <tr>
-                <td colSpan={7} className="py-12 text-center text-muted-foreground font-medium">
-                  No developers found matching the filters. Try adjusting your search query.
+                <td
+                  colSpan={7}
+                  className="py-12 text-center text-muted-foreground font-medium"
+                >
+                  No developers found matching the filters. Try adjusting your
+                  search query.
                 </td>
               </tr>
             )}
@@ -307,7 +341,7 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
       {totalPages > 1 && (
         <div className="flex items-center justify-between border-t border-border/20 pt-6">
           <div className="text-sm text-muted-foreground font-mono">
-            Page <span className="text-foreground font-bold">{page}</span> of{' '}
+            Page <span className="text-foreground font-bold">{page}</span> of{" "}
             <span className="text-foreground font-bold">{totalPages}</span>
           </div>
 
@@ -316,8 +350,9 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
               <Link
                 href={`/developers${createQueryString({ page: page - 1 })}`}
                 className={buttonVariants({
-                  variant: 'outline',
-                  className: 'h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm',
+                  variant: "outline",
+                  className:
+                    "h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm",
                 })}
               >
                 <ChevronLeft className="h-4 w-4" />
@@ -345,9 +380,9 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                 } else {
                   p = page - 2 + i;
                 }
-                
+
                 if (p < 1 || p > totalPages) return null;
- 
+
                 const isCurrent = page === p;
                 return isCurrent ? (
                   <Button
@@ -362,8 +397,9 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                     key={p}
                     href={`/developers${createQueryString({ page: p })}`}
                     className={buttonVariants({
-                      variant: 'outline',
-                      className: 'h-9 w-9 p-0 font-mono border-border hover:bg-secondary flex items-center justify-center text-sm',
+                      variant: "outline",
+                      className:
+                        "h-9 w-9 p-0 font-mono border-border hover:bg-secondary flex items-center justify-center text-sm",
                     })}
                   >
                     {p}
@@ -376,8 +412,9 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
               <Link
                 href={`/developers${createQueryString({ page: page + 1 })}`}
                 className={buttonVariants({
-                  variant: 'outline',
-                  className: 'h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm',
+                  variant: "outline",
+                  className:
+                    "h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm",
                 })}
               >
                 <span>Next</span>

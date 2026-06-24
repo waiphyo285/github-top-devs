@@ -1,21 +1,21 @@
-'use client';
+"use client";
 
-import React, { useState } from 'react';
-import Link from 'next/link';
-import { usePathname } from 'next/navigation';
-import { Menu, X, Users, Globe, Search, Info } from 'lucide-react';
-import { GithubIcon as Github } from '@/components/ui/github-icon';
-import { buttonVariants } from '@/components/ui/button';
+import React, { useState } from "react";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { Menu, X, Users, Globe, Search, Info } from "lucide-react";
+import { GithubIcon as Github } from "@/components/ui/github-icon";
+import { buttonVariants } from "@/components/ui/button";
 
 export const Header: React.FC = () => {
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navigation = [
-    { name: 'Developers', href: '/developers', icon: Users },
-    { name: 'Countries', href: '/countries', icon: Globe },
-    { name: 'Search', href: '/search', icon: Search },
-    { name: 'About', href: '/about', icon: Info },
+    { name: "Developers", href: "/developers", icon: Users },
+    { name: "Countries", href: "/countries", icon: Globe },
+    { name: "Search", href: "/search", icon: Search },
+    { name: "About", href: "/about", icon: Info },
   ];
 
   const isActive = (path: string) => pathname === path;
@@ -44,8 +44,8 @@ export const Header: React.FC = () => {
                   href={item.href}
                   className={`flex items-center space-x-2 rounded-md px-3 py-2 text-sm font-medium transition-colors ${
                     active
-                      ? 'bg-secondary text-primary'
-                      : 'text-muted-foreground hover:bg-secondary/50 hover:text-foreground'
+                      ? "bg-secondary text-primary"
+                      : "text-muted-foreground hover:bg-secondary/50 hover:text-foreground"
                   }`}
                 >
                   <Icon className="h-4 w-4" />
@@ -62,9 +62,10 @@ export const Header: React.FC = () => {
               target="_blank"
               rel="noreferrer"
               className={buttonVariants({
-                variant: 'outline',
-                size: 'sm',
-                className: 'border-primary/20 hover:bg-primary/5 flex items-center space-x-2',
+                variant: "outline",
+                size: "sm",
+                className:
+                  "border-primary/20 hover:bg-primary/5 flex items-center space-x-2",
               })}
             >
               <Github className="h-4 w-4" />
@@ -79,7 +80,11 @@ export const Header: React.FC = () => {
               className="inline-flex items-center justify-center rounded-md p-2 text-muted-foreground hover:bg-secondary hover:text-foreground focus:outline-none"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             >
-              {mobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+              {mobileMenuOpen ? (
+                <X className="h-6 w-6" />
+              ) : (
+                <Menu className="h-6 w-6" />
+              )}
             </button>
           </div>
         </div>
@@ -98,8 +103,8 @@ export const Header: React.FC = () => {
                 onClick={() => setMobileMenuOpen(false)}
                 className={`flex items-center space-x-3 rounded-md px-3 py-2.5 text-base font-medium transition-colors ${
                   active
-                    ? 'bg-secondary text-primary'
-                    : 'text-muted-foreground hover:bg-secondary/50 hover:text-foreground'
+                    ? "bg-secondary text-primary"
+                    : "text-muted-foreground hover:bg-secondary/50 hover:text-foreground"
                 }`}
               >
                 <Icon className="h-5 w-5" />

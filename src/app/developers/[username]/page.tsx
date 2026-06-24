@@ -1,8 +1,8 @@
-import React from 'react';
-import Link from 'next/link';
-import { notFound } from 'next/navigation';
-import { getDeveloperByUsername, getCountries } from '@/lib/data';
-import { Avatar } from '@/components/ui/avatar';
+import React from "react";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { getDeveloperByUsername, getCountries } from "@/lib/data";
+import { Avatar } from "@/components/ui/avatar";
 import {
   Building,
   MapPin,
@@ -14,11 +14,11 @@ import {
   Zap,
   Star,
   Activity,
-} from 'lucide-react';
-import { GithubIcon as Github } from '@/components/ui/github-icon';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { buttonVariants } from '@/components/ui/button';
-import { FlagImage } from '@/components/ui/flag-image';
+} from "lucide-react";
+import { GithubIcon as Github } from "@/components/ui/github-icon";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { buttonVariants } from "@/components/ui/button";
+import { FlagImage } from "@/components/ui/flag-image";
 
 interface ProfilePageProps {
   params: Promise<{
@@ -28,7 +28,9 @@ interface ProfilePageProps {
 
 export const revalidate = 0; // Dynamic profile page
 
-export default async function DeveloperProfilePage({ params }: ProfilePageProps) {
+export default async function DeveloperProfilePage({
+  params,
+}: ProfilePageProps) {
   const routeParams = await params;
   const username = routeParams.username;
 
@@ -43,19 +45,22 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
   // Look up country flag
   const countries = getCountries();
   const countryMeta = countries.find(
-    (c) => c.country.toLowerCase() === dev.country.toLowerCase()
+    (c) => c.country.toLowerCase() === dev.country.toLowerCase(),
   );
 
   // Calculate percentages/stats for visual interest
   // Assume a default population scale context (just for visual dashboard polish)
   const totalInCountry = countryMeta ? countryMeta.developerCount : 1000;
-  const countryPercentage = ((dev.countryRank / totalInCountry) * 100).toFixed(2);
-  
+  const countryPercentage = ((dev.countryRank / totalInCountry) * 100).toFixed(
+    2,
+  );
+
   // Custom score calculations for visual bars
   const totalContributions = dev.publicContributions + dev.privateContributions;
-  const contributionRatio = totalContributions > 0 
-    ? Math.round((dev.publicContributions / totalContributions) * 100) 
-    : 100;
+  const contributionRatio =
+    totalContributions > 0
+      ? Math.round((dev.publicContributions / totalContributions) * 100)
+      : 100;
 
   return (
     <div className="space-y-8 pb-12 max-w-4xl mx-auto">
@@ -64,9 +69,10 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
         <Link
           href="/developers"
           className={buttonVariants({
-            variant: 'ghost',
-            size: 'sm',
-            className: '-ml-3 text-muted-foreground hover:text-foreground flex items-center gap-1 w-fit',
+            variant: "ghost",
+            size: "sm",
+            className:
+              "-ml-3 text-muted-foreground hover:text-foreground flex items-center gap-1 w-fit",
           })}
         >
           <ArrowLeft className="h-4 w-4" />
@@ -78,9 +84,8 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
       <div className="relative overflow-hidden rounded-3xl border border-border/40 bg-card/25 backdrop-blur-md p-6 sm:p-10 shadow-[0_0_50px_rgba(16,185,129,0.03)]">
         {/* Glow accent */}
         <div className="absolute top-0 right-0 w-80 h-80 bg-primary/10 rounded-full blur-[90px] pointer-events-none" />
-        
+
         <div className="relative z-10 flex flex-col md:flex-row gap-8 items-center md:items-start text-center md:text-left">
-          
           {/* Large Avatar */}
           <div className="relative h-32 w-32 sm:h-40 sm:w-40 overflow-hidden rounded-full border-2 border-primary/30 p-1.5 bg-background shadow-[0_0_25px_rgba(16,185,129,0.15)] shrink-0 group">
             <div className="relative h-full w-full overflow-hidden rounded-full">
@@ -102,7 +107,7 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
                 <h1 className="text-3xl font-extrabold text-foreground tracking-tight">
                   {dev.name || dev.login}
                 </h1>
-                
+
                 {/* Score badge */}
                 <div className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-xs font-semibold bg-primary/10 text-primary border border-primary/20 shadow-[0_0_15px_rgba(16,185,129,0.05)]">
                   <Sparkles className="h-3 w-3" />
@@ -130,7 +135,7 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
                 </span>
               )}
               <Link
-                href={`/countries/${dev.country.toLowerCase().replace(/ /g, '_')}`}
+                href={`/countries/${dev.country.toLowerCase().replace(/ /g, "_")}`}
                 className="flex items-center gap-1.5 px-3 py-1 bg-secondary/50 rounded-lg border border-border/40 hover:border-primary/30 hover:text-primary transition-all group"
               >
                 {countryMeta && (
@@ -153,8 +158,9 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
                 target="_blank"
                 rel="noreferrer"
                 className={buttonVariants({
-                  size: 'sm',
-                  className: 'bg-primary text-primary-foreground hover:bg-primary/90 font-bold shadow-md shadow-primary/10 flex items-center space-x-2',
+                  size: "sm",
+                  className:
+                    "bg-primary text-primary-foreground hover:bg-primary/90 font-bold shadow-md shadow-primary/10 flex items-center space-x-2",
                 })}
               >
                 <Github className="h-4 w-4" />
@@ -166,9 +172,9 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
                 target="_blank"
                 rel="noreferrer"
                 className={buttonVariants({
-                  variant: 'outline',
-                  size: 'sm',
-                  className: 'border-border hover:bg-secondary',
+                  variant: "outline",
+                  size: "sm",
+                  className: "border-border hover:bg-secondary",
                 })}
               >
                 View Repositories
@@ -180,7 +186,6 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
 
       {/* Stats Grids */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        
         {/* Stat 1: Followers */}
         <Card className="border-border/40 bg-card/30 backdrop-blur-sm">
           <CardContent className="p-6 space-y-4">
@@ -215,7 +220,10 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
                 {totalContributions.toLocaleString()}
               </div>
               <p className="text-xs text-muted-foreground mt-1.5 flex items-center gap-1.5">
-                <span>Total contributions ({dev.publicContributions.toLocaleString()} public)</span>
+                <span>
+                  Total contributions (
+                  {dev.publicContributions.toLocaleString()} public)
+                </span>
               </p>
             </div>
           </CardContent>
@@ -240,12 +248,10 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
             </div>
           </CardContent>
         </Card>
-
       </div>
 
       {/* Standings Dashboard */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        
         {/* Left: Leaderboard rankings info */}
         <Card className="border-border/40 bg-card/20">
           <CardHeader className="pb-3">
@@ -258,7 +264,9 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
             {/* Global Standing */}
             <div className="flex items-center justify-between p-3.5 bg-secondary/30 rounded-xl border border-border/20">
               <div>
-                <h4 className="text-sm font-semibold text-muted-foreground">Global Rank</h4>
+                <h4 className="text-sm font-semibold text-muted-foreground">
+                  Global Rank
+                </h4>
                 <p className="text-2xl font-bold font-mono text-foreground mt-0.5">
                   #{dev.globalRank?.toLocaleString()}
                 </p>
@@ -302,9 +310,11 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
             <div className="space-y-2">
               <div className="flex items-center justify-between text-xs text-muted-foreground">
                 <span>Public vs Private index:</span>
-                <span className="font-semibold text-foreground font-mono">{contributionRatio}% Public</span>
+                <span className="font-semibold text-foreground font-mono">
+                  {contributionRatio}% Public
+                </span>
               </div>
-              
+
               {/* Simulated Progress Bar */}
               <div className="w-full bg-secondary h-2.5 rounded-full overflow-hidden border border-border/30">
                 <div
@@ -316,20 +326,22 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
 
             <div className="pt-2 text-xs text-muted-foreground leading-relaxed space-y-2">
               <p>
-                💡 **Rank calculation**: The global score index of **{dev.score.toLocaleString()}** places this account at rank **#{dev.globalRank?.toLocaleString()}** globally.
-              </p>
-              <p>
-                Explore more developers in the same country by visiting the dedicated database directory.
+                🏆 <strong>Global Ranking:</strong> With a score index of{" "}
+                <strong>{dev.score.toLocaleString()}</strong>, this developer
+                ranks <strong>#{dev.globalRank?.toLocaleString()}</strong>{" "}
+                worldwide. Explore top developers from the same country and see
+                how they compare in our developer directory.
               </p>
             </div>
 
             <div className="pt-2">
               <Link
-                href={`/countries/${dev.country.toLowerCase().replace(/ /g, '_')}`}
+                href={`/countries/${dev.country.toLowerCase().replace(/ /g, "_")}`}
                 className={buttonVariants({
-                  variant: 'link',
-                  size: 'sm',
-                  className: 'p-0 text-primary hover:underline flex items-center gap-1 font-semibold text-xs w-fit',
+                  variant: "link",
+                  size: "sm",
+                  className:
+                    "p-0 text-primary hover:underline flex items-center gap-1 font-semibold text-xs w-fit",
                 })}
               >
                 <span>Browse {dev.countryName} Leaderboard</span>
@@ -338,7 +350,6 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
             </div>
           </CardContent>
         </Card>
-
       </div>
     </div>
   );

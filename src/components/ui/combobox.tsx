@@ -1,26 +1,26 @@
-"use client"
+"use client";
 
-import * as React from "react"
-import * as PopoverPrimitive from "@radix-ui/react-popover"
-import { CheckIcon, ChevronDownIcon, SearchIcon } from "lucide-react"
+import * as React from "react";
+import * as PopoverPrimitive from "@radix-ui/react-popover";
+import { CheckIcon, ChevronDownIcon, SearchIcon } from "lucide-react";
 
-import { cn } from "@/lib/utils"
+import { cn } from "@/lib/utils";
 
 interface ComboboxOption {
-  value: string
-  label: string
-  searchLabel?: string
+  value: string;
+  label: string;
+  searchLabel?: string;
 }
 
 interface ComboboxProps {
-  options: ComboboxOption[]
-  value?: string
-  defaultValue?: string
-  onChange?: (value: string) => void
-  placeholder?: string
-  searchPlaceholder?: string
-  name?: string
-  className?: string
+  options: ComboboxOption[];
+  value?: string;
+  defaultValue?: string;
+  onChange?: (value: string) => void;
+  placeholder?: string;
+  searchPlaceholder?: string;
+  name?: string;
+  className?: string;
 }
 
 export function Combobox({
@@ -33,52 +33,54 @@ export function Combobox({
   name,
   className,
 }: ComboboxProps) {
-  const [open, setOpen] = React.useState(false)
-  const [localValue, setLocalValue] = React.useState(defaultValue)
-  const [searchQuery, setSearchQuery] = React.useState("")
-  const inputRef = React.useRef<HTMLInputElement>(null)
+  const [open, setOpen] = React.useState(false);
+  const [localValue, setLocalValue] = React.useState(defaultValue);
+  const [searchQuery, setSearchQuery] = React.useState("");
+  const inputRef = React.useRef<HTMLInputElement>(null);
 
-  const selectedValue = value !== undefined ? value : localValue
+  const selectedValue = value !== undefined ? value : localValue;
 
   // Focus search input when opened
   React.useEffect(() => {
     if (open) {
       const timer = setTimeout(() => {
-        inputRef.current?.focus()
-      }, 50)
-      return () => clearTimeout(timer)
+        inputRef.current?.focus();
+      }, 50);
+      return () => clearTimeout(timer);
     }
-  }, [open])
+  }, [open]);
 
   const handleOpenChange = (newOpen: boolean) => {
-    setOpen(newOpen)
+    setOpen(newOpen);
     if (!newOpen) {
-      setSearchQuery("")
+      setSearchQuery("");
     }
-  }
+  };
 
   const selectedOption = React.useMemo(() => {
-    return options.find((opt) => opt.value === selectedValue)
-  }, [options, selectedValue])
+    return options.find((opt) => opt.value === selectedValue);
+  }, [options, selectedValue]);
 
   const filteredOptions = React.useMemo(() => {
-    if (!searchQuery) return options
-    const query = searchQuery.toLowerCase().trim()
+    if (!searchQuery) return options;
+    const query = searchQuery.toLowerCase().trim();
     return options.filter((opt) => {
-      const matchLabel = opt.label.toLowerCase().includes(query)
-      const matchValue = opt.value.toLowerCase().includes(query)
-      const matchSearch = opt.searchLabel ? opt.searchLabel.toLowerCase().includes(query) : false
-      return matchLabel || matchValue || matchSearch
-    })
-  }, [options, searchQuery])
+      const matchLabel = opt.label.toLowerCase().includes(query);
+      const matchValue = opt.value.toLowerCase().includes(query);
+      const matchSearch = opt.searchLabel
+        ? opt.searchLabel.toLowerCase().includes(query)
+        : false;
+      return matchLabel || matchValue || matchSearch;
+    });
+  }, [options, searchQuery]);
 
   const handleSelect = (val: string) => {
     if (value === undefined) {
-      setLocalValue(val)
+      setLocalValue(val);
     }
-    onChange?.(val)
-    setOpen(false)
-  }
+    onChange?.(val);
+    setOpen(false);
+  };
 
   return (
     <PopoverPrimitive.Root open={open} onOpenChange={handleOpenChange}>
@@ -93,7 +95,7 @@ export function Combobox({
           aria-controls="combobox-options"
           className={cn(
             "flex h-10 w-full items-center justify-between whitespace-nowrap rounded-lg border border-border/60 bg-secondary/60 px-3.5 py-2 text-sm text-foreground hover:bg-secondary/80 focus:outline-none focus:ring-1 focus:ring-primary focus:border-primary cursor-pointer transition-colors",
-            className
+            className,
           )}
         >
           <span className="truncate">
@@ -125,10 +127,13 @@ export function Combobox({
           </div>
 
           {/* Options list container */}
-          <div id="combobox-options" className="max-h-60 overflow-y-auto p-1 space-y-0.5">
+          <div
+            id="combobox-options"
+            className="max-h-60 overflow-y-auto p-1 space-y-0.5"
+          >
             {filteredOptions.length > 0 ? (
               filteredOptions.map((opt) => {
-                const isSelected = opt.value === selectedValue
+                const isSelected = opt.value === selectedValue;
                 return (
                   <button
                     key={opt.value}
@@ -136,7 +141,7 @@ export function Combobox({
                     onClick={() => handleSelect(opt.value)}
                     className={cn(
                       "relative flex w-full cursor-pointer select-none items-center rounded-md py-1.5 pl-3.5 pr-8 text-sm text-left outline-none hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground transition-colors",
-                      isSelected && "text-primary font-medium"
+                      isSelected && "text-primary font-medium",
                     )}
                   >
                     <span className="truncate">{opt.label}</span>
@@ -146,7 +151,7 @@ export function Combobox({
                       </span>
                     )}
                   </button>
-                )
+                );
               })
             ) : (
               <div className="py-6 text-center text-xs text-muted-foreground">
@@ -157,5 +162,5 @@ export function Combobox({
         </PopoverPrimitive.Content>
       </PopoverPrimitive.Portal>
     </PopoverPrimitive.Root>
-  )
+  );
 }

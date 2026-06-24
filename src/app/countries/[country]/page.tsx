@@ -1,8 +1,8 @@
-import React from 'react';
-import Link from 'next/link';
-import { notFound } from 'next/navigation';
-import { getCountries, getPaginatedDevelopers } from '@/lib/data';
-import { Avatar } from '@/components/ui/avatar';
+import React from "react";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { getCountries, getPaginatedDevelopers } from "@/lib/data";
+import { Avatar } from "@/components/ui/avatar";
 import {
   Search,
   ArrowUpDown,
@@ -14,10 +14,10 @@ import {
   Building,
   MapPin,
   ArrowLeft,
-} from 'lucide-react';
-import { Card, CardContent } from '@/components/ui/card';
-import { Button, buttonVariants } from '@/components/ui/button';
-import { FlagImage } from '@/components/ui/flag-image';
+} from "lucide-react";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button, buttonVariants } from "@/components/ui/button";
+import { FlagImage } from "@/components/ui/flag-image";
 
 interface CountryPageProps {
   params: Promise<{
@@ -33,18 +33,22 @@ interface CountryPageProps {
 
 export const revalidate = 0; // Dynamic page
 
-export default async function CountryDetailPage({ params, searchParams }: CountryPageProps) {
+export default async function CountryDetailPage({
+  params,
+  searchParams,
+}: CountryPageProps) {
   const routeParams = await params;
   const urlCountry = routeParams.country;
-  
+
   const searchParamsVal = await searchParams;
-  const page = Math.max(1, parseInt(searchParamsVal.page || '1', 10));
-  const search = searchParamsVal.search || '';
+  const page = Math.max(1, parseInt(searchParamsVal.page || "1", 10));
+  const search = searchParamsVal.search || "";
 
   // Look up country metadata
   const countries = getCountries();
   const countryData = countries.find(
-    (c) => c.country.toLowerCase().replace(/ /g, '_') === urlCountry.toLowerCase()
+    (c) =>
+      c.country.toLowerCase().replace(/ /g, "_") === urlCountry.toLowerCase(),
   );
 
   // If not found, trigger 404
@@ -53,15 +57,30 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
   }
 
   // Sort parsing (default is countryRank for country ranking tables)
-  const validSortBy = ['countryRank', 'globalRank', 'followers', 'score', 'publicContributions'];
-  const sortBy = validSortBy.includes(searchParamsVal.sortBy || '')
-    ? (searchParamsVal.sortBy as 'countryRank' | 'globalRank' | 'followers' | 'score' | 'publicContributions')
-    : 'countryRank';
-  
-  const sortOrder = searchParamsVal.sortOrder === 'desc' ? 'desc' : 'asc';
+  const validSortBy = [
+    "countryRank",
+    "globalRank",
+    "followers",
+    "score",
+    "publicContributions",
+  ];
+  const sortBy = validSortBy.includes(searchParamsVal.sortBy || "")
+    ? (searchParamsVal.sortBy as
+        | "countryRank"
+        | "globalRank"
+        | "followers"
+        | "score"
+        | "publicContributions")
+    : "countryRank";
+
+  const sortOrder = searchParamsVal.sortOrder === "desc" ? "desc" : "asc";
 
   // Load paginated list of country developers
-  const { data: devs, total, totalPages } = getPaginatedDevelopers({
+  const {
+    data: devs,
+    total,
+    totalPages,
+  } = getPaginatedDevelopers({
     page,
     pageSize: 50,
     sortBy,
@@ -71,15 +90,17 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
   });
 
   // Helper to build URL with updated params
-  const createQueryString = (update: Record<string, string | number | undefined>) => {
+  const createQueryString = (
+    update: Record<string, string | number | undefined>,
+  ) => {
     const current = new URLSearchParams();
-    if (page > 1) current.set('page', page.toString());
-    if (search) current.set('search', search);
-    if (sortBy !== 'countryRank') current.set('sortBy', sortBy);
-    if (sortOrder !== 'asc') current.set('sortOrder', sortOrder);
+    if (page > 1) current.set("page", page.toString());
+    if (search) current.set("search", search);
+    if (sortBy !== "countryRank") current.set("sortBy", sortBy);
+    if (sortOrder !== "asc") current.set("sortOrder", sortOrder);
 
     Object.entries(update).forEach(([key, val]) => {
-      if (val === undefined || val === '') {
+      if (val === undefined || val === "") {
         current.delete(key);
       } else {
         current.set(key, val.toString());
@@ -87,19 +108,23 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
     });
 
     const query = current.toString();
-    return query ? `?${query}` : '';
+    return query ? `?${query}` : "";
   };
 
   const renderSortLink = (column: typeof sortBy, label: string) => {
     const isActive = sortBy === column;
-    const nextOrder = isActive && sortOrder === 'asc' ? 'desc' : 'asc';
-    const Icon = isActive ? (sortOrder === 'asc' ? ArrowUp : ArrowDown) : ArrowUpDown;
+    const nextOrder = isActive && sortOrder === "asc" ? "desc" : "asc";
+    const Icon = isActive
+      ? sortOrder === "asc"
+        ? ArrowUp
+        : ArrowDown
+      : ArrowUpDown;
 
     return (
       <Link
         href={`/countries/${urlCountry}${createQueryString({ sortBy: column, sortOrder: nextOrder, page: 1 })}`}
         className={`inline-flex items-center gap-1 hover:text-primary transition-colors py-2 ${
-          isActive ? 'text-primary font-bold' : 'text-muted-foreground'
+          isActive ? "text-primary font-bold" : "text-muted-foreground"
         }`}
       >
         <span>{label}</span>
@@ -115,9 +140,10 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
         <Link
           href="/countries"
           className={buttonVariants({
-            variant: 'ghost',
-            size: 'sm',
-            className: '-ml-3 text-muted-foreground hover:text-foreground flex items-center gap-1 w-fit',
+            variant: "ghost",
+            size: "sm",
+            className:
+              "-ml-3 text-muted-foreground hover:text-foreground flex items-center gap-1 w-fit",
           })}
         >
           <ArrowLeft className="h-4 w-4" />
@@ -144,7 +170,8 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
               </span>
             </h1>
             <p className="text-sm text-muted-foreground mt-1">
-              Top GitHub developers in {countryData.geoName}. Listing {Math.min(total, 50)} of {total.toLocaleString()} profiles.
+              Top GitHub developers in {countryData.geoName}. Listing{" "}
+              {Math.min(total, 50)} of {total.toLocaleString()} profiles.
             </p>
           </div>
         </div>
@@ -160,8 +187,12 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
       <Card className="border-border/40 bg-card/25 backdrop-blur-sm">
         <CardContent className="p-4">
           <form method="GET" className="flex flex-col sm:flex-row gap-4">
-            {sortBy !== 'countryRank' && <input type="hidden" name="sortBy" value={sortBy} />}
-            {sortOrder !== 'asc' && <input type="hidden" name="sortOrder" value={sortOrder} />}
+            {sortBy !== "countryRank" && (
+              <input type="hidden" name="sortBy" value={sortBy} />
+            )}
+            {sortOrder !== "asc" && (
+              <input type="hidden" name="sortOrder" value={sortOrder} />
+            )}
 
             <div className="relative flex-1 flex items-center">
               <Search className="absolute left-3.5 h-4 w-4 text-muted-foreground" />
@@ -174,15 +205,19 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
               />
             </div>
             <div className="flex gap-2">
-              <Button type="submit" className="h-10 px-6 bg-primary text-primary-foreground hover:bg-primary/90 font-bold rounded-lg shadow-sm text-xs">
+              <Button
+                type="submit"
+                className="h-10 px-6 bg-primary text-primary-foreground hover:bg-primary/90 font-bold rounded-lg shadow-sm text-xs"
+              >
                 Search Country
               </Button>
               {search && (
                 <Link
                   href={`/countries/${urlCountry}`}
                   className={buttonVariants({
-                    variant: 'outline',
-                    className: 'h-10 border-border hover:bg-secondary text-xs flex items-center justify-center px-3 rounded-lg',
+                    variant: "outline",
+                    className:
+                      "h-10 border-border hover:bg-secondary text-xs flex items-center justify-center px-3 rounded-lg",
                   })}
                 >
                   Reset
@@ -298,7 +333,9 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
                         <span className="truncate">{dev.location}</span>
                       </span>
                     ) : (
-                      <span className="text-xs text-muted-foreground/40 font-mono">—</span>
+                      <span className="text-xs text-muted-foreground/40 font-mono">
+                        —
+                      </span>
                     )}
                   </td>
 
@@ -315,7 +352,10 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
               ))
             ) : (
               <tr>
-                <td colSpan={8} className="py-12 text-center text-muted-foreground font-medium">
+                <td
+                  colSpan={8}
+                  className="py-12 text-center text-muted-foreground font-medium"
+                >
                   No developers found matching the search.
                 </td>
               </tr>
@@ -328,7 +368,7 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
       {totalPages > 1 && (
         <div className="flex items-center justify-between border-t border-border/20 pt-6">
           <div className="text-sm text-muted-foreground font-mono">
-            Page <span className="text-foreground font-bold">{page}</span> of{' '}
+            Page <span className="text-foreground font-bold">{page}</span> of{" "}
             <span className="text-foreground font-bold">{totalPages}</span>
           </div>
 
@@ -337,8 +377,9 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
               <Link
                 href={`/countries/${urlCountry}${createQueryString({ page: page - 1 })}`}
                 className={buttonVariants({
-                  variant: 'outline',
-                  className: 'h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm',
+                  variant: "outline",
+                  className:
+                    "h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm",
                 })}
               >
                 <ChevronLeft className="h-4 w-4" />
@@ -383,8 +424,9 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
                     key={p}
                     href={`/countries/${urlCountry}${createQueryString({ page: p })}`}
                     className={buttonVariants({
-                      variant: 'outline',
-                      className: 'h-9 w-9 p-0 font-mono border-border hover:bg-secondary flex items-center justify-center text-sm',
+                      variant: "outline",
+                      className:
+                        "h-9 w-9 p-0 font-mono border-border hover:bg-secondary flex items-center justify-center text-sm",
                     })}
                   >
                     {p}
@@ -397,8 +439,9 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
               <Link
                 href={`/countries/${urlCountry}${createQueryString({ page: page + 1 })}`}
                 className={buttonVariants({
-                  variant: 'outline',
-                  className: 'h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm',
+                  variant: "outline",
+                  className:
+                    "h-9 border-border hover:bg-secondary flex items-center gap-1 px-3 text-sm",
                 })}
               >
                 <span>Next</span>
