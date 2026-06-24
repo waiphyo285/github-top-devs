@@ -286,7 +286,7 @@ export default async function CountryDetailPage({ params, searchParams }: Countr
                   {/* Global Rank badge */}
                   <td className="py-4 px-6 text-center">
                     <span className="inline-block px-2.5 py-1 text-xs font-mono font-bold bg-secondary rounded border border-border text-foreground">
-                      #{dev.globalRank.toLocaleString()}
+                      #{dev.globalRank?.toLocaleString()}
                     </span>
                   </td>
 

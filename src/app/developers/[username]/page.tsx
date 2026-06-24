@@ -260,7 +260,7 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
               <div>
                 <h4 className="text-sm font-semibold text-muted-foreground">Global Rank</h4>
                 <p className="text-2xl font-bold font-mono text-foreground mt-0.5">
-                  #{dev.globalRank.toLocaleString()}
+                  #{dev.globalRank?.toLocaleString()}
                 </p>
               </div>
               <span className="text-xs font-semibold px-2.5 py-1 bg-secondary text-foreground rounded border border-border">
@@ -316,7 +316,7 @@ export default async function DeveloperProfilePage({ params }: ProfilePageProps)
 
             <div className="pt-2 text-xs text-muted-foreground leading-relaxed space-y-2">
               <p>
-                💡 **Rank calculation**: The global score index of **{dev.score.toLocaleString()}** places this account at rank **#{dev.globalRank.toLocaleString()}** globally.
+                💡 **Rank calculation**: The global score index of **{dev.score.toLocaleString()}** places this account at rank **#{dev.globalRank?.toLocaleString()}** globally.
               </p>
               <p>
                 Explore more developers in the same country by visiting the dedicated database directory.

@@ -82,7 +82,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                 type="text"
                 name="q"
                 defaultValue={query}
-                placeholder="Search username, real name, company, location or country..."
+                placeholder="Search name, username, company, location or country..."
                 required
                 className="w-full bg-transparent border-0 rounded-xl py-4 pl-12 pr-28 text-sm sm:text-base focus:outline-none placeholder:text-muted-foreground/60 text-foreground"
               />
@@ -184,7 +184,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                           Global Rank
                         </span>
                         <span className="text-sm font-bold font-mono text-foreground">
-                          #{dev.globalRank.toLocaleString()}
+                          #{dev.globalRank?.toLocaleString()}
                         </span>
                       </div>
 
@@ -297,18 +297,18 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
             {[
               {
                 title: 'Specific Usernames',
-                desc: 'Type exact handles like "taylorotwell", "yyx990803", or "sindresorhus".',
-                query: 'taylorotwell',
+                desc: 'Type exact handles like "aung aung", "kyaw kyaw", or "waiphyo".',
+                query: 'aung aung',
               },
               {
                 title: 'Company / Organization',
-                desc: 'Search for developers at top organizations like "Vercel", "Google", or "Microsoft".',
-                query: 'vercel',
+                desc: 'Search for developers at organizations like "KBZ Bank", "Wave Money", or "AYA Bank".',
+                query: 'KBZ Bank',
               },
               {
                 title: 'City or Region',
-                desc: 'Discover developers located in cities like "Tokyo", "London", or "San Francisco".',
-                query: 'Tokyo',
+                desc: 'Discover developers located in cities like "Yangon", "Mandalay", or "Naypyidaw".',
+                query: 'Yangon',
               },
             ].map((suggest, index) => (
               <Link

@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Github Top Devs — Top GitHub Developers",
+  title: "Github Top Devs",
   description: "Browse, filter, and search top GitHub developers globally and by country.",
 };
 
