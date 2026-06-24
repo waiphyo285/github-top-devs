@@ -1,0 +1,209 @@
+{
+  "totalDevelopers": 123072,
+  "totalCountries": 138,
+  "totalFollowers": 23655172,
+  "totalContributions": 109358601,
+  "topCountries": [
+    {
+      "country": "sri lanka",
+      "geoName": "Sri Lanka",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png",
+      "developerCount": 994
+    },
+    {
+      "country": "nigeria",
+      "geoName": "Nigeria",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+      "developerCount": 992
+    },
+    {
+      "country": "morocco",
+      "geoName": "Morocco",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+      "developerCount": 991
+    },
+    {
+      "country": "saudi arabia",
+      "geoName": "Saudi Arabia",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+      "developerCount": 990
+    },
+    {
+      "country": "pakistan",
+      "geoName": "Pakistan",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+      "developerCount": 988
+    },
+    {
+      "country": "el salvador",
+      "geoName": "El Salvador",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+      "developerCount": 986
+    },
+    {
+      "country": "belarus",
+      "geoName": "Belarus",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+      "developerCount": 985
+    },
+    {
+      "country": "ghana",
+      "geoName": "Ghana",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ghana_Flag.svg",
+      "developerCount": 984
+    }
+  ],
+  "topDevelopers": [
+    {
+      "login": "gustavoguanabara",
+      "name": "Gustavo Guanabara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8683378?s=72&u=01b06a154f04dadaa4e4131497fa2442e6323cbc&v=4",
+      "location": "Rio de Janeiro, Brazil",
+      "company": "Curso em Vídeo",
+      "followers": 112403,
+      "publicContributions": 4,
+      "privateContributions": 0,
+      "country": "brazil",
+      "countryName": "Brazil",
+      "countryRank": 1,
+      "score": 112407,
+      "globalRank": 1
+    },
+    {
+      "login": "yyx990803",
+      "name": "Evan You",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/499550?s=72&u=dd9a9ba40daf29be7c310f7075e74251609b03f3&v=4",
+      "location": "Singapore",
+      "company": "VoidZero",
+      "followers": 107775,
+      "publicContributions": 148,
+      "privateContributions": 1977,
+      "country": "singapore",
+      "countryName": "Singapore",
+      "countryRank": 1,
+      "score": 109900,
+      "globalRank": 2
+    },
+    {
+      "login": "peng-zhihui",
+      "name": "稚晖",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12994887?s=72&u=6bfec84cb512892557cfed7fd7c52b0b0f41f95b&v=4",
+      "location": "Shanghai",
+      "company": "HUAWEI Research",
+      "followers": 86686,
+      "publicContributions": 4,
+      "privateContributions": 0,
+      "country": "china",
+      "countryName": "China",
+      "countryRank": 1,
+      "score": 86690,
+      "globalRank": 3
+    },
+    {
+      "login": "ruanyf",
+      "name": "Ruan YiFeng",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/905434?s=72&v=4",
+      "location": "Shanghai, China",
+      "company": "",
+      "followers": 86288,
+      "publicContributions": 637,
+      "privateContributions": 0,
+      "country": "china",
+      "countryName": "China",
+      "countryRank": 2,
+      "score": 86925,
+      "globalRank": 4
+    },
+    {
+      "login": "hiteshchoudhary",
+      "name": "Hitesh Choudhary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11613311?s=72&u=eb5b71a918effbaf14260160d8d7dee7caaffe1f&v=4",
+      "location": "India",
+      "company": "",
+      "followers": 57511,
+      "publicContributions": 98,
+      "privateContributions": 2230,
+      "country": "india",
+      "countryName": "India",
+      "countryRank": 1,
+      "score": 59839,
+      "globalRank": 5
+    },
+    {
+      "login": "lucidrains",
+      "name": "Phil Wang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108653?s=72&u=71a8f2f26b707fd35e8c6dc3fdf906b49f131584&v=4",
+      "location": "San Francisco",
+      "company": "",
+      "followers": 55366,
+      "publicContributions": 4917,
+      "privateContributions": 32,
+      "country": "united states",
+      "countryName": "United States of America",
+      "countryRank": 1,
+      "score": 60315,
+      "globalRank": 6
+    },
+    {
+      "login": "IDouble",
+      "name": "Alp ₿📈🚀🌕",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18186995?s=72&u=7730425b69d2116ef76929ddc20e2d99dce291c8&v=4",
+      "location": "Zurich, Switzerland",
+      "company": "NDA",
+      "followers": 51870,
+      "publicContributions": 22,
+      "privateContributions": 0,
+      "country": "switzerland",
+      "countryName": "Switzerland",
+      "countryRank": 1,
+      "score": 51892,
+      "globalRank": 7
+    },
+    {
+      "login": "steipete",
+      "name": "Peter Steinberger",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58493?s=72&u=95a4fccef3d341039661c427695691a664e333ba&v=4",
+      "location": "Vienna & London",
+      "company": "Full-Time Open-Sourcerer",
+      "followers": 49388,
+      "publicContributions": 46535,
+      "privateContributions": 181090,
+      "country": "austria",
+      "countryName": "Austria",
+      "countryRank": 1,
+      "score": 277013,
+      "globalRank": 8
+    },
+    {
+      "login": "getify",
+      "name": "Kyle Simpson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150330?s=72&u=41aa48771028d34bcf025eefe919bf75fbda77d4&v=4",
+      "location": "Austin, TX",
+      "company": "Getify Solutions",
+      "followers": 44749,
+      "publicContributions": 323,
+      "privateContributions": 17,
+      "country": "united states",
+      "countryName": "United States of America",
+      "countryRank": 2,
+      "score": 45089,
+      "globalRank": 9
+    },
+    {
+      "login": "michaelliao",
+      "name": "Crypto Michael",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/470058?s=72&u=dbf6227607a526980eda6d438a9b8126ac04974b&v=4",
+      "location": "Beijing, China",
+      "company": "",
+      "followers": 38513,
+      "publicContributions": 734,
+      "privateContributions": 0,
+      "country": "china",
+      "countryName": "China",
+      "countryRank": 3,
+      "score": 39247,
+      "globalRank": 10
+    }
+  ],
+  "lastUpdated": "2026-06-24T09:59:14.884Z"
+}

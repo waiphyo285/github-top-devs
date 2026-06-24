@@ -1,0 +1,830 @@
+[
+  {
+    "country": "afghanistan",
+    "geoName": "Afghanistan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+    "developerCount": 931
+  },
+  {
+    "country": "albania",
+    "geoName": "Albania",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+    "developerCount": 905
+  },
+  {
+    "country": "algeria",
+    "geoName": "Algeria",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+    "developerCount": 969
+  },
+  {
+    "country": "andorra",
+    "geoName": "Andorra",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+    "developerCount": 470
+  },
+  {
+    "country": "angola",
+    "geoName": "Angola",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+    "developerCount": 963
+  },
+  {
+    "country": "argentina",
+    "geoName": "Argentina",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+    "developerCount": 954
+  },
+  {
+    "country": "armenia",
+    "geoName": "Armenia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+    "developerCount": 954
+  },
+  {
+    "country": "australia",
+    "geoName": "Australia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+    "developerCount": 928
+  },
+  {
+    "country": "austria",
+    "geoName": "Austria",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+    "developerCount": 931
+  },
+  {
+    "country": "azerbaijan",
+    "geoName": "Azerbaijan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+    "developerCount": 977
+  },
+  {
+    "country": "bahrain",
+    "geoName": "Bahrain",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+    "developerCount": 868
+  },
+  {
+    "country": "bangladesh",
+    "geoName": "Bangladesh",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
+    "developerCount": 976
+  },
+  {
+    "country": "belarus",
+    "geoName": "Belarus",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+    "developerCount": 985
+  },
+  {
+    "country": "belgium",
+    "geoName": "Belgium",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+    "developerCount": 936
+  },
+  {
+    "country": "benin",
+    "geoName": "Benin",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+    "developerCount": 877
+  },
+  {
+    "country": "bhutan",
+    "geoName": "Bhutan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+    "developerCount": 694
+  },
+  {
+    "country": "bolivia",
+    "geoName": "Bolivia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg",
+    "developerCount": 967
+  },
+  {
+    "country": "bosnia and herzegovina",
+    "geoName": "Bosnia and Herz.",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+    "developerCount": 35
+  },
+  {
+    "country": "botswana",
+    "geoName": "Botswana",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+    "developerCount": 912
+  },
+  {
+    "country": "brazil",
+    "geoName": "Brazil",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+    "developerCount": 931
+  },
+  {
+    "country": "bulgaria",
+    "geoName": "Bulgaria",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+    "developerCount": 966
+  },
+  {
+    "country": "burkina faso",
+    "geoName": "Burkina Faso",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+    "developerCount": 528
+  },
+  {
+    "country": "burundi",
+    "geoName": "Burundi",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+    "developerCount": 632
+  },
+  {
+    "country": "cambodia",
+    "geoName": "Cambodia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+    "developerCount": 938
+  },
+  {
+    "country": "cameroon",
+    "geoName": "Cameroon",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+    "developerCount": 898
+  },
+  {
+    "country": "canada",
+    "geoName": "Canada",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+    "developerCount": 912
+  },
+  {
+    "country": "chad",
+    "geoName": "Chad",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+    "developerCount": 208
+  },
+  {
+    "country": "chile",
+    "geoName": "Chile",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+    "developerCount": 950
+  },
+  {
+    "country": "china",
+    "geoName": "China",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+    "developerCount": 922
+  },
+  {
+    "country": "hong kong",
+    "geoName": "Hong Kong",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
+    "developerCount": 908
+  },
+  {
+    "country": "taiwan",
+    "geoName": "Taiwan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+    "developerCount": 962
+  },
+  {
+    "country": "colombia",
+    "geoName": "Colombia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+    "developerCount": 970
+  },
+  {
+    "country": "congo",
+    "geoName": "Congo",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+    "developerCount": 728
+  },
+  {
+    "country": "croatia",
+    "geoName": "Croatia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+    "developerCount": 956
+  },
+  {
+    "country": "cuba",
+    "geoName": "Cuba",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/135px-Flag_of_Cuba.svg.png",
+    "developerCount": 916
+  },
+  {
+    "country": "cyprus",
+    "geoName": "Cyprus",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+    "developerCount": 930
+  },
+  {
+    "country": "czechia",
+    "geoName": "Czechia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+    "developerCount": 956
+  },
+  {
+    "country": "denmark",
+    "geoName": "Denmark",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+    "developerCount": 913
+  },
+  {
+    "country": "dominican republic",
+    "geoName": "Dominican Rep.",
+    "flagUrl": "https://en.wikipedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg",
+    "developerCount": 981
+  },
+  {
+    "country": "ecuador",
+    "geoName": "Ecuador",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+    "developerCount": 965
+  },
+  {
+    "country": "egypt",
+    "geoName": "Egypt",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+    "developerCount": 983
+  },
+  {
+    "country": "el salvador",
+    "geoName": "El Salvador",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+    "developerCount": 986
+  },
+  {
+    "country": "estonia",
+    "geoName": "Estonia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+    "developerCount": 894
+  },
+  {
+    "country": "ethiopia",
+    "geoName": "Ethiopia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+    "developerCount": 983
+  },
+  {
+    "country": "finland",
+    "geoName": "Finland",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+    "developerCount": 923
+  },
+  {
+    "country": "france",
+    "geoName": "France",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "developerCount": 910
+  },
+  {
+    "country": "georgia",
+    "geoName": "Georgia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+    "developerCount": 963
+  },
+  {
+    "country": "germany",
+    "geoName": "Germany",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+    "developerCount": 906
+  },
+  {
+    "country": "ghana",
+    "geoName": "Ghana",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ghana_Flag.svg",
+    "developerCount": 984
+  },
+  {
+    "country": "greece",
+    "geoName": "Greece",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+    "developerCount": 948
+  },
+  {
+    "country": "guatemala",
+    "geoName": "Guatemala",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+    "developerCount": 983
+  },
+  {
+    "country": "honduras",
+    "geoName": "Honduras",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+    "developerCount": 937
+  },
+  {
+    "country": "hungary",
+    "geoName": "Hungary",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+    "developerCount": 947
+  },
+  {
+    "country": "iceland",
+    "geoName": "Iceland",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+    "developerCount": 872
+  },
+  {
+    "country": "india",
+    "geoName": "India",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "developerCount": 936
+  },
+  {
+    "country": "indonesia",
+    "geoName": "Indonesia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+    "developerCount": 966
+  },
+  {
+    "country": "iran",
+    "geoName": "Iran",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+    "developerCount": 982
+  },
+  {
+    "country": "iraq",
+    "geoName": "Iraq",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+    "developerCount": 950
+  },
+  {
+    "country": "ireland",
+    "geoName": "Ireland",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+    "developerCount": 964
+  },
+  {
+    "country": "israel",
+    "geoName": "Israel",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+    "developerCount": 929
+  },
+  {
+    "country": "italy",
+    "geoName": "Italy",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "developerCount": 937
+  },
+  {
+    "country": "jamaica",
+    "geoName": "Jamaica",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+    "developerCount": 954
+  },
+  {
+    "country": "japan",
+    "geoName": "Japan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+    "developerCount": 845
+  },
+  {
+    "country": "jordan",
+    "geoName": "Jordan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+    "developerCount": 970
+  },
+  {
+    "country": "kazakhstan",
+    "geoName": "Kazakhstan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+    "developerCount": 968
+  },
+  {
+    "country": "kenya",
+    "geoName": "Kenya",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+    "developerCount": 981
+  },
+  {
+    "country": "kuwait",
+    "geoName": "Kuwait",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+    "developerCount": 849
+  },
+  {
+    "country": "laos",
+    "geoName": "Laos",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+    "developerCount": 643
+  },
+  {
+    "country": "latvia",
+    "geoName": "Latvia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+    "developerCount": 939
+  },
+  {
+    "country": "lithuania",
+    "geoName": "Lithuania",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+    "developerCount": 945
+  },
+  {
+    "country": "luxembourg",
+    "geoName": "Luxembourg",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+    "developerCount": 908
+  },
+  {
+    "country": "madagascar",
+    "geoName": "Madagascar",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+    "developerCount": 960
+  },
+  {
+    "country": "malawi",
+    "geoName": "Malawi",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+    "developerCount": 886
+  },
+  {
+    "country": "malaysia",
+    "geoName": "Malaysia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+    "developerCount": 969
+  },
+  {
+    "country": "maldives",
+    "geoName": "Maldives",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+    "developerCount": 785
+  },
+  {
+    "country": "mali",
+    "geoName": "Mali",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+    "developerCount": 677
+  },
+  {
+    "country": "malta",
+    "geoName": "Malta",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+    "developerCount": 871
+  },
+  {
+    "country": "mauritania",
+    "geoName": "Mauritania",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+    "developerCount": 364
+  },
+  {
+    "country": "mauritius",
+    "geoName": "Mauritius",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+    "developerCount": 894
+  },
+  {
+    "country": "mexico",
+    "geoName": "Mexico",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+    "developerCount": 954
+  },
+  {
+    "country": "moldova",
+    "geoName": "Moldova",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+    "developerCount": 954
+  },
+  {
+    "country": "mongolia",
+    "geoName": "Mongolia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+    "developerCount": 868
+  },
+  {
+    "country": "montenegro",
+    "geoName": "Montenegro",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+    "developerCount": 921
+  },
+  {
+    "country": "morocco",
+    "geoName": "Morocco",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+    "developerCount": 991
+  },
+  {
+    "country": "mozambique ",
+    "geoName": "Mozambique",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+    "developerCount": 975
+  },
+  {
+    "country": "myanmar",
+    "geoName": "Myanmar",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+    "developerCount": 958
+  },
+  {
+    "country": "namibia",
+    "geoName": "Namibia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+    "developerCount": 890
+  },
+  {
+    "country": "nepal",
+    "geoName": "Nepal",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+    "developerCount": 973
+  },
+  {
+    "country": "netherlands",
+    "geoName": "Netherlands",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+    "developerCount": 924
+  },
+  {
+    "country": "new zealand",
+    "geoName": "New Zealand",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+    "developerCount": 963
+  },
+  {
+    "country": "nicaragua",
+    "geoName": "Nicaragua",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+    "developerCount": 970
+  },
+  {
+    "country": "nigeria",
+    "geoName": "Nigeria",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+    "developerCount": 992
+  },
+  {
+    "country": "norway",
+    "geoName": "Norway",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+    "developerCount": 890
+  },
+  {
+    "country": "oman",
+    "geoName": "Oman",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+    "developerCount": 913
+  },
+  {
+    "country": "pakistan",
+    "geoName": "Pakistan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+    "developerCount": 988
+  },
+  {
+    "country": "palestine",
+    "geoName": "Palestine",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+    "developerCount": 983
+  },
+  {
+    "country": "panama",
+    "geoName": "Panama",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+    "developerCount": 831
+  },
+  {
+    "country": "paraguay",
+    "geoName": "Paraguay",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+    "developerCount": 956
+  },
+  {
+    "country": "peru",
+    "geoName": "Peru",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+    "developerCount": 926
+  },
+  {
+    "country": "philippines",
+    "geoName": "Philippines",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+    "developerCount": 962
+  },
+  {
+    "country": "poland",
+    "geoName": "Poland",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+    "developerCount": 935
+  },
+  {
+    "country": "portugal",
+    "geoName": "Portugal",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+    "developerCount": 961
+  },
+  {
+    "country": "qatar",
+    "geoName": "Qatar",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+    "developerCount": 875
+  },
+  {
+    "country": "romania",
+    "geoName": "Romania",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+    "developerCount": 957
+  },
+  {
+    "country": "russia",
+    "geoName": "Russia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "developerCount": 972
+  },
+  {
+    "country": "rwanda",
+    "geoName": "Rwanda",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+    "developerCount": 967
+  },
+  {
+    "country": "san marino",
+    "geoName": "San Marino",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+    "developerCount": 146
+  },
+  {
+    "country": "saudi arabia",
+    "geoName": "Saudi Arabia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+    "developerCount": 990
+  },
+  {
+    "country": "senegal",
+    "geoName": "Senegal",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+    "developerCount": 925
+  },
+  {
+    "country": "serbia",
+    "geoName": "Serbia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+    "developerCount": 977
+  },
+  {
+    "country": "sierra leone",
+    "geoName": "Sierra Leone",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+    "developerCount": 407
+  },
+  {
+    "country": "singapore",
+    "geoName": "Singapore",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+    "developerCount": 868
+  },
+  {
+    "country": "slovakia",
+    "geoName": "Slovakia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+    "developerCount": 943
+  },
+  {
+    "country": "slovenia",
+    "geoName": "Slovenia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+    "developerCount": 944
+  },
+  {
+    "country": "south africa",
+    "geoName": "South Africa",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+    "developerCount": 972
+  },
+  {
+    "country": "south korea",
+    "geoName": "South Korea",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+    "developerCount": 980
+  },
+  {
+    "country": "spain",
+    "geoName": "Spain",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg",
+    "developerCount": 943
+  },
+  {
+    "country": "sri lanka",
+    "geoName": "Sri Lanka",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png",
+    "developerCount": 994
+  },
+  {
+    "country": "sudan",
+    "geoName": "Sudan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+    "developerCount": 909
+  },
+  {
+    "country": "sweden",
+    "geoName": "Sweden",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+    "developerCount": 922
+  },
+  {
+    "country": "switzerland",
+    "geoName": "Switzerland",
+    "flagUrl": "https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg",
+    "developerCount": 827
+  },
+  {
+    "country": "syria",
+    "geoName": "Syria",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+    "developerCount": 976
+  },
+  {
+    "country": "tanzania",
+    "geoName": "Tanzania",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+    "developerCount": 936
+  },
+  {
+    "country": "thailand",
+    "geoName": "Thailand",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+    "developerCount": 953
+  },
+  {
+    "country": "tunisia",
+    "geoName": "Tunisia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+    "developerCount": 978
+  },
+  {
+    "country": "turkey",
+    "geoName": "Turkey",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+    "developerCount": 974
+  },
+  {
+    "country": "uganda",
+    "geoName": "Uganda",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+    "developerCount": 966
+  },
+  {
+    "country": "ukraine",
+    "geoName": "Ukraine",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+    "developerCount": 961
+  },
+  {
+    "country": "united arab emirates",
+    "geoName": "United Arab Emirates",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+    "developerCount": 120
+  },
+  {
+    "country": "united kingdom",
+    "geoName": "United Kingdom",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "developerCount": 951
+  },
+  {
+    "country": "united states",
+    "geoName": "United States of America",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "developerCount": 891
+  },
+  {
+    "country": "uruguay",
+    "geoName": "Uruguay",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+    "developerCount": 958
+  },
+  {
+    "country": "uzbekistan",
+    "geoName": "Uzbekistan",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+    "developerCount": 968
+  },
+  {
+    "country": "venezuela",
+    "geoName": "Venezuela",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+    "developerCount": 981
+  },
+  {
+    "country": "vietnam",
+    "geoName": "Vietnam",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+    "developerCount": 934
+  },
+  {
+    "country": "yemen",
+    "geoName": "Yemen",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+    "developerCount": 929
+  },
+  {
+    "country": "zambia",
+    "geoName": "Zambia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+    "developerCount": 883
+  },
+  {
+    "country": "zimbabwe",
+    "geoName": "Zambia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+    "developerCount": 924
+  }
+]
