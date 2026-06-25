@@ -14,6 +14,28 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { FlagImage } from "@/components/custom/flag-image";
 
+import { Metadata } from "next";
+
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: Promise<{ q?: string }>;
+}): Promise<Metadata> {
+  const params = await searchParams;
+  const query = params.q || "";
+  if (query) {
+    return {
+      title: `Search results for "${query}" | Github Top Devs`,
+      description: `Find top GitHub developers matching "${query}" including name, location, and company details.`,
+    };
+  }
+  return {
+    title: "Global Search | Github Top Devs",
+    description:
+      "Search across the database of 120,000+ top GitHub developers, countries, and companies.",
+  };
+}
+
 interface SearchPageProps {
   searchParams: Promise<{
     q?: string;
@@ -28,7 +50,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
   const query = params.q || "";
   const page = Math.max(1, parseInt(params.page || "1", 10));
 
-  // Fetch paginated results for search query
   let devs: ReturnType<typeof getPaginatedDevelopers>["data"] = [];
   let total = 0;
   let totalPages = 0;
@@ -46,7 +67,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
     totalPages = result.totalPages;
   }
 
-  // Load countries catalog to map flag URLs for results
   const countries = getCountries();
   const getFlagUrl = (countryName: string) => {
     const match = countries.find(
@@ -55,14 +75,12 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
     return match ? match.flagUrl : null;
   };
 
-  // Helper to build URL pagination
   const createPaginationUrl = (newPage: number) => {
     return `/search?q=${encodeURIComponent(query)}&page=${newPage}`;
   };
 
   return (
     <div className="space-y-8 pb-12 max-w-4xl mx-auto">
-      {/* Header & Search Bar */}
       <div className="space-y-4">
         <div>
           <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
@@ -74,7 +92,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           </p>
         </div>
 
-        {/* Big Search Input */}
         <Card className="border-border/40 bg-card/25 backdrop-blur-sm p-2 shadow-lg">
           <CardContent className="p-0">
             <form
@@ -102,7 +119,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         </Card>
       </div>
 
-      {/* Search results */}
       {query ? (
         <div className="space-y-6">
           <div className="flex items-center justify-between border-b border-border/20 pb-3">
@@ -150,7 +166,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                           </span>
                         </div>
 
-                        {/* Badges */}
                         <div className="flex flex-wrap gap-2 text-xs text-muted-foreground">
                           {dev.company && (
                             <span className="inline-flex items-center gap-1 bg-secondary/60 px-2 py-0.5 rounded max-w-[150px] truncate">
@@ -182,7 +197,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                       </div>
                     </div>
 
-                    {/* Stats & Rank */}
                     <div className="flex items-center justify-between sm:justify-end gap-6 border-t border-border/10 sm:border-t-0 pt-3 sm:pt-0 shrink-0">
                       <div className="text-left sm:text-right">
                         <span className="text-[10px] text-muted-foreground block font-bold uppercase tracking-wider">
@@ -230,7 +244,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
             </Card>
           )}
 
-          {/* Search Pagination */}
           {totalPages > 1 && (
             <div className="flex items-center justify-between border-t border-border/20 pt-6">
               <div className="text-sm text-muted-foreground font-mono">
@@ -290,7 +303,6 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           )}
         </div>
       ) : (
-        /* Empty/Entry state */
         <div className="space-y-6 pt-6">
           <div className="flex items-center gap-2 text-muted-foreground">
             <Sparkles className="h-4.5 w-4.5 text-primary" />

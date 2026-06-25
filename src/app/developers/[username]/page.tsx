@@ -23,6 +23,30 @@ import { Button, buttonVariants } from "@/components/ui/button";
 import { FlagImage } from "@/components/custom/flag-image";
 import { DeveloperCard } from "@/components/custom/developer-card";
 
+import { Metadata } from "next";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ username: string }>;
+}): Promise<Metadata> {
+  const routeParams = await params;
+  const username = routeParams.username;
+  const dev = getDeveloperByUsername(username);
+
+  if (!dev) {
+    return {
+      title: "Developer Not Found | Github Top Devs",
+    };
+  }
+
+  const displayName = dev.name || dev.login;
+  return {
+    title: `${displayName} (@${dev.login}) - GitHub Profile & Insights | Github Top Devs`,
+    description: `View GitHub ranking, stats, followers, public/private contributions, and developer insights for ${displayName} (@${dev.login}) in ${dev.countryName}.`,
+  };
+}
+
 interface ProfilePageProps {
   params: Promise<{
     username: string;
@@ -47,21 +71,16 @@ export default async function DeveloperProfilePage({
   const username = routeParams.username;
   const searchParamsVal = await searchParams;
 
-  // Fetch developer details from cache
   const cachedDev = getDeveloperByUsername(username);
 
-  // If user is not in cache, 404 immediately
   if (!cachedDev) {
     notFound();
   }
 
-  // Construct mutable developer details clone
   const dev = { ...cachedDev };
 
-  // Fetch live developer data from GitHub
   const liveData = await fetchGitHubData(username);
 
-  // Merge live data details if available
   if (liveData) {
     dev.avatarUrl = liveData.avatarUrl;
     dev.name = liveData.name;
@@ -73,27 +92,23 @@ export default async function DeveloperProfilePage({
   const topLang = liveData ? liveData.topLanguage : "N/A";
   const stars = liveData ? liveData.stars.toLocaleString() : "N/A";
 
-  // Look up country flag
   const countries = getCountries();
   const countryMeta = countries.find(
     (c) => c.country.toLowerCase() === dev.country.toLowerCase()
   );
 
-  // Calculate percentages/stats for visual interest
   const totalInCountry = countryMeta ? countryMeta.developerCount : 1000;
   const countryPercentage =
     dev.countryRank && totalInCountry
       ? ((dev.countryRank / totalInCountry) * 100).toFixed(2)
       : "0.00";
 
-  // Custom score calculations for visual bars
   const totalContributions = dev.publicContributions + dev.privateContributions;
   const contributionRatio =
     totalContributions > 0
       ? Math.round((dev.publicContributions / totalContributions) * 100)
       : 100;
 
-  // Reconstruct backUrl to preserve leaderboard search/filters/pagination
   const fromCountry = searchParamsVal.fromCountry;
   const backParams = new URLSearchParams();
   if (searchParamsVal.page) backParams.set("page", searchParamsVal.page);
@@ -113,7 +128,6 @@ export default async function DeveloperProfilePage({
 
   return (
     <div className="space-y-8 pb-12 max-w-4xl mx-auto">
-      {/* Back button and Download Card */}
       <div className="flex items-center justify-between">
         <Link
           href={backUrl}
@@ -144,13 +158,10 @@ export default async function DeveloperProfilePage({
         />
       </div>
 
-      {/* Profile Cyber Card */}
       <div className="relative overflow-hidden rounded-3xl border border-border/40 bg-card/25 backdrop-blur-md p-6 sm:p-10 shadow-[0_0_50px_rgba(16,185,129,0.03)]">
-        {/* Glow accent */}
         <div className="absolute top-0 right-0 w-80 h-80 bg-primary/10 rounded-full blur-[90px] pointer-events-none" />
 
         <div className="relative z-10 flex flex-col md:flex-row gap-8 items-center md:items-start text-center md:text-left">
-          {/* Large Avatar */}
           <div className="relative h-32 w-32 sm:h-40 sm:w-40 overflow-hidden rounded-full border-2 border-primary/30 p-1.5 bg-background shadow-[0_0_25px_rgba(16,185,129,0.15)] shrink-0 group">
             <div className="relative h-full w-full overflow-hidden rounded-full">
               <Avatar
@@ -164,7 +175,6 @@ export default async function DeveloperProfilePage({
             </div>
           </div>
 
-          {/* Details */}
           <div className="flex-1 space-y-5 min-w-0">
             <div className="space-y-2">
               <div className="flex flex-wrap items-center justify-center md:justify-start gap-2.5">
@@ -178,7 +188,6 @@ export default async function DeveloperProfilePage({
               </div>
             </div>
 
-            {/* Badges for company/location */}
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-3.5 text-sm text-muted-foreground">
               {dev.company && (
                 <span className="flex items-center gap-1.5 px-3 py-1 bg-secondary/50 rounded-lg border border-border/40">
@@ -209,7 +218,6 @@ export default async function DeveloperProfilePage({
               </Link>
             </div>
 
-            {/* External CTA Links */}
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-3 pt-2">
               <a
                 href={`https://github.com/${dev.login}`}
@@ -242,9 +250,7 @@ export default async function DeveloperProfilePage({
         </div>
       </div>
 
-      {/* Stats Grids */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {/* Stat 1: Followers */}
         <Card className="border-border/40 bg-card/30 backdrop-blur-sm">
           <CardContent className="p-6 space-y-4">
             <div className="flex items-center justify-between">
@@ -264,7 +270,6 @@ export default async function DeveloperProfilePage({
           </CardContent>
         </Card>
 
-        {/* Stat 2: Contributions */}
         <Card className="border-border/40 bg-card/30 backdrop-blur-sm">
           <CardContent className="p-6 space-y-4">
             <div className="flex items-center justify-between">
@@ -287,7 +292,6 @@ export default async function DeveloperProfilePage({
           </CardContent>
         </Card>
 
-        {/* Stat 3: Total Score */}
         <Card className="border-border/40 bg-card/30 backdrop-blur-sm border-primary/20 shadow-[0_0_20px_rgba(16,185,129,0.02)]">
           <CardContent className="p-6 space-y-4">
             <div className="flex items-center justify-between">
@@ -308,9 +312,7 @@ export default async function DeveloperProfilePage({
         </Card>
       </div>
 
-      {/* Standings Dashboard */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {/* Left: Leaderboard rankings info */}
         <Card className="border-border/40 bg-card/20">
           <CardHeader className="pb-3">
             <CardTitle className="text-base font-bold flex items-center gap-2">
@@ -319,7 +321,6 @@ export default async function DeveloperProfilePage({
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-5">
-            {/* Global Standing */}
             <div className="flex items-center justify-between p-3.5 bg-secondary/30 rounded-xl border border-border/20">
               <div>
                 <h4 className="text-sm font-semibold text-muted-foreground">
@@ -334,7 +335,6 @@ export default async function DeveloperProfilePage({
               </span>
             </div>
 
-            {/* Country Standing */}
             <div className="flex items-center justify-between p-3.5 bg-secondary/30 rounded-xl border border-border/20">
               <div>
                 <h4 className="text-sm font-semibold text-muted-foreground">
@@ -364,7 +364,6 @@ export default async function DeveloperProfilePage({
           </CardContent>
         </Card>
 
-        {/* Right: Insights card */}
         <Card className="border-border/40 bg-card/20">
           <CardHeader className="pb-3">
             <CardTitle className="text-base font-bold flex items-center gap-2">
@@ -373,9 +372,7 @@ export default async function DeveloperProfilePage({
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
-            {/* Real-time GitHub Stats */}
             <div className="grid grid-cols-1 gap-2.5">
-              {/* Top Language */}
               <div className="flex items-center justify-between p-2.5 bg-secondary/20 rounded-xl border border-border/10">
                 <div className="flex items-center gap-2">
                   <Code2 className="h-4 w-4 text-purple-500" />
@@ -386,7 +383,6 @@ export default async function DeveloperProfilePage({
                 </span>
               </div>
 
-              {/* Total Stars */}
               <div className="flex items-center justify-between p-2.5 bg-secondary/20 rounded-xl border border-border/10">
                 <div className="flex items-center gap-2">
                   <Star className="h-4 w-4 text-yellow-500 fill-yellow-500/20" />
@@ -398,7 +394,6 @@ export default async function DeveloperProfilePage({
               </div>
             </div>
 
-            {/* Public vs Private index */}
             <div className="space-y-2 pt-1">
               <div className="flex items-center justify-between text-xs text-muted-foreground">
                 <span>Public vs Private index:</span>
@@ -407,7 +402,6 @@ export default async function DeveloperProfilePage({
                 </span>
               </div>
 
-              {/* Simulated Progress Bar */}
               <div className="w-full bg-secondary h-2.5 rounded-full overflow-hidden border border-border/30">
                 <div
                   className="bg-gradient-to-r from-emerald-500 to-teal-500 h-full rounded-full"

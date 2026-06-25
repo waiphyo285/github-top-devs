@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { Metadata } from "next";
 import { getPaginatedDevelopers, getCountries } from "@/lib/data";
 import { Avatar } from "@/components/ui/avatar";
 import {
@@ -16,6 +17,12 @@ import {
 import { Button, buttonVariants } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Combobox } from "@/components/custom/combobox";
+
+export const metadata: Metadata = {
+  title: "Global Developer Leaderboard | Github Top Devs",
+  description:
+    "View the global leaderboard of top GitHub developers. Filter by country, search by username, name, or company, and sort by followers or contributions.",
+};
 
 interface PageProps {
   searchParams: Promise<{
@@ -35,7 +42,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
   const search = params.search || "";
   const country = params.country || "";
 
-  // Sort parsing
   const validSortBy = [
     "globalRank",
     "followers",
@@ -52,7 +58,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
 
   const sortOrder = params.sortOrder === "desc" ? "desc" : "asc";
 
-  // Load countries list for the dropdown filter
   const countries = getCountries();
   const comboboxOptions = [
     { value: "", label: "All Countries", searchLabel: "All Countries" },
@@ -63,7 +68,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
     })),
   ];
 
-  // Load paginated list
   const {
     data: devs,
     total,
@@ -77,7 +81,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
     country,
   });
 
-  // Helper to build URL with updated params
   const createQueryString = (
     update: Record<string, string | number | undefined>,
   ) => {
@@ -102,7 +105,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
 
   const currentQuery = createQueryString({});
 
-  // Helper to render sort icon or toggle sorting links
   const renderSortLink = (column: typeof sortBy, label: string) => {
     const isActive = sortBy === column;
     const nextOrder = isActive && sortOrder === "asc" ? "desc" : "asc";
@@ -127,7 +129,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
 
   return (
     <div className="space-y-8 pb-12">
-      {/* Header section */}
       <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 border-b border-border/20 pb-6">
         <div>
           <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
@@ -139,18 +140,15 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
           </p>
         </div>
 
-        {/* Global info card */}
         <div className="flex items-center gap-3 bg-card/40 border border-border/40 px-4 py-2.5 rounded-xl text-xs font-mono">
           <Users className="h-4 w-4 text-primary" />
           <span>Metric: Followers + Total Contributions</span>
         </div>
       </div>
 
-      {/* Controls: Search and Country Filters */}
       <Card className="border-border/40 bg-card/25 backdrop-blur-sm">
         <CardContent className="p-4">
           <form method="GET" className="grid grid-cols-1 md:grid-cols-12 gap-4">
-            {/* Preserve sorting states */}
             {sortBy !== "globalRank" && (
               <input type="hidden" name="sortBy" value={sortBy} />
             )}
@@ -158,7 +156,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
               <input type="hidden" name="sortOrder" value={sortOrder} />
             )}
 
-            {/* Search Input */}
             <div className="relative md:col-span-6 flex items-center">
               <Search className="absolute left-3.5 h-4 w-4 text-muted-foreground" />
               <input
@@ -170,7 +167,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
               />
             </div>
 
-            {/* Country Selector */}
             <div className="md:col-span-4">
               <Combobox
                 name="country"
@@ -181,7 +177,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
               />
             </div>
 
-            {/* Filter buttons */}
             <div className="md:col-span-2 flex gap-2">
               <Button
                 type="submit"
@@ -207,7 +202,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
         </CardContent>
       </Card>
 
-      {/* Developers Rankings Table */}
       <div className="max-h-[600px] overflow-auto border border-border/40 rounded-2xl bg-card/15 shadow-[0_4px_30px_rgba(0,0,0,0.1)] backdrop-blur-md">
         <table className="w-full text-left border-collapse">
           <thead className="sticky top-0 z-10 bg-card/95 backdrop-blur-md border-b border-border/30">
@@ -233,14 +227,12 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                   key={`${dev.login}_${dev.country}`}
                   className="hover:bg-card/45 transition-colors group text-sm"
                 >
-                  {/* Rank */}
                   <td className="py-4 px-6 font-mono font-bold text-muted-foreground/80">
                     <span className="text-foreground">
                       #{dev.globalRank || dev.countryRank}
                     </span>
                   </td>
 
-                  {/* Profile info */}
                   <td className="py-4 px-6">
                     <div className="flex items-center space-x-3.5">
                       <Link
@@ -275,12 +267,10 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                     </div>
                   </td>
 
-                  {/* Followers */}
                   <td className="py-4 px-6 text-right font-mono font-bold text-foreground">
                     {dev.followers.toLocaleString()}
                   </td>
 
-                  {/* Contributions */}
                   <td className="py-4 px-6 text-right font-mono text-muted-foreground/90">
                     <span className="text-foreground font-bold">
                       {dev.publicContributions.toLocaleString()}
@@ -290,12 +280,10 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                     </span>
                   </td>
 
-                  {/* Score */}
                   <td className="py-4 px-6 text-right font-mono font-bold text-primary">
                     {dev.score.toLocaleString()}
                   </td>
 
-                  {/* Country & Location */}
                   <td className="py-4 px-6">
                     <div className="flex flex-col space-y-1">
                       <div className="flex items-center gap-1.5">
@@ -336,7 +324,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
         </table>
       </div>
 
-      {/* Pagination Controls */}
       {totalPages > 1 && (
         <div className="flex items-center justify-between border-t border-border/20 pt-6">
           <div className="text-sm text-muted-foreground font-mono">
@@ -368,7 +355,6 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
               </Button>
             )}
 
-            {/* Render limited page buttons */}
             <div className="hidden sm:flex space-x-1">
               {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
                 let p = page;

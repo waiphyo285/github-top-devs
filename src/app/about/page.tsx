@@ -1,14 +1,20 @@
 import React from "react";
+import { Metadata } from "next";
 import { BookOpen, Calendar, Zap, Users, Scale } from "lucide-react";
 import { GithubIcon as Github } from "@/components/custom/github-icon";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
-export const revalidate = 3600; // Hourly cache
+export const metadata: Metadata = {
+  title: "About | Github Top Devs",
+  description:
+    "Learn about the ranking methodology, Consolidated Score formula, data pipeline, and sourcing for Github Top Devs.",
+};
+
+export const revalidate = 3600;
 
 export default function AboutPage() {
   return (
     <div className="space-y-12 pb-12 max-w-4xl mx-auto">
-      {/* Header */}
       <div className="border-b border-border/20 pb-6">
         <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent flex items-center gap-2.5">
           <span>About</span>
@@ -19,7 +25,6 @@ export default function AboutPage() {
         </p>
       </div>
 
-      {/* Methodology Section */}
       <section className="space-y-6">
         <div className="flex items-center gap-2 text-foreground">
           <Scale className="h-5 w-5 text-primary" />
@@ -42,7 +47,6 @@ export default function AboutPage() {
               contribution output.
             </p>
 
-            {/* Formula display */}
             <div className="p-5 rounded-xl bg-secondary/60 border border-border/45 flex flex-col items-center justify-center text-center space-y-2">
               <span className="text-xs font-mono text-muted-foreground uppercase tracking-wider">
                 Formula
@@ -80,7 +84,6 @@ export default function AboutPage() {
         </Card>
       </section>
 
-      {/* Sourcing Sourcing */}
       <section className="space-y-6">
         <div className="flex items-center gap-2 text-foreground">
           <Github className="h-5 w-5 text-primary" />
@@ -113,7 +116,6 @@ export default function AboutPage() {
         </Card>
       </section>
 
-      {/* Stats Sync Timestamp */}
       <div className="flex justify-center pt-4 border-t border-border/20 text-xs text-muted-foreground/60 gap-1.5 items-center font-mono">
         <Calendar className="h-3.5 w-3.5" />
         <span>

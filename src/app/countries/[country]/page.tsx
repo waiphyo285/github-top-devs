@@ -19,6 +19,33 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { FlagImage } from "@/components/custom/flag-image";
 
+import { Metadata } from "next";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ country: string }>;
+}): Promise<Metadata> {
+  const routeParams = await params;
+  const urlCountry = routeParams.country;
+  const countries = getCountries();
+  const countryData = countries.find(
+    (c) =>
+      c.country.toLowerCase().replace(/ /g, "_") === urlCountry.toLowerCase(),
+  );
+
+  if (!countryData) {
+    return {
+      title: "Country Not Found | Github Top Devs",
+    };
+  }
+
+  return {
+    title: `Top GitHub Developers in ${countryData.geoName} | Github Top Devs`,
+    description: `Discover and explore the rankings of the top open-source GitHub developers and contributors in ${countryData.geoName}.`,
+  };
+}
+
 interface CountryPageProps {
   params: Promise<{
     country: string;
@@ -44,19 +71,16 @@ export default async function CountryDetailPage({
   const page = Math.max(1, parseInt(searchParamsVal.page || "1", 10));
   const search = searchParamsVal.search || "";
 
-  // Look up country metadata
   const countries = getCountries();
   const countryData = countries.find(
     (c) =>
       c.country.toLowerCase().replace(/ /g, "_") === urlCountry.toLowerCase(),
   );
 
-  // If not found, trigger 404
   if (!countryData) {
     notFound();
   }
 
-  // Sort parsing (default is countryRank for country ranking tables)
   const validSortBy = [
     "countryRank",
     "globalRank",
@@ -75,7 +99,6 @@ export default async function CountryDetailPage({
 
   const sortOrder = searchParamsVal.sortOrder === "desc" ? "desc" : "asc";
 
-  // Load paginated list of country developers
   const {
     data: devs,
     total,
@@ -89,7 +112,6 @@ export default async function CountryDetailPage({
     country: countryData.country,
   });
 
-  // Helper to build URL with updated params
   const createQueryString = (
     update: Record<string, string | number | undefined>,
   ) => {
@@ -111,7 +133,6 @@ export default async function CountryDetailPage({
     return query ? `?${query}` : "";
   };
 
-  // Build query string for profile links with referral
   const referralQuery = (() => {
     const current = new URLSearchParams();
     if (page > 1) current.set("page", page.toString());
@@ -147,7 +168,6 @@ export default async function CountryDetailPage({
 
   return (
     <div className="space-y-8 pb-12">
-      {/* Back to all countries link */}
       <div>
         <Link
           href="/countries"
@@ -163,10 +183,8 @@ export default async function CountryDetailPage({
         </Link>
       </div>
 
-      {/* Header section */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 border-b border-border/20 pb-6">
         <div className="flex items-center gap-5">
-          {/* Wikipedia Flag */}
           <div className="relative h-12 w-20 overflow-hidden rounded-lg border border-border bg-muted/20 shadow-md shrink-0">
             <FlagImage
               src={countryData.flagUrl}
@@ -188,14 +206,12 @@ export default async function CountryDetailPage({
           </div>
         </div>
 
-        {/* Global info card */}
         <div className="flex items-center gap-3 bg-card/45 border border-border/40 px-4 py-2.5 rounded-xl text-xs font-mono">
           <Globe className="h-4 w-4 text-primary" />
           <span>Regional ranking leaderboard</span>
         </div>
       </div>
 
-      {/* Filtering Search Card */}
       <Card className="border-border/40 bg-card/25 backdrop-blur-sm">
         <CardContent className="p-4">
           <form method="GET" className="flex flex-col sm:flex-row gap-4">
@@ -240,7 +256,6 @@ export default async function CountryDetailPage({
         </CardContent>
       </Card>
 
-      {/* Rankings Table */}
       <div className="max-h-[600px] overflow-auto border border-border/40 rounded-2xl bg-card/15 shadow-[0_4px_30px_rgba(0,0,0,0.1)] backdrop-blur-md">
         <table className="w-full text-left border-collapse">
           <thead className="sticky top-0 z-10 bg-card/95 backdrop-blur-md border-b border-border/30">
@@ -269,12 +284,10 @@ export default async function CountryDetailPage({
                   key={`${dev.login}_${dev.country}`}
                   className="hover:bg-card/45 transition-colors group text-sm"
                 >
-                  {/* Local Country Rank */}
                   <td className="py-4 px-6 font-mono font-bold text-muted-foreground/80">
                     <span className="text-foreground">#{dev.countryRank}</span>
                   </td>
 
-                  {/* Profile info */}
                   <td className="py-4 px-6">
                     <div className="flex items-center space-x-3.5">
                       <Link
@@ -309,12 +322,10 @@ export default async function CountryDetailPage({
                     </div>
                   </td>
 
-                  {/* Followers */}
                   <td className="py-4 px-6 text-right font-mono font-bold text-foreground">
                     {dev.followers.toLocaleString()}
                   </td>
 
-                  {/* Contributions */}
                   <td className="py-4 px-6 text-right font-mono text-muted-foreground/90">
                     <span className="text-foreground font-bold">
                       {dev.publicContributions.toLocaleString()}
@@ -324,19 +335,16 @@ export default async function CountryDetailPage({
                     </span>
                   </td>
 
-                  {/* Score */}
                   <td className="py-4 px-6 text-right font-mono font-bold text-primary">
                     {dev.score.toLocaleString()}
                   </td>
 
-                  {/* Global Rank badge */}
                   <td className="py-4 px-6 text-center">
                     <span className="inline-block px-2.5 py-1 text-xs font-mono font-bold bg-secondary rounded border border-border text-foreground">
                       #{dev.globalRank?.toLocaleString()}
                     </span>
                   </td>
 
-                  {/* Location info */}
                   <td className="py-4 px-6">
                     {dev.location ? (
                       <span className="text-xs text-muted-foreground/90 flex items-center gap-1 truncate max-w-[160px]">
@@ -374,7 +382,6 @@ export default async function CountryDetailPage({
         </table>
       </div>
 
-      {/* Pagination Controls */}
       {totalPages > 1 && (
         <div className="flex items-center justify-between border-t border-border/20 pt-6">
           <div className="text-sm text-muted-foreground font-mono">
@@ -406,7 +413,6 @@ export default async function CountryDetailPage({
               </Button>
             )}
 
-            {/* Render limited page buttons */}
             <div className="hidden sm:flex space-x-1">
               {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
                 let p = page;

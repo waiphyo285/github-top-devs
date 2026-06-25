@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { Metadata } from "next";
 import { getGlobalStats } from "@/lib/data";
 import {
   Globe,
@@ -16,7 +17,13 @@ import { buttonVariants } from "@/components/ui/button";
 import { FlagImage } from "@/components/custom/flag-image";
 import { Avatar } from "@/components/ui/avatar";
 
-export const revalidate = 3600; // Revalidate every hour
+export const metadata: Metadata = {
+  title: "Github Top Devs | Discover Top GitHub Developers",
+  description:
+    "Explore the leaderboard of the top open-source GitHub developers globally and by country. Search by username, name, company, or location.",
+};
+
+export const revalidate = 3600;
 
 export default function HomePage() {
   const stats = getGlobalStats();
@@ -37,11 +44,9 @@ export default function HomePage() {
 
   return (
     <div className="space-y-16 pb-12">
-      {/* 1. Hero Section */}
       <section className="relative overflow-hidden rounded-3xl border border-border/30 bg-gradient-to-b from-card/80 to-background p-8 md:p-16 shadow-[0_0_50px_rgba(16,185,129,0.05)] text-center max-w-5xl mx-auto">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(16,185,129,0.08),transparent_50%)]" />
 
-        {/* Glow accent */}
         <div className="absolute top-0 right-1/4 w-96 h-96 bg-primary/10 rounded-full blur-[100px] pointer-events-none" />
 
         <div className="relative z-10 space-y-6">
@@ -59,7 +64,6 @@ export default function HomePage() {
             Discover top developers based on followers and public contributions.
           </p>
 
-          {/* Instant Search Bar */}
           <div className="max-w-xl mx-auto pt-4">
             <form
               action="/search"
@@ -85,7 +89,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 2. Global Statistics Dashboard */}
       <section className="space-y-6">
         <div className="flex items-center space-x-2">
           <Layers className="h-5 w-5 text-primary" />
@@ -157,9 +160,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 3. Top Countries Previews & Top Developers Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-        {/* Left Column: Top 8 Countries Preview (takes 1 col) */}
         <div className="space-y-6 lg:col-span-1">
           <div className="flex items-center justify-between">
             <h3 className="text-lg font-bold tracking-tight text-foreground flex items-center gap-2">
@@ -205,7 +206,6 @@ export default function HomePage() {
           </div>
         </div>
 
-        {/* Right Column: Top Developers globally preview (takes 2 cols) */}
         <div className="space-y-6 lg:col-span-2">
           <div className="flex items-center justify-between">
             <h3 className="text-lg font-bold tracking-tight text-foreground flex items-center gap-2">
@@ -225,7 +225,7 @@ export default function HomePage() {
             {stats.topDevelopers.slice(0, 5).map((dev) => (
               <div
                 key={dev.login}
-                className="flex items-center justify-between p-4 hover:bg-card/40 transition-colors"
+                className="flex items-center justify-between p-4 hover:bg-card/45 transition-colors"
               >
                 <div className="flex items-center space-x-4 min-w-0">
                   <div className="flex items-center justify-center font-mono font-bold text-sm text-muted-foreground w-6">
@@ -257,7 +257,6 @@ export default function HomePage() {
                 </div>
 
                 <div className="flex items-center space-x-6">
-                  {/* Stats detail */}
                   <div className="hidden sm:flex flex-col items-end">
                     <span className="text-xs text-muted-foreground font-semibold">
                       Followers
@@ -278,7 +277,6 @@ export default function HomePage() {
                     </span>
                   </div>
 
-                  {/* Profile link */}
                   <Link
                     href={`/developers/${dev.login}`}
                     className="p-2 rounded-lg bg-secondary/80 text-muted-foreground hover:text-primary hover:bg-secondary transition-colors"
@@ -292,7 +290,6 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* 4. Mini features list */}
       <section className="border-t border-border/20 pt-16 grid grid-cols-1 md:grid-cols-3 gap-8">
         {[
           {
@@ -348,7 +345,6 @@ export default function HomePage() {
         })}
       </section>
 
-      {/* 5. Last updated stamp */}
       <div className="text-center text-xs text-muted-foreground/60">
         Database last synced: {new Date(stats.lastUpdated).toLocaleString()} •
         Static cache revalidating hourly

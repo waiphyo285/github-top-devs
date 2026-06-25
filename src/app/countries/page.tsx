@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { Metadata } from "next";
 import { getCountries } from "@/lib/data";
 import {
   Globe,
@@ -15,6 +16,12 @@ import { Card, CardContent } from "@/components/ui/card";
 import { buttonVariants } from "@/components/ui/button";
 import { FlagImage } from "@/components/custom/flag-image";
 
+export const metadata: Metadata = {
+  title: "Explore Countries | Github Top Devs",
+  description:
+    "Browse GitHub developer rankings across different countries and regions, including Myanmar, USA, Germany, Denmark, and more.",
+};
+
 interface PageProps {
   searchParams: Promise<{
     search?: string;
@@ -23,7 +30,7 @@ interface PageProps {
   }>;
 }
 
-export const revalidate = 3600; // Hourly revalidation since countries catalog changes slowly
+export const revalidate = 3600;
 
 export default async function CountriesPage({ searchParams }: PageProps) {
   const params = await searchParams;
@@ -31,10 +38,8 @@ export default async function CountriesPage({ searchParams }: PageProps) {
   const sortBy = params.sortBy === "name" ? "name" : "developerCount";
   const sortOrder = params.sortOrder === "asc" ? "asc" : "desc";
 
-  // Load countries catalog
   let list = getCountries();
 
-  // Apply search filtering
   if (search) {
     const query = search.toLowerCase().trim();
     list = list.filter(
@@ -44,7 +49,6 @@ export default async function CountriesPage({ searchParams }: PageProps) {
     );
   }
 
-  // Sort list
   list.sort((a, b) => {
     if (sortBy === "name") {
       const nameA = a.geoName.toLowerCase();
@@ -59,7 +63,6 @@ export default async function CountriesPage({ searchParams }: PageProps) {
     }
   });
 
-  // Always show Myanmar first, ignoring any sort
   const myanmarIndex = list.findIndex(
     (c) => c.country.toLowerCase() === "myanmar",
   );
@@ -68,7 +71,6 @@ export default async function CountriesPage({ searchParams }: PageProps) {
     list.unshift(myanmar);
   }
 
-  // Helper to build URL with updated params
   const createQueryString = (update: Record<string, string | undefined>) => {
     const current = new URLSearchParams();
     if (search) current.set("search", search);
@@ -118,7 +120,6 @@ export default async function CountriesPage({ searchParams }: PageProps) {
 
   return (
     <div className="space-y-8 pb-12">
-      {/* Header */}
       <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 border-b border-border/20 pb-6">
         <div>
           <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
@@ -129,16 +130,13 @@ export default async function CountriesPage({ searchParams }: PageProps) {
           </p>
         </div>
 
-        {/* Global info card */}
         <div className="flex items-center gap-3 bg-card/40 border border-border/40 px-4 py-2.5 rounded-xl text-xs font-mono">
           <Globe className="h-4 w-4 text-primary animate-spin-slow" />
           <span>Select a country to view regional ranks</span>
         </div>
       </div>
 
-      {/* Filtering and sorting dashboard */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-        {/* Search Form */}
         <form
           method="GET"
           className="relative flex items-center max-w-sm w-full"
@@ -168,7 +166,6 @@ export default async function CountriesPage({ searchParams }: PageProps) {
         </div>
       </div>
 
-      {/* Countries Grid */}
       {list.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {list.map((c) => {
@@ -187,7 +184,6 @@ export default async function CountriesPage({ searchParams }: PageProps) {
                   }`}
                 >
                   <CardContent className="p-4 flex flex-col h-full space-y-4">
-                    {/* Flag Container */}
                     <div className="relative aspect-video w-full overflow-hidden rounded-lg border border-border/40 bg-muted/20">
                       <FlagImage
                         src={c.flagUrl}
@@ -196,7 +192,6 @@ export default async function CountriesPage({ searchParams }: PageProps) {
                       />
                     </div>
 
-                    {/* Metadata */}
                     <div className="flex-1 flex flex-col justify-between space-y-2">
                       <div>
                         <h3 className="font-bold text-foreground group-hover:text-primary transition-colors text-base truncate">
