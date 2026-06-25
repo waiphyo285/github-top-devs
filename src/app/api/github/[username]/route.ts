@@ -3,7 +3,7 @@ import { fetchGitHubData } from "@/lib/github";
 
 export async function GET(
   request: Request,
-  { params }: { params: Promise<{ username: string }> }
+  { params }: { params: Promise<{ username: string }> },
 ) {
   try {
     const routeParams = await params;
@@ -12,7 +12,7 @@ export async function GET(
     if (!username) {
       return NextResponse.json(
         { error: "Username parameter is required" },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
@@ -21,7 +21,7 @@ export async function GET(
     if (!data) {
       return NextResponse.json(
         { error: `User '${username}' not found on GitHub` },
-        { status: 404 }
+        { status: 404 },
       );
     }
 
@@ -29,7 +29,7 @@ export async function GET(
   } catch (error: any) {
     return NextResponse.json(
       { error: error?.message || "Internal Server Error" },
-      { status: 500 }
+      { status: 500 },
     );
   }
 }

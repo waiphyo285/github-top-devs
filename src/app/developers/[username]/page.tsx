@@ -94,7 +94,7 @@ export default async function DeveloperProfilePage({
 
   const countries = getCountries();
   const countryMeta = countries.find(
-    (c) => c.country.toLowerCase() === dev.country.toLowerCase()
+    (c) => c.country.toLowerCase() === dev.country.toLowerCase(),
   );
 
   const totalInCountry = countryMeta ? countryMeta.developerCount : 1000;
@@ -327,7 +327,9 @@ export default async function DeveloperProfilePage({
                   Global Rank
                 </h4>
                 <p className="text-2xl font-bold font-mono text-foreground mt-0.5">
-                  {dev.globalRank && dev.globalRank > 0 ? `#${dev.globalRank.toLocaleString()}` : "Unranked"}
+                  {dev.globalRank && dev.globalRank > 0
+                    ? `#${dev.globalRank.toLocaleString()}`
+                    : "Unranked"}
                 </p>
               </div>
               <span className="text-xs font-semibold px-2.5 py-1 bg-secondary text-foreground rounded border border-border">
@@ -341,7 +343,9 @@ export default async function DeveloperProfilePage({
                   Rank in {dev.countryName}
                 </h4>
                 <p className="text-2xl font-bold font-mono text-primary mt-0.5">
-                  {dev.countryRank && dev.countryRank > 0 ? `#${dev.countryRank.toLocaleString()}` : "Unranked"}
+                  {dev.countryRank && dev.countryRank > 0
+                    ? `#${dev.countryRank.toLocaleString()}`
+                    : "Unranked"}
                 </p>
               </div>
               {dev.countryRank && dev.countryRank > 0 ? (
@@ -376,7 +380,9 @@ export default async function DeveloperProfilePage({
               <div className="flex items-center justify-between p-2.5 bg-secondary/20 rounded-xl border border-border/10">
                 <div className="flex items-center gap-2">
                   <Code2 className="h-4 w-4 text-purple-500" />
-                  <span className="text-xs font-semibold text-muted-foreground">Top Language</span>
+                  <span className="text-xs font-semibold text-muted-foreground">
+                    Top Language
+                  </span>
                 </div>
                 <span className="font-bold font-mono text-sm text-foreground">
                   {topLang}
@@ -386,7 +392,9 @@ export default async function DeveloperProfilePage({
               <div className="flex items-center justify-between p-2.5 bg-secondary/20 rounded-xl border border-border/10">
                 <div className="flex items-center gap-2">
                   <Star className="h-4 w-4 text-yellow-500 fill-yellow-500/20" />
-                  <span className="text-xs font-semibold text-muted-foreground">Total Stars</span>
+                  <span className="text-xs font-semibold text-muted-foreground">
+                    Total Stars
+                  </span>
                 </div>
                 <span className="font-bold font-mono text-sm text-foreground">
                   {stars}
@@ -415,15 +423,20 @@ export default async function DeveloperProfilePage({
                 <strong>Global Ranking:</strong>{" "}
                 {dev.globalRank && dev.globalRank > 0 ? (
                   <>
-                    With a score index of <strong>{dev.score.toLocaleString()}</strong>, this developer
-                    ranks <strong>#{dev.globalRank.toLocaleString()}</strong> worldwide.
+                    With a score index of{" "}
+                    <strong>{dev.score.toLocaleString()}</strong>, this
+                    developer ranks{" "}
+                    <strong>#{dev.globalRank.toLocaleString()}</strong>{" "}
+                    worldwide.
                   </>
                 ) : (
                   <>
-                    This developer is currently unranked in the global leaderboard.
+                    This developer is currently unranked in the global
+                    leaderboard.
                   </>
-                )}
-                {" "}Explore top developers from the same country and see how they compare in our developer directory.
+                )}{" "}
+                Explore top developers from the same country and see how they
+                compare in our developer directory.
               </p>
             </div>
 

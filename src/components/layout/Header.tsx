@@ -3,13 +3,24 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X, Users, Globe, Search, Info } from "lucide-react";
+import {
+  Menu,
+  X,
+  Users,
+  Globe,
+  Search,
+  Info,
+  ChevronDown,
+  Database,
+  Code2,
+} from "lucide-react";
 import { GithubIcon as Github } from "@/components/custom/github-icon";
 import { buttonVariants } from "@/components/ui/button";
 
 export const Header: React.FC = () => {
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [gitHubMenuOpen, setGitHubMenuOpen] = useState(false);
 
   const navigation = [
     { name: "Developers", href: "/developers", icon: Users },
@@ -55,22 +66,52 @@ export const Header: React.FC = () => {
             })}
           </nav>
 
-          {/* External Links & Theme Toggle */}
-          <div className="hidden md:flex items-center space-x-3">
-            <a
-              href="https://github.com/gayanvoice/top-github-users"
-              target="_blank"
-              rel="noreferrer"
+          {/* External Links Dropdown */}
+          <div className="hidden md:flex items-center space-x-3 relative">
+            <button
+              onClick={() => setGitHubMenuOpen(!gitHubMenuOpen)}
               className={buttonVariants({
                 variant: "outline",
                 size: "sm",
                 className:
-                  "border-primary/20 hover:bg-primary/5 flex items-center space-x-2",
+                  "border-primary/20 hover:bg-secondary/50 flex items-center space-x-1 h-9 px-2 rounded-md cursor-pointer",
               })}
+              title="GitHub Repositories"
             >
               <Github className="h-4 w-4" />
-              <span>Source Data</span>
-            </a>
+              <ChevronDown className="h-3 w-3 opacity-60" />
+            </button>
+
+            {gitHubMenuOpen && (
+              <>
+                <div
+                  className="fixed inset-0 z-10"
+                  onClick={() => setGitHubMenuOpen(false)}
+                />
+                <div className="absolute right-0 top-full mt-2 w-48 origin-top-right rounded-xl border border-border/40 bg-card/95 backdrop-blur-md p-1 shadow-lg z-20">
+                  <a
+                    href="https://github.com/waiphyo285/github-top-devs"
+                    target="_blank"
+                    rel="noreferrer"
+                    onClick={() => setGitHubMenuOpen(false)}
+                    className="flex items-center space-x-2 rounded-lg px-3 py-2 text-sm text-muted-foreground hover:bg-secondary hover:text-foreground transition-colors"
+                  >
+                    <Code2 className="h-4 w-4 text-emerald-400" />
+                    <span>Source Code</span>
+                  </a>
+                  <a
+                    href="https://github.com/gayanvoice/top-github-users"
+                    target="_blank"
+                    rel="noreferrer"
+                    onClick={() => setGitHubMenuOpen(false)}
+                    className="flex items-center space-x-2 rounded-lg px-3 py-2 text-sm text-muted-foreground hover:bg-secondary hover:text-foreground transition-colors"
+                  >
+                    <Database className="h-4 w-4 text-emerald-400" />
+                    <span>Source Data</span>
+                  </a>
+                </div>
+              </>
+            )}
           </div>
 
           {/* Mobile elements (Theme Toggle + Menu button) */}
@@ -112,14 +153,23 @@ export const Header: React.FC = () => {
               </Link>
             );
           })}
-          <div className="pt-4 pb-2 border-t border-border/40">
+          <div className="pt-4 pb-2 border-t border-border/40 space-y-2">
+            <a
+              href="https://github.com/waiphyo285/github-top-devs"
+              target="_blank"
+              rel="noreferrer"
+              className="flex items-center space-x-3 rounded-md px-3 py-2.5 text-base font-medium text-muted-foreground hover:bg-secondary/50 hover:text-foreground"
+            >
+              <Code2 className="h-5 w-5 text-emerald-400" />
+              <span>Source Code</span>
+            </a>
             <a
               href="https://github.com/gayanvoice/top-github-users"
               target="_blank"
               rel="noreferrer"
               className="flex items-center space-x-3 rounded-md px-3 py-2.5 text-base font-medium text-muted-foreground hover:bg-secondary/50 hover:text-foreground"
             >
-              <Github className="h-5 w-5" />
+              <Database className="h-5 w-5 text-emerald-400" />
               <span>Source Data</span>
             </a>
           </div>

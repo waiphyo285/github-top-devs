@@ -138,7 +138,8 @@ export function DeveloperCard({
     return Math.max(60, 70 - Math.floor((rank - 100000) / 2000));
   };
 
-  const ovr = dev.globalRank && dev.globalRank > 0 ? getOVR(dev.globalRank) : 60;
+  const ovr =
+    dev.globalRank && dev.globalRank > 0 ? getOVR(dev.globalRank) : 60;
   const style = getCardStyle(ovr);
 
   let pctText = "UNRANKED";
@@ -256,7 +257,9 @@ export function DeveloperCard({
                   Global Rank
                 </span>
                 <span className="font-bold font-mono text-slate-100">
-                  {dev.globalRank && dev.globalRank > 0 ? `#${dev.globalRank.toLocaleString()}` : "Unranked"}
+                  {dev.globalRank && dev.globalRank > 0
+                    ? `#${dev.globalRank.toLocaleString()}`
+                    : "Unranked"}
                 </span>
               </div>
 
@@ -267,7 +270,9 @@ export function DeveloperCard({
                 <span
                   className={`font-bold font-mono ${textClass} flex items-center gap-1.5`}
                 >
-                  {dev.countryRank && dev.countryRank > 0 ? `#${dev.countryRank.toLocaleString()}` : "Unranked"}
+                  {dev.countryRank && dev.countryRank > 0
+                    ? `#${dev.countryRank.toLocaleString()}`
+                    : "Unranked"}
                   {countryMeta && dev.countryRank && dev.countryRank > 0 && (
                     <img
                       src={countryMeta.flagUrl}

@@ -38,7 +38,7 @@ export const Footer: React.FC = () => {
                 href="/countries"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
-                Countries Grid
+                Countries
               </Link>
               <Link
                 href="/search"

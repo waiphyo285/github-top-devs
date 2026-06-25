@@ -25,12 +25,11 @@ export interface LiveGitHubData {
   publicRepos: number;
   stars: number;
   topLanguage: string;
-  mostPopularRepo: string;
-  mostPopularRepoStars: number;
-  mostPopularRepoUrl: string;
 }
 
-export async function fetchGitHubData(username: string): Promise<LiveGitHubData | null> {
+export async function fetchGitHubData(
+  username: string,
+): Promise<LiveGitHubData | null> {
   const headers: HeadersInit = {
     Accept: "application/vnd.github.v3+json",
   };
@@ -46,7 +45,9 @@ export async function fetchGitHubData(username: string): Promise<LiveGitHubData 
 
     if (!userRes.ok) {
       if (userRes.status === 404) return null;
-      throw new Error(`Failed to fetch user from GitHub: ${userRes.statusText}`);
+      throw new Error(
+        `Failed to fetch user from GitHub: ${userRes.statusText}`,
+      );
     }
 
     const userData: GitHubUserResponse = await userRes.json();
@@ -57,19 +58,19 @@ export async function fetchGitHubData(username: string): Promise<LiveGitHubData 
       {
         headers,
         next: { revalidate: 3600 },
-      }
+      },
     );
 
     let stars = 0;
     let topLanguage = "N/A";
-    let mostPopularRepo = "N/A";
-    let mostPopularRepoStars = 0;
-    let mostPopularRepoUrl = "";
 
     if (reposRes.ok) {
       const reposData: GitHubRepoResponse[] = await reposRes.json();
       if (Array.isArray(reposData)) {
-        stars = reposData.reduce((acc, repo) => acc + (repo.stargazers_count || 0), 0);
+        stars = reposData.reduce(
+          (acc, repo) => acc + (repo.stargazers_count || 0),
+          0,
+        );
 
         const languages: Record<string, number> = {};
         reposData.forEach((repo) => {
@@ -85,17 +86,6 @@ export async function fetchGitHubData(username: string): Promise<LiveGitHubData 
             topLanguage = lang;
           }
         });
-
-        // Find most popular repo
-        const sortedRepos = [...reposData].sort(
-          (a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0)
-        );
-        if (sortedRepos.length > 0) {
-          const topRepo = sortedRepos[0];
-          mostPopularRepo = topRepo.name;
-          mostPopularRepoStars = topRepo.stargazers_count || 0;
-          mostPopularRepoUrl = topRepo.html_url || "";
-        }
       }
     }
 
@@ -109,9 +99,6 @@ export async function fetchGitHubData(username: string): Promise<LiveGitHubData 
       publicRepos: userData.public_repos,
       stars,
       topLanguage,
-      mostPopularRepo,
-      mostPopularRepoStars,
-      mostPopularRepoUrl,
     };
   } catch (error) {
     console.error(`Error fetching GitHub data for ${username}:`, error);
