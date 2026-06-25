@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button, buttonVariants } from "@/components/ui/button";
-import { FlagImage } from "@/components/ui/flag-image";
+import { FlagImage } from "@/components/custom/flag-image";
 
 interface CountryPageProps {
   params: Promise<{
@@ -110,6 +110,18 @@ export default async function CountryDetailPage({
     const query = current.toString();
     return query ? `?${query}` : "";
   };
+
+  // Build query string for profile links with referral
+  const referralQuery = (() => {
+    const current = new URLSearchParams();
+    if (page > 1) current.set("page", page.toString());
+    if (search) current.set("search", search);
+    if (sortBy !== "countryRank") current.set("sortBy", sortBy);
+    if (sortOrder !== "asc") current.set("sortOrder", sortOrder);
+    current.set("fromCountry", urlCountry);
+    const query = current.toString();
+    return query ? `?${query}` : "";
+  })();
 
   const renderSortLink = (column: typeof sortBy, label: string) => {
     const isActive = sortBy === column;
@@ -267,7 +279,7 @@ export default async function CountryDetailPage({
                   <td className="py-4 px-6">
                     <div className="flex items-center space-x-3.5">
                       <Link
-                        href={`/developers/${dev.login}`}
+                        href={`/developers/${dev.login}${referralQuery}`}
                         className="relative h-10 w-10 shrink-0 overflow-hidden rounded-full border border-border/60 hover:border-primary/80 transition-all shadow-sm"
                       >
                         <Avatar
@@ -280,7 +292,7 @@ export default async function CountryDetailPage({
                       </Link>
                       <div className="min-w-0">
                         <Link
-                          href={`/developers/${dev.login}`}
+                          href={`/developers/${dev.login}${referralQuery}`}
                           className="font-bold text-foreground hover:text-primary transition-colors truncate block"
                         >
                           {dev.name || dev.login}
@@ -342,7 +354,7 @@ export default async function CountryDetailPage({
                   {/* Profile link */}
                   <td className="py-4 px-6">
                     <Link
-                      href={`/developers/${dev.login}`}
+                      href={`/developers/${dev.login}${referralQuery}`}
                       className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-secondary/60 text-muted-foreground hover:text-primary hover:bg-secondary/100 transition-colors border border-border/40"
                     >
                       <ChevronRight className="h-4 w-4" />

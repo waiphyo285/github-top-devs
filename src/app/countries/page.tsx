@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { buttonVariants } from "@/components/ui/button";
-import { FlagImage } from "@/components/ui/flag-image";
+import { FlagImage } from "@/components/custom/flag-image";
 
 interface PageProps {
   searchParams: Promise<{

@@ -10,10 +10,10 @@ import {
   ChevronRight,
   Layers,
 } from "lucide-react";
-import { GithubIcon as Github } from "@/components/ui/github-icon";
+import { GithubIcon as Github } from "@/components/custom/github-icon";
 import { Card, CardContent } from "@/components/ui/card";
 import { buttonVariants } from "@/components/ui/button";
-import { FlagImage } from "@/components/ui/flag-image";
+import { FlagImage } from "@/components/custom/flag-image";
 import { Avatar } from "@/components/ui/avatar";
 
 export const revalidate = 3600; // Revalidate every hour

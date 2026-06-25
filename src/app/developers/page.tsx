@@ -15,7 +15,7 @@ import {
 } from "lucide-react";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Combobox } from "@/components/ui/combobox";
+import { Combobox } from "@/components/custom/combobox";
 
 interface PageProps {
   searchParams: Promise<{
@@ -99,6 +99,8 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
     const query = current.toString();
     return query ? `?${query}` : "";
   };
+
+  const currentQuery = createQueryString({});
 
   // Helper to render sort icon or toggle sorting links
   const renderSortLink = (column: typeof sortBy, label: string) => {
@@ -243,7 +245,7 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                   <td className="py-4 px-6">
                     <div className="flex items-center space-x-3.5">
                       <Link
-                        href={`/developers/${dev.login}`}
+                        href={`/developers/${dev.login}${currentQuery}`}
                         className="relative h-10 w-10 shrink-0 overflow-hidden rounded-full border border-border/60 hover:border-primary/80 transition-all shadow-sm"
                       >
                         <Avatar
@@ -256,7 +258,7 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                       </Link>
                       <div className="min-w-0">
                         <Link
-                          href={`/developers/${dev.login}`}
+                          href={`/developers/${dev.login}${currentQuery}`}
                           className="font-bold text-foreground hover:text-primary transition-colors truncate block"
                         >
                           {dev.name || dev.login}
@@ -314,7 +316,7 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
                   {/* Detail link */}
                   <td className="py-4 px-6">
                     <Link
-                      href={`/developers/${dev.login}`}
+                      href={`/developers/${dev.login}${currentQuery}`}
                       className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-secondary/60 text-muted-foreground hover:text-primary hover:bg-secondary/100 transition-colors border border-border/40"
                     >
                       <ChevronRight className="h-4 w-4" />

@@ -14,15 +14,25 @@ import {
   Zap,
   Star,
   Activity,
+  Image as ImageIcon,
 } from "lucide-react";
-import { GithubIcon as Github } from "@/components/ui/github-icon";
+import { GithubIcon as Github } from "@/components/custom/github-icon";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { buttonVariants } from "@/components/ui/button";
-import { FlagImage } from "@/components/ui/flag-image";
+import { Button, buttonVariants } from "@/components/ui/button";
+import { FlagImage } from "@/components/custom/flag-image";
+import { DeveloperCard } from "@/components/custom/developer-card";
 
 interface ProfilePageProps {
   params: Promise<{
     username: string;
+  }>;
+  searchParams: Promise<{
+    page?: string;
+    search?: string;
+    sortBy?: string;
+    sortOrder?: string;
+    country?: string;
+    fromCountry?: string;
   }>;
 }
 
@@ -30,9 +40,11 @@ export const revalidate = 0; // Dynamic profile page
 
 export default async function DeveloperProfilePage({
   params,
+  searchParams,
 }: ProfilePageProps) {
   const routeParams = await params;
   const username = routeParams.username;
+  const searchParamsVal = await searchParams;
 
   // Fetch developer details
   const dev = getDeveloperByUsername(username);
@@ -62,12 +74,30 @@ export default async function DeveloperProfilePage({
       ? Math.round((dev.publicContributions / totalContributions) * 100)
       : 100;
 
+  // Reconstruct backUrl to preserve leaderboard search/filters/pagination
+  const fromCountry = searchParamsVal.fromCountry;
+  const backParams = new URLSearchParams();
+  if (searchParamsVal.page) backParams.set("page", searchParamsVal.page);
+  if (searchParamsVal.search) backParams.set("search", searchParamsVal.search);
+  if (searchParamsVal.sortBy) backParams.set("sortBy", searchParamsVal.sortBy);
+  if (searchParamsVal.sortOrder)
+    backParams.set("sortOrder", searchParamsVal.sortOrder);
+
+  if (!fromCountry && searchParamsVal.country) {
+    backParams.set("country", searchParamsVal.country);
+  }
+
+  const backQuery = backParams.toString();
+  const backUrl = fromCountry
+    ? `/countries/${fromCountry.toLowerCase().replace(/ /g, "_")}${backQuery ? `?${backQuery}` : ""}`
+    : `/developers${backQuery ? `?${backQuery}` : ""}`;
+
   return (
     <div className="space-y-8 pb-12 max-w-4xl mx-auto">
-      {/* Back button */}
-      <div>
+      {/* Back button and Download Card */}
+      <div className="flex items-center justify-between">
         <Link
-          href="/developers"
+          href={backUrl}
           className={buttonVariants({
             variant: "ghost",
             size: "sm",
@@ -78,6 +108,21 @@ export default async function DeveloperProfilePage({
           <ArrowLeft className="h-4 w-4" />
           <span>Back to leaderboard</span>
         </Link>
+
+        <DeveloperCard
+          dev={dev}
+          countryMeta={countryMeta}
+          trigger={
+            <Button
+              variant="outline"
+              size="sm"
+              className="h-9 gap-1.5 border-primary/30 hover:bg-primary/10 hover:text-primary transition-all text-xs font-semibold cursor-pointer"
+            >
+              <ImageIcon className="h-4 w-4" />
+              <span>Save</span>
+            </Button>
+          }
+        />
       </div>
 
       {/* Profile Cyber Card */}

@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Menu, X, Users, Globe, Search, Info } from "lucide-react";
-import { GithubIcon as Github } from "@/components/ui/github-icon";
+import { GithubIcon as Github } from "@/components/custom/github-icon";
 import { buttonVariants } from "@/components/ui/button";
 
 export const Header: React.FC = () => {

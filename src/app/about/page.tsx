@@ -1,6 +1,6 @@
 import React from "react";
 import { BookOpen, Info, Calendar, Zap, Users, Scale } from "lucide-react";
-import { GithubIcon as Github } from "@/components/ui/github-icon";
+import { GithubIcon as Github } from "@/components/custom/github-icon";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { buttonVariants } from "@/components/ui/button";
 
