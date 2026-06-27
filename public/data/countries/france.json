@@ -11,7 +11,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 1,
-    "score": 22550
+    "score": 22550,
+    "globalRank": 36
   },
   {
     "login": "Charles-Chrismann",
@@ -25,7 +26,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 2,
-    "score": 44313
+    "score": 44313,
+    "globalRank": 73
   },
   {
     "login": "fabpot",
@@ -39,7 +41,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 3,
-    "score": 21632
+    "score": 21632,
+    "globalRank": 98
   },
   {
     "login": "rougier",
@@ -53,7 +56,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 4,
-    "score": 8109
+    "score": 8109,
+    "globalRank": 258
   },
   {
     "login": "ornicar",
@@ -67,7 +71,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 5,
-    "score": 14499
+    "score": 14499,
+    "globalRank": 339
   },
   {
     "login": "Grafikart",
@@ -81,7 +86,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 6,
-    "score": 6825
+    "score": 6825,
+    "globalRank": 346
   },
   {
     "login": "cfrBernard",
@@ -95,7 +101,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 7,
-    "score": 6324
+    "score": 6324,
+    "globalRank": 392
   },
   {
     "login": "atinux",
@@ -109,7 +116,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 8,
-    "score": 6841
+    "score": 6841,
+    "globalRank": 414
   },
   {
     "login": "juliangarnier",
@@ -123,7 +131,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 9,
-    "score": 6719
+    "score": 6719,
+    "globalRank": 421
   },
   {
     "login": "Akryum",
@@ -137,7 +146,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 10,
-    "score": 5803
+    "score": 5803,
+    "globalRank": 440
   },
   {
     "login": "ogrisel",
@@ -151,7 +161,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 11,
-    "score": 6179
+    "score": 6179,
+    "globalRank": 493
   },
   {
     "login": "fasterthanlime",
@@ -165,7 +176,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 12,
-    "score": 28023
+    "score": 28023,
+    "globalRank": 529
   },
   {
     "login": "gentilkiwi",
@@ -179,7 +191,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 13,
-    "score": 4797
+    "score": 4797,
+    "globalRank": 542
   },
   {
     "login": "holtzy",
@@ -193,7 +206,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 14,
-    "score": 6778
+    "score": 6778,
+    "globalRank": 544
   },
   {
     "login": "dunglas",
@@ -207,7 +221,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 15,
-    "score": 6194
+    "score": 6194,
+    "globalRank": 546
   },
   {
     "login": "fzaninotto",
@@ -221,7 +236,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 16,
-    "score": 8361
+    "score": 8361,
+    "globalRank": 589
   },
   {
     "login": "cyrilmottier",
@@ -235,7 +251,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 17,
-    "score": 4310
+    "score": 4310,
+    "globalRank": 591
   },
   {
     "login": "jedisct1",
@@ -249,7 +266,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 18,
-    "score": 11243
+    "score": 11243,
+    "globalRank": 599
   },
   {
     "login": "Dimillian",
@@ -263,7 +281,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 19,
-    "score": 7082
+    "score": 7082,
+    "globalRank": 610
   },
   {
     "login": "florent37",
@@ -277,7 +296,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 20,
-    "score": 4917
+    "score": 4917,
+    "globalRank": 622
   },
   {
     "login": "ocornut",
@@ -291,7 +311,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 21,
-    "score": 5141
+    "score": 5141,
+    "globalRank": 625
   },
   {
     "login": "merveenoyan",
@@ -305,7 +326,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 22,
-    "score": 4543
+    "score": 4543,
+    "globalRank": 626
   },
   {
     "login": "x0rz",
@@ -319,7 +341,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 23,
-    "score": 3613
+    "score": 3613,
+    "globalRank": 733
   },
   {
     "login": "HoussemDellai",
@@ -333,7 +356,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 24,
-    "score": 3645
+    "score": 3645,
+    "globalRank": 770
   },
   {
     "login": "johnBuffer",
@@ -347,7 +371,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 25,
-    "score": 4620
+    "score": 4620,
+    "globalRank": 804
   },
   {
     "login": "oliviertassinari",
@@ -361,7 +386,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 26,
-    "score": 4809
+    "score": 4809,
+    "globalRank": 816
   },
   {
     "login": "slavaGanzin",
@@ -375,7 +401,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 27,
-    "score": 8815
+    "score": 8815,
+    "globalRank": 884
   },
   {
     "login": "AliSoftware",
@@ -389,7 +416,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 28,
-    "score": 4014
+    "score": 4014,
+    "globalRank": 919
   },
   {
     "login": "Solido",
@@ -403,7 +431,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 29,
-    "score": 3159
+    "score": 3159,
+    "globalRank": 923
   },
   {
     "login": "JonathanSalwan",
@@ -417,7 +446,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 30,
-    "score": 3088
+    "score": 3088,
+    "globalRank": 930
   },
   {
     "login": "MaJerle",
@@ -431,7 +461,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 31,
-    "score": 4103
+    "score": 4103,
+    "globalRank": 941
   },
   {
     "login": "jeromeetienne",
@@ -445,7 +476,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 32,
-    "score": 5003
+    "score": 5003,
+    "globalRank": 1026
   },
   {
     "login": "LaurentMazare",
@@ -459,7 +491,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 33,
-    "score": 7776
+    "score": 7776,
+    "globalRank": 1046
   },
   {
     "login": "crazy-max",
@@ -473,7 +506,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 34,
-    "score": 14288
+    "score": 14288,
+    "globalRank": 1060
   },
   {
     "login": "gwen001",
@@ -487,7 +521,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 35,
-    "score": 2740
+    "score": 2740,
+    "globalRank": 1068
   },
   {
     "login": "michael-dm",
@@ -501,7 +536,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 36,
-    "score": 3727
+    "score": 3727,
+    "globalRank": 1124
   },
   {
     "login": "cyrildiagne",
@@ -515,7 +551,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 37,
-    "score": 3826
+    "score": 3826,
+    "globalRank": 1145
   },
   {
     "login": "mblondel",
@@ -529,7 +566,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 38,
-    "score": 2663
+    "score": 2663,
+    "globalRank": 1156
   },
   {
     "login": "BartoszMilewski",
@@ -543,7 +581,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 39,
-    "score": 2589
+    "score": 2589,
+    "globalRank": 1157
   },
   {
     "login": "romainfrancois",
@@ -557,7 +596,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 40,
-    "score": 2578
+    "score": 2578,
+    "globalRank": 1193
   },
   {
     "login": "4ian",
@@ -571,7 +611,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 41,
-    "score": 4804
+    "score": 4804,
+    "globalRank": 1202
   },
   {
     "login": "HeyHeyChicken",
@@ -585,7 +626,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 42,
-    "score": 3046
+    "score": 3046,
+    "globalRank": 1257
   },
   {
     "login": "donho",
@@ -599,7 +641,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 43,
-    "score": 3060
+    "score": 3060,
+    "globalRank": 1281
   },
   {
     "login": "StanGirard",
@@ -613,7 +656,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 44,
-    "score": 6825
+    "score": 6825,
+    "globalRank": 1288
   },
   {
     "login": "benoitc",
@@ -627,7 +671,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 45,
-    "score": 7921
+    "score": 7921,
+    "globalRank": 1314
   },
   {
     "login": "ssaunier",
@@ -641,7 +686,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 46,
-    "score": 2865
+    "score": 2865,
+    "globalRank": 1319
   },
   {
     "login": "noraj",
@@ -655,7 +701,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 47,
-    "score": 2977
+    "score": 2977,
+    "globalRank": 1340
   },
   {
     "login": "p0dalirius",
@@ -669,7 +716,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 48,
-    "score": 4966
+    "score": 4966,
+    "globalRank": 1357
   },
   {
     "login": "sdispater",
@@ -683,7 +731,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 49,
-    "score": 2763
+    "score": 2763,
+    "globalRank": 1381
   },
   {
     "login": "angristan",
@@ -697,7 +746,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 50,
-    "score": 5901
+    "score": 5901,
+    "globalRank": 1430
   },
   {
     "login": "JingMatrix",
@@ -711,7 +761,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 51,
-    "score": 3067
+    "score": 3067,
+    "globalRank": 1477
   },
   {
     "login": "GitSquared",
@@ -725,7 +776,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 52,
-    "score": 4759
+    "score": 4759,
+    "globalRank": 1480
   },
   {
     "login": "emersion",
@@ -739,7 +791,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 53,
-    "score": 4273
+    "score": 4273,
+    "globalRank": 1490
   },
   {
     "login": "stof",
@@ -753,7 +806,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 54,
-    "score": 4155
+    "score": 4155,
+    "globalRank": 1491
   },
   {
     "login": "samber",
@@ -767,7 +821,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 55,
-    "score": 10004
+    "score": 10004,
+    "globalRank": 1502
   },
   {
     "login": "nicolas-grekas",
@@ -781,7 +836,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 56,
-    "score": 15856
+    "score": 15856,
+    "globalRank": 1513
   },
   {
     "login": "anisayari",
@@ -795,7 +851,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 57,
-    "score": 4714
+    "score": 4714,
+    "globalRank": 1535
   },
   {
     "login": "slorber",
@@ -809,7 +866,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 58,
-    "score": 3312
+    "score": 3312,
+    "globalRank": 1543
   },
   {
     "login": "gregberge",
@@ -823,7 +881,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 59,
-    "score": 6694
+    "score": 6694,
+    "globalRank": 1576
   },
   {
     "login": "arcanis",
@@ -837,7 +896,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 60,
-    "score": 3933
+    "score": 3933,
+    "globalRank": 1683
   },
   {
     "login": "gre",
@@ -851,7 +911,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 61,
-    "score": 2278
+    "score": 2278,
+    "globalRank": 1689
   },
   {
     "login": "mxrch",
@@ -865,7 +926,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 62,
-    "score": 5348
+    "score": 5348,
+    "globalRank": 1751
   },
   {
     "login": "robbiebarrat",
@@ -879,7 +941,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 63,
-    "score": 1877
+    "score": 1877,
+    "globalRank": 1759
   },
   {
     "login": "willdurand",
@@ -893,7 +956,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 64,
-    "score": 3499
+    "score": 3499,
+    "globalRank": 1813
   },
   {
     "login": "AlexNesvit",
@@ -907,7 +971,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 65,
-    "score": 5726
+    "score": 5726,
+    "globalRank": 1824
   },
   {
     "login": "LysandreJik",
@@ -921,7 +986,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 66,
-    "score": 3603
+    "score": 3603,
+    "globalRank": 1830
   },
   {
     "login": "FaridSafi",
@@ -935,7 +1001,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 67,
-    "score": 5228
+    "score": 5228,
+    "globalRank": 1831
   },
   {
     "login": "DarkCoderSc",
@@ -949,7 +1016,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 68,
-    "score": 1966
+    "score": 1966,
+    "globalRank": 1889
   },
   {
     "login": "beaufortfrancois",
@@ -963,7 +1031,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 69,
-    "score": 2715
+    "score": 2715,
+    "globalRank": 1953
   },
   {
     "login": "rom1v",
@@ -977,7 +1046,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 70,
-    "score": 2055
+    "score": 2055,
+    "globalRank": 1958
   },
   {
     "login": "sarahdayan",
@@ -991,7 +1061,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 71,
-    "score": 4613
+    "score": 4613,
+    "globalRank": 1977
   },
   {
     "login": "Papillard",
@@ -1005,7 +1076,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 72,
-    "score": 1706
+    "score": 1706,
+    "globalRank": 2035
   },
   {
     "login": "bclozel",
@@ -1019,7 +1091,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 73,
-    "score": 2826
+    "score": 2826,
+    "globalRank": 2037
   },
   {
     "login": "n1nj4sec",
@@ -1033,7 +1106,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 74,
-    "score": 1676
+    "score": 1676,
+    "globalRank": 2040
   },
   {
     "login": "xoofx",
@@ -1047,7 +1121,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 75,
-    "score": 5324
+    "score": 5324,
+    "globalRank": 2048
   },
   {
     "login": "moul",
@@ -1061,7 +1136,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 76,
-    "score": 7934
+    "score": 7934,
+    "globalRank": 2085
   },
   {
     "login": "GuillaumeGomez",
@@ -1075,7 +1151,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 77,
-    "score": 5025
+    "score": 5025,
+    "globalRank": 2144
   },
   {
     "login": "deepnight",
@@ -1089,7 +1166,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 78,
-    "score": 7607
+    "score": 7607,
+    "globalRank": 2156
   },
   {
     "login": "Calinou",
@@ -1103,7 +1181,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 79,
-    "score": 4646
+    "score": 4646,
+    "globalRank": 2172
   },
   {
     "login": "manekinekko",
@@ -1117,7 +1196,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 80,
-    "score": 1898
+    "score": 1898,
+    "globalRank": 2193
   },
   {
     "login": "enjoy-digital",
@@ -1131,7 +1211,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 81,
-    "score": 8646
+    "score": 8646,
+    "globalRank": 2200
   },
   {
     "login": "VincentGarreau",
@@ -1145,7 +1226,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 82,
-    "score": 1568
+    "score": 1568,
+    "globalRank": 2206
   },
   {
     "login": "AEFaour",
@@ -1159,7 +1241,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 83,
-    "score": 1527
+    "score": 1527,
+    "globalRank": 2259
   },
   {
     "login": "vstinner",
@@ -1173,7 +1256,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 84,
-    "score": 3411
+    "score": 3411,
+    "globalRank": 2273
   },
   {
     "login": "mnapoli",
@@ -1187,7 +1271,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 85,
-    "score": 5921
+    "score": 5921,
+    "globalRank": 2299
   },
   {
     "login": "fafhrd91",
@@ -1201,7 +1286,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 86,
-    "score": 2345
+    "score": 2345,
+    "globalRank": 2300
   },
   {
     "login": "ibelick",
@@ -1215,7 +1301,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 87,
-    "score": 4078
+    "score": 4078,
+    "globalRank": 2318
   },
   {
     "login": "castorflex",
@@ -1229,7 +1316,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 88,
-    "score": 1490
+    "score": 1490,
+    "globalRank": 2329
   },
   {
     "login": "JosePaumard",
@@ -1243,7 +1331,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 89,
-    "score": 1505
+    "score": 1505,
+    "globalRank": 2390
   },
   {
     "login": "agramfort",
@@ -1257,7 +1346,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 90,
-    "score": 1675
+    "score": 1675,
+    "globalRank": 2393
   },
   {
     "login": "romainpiel",
@@ -1271,7 +1361,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 91,
-    "score": 2676
+    "score": 2676,
+    "globalRank": 2405
   },
   {
     "login": "gpeyre",
@@ -1285,7 +1376,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 92,
-    "score": 1610
+    "score": 1610,
+    "globalRank": 2414
   },
   {
     "login": "agoncal",
@@ -1299,7 +1391,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 93,
-    "score": 2506
+    "score": 2506,
+    "globalRank": 2449
   },
   {
     "login": "Carreau",
@@ -1313,7 +1406,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 94,
-    "score": 3639
+    "score": 3639,
+    "globalRank": 2466
   },
   {
     "login": "Unitech",
@@ -1327,7 +1421,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 95,
-    "score": 1946
+    "score": 1946,
+    "globalRank": 2525
   },
   {
     "login": "Kakise",
@@ -1341,7 +1436,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 96,
-    "score": 1623
+    "score": 1623,
+    "globalRank": 2593
   },
   {
     "login": "jdubois",
@@ -1355,7 +1451,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 97,
-    "score": 2094
+    "score": 2094,
+    "globalRank": 2595
   },
   {
     "login": "mpgn",
@@ -1369,7 +1466,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 98,
-    "score": 4903
+    "score": 4903,
+    "globalRank": 2625
   },
   {
     "login": "nadimkobeissi",
@@ -1383,7 +1481,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 99,
-    "score": 3921
+    "score": 3921,
+    "globalRank": 2640
   },
   {
     "login": "sdeleuze",
@@ -1397,7 +1496,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 100,
-    "score": 2140
+    "score": 2140,
+    "globalRank": 2661
   },
   {
     "login": "JustFS",
@@ -1411,7 +1511,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 101,
-    "score": 1380
+    "score": 1380,
+    "globalRank": 2664
   },
   {
     "login": "martin-gorner",
@@ -1425,7 +1526,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 102,
-    "score": 1328
+    "score": 1328,
+    "globalRank": 2704
   },
   {
     "login": "Cadene",
@@ -1439,7 +1541,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 103,
-    "score": 1334
+    "score": 1334,
+    "globalRank": 2709
   },
   {
     "login": "CorentinTh",
@@ -1453,7 +1556,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 104,
-    "score": 3148
+    "score": 3148,
+    "globalRank": 2710
   },
   {
     "login": "aaugustin",
@@ -1467,7 +1571,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 105,
-    "score": 1421
+    "score": 1421,
+    "globalRank": 2736
   },
   {
     "login": "aloisdeniel",
@@ -1481,7 +1586,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 106,
-    "score": 3903
+    "score": 3903,
+    "globalRank": 2755
   },
   {
     "login": "Geal",
@@ -1495,7 +1601,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 107,
-    "score": 1331
+    "score": 1331,
+    "globalRank": 2758
   },
   {
     "login": "jd",
@@ -1509,7 +1616,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 108,
-    "score": 2916
+    "score": 2916,
+    "globalRank": 2829
   },
   {
     "login": "MoOx",
@@ -1523,7 +1631,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 109,
-    "score": 1668
+    "score": 1668,
+    "globalRank": 2892
   },
   {
     "login": "WaRtr0",
@@ -1537,7 +1646,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 110,
-    "score": 3120
+    "score": 3120,
+    "globalRank": 2893
   },
   {
     "login": "rossant",
@@ -1551,7 +1661,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 111,
-    "score": 2012
+    "score": 2012,
+    "globalRank": 2894
   },
   {
     "login": "groue",
@@ -1565,7 +1676,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 112,
-    "score": 1534
+    "score": 1534,
+    "globalRank": 2907
   },
   {
     "login": "letsar",
@@ -1579,7 +1691,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 113,
-    "score": 1935
+    "score": 1935,
+    "globalRank": 2932
   },
   {
     "login": "vincentbernat",
@@ -1593,7 +1706,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 114,
-    "score": 3596
+    "score": 3596,
+    "globalRank": 2987
   },
   {
     "login": "Bleuje",
@@ -1607,7 +1721,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 115,
-    "score": 2599
+    "score": 2599,
+    "globalRank": 3029
   },
   {
     "login": "dimitri",
@@ -1621,7 +1736,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 116,
-    "score": 1471
+    "score": 1471,
+    "globalRank": 3079
   },
   {
     "login": "ptitSeb",
@@ -1635,7 +1751,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 117,
-    "score": 2222
+    "score": 2222,
+    "globalRank": 3134
   },
   {
     "login": "gvergnaud",
@@ -1649,7 +1766,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 118,
-    "score": 3166
+    "score": 3166,
+    "globalRank": 3156
   },
   {
     "login": "dexeril974",
@@ -1663,7 +1781,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 119,
-    "score": 1179
+    "score": 1179,
+    "globalRank": 3179
   },
   {
     "login": "ngxson",
@@ -1677,7 +1796,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 120,
-    "score": 4057
+    "score": 4057,
+    "globalRank": 3218
   },
   {
     "login": "ShutdownRepo",
@@ -1691,7 +1811,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 121,
-    "score": 2151
+    "score": 2151,
+    "globalRank": 3281
   },
   {
     "login": "PomepuyN",
@@ -1705,7 +1826,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 122,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 3301
   },
   {
     "login": "ncannasse",
@@ -1719,7 +1841,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 123,
-    "score": 1650
+    "score": 1650,
+    "globalRank": 3321
   },
   {
     "login": "vietj",
@@ -1733,7 +1856,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 124,
-    "score": 5490
+    "score": 5490,
+    "globalRank": 3327
   },
   {
     "login": "scienceetonnante",
@@ -1747,7 +1871,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 125,
-    "score": 1937
+    "score": 1937,
+    "globalRank": 3332
   },
   {
     "login": "kassambara",
@@ -1761,7 +1886,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 126,
-    "score": 1261
+    "score": 1261,
+    "globalRank": 3357
   },
   {
     "login": "revolunet",
@@ -1775,7 +1901,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 127,
-    "score": 2458
+    "score": 2458,
+    "globalRank": 3367
   },
   {
     "login": "mwarcc",
@@ -1789,7 +1916,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 128,
-    "score": 1143
+    "score": 1143,
+    "globalRank": 3402
   },
   {
     "login": "glample",
@@ -1803,7 +1931,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 129,
-    "score": 1101
+    "score": 1101,
+    "globalRank": 3466
   },
   {
     "login": "alexchopin",
@@ -1817,7 +1946,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 130,
-    "score": 1118
+    "score": 1118,
+    "globalRank": 3467
   },
   {
     "login": "maelle",
@@ -1831,7 +1961,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 131,
-    "score": 4080
+    "score": 4080,
+    "globalRank": 3482
   },
   {
     "login": "iMokhles",
@@ -1845,7 +1976,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 132,
-    "score": 1114
+    "score": 1114,
+    "globalRank": 3540
   },
   {
     "login": "MaxHalford",
@@ -1859,7 +1991,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 133,
-    "score": 4112
+    "score": 4112,
+    "globalRank": 3573
   },
   {
     "login": "byroot",
@@ -1873,7 +2006,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 134,
-    "score": 5603
+    "score": 5603,
+    "globalRank": 3581
   },
   {
     "login": "simoninithomas",
@@ -1887,7 +2021,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 135,
-    "score": 1085
+    "score": 1085,
+    "globalRank": 3600
   },
   {
     "login": "r4j0x00",
@@ -1901,7 +2036,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 136,
-    "score": 1065
+    "score": 1065,
+    "globalRank": 3606
   },
   {
     "login": "Chocapikk",
@@ -1915,7 +2051,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 137,
-    "score": 4111
+    "score": 4111,
+    "globalRank": 3613
   },
   {
     "login": "yolenatch",
@@ -1929,7 +2066,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 138,
-    "score": 1715
+    "score": 1715,
+    "globalRank": 3698
   },
   {
     "login": "lo-th",
@@ -1943,7 +2081,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 139,
-    "score": 1265
+    "score": 1265,
+    "globalRank": 3718
   },
   {
     "login": "lopspower",
@@ -1957,7 +2096,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 140,
-    "score": 1213
+    "score": 1213,
+    "globalRank": 3719
   },
   {
     "login": "stephrobert",
@@ -1971,7 +2111,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 141,
-    "score": 3699
+    "score": 3699,
+    "globalRank": 3756
   },
   {
     "login": "potatoqualitee",
@@ -1985,7 +2126,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 142,
-    "score": 2227
+    "score": 2227,
+    "globalRank": 3839
   },
   {
     "login": "sandibrrm",
@@ -1999,7 +2141,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 143,
-    "score": 2848
+    "score": 2848,
+    "globalRank": 3867
   },
   {
     "login": "thomasync",
@@ -2013,7 +2156,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 144,
-    "score": 1401
+    "score": 1401,
+    "globalRank": 3883
   },
   {
     "login": "liorchamla",
@@ -2027,7 +2171,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 145,
-    "score": 1029
+    "score": 1029,
+    "globalRank": 3909
   },
   {
     "login": "tpruvot",
@@ -2041,7 +2186,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 146,
-    "score": 998
+    "score": 998,
+    "globalRank": 3950
   },
   {
     "login": "LouisCAD",
@@ -2055,7 +2201,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 147,
-    "score": 2698
+    "score": 2698,
+    "globalRank": 3998
   },
   {
     "login": "baskerville",
@@ -2069,7 +2216,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 148,
-    "score": 1009
+    "score": 1009,
+    "globalRank": 4004
   },
   {
     "login": "gabinschiro",
@@ -2083,7 +2231,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 149,
-    "score": 1136
+    "score": 1136,
+    "globalRank": 4049
   },
   {
     "login": "mratsim",
@@ -2097,7 +2246,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 150,
-    "score": 1613
+    "score": 1613,
+    "globalRank": 4095
   },
   {
     "login": "lroudge",
@@ -2111,7 +2261,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 151,
-    "score": 1166
+    "score": 1166,
+    "globalRank": 4153
   },
   {
     "login": "Robpayot",
@@ -2125,7 +2276,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 152,
-    "score": 1053
+    "score": 1053,
+    "globalRank": 4193
   },
   {
     "login": "antonioribeiro",
@@ -2139,7 +2291,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 153,
-    "score": 1258
+    "score": 1258,
+    "globalRank": 4210
   },
   {
     "login": "guillaumekln",
@@ -2153,7 +2306,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 154,
-    "score": 950
+    "score": 950,
+    "globalRank": 4215
   },
   {
     "login": "TheRobotStudio",
@@ -2167,7 +2321,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 155,
-    "score": 966
+    "score": 966,
+    "globalRank": 4223
   },
   {
     "login": "ahmedbesbes",
@@ -2181,7 +2336,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 156,
-    "score": 955
+    "score": 955,
+    "globalRank": 4233
   },
   {
     "login": "eliemichel",
@@ -2195,7 +2351,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 157,
-    "score": 1087
+    "score": 1087,
+    "globalRank": 4273
   },
   {
     "login": "pozil",
@@ -2209,7 +2366,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 158,
-    "score": 1466
+    "score": 1466,
+    "globalRank": 4277
   },
   {
     "login": "nicolargo",
@@ -2223,7 +2381,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 159,
-    "score": 1777
+    "score": 1777,
+    "globalRank": 4278
   },
   {
     "login": "NathanLovato",
@@ -2237,7 +2396,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 160,
-    "score": 3461
+    "score": 3461,
+    "globalRank": 4282
   },
   {
     "login": "SylvainCorlay",
@@ -2251,7 +2411,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 161,
-    "score": 1613
+    "score": 1613,
+    "globalRank": 4310
   },
   {
     "login": "andrewssobral",
@@ -2265,7 +2426,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 162,
-    "score": 1027
+    "score": 1027,
+    "globalRank": 4326
   },
   {
     "login": "jasonchampagne",
@@ -2279,7 +2441,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 163,
-    "score": 1057
+    "score": 1057,
+    "globalRank": 4330
   },
   {
     "login": "jfpuget",
@@ -2293,7 +2456,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 164,
-    "score": 944
+    "score": 944,
+    "globalRank": 4331
   },
   {
     "login": "Dev-next-gen",
@@ -2307,7 +2471,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 165,
-    "score": 1023
+    "score": 1023,
+    "globalRank": 4357
   },
   {
     "login": "ColinFay",
@@ -2321,7 +2486,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 166,
-    "score": 3056
+    "score": 3056,
+    "globalRank": 4388
   },
   {
     "login": "Shipow",
@@ -2335,7 +2501,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 167,
-    "score": 2174
+    "score": 2174,
+    "globalRank": 4496
   },
   {
     "login": "glemaitre",
@@ -2349,7 +2516,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 168,
-    "score": 3292
+    "score": 3292,
+    "globalRank": 4502
   },
   {
     "login": "BrunoLevy",
@@ -2363,7 +2531,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 169,
-    "score": 2794
+    "score": 2794,
+    "globalRank": 4530
   },
   {
     "login": "GravenilvecTV",
@@ -2377,7 +2546,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 170,
-    "score": 944
+    "score": 944,
+    "globalRank": 4560
   },
   {
     "login": "Xyl2k",
@@ -2391,7 +2561,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 171,
-    "score": 1006
+    "score": 1006,
+    "globalRank": 4569
   },
   {
     "login": "zoontek",
@@ -2405,7 +2576,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 172,
-    "score": 2093
+    "score": 2093,
+    "globalRank": 4578
   },
   {
     "login": "Johann-S",
@@ -2419,7 +2591,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 173,
-    "score": 1875
+    "score": 1875,
+    "globalRank": 4596
   },
   {
     "login": "Hackndo",
@@ -2433,7 +2606,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 174,
-    "score": 1126
+    "score": 1126,
+    "globalRank": 4606
   },
   {
     "login": "ArthurSonzogni",
@@ -2447,7 +2621,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 175,
-    "score": 1866
+    "score": 1866,
+    "globalRank": 4622
   },
   {
     "login": "stephane-caron",
@@ -2461,7 +2636,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 176,
-    "score": 3262
+    "score": 3262,
+    "globalRank": 4752
   },
   {
     "login": "gildas-lormeau",
@@ -2475,7 +2651,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 177,
-    "score": 5032
+    "score": 5032,
+    "globalRank": 4757
   },
   {
     "login": "billythegoat356",
@@ -2489,7 +2666,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 178,
-    "score": 4458
+    "score": 4458,
+    "globalRank": 4766
   },
   {
     "login": "bzg",
@@ -2503,7 +2681,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 179,
-    "score": 2223
+    "score": 2223,
+    "globalRank": 4783
   },
   {
     "login": "Yomguithereal",
@@ -2517,7 +2696,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 180,
-    "score": 2696
+    "score": 2696,
+    "globalRank": 4789
   },
   {
     "login": "hadronized",
@@ -2531,7 +2711,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 181,
-    "score": 867
+    "score": 867,
+    "globalRank": 4796
   },
   {
     "login": "mbeaudru",
@@ -2545,7 +2726,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 182,
-    "score": 1812
+    "score": 1812,
+    "globalRank": 4814
   },
   {
     "login": "kizu",
@@ -2559,7 +2741,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 183,
-    "score": 2264
+    "score": 2264,
+    "globalRank": 4872
   },
   {
     "login": "ask0ldd",
@@ -2573,7 +2756,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 184,
-    "score": 2086
+    "score": 2086,
+    "globalRank": 4888
   },
   {
     "login": "scraly",
@@ -2587,7 +2771,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 185,
-    "score": 3798
+    "score": 3798,
+    "globalRank": 4906
   },
   {
     "login": "florimondmanca",
@@ -2601,7 +2786,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 186,
-    "score": 945
+    "score": 945,
+    "globalRank": 4932
   },
   {
     "login": "patrickheng",
@@ -2615,7 +2801,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 187,
-    "score": 1765
+    "score": 1765,
+    "globalRank": 4939
   },
   {
     "login": "furrtek",
@@ -2629,7 +2816,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 188,
-    "score": 972
+    "score": 972,
+    "globalRank": 4947
   },
   {
     "login": "arv",
@@ -2643,7 +2831,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 189,
-    "score": 2774
+    "score": 2774,
+    "globalRank": 4955
   },
   {
     "login": "benjamincanac",
@@ -2657,7 +2846,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 190,
-    "score": 3501
+    "score": 3501,
+    "globalRank": 4961
   },
   {
     "login": "xavierleroy",
@@ -2671,7 +2861,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 191,
-    "score": 1056
+    "score": 1056,
+    "globalRank": 4975
   },
   {
     "login": "xcarpentier",
@@ -2685,7 +2876,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 192,
-    "score": 4187
+    "score": 4187,
+    "globalRank": 4990
   },
   {
     "login": "dgageot",
@@ -2699,7 +2891,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 193,
-    "score": 16128
+    "score": 16128,
+    "globalRank": 4991
   },
   {
     "login": "mgcrea",
@@ -2713,7 +2906,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 194,
-    "score": 2275
+    "score": 2275,
+    "globalRank": 4998
   },
   {
     "login": "fathyb",
@@ -2727,7 +2921,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 195,
-    "score": 820
+    "score": 820,
+    "globalRank": 5063
   },
   {
     "login": "Synchro",
@@ -2741,7 +2936,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 196,
-    "score": 1363
+    "score": 1363,
+    "globalRank": 5073
   },
   {
     "login": "adefossez",
@@ -2755,7 +2951,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 197,
-    "score": 949
+    "score": 949,
+    "globalRank": 5076
   },
   {
     "login": "rouault",
@@ -2769,7 +2966,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 198,
-    "score": 7132
+    "score": 7132,
+    "globalRank": 5122
   },
   {
     "login": "nkallen",
@@ -2783,7 +2981,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 199,
-    "score": 2749
+    "score": 2749,
+    "globalRank": 5134
   },
   {
     "login": "lyrixx",
@@ -2797,7 +2996,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 200,
-    "score": 2827
+    "score": 2827,
+    "globalRank": 5175
   },
   {
     "login": "FGRibreau",
@@ -2811,7 +3011,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 201,
-    "score": 6515
+    "score": 6515,
+    "globalRank": 5192
   },
   {
     "login": "tetref",
@@ -2825,7 +3026,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 202,
-    "score": 1473
+    "score": 1473,
+    "globalRank": 5206
   },
   {
     "login": "Zylann",
@@ -2839,7 +3041,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 203,
-    "score": 1172
+    "score": 1172,
+    "globalRank": 5282
   },
   {
     "login": "togglebyte",
@@ -2853,7 +3056,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 204,
-    "score": 1640
+    "score": 1640,
+    "globalRank": 5283
   },
   {
     "login": "ArthurZucker",
@@ -2867,7 +3071,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 205,
-    "score": 6217
+    "score": 6217,
+    "globalRank": 5298
   },
   {
     "login": "MysteriousSonOfGod",
@@ -2881,7 +3086,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 206,
-    "score": 786
+    "score": 786,
+    "globalRank": 5299
   },
   {
     "login": "vincent-pradeilles",
@@ -2895,7 +3101,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 207,
-    "score": 786
+    "score": 786,
+    "globalRank": 5315
   },
   {
     "login": "Kehrlann",
@@ -2909,7 +3116,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 208,
-    "score": 2499
+    "score": 2499,
+    "globalRank": 5337
   },
   {
     "login": "vicb",
@@ -2923,7 +3131,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 209,
-    "score": 3307
+    "score": 3307,
+    "globalRank": 5371
   },
   {
     "login": "sebcrozet",
@@ -2937,7 +3146,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 210,
-    "score": 1272
+    "score": 1272,
+    "globalRank": 5372
   },
   {
     "login": "mlabouardy",
@@ -2951,7 +3161,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 211,
-    "score": 1006
+    "score": 1006,
+    "globalRank": 5392
   },
   {
     "login": "maziyarpanahi",
@@ -2965,7 +3176,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 212,
-    "score": 11951
+    "score": 11951,
+    "globalRank": 5408
   },
   {
     "login": "mcombeau",
@@ -2979,7 +3191,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 213,
-    "score": 785
+    "score": 785,
+    "globalRank": 5414
   },
   {
     "login": "n1k0",
@@ -2993,7 +3206,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 214,
-    "score": 1352
+    "score": 1352,
+    "globalRank": 5423
   },
   {
     "login": "tdd",
@@ -3007,7 +3221,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 215,
-    "score": 776
+    "score": 776,
+    "globalRank": 5516
   },
   {
     "login": "samirsaci",
@@ -3021,7 +3236,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 216,
-    "score": 889
+    "score": 889,
+    "globalRank": 5531
   },
   {
     "login": "Btelgeuse",
@@ -3035,7 +3251,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 217,
-    "score": 813
+    "score": 813,
+    "globalRank": 5554
   },
   {
     "login": "ccamel",
@@ -3049,7 +3266,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 218,
-    "score": 3565
+    "score": 3565,
+    "globalRank": 5577
   },
   {
     "login": "luongnv89",
@@ -3063,7 +3281,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 219,
-    "score": 8640
+    "score": 8640,
+    "globalRank": 5598
   },
   {
     "login": "Thesirix",
@@ -3077,7 +3296,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 220,
-    "score": 1543
+    "score": 1543,
+    "globalRank": 5623
   },
   {
     "login": "angeluriot",
@@ -3091,7 +3311,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 221,
-    "score": 1479
+    "score": 1479,
+    "globalRank": 5627
   },
   {
     "login": "techschool",
@@ -3105,7 +3326,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 222,
-    "score": 746
+    "score": 746,
+    "globalRank": 5628
   },
   {
     "login": "steeve",
@@ -3119,7 +3341,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 223,
-    "score": 1161
+    "score": 1161,
+    "globalRank": 5685
   },
   {
     "login": "vdemeester",
@@ -3133,7 +3356,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 224,
-    "score": 5212
+    "score": 5212,
+    "globalRank": 5708
   },
   {
     "login": "Amxx",
@@ -3147,7 +3371,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 225,
-    "score": 1777
+    "score": 1777,
+    "globalRank": 5716
   },
   {
     "login": "acids-ircam",
@@ -3161,7 +3386,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 226,
-    "score": 735
+    "score": 735,
+    "globalRank": 5728
   },
   {
     "login": "mathisjs",
@@ -3175,7 +3401,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 227,
-    "score": 3931
+    "score": 3931,
+    "globalRank": 5756
   },
   {
     "login": "baptisteArno",
@@ -3189,7 +3416,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 228,
-    "score": 2028
+    "score": 2028,
+    "globalRank": 5767
   },
   {
     "login": "vletoux",
@@ -3203,7 +3431,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 229,
-    "score": 728
+    "score": 728,
+    "globalRank": 5783
   },
   {
     "login": "aurelienshz",
@@ -3217,7 +3446,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 230,
-    "score": 1017
+    "score": 1017,
+    "globalRank": 5784
   },
   {
     "login": "nabla-c0d3",
@@ -3231,7 +3461,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 231,
-    "score": 1001
+    "score": 1001,
+    "globalRank": 5785
   },
   {
     "login": "andfanilo",
@@ -3245,7 +3476,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 232,
-    "score": 770
+    "score": 770,
+    "globalRank": 5820
   },
   {
     "login": "bpesquet",
@@ -3259,7 +3491,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 233,
-    "score": 971
+    "score": 971,
+    "globalRank": 5850
   },
   {
     "login": "ldez",
@@ -3273,7 +3506,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 234,
-    "score": 3910
+    "score": 3910,
+    "globalRank": 5851
   },
   {
     "login": "Canop",
@@ -3287,7 +3521,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 235,
-    "score": 1358
+    "score": 1358,
+    "globalRank": 5858
   },
   {
     "login": "ocombe",
@@ -3301,7 +3536,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 236,
-    "score": 3353
+    "score": 3353,
+    "globalRank": 5868
   },
   {
     "login": "Conchylicultor",
@@ -3315,7 +3551,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 237,
-    "score": 2294
+    "score": 2294,
+    "globalRank": 5922
   },
   {
     "login": "Kerollmops",
@@ -3329,7 +3566,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 238,
-    "score": 2772
+    "score": 2772,
+    "globalRank": 6014
   },
   {
     "login": "cgrand",
@@ -3343,7 +3581,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 239,
-    "score": 749
+    "score": 749,
+    "globalRank": 6015
   },
   {
     "login": "JoanZapata",
@@ -3357,7 +3596,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 240,
-    "score": 696
+    "score": 696,
+    "globalRank": 6049
   },
   {
     "login": "fraxken",
@@ -3371,7 +3611,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 241,
-    "score": 2892
+    "score": 2892,
+    "globalRank": 6057
   },
   {
     "login": "andreafioraldi",
@@ -3385,7 +3626,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 242,
-    "score": 696
+    "score": 696,
+    "globalRank": 6058
   },
   {
     "login": "Denis2054",
@@ -3399,7 +3641,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 243,
-    "score": 2040
+    "score": 2040,
+    "globalRank": 6115
   },
   {
     "login": "solygambas",
@@ -3413,7 +3656,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 244,
-    "score": 3352
+    "score": 3352,
+    "globalRank": 6190
   },
   {
     "login": "suprcutie",
@@ -3427,7 +3671,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 245,
-    "score": 728
+    "score": 728,
+    "globalRank": 6238
   },
   {
     "login": "xMicode",
@@ -3441,7 +3686,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 246,
-    "score": 698
+    "score": 698,
+    "globalRank": 6248
   },
   {
     "login": "sakuyaloli",
@@ -3455,7 +3701,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 247,
-    "score": 2402
+    "score": 2402,
+    "globalRank": 6255
   },
   {
     "login": "teh-cmc",
@@ -3469,7 +3716,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 248,
-    "score": 2819
+    "score": 2819,
+    "globalRank": 6289
   },
   {
     "login": "dadoonet",
@@ -3483,7 +3731,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 249,
-    "score": 3018
+    "score": 3018,
+    "globalRank": 6299
   },
   {
     "login": "mustache-dev",
@@ -3497,7 +3746,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 250,
-    "score": 1443
+    "score": 1443,
+    "globalRank": 6313
   },
   {
     "login": "guillaumegenthial",
@@ -3511,7 +3761,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 251,
-    "score": 671
+    "score": 671,
+    "globalRank": 6314
   },
   {
     "login": "AstraaDev",
@@ -3525,7 +3776,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 252,
-    "score": 747
+    "score": 747,
+    "globalRank": 6333
   },
   {
     "login": "davidebbo",
@@ -3539,7 +3791,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 253,
-    "score": 2166
+    "score": 2166,
+    "globalRank": 6378
   },
   {
     "login": "cjdelisle",
@@ -3553,7 +3806,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 254,
-    "score": 782
+    "score": 782,
+    "globalRank": 6410
   },
   {
     "login": "tpaviot",
@@ -3567,7 +3821,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 255,
-    "score": 752
+    "score": 752,
+    "globalRank": 6447
   },
   {
     "login": "0intro",
@@ -3581,7 +3836,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 256,
-    "score": 1671
+    "score": 1671,
+    "globalRank": 6448
   },
   {
     "login": "sylvestre",
@@ -3595,7 +3851,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 257,
-    "score": 4759
+    "score": 4759,
+    "globalRank": 6495
   },
   {
     "login": "alelievr",
@@ -3609,7 +3866,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 258,
-    "score": 941
+    "score": 941,
+    "globalRank": 6509
   },
   {
     "login": "forax",
@@ -3623,7 +3881,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 259,
-    "score": 1830
+    "score": 1830,
+    "globalRank": 6518
   },
   {
     "login": "simongravelle",
@@ -3637,7 +3896,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 260,
-    "score": 4213
+    "score": 4213,
+    "globalRank": 6571
   },
   {
     "login": "Fosowl",
@@ -3651,7 +3911,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 261,
-    "score": 1885
+    "score": 1885,
+    "globalRank": 6592
   },
   {
     "login": "DoubangoTelecom",
@@ -3665,7 +3926,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 262,
-    "score": 700
+    "score": 700,
+    "globalRank": 6593
   },
   {
     "login": "lovasoa",
@@ -3679,7 +3941,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 263,
-    "score": 4275
+    "score": 4275,
+    "globalRank": 6609
   },
   {
     "login": "cderv",
@@ -3693,7 +3956,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 264,
-    "score": 4246
+    "score": 4246,
+    "globalRank": 6610
   },
   {
     "login": "Guilouz",
@@ -3707,7 +3971,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 265,
-    "score": 1197
+    "score": 1197,
+    "globalRank": 6618
   },
   {
     "login": "glaforge",
@@ -3721,7 +3986,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 266,
-    "score": 1298
+    "score": 1298,
+    "globalRank": 6630
   },
   {
     "login": "melix",
@@ -3735,7 +4001,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 267,
-    "score": 4005
+    "score": 4005,
+    "globalRank": 6631
   },
   {
     "login": "jacomyal",
@@ -3749,7 +4016,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 268,
-    "score": 963
+    "score": 963,
+    "globalRank": 6669
   },
   {
     "login": "franky47",
@@ -3763,7 +4031,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 269,
-    "score": 2304
+    "score": 2304,
+    "globalRank": 6732
   },
   {
     "login": "pgrimaud",
@@ -3777,7 +4046,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 270,
-    "score": 2180
+    "score": 2180,
+    "globalRank": 6746
   },
   {
     "login": "Ullaakut",
@@ -3791,7 +4061,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 271,
-    "score": 1432
+    "score": 1432,
+    "globalRank": 6768
   },
   {
     "login": "ayamflow",
@@ -3805,7 +4076,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 272,
-    "score": 1059
+    "score": 1059,
+    "globalRank": 6769
   },
   {
     "login": "bblanchon",
@@ -3819,7 +4091,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 273,
-    "score": 3130
+    "score": 3130,
+    "globalRank": 6838
   },
   {
     "login": "Naereen",
@@ -3833,7 +4106,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 274,
-    "score": 1146
+    "score": 1146,
+    "globalRank": 6839
   },
   {
     "login": "Haroenv",
@@ -3847,7 +4121,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 275,
-    "score": 2029
+    "score": 2029,
+    "globalRank": 6851
   },
   {
     "login": "tarekziade",
@@ -3861,7 +4136,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 276,
-    "score": 2080
+    "score": 2080,
+    "globalRank": 6893
   },
   {
     "login": "guillaumebriday",
@@ -3875,7 +4151,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 277,
-    "score": 846
+    "score": 846,
+    "globalRank": 6913
   },
   {
     "login": "Amagash",
@@ -3889,7 +4166,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 278,
-    "score": 1036
+    "score": 1036,
+    "globalRank": 6914
   },
   {
     "login": "franck-gaspoz",
@@ -3903,7 +4181,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 279,
-    "score": 4752
+    "score": 4752,
+    "globalRank": 6926
   },
   {
     "login": "darrachequesne",
@@ -3917,7 +4196,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 280,
-    "score": 967
+    "score": 967,
+    "globalRank": 6927
   },
   {
     "login": "supermerill",
@@ -3931,7 +4211,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 281,
-    "score": 1059
+    "score": 1059,
+    "globalRank": 6942
   },
   {
     "login": "SimonMarquis",
@@ -3945,7 +4226,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 282,
-    "score": 2240
+    "score": 2240,
+    "globalRank": 6961
   },
   {
     "login": "pawamoy",
@@ -3959,7 +4241,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 283,
-    "score": 2515
+    "score": 2515,
+    "globalRank": 6990
   },
   {
     "login": "helaili",
@@ -3973,7 +4256,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 284,
-    "score": 1450
+    "score": 1450,
+    "globalRank": 7016
   },
   {
     "login": "chalasr",
@@ -3987,7 +4271,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 285,
-    "score": 1258
+    "score": 1258,
+    "globalRank": 7049
   },
   {
     "login": "albertvillanova",
@@ -4001,7 +4286,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 286,
-    "score": 2873
+    "score": 2873,
+    "globalRank": 7050
   },
   {
     "login": "charlesBochet",
@@ -4015,7 +4301,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 287,
-    "score": 5080
+    "score": 5080,
+    "globalRank": 7075
   },
   {
     "login": "mklabs",
@@ -4029,7 +4316,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 288,
-    "score": 2134
+    "score": 2134,
+    "globalRank": 7087
   },
   {
     "login": "belem2050",
@@ -4043,7 +4331,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 289,
-    "score": 1359
+    "score": 1359,
+    "globalRank": 7114
   },
   {
     "login": "gdalle",
@@ -4057,7 +4346,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 290,
-    "score": 1890
+    "score": 1890,
+    "globalRank": 7125
   },
   {
     "login": "rlouf",
@@ -4071,7 +4361,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 291,
-    "score": 3882
+    "score": 3882,
+    "globalRank": 7155
   },
   {
     "login": "CJ42",
@@ -4085,7 +4376,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 292,
-    "score": 1728
+    "score": 1728,
+    "globalRank": 7163
   },
   {
     "login": "THZoria",
@@ -4099,7 +4391,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 293,
-    "score": 708
+    "score": 708,
+    "globalRank": 7164
   },
   {
     "login": "martinRenou",
@@ -4113,7 +4406,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 294,
-    "score": 4237
+    "score": 4237,
+    "globalRank": 7176
   },
   {
     "login": "davidgohel",
@@ -4127,7 +4421,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 295,
-    "score": 1237
+    "score": 1237,
+    "globalRank": 7185
   },
   {
     "login": "thibo73800",
@@ -4141,7 +4436,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 296,
-    "score": 597
+    "score": 597,
+    "globalRank": 7186
   },
   {
     "login": "lhoestq",
@@ -4155,7 +4451,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 297,
-    "score": 1606
+    "score": 1606,
+    "globalRank": 7197
   },
   {
     "login": "koutto",
@@ -4169,7 +4466,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 298,
-    "score": 1161
+    "score": 1161,
+    "globalRank": 7221
   },
   {
     "login": "amilamen",
@@ -4183,7 +4481,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 299,
-    "score": 650
+    "score": 650,
+    "globalRank": 7256
   },
   {
     "login": "KOUISAmine",
@@ -4197,7 +4496,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 300,
-    "score": 585
+    "score": 585,
+    "globalRank": 7270
   },
   {
     "login": "eon01",
@@ -4211,7 +4511,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 301,
-    "score": 2389
+    "score": 2389,
+    "globalRank": 7300
   },
   {
     "login": "vinayak-mehta",
@@ -4225,7 +4526,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 302,
-    "score": 1962
+    "score": 1962,
+    "globalRank": 7315
   },
   {
     "login": "Aymen311",
@@ -4239,7 +4541,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 303,
-    "score": 669
+    "score": 669,
+    "globalRank": 7323
   },
   {
     "login": "d0iasm",
@@ -4253,7 +4556,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 304,
-    "score": 664
+    "score": 664,
+    "globalRank": 7333
   },
   {
     "login": "Wenzel",
@@ -4267,7 +4571,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 305,
-    "score": 2639
+    "score": 2639,
+    "globalRank": 7356
   },
   {
     "login": "ddrayko",
@@ -4281,7 +4586,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 306,
-    "score": 953
+    "score": 953,
+    "globalRank": 7357
   },
   {
     "login": "huextrat",
@@ -4295,7 +4601,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 307,
-    "score": 3954
+    "score": 3954,
+    "globalRank": 7380
   },
   {
     "login": "sofienkaabar",
@@ -4309,7 +4616,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 308,
-    "score": 607
+    "score": 607,
+    "globalRank": 7417
   },
   {
     "login": "gus33000",
@@ -4323,7 +4631,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 309,
-    "score": 916
+    "score": 916,
+    "globalRank": 7454
   },
   {
     "login": "kevinchalet",
@@ -4337,7 +4646,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 310,
-    "score": 1132
+    "score": 1132,
+    "globalRank": 7461
   },
   {
     "login": "emilevauge",
@@ -4351,7 +4661,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 311,
-    "score": 1984
+    "score": 1984,
+    "globalRank": 7472
   },
   {
     "login": "sebsto",
@@ -4365,7 +4676,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 312,
-    "score": 2343
+    "score": 2343,
+    "globalRank": 7483
   },
   {
     "login": "ccadic",
@@ -4379,7 +4691,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 313,
-    "score": 811
+    "score": 811,
+    "globalRank": 7500
   },
   {
     "login": "ProcessusT",
@@ -4393,7 +4706,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 314,
-    "score": 667
+    "score": 667,
+    "globalRank": 7511
   },
   {
     "login": "artivis",
@@ -4407,7 +4721,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 315,
-    "score": 1070
+    "score": 1070,
+    "globalRank": 7526
   },
   {
     "login": "Litarvan",
@@ -4421,7 +4736,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 316,
-    "score": 799
+    "score": 799,
+    "globalRank": 7573
   },
   {
     "login": "lindenb",
@@ -4435,7 +4751,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 317,
-    "score": 899
+    "score": 899,
+    "globalRank": 7574
   },
   {
     "login": "Ellen010",
@@ -4449,7 +4766,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 318,
-    "score": 2187
+    "score": 2187,
+    "globalRank": 7613
   },
   {
     "login": "Anahkiasen",
@@ -4463,7 +4781,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 319,
-    "score": 3763
+    "score": 3763,
+    "globalRank": 7614
   },
   {
     "login": "samhocevar",
@@ -4477,7 +4796,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 320,
-    "score": 581
+    "score": 581,
+    "globalRank": 7631
   },
   {
     "login": "millsp",
@@ -4491,7 +4811,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 321,
-    "score": 1817
+    "score": 1817,
+    "globalRank": 7656
   },
   {
     "login": "spolu",
@@ -4505,7 +4826,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 322,
-    "score": 2869
+    "score": 2869,
+    "globalRank": 7679
   },
   {
     "login": "thom4parisot",
@@ -4519,7 +4841,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 323,
-    "score": 804
+    "score": 804,
+    "globalRank": 7711
   },
   {
     "login": "TuxSH",
@@ -4533,7 +4856,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 324,
-    "score": 1756
+    "score": 1756,
+    "globalRank": 7727
   },
   {
     "login": "jvoisin",
@@ -4547,7 +4871,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 325,
-    "score": 1607
+    "score": 1607,
+    "globalRank": 7742
   },
   {
     "login": "arthurmensch",
@@ -4561,7 +4886,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 326,
-    "score": 544
+    "score": 544,
+    "globalRank": 7743
   },
   {
     "login": "femtotrader",
@@ -4575,7 +4901,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 327,
-    "score": 813
+    "score": 813,
+    "globalRank": 7765
   },
   {
     "login": "jeffdonthemic",
@@ -4589,7 +4916,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 328,
-    "score": 651
+    "score": 651,
+    "globalRank": 7792
   },
   {
     "login": "alexandreruban",
@@ -4603,7 +4931,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 329,
-    "score": 548
+    "score": 548,
+    "globalRank": 7801
   },
   {
     "login": "oliviergimenez",
@@ -4617,7 +4946,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 330,
-    "score": 937
+    "score": 937,
+    "globalRank": 7854
   },
   {
     "login": "f4exb",
@@ -4631,7 +4961,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 331,
-    "score": 863
+    "score": 863,
+    "globalRank": 7926
   },
   {
     "login": "arnaud-lb",
@@ -4645,7 +4976,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 332,
-    "score": 997
+    "score": 997,
+    "globalRank": 8019
   },
   {
     "login": "yoanbernabeu",
@@ -4659,7 +4991,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 333,
-    "score": 1810
+    "score": 1810,
+    "globalRank": 8034
   },
   {
     "login": "Darkcode-it",
@@ -4673,7 +5006,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 334,
-    "score": 668
+    "score": 668,
+    "globalRank": 8059
   },
   {
     "login": "CedricGuillemet",
@@ -4687,7 +5021,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 335,
-    "score": 1876
+    "score": 1876,
+    "globalRank": 8075
   },
   {
     "login": "superguigui",
@@ -4701,7 +5036,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 336,
-    "score": 523
+    "score": 523,
+    "globalRank": 8096
   },
   {
     "login": "loubnabnl",
@@ -4715,7 +5051,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 337,
-    "score": 687
+    "score": 687,
+    "globalRank": 8110
   },
   {
     "login": "guillaumebort",
@@ -4729,7 +5066,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 338,
-    "score": 1947
+    "score": 1947,
+    "globalRank": 8197
   },
   {
     "login": "briatte",
@@ -4743,7 +5081,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 339,
-    "score": 712
+    "score": 712,
+    "globalRank": 8215
   },
   {
     "login": "woidzero",
@@ -4757,7 +5096,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 340,
-    "score": 575
+    "score": 575,
+    "globalRank": 8235
   },
   {
     "login": "shprink",
@@ -4771,7 +5111,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 341,
-    "score": 708
+    "score": 708,
+    "globalRank": 8256
   },
   {
     "login": "augustin7698",
@@ -4785,7 +5126,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 342,
-    "score": 611
+    "score": 611,
+    "globalRank": 8369
   },
   {
     "login": "marcomiduri",
@@ -4799,7 +5141,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 343,
-    "score": 575
+    "score": 575,
+    "globalRank": 8393
   },
   {
     "login": "soyuka",
@@ -4813,7 +5156,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 344,
-    "score": 3344
+    "score": 3344,
+    "globalRank": 8394
   },
   {
     "login": "jponge",
@@ -4827,7 +5171,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 345,
-    "score": 1394
+    "score": 1394,
+    "globalRank": 8446
   },
   {
     "login": "N0rz3",
@@ -4841,7 +5186,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 346,
-    "score": 498
+    "score": 498,
+    "globalRank": 8468
   },
   {
     "login": "regismeyssonnier",
@@ -4855,7 +5201,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 347,
-    "score": 557
+    "score": 557,
+    "globalRank": 8469
   },
   {
     "login": "Kadaaran",
@@ -4869,7 +5216,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 348,
-    "score": 668
+    "score": 668,
+    "globalRank": 8470
   },
   {
     "login": "Mattrack",
@@ -4883,7 +5231,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 349,
-    "score": 785
+    "score": 785,
+    "globalRank": 8489
   },
   {
     "login": "LukyVj",
@@ -4897,7 +5246,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 350,
-    "score": 535
+    "score": 535,
+    "globalRank": 8508
   },
   {
     "login": "tobozo",
@@ -4911,7 +5261,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 351,
-    "score": 1134
+    "score": 1134,
+    "globalRank": 8528
   },
   {
     "login": "7PH",
@@ -4925,7 +5276,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 352,
-    "score": 2886
+    "score": 2886,
+    "globalRank": 8542
   },
   {
     "login": "traex",
@@ -4939,7 +5291,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 353,
-    "score": 493
+    "score": 493,
+    "globalRank": 8543
   },
   {
     "login": "KtorZ",
@@ -4953,7 +5306,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 354,
-    "score": 2173
+    "score": 2173,
+    "globalRank": 8573
   },
   {
     "login": "frankie567",
@@ -4967,7 +5321,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 355,
-    "score": 7095
+    "score": 7095,
+    "globalRank": 8574
   },
   {
     "login": "JCluzet",
@@ -4981,7 +5336,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 356,
-    "score": 2448
+    "score": 2448,
+    "globalRank": 8632
   },
   {
     "login": "beyhosni",
@@ -4995,7 +5351,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 357,
-    "score": 767
+    "score": 767,
+    "globalRank": 8633
   },
   {
     "login": "Julien-R44",
@@ -5009,7 +5366,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 358,
-    "score": 6279
+    "score": 6279,
+    "globalRank": 8662
   },
   {
     "login": "hadrienj",
@@ -5023,7 +5381,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 359,
-    "score": 1310
+    "score": 1310,
+    "globalRank": 8678
   },
   {
     "login": "piitaya",
@@ -5037,7 +5396,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 360,
-    "score": 2567
+    "score": 2567,
+    "globalRank": 8679
   },
   {
     "login": "CathyDolle",
@@ -5051,7 +5411,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 361,
-    "score": 530
+    "score": 530,
+    "globalRank": 8695
   },
   {
     "login": "damienvanrobaeys",
@@ -5065,7 +5426,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 362,
-    "score": 555
+    "score": 555,
+    "globalRank": 8696
   },
   {
     "login": "samoht",
@@ -5079,7 +5441,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 363,
-    "score": 16931
+    "score": 16931,
+    "globalRank": 8727
   },
   {
     "login": "Tahul",
@@ -5093,7 +5456,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 364,
-    "score": 3791
+    "score": 3791,
+    "globalRank": 8728
   },
   {
     "login": "hbredin",
@@ -5107,7 +5471,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 365,
-    "score": 1127
+    "score": 1127,
+    "globalRank": 8729
   },
   {
     "login": "VonC",
@@ -5121,7 +5486,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 366,
-    "score": 1023
+    "score": 1023,
+    "globalRank": 8740
   },
   {
     "login": "hallard",
@@ -5135,7 +5501,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 367,
-    "score": 945
+    "score": 945,
+    "globalRank": 8759
   },
   {
     "login": "TerrorJack",
@@ -5149,7 +5516,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 368,
-    "score": 1423
+    "score": 1423,
+    "globalRank": 8760
   },
   {
     "login": "mrkkrp",
@@ -5163,7 +5531,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 369,
-    "score": 1000
+    "score": 1000,
+    "globalRank": 8798
   },
   {
     "login": "domlysz",
@@ -5177,7 +5546,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 370,
-    "score": 495
+    "score": 495,
+    "globalRank": 8814
   },
   {
     "login": "fpillet",
@@ -5191,7 +5561,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 371,
-    "score": 477
+    "score": 477,
+    "globalRank": 8815
   },
   {
     "login": "ndeloof",
@@ -5205,7 +5576,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 372,
-    "score": 1477
+    "score": 1477,
+    "globalRank": 8851
   },
   {
     "login": "almet",
@@ -5219,7 +5591,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 373,
-    "score": 1725
+    "score": 1725,
+    "globalRank": 8852
   },
   {
     "login": "mynameisfiber",
@@ -5233,7 +5606,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 374,
-    "score": 507
+    "score": 507,
+    "globalRank": 8877
   },
   {
     "login": "gpakosz",
@@ -5247,7 +5621,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 375,
-    "score": 514
+    "score": 514,
+    "globalRank": 8896
   },
   {
     "login": "ffoodd",
@@ -5261,7 +5636,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 376,
-    "score": 786
+    "score": 786,
+    "globalRank": 8897
   },
   {
     "login": "nical",
@@ -5275,7 +5651,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 377,
-    "score": 1346
+    "score": 1346,
+    "globalRank": 8918
   },
   {
     "login": "padenot",
@@ -5289,7 +5666,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 378,
-    "score": 1775
+    "score": 1775,
+    "globalRank": 8919
   },
   {
     "login": "kefranabg",
@@ -5303,7 +5681,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 379,
-    "score": 1763
+    "score": 1763,
+    "globalRank": 8937
   },
   {
     "login": "leon196",
@@ -5317,7 +5696,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 380,
-    "score": 581
+    "score": 581,
+    "globalRank": 8938
   },
   {
     "login": "JeanMeche",
@@ -5331,7 +5711,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 381,
-    "score": 3267
+    "score": 3267,
+    "globalRank": 8969
   },
   {
     "login": "simonbasle",
@@ -5345,7 +5726,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 382,
-    "score": 467
+    "score": 467,
+    "globalRank": 9010
   },
   {
     "login": "garronej",
@@ -5359,7 +5741,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 383,
-    "score": 3119
+    "score": 3119,
+    "globalRank": 9043
   },
   {
     "login": "ajnart",
@@ -5373,7 +5756,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 384,
-    "score": 4628
+    "score": 4628,
+    "globalRank": 9044
   },
   {
     "login": "LudovicRousseau",
@@ -5387,7 +5771,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 385,
-    "score": 2932
+    "score": 2932,
+    "globalRank": 9045
   },
   {
     "login": "steelbrain",
@@ -5401,7 +5786,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 386,
-    "score": 4980
+    "score": 4980,
+    "globalRank": 9090
   },
   {
     "login": "pchaigno",
@@ -5415,7 +5801,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 387,
-    "score": 1449
+    "score": 1449,
+    "globalRank": 9112
   },
   {
     "login": "martinbonnin",
@@ -5429,7 +5816,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 388,
-    "score": 3700
+    "score": 3700,
+    "globalRank": 9129
   },
   {
     "login": "cyyynthia",
@@ -5443,7 +5831,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 389,
-    "score": 1499
+    "score": 1499,
+    "globalRank": 9147
   },
   {
     "login": "raphaelvallat",
@@ -5457,7 +5846,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 390,
-    "score": 605
+    "score": 605,
+    "globalRank": 9163
   },
   {
     "login": "roubachof",
@@ -5471,7 +5861,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 391,
-    "score": 485
+    "score": 485,
+    "globalRank": 9164
   },
   {
     "login": "FrenchYeti",
@@ -5485,7 +5876,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 392,
-    "score": 467
+    "score": 467,
+    "globalRank": 9186
   },
   {
     "login": "NouamaneTazi",
@@ -5499,7 +5891,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 393,
-    "score": 2208
+    "score": 2208,
+    "globalRank": 9209
   },
   {
     "login": "Nilhcem",
@@ -5513,7 +5906,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 394,
-    "score": 457
+    "score": 457,
+    "globalRank": 9210
   },
   {
     "login": "RaitoBezarius",
@@ -5527,7 +5921,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 395,
-    "score": 791
+    "score": 791,
+    "globalRank": 9211
   },
   {
     "login": "javascriptdezero",
@@ -5541,7 +5936,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 396,
-    "score": 456
+    "score": 456,
+    "globalRank": 9234
   },
   {
     "login": "laluka",
@@ -5555,7 +5951,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 397,
-    "score": 746
+    "score": 746,
+    "globalRank": 9235
   },
   {
     "login": "soupette",
@@ -5569,7 +5966,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 398,
-    "score": 2244
+    "score": 2244,
+    "globalRank": 9236
   },
   {
     "login": "eko",
@@ -5583,7 +5981,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 399,
-    "score": 3763
+    "score": 3763,
+    "globalRank": 9237
   },
   {
     "login": "armel",
@@ -5597,7 +5996,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 400,
-    "score": 1101
+    "score": 1101,
+    "globalRank": 9238
   },
   {
     "login": "Blerina79",
@@ -5611,7 +6011,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 401,
-    "score": 453
+    "score": 453,
+    "globalRank": 9296
   },
   {
     "login": "kartben",
@@ -5625,7 +6026,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 402,
-    "score": 5506
+    "score": 5506,
+    "globalRank": 9297
   },
   {
     "login": "bnjbvr",
@@ -5639,7 +6041,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 403,
-    "score": 1728
+    "score": 1728,
+    "globalRank": 9298
   },
   {
     "login": "martinlaxenaire",
@@ -5653,7 +6056,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 404,
-    "score": 769
+    "score": 769,
+    "globalRank": 9325
   },
   {
     "login": "ganatan",
@@ -5667,7 +6071,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 405,
-    "score": 2668
+    "score": 2668,
+    "globalRank": 9348
   },
   {
     "login": "jbilcke-hf",
@@ -5681,7 +6086,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 406,
-    "score": 600
+    "score": 600,
+    "globalRank": 9349
   },
   {
     "login": "romainl",
@@ -5695,7 +6101,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 407,
-    "score": 705
+    "score": 705,
+    "globalRank": 9396
   },
   {
     "login": "eliasdorneles",
@@ -5709,7 +6116,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 408,
-    "score": 1095
+    "score": 1095,
+    "globalRank": 9397
   },
   {
     "login": "rxlabz",
@@ -5723,7 +6131,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 409,
-    "score": 500
+    "score": 500,
+    "globalRank": 9398
   },
   {
     "login": "pommedeterresautee",
@@ -5737,7 +6146,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 410,
-    "score": 450
+    "score": 450,
+    "globalRank": 9399
   },
   {
     "login": "PhilippeBoisney",
@@ -5751,7 +6161,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 411,
-    "score": 1106
+    "score": 1106,
+    "globalRank": 9422
   },
   {
     "login": "SofianeHamlaoui",
@@ -5765,7 +6176,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 412,
-    "score": 2275
+    "score": 2275,
+    "globalRank": 9470
   },
   {
     "login": "pyditt",
@@ -5779,7 +6191,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 413,
-    "score": 446
+    "score": 446,
+    "globalRank": 9471
   },
   {
     "login": "alexandrebodin",
@@ -5793,7 +6206,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 414,
-    "score": 1840
+    "score": 1840,
+    "globalRank": 9472
   },
   {
     "login": "arnaudgiuliani",
@@ -5807,7 +6221,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 415,
-    "score": 1128
+    "score": 1128,
+    "globalRank": 9495
   },
   {
     "login": "neolectron",
@@ -5821,7 +6236,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 416,
-    "score": 1312
+    "score": 1312,
+    "globalRank": 9514
   },
   {
     "login": "rth",
@@ -5835,7 +6251,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 417,
-    "score": 468
+    "score": 468,
+    "globalRank": 9586
   },
   {
     "login": "apirrone",
@@ -5849,7 +6266,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 418,
-    "score": 3000
+    "score": 3000,
+    "globalRank": 9587
   },
   {
     "login": "Eschults",
@@ -5863,7 +6281,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 419,
-    "score": 2405
+    "score": 2405,
+    "globalRank": 9613
   },
   {
     "login": "synopse",
@@ -5877,7 +6296,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 420,
-    "score": 540
+    "score": 540,
+    "globalRank": 9633
   },
   {
     "login": "unixfox",
@@ -5891,7 +6311,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 421,
-    "score": 991
+    "score": 991,
+    "globalRank": 9634
   },
   {
     "login": "guenchi",
@@ -5905,7 +6326,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 422,
-    "score": 1469
+    "score": 1469,
+    "globalRank": 9684
   },
   {
     "login": "celine-m-s",
@@ -5919,7 +6341,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 423,
-    "score": 1091
+    "score": 1091,
+    "globalRank": 9726
   },
   {
     "login": "luislavena",
@@ -5933,7 +6356,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 424,
-    "score": 1402
+    "score": 1402,
+    "globalRank": 9755
   },
   {
     "login": "v3ga",
@@ -5947,7 +6371,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 425,
-    "score": 597
+    "score": 597,
+    "globalRank": 9756
   },
   {
     "login": "NicolasPetton",
@@ -5961,7 +6386,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 426,
-    "score": 1820
+    "score": 1820,
+    "globalRank": 9845
   },
   {
     "login": "razakiau",
@@ -5975,7 +6401,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 427,
-    "score": 761
+    "score": 761,
+    "globalRank": 9846
   },
   {
     "login": "AdrienTorris",
@@ -5989,7 +6416,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 428,
-    "score": 2322
+    "score": 2322,
+    "globalRank": 9894
   },
   {
     "login": "tgrall",
@@ -6003,7 +6431,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 429,
-    "score": 1586
+    "score": 1586,
+    "globalRank": 9895
   },
   {
     "login": "Fox2Code",
@@ -6017,7 +6446,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 430,
-    "score": 871
+    "score": 871,
+    "globalRank": 9917
   },
   {
     "login": "David-Guillot",
@@ -6031,7 +6461,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 431,
-    "score": 1177
+    "score": 1177,
+    "globalRank": 9918
   },
   {
     "login": "XenocodeRCE",
@@ -6045,7 +6476,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 432,
-    "score": 652
+    "score": 652,
+    "globalRank": 9919
   },
   {
     "login": "TBoileau",
@@ -6059,7 +6491,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 433,
-    "score": 804
+    "score": 804,
+    "globalRank": 9920
   },
   {
     "login": "florentPoux",
@@ -6073,7 +6506,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 434,
-    "score": 437
+    "score": 437,
+    "globalRank": 9952
   },
   {
     "login": "vincelwt",
@@ -6087,7 +6521,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 435,
-    "score": 3040
+    "score": 3040,
+    "globalRank": 9977
   },
   {
     "login": "hhamon",
@@ -6101,7 +6536,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 436,
-    "score": 697
+    "score": 697,
+    "globalRank": 9978
   },
   {
     "login": "alexattia",
@@ -6115,7 +6551,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 437,
-    "score": 1049
+    "score": 1049,
+    "globalRank": 9979
   },
   {
     "login": "Muzkaw",
@@ -6129,7 +6566,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 438,
-    "score": 423
+    "score": 423,
+    "globalRank": 10000
   },
   {
     "login": "guillaumeduhan",
@@ -6143,7 +6581,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 439,
-    "score": 738
+    "score": 738,
+    "globalRank": 10001
   },
   {
     "login": "IV2FI",
@@ -6157,7 +6596,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 440,
-    "score": 423
+    "score": 423,
+    "globalRank": 10002
   },
   {
     "login": "GoXLd",
@@ -6171,7 +6611,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 441,
-    "score": 2524
+    "score": 2524,
+    "globalRank": 10003
   },
   {
     "login": "anton-l",
@@ -6185,7 +6626,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 442,
-    "score": 477
+    "score": 477,
+    "globalRank": 10021
   },
   {
     "login": "dmnsgn",
@@ -6199,7 +6641,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 443,
-    "score": 1806
+    "score": 1806,
+    "globalRank": 10022
   },
   {
     "login": "bloodyowl",
@@ -6213,7 +6656,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 444,
-    "score": 1996
+    "score": 1996,
+    "globalRank": 10044
   },
   {
     "login": "KanekiWeb",
@@ -6227,7 +6671,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 445,
-    "score": 421
+    "score": 421,
+    "globalRank": 10045
   },
   {
     "login": "thoas",
@@ -6241,7 +6686,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 446,
-    "score": 954
+    "score": 954,
+    "globalRank": 10046
   },
   {
     "login": "adrien2p",
@@ -6255,7 +6701,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 447,
-    "score": 3321
+    "score": 3321,
+    "globalRank": 10094
   },
   {
     "login": "atoulmet",
@@ -6269,7 +6716,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 448,
-    "score": 1787
+    "score": 1787,
+    "globalRank": 10156
   },
   {
     "login": "matt-42",
@@ -6283,7 +6731,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 449,
-    "score": 464
+    "score": 464,
+    "globalRank": 10174
   },
   {
     "login": "louischatriot",
@@ -6297,7 +6746,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 450,
-    "score": 416
+    "score": 416,
+    "globalRank": 10196
   },
   {
     "login": "RobinDavid",
@@ -6311,7 +6761,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 451,
-    "score": 588
+    "score": 588,
+    "globalRank": 10197
   },
   {
     "login": "a14n",
@@ -6325,7 +6776,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 452,
-    "score": 427
+    "score": 427,
+    "globalRank": 10230
   },
   {
     "login": "Bubhux",
@@ -6339,7 +6791,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 453,
-    "score": 743
+    "score": 743,
+    "globalRank": 10231
   },
   {
     "login": "natrixdev",
@@ -6353,7 +6806,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 454,
-    "score": 414
+    "score": 414,
+    "globalRank": 10232
   },
   {
     "login": "innocenzi",
@@ -6367,7 +6821,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 455,
-    "score": 3618
+    "score": 3618,
+    "globalRank": 10259
   },
   {
     "login": "sebsauvage",
@@ -6381,7 +6836,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 456,
-    "score": 413
+    "score": 413,
+    "globalRank": 10260
   },
   {
     "login": "rubenfiszel",
@@ -6395,7 +6851,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 457,
-    "score": 5871
+    "score": 5871,
+    "globalRank": 10290
   },
   {
     "login": "JulienPalard",
@@ -6409,7 +6866,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 458,
-    "score": 538
+    "score": 538,
+    "globalRank": 10321
   },
   {
     "login": "LambdAurora",
@@ -6423,7 +6881,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 459,
-    "score": 1026
+    "score": 1026,
+    "globalRank": 10322
   },
   {
     "login": "MinaPecheux",
@@ -6437,7 +6896,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 460,
-    "score": 413
+    "score": 413,
+    "globalRank": 10323
   },
   {
     "login": "rtcatc",
@@ -6451,7 +6911,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 461,
-    "score": 411
+    "score": 411,
+    "globalRank": 10365
   },
   {
     "login": "Chman",
@@ -6465,7 +6926,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 462,
-    "score": 412
+    "score": 412,
+    "globalRank": 10366
   },
   {
     "login": "Stormix",
@@ -6479,7 +6941,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 463,
-    "score": 4097
+    "score": 4097,
+    "globalRank": 10395
   },
   {
     "login": "flozz",
@@ -6493,7 +6956,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 464,
-    "score": 1163
+    "score": 1163,
+    "globalRank": 10423
   },
   {
     "login": "julien-deramond",
@@ -6507,7 +6971,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 465,
-    "score": 1860
+    "score": 1860,
+    "globalRank": 10452
   },
   {
     "login": "marwaniiwael18",
@@ -6521,7 +6986,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 466,
-    "score": 3548
+    "score": 3548,
+    "globalRank": 10484
   },
   {
     "login": "lauriejim",
@@ -6535,7 +7001,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 467,
-    "score": 570
+    "score": 570,
+    "globalRank": 10485
   },
   {
     "login": "cveneziani",
@@ -6549,7 +7016,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 468,
-    "score": 1525
+    "score": 1525,
+    "globalRank": 10515
   },
   {
     "login": "acrosett",
@@ -6563,7 +7031,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 469,
-    "score": 631
+    "score": 631,
+    "globalRank": 10516
   },
   {
     "login": "clementroche",
@@ -6577,7 +7046,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 470,
-    "score": 2815
+    "score": 2815,
+    "globalRank": 10578
   },
   {
     "login": "Palakis",
@@ -6591,7 +7061,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 471,
-    "score": 672
+    "score": 672,
+    "globalRank": 10579
   },
   {
     "login": "aaaaadrien",
@@ -6605,7 +7076,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 472,
-    "score": 463
+    "score": 463,
+    "globalRank": 10580
   },
   {
     "login": "chergert",
@@ -6619,7 +7091,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 473,
-    "score": 416
+    "score": 416,
+    "globalRank": 10612
   },
   {
     "login": "veloce",
@@ -6633,7 +7106,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 474,
-    "score": 1725
+    "score": 1725,
+    "globalRank": 10613
   },
   {
     "login": "xroche",
@@ -6647,7 +7121,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 475,
-    "score": 3420
+    "score": 3420,
+    "globalRank": 10614
   },
   {
     "login": "jfmengels",
@@ -6661,7 +7136,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 476,
-    "score": 1606
+    "score": 1606,
+    "globalRank": 10700
   },
   {
     "login": "citronneur",
@@ -6675,7 +7151,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 477,
-    "score": 415
+    "score": 415,
+    "globalRank": 10701
   },
   {
     "login": "mcanouil",
@@ -6689,7 +7166,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 478,
-    "score": 7027
+    "score": 7027,
+    "globalRank": 10726
   },
   {
     "login": "antoinevastel",
@@ -6703,7 +7181,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 479,
-    "score": 806
+    "score": 806,
+    "globalRank": 10751
   },
   {
     "login": "k33g",
@@ -6717,7 +7196,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 480,
-    "score": 2248
+    "score": 2248,
+    "globalRank": 10827
   },
   {
     "login": "LaurentGomila",
@@ -6731,7 +7211,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 481,
-    "score": 394
+    "score": 394,
+    "globalRank": 10828
   },
   {
     "login": "RLesur",
@@ -6745,7 +7226,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 482,
-    "score": 1713
+    "score": 1713,
+    "globalRank": 10829
   },
   {
     "login": "Tucsky",
@@ -6759,7 +7241,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 483,
-    "score": 659
+    "score": 659,
+    "globalRank": 10921
   },
   {
     "login": "kylekatarnls",
@@ -6773,7 +7256,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 484,
-    "score": 1697
+    "score": 1697,
+    "globalRank": 10952
   },
   {
     "login": "MurielM87",
@@ -6787,7 +7271,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 485,
-    "score": 411
+    "score": 411,
+    "globalRank": 10953
   },
   {
     "login": "DeveloppeurPascal",
@@ -6801,7 +7286,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 486,
-    "score": 3115
+    "score": 3115,
+    "globalRank": 10954
   },
   {
     "login": "kelu124",
@@ -6815,7 +7301,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 487,
-    "score": 1408
+    "score": 1408,
+    "globalRank": 10982
   },
   {
     "login": "Swiip",
@@ -6829,7 +7316,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 488,
-    "score": 702
+    "score": 702,
+    "globalRank": 10983
   },
   {
     "login": "emmanuelbernard",
@@ -6843,7 +7331,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 489,
-    "score": 513
+    "score": 513,
+    "globalRank": 10984
   },
   {
     "login": "gritzko",
@@ -6857,7 +7346,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 490,
-    "score": 1599
+    "score": 1599,
+    "globalRank": 11036
   },
   {
     "login": "sailro",
@@ -6871,7 +7361,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 491,
-    "score": 1062
+    "score": 1062,
+    "globalRank": 11037
   },
   {
     "login": "LelouchFR",
@@ -6885,7 +7376,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 492,
-    "score": 724
+    "score": 724,
+    "globalRank": 11038
   },
   {
     "login": "gsmet",
@@ -6899,7 +7391,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 493,
-    "score": 8464
+    "score": 8464,
+    "globalRank": 11104
   },
   {
     "login": "Synacktiv-contrib",
@@ -6913,7 +7406,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 494,
-    "score": 385
+    "score": 385,
+    "globalRank": 11105
   },
   {
     "login": "sunny",
@@ -6927,7 +7421,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 495,
-    "score": 5039
+    "score": 5039,
+    "globalRank": 11137
   },
   {
     "login": "muzixing",
@@ -6941,7 +7436,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 496,
-    "score": 496
+    "score": 496,
+    "globalRank": 11138
   },
   {
     "login": "sparkup",
@@ -6955,7 +7451,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 497,
-    "score": 623
+    "score": 623,
+    "globalRank": 11139
   },
   {
     "login": "cor3ntin",
@@ -6969,7 +7466,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 498,
-    "score": 1115
+    "score": 1115,
+    "globalRank": 11165
   },
   {
     "login": "davidbrochart",
@@ -6983,7 +7481,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 499,
-    "score": 3233
+    "score": 3233,
+    "globalRank": 11166
   },
   {
     "login": "nox",
@@ -6997,7 +7496,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 500,
-    "score": 438
+    "score": 438,
+    "globalRank": 11198
   },
   {
     "login": "alexandregv",
@@ -7011,7 +7511,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 501,
-    "score": 884
+    "score": 884,
+    "globalRank": 11239
   },
   {
     "login": "sebanc",
@@ -7025,7 +7526,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 502,
-    "score": 776
+    "score": 776,
+    "globalRank": 11240
   },
   {
     "login": "hteumeuleu",
@@ -7039,7 +7541,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 503,
-    "score": 410
+    "score": 410,
+    "globalRank": 11274
   },
   {
     "login": "Tk-Glitch",
@@ -7053,7 +7556,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 504,
-    "score": 537
+    "score": 537,
+    "globalRank": 11303
   },
   {
     "login": "w8r",
@@ -7067,7 +7571,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 505,
-    "score": 1646
+    "score": 1646,
+    "globalRank": 11335
   },
   {
     "login": "mdouze",
@@ -7081,7 +7586,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 506,
-    "score": 468
+    "score": 468,
+    "globalRank": 11384
   },
   {
     "login": "fxcoudert",
@@ -7095,7 +7601,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 507,
-    "score": 5428
+    "score": 5428,
+    "globalRank": 11385
   },
   {
     "login": "benkuper",
@@ -7109,7 +7616,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 508,
-    "score": 2162
+    "score": 2162,
+    "globalRank": 11386
   },
   {
     "login": "Tripouille",
@@ -7123,7 +7631,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 509,
-    "score": 2050
+    "score": 2050,
+    "globalRank": 11387
   },
   {
     "login": "stephomi",
@@ -7137,7 +7646,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 510,
-    "score": 540
+    "score": 540,
+    "globalRank": 11388
   },
   {
     "login": "NiLuJe",
@@ -7151,7 +7661,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 511,
-    "score": 1615
+    "score": 1615,
+    "globalRank": 11431
   },
   {
     "login": "tgalopin",
@@ -7165,7 +7676,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 512,
-    "score": 37399
+    "score": 37399,
+    "globalRank": 11432
   },
   {
     "login": "diegoalejogm",
@@ -7179,7 +7691,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 513,
-    "score": 431
+    "score": 431,
+    "globalRank": 11487
   },
   {
     "login": "jegou",
@@ -7193,7 +7706,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 514,
-    "score": 372
+    "score": 372,
+    "globalRank": 11525
   },
   {
     "login": "redox",
@@ -7207,7 +7721,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 515,
-    "score": 6067
+    "score": 6067,
+    "globalRank": 11526
   },
   {
     "login": "zblurx",
@@ -7221,7 +7736,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 516,
-    "score": 425
+    "score": 425,
+    "globalRank": 11560
   },
   {
     "login": "ClementPinard",
@@ -7235,7 +7751,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 517,
-    "score": 414
+    "score": 414,
+    "globalRank": 11561
   },
   {
     "login": "Yanlry",
@@ -7249,7 +7766,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 518,
-    "score": 640
+    "score": 640,
+    "globalRank": 11601
   },
   {
     "login": "sayon",
@@ -7263,7 +7781,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 519,
-    "score": 495
+    "score": 495,
+    "globalRank": 11602
   },
   {
     "login": "whyneedd",
@@ -7277,7 +7796,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 520,
-    "score": 368
+    "score": 368,
+    "globalRank": 11666
   },
   {
     "login": "gabrieldemarmiesse",
@@ -7291,7 +7811,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 521,
-    "score": 1891
+    "score": 1891,
+    "globalRank": 11702
   },
   {
     "login": "alikaragoz",
@@ -7305,7 +7826,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 522,
-    "score": 1054
+    "score": 1054,
+    "globalRank": 11740
   },
   {
     "login": "nvuillam",
@@ -7319,7 +7841,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 523,
-    "score": 2989
+    "score": 2989,
+    "globalRank": 11741
   },
   {
     "login": "mpromonet",
@@ -7333,7 +7856,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 524,
-    "score": 690
+    "score": 690,
+    "globalRank": 11781
   },
   {
     "login": "MathisHammel",
@@ -7347,7 +7871,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 525,
-    "score": 1127
+    "score": 1127,
+    "globalRank": 11782
   },
   {
     "login": "ydshieh",
@@ -7361,7 +7886,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 526,
-    "score": 1901
+    "score": 1901,
+    "globalRank": 11815
   },
   {
     "login": "Ysurac",
@@ -7375,7 +7901,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 527,
-    "score": 974
+    "score": 974,
+    "globalRank": 11816
   },
   {
     "login": "Alexays",
@@ -7389,7 +7916,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 528,
-    "score": 5317
+    "score": 5317,
+    "globalRank": 11817
   },
   {
     "login": "mckenziearts",
@@ -7403,7 +7931,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 529,
-    "score": 2135
+    "score": 2135,
+    "globalRank": 11818
   },
   {
     "login": "dmathieu",
@@ -7417,7 +7946,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 530,
-    "score": 3899
+    "score": 3899,
+    "globalRank": 11901
   },
   {
     "login": "thomaslevesque",
@@ -7431,7 +7961,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 531,
-    "score": 520
+    "score": 520,
+    "globalRank": 11932
   },
   {
     "login": "tpetazzoni",
@@ -7445,7 +7976,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 532,
-    "score": 768
+    "score": 768,
+    "globalRank": 11933
   },
   {
     "login": "xvw",
@@ -7459,7 +7991,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 533,
-    "score": 1807
+    "score": 1807,
+    "globalRank": 11934
   },
   {
     "login": "sinedied",
@@ -7473,7 +8006,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 534,
-    "score": 2754
+    "score": 2754,
+    "globalRank": 11935
   },
   {
     "login": "vvolhejn",
@@ -7487,7 +8021,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 535,
-    "score": 2140
+    "score": 2140,
+    "globalRank": 11936
   },
   {
     "login": "edbeeching",
@@ -7501,7 +8036,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 536,
-    "score": 1473
+    "score": 1473,
+    "globalRank": 11979
   },
   {
     "login": "nicoptere",
@@ -7515,7 +8051,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 537,
-    "score": 918
+    "score": 918,
+    "globalRank": 11980
   },
   {
     "login": "Barbapapazes",
@@ -7529,7 +8066,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 538,
-    "score": 2179
+    "score": 2179,
+    "globalRank": 12020
   },
   {
     "login": "aelmizeb",
@@ -7543,7 +8081,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 539,
-    "score": 517
+    "score": 517,
+    "globalRank": 12021
   },
   {
     "login": "benjamincrozat",
@@ -7557,7 +8096,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 540,
-    "score": 4187
+    "score": 4187,
+    "globalRank": 12065
   },
   {
     "login": "HungryProton",
@@ -7571,7 +8111,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 541,
-    "score": 1260
+    "score": 1260,
+    "globalRank": 12066
   },
   {
     "login": "Alex-D",
@@ -7585,7 +8126,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 542,
-    "score": 780
+    "score": 780,
+    "globalRank": 12067
   },
   {
     "login": "yannickcr",
@@ -7599,7 +8141,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 543,
-    "score": 1123
+    "score": 1123,
+    "globalRank": 12068
   },
   {
     "login": "vadimkantorov",
@@ -7613,7 +8156,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 544,
-    "score": 786
+    "score": 786,
+    "globalRank": 12104
   },
   {
     "login": "yohanboniface",
@@ -7627,7 +8171,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 545,
-    "score": 1976
+    "score": 1976,
+    "globalRank": 12105
   },
   {
     "login": "Kusanagi8200",
@@ -7641,7 +8186,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 546,
-    "score": 757
+    "score": 757,
+    "globalRank": 12106
   },
   {
     "login": "s4cha",
@@ -7655,7 +8201,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 547,
-    "score": 2362
+    "score": 2362,
+    "globalRank": 12107
   },
   {
     "login": "Ovid",
@@ -7669,7 +8216,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 548,
-    "score": 9737
+    "score": 9737,
+    "globalRank": 12108
   },
   {
     "login": "johnvuko",
@@ -7683,7 +8231,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 549,
-    "score": 3695
+    "score": 3695,
+    "globalRank": 12109
   },
   {
     "login": "3outeille",
@@ -7697,7 +8246,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 550,
-    "score": 1163
+    "score": 1163,
+    "globalRank": 12110
   },
   {
     "login": "paraboul",
@@ -7711,7 +8261,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 551,
-    "score": 1766
+    "score": 1766,
+    "globalRank": 12143
   },
   {
     "login": "fredrik-johansson",
@@ -7725,7 +8276,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 552,
-    "score": 984
+    "score": 984,
+    "globalRank": 12144
   },
   {
     "login": "jaubourg",
@@ -7739,7 +8291,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 553,
-    "score": 585
+    "score": 585,
+    "globalRank": 12145
   },
   {
     "login": "Snaipe",
@@ -7753,7 +8306,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 554,
-    "score": 630
+    "score": 630,
+    "globalRank": 12173
   },
   {
     "login": "fyhertz",
@@ -7767,7 +8321,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 555,
-    "score": 2089
+    "score": 2089,
+    "globalRank": 12198
   },
   {
     "login": "juliensimon",
@@ -7781,7 +8336,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 556,
-    "score": 1102
+    "score": 1102,
+    "globalRank": 12233
   },
   {
     "login": "MscrmTools",
@@ -7795,7 +8351,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 557,
-    "score": 526
+    "score": 526,
+    "globalRank": 12260
   },
   {
     "login": "winitzki",
@@ -7809,7 +8366,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 558,
-    "score": 985
+    "score": 985,
+    "globalRank": 12261
   },
   {
     "login": "etorreborre",
@@ -7823,7 +8381,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 559,
-    "score": 1066
+    "score": 1066,
+    "globalRank": 12293
   },
   {
     "login": "bokub",
@@ -7837,7 +8396,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 560,
-    "score": 465
+    "score": 465,
+    "globalRank": 12294
   },
   {
     "login": "itsZORAL1",
@@ -7851,7 +8411,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 561,
-    "score": 378
+    "score": 378,
+    "globalRank": 12295
   },
   {
     "login": "dymafr",
@@ -7865,7 +8426,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 562,
-    "score": 429
+    "score": 429,
+    "globalRank": 12322
   },
   {
     "login": "ArnaudBarre",
@@ -7879,7 +8441,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 563,
-    "score": 2068
+    "score": 2068,
+    "globalRank": 12323
   },
   {
     "login": "Kumar-laxmi",
@@ -7893,7 +8456,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 564,
-    "score": 356
+    "score": 356,
+    "globalRank": 12324
   },
   {
     "login": "geromegrignon",
@@ -7907,7 +8471,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 565,
-    "score": 3703
+    "score": 3703,
+    "globalRank": 12352
   },
   {
     "login": "astahmer",
@@ -7921,7 +8486,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 566,
-    "score": 2589
+    "score": 2589,
+    "globalRank": 12353
   },
   {
     "login": "DirtyF",
@@ -7935,7 +8501,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 567,
-    "score": 347
+    "score": 347,
+    "globalRank": 12426
   },
   {
     "login": "mfuntowicz",
@@ -7949,7 +8516,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 568,
-    "score": 551
+    "score": 551,
+    "globalRank": 12427
   },
   {
     "login": "jorio",
@@ -7963,7 +8531,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 569,
-    "score": 1016
+    "score": 1016,
+    "globalRank": 12428
   },
   {
     "login": "Betree",
@@ -7977,7 +8546,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 570,
-    "score": 1939
+    "score": 1939,
+    "globalRank": 12429
   },
   {
     "login": "Jguer",
@@ -7991,7 +8561,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 571,
-    "score": 1821
+    "score": 1821,
+    "globalRank": 12430
   },
   {
     "login": "stilic",
@@ -8005,7 +8576,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 572,
-    "score": 1758
+    "score": 1758,
+    "globalRank": 12467
   },
   {
     "login": "vindarel",
@@ -8019,7 +8591,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 573,
-    "score": 1032
+    "score": 1032,
+    "globalRank": 12468
   },
   {
     "login": "DWS-paris",
@@ -8033,7 +8606,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 574,
-    "score": 345
+    "score": 345,
+    "globalRank": 12498
   },
   {
     "login": "retkowsky",
@@ -8047,7 +8621,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 575,
-    "score": 1147
+    "score": 1147,
+    "globalRank": 12499
   },
   {
     "login": "mangui",
@@ -8061,7 +8636,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 576,
-    "score": 344
+    "score": 344,
+    "globalRank": 12526
   },
   {
     "login": "rap2hpoutre",
@@ -8075,7 +8651,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 577,
-    "score": 2128
+    "score": 2128,
+    "globalRank": 12560
   },
   {
     "login": "Abonia1",
@@ -8089,7 +8666,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 578,
-    "score": 372
+    "score": 372,
+    "globalRank": 12597
   },
   {
     "login": "alexarchambault",
@@ -8103,7 +8681,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 579,
-    "score": 1619
+    "score": 1619,
+    "globalRank": 12598
   },
   {
     "login": "codeconcept",
@@ -8117,7 +8696,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 580,
-    "score": 342
+    "score": 342,
+    "globalRank": 12599
   },
   {
     "login": "Deevad",
@@ -8131,7 +8711,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 581,
-    "score": 343
+    "score": 343,
+    "globalRank": 12600
   },
   {
     "login": "mockersf",
@@ -8145,7 +8726,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 582,
-    "score": 2665
+    "score": 2665,
+    "globalRank": 12634
   },
   {
     "login": "travier",
@@ -8159,7 +8741,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 583,
-    "score": 5504
+    "score": 5504,
+    "globalRank": 12635
   },
   {
     "login": "Sandro642",
@@ -8173,7 +8756,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 584,
-    "score": 1112
+    "score": 1112,
+    "globalRank": 12677
   },
   {
     "login": "randorisec",
@@ -8187,7 +8771,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 585,
-    "score": 341
+    "score": 341,
+    "globalRank": 12678
   },
   {
     "login": "MrEliptik",
@@ -8201,7 +8786,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 586,
-    "score": 2804
+    "score": 2804,
+    "globalRank": 12679
   },
   {
     "login": "skarnet",
@@ -8215,7 +8801,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 587,
-    "score": 1166
+    "score": 1166,
+    "globalRank": 12680
   },
   {
     "login": "bfontaine",
@@ -8229,7 +8816,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 588,
-    "score": 1057
+    "score": 1057,
+    "globalRank": 12708
   },
   {
     "login": "taylor-arnold",
@@ -8243,7 +8831,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 589,
-    "score": 1129
+    "score": 1129,
+    "globalRank": 12746
   },
   {
     "login": "cedricp",
@@ -8257,7 +8846,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 590,
-    "score": 397
+    "score": 397,
+    "globalRank": 12781
   },
   {
     "login": "clarus",
@@ -8271,7 +8861,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 591,
-    "score": 1234
+    "score": 1234,
+    "globalRank": 12782
   },
   {
     "login": "rozierguillaume",
@@ -8285,7 +8876,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 592,
-    "score": 747
+    "score": 747,
+    "globalRank": 12783
   },
   {
     "login": "olivierhagolle",
@@ -8299,7 +8891,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 593,
-    "score": 337
+    "score": 337,
+    "globalRank": 12784
   },
   {
     "login": "waxzce",
@@ -8313,7 +8906,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 594,
-    "score": 512
+    "score": 512,
+    "globalRank": 12785
   },
   {
     "login": "aymeric-roucher",
@@ -8327,7 +8921,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 595,
-    "score": 1557
+    "score": 1557,
+    "globalRank": 12818
   },
   {
     "login": "louisremi",
@@ -8341,7 +8936,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 596,
-    "score": 339
+    "score": 339,
+    "globalRank": 12851
   },
   {
     "login": "adrienpoly",
@@ -8355,7 +8951,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 597,
-    "score": 3435
+    "score": 3435,
+    "globalRank": 12852
   },
   {
     "login": "xrsrke",
@@ -8369,7 +8966,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 598,
-    "score": 1186
+    "score": 1186,
+    "globalRank": 12853
   },
   {
     "login": "Phyronnaz",
@@ -8383,7 +8981,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 599,
-    "score": 7313
+    "score": 7313,
+    "globalRank": 12854
   },
   {
     "login": "YanisBenekaa",
@@ -8397,7 +8996,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 600,
-    "score": 333
+    "score": 333,
+    "globalRank": 12922
   },
   {
     "login": "llenotre",
@@ -8411,7 +9011,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 601,
-    "score": 1000
+    "score": 1000,
+    "globalRank": 12923
   },
   {
     "login": "jfalcou",
@@ -8425,7 +9026,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 602,
-    "score": 1175
+    "score": 1175,
+    "globalRank": 12954
   },
   {
     "login": "cjbrigato",
@@ -8439,7 +9041,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 603,
-    "score": 1309
+    "score": 1309,
+    "globalRank": 12955
   },
   {
     "login": "LostInBrittany",
@@ -8453,7 +9056,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 604,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 12985
   },
   {
     "login": "AdilZouitine",
@@ -8467,7 +9071,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 605,
-    "score": 1474
+    "score": 1474,
+    "globalRank": 12986
   },
   {
     "login": "rlaope",
@@ -8481,7 +9086,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 606,
-    "score": 7154
+    "score": 7154,
+    "globalRank": 12987
   },
   {
     "login": "apierr",
@@ -8495,7 +9101,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 607,
-    "score": 1550
+    "score": 1550,
+    "globalRank": 13024
   },
   {
     "login": "delba",
@@ -8509,7 +9116,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 608,
-    "score": 330
+    "score": 330,
+    "globalRank": 13025
   },
   {
     "login": "Groovounet",
@@ -8523,7 +9131,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 609,
-    "score": 331
+    "score": 331,
+    "globalRank": 13026
   },
   {
     "login": "matbesancon",
@@ -8537,7 +9146,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 610,
-    "score": 1441
+    "score": 1441,
+    "globalRank": 13027
   },
   {
     "login": "peeweek",
@@ -8551,7 +9161,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 611,
-    "score": 373
+    "score": 373,
+    "globalRank": 13055
   },
   {
     "login": "SirLynix",
@@ -8565,7 +9176,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 612,
-    "score": 1170
+    "score": 1170,
+    "globalRank": 13087
   },
   {
     "login": "Ross1337",
@@ -8579,7 +9191,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 613,
-    "score": 351
+    "score": 351,
+    "globalRank": 13123
   },
   {
     "login": "claudiodangelis",
@@ -8593,7 +9206,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 614,
-    "score": 531
+    "score": 531,
+    "globalRank": 13166
   },
   {
     "login": "ManUtopiK",
@@ -8607,7 +9221,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 615,
-    "score": 826
+    "score": 826,
+    "globalRank": 13167
   },
   {
     "login": "Tichau",
@@ -8621,7 +9236,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 616,
-    "score": 433
+    "score": 433,
+    "globalRank": 13168
   },
   {
     "login": "jmfayard",
@@ -8635,7 +9251,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 617,
-    "score": 422
+    "score": 422,
+    "globalRank": 13169
   },
   {
     "login": "jagracey",
@@ -8649,7 +9266,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 618,
-    "score": 324
+    "score": 324,
+    "globalRank": 13237
   },
   {
     "login": "mquandalle",
@@ -8663,7 +9281,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 619,
-    "score": 1207
+    "score": 1207,
+    "globalRank": 13272
   },
   {
     "login": "MichaelMure",
@@ -8677,7 +9296,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 620,
-    "score": 1688
+    "score": 1688,
+    "globalRank": 13273
   },
   {
     "login": "Cpasjuste",
@@ -8691,7 +9311,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 621,
-    "score": 449
+    "score": 449,
+    "globalRank": 13274
   },
   {
     "login": "RodZill4",
@@ -8705,7 +9326,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 622,
-    "score": 1622
+    "score": 1622,
+    "globalRank": 13275
   },
   {
     "login": "hamzaahmrg",
@@ -8719,7 +9341,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 623,
-    "score": 425
+    "score": 425,
+    "globalRank": 13305
   },
   {
     "login": "EiffL",
@@ -8733,7 +9356,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 624,
-    "score": 3104
+    "score": 3104,
+    "globalRank": 13306
   },
   {
     "login": "Mizux",
@@ -8747,7 +9371,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 625,
-    "score": 1683
+    "score": 1683,
+    "globalRank": 13307
   },
   {
     "login": "avatsaev",
@@ -8761,7 +9386,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 626,
-    "score": 346
+    "score": 346,
+    "globalRank": 13308
   },
   {
     "login": "LINDEX171",
@@ -8775,7 +9401,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 627,
-    "score": 706
+    "score": 706,
+    "globalRank": 13309
   },
   {
     "login": "alt3kx",
@@ -8789,7 +9416,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 628,
-    "score": 348
+    "score": 348,
+    "globalRank": 13354
   },
   {
     "login": "regisb",
@@ -8803,7 +9431,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 629,
-    "score": 814
+    "score": 814,
+    "globalRank": 13355
   },
   {
     "login": "wetneb",
@@ -8817,7 +9446,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 630,
-    "score": 740
+    "score": 740,
+    "globalRank": 13356
   },
   {
     "login": "MeymounB",
@@ -8831,7 +9461,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 631,
-    "score": 10527
+    "score": 10527,
+    "globalRank": 13393
   },
   {
     "login": "klevron",
@@ -8845,7 +9476,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 632,
-    "score": 406
+    "score": 406,
+    "globalRank": 13394
   },
   {
     "login": "tchiotludo",
@@ -8859,7 +9491,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 633,
-    "score": 3327
+    "score": 3327,
+    "globalRank": 13395
   },
   {
     "login": "florian-lefebvre",
@@ -8873,7 +9506,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 634,
-    "score": 4931
+    "score": 4931,
+    "globalRank": 13396
   },
   {
     "login": "nono",
@@ -8887,7 +9521,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 635,
-    "score": 1133
+    "score": 1133,
+    "globalRank": 13424
   },
   {
     "login": "thisiskeanyvy",
@@ -8901,7 +9536,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 636,
-    "score": 1439
+    "score": 1439,
+    "globalRank": 13425
   },
   {
     "login": "aiekick",
@@ -8915,7 +9551,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 637,
-    "score": 2158
+    "score": 2158,
+    "globalRank": 13426
   },
   {
     "login": "kant2002",
@@ -8929,7 +9566,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 638,
-    "score": 1486
+    "score": 1486,
+    "globalRank": 13470
   },
   {
     "login": "raphaelgoetter",
@@ -8943,7 +9581,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 639,
-    "score": 562
+    "score": 562,
+    "globalRank": 13509
   },
   {
     "login": "dimaMachina",
@@ -8957,7 +9596,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 640,
-    "score": 2972
+    "score": 2972,
+    "globalRank": 13510
   },
   {
     "login": "pvictor",
@@ -8971,7 +9611,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 641,
-    "score": 448
+    "score": 448,
+    "globalRank": 13511
   },
   {
     "login": "PricelessToolkit",
@@ -8985,7 +9626,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 642,
-    "score": 564
+    "score": 564,
+    "globalRank": 13555
   },
   {
     "login": "arthaud",
@@ -8999,7 +9641,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 643,
-    "score": 964
+    "score": 964,
+    "globalRank": 13556
   },
   {
     "login": "red0xff",
@@ -9013,7 +9656,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 644,
-    "score": 333
+    "score": 333,
+    "globalRank": 13557
   },
   {
     "login": "felhix",
@@ -9027,7 +9671,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 645,
-    "score": 483
+    "score": 483,
+    "globalRank": 13644
   },
   {
     "login": "ParisNeo",
@@ -9041,7 +9686,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 646,
-    "score": 3383
+    "score": 3383,
+    "globalRank": 13729
   },
   {
     "login": "garuma",
@@ -9055,7 +9701,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 647,
-    "score": 313
+    "score": 313,
+    "globalRank": 13730
   },
   {
     "login": "cnotin",
@@ -9069,7 +9716,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 648,
-    "score": 450
+    "score": 450,
+    "globalRank": 13771
   },
   {
     "login": "abique",
@@ -9083,7 +9731,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 649,
-    "score": 708
+    "score": 708,
+    "globalRank": 13772
   },
   {
     "login": "privefl",
@@ -9097,7 +9746,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 650,
-    "score": 659
+    "score": 659,
+    "globalRank": 13807
   },
   {
     "login": "pmdartus",
@@ -9111,7 +9761,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 651,
-    "score": 1100
+    "score": 1100,
+    "globalRank": 13843
   },
   {
     "login": "kevin-mizu",
@@ -9125,7 +9776,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 652,
-    "score": 482
+    "score": 482,
+    "globalRank": 13844
   },
   {
     "login": "dom0ng",
@@ -9139,7 +9791,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 653,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 13845
   },
   {
     "login": "tericcabrel",
@@ -9153,7 +9806,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 654,
-    "score": 695
+    "score": 695,
+    "globalRank": 13875
   },
   {
     "login": "raphaelbastide",
@@ -9167,7 +9821,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 655,
-    "score": 312
+    "score": 312,
+    "globalRank": 13876
   },
   {
     "login": "erebe",
@@ -9181,7 +9836,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 656,
-    "score": 1003
+    "score": 1003,
+    "globalRank": 13877
   },
   {
     "login": "yhenon",
@@ -9195,7 +9851,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 657,
-    "score": 323
+    "score": 323,
+    "globalRank": 13907
   },
   {
     "login": "yogsototh",
@@ -9209,7 +9866,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 658,
-    "score": 844
+    "score": 844,
+    "globalRank": 13946
   },
   {
     "login": "jpountz",
@@ -9223,7 +9881,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 659,
-    "score": 526
+    "score": 526,
+    "globalRank": 13947
   },
   {
     "login": "sdpython",
@@ -9237,7 +9896,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 660,
-    "score": 721
+    "score": 721,
+    "globalRank": 13948
   },
   {
     "login": "Liryna",
@@ -9251,7 +9911,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 661,
-    "score": 331
+    "score": 331,
+    "globalRank": 14029
   },
   {
     "login": "Marsup",
@@ -9265,7 +9926,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 662,
-    "score": 5602
+    "score": 5602,
+    "globalRank": 14030
   },
   {
     "login": "thisoverride",
@@ -9279,7 +9941,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 663,
-    "score": 303
+    "score": 303,
+    "globalRank": 14076
   },
   {
     "login": "aymanfarhat",
@@ -9293,7 +9956,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 664,
-    "score": 656
+    "score": 656,
+    "globalRank": 14077
   },
   {
     "login": "rCarto",
@@ -9307,7 +9971,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 665,
-    "score": 583
+    "score": 583,
+    "globalRank": 14078
   },
   {
     "login": "ericbottard",
@@ -9321,7 +9986,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 666,
-    "score": 632
+    "score": 632,
+    "globalRank": 14123
   },
   {
     "login": "ramnes",
@@ -9335,7 +10001,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 667,
-    "score": 1920
+    "score": 1920,
+    "globalRank": 14124
   },
   {
     "login": "mathishp33",
@@ -9349,7 +10016,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 668,
-    "score": 526
+    "score": 526,
+    "globalRank": 14164
   },
   {
     "login": "mickaelandrieu",
@@ -9363,7 +10031,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 669,
-    "score": 2072
+    "score": 2072,
+    "globalRank": 14165
   },
   {
     "login": "thbar",
@@ -9377,7 +10046,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 670,
-    "score": 1175
+    "score": 1175,
+    "globalRank": 14225
   },
   {
     "login": "tcapelle",
@@ -9391,7 +10061,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 671,
-    "score": 6151
+    "score": 6151,
+    "globalRank": 14226
   },
   {
     "login": "Neamar",
@@ -9405,7 +10076,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 672,
-    "score": 3401
+    "score": 3401,
+    "globalRank": 14266
   },
   {
     "login": "SRombauts",
@@ -9419,7 +10091,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 673,
-    "score": 834
+    "score": 834,
+    "globalRank": 14267
   },
   {
     "login": "dubzzz",
@@ -9433,7 +10106,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 674,
-    "score": 4751
+    "score": 4751,
+    "globalRank": 14268
   },
   {
     "login": "pventuzelo",
@@ -9447,7 +10121,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 675,
-    "score": 316
+    "score": 316,
+    "globalRank": 14305
   },
   {
     "login": "pulgamecanica",
@@ -9461,7 +10136,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 676,
-    "score": 901
+    "score": 901,
+    "globalRank": 14346
   },
   {
     "login": "pirhoo",
@@ -9475,7 +10151,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 677,
-    "score": 7584
+    "score": 7584,
+    "globalRank": 14347
   },
   {
     "login": "DjebbZ",
@@ -9489,7 +10166,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 678,
-    "score": 535
+    "score": 535,
+    "globalRank": 14348
   },
   {
     "login": "docteurklein",
@@ -9503,7 +10181,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 679,
-    "score": 522
+    "score": 522,
+    "globalRank": 14394
   },
   {
     "login": "alcfeoh",
@@ -9517,7 +10196,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 680,
-    "score": 2113
+    "score": 2113,
+    "globalRank": 14395
   },
   {
     "login": "krokrob",
@@ -9531,7 +10211,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 681,
-    "score": 1291
+    "score": 1291,
+    "globalRank": 14396
   },
   {
     "login": "LTHCTheMaster",
@@ -9545,7 +10226,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 682,
-    "score": 296
+    "score": 296,
+    "globalRank": 14397
   },
   {
     "login": "huang-julien",
@@ -9559,7 +10241,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 683,
-    "score": 1766
+    "score": 1766,
+    "globalRank": 14440
   },
   {
     "login": "geo-tp",
@@ -9573,7 +10256,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 684,
-    "score": 1782
+    "score": 1782,
+    "globalRank": 14441
   },
   {
     "login": "julien-duponchelle",
@@ -9587,7 +10271,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 685,
-    "score": 1118
+    "score": 1118,
+    "globalRank": 14479
   },
   {
     "login": "jcarpent",
@@ -9601,7 +10286,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 686,
-    "score": 960
+    "score": 960,
+    "globalRank": 14480
   },
   {
     "login": "Julow",
@@ -9615,7 +10301,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 687,
-    "score": 1472
+    "score": 1472,
+    "globalRank": 14525
   },
   {
     "login": "poolpOrg",
@@ -9629,7 +10316,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 688,
-    "score": 6717
+    "score": 6717,
+    "globalRank": 14589
   },
   {
     "login": "elbywan",
@@ -9643,7 +10331,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 689,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 14590
   },
   {
     "login": "pthom",
@@ -9657,7 +10346,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 690,
-    "score": 2274
+    "score": 2274,
+    "globalRank": 14591
   },
   {
     "login": "Supercip971",
@@ -9671,7 +10361,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 691,
-    "score": 746
+    "score": 746,
+    "globalRank": 14650
   },
   {
     "login": "alexkirsz",
@@ -9685,7 +10376,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 692,
-    "score": 1010
+    "score": 1010,
+    "globalRank": 14651
   },
   {
     "login": "slandelle",
@@ -9699,7 +10391,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 693,
-    "score": 1414
+    "score": 1414,
+    "globalRank": 14652
   },
   {
     "login": "enzocaudron",
@@ -9713,7 +10406,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 694,
-    "score": 291
+    "score": 291,
+    "globalRank": 14653
   },
   {
     "login": "darold",
@@ -9727,7 +10421,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 695,
-    "score": 584
+    "score": 584,
+    "globalRank": 14654
   },
   {
     "login": "pablo-1610",
@@ -9741,7 +10436,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 696,
-    "score": 1571
+    "score": 1571,
+    "globalRank": 14655
   },
   {
     "login": "pierreguillot",
@@ -9755,7 +10451,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 697,
-    "score": 1144
+    "score": 1144,
+    "globalRank": 14703
   },
   {
     "login": "Nazky",
@@ -9769,7 +10466,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 698,
-    "score": 440
+    "score": 440,
+    "globalRank": 14704
   },
   {
     "login": "rami3l",
@@ -9783,7 +10481,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 699,
-    "score": 3137
+    "score": 3137,
+    "globalRank": 14705
   },
   {
     "login": "dotdc",
@@ -9797,7 +10496,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 700,
-    "score": 1884
+    "score": 1884,
+    "globalRank": 14706
   },
   {
     "login": "Pierstoval",
@@ -9811,7 +10511,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 701,
-    "score": 922
+    "score": 922,
+    "globalRank": 14707
   },
   {
     "login": "OlivierDehaene",
@@ -9825,7 +10526,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 702,
-    "score": 296
+    "score": 296,
+    "globalRank": 14708
   },
   {
     "login": "HiDeoo",
@@ -9839,7 +10541,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 703,
-    "score": 4169
+    "score": 4169,
+    "globalRank": 14709
   },
   {
     "login": "olegz",
@@ -9853,7 +10556,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 704,
-    "score": 797
+    "score": 797,
+    "globalRank": 14756
   },
   {
     "login": "tbroyer",
@@ -9867,7 +10571,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 705,
-    "score": 698
+    "score": 698,
+    "globalRank": 14757
   },
   {
     "login": "louisabraham",
@@ -9881,7 +10586,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 706,
-    "score": 1534
+    "score": 1534,
+    "globalRank": 14758
   },
   {
     "login": "avidale",
@@ -9895,7 +10601,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 707,
-    "score": 978
+    "score": 978,
+    "globalRank": 14759
   },
   {
     "login": "kingjr",
@@ -9909,7 +10616,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 708,
-    "score": 375
+    "score": 375,
+    "globalRank": 14760
   },
   {
     "login": "siandreev",
@@ -9923,7 +10631,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 709,
-    "score": 1992
+    "score": 1992,
+    "globalRank": 14803
   },
   {
     "login": "zoriya",
@@ -9937,7 +10646,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 710,
-    "score": 4661
+    "score": 4661,
+    "globalRank": 14804
   },
   {
     "login": "gquere",
@@ -9951,7 +10661,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 711,
-    "score": 314
+    "score": 314,
+    "globalRank": 14805
   },
   {
     "login": "jeanlaurent",
@@ -9965,7 +10676,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 712,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 14846
   },
   {
     "login": "DamienCassou",
@@ -9979,7 +10691,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 713,
-    "score": 4621
+    "score": 4621,
+    "globalRank": 14847
   },
   {
     "login": "cyriltovena",
@@ -9993,7 +10706,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 714,
-    "score": 3785
+    "score": 3785,
+    "globalRank": 14895
   },
   {
     "login": "kube",
@@ -10007,7 +10721,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 715,
-    "score": 774
+    "score": 774,
+    "globalRank": 14896
   },
   {
     "login": "CodesOfRa",
@@ -10021,7 +10736,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 716,
-    "score": 288
+    "score": 288,
+    "globalRank": 14897
   },
   {
     "login": "noirbizarre",
@@ -10035,7 +10751,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 717,
-    "score": 2759
+    "score": 2759,
+    "globalRank": 14898
   },
   {
     "login": "noteflakes",
@@ -10049,7 +10766,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 718,
-    "score": 1263
+    "score": 1263,
+    "globalRank": 14899
   },
   {
     "login": "juba",
@@ -10063,7 +10781,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 719,
-    "score": 1040
+    "score": 1040,
+    "globalRank": 14936
   },
   {
     "login": "joshed-io",
@@ -10077,7 +10796,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 720,
-    "score": 2211
+    "score": 2211,
+    "globalRank": 14937
   },
   {
     "login": "eunjae-lee",
@@ -10091,7 +10811,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 721,
-    "score": 1173
+    "score": 1173,
+    "globalRank": 14938
   },
   {
     "login": "jderusse",
@@ -10105,7 +10826,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 722,
-    "score": 2459
+    "score": 2459,
+    "globalRank": 14980
   },
   {
     "login": "pascalgrimaud",
@@ -10119,7 +10841,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 723,
-    "score": 909
+    "score": 909,
+    "globalRank": 14981
   },
   {
     "login": "adrienjoly",
@@ -10133,7 +10856,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 724,
-    "score": 1635
+    "score": 1635,
+    "globalRank": 15030
   },
   {
     "login": "Sehaba95",
@@ -10147,7 +10871,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 725,
-    "score": 302
+    "score": 302,
+    "globalRank": 15031
   },
   {
     "login": "MrArnaudMichel",
@@ -10161,7 +10886,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 726,
-    "score": 1955
+    "score": 1955,
+    "globalRank": 15032
   },
   {
     "login": "OliverMuller100",
@@ -10175,7 +10901,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 727,
-    "score": 5567
+    "score": 5567,
+    "globalRank": 15033
   },
   {
     "login": "alexis-jacq",
@@ -10189,7 +10916,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 728,
-    "score": 314
+    "score": 314,
+    "globalRank": 15075
   },
   {
     "login": "mishig25",
@@ -10203,7 +10931,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 729,
-    "score": 1313
+    "score": 1313,
+    "globalRank": 15076
   },
   {
     "login": "AmelieHeinrich",
@@ -10217,7 +10946,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 730,
-    "score": 1117
+    "score": 1117,
+    "globalRank": 15077
   },
   {
     "login": "lostanlen",
@@ -10231,7 +10961,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 731,
-    "score": 288
+    "score": 288,
+    "globalRank": 15078
   },
   {
     "login": "kevin-sakemaer",
@@ -10245,7 +10976,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 732,
-    "score": 840
+    "score": 840,
+    "globalRank": 15162
   },
   {
     "login": "mfrachet",
@@ -10259,7 +10991,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 733,
-    "score": 3439
+    "score": 3439,
+    "globalRank": 15163
   },
   {
     "login": "clefourrier",
@@ -10273,7 +11006,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 734,
-    "score": 642
+    "score": 642,
+    "globalRank": 15222
   },
   {
     "login": "ysbaddaden",
@@ -10287,7 +11021,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 735,
-    "score": 1670
+    "score": 1670,
+    "globalRank": 15223
   },
   {
     "login": "tommybuonomo",
@@ -10301,7 +11036,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 736,
-    "score": 558
+    "score": 558,
+    "globalRank": 15224
   },
   {
     "login": "beniz",
@@ -10315,7 +11051,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 737,
-    "score": 467
+    "score": 467,
+    "globalRank": 15225
   },
   {
     "login": "j0k3r",
@@ -10329,7 +11066,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 738,
-    "score": 6530
+    "score": 6530,
+    "globalRank": 15226
   },
   {
     "login": "lra",
@@ -10343,7 +11081,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 739,
-    "score": 3564
+    "score": 3564,
+    "globalRank": 15227
   },
   {
     "login": "Gregwar",
@@ -10357,7 +11096,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 740,
-    "score": 772
+    "score": 772,
+    "globalRank": 15228
   },
   {
     "login": "Keruspe",
@@ -10371,7 +11111,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 741,
-    "score": 1186
+    "score": 1186,
+    "globalRank": 15274
   },
   {
     "login": "astefanutti",
@@ -10385,7 +11126,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 742,
-    "score": 1576
+    "score": 1576,
+    "globalRank": 15275
   },
   {
     "login": "l-lin",
@@ -10399,7 +11141,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 743,
-    "score": 7673
+    "score": 7673,
+    "globalRank": 15276
   },
   {
     "login": "Anttwo",
@@ -10413,7 +11156,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 744,
-    "score": 510
+    "score": 510,
+    "globalRank": 15277
   },
   {
     "login": "TheFrenchGhosty",
@@ -10427,7 +11171,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 745,
-    "score": 393
+    "score": 393,
+    "globalRank": 15278
   },
   {
     "login": "francoischalifour",
@@ -10441,7 +11186,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 746,
-    "score": 2521
+    "score": 2521,
+    "globalRank": 15326
   },
   {
     "login": "jilljenn",
@@ -10455,7 +11201,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 747,
-    "score": 448
+    "score": 448,
+    "globalRank": 15327
   },
   {
     "login": "guedou",
@@ -10469,7 +11216,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 748,
-    "score": 849
+    "score": 849,
+    "globalRank": 15381
   },
   {
     "login": "hill-a",
@@ -10483,7 +11231,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 749,
-    "score": 276
+    "score": 276,
+    "globalRank": 15382
   },
   {
     "login": "mauricesvay",
@@ -10497,7 +11246,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 750,
-    "score": 1891
+    "score": 1891,
+    "globalRank": 15383
   },
   {
     "login": "LuigiBlood",
@@ -10511,7 +11261,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 751,
-    "score": 378
+    "score": 378,
+    "globalRank": 15428
   },
   {
     "login": "fabriceyopa",
@@ -10525,7 +11276,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 752,
-    "score": 409
+    "score": 409,
+    "globalRank": 15429
   },
   {
     "login": "danielhenrymantilla",
@@ -10539,7 +11291,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 753,
-    "score": 816
+    "score": 816,
+    "globalRank": 15518
   },
   {
     "login": "gluon",
@@ -10553,7 +11306,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 754,
-    "score": 625
+    "score": 625,
+    "globalRank": 15519
   },
   {
     "login": "derar-alhussein",
@@ -10567,7 +11321,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 755,
-    "score": 355
+    "score": 355,
+    "globalRank": 15520
   },
   {
     "login": "cesarsouza",
@@ -10581,7 +11336,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 756,
-    "score": 273
+    "score": 273,
+    "globalRank": 15566
   },
   {
     "login": "SalomonBrys",
@@ -10595,7 +11351,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 757,
-    "score": 420
+    "score": 420,
+    "globalRank": 15567
   },
   {
     "login": "avivace",
@@ -10609,7 +11366,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 758,
-    "score": 803
+    "score": 803,
+    "globalRank": 15568
   },
   {
     "login": "adamhlt",
@@ -10623,7 +11381,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 759,
-    "score": 367
+    "score": 367,
+    "globalRank": 15569
   },
   {
     "login": "sharovatov",
@@ -10637,7 +11396,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 760,
-    "score": 1336
+    "score": 1336,
+    "globalRank": 15570
   },
   {
     "login": "JohanMabille",
@@ -10651,7 +11411,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 761,
-    "score": 2214
+    "score": 2214,
+    "globalRank": 15620
   },
   {
     "login": "texane",
@@ -10665,7 +11426,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 762,
-    "score": 271
+    "score": 271,
+    "globalRank": 15621
   },
   {
     "login": "BUZZARDGTA",
@@ -10679,7 +11441,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 763,
-    "score": 1419
+    "score": 1419,
+    "globalRank": 15622
   },
   {
     "login": "caillonantoine",
@@ -10693,7 +11456,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 764,
-    "score": 272
+    "score": 272,
+    "globalRank": 15657
   },
   {
     "login": "jenaye",
@@ -10707,7 +11471,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 765,
-    "score": 287
+    "score": 287,
+    "globalRank": 15658
   },
   {
     "login": "harryjmg",
@@ -10721,7 +11486,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 766,
-    "score": 786
+    "score": 786,
+    "globalRank": 15659
   },
   {
     "login": "sbusso",
@@ -10735,7 +11501,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 767,
-    "score": 4096
+    "score": 4096,
+    "globalRank": 15660
   },
   {
     "login": "clemlesne",
@@ -10749,7 +11516,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 768,
-    "score": 4349
+    "score": 4349,
+    "globalRank": 15661
   },
   {
     "login": "GromNaN",
@@ -10763,7 +11531,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 769,
-    "score": 2952
+    "score": 2952,
+    "globalRank": 15662
   },
   {
     "login": "nhoizey",
@@ -10777,7 +11546,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 770,
-    "score": 3637
+    "score": 3637,
+    "globalRank": 15663
   },
   {
     "login": "NTag",
@@ -10791,7 +11561,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 771,
-    "score": 1553
+    "score": 1553,
+    "globalRank": 15664
   },
   {
     "login": "bvernoux",
@@ -10805,7 +11576,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 772,
-    "score": 494
+    "score": 494,
+    "globalRank": 15665
   },
   {
     "login": "mbrossar",
@@ -10819,7 +11591,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 773,
-    "score": 269
+    "score": 269,
+    "globalRank": 15723
   },
   {
     "login": "Stephane-D",
@@ -10833,7 +11606,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 774,
-    "score": 350
+    "score": 350,
+    "globalRank": 15724
   },
   {
     "login": "gnodet",
@@ -10847,7 +11621,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 775,
-    "score": 3460
+    "score": 3460,
+    "globalRank": 15725
   },
   {
     "login": "devnied",
@@ -10861,7 +11636,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 776,
-    "score": 529
+    "score": 529,
+    "globalRank": 15726
   },
   {
     "login": "Rog3rSm1th",
@@ -10875,7 +11651,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 777,
-    "score": 372
+    "score": 372,
+    "globalRank": 15727
   },
   {
     "login": "IlyasMoutawwakil",
@@ -10889,7 +11666,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 778,
-    "score": 1178
+    "score": 1178,
+    "globalRank": 15728
   },
   {
     "login": "elierotenberg",
@@ -10903,7 +11681,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 779,
-    "score": 1252
+    "score": 1252,
+    "globalRank": 15780
   },
   {
     "login": "Bunkermaster",
@@ -10917,7 +11696,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 780,
-    "score": 267
+    "score": 267,
+    "globalRank": 15824
   },
   {
     "login": "mkcor",
@@ -10931,7 +11711,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 781,
-    "score": 403
+    "score": 403,
+    "globalRank": 15825
   },
   {
     "login": "baptadn",
@@ -10945,7 +11726,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 782,
-    "score": 1149
+    "score": 1149,
+    "globalRank": 15883
   },
   {
     "login": "xviniette",
@@ -10959,7 +11741,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 783,
-    "score": 1386
+    "score": 1386,
+    "globalRank": 15884
   },
   {
     "login": "cquest",
@@ -10973,7 +11756,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 784,
-    "score": 360
+    "score": 360,
+    "globalRank": 15885
   },
   {
     "login": "arguiot",
@@ -10987,7 +11771,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 785,
-    "score": 2677
+    "score": 2677,
+    "globalRank": 15940
   },
   {
     "login": "ClementBobin",
@@ -11001,7 +11786,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 786,
-    "score": 1477
+    "score": 1477,
+    "globalRank": 15941
   },
   {
     "login": "Makio64",
@@ -11015,7 +11801,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 787,
-    "score": 1088
+    "score": 1088,
+    "globalRank": 15942
   },
   {
     "login": "glours",
@@ -11029,7 +11816,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 788,
-    "score": 1536
+    "score": 1536,
+    "globalRank": 15943
   },
   {
     "login": "soufianetahiri",
@@ -11043,7 +11831,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 789,
-    "score": 944
+    "score": 944,
+    "globalRank": 15995
   },
   {
     "login": "Hugo-Dz",
@@ -11057,7 +11846,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 790,
-    "score": 2748
+    "score": 2748,
+    "globalRank": 15996
   },
   {
     "login": "joeybronner",
@@ -11071,7 +11861,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 791,
-    "score": 3112
+    "score": 3112,
+    "globalRank": 15997
   },
   {
     "login": "fdv",
@@ -11085,7 +11876,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 792,
-    "score": 264
+    "score": 264,
+    "globalRank": 15998
   },
   {
     "login": "Kocal",
@@ -11099,7 +11891,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 793,
-    "score": 4163
+    "score": 4163,
+    "globalRank": 15999
   },
   {
     "login": "jreinke",
@@ -11113,7 +11906,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 794,
-    "score": 263
+    "score": 263,
+    "globalRank": 16048
   },
   {
     "login": "Lyokone",
@@ -11127,7 +11921,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 795,
-    "score": 963
+    "score": 963,
+    "globalRank": 16049
   },
   {
     "login": "raphaelameaume",
@@ -11141,7 +11936,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 796,
-    "score": 410
+    "score": 410,
+    "globalRank": 16050
   },
   {
     "login": "vrabaud",
@@ -11155,7 +11951,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 797,
-    "score": 606
+    "score": 606,
+    "globalRank": 16109
   },
   {
     "login": "laminutedecode",
@@ -11169,7 +11966,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 798,
-    "score": 276
+    "score": 276,
+    "globalRank": 16110
   },
   {
     "login": "laurentkempe",
@@ -11183,7 +11981,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 799,
-    "score": 1270
+    "score": 1270,
+    "globalRank": 16111
   },
   {
     "login": "paulafredo",
@@ -11197,7 +11996,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 800,
-    "score": 8734
+    "score": 8734,
+    "globalRank": 16112
   },
   {
     "login": "aurelleb",
@@ -11211,7 +12011,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 801,
-    "score": 2604
+    "score": 2604,
+    "globalRank": 16150
   },
   {
     "login": "TUTOUNITYFR",
@@ -11225,7 +12026,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 802,
-    "score": 272
+    "score": 272,
+    "globalRank": 16151
   },
   {
     "login": "tcoratger",
@@ -11239,7 +12041,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 803,
-    "score": 3539
+    "score": 3539,
+    "globalRank": 16199
   },
   {
     "login": "paradoxxxzero",
@@ -11253,7 +12056,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 804,
-    "score": 740
+    "score": 740,
+    "globalRank": 16200
   },
   {
     "login": "cgsecurity",
@@ -11267,7 +12071,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 805,
-    "score": 287
+    "score": 287,
+    "globalRank": 16201
   },
   {
     "login": "erossignon",
@@ -11281,7 +12086,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 806,
-    "score": 1007
+    "score": 1007,
+    "globalRank": 16202
   },
   {
     "login": "Androguide",
@@ -11295,7 +12101,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 807,
-    "score": 259
+    "score": 259,
+    "globalRank": 16263
   },
   {
     "login": "wtarreau",
@@ -11309,7 +12116,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 808,
-    "score": 1071
+    "score": 1071,
+    "globalRank": 16264
   },
   {
     "login": "tpierrain",
@@ -11323,7 +12131,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 809,
-    "score": 345
+    "score": 345,
+    "globalRank": 16265
   },
   {
     "login": "fedihamdi",
@@ -11337,7 +12146,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 810,
-    "score": 277
+    "score": 277,
+    "globalRank": 16325
   },
   {
     "login": "williamdes",
@@ -11351,7 +12161,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 811,
-    "score": 4684
+    "score": 4684,
+    "globalRank": 16326
   },
   {
     "login": "teolemon",
@@ -11365,7 +12176,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 812,
-    "score": 3378
+    "score": 3378,
+    "globalRank": 16383
   },
   {
     "login": "Aywen1",
@@ -11379,7 +12191,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 813,
-    "score": 266
+    "score": 266,
+    "globalRank": 16384
   },
   {
     "login": "thibautjombart",
@@ -11393,7 +12206,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 814,
-    "score": 549
+    "score": 549,
+    "globalRank": 16431
   },
   {
     "login": "scolladon",
@@ -11407,7 +12221,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 815,
-    "score": 1129
+    "score": 1129,
+    "globalRank": 16432
   },
   {
     "login": "danielmeppiel",
@@ -11421,7 +12236,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 816,
-    "score": 5506
+    "score": 5506,
+    "globalRank": 16433
   },
   {
     "login": "roblabla",
@@ -11435,7 +12251,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 817,
-    "score": 451
+    "score": 451,
+    "globalRank": 16529
   },
   {
     "login": "geowarin",
@@ -11449,7 +12266,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 818,
-    "score": 474
+    "score": 474,
+    "globalRank": 16530
   },
   {
     "login": "elegaanz",
@@ -11463,7 +12281,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 819,
-    "score": 1063
+    "score": 1063,
+    "globalRank": 16582
   },
   {
     "login": "Caceresenzo",
@@ -11477,7 +12296,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 820,
-    "score": 2691
+    "score": 2691,
+    "globalRank": 16583
   },
   {
     "login": "ksator",
@@ -11491,7 +12311,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 821,
-    "score": 253
+    "score": 253,
+    "globalRank": 16584
   },
   {
     "login": "didrocks",
@@ -11505,7 +12326,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 822,
-    "score": 737
+    "score": 737,
+    "globalRank": 16585
   },
   {
     "login": "Abdess",
@@ -11519,7 +12341,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 823,
-    "score": 2528
+    "score": 2528,
+    "globalRank": 16638
   },
   {
     "login": "cedricpinson",
@@ -11533,7 +12356,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 824,
-    "score": 276
+    "score": 276,
+    "globalRank": 16639
   },
   {
     "login": "woctezuma",
@@ -11547,7 +12371,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 825,
-    "score": 773
+    "score": 773,
+    "globalRank": 16640
   },
   {
     "login": "chiptune",
@@ -11561,7 +12386,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 826,
-    "score": 347
+    "score": 347,
+    "globalRank": 16677
   },
   {
     "login": "aoudiamoncef",
@@ -11575,7 +12401,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 827,
-    "score": 318
+    "score": 318,
+    "globalRank": 16678
   },
   {
     "login": "wapiflapi",
@@ -11589,7 +12416,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 828,
-    "score": 373
+    "score": 373,
+    "globalRank": 16679
   },
   {
     "login": "serlesen",
@@ -11603,7 +12431,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 829,
-    "score": 3195
+    "score": 3195,
+    "globalRank": 16680
   },
   {
     "login": "SwapnanilAdhikary",
@@ -11617,7 +12446,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 830,
-    "score": 826
+    "score": 826,
+    "globalRank": 16681
   },
   {
     "login": "Delapouite",
@@ -11631,7 +12461,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 831,
-    "score": 447
+    "score": 447,
+    "globalRank": 16682
   },
   {
     "login": "krichprollsch",
@@ -11645,7 +12476,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 832,
-    "score": 4104
+    "score": 4104,
+    "globalRank": 16728
   },
   {
     "login": "zhouzi",
@@ -11659,7 +12491,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 833,
-    "score": 441
+    "score": 441,
+    "globalRank": 16729
   },
   {
     "login": "ISSOtm",
@@ -11673,7 +12506,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 834,
-    "score": 1071
+    "score": 1071,
+    "globalRank": 16730
   },
   {
     "login": "greg0ire",
@@ -11687,7 +12521,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 835,
-    "score": 2842
+    "score": 2842,
+    "globalRank": 16769
   },
   {
     "login": "indilo53",
@@ -11701,7 +12536,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 836,
-    "score": 249
+    "score": 249,
+    "globalRank": 16770
   },
   {
     "login": "qjoly",
@@ -11715,7 +12551,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 837,
-    "score": 3058
+    "score": 3058,
+    "globalRank": 16771
   },
   {
     "login": "svngoku",
@@ -11729,7 +12566,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 838,
-    "score": 801
+    "score": 801,
+    "globalRank": 16821
   },
   {
     "login": "valentinbreiz",
@@ -11743,7 +12581,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 839,
-    "score": 1838
+    "score": 1838,
+    "globalRank": 16822
   },
   {
     "login": "rumpl",
@@ -11757,7 +12596,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 840,
-    "score": 8102
+    "score": 8102,
+    "globalRank": 16823
   },
   {
     "login": "ggrossetie",
@@ -11771,7 +12611,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 841,
-    "score": 1915
+    "score": 1915,
+    "globalRank": 16879
   },
   {
     "login": "cyrillef",
@@ -11785,7 +12626,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 842,
-    "score": 258
+    "score": 258,
+    "globalRank": 16880
   },
   {
     "login": "Speykious",
@@ -11799,7 +12641,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 843,
-    "score": 367
+    "score": 367,
+    "globalRank": 16881
   },
   {
     "login": "FelixMalfait",
@@ -11813,7 +12656,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 844,
-    "score": 3226
+    "score": 3226,
+    "globalRank": 16882
   },
   {
     "login": "marvinroger",
@@ -11827,7 +12671,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 845,
-    "score": 3008
+    "score": 3008,
+    "globalRank": 16883
   },
   {
     "login": "denguemon",
@@ -11841,7 +12686,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 846,
-    "score": 395
+    "score": 395,
+    "globalRank": 16884
   },
   {
     "login": "princefr",
@@ -11855,7 +12701,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 847,
-    "score": 1105
+    "score": 1105,
+    "globalRank": 16938
   },
   {
     "login": "gscaramuzzino",
@@ -11869,7 +12716,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 848,
-    "score": 308
+    "score": 308,
+    "globalRank": 16939
   },
   {
     "login": "nilsberglund-orleans",
@@ -11883,7 +12731,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 849,
-    "score": 258
+    "score": 258,
+    "globalRank": 16940
   },
   {
     "login": "jtcohen6",
@@ -11897,7 +12746,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 850,
-    "score": 675
+    "score": 675,
+    "globalRank": 16941
   },
   {
     "login": "Kartazion",
@@ -11911,7 +12761,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 851,
-    "score": 246
+    "score": 246,
+    "globalRank": 16942
   },
   {
     "login": "JulienBreux",
@@ -11925,7 +12776,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 852,
-    "score": 867
+    "score": 867,
+    "globalRank": 16984
   },
   {
     "login": "Xacone",
@@ -11939,7 +12791,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 853,
-    "score": 330
+    "score": 330,
+    "globalRank": 16985
   },
   {
     "login": "adrienverge",
@@ -11953,7 +12806,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 854,
-    "score": 317
+    "score": 317,
+    "globalRank": 16986
   },
   {
     "login": "corsonr",
@@ -11967,7 +12821,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 855,
-    "score": 7139
+    "score": 7139,
+    "globalRank": 16987
   },
   {
     "login": "McPatate",
@@ -11981,7 +12836,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 856,
-    "score": 968
+    "score": 968,
+    "globalRank": 17030
   },
   {
     "login": "TheVisualHub",
@@ -11995,7 +12851,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 857,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 17031
   },
   {
     "login": "buybackoff",
@@ -12009,7 +12866,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 858,
-    "score": 341
+    "score": 341,
+    "globalRank": 17032
   },
   {
     "login": "Giom-V",
@@ -12023,7 +12881,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 859,
-    "score": 872
+    "score": 872,
+    "globalRank": 17033
   },
   {
     "login": "abougouffa",
@@ -12037,7 +12896,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 860,
-    "score": 1807
+    "score": 1807,
+    "globalRank": 17078
   },
   {
     "login": "joel-costigliola",
@@ -12051,7 +12911,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 861,
-    "score": 364
+    "score": 364,
+    "globalRank": 17079
   },
   {
     "login": "beauby",
@@ -12065,7 +12926,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 862,
-    "score": 798
+    "score": 798,
+    "globalRank": 17121
   },
   {
     "login": "Profpatsch",
@@ -12079,7 +12941,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 863,
-    "score": 462
+    "score": 462,
+    "globalRank": 17122
   },
   {
     "login": "Progi1984",
@@ -12093,7 +12956,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 864,
-    "score": 6157
+    "score": 6157,
+    "globalRank": 17123
   },
   {
     "login": "jeherve",
@@ -12107,7 +12971,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 865,
-    "score": 2496
+    "score": 2496,
+    "globalRank": 17170
   },
   {
     "login": "mica16",
@@ -12121,7 +12986,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 866,
-    "score": 253
+    "score": 253,
+    "globalRank": 17171
   },
   {
     "login": "bleroy",
@@ -12135,7 +13001,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 867,
-    "score": 457
+    "score": 457,
+    "globalRank": 17224
   },
   {
     "login": "RistBS",
@@ -12149,7 +13016,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 868,
-    "score": 240
+    "score": 240,
+    "globalRank": 17225
   },
   {
     "login": "charlypoly",
@@ -12163,7 +13031,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 869,
-    "score": 592
+    "score": 592,
+    "globalRank": 17226
   },
   {
     "login": "bkth",
@@ -12177,7 +13046,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 870,
-    "score": 240
+    "score": 240,
+    "globalRank": 17227
   },
   {
     "login": "azerpas",
@@ -12191,7 +13061,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 871,
-    "score": 1010
+    "score": 1010,
+    "globalRank": 17228
   },
   {
     "login": "madeindjs",
@@ -12205,7 +13076,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 872,
-    "score": 1578
+    "score": 1578,
+    "globalRank": 17229
   },
   {
     "login": "jubianchi",
@@ -12219,7 +13091,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 873,
-    "score": 240
+    "score": 240,
+    "globalRank": 17230
   },
   {
     "login": "matyo91",
@@ -12233,7 +13106,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 874,
-    "score": 1278
+    "score": 1278,
+    "globalRank": 17231
   },
   {
     "login": "AkechiShiro",
@@ -12247,7 +13121,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 875,
-    "score": 717
+    "score": 717,
+    "globalRank": 17232
   },
   {
     "login": "leoetlino",
@@ -12261,7 +13136,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 876,
-    "score": 496
+    "score": 496,
+    "globalRank": 17296
   },
   {
     "login": "alexandresalome",
@@ -12275,7 +13151,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 877,
-    "score": 733
+    "score": 733,
+    "globalRank": 17297
   },
   {
     "login": "raphaelsty",
@@ -12289,7 +13166,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 878,
-    "score": 1967
+    "score": 1967,
+    "globalRank": 17343
   },
   {
     "login": "mremond",
@@ -12303,7 +13181,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 879,
-    "score": 4995
+    "score": 4995,
+    "globalRank": 17344
   },
   {
     "login": "divarvel",
@@ -12317,7 +13196,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 880,
-    "score": 601
+    "score": 601,
+    "globalRank": 17345
   },
   {
     "login": "tinevez",
@@ -12331,7 +13211,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 881,
-    "score": 979
+    "score": 979,
+    "globalRank": 17346
   },
   {
     "login": "Code-Oz",
@@ -12345,7 +13226,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 882,
-    "score": 479
+    "score": 479,
+    "globalRank": 17347
   },
   {
     "login": "asbiin",
@@ -12359,7 +13241,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 883,
-    "score": 1099
+    "score": 1099,
+    "globalRank": 17348
   },
   {
     "login": "rflamary",
@@ -12373,7 +13256,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 884,
-    "score": 486
+    "score": 486,
+    "globalRank": 17349
   },
   {
     "login": "WissamAntoun",
@@ -12387,7 +13271,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 885,
-    "score": 307
+    "score": 307,
+    "globalRank": 17350
   },
   {
     "login": "haixuanTao",
@@ -12401,7 +13286,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 886,
-    "score": 1936
+    "score": 1936,
+    "globalRank": 17351
   },
   {
     "login": "TeXitoi",
@@ -12415,7 +13301,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 887,
-    "score": 358
+    "score": 358,
+    "globalRank": 17408
   },
   {
     "login": "jdesboeufs",
@@ -12429,7 +13316,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 888,
-    "score": 2737
+    "score": 2737,
+    "globalRank": 17409
   },
   {
     "login": "belnadris",
@@ -12443,7 +13331,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 889,
-    "score": 1516
+    "score": 1516,
+    "globalRank": 17410
   },
   {
     "login": "JanGorman",
@@ -12457,7 +13346,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 890,
-    "score": 2662
+    "score": 2662,
+    "globalRank": 17411
   },
   {
     "login": "wanam",
@@ -12471,7 +13361,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 891,
-    "score": 240
+    "score": 240,
+    "globalRank": 17412
   },
   {
     "login": "hugoam",
@@ -12485,7 +13376,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 892,
-    "score": 238
+    "score": 238,
+    "globalRank": 17413
   },
   {
     "login": "jenperson",
@@ -12499,7 +13391,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 893,
-    "score": 549
+    "score": 549,
+    "globalRank": 17414
   },
   {
     "login": "BenMorel",
@@ -12513,7 +13406,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 894,
-    "score": 2759
+    "score": 2759,
+    "globalRank": 17468
   },
   {
     "login": "bycedlanalyst",
@@ -12527,7 +13421,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 895,
-    "score": 464
+    "score": 464,
+    "globalRank": 17469
   },
   {
     "login": "MacKentoch",
@@ -12541,7 +13436,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 896,
-    "score": 315
+    "score": 315,
+    "globalRank": 17470
   },
   {
     "login": "hoechenberger",
@@ -12555,7 +13451,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 897,
-    "score": 693
+    "score": 693,
+    "globalRank": 17471
   },
   {
     "login": "cyb3rxp",
@@ -12569,7 +13466,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 898,
-    "score": 592
+    "score": 592,
+    "globalRank": 17518
   },
   {
     "login": "jdrouet",
@@ -12583,7 +13481,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 899,
-    "score": 6626
+    "score": 6626,
+    "globalRank": 17519
   },
   {
     "login": "GaetanLepage",
@@ -12597,7 +13496,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 900,
-    "score": 10876
+    "score": 10876,
+    "globalRank": 17581
   },
   {
     "login": "Fantomas42",
@@ -12611,7 +13511,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 901,
-    "score": 2755
+    "score": 2755,
+    "globalRank": 17582
   },
   {
     "login": "yahya-banouk",
@@ -12625,7 +13526,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 902,
-    "score": 298
+    "score": 298,
+    "globalRank": 17583
   },
   {
     "login": "blanklob",
@@ -12639,7 +13541,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 903,
-    "score": 245
+    "score": 245,
+    "globalRank": 17584
   },
   {
     "login": "pradel",
@@ -12653,7 +13556,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 904,
-    "score": 3528
+    "score": 3528,
+    "globalRank": 17633
   },
   {
     "login": "frgfm",
@@ -12667,7 +13571,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 905,
-    "score": 2974
+    "score": 2974,
+    "globalRank": 17634
   },
   {
     "login": "AmesisProject",
@@ -12681,7 +13586,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 906,
-    "score": 233
+    "score": 233,
+    "globalRank": 17635
   },
   {
     "login": "novitae",
@@ -12695,7 +13601,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 907,
-    "score": 1465
+    "score": 1465,
+    "globalRank": 17636
   },
   {
     "login": "dpretet",
@@ -12709,7 +13616,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 908,
-    "score": 384
+    "score": 384,
+    "globalRank": 17753
   },
   {
     "login": "thomasbnt",
@@ -12723,7 +13631,8 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 909,
-    "score": 1645
+    "score": 1645,
+    "globalRank": 17754
   },
   {
     "login": "jnavila",
@@ -12737,6 +13646,7 @@
     "country": "france",
     "countryName": "France",
     "countryRank": 910,
-    "score": 488
+    "score": 488,
+    "globalRank": 17755
   }
 ]

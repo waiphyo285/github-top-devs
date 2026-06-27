@@ -11,7 +11,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 1,
-    "score": 25616
+    "score": 25616,
+    "globalRank": 30
   },
   {
     "login": "jdah",
@@ -25,7 +26,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 2,
-    "score": 7247
+    "score": 7247,
+    "globalRank": 289
   },
   {
     "login": "SimonVT",
@@ -39,7 +41,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 3,
-    "score": 3953
+    "score": 3953,
+    "globalRank": 659
   },
   {
     "login": "niconielsen32",
@@ -53,7 +56,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 4,
-    "score": 3964
+    "score": 3964,
+    "globalRank": 666
   },
   {
     "login": "klauspost",
@@ -67,7 +71,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 5,
-    "score": 5362
+    "score": 5362,
+    "globalRank": 692
   },
   {
     "login": "yoshuawuyts",
@@ -81,7 +86,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 6,
-    "score": 5399
+    "score": 5399,
+    "globalRank": 833
   },
   {
     "login": "thomasp85",
@@ -95,7 +101,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 7,
-    "score": 5315
+    "score": 5315,
+    "globalRank": 838
   },
   {
     "login": "Darksonn",
@@ -109,7 +116,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 8,
-    "score": 3339
+    "score": 3339,
+    "globalRank": 1161
   },
   {
     "login": "michenriksen",
@@ -123,7 +131,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 9,
-    "score": 2223
+    "score": 2223,
+    "globalRank": 1429
   },
   {
     "login": "watson",
@@ -137,7 +146,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 10,
-    "score": 3508
+    "score": 3508,
+    "globalRank": 1659
   },
   {
     "login": "akien-mga",
@@ -151,7 +161,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 11,
-    "score": 4728
+    "score": 4728,
+    "globalRank": 1957
   },
   {
     "login": "davidpdrsn",
@@ -165,7 +176,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 12,
-    "score": 5456
+    "score": 5456,
+    "globalRank": 1961
   },
   {
     "login": "ly4k",
@@ -179,7 +191,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 13,
-    "score": 1737
+    "score": 1737,
+    "globalRank": 1983
   },
   {
     "login": "ploeh",
@@ -193,7 +206,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 14,
-    "score": 2355
+    "score": 2355,
+    "globalRank": 1999
   },
   {
     "login": "ErikEJ",
@@ -207,7 +221,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 15,
-    "score": 3299
+    "score": 3299,
+    "globalRank": 2119
   },
   {
     "login": "andreasbm",
@@ -221,7 +236,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 16,
-    "score": 3516
+    "score": 3516,
+    "globalRank": 2130
   },
   {
     "login": "mraleph",
@@ -235,7 +251,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 17,
-    "score": 1688
+    "score": 1688,
+    "globalRank": 2334
   },
   {
     "login": "simonbs",
@@ -249,7 +266,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 18,
-    "score": 8927
+    "score": 8927,
+    "globalRank": 2489
   },
   {
     "login": "ThomasVitale",
@@ -263,7 +281,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 19,
-    "score": 4315
+    "score": 4315,
+    "globalRank": 2999
   },
   {
     "login": "mit-mit",
@@ -277,7 +296,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 20,
-    "score": 1308
+    "score": 1308,
+    "globalRank": 3140
   },
   {
     "login": "lrlna",
@@ -291,7 +311,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 21,
-    "score": 1358
+    "score": 1358,
+    "globalRank": 3485
   },
   {
     "login": "larshp",
@@ -305,7 +326,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 22,
-    "score": 7002
+    "score": 7002,
+    "globalRank": 3981
   },
   {
     "login": "LunaTheFoxgirl",
@@ -319,7 +341,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 23,
-    "score": 1838
+    "score": 1838,
+    "globalRank": 4187
   },
   {
     "login": "MarkEdmondson1234",
@@ -333,7 +356,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 24,
-    "score": 7883
+    "score": 7883,
+    "globalRank": 4350
   },
   {
     "login": "sepandhaghighi",
@@ -347,7 +371,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 25,
-    "score": 3036
+    "score": 3036,
+    "globalRank": 4410
   },
   {
     "login": "mjebrahimi",
@@ -361,7 +386,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 26,
-    "score": 912
+    "score": 912,
+    "globalRank": 4478
   },
   {
     "login": "firasdib",
@@ -375,7 +401,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 27,
-    "score": 902
+    "score": 902,
+    "globalRank": 4512
   },
   {
     "login": "mikker",
@@ -389,7 +416,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 28,
-    "score": 1841
+    "score": 1841,
+    "globalRank": 4898
   },
   {
     "login": "kaspth",
@@ -403,7 +431,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 29,
-    "score": 1899
+    "score": 1899,
+    "globalRank": 4954
   },
   {
     "login": "tomondre",
@@ -417,7 +446,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 30,
-    "score": 1231
+    "score": 1231,
+    "globalRank": 4960
   },
   {
     "login": "crisbeto",
@@ -431,7 +461,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 31,
-    "score": 8108
+    "score": 8108,
+    "globalRank": 5205
   },
   {
     "login": "Kink3d",
@@ -445,7 +476,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 32,
-    "score": 802
+    "score": 802,
+    "globalRank": 5493
   },
   {
     "login": "daviferreira",
@@ -459,7 +491,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 33,
-    "score": 838
+    "score": 838,
+    "globalRank": 5588
   },
   {
     "login": "casper-hansen",
@@ -473,7 +506,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 34,
-    "score": 2057
+    "score": 2057,
+    "globalRank": 5782
   },
   {
     "login": "paldepind",
@@ -487,7 +521,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 35,
-    "score": 2100
+    "score": 2100,
+    "globalRank": 5849
   },
   {
     "login": "molefrog",
@@ -501,7 +536,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 36,
-    "score": 2789
+    "score": 2789,
+    "globalRank": 6027
   },
   {
     "login": "ZahraHeydari",
@@ -515,7 +551,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 37,
-    "score": 703
+    "score": 703,
+    "globalRank": 6139
   },
   {
     "login": "AndreasMadsen",
@@ -529,7 +566,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 38,
-    "score": 1654
+    "score": 1654,
+    "globalRank": 6165
   },
   {
     "login": "davsclaus",
@@ -543,7 +581,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 39,
-    "score": 5521
+    "score": 5521,
+    "globalRank": 6502
   },
   {
     "login": "ciro-unity",
@@ -557,7 +596,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 40,
-    "score": 648
+    "score": 648,
+    "globalRank": 6517
   },
   {
     "login": "lorenzo",
@@ -571,7 +611,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 41,
-    "score": 1656
+    "score": 1656,
+    "globalRank": 6629
   },
   {
     "login": "sorbits",
@@ -585,7 +626,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 42,
-    "score": 637
+    "score": 637,
+    "globalRank": 6644
   },
   {
     "login": "csete",
@@ -599,7 +641,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 43,
-    "score": 665
+    "score": 665,
+    "globalRank": 6686
   },
   {
     "login": "Cwackz",
@@ -613,7 +656,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 44,
-    "score": 637
+    "score": 637,
+    "globalRank": 6878
   },
   {
     "login": "danmindru",
@@ -627,7 +671,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 45,
-    "score": 4956
+    "score": 4956,
+    "globalRank": 7015
   },
   {
     "login": "lucasjolibois54",
@@ -641,7 +686,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 46,
-    "score": 5304
+    "score": 5304,
+    "globalRank": 7154
   },
   {
     "login": "andersbll",
@@ -655,7 +701,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 47,
-    "score": 583
+    "score": 583,
+    "globalRank": 7255
   },
   {
     "login": "david-christiansen",
@@ -669,7 +716,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 48,
-    "score": 2260
+    "score": 2260,
+    "globalRank": 7332
   },
   {
     "login": "gavinsimpson",
@@ -683,7 +731,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 49,
-    "score": 1520
+    "score": 1520,
+    "globalRank": 7499
   },
   {
     "login": "MarcSkovMadsen",
@@ -697,7 +746,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 50,
-    "score": 1670
+    "score": 1670,
+    "globalRank": 7553
   },
   {
     "login": "jlouis",
@@ -711,7 +761,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 51,
-    "score": 558
+    "score": 558,
+    "globalRank": 7564
   },
   {
     "login": "LayZeeDK",
@@ -725,7 +776,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 52,
-    "score": 6050
+    "score": 6050,
+    "globalRank": 7779
   },
   {
     "login": "joshbuddy",
@@ -739,7 +791,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 53,
-    "score": 2399
+    "score": 2399,
+    "globalRank": 7780
   },
   {
     "login": "thisandagain",
@@ -753,7 +806,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 54,
-    "score": 552
+    "score": 552,
+    "globalRank": 7881
   },
   {
     "login": "palmin",
@@ -767,7 +821,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 55,
-    "score": 743
+    "score": 743,
+    "globalRank": 7972
   },
   {
     "login": "phi-lira",
@@ -781,7 +836,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 56,
-    "score": 526
+    "score": 526,
+    "globalRank": 8000
   },
   {
     "login": "adamgiebl",
@@ -795,7 +851,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 57,
-    "score": 2181
+    "score": 2181,
+    "globalRank": 8445
   },
   {
     "login": "jozefg",
@@ -809,7 +866,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 58,
-    "score": 1117
+    "score": 1117,
+    "globalRank": 8526
   },
   {
     "login": "aeeux",
@@ -823,7 +881,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 59,
-    "score": 624
+    "score": 624,
+    "globalRank": 8589
   },
   {
     "login": "FrederikBolding",
@@ -837,7 +896,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 60,
-    "score": 3052
+    "score": 3052,
+    "globalRank": 8850
   },
   {
     "login": "cafkafk",
@@ -851,7 +911,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 61,
-    "score": 1836
+    "score": 1836,
+    "globalRank": 8876
   },
   {
     "login": "netoptimizer",
@@ -865,7 +926,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 62,
-    "score": 562
+    "score": 562,
+    "globalRank": 9028
   },
   {
     "login": "luis-almeida",
@@ -879,7 +941,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 63,
-    "score": 563
+    "score": 563,
+    "globalRank": 9127
   },
   {
     "login": "alexanmtz",
@@ -893,7 +956,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 64,
-    "score": 1477
+    "score": 1477,
+    "globalRank": 9295
   },
   {
     "login": "freyacodes",
@@ -907,7 +971,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 65,
-    "score": 1090
+    "score": 1090,
+    "globalRank": 9368
   },
   {
     "login": "esbenp",
@@ -921,7 +986,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 66,
-    "score": 3475
+    "score": 3475,
+    "globalRank": 9584
   },
   {
     "login": "madskjeldgaard",
@@ -935,7 +1001,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 67,
-    "score": 659
+    "score": 659,
+    "globalRank": 9585
   },
   {
     "login": "steffanjensen",
@@ -949,7 +1016,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 68,
-    "score": 428
+    "score": 428,
+    "globalRank": 9871
   },
   {
     "login": "lkarlslund",
@@ -963,7 +1031,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 69,
-    "score": 3179
+    "score": 3179,
+    "globalRank": 10043
   },
   {
     "login": "agjs",
@@ -977,7 +1046,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 70,
-    "score": 4860
+    "score": 4860,
+    "globalRank": 10155
   },
   {
     "login": "alexrp",
@@ -991,7 +1061,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 71,
-    "score": 1978
+    "score": 1978,
+    "globalRank": 10257
   },
   {
     "login": "Shiva108",
@@ -1005,7 +1076,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 72,
-    "score": 4109
+    "score": 4109,
+    "globalRank": 10318
   },
   {
     "login": "maxandersen",
@@ -1019,7 +1091,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 73,
-    "score": 3140
+    "score": 3140,
+    "globalRank": 10363
   },
   {
     "login": "porsager",
@@ -1033,7 +1106,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 74,
-    "score": 521
+    "score": 521,
+    "globalRank": 10450
   },
   {
     "login": "Munter",
@@ -1047,7 +1121,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 75,
-    "score": 482
+    "score": 482,
+    "globalRank": 10451
   },
   {
     "login": "Cheesebaron",
@@ -1061,7 +1136,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 76,
-    "score": 1138
+    "score": 1138,
+    "globalRank": 10555
   },
   {
     "login": "LazarShockX",
@@ -1075,7 +1151,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 77,
-    "score": 1086
+    "score": 1086,
+    "globalRank": 10663
   },
   {
     "login": "Siccity",
@@ -1089,7 +1166,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 78,
-    "score": 442
+    "score": 442,
+    "globalRank": 10749
   },
   {
     "login": "kasperisager",
@@ -1103,7 +1181,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 79,
-    "score": 6143
+    "score": 6143,
+    "globalRank": 10773
   },
   {
     "login": "terezka",
@@ -1117,7 +1196,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 80,
-    "score": 1624
+    "score": 1624,
+    "globalRank": 10951
   },
   {
     "login": "keleshev",
@@ -1131,7 +1211,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 81,
-    "score": 410
+    "score": 410,
+    "globalRank": 11003
   },
   {
     "login": "leondz",
@@ -1145,7 +1226,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 82,
-    "score": 1244
+    "score": 1244,
+    "globalRank": 11103
   },
   {
     "login": "AJenbo",
@@ -1159,7 +1241,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 83,
-    "score": 2761
+    "score": 2761,
+    "globalRank": 11136
   },
   {
     "login": "thomasahle",
@@ -1173,7 +1256,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 84,
-    "score": 1013
+    "score": 1013,
+    "globalRank": 11196
   },
   {
     "login": "ozziest",
@@ -1187,7 +1271,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 85,
-    "score": 763
+    "score": 763,
+    "globalRank": 11430
   },
   {
     "login": "bytewreck",
@@ -1201,7 +1286,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 86,
-    "score": 613
+    "score": 613,
+    "globalRank": 11638
   },
   {
     "login": "n0kovo",
@@ -1215,7 +1301,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 87,
-    "score": 481
+    "score": 481,
+    "globalRank": 11929
   },
   {
     "login": "freddydk",
@@ -1229,7 +1316,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 88,
-    "score": 1383
+    "score": 1383,
+    "globalRank": 11978
   },
   {
     "login": "cinight",
@@ -1243,7 +1331,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 89,
-    "score": 356
+    "score": 356,
+    "globalRank": 12351
   },
   {
     "login": "larsenwork",
@@ -1257,7 +1346,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 90,
-    "score": 375
+    "score": 375,
+    "globalRank": 12558
   },
   {
     "login": "cptactionhank",
@@ -1271,7 +1361,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 91,
-    "score": 350
+    "score": 350,
+    "globalRank": 12559
   },
   {
     "login": "jonasfj",
@@ -1285,7 +1376,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 92,
-    "score": 1395
+    "score": 1395,
+    "globalRank": 12675
   },
   {
     "login": "athas",
@@ -1299,7 +1391,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 93,
-    "score": 2488
+    "score": 2488,
+    "globalRank": 12983
   },
   {
     "login": "Andreaswt",
@@ -1313,7 +1406,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 94,
-    "score": 358
+    "score": 358,
+    "globalRank": 12984
   },
   {
     "login": "bstordrup",
@@ -1327,7 +1421,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 95,
-    "score": 826
+    "score": 826,
+    "globalRank": 13161
   },
   {
     "login": "SkafteNicki",
@@ -1341,7 +1436,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 96,
-    "score": 1156
+    "score": 1156,
+    "globalRank": 13201
   },
   {
     "login": "kramse",
@@ -1355,7 +1451,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 97,
-    "score": 409
+    "score": 409,
+    "globalRank": 13236
   },
   {
     "login": "max-baz",
@@ -1369,7 +1466,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 98,
-    "score": 1691
+    "score": 1691,
+    "globalRank": 13302
   },
   {
     "login": "mickhansen",
@@ -1383,7 +1481,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 99,
-    "score": 590
+    "score": 590,
+    "globalRank": 13553
   },
   {
     "login": "johanrosenkilde",
@@ -1397,7 +1496,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 100,
-    "score": 1829
+    "score": 1829,
+    "globalRank": 13770
   },
   {
     "login": "kristianmandrup",
@@ -1411,7 +1511,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 101,
-    "score": 14928
+    "score": 14928,
+    "globalRank": 13804
   },
   {
     "login": "KristofferStrube",
@@ -1425,7 +1526,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 102,
-    "score": 783
+    "score": 783,
+    "globalRank": 13805
   },
   {
     "login": "wodxgod",
@@ -1439,7 +1541,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 103,
-    "score": 309
+    "score": 309,
+    "globalRank": 13840
   },
   {
     "login": "AndreasRef",
@@ -1453,7 +1556,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 104,
-    "score": 316
+    "score": 316,
+    "globalRank": 13841
   },
   {
     "login": "tyilo",
@@ -1467,7 +1571,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 105,
-    "score": 851
+    "score": 851,
+    "globalRank": 13944
   },
   {
     "login": "ahf",
@@ -1481,7 +1586,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 106,
-    "score": 313
+    "score": 313,
+    "globalRank": 14074
   },
   {
     "login": "viezel",
@@ -1495,7 +1601,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 107,
-    "score": 584
+    "score": 584,
+    "globalRank": 14075
   },
   {
     "login": "dfaranha",
@@ -1509,7 +1616,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 108,
-    "score": 771
+    "score": 771,
+    "globalRank": 14120
   },
   {
     "login": "niksedk",
@@ -1523,7 +1631,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 109,
-    "score": 5054
+    "score": 5054,
+    "globalRank": 14222
   },
   {
     "login": "fuglede",
@@ -1537,7 +1646,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 110,
-    "score": 773
+    "score": 773,
+    "globalRank": 14437
   },
   {
     "login": "ikashnitsky",
@@ -1551,7 +1661,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 111,
-    "score": 478
+    "score": 478,
+    "globalRank": 14586
   },
   {
     "login": "nikitapryymak",
@@ -1565,7 +1676,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 112,
-    "score": 1147
+    "score": 1147,
+    "globalRank": 14587
   },
   {
     "login": "robcupisz",
@@ -1579,7 +1691,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 113,
-    "score": 297
+    "score": 297,
+    "globalRank": 14699
   },
   {
     "login": "LindaLawton",
@@ -1593,7 +1706,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 114,
-    "score": 692
+    "score": 692,
+    "globalRank": 14843
   },
   {
     "login": "ilyamiro",
@@ -1607,7 +1721,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 115,
-    "score": 809
+    "score": 809,
+    "globalRank": 14893
   },
   {
     "login": "chhoumann",
@@ -1621,7 +1736,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 116,
-    "score": 5836
+    "score": 5836,
+    "globalRank": 15027
   },
   {
     "login": "AngryAnt",
@@ -1635,7 +1751,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 117,
-    "score": 531
+    "score": 531,
+    "globalRank": 15121
   },
   {
     "login": "jippi",
@@ -1649,7 +1766,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 118,
-    "score": 374
+    "score": 374,
+    "globalRank": 15122
   },
   {
     "login": "Leonidas-from-XIV",
@@ -1663,7 +1781,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 119,
-    "score": 1035
+    "score": 1035,
+    "globalRank": 15158
   },
   {
     "login": "raix",
@@ -1677,7 +1796,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 120,
-    "score": 913
+    "score": 913,
+    "globalRank": 15271
   },
   {
     "login": "olivernybroe",
@@ -1691,7 +1811,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 121,
-    "score": 2359
+    "score": 2359,
+    "globalRank": 15272
   },
   {
     "login": "muratkilic1978",
@@ -1705,7 +1826,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 122,
-    "score": 449
+    "score": 449,
+    "globalRank": 15273
   },
   {
     "login": "krestenkrab",
@@ -1719,7 +1841,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 123,
-    "score": 305
+    "score": 305,
+    "globalRank": 15378
   },
   {
     "login": "glaslos",
@@ -1733,7 +1856,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 124,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 15426
   },
   {
     "login": "neoneye",
@@ -1747,7 +1871,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 125,
-    "score": 5661
+    "score": 5661,
+    "globalRank": 15515
   },
   {
     "login": "n3d1117",
@@ -1761,7 +1886,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 126,
-    "score": 1821
+    "score": 1821,
+    "globalRank": 15563
   },
   {
     "login": "otykier",
@@ -1775,7 +1901,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 127,
-    "score": 535
+    "score": 535,
+    "globalRank": 15616
   },
   {
     "login": "sara-02",
@@ -1789,7 +1916,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 128,
-    "score": 299
+    "score": 299,
+    "globalRank": 15719
   },
   {
     "login": "lukeapage",
@@ -1803,7 +1931,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 129,
-    "score": 278
+    "score": 278,
+    "globalRank": 16045
   },
   {
     "login": "soegaard",
@@ -1817,7 +1946,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 130,
-    "score": 4506
+    "score": 4506,
+    "globalRank": 16321
   },
   {
     "login": "nachogentile",
@@ -1831,7 +1961,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 131,
-    "score": 258
+    "score": 258,
+    "globalRank": 16322
   },
   {
     "login": "mszell",
@@ -1845,7 +1976,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 132,
-    "score": 925
+    "score": 925,
+    "globalRank": 16378
   },
   {
     "login": "asavine",
@@ -1859,7 +1991,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 133,
-    "score": 261
+    "score": 261,
+    "globalRank": 16430
   },
   {
     "login": "lindeloev",
@@ -1873,7 +2006,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 134,
-    "score": 255
+    "score": 255,
+    "globalRank": 16524
   },
   {
     "login": "krukow",
@@ -1887,7 +2021,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 135,
-    "score": 2538
+    "score": 2538,
+    "globalRank": 16525
   },
   {
     "login": "kenchris",
@@ -1901,7 +2036,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 136,
-    "score": 1224
+    "score": 1224,
+    "globalRank": 16634
   },
   {
     "login": "eernstg",
@@ -1915,7 +2051,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 137,
-    "score": 984
+    "score": 984,
+    "globalRank": 16635
   },
   {
     "login": "ekim197711",
@@ -1929,7 +2066,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 138,
-    "score": 268
+    "score": 268,
+    "globalRank": 16766
   },
   {
     "login": "skaae",
@@ -1943,7 +2081,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 139,
-    "score": 253
+    "score": 253,
+    "globalRank": 16817
   },
   {
     "login": "hilli",
@@ -1957,7 +2096,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 140,
-    "score": 4119
+    "score": 4119,
+    "globalRank": 16875
   },
   {
     "login": "casperstorm",
@@ -1971,7 +2111,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 141,
-    "score": 2275
+    "score": 2275,
+    "globalRank": 16935
   },
   {
     "login": "smbache",
@@ -1985,7 +2126,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 142,
-    "score": 245
+    "score": 245,
+    "globalRank": 16978
   },
   {
     "login": "sorenlouv",
@@ -1999,7 +2141,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 143,
-    "score": 1743
+    "score": 1743,
+    "globalRank": 17028
   },
   {
     "login": "koalalorenzo",
@@ -2013,7 +2156,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 144,
-    "score": 1912
+    "score": 1912,
+    "globalRank": 17075
   },
   {
     "login": "Verasl",
@@ -2027,7 +2171,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 145,
-    "score": 242
+    "score": 242,
+    "globalRank": 17117
   },
   {
     "login": "mortennobel",
@@ -2041,7 +2186,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 146,
-    "score": 241
+    "score": 241,
+    "globalRank": 17168
   },
   {
     "login": "Daniele-Cangi",
@@ -2055,7 +2201,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 147,
-    "score": 855
+    "score": 855,
+    "globalRank": 17219
   },
   {
     "login": "duemunk",
@@ -2069,7 +2216,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 148,
-    "score": 1191
+    "score": 1191,
+    "globalRank": 17466
   },
   {
     "login": "jakobhoeg",
@@ -2083,7 +2231,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 149,
-    "score": 1369
+    "score": 1369,
+    "globalRank": 17631
   },
   {
     "login": "AndersDeleuran",
@@ -2097,7 +2246,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 150,
-    "score": 231
+    "score": 231,
+    "globalRank": 17750
   },
   {
     "login": "jakobnissen",
@@ -2111,7 +2261,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 151,
-    "score": 1009
+    "score": 1009,
+    "globalRank": 17751
   },
   {
     "login": "AgnerF",
@@ -2125,7 +2276,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 152,
-    "score": 235
+    "score": 235,
+    "globalRank": 17852
   },
   {
     "login": "mindplay-dk",
@@ -2139,7 +2291,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 153,
-    "score": 447
+    "score": 447,
+    "globalRank": 17904
   },
   {
     "login": "SimonLarsen",
@@ -2153,7 +2306,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 154,
-    "score": 438
+    "score": 438,
+    "globalRank": 17954
   },
   {
     "login": "fnielsen",
@@ -2167,7 +2321,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 155,
-    "score": 334
+    "score": 334,
+    "globalRank": 17955
   },
   {
     "login": "logicguy1",
@@ -2181,7 +2336,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 156,
-    "score": 2034
+    "score": 2034,
+    "globalRank": 18011
   },
   {
     "login": "mortbopet",
@@ -2195,7 +2351,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 157,
-    "score": 385
+    "score": 385,
+    "globalRank": 18066
   },
   {
     "login": "robertaboukhalil",
@@ -2209,7 +2366,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 158,
-    "score": 547
+    "score": 547,
+    "globalRank": 18122
   },
   {
     "login": "andreasjhkarlsson",
@@ -2223,7 +2381,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 159,
-    "score": 221
+    "score": 221,
+    "globalRank": 18279
   },
   {
     "login": "corradio",
@@ -2237,7 +2396,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 160,
-    "score": 614
+    "score": 614,
+    "globalRank": 18410
   },
   {
     "login": "tohojo",
@@ -2251,7 +2411,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 161,
-    "score": 514
+    "score": 514,
+    "globalRank": 18528
   },
   {
     "login": "wandenberg",
@@ -2265,7 +2426,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 162,
-    "score": 217
+    "score": 217,
+    "globalRank": 18529
   },
   {
     "login": "aamonten",
@@ -2279,7 +2441,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 163,
-    "score": 219
+    "score": 219,
+    "globalRank": 18591
   },
   {
     "login": "mookid8000",
@@ -2293,7 +2456,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 164,
-    "score": 458
+    "score": 458,
+    "globalRank": 18787
   },
   {
     "login": "datrexora",
@@ -2307,7 +2471,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 165,
-    "score": 231
+    "score": 231,
+    "globalRank": 18841
   },
   {
     "login": "cmelchior",
@@ -2321,7 +2486,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 166,
-    "score": 2250
+    "score": 2250,
+    "globalRank": 18842
   },
   {
     "login": "gudmundur",
@@ -2335,7 +2501,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 167,
-    "score": 450
+    "score": 450,
+    "globalRank": 18843
   },
   {
     "login": "jeppeml",
@@ -2349,7 +2516,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 168,
-    "score": 247
+    "score": 247,
+    "globalRank": 19040
   },
   {
     "login": "peterbrinck",
@@ -2363,7 +2531,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 169,
-    "score": 1288
+    "score": 1288,
+    "globalRank": 19320
   },
   {
     "login": "mads-hartmann",
@@ -2377,7 +2546,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 170,
-    "score": 506
+    "score": 506,
+    "globalRank": 19321
   },
   {
     "login": "carltheperson",
@@ -2391,7 +2561,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 171,
-    "score": 803
+    "score": 803,
+    "globalRank": 19550
   },
   {
     "login": "ApoorvaJ",
@@ -2405,7 +2576,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 172,
-    "score": 242
+    "score": 242,
+    "globalRank": 19627
   },
   {
     "login": "abuasifkhan",
@@ -2419,7 +2591,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 173,
-    "score": 2221
+    "score": 2221,
+    "globalRank": 19694
   },
   {
     "login": "KennethEnevoldsen",
@@ -2433,7 +2606,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 174,
-    "score": 2074
+    "score": 2074,
+    "globalRank": 19765
   },
   {
     "login": "khazali",
@@ -2447,7 +2621,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 175,
-    "score": 295
+    "score": 295,
+    "globalRank": 19766
   },
   {
     "login": "kasperjunge",
@@ -2461,7 +2636,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 176,
-    "score": 1795
+    "score": 1795,
+    "globalRank": 19767
   },
   {
     "login": "kevinsimper",
@@ -2475,7 +2651,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 177,
-    "score": 2101
+    "score": 2101,
+    "globalRank": 19845
   },
   {
     "login": "differential-machine-learning",
@@ -2489,7 +2666,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 178,
-    "score": 198
+    "score": 198,
+    "globalRank": 19846
   },
   {
     "login": "marktopper",
@@ -2503,7 +2681,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 179,
-    "score": 3626
+    "score": 3626,
+    "globalRank": 19847
   },
   {
     "login": "freeall",
@@ -2517,7 +2696,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 180,
-    "score": 756
+    "score": 756,
+    "globalRank": 19923
   },
   {
     "login": "gausby",
@@ -2531,7 +2711,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 181,
-    "score": 211
+    "score": 211,
+    "globalRank": 19924
   },
   {
     "login": "madsmtm",
@@ -2545,7 +2726,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 182,
-    "score": 1628
+    "score": 1628,
+    "globalRank": 19925
   },
   {
     "login": "floe",
@@ -2559,7 +2741,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 183,
-    "score": 325
+    "score": 325,
+    "globalRank": 19999
   },
   {
     "login": "toin0u",
@@ -2573,7 +2756,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 184,
-    "score": 196
+    "score": 196,
+    "globalRank": 20000
   },
   {
     "login": "duarteocarmo",
@@ -2587,7 +2771,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 185,
-    "score": 1733
+    "score": 1733,
+    "globalRank": 20060
   },
   {
     "login": "askeksa",
@@ -2601,7 +2786,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 186,
-    "score": 619
+    "score": 619,
+    "globalRank": 20138
   },
   {
     "login": "stramit",
@@ -2615,7 +2801,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 187,
-    "score": 965
+    "score": 965,
+    "globalRank": 20494
   },
   {
     "login": "brunosan",
@@ -2629,7 +2816,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 188,
-    "score": 4511
+    "score": 4511,
+    "globalRank": 20495
   },
   {
     "login": "kennylevinsen",
@@ -2643,7 +2831,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 189,
-    "score": 564
+    "score": 564,
+    "globalRank": 20649
   },
   {
     "login": "henrikbjorn",
@@ -2657,7 +2846,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 190,
-    "score": 3378
+    "score": 3378,
+    "globalRank": 20806
   },
   {
     "login": "pema99",
@@ -2671,7 +2861,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 191,
-    "score": 887
+    "score": 887,
+    "globalRank": 20807
   },
   {
     "login": "srindom",
@@ -2685,7 +2876,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 192,
-    "score": 247
+    "score": 247,
+    "globalRank": 21004
   },
   {
     "login": "pernielsentikaer",
@@ -2699,7 +2891,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 193,
-    "score": 3936
+    "score": 3936,
+    "globalRank": 21096
   },
   {
     "login": "kplaube",
@@ -2713,7 +2906,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 194,
-    "score": 1671
+    "score": 1671,
+    "globalRank": 21287
   },
   {
     "login": "davejfranco",
@@ -2727,7 +2921,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 195,
-    "score": 1484
+    "score": 1484,
+    "globalRank": 21288
   },
   {
     "login": "ko3n1g",
@@ -2741,7 +2936,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 196,
-    "score": 6964
+    "score": 6964,
+    "globalRank": 21463
   },
   {
     "login": "Baekalfen",
@@ -2755,7 +2951,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 197,
-    "score": 283
+    "score": 283,
+    "globalRank": 21464
   },
   {
     "login": "jseidelin",
@@ -2769,7 +2966,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 198,
-    "score": 177
+    "score": 177,
+    "globalRank": 21541
   },
   {
     "login": "imabdk",
@@ -2783,7 +2981,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 199,
-    "score": 381
+    "score": 381,
+    "globalRank": 21542
   },
   {
     "login": "mailund",
@@ -2797,7 +2996,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 200,
-    "score": 498
+    "score": 498,
+    "globalRank": 21622
   },
   {
     "login": "alexrs",
@@ -2811,7 +3011,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 201,
-    "score": 175
+    "score": 175,
+    "globalRank": 21721
   },
   {
     "login": "lassejlv",
@@ -2825,7 +3026,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 202,
-    "score": 2424
+    "score": 2424,
+    "globalRank": 21722
   },
   {
     "login": "parisnakitakejser",
@@ -2839,7 +3041,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 203,
-    "score": 1814
+    "score": 1814,
+    "globalRank": 21921
   },
   {
     "login": "nietras",
@@ -2853,7 +3056,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 204,
-    "score": 330
+    "score": 330,
+    "globalRank": 21922
   },
   {
     "login": "halfzebra",
@@ -2867,7 +3071,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 205,
-    "score": 517
+    "score": 517,
+    "globalRank": 22033
   },
   {
     "login": "cem2ran",
@@ -2881,7 +3086,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 206,
-    "score": 180
+    "score": 180,
+    "globalRank": 22148
   },
   {
     "login": "Berkanktk",
@@ -2895,7 +3101,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 207,
-    "score": 1219
+    "score": 1219,
+    "globalRank": 22149
   },
   {
     "login": "RobertLarsen",
@@ -2909,7 +3116,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 208,
-    "score": 183
+    "score": 183,
+    "globalRank": 22269
   },
   {
     "login": "kalachbeg",
@@ -2923,7 +3131,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 209,
-    "score": 1592
+    "score": 1592,
+    "globalRank": 22270
   },
   {
     "login": "RedBeard0531",
@@ -2937,7 +3146,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 210,
-    "score": 296
+    "score": 296,
+    "globalRank": 22394
   },
   {
     "login": "nul800sebastiaan",
@@ -2951,7 +3161,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 211,
-    "score": 2181
+    "score": 2181,
+    "globalRank": 22501
   },
   {
     "login": "jakobbotsch",
@@ -2965,7 +3176,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 212,
-    "score": 1220
+    "score": 1220,
+    "globalRank": 22611
   },
   {
     "login": "thebuilder",
@@ -2979,7 +3191,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 213,
-    "score": 2571
+    "score": 2571,
+    "globalRank": 22612
   },
   {
     "login": "kneth",
@@ -2993,7 +3206,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 214,
-    "score": 1339
+    "score": 1339,
+    "globalRank": 22733
   },
   {
     "login": "henrikbrixandersen",
@@ -3007,7 +3221,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 215,
-    "score": 1660
+    "score": 1660,
+    "globalRank": 22840
   },
   {
     "login": "NamelessCoder",
@@ -3021,7 +3236,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 216,
-    "score": 1220
+    "score": 1220,
+    "globalRank": 22965
   },
   {
     "login": "Jpfonseca",
@@ -3035,7 +3251,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 217,
-    "score": 619
+    "score": 619,
+    "globalRank": 23214
   },
   {
     "login": "srdanrasic",
@@ -3049,7 +3266,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 218,
-    "score": 169
+    "score": 169,
+    "globalRank": 23445
   },
   {
     "login": "sshine",
@@ -3063,7 +3281,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 219,
-    "score": 6348
+    "score": 6348,
+    "globalRank": 23568
   },
   {
     "login": "lemmih",
@@ -3077,7 +3296,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 220,
-    "score": 3598
+    "score": 3598,
+    "globalRank": 23569
   },
   {
     "login": "markuswustenberg",
@@ -3091,7 +3311,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 221,
-    "score": 1857
+    "score": 1857,
+    "globalRank": 23692
   },
   {
     "login": "Anemone95",
@@ -3105,7 +3326,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 222,
-    "score": 267
+    "score": 267,
+    "globalRank": 23693
   },
   {
     "login": "sorribas",
@@ -3119,7 +3341,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 223,
-    "score": 161
+    "score": 161,
+    "globalRank": 23828
   },
   {
     "login": "mravn-google",
@@ -3133,7 +3356,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 224,
-    "score": 156
+    "score": 156,
+    "globalRank": 23972
   },
   {
     "login": "cstamas",
@@ -3147,7 +3371,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 225,
-    "score": 3296
+    "score": 3296,
+    "globalRank": 24230
   },
   {
     "login": "reynir",
@@ -3161,7 +3386,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 226,
-    "score": 1087
+    "score": 1087,
+    "globalRank": 24231
   },
   {
     "login": "KimJorgensen",
@@ -3175,7 +3401,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 227,
-    "score": 158
+    "score": 158,
+    "globalRank": 24232
   },
   {
     "login": "jasmussen",
@@ -3189,7 +3416,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 228,
-    "score": 405
+    "score": 405,
+    "globalRank": 24233
   },
   {
     "login": "krh",
@@ -3203,7 +3431,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 229,
-    "score": 154
+    "score": 154,
+    "globalRank": 24234
   },
   {
     "login": "satterly",
@@ -3217,7 +3446,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 230,
-    "score": 334
+    "score": 334,
+    "globalRank": 24373
   },
   {
     "login": "kfl",
@@ -3231,7 +3461,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 231,
-    "score": 334
+    "score": 334,
+    "globalRank": 24374
   },
   {
     "login": "aminography",
@@ -3245,7 +3476,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 232,
-    "score": 670
+    "score": 670,
+    "globalRank": 24500
   },
   {
     "login": "KristianOellegaard",
@@ -3259,7 +3491,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 233,
-    "score": 1511
+    "score": 1511,
+    "globalRank": 24501
   },
   {
     "login": "kraenhansen",
@@ -3273,7 +3506,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 234,
-    "score": 1273
+    "score": 1273,
+    "globalRank": 24502
   },
   {
     "login": "pkofod",
@@ -3287,7 +3521,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 235,
-    "score": 342
+    "score": 342,
+    "globalRank": 24634
   },
   {
     "login": "NielsPilgaard",
@@ -3301,7 +3536,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 236,
-    "score": 1608
+    "score": 1608,
+    "globalRank": 24776
   },
   {
     "login": "RasmusWL",
@@ -3315,7 +3551,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 237,
-    "score": 154
+    "score": 154,
+    "globalRank": 24777
   },
   {
     "login": "isabelleaugenstein",
@@ -3329,7 +3566,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 238,
-    "score": 177
+    "score": 177,
+    "globalRank": 24923
   },
   {
     "login": "horsdal",
@@ -3343,7 +3581,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 239,
-    "score": 158
+    "score": 158,
+    "globalRank": 24924
   },
   {
     "login": "tt",
@@ -3357,7 +3596,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 240,
-    "score": 2329
+    "score": 2329,
+    "globalRank": 25056
   },
   {
     "login": "ThomasTJdev",
@@ -3371,7 +3611,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 241,
-    "score": 5903
+    "score": 5903,
+    "globalRank": 25184
   },
   {
     "login": "Stegger",
@@ -3385,7 +3626,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 242,
-    "score": 147
+    "score": 147,
+    "globalRank": 25185
   },
   {
     "login": "Bottelet",
@@ -3399,7 +3641,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 243,
-    "score": 4941
+    "score": 4941,
+    "globalRank": 25186
   },
   {
     "login": "Sonderwoods",
@@ -3413,7 +3656,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 244,
-    "score": 2138
+    "score": 2138,
+    "globalRank": 25316
   },
   {
     "login": "MTrab",
@@ -3427,7 +3671,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 245,
-    "score": 2716
+    "score": 2716,
+    "globalRank": 25453
   },
   {
     "login": "mindThomas",
@@ -3441,7 +3686,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 246,
-    "score": 717
+    "score": 717,
+    "globalRank": 25605
   },
   {
     "login": "sstrickl",
@@ -3455,7 +3701,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 247,
-    "score": 283
+    "score": 283,
+    "globalRank": 25753
   },
   {
     "login": "kwichmann",
@@ -3469,7 +3716,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 248,
-    "score": 259
+    "score": 259,
+    "globalRank": 25754
   },
   {
     "login": "sudorandom",
@@ -3483,7 +3731,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 249,
-    "score": 5355
+    "score": 5355,
+    "globalRank": 25906
   },
   {
     "login": "joeroe",
@@ -3497,7 +3746,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 250,
-    "score": 409
+    "score": 409,
+    "globalRank": 26060
   },
   {
     "login": "abrudz",
@@ -3511,7 +3761,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 251,
-    "score": 783
+    "score": 783,
+    "globalRank": 26061
   },
   {
     "login": "nynnejc",
@@ -3525,7 +3776,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 252,
-    "score": 499
+    "score": 499,
+    "globalRank": 26203
   },
   {
     "login": "pnkraemer",
@@ -3539,7 +3791,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 253,
-    "score": 340
+    "score": 340,
+    "globalRank": 26368
   },
   {
     "login": "skovhus",
@@ -3553,7 +3806,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 254,
-    "score": 5439
+    "score": 5439,
+    "globalRank": 26518
   },
   {
     "login": "wessberg",
@@ -3567,7 +3821,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 255,
-    "score": 2651
+    "score": 2651,
+    "globalRank": 26519
   },
   {
     "login": "Proteusiq",
@@ -3581,7 +3836,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 256,
-    "score": 2653
+    "score": 2653,
+    "globalRank": 26520
   },
   {
     "login": "MrMEEE",
@@ -3595,7 +3851,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 257,
-    "score": 1318
+    "score": 1318,
+    "globalRank": 26675
   },
   {
     "login": "martinnormark",
@@ -3609,7 +3866,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 258,
-    "score": 1513
+    "score": 1513,
+    "globalRank": 26676
   },
   {
     "login": "jcd",
@@ -3623,7 +3881,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 259,
-    "score": 142
+    "score": 142,
+    "globalRank": 26677
   },
   {
     "login": "LordMike",
@@ -3637,7 +3896,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 260,
-    "score": 1331
+    "score": 1331,
+    "globalRank": 26678
   },
   {
     "login": "danieleggert",
@@ -3651,7 +3911,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 261,
-    "score": 167
+    "score": 167,
+    "globalRank": 26840
   },
   {
     "login": "rasmus",
@@ -3665,7 +3926,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 262,
-    "score": 981
+    "score": 981,
+    "globalRank": 26996
   },
   {
     "login": "iliaschalkidis",
@@ -3679,7 +3941,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 263,
-    "score": 154
+    "score": 154,
+    "globalRank": 27173
   },
   {
     "login": "ffMathy",
@@ -3693,7 +3956,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 264,
-    "score": 3455
+    "score": 3455,
+    "globalRank": 27174
   },
   {
     "login": "MatiasBjorling",
@@ -3707,7 +3971,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 265,
-    "score": 157
+    "score": 157,
+    "globalRank": 27175
   },
   {
     "login": "ukdtom",
@@ -3721,7 +3986,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 266,
-    "score": 226
+    "score": 226,
+    "globalRank": 27176
   },
   {
     "login": "TroelsMortensen",
@@ -3735,7 +4001,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 267,
-    "score": 2155
+    "score": 2155,
+    "globalRank": 27177
   },
   {
     "login": "nirinchev",
@@ -3749,7 +4016,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 268,
-    "score": 785
+    "score": 785,
+    "globalRank": 27341
   },
   {
     "login": "jshellen",
@@ -3763,7 +4031,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 269,
-    "score": 133
+    "score": 133,
+    "globalRank": 27510
   },
   {
     "login": "maythamfahmi",
@@ -3777,7 +4046,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 270,
-    "score": 204
+    "score": 204,
+    "globalRank": 27649
   },
   {
     "login": "Jegp",
@@ -3791,7 +4061,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 271,
-    "score": 666
+    "score": 666,
+    "globalRank": 27650
   },
   {
     "login": "cultpenguin",
@@ -3805,7 +4076,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 272,
-    "score": 1034
+    "score": 1034,
+    "globalRank": 27651
   },
   {
     "login": "utz82",
@@ -3819,7 +4091,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 273,
-    "score": 134
+    "score": 134,
+    "globalRank": 27816
   },
   {
     "login": "lwjohnst86",
@@ -3833,7 +4106,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 274,
-    "score": 7732
+    "score": 7732,
+    "globalRank": 27817
   },
   {
     "login": "erfajo",
@@ -3847,7 +4121,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 275,
-    "score": 170
+    "score": 170,
+    "globalRank": 27818
   },
   {
     "login": "mellson",
@@ -3861,7 +4136,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 276,
-    "score": 1480
+    "score": 1480,
+    "globalRank": 27982
   },
   {
     "login": "bboydflo",
@@ -3875,7 +4151,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 277,
-    "score": 130
+    "score": 130,
+    "globalRank": 28141
   },
   {
     "login": "chribsen",
@@ -3889,7 +4166,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 278,
-    "score": 2145
+    "score": 2145,
+    "globalRank": 28142
   },
   {
     "login": "ar5had",
@@ -3903,7 +4181,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 279,
-    "score": 799
+    "score": 799,
+    "globalRank": 28143
   },
   {
     "login": "mauran",
@@ -3917,7 +4196,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 280,
-    "score": 281
+    "score": 281,
+    "globalRank": 28144
   },
   {
     "login": "madslundt",
@@ -3931,7 +4211,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 281,
-    "score": 221
+    "score": 221,
+    "globalRank": 28145
   },
   {
     "login": "tjconcept",
@@ -3945,7 +4226,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 282,
-    "score": 513
+    "score": 513,
+    "globalRank": 28334
   },
   {
     "login": "ahmagdy",
@@ -3959,7 +4241,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 283,
-    "score": 133
+    "score": 133,
+    "globalRank": 28335
   },
   {
     "login": "MizzleDK",
@@ -3973,7 +4256,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 284,
-    "score": 923
+    "score": 923,
+    "globalRank": 28336
   },
   {
     "login": "papandreou",
@@ -3987,7 +4271,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 285,
-    "score": 2067
+    "score": 2067,
+    "globalRank": 28337
   },
   {
     "login": "saattrupdan",
@@ -4001,7 +4286,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 286,
-    "score": 6004
+    "score": 6004,
+    "globalRank": 28511
   },
   {
     "login": "vangberg",
@@ -4015,7 +4301,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 287,
-    "score": 1904
+    "score": 1904,
+    "globalRank": 28512
   },
   {
     "login": "skadefro",
@@ -4029,7 +4316,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 288,
-    "score": 3307
+    "score": 3307,
+    "globalRank": 28706
   },
   {
     "login": "troelskn",
@@ -4043,7 +4331,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 289,
-    "score": 462
+    "score": 462,
+    "globalRank": 28707
   },
   {
     "login": "Genbox",
@@ -4057,7 +4346,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 290,
-    "score": 750
+    "score": 750,
+    "globalRank": 28708
   },
   {
     "login": "JesperSchulz",
@@ -4071,7 +4361,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 291,
-    "score": 821
+    "score": 821,
+    "globalRank": 28709
   },
   {
     "login": "mathiasvr",
@@ -4085,7 +4376,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 292,
-    "score": 125
+    "score": 125,
+    "globalRank": 28710
   },
   {
     "login": "hybridcattt",
@@ -4099,7 +4391,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 293,
-    "score": 615
+    "score": 615,
+    "globalRank": 28711
   },
   {
     "login": "lovettbarron",
@@ -4113,7 +4406,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 294,
-    "score": 6545
+    "score": 6545,
+    "globalRank": 28883
   },
   {
     "login": "grenaud",
@@ -4127,7 +4421,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 295,
-    "score": 137
+    "score": 137,
+    "globalRank": 29083
   },
   {
     "login": "Alkarex",
@@ -4141,7 +4436,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 296,
-    "score": 1413
+    "score": 1413,
+    "globalRank": 29084
   },
   {
     "login": "dasch",
@@ -4155,7 +4451,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 297,
-    "score": 3895
+    "score": 3895,
+    "globalRank": 29085
   },
   {
     "login": "hoovercj",
@@ -4169,7 +4466,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 298,
-    "score": 138
+    "score": 138,
+    "globalRank": 29086
   },
   {
     "login": "yalematta",
@@ -4183,7 +4481,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 299,
-    "score": 124
+    "score": 124,
+    "globalRank": 29087
   },
   {
     "login": "jetersen",
@@ -4197,7 +4496,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 300,
-    "score": 2741
+    "score": 2741,
+    "globalRank": 29266
   },
   {
     "login": "Midnighter",
@@ -4211,7 +4511,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 301,
-    "score": 523
+    "score": 523,
+    "globalRank": 29267
   },
   {
     "login": "melsman",
@@ -4225,7 +4526,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 302,
-    "score": 457
+    "score": 457,
+    "globalRank": 29268
   },
   {
     "login": "simonklee",
@@ -4239,7 +4541,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 303,
-    "score": 3178
+    "score": 3178,
+    "globalRank": 29453
   },
   {
     "login": "ios12checker",
@@ -4253,7 +4556,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 304,
-    "score": 367
+    "score": 367,
+    "globalRank": 29454
   },
   {
     "login": "topisani",
@@ -4267,7 +4571,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 305,
-    "score": 216
+    "score": 216,
+    "globalRank": 29455
   },
   {
     "login": "MathiasGruber",
@@ -4281,7 +4586,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 306,
-    "score": 2271
+    "score": 2271,
+    "globalRank": 29651
   },
   {
     "login": "KnudsenMorten",
@@ -4295,7 +4601,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 307,
-    "score": 305
+    "score": 305,
+    "globalRank": 29652
   },
   {
     "login": "MadsAlbertsen",
@@ -4309,7 +4616,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 308,
-    "score": 120
+    "score": 120,
+    "globalRank": 29653
   },
   {
     "login": "simonwinther",
@@ -4323,7 +4631,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 309,
-    "score": 1628
+    "score": 1628,
+    "globalRank": 29654
   },
   {
     "login": "rhummelmose",
@@ -4337,7 +4646,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 310,
-    "score": 3021
+    "score": 3021,
+    "globalRank": 29655
   },
   {
     "login": "mariusc",
@@ -4351,7 +4661,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 311,
-    "score": 124
+    "score": 124,
+    "globalRank": 29656
   },
   {
     "login": "martinloesethjensen",
@@ -4365,7 +4676,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 312,
-    "score": 996
+    "score": 996,
+    "globalRank": 29850
   },
   {
     "login": "Brianmanden",
@@ -4379,7 +4691,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 313,
-    "score": 1470
+    "score": 1470,
+    "globalRank": 30039
   },
   {
     "login": "ulfaslak",
@@ -4393,7 +4706,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 314,
-    "score": 2369
+    "score": 2369,
+    "globalRank": 30040
   },
   {
     "login": "ecederstrand",
@@ -4407,7 +4721,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 315,
-    "score": 199
+    "score": 199,
+    "globalRank": 30041
   },
   {
     "login": "MiraWaNeko",
@@ -4421,7 +4736,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 316,
-    "score": 940
+    "score": 940,
+    "globalRank": 30042
   },
   {
     "login": "mkrautz",
@@ -4435,7 +4751,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 317,
-    "score": 987
+    "score": 987,
+    "globalRank": 30043
   },
   {
     "login": "CPernet",
@@ -4449,7 +4766,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 318,
-    "score": 759
+    "score": 759,
+    "globalRank": 30251
   },
   {
     "login": "zerothi",
@@ -4463,7 +4781,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 319,
-    "score": 539
+    "score": 539,
+    "globalRank": 30252
   },
   {
     "login": "tsvilans",
@@ -4477,7 +4796,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 320,
-    "score": 156
+    "score": 156,
+    "globalRank": 30253
   },
   {
     "login": "hafezdivandari",
@@ -4491,7 +4811,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 321,
-    "score": 1436
+    "score": 1436,
+    "globalRank": 30254
   },
   {
     "login": "MJoergen",
@@ -4505,7 +4826,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 322,
-    "score": 373
+    "score": 373,
+    "globalRank": 30255
   },
   {
     "login": "hougesen",
@@ -4519,7 +4841,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 323,
-    "score": 1856
+    "score": 1856,
+    "globalRank": 30256
   },
   {
     "login": "arj03",
@@ -4533,7 +4856,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 324,
-    "score": 309
+    "score": 309,
+    "globalRank": 30453
   },
   {
     "login": "danielhers",
@@ -4547,7 +4871,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 325,
-    "score": 244
+    "score": 244,
+    "globalRank": 30688
   },
   {
     "login": "kasperl",
@@ -4561,7 +4886,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 326,
-    "score": 524
+    "score": 524,
+    "globalRank": 30911
   },
   {
     "login": "Eckankar",
@@ -4575,7 +4901,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 327,
-    "score": 183
+    "score": 183,
+    "globalRank": 30912
   },
   {
     "login": "mortendk",
@@ -4589,7 +4916,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 328,
-    "score": 121
+    "score": 121,
+    "globalRank": 30913
   },
   {
     "login": "Syntopia",
@@ -4603,7 +4931,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 329,
-    "score": 121
+    "score": 121,
+    "globalRank": 31129
   },
   {
     "login": "andersx",
@@ -4617,7 +4946,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 330,
-    "score": 443
+    "score": 443,
+    "globalRank": 31130
   },
   {
     "login": "Christian-Schou",
@@ -4631,7 +4961,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 331,
-    "score": 3186
+    "score": 3186,
+    "globalRank": 31131
   },
   {
     "login": "simongray",
@@ -4645,7 +4976,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 332,
-    "score": 568
+    "score": 568,
+    "globalRank": 31132
   },
   {
     "login": "ksmandersen",
@@ -4659,7 +4991,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 333,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 31343
   },
   {
     "login": "rwjdk",
@@ -4673,7 +5006,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 334,
-    "score": 1827
+    "score": 1827,
+    "globalRank": 31585
   },
   {
     "login": "woylie",
@@ -4687,7 +5021,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 335,
-    "score": 1125
+    "score": 1125,
+    "globalRank": 31586
   },
   {
     "login": "terrymun",
@@ -4701,7 +5036,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 336,
-    "score": 2937
+    "score": 2937,
+    "globalRank": 31587
   },
   {
     "login": "uldahlalex",
@@ -4715,7 +5051,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 337,
-    "score": 1089
+    "score": 1089,
+    "globalRank": 31837
   },
   {
     "login": "Aemiii91",
@@ -4729,7 +5066,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 338,
-    "score": 172
+    "score": 172,
+    "globalRank": 31838
   },
   {
     "login": "Tugbars",
@@ -4743,7 +5081,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 339,
-    "score": 3005
+    "score": 3005,
+    "globalRank": 31839
   },
   {
     "login": "janmeier",
@@ -4757,7 +5096,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 340,
-    "score": 1906
+    "score": 1906,
+    "globalRank": 31840
   },
   {
     "login": "4lgn",
@@ -4771,7 +5111,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 341,
-    "score": 1909
+    "score": 1909,
+    "globalRank": 31841
   },
   {
     "login": "jmid",
@@ -4785,7 +5126,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 342,
-    "score": 2057
+    "score": 2057,
+    "globalRank": 31842
   },
   {
     "login": "mikl",
@@ -4799,7 +5141,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 343,
-    "score": 332
+    "score": 332,
+    "globalRank": 32091
   },
   {
     "login": "BarrensZeppelin",
@@ -4813,7 +5156,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 344,
-    "score": 2428
+    "score": 2428,
+    "globalRank": 32092
   },
   {
     "login": "PierreBresson",
@@ -4827,7 +5171,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 345,
-    "score": 228
+    "score": 228,
+    "globalRank": 32093
   },
   {
     "login": "PederHP",
@@ -4841,7 +5186,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 346,
-    "score": 1295
+    "score": 1295,
+    "globalRank": 32094
   },
   {
     "login": "kokjo",
@@ -4855,7 +5201,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 347,
-    "score": 213
+    "score": 213,
+    "globalRank": 32331
   },
   {
     "login": "nyxkrage",
@@ -4869,7 +5216,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 348,
-    "score": 260
+    "score": 260,
+    "globalRank": 32332
   },
   {
     "login": "dimapasko",
@@ -4883,7 +5231,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 349,
-    "score": 2080
+    "score": 2080,
+    "globalRank": 32520
   },
   {
     "login": "andersbor",
@@ -4897,7 +5246,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 350,
-    "score": 319
+    "score": 319,
+    "globalRank": 32521
   },
   {
     "login": "Humbedooh",
@@ -4911,7 +5261,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 351,
-    "score": 333
+    "score": 333,
+    "globalRank": 32522
   },
   {
     "login": "aarani",
@@ -4925,7 +5276,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 352,
-    "score": 516
+    "score": 516,
+    "globalRank": 32523
   },
   {
     "login": "runem",
@@ -4939,7 +5291,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 353,
-    "score": 1565
+    "score": 1565,
+    "globalRank": 32524
   },
   {
     "login": "robertladwig",
@@ -4953,7 +5306,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 354,
-    "score": 189
+    "score": 189,
+    "globalRank": 32525
   },
   {
     "login": "jonasbn",
@@ -4967,7 +5321,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 355,
-    "score": 4014
+    "score": 4014,
+    "globalRank": 32526
   },
   {
     "login": "antialize",
@@ -4981,7 +5336,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 356,
-    "score": 919
+    "score": 919,
+    "globalRank": 32527
   },
   {
     "login": "Munksgaard",
@@ -4995,7 +5351,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 357,
-    "score": 3285
+    "score": 3285,
+    "globalRank": 32765
   },
   {
     "login": "cmkobel",
@@ -5009,7 +5366,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 358,
-    "score": 480
+    "score": 480,
+    "globalRank": 32766
   },
   {
     "login": "FredrikAugust",
@@ -5023,7 +5381,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 359,
-    "score": 1648
+    "score": 1648,
+    "globalRank": 32767
   },
   {
     "login": "mapcentia",
@@ -5037,7 +5396,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 360,
-    "score": 2112
+    "score": 2112,
+    "globalRank": 32768
   },
   {
     "login": "krestenlaust",
@@ -5051,7 +5411,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 361,
-    "score": 659
+    "score": 659,
+    "globalRank": 32769
   },
   {
     "login": "fgvieira",
@@ -5065,7 +5426,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 362,
-    "score": 891
+    "score": 891,
+    "globalRank": 32997
   },
   {
     "login": "olegam",
@@ -5079,7 +5441,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 363,
-    "score": 136
+    "score": 136,
+    "globalRank": 32998
   },
   {
     "login": "langnico",
@@ -5093,7 +5456,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 364,
-    "score": 120
+    "score": 120,
+    "globalRank": 32999
   },
   {
     "login": "edupont04",
@@ -5107,7 +5471,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 365,
-    "score": 376
+    "score": 376,
+    "globalRank": 33000
   },
   {
     "login": "andrioid",
@@ -5121,7 +5486,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 366,
-    "score": 1211
+    "score": 1211,
+    "globalRank": 33225
   },
   {
     "login": "malthe",
@@ -5135,7 +5501,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 367,
-    "score": 148
+    "score": 148,
+    "globalRank": 33226
   },
   {
     "login": "Tehnix",
@@ -5149,7 +5516,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 368,
-    "score": 721
+    "score": 721,
+    "globalRank": 33227
   },
   {
     "login": "ocni-dtu",
@@ -5163,7 +5531,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 369,
-    "score": 1985
+    "score": 1985,
+    "globalRank": 33228
   },
   {
     "login": "JessicaTegner",
@@ -5177,7 +5546,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 370,
-    "score": 1341
+    "score": 1341,
+    "globalRank": 33477
   },
   {
     "login": "unixdigest",
@@ -5191,7 +5561,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 371,
-    "score": 103
+    "score": 103,
+    "globalRank": 33478
   },
   {
     "login": "ashleydw",
@@ -5205,7 +5576,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 372,
-    "score": 106
+    "score": 106,
+    "globalRank": 33479
   },
   {
     "login": "asny",
@@ -5219,7 +5591,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 373,
-    "score": 900
+    "score": 900,
+    "globalRank": 33480
   },
   {
     "login": "blockchainhelp",
@@ -5233,7 +5606,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 374,
-    "score": 103
+    "score": 103,
+    "globalRank": 33481
   },
   {
     "login": "esmil",
@@ -5247,7 +5621,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 375,
-    "score": 154
+    "score": 154,
+    "globalRank": 33777
   },
   {
     "login": "mkborregaard",
@@ -5261,7 +5636,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 376,
-    "score": 119
+    "score": 119,
+    "globalRank": 33778
   },
   {
     "login": "LauJensen",
@@ -5275,7 +5651,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 377,
-    "score": 125
+    "score": 125,
+    "globalRank": 33779
   },
   {
     "login": "akdenizburak",
@@ -5289,7 +5666,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 378,
-    "score": 102
+    "score": 102,
+    "globalRank": 33780
   },
   {
     "login": "ekstroem",
@@ -5303,7 +5681,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 379,
-    "score": 214
+    "score": 214,
+    "globalRank": 33781
   },
   {
     "login": "ThomasBS",
@@ -5317,7 +5696,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 380,
-    "score": 603
+    "score": 603,
+    "globalRank": 34051
   },
   {
     "login": "viktorstrate",
@@ -5331,7 +5711,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 381,
-    "score": 800
+    "score": 800,
+    "globalRank": 34052
   },
   {
     "login": "kapetan",
@@ -5345,7 +5726,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 382,
-    "score": 371
+    "score": 371,
+    "globalRank": 34053
   },
   {
     "login": "simonask",
@@ -5359,7 +5741,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 383,
-    "score": 182
+    "score": 182,
+    "globalRank": 34054
   },
   {
     "login": "HEnquist",
@@ -5373,7 +5756,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 384,
-    "score": 722
+    "score": 722,
+    "globalRank": 34274
   },
   {
     "login": "KasperKnop",
@@ -5387,7 +5771,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 385,
-    "score": 265
+    "score": 265,
+    "globalRank": 34275
   },
   {
     "login": "leonjessen",
@@ -5401,7 +5786,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 386,
-    "score": 155
+    "score": 155,
+    "globalRank": 34276
   },
   {
     "login": "NielsLiisberg",
@@ -5415,7 +5801,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 387,
-    "score": 399
+    "score": 399,
+    "globalRank": 34487
   },
   {
     "login": "paotsaq",
@@ -5429,7 +5816,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 388,
-    "score": 99
+    "score": 99,
+    "globalRank": 34488
   },
   {
     "login": "jcoplien",
@@ -5443,7 +5831,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 389,
-    "score": 98
+    "score": 98,
+    "globalRank": 34719
   },
   {
     "login": "Varbaek",
@@ -5457,7 +5846,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 390,
-    "score": 98
+    "score": 98,
+    "globalRank": 34720
   },
   {
     "login": "mathiasrw",
@@ -5471,7 +5861,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 391,
-    "score": 559
+    "score": 559,
+    "globalRank": 34721
   },
   {
     "login": "cerkut",
@@ -5485,7 +5876,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 392,
-    "score": 363
+    "score": 363,
+    "globalRank": 34722
   },
   {
     "login": "mikependon",
@@ -5499,7 +5891,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 393,
-    "score": 101
+    "score": 101,
+    "globalRank": 34723
   },
   {
     "login": "MathiasReker",
@@ -5513,7 +5906,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 394,
-    "score": 718
+    "score": 718,
+    "globalRank": 34724
   },
   {
     "login": "roncohen",
@@ -5527,7 +5921,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 395,
-    "score": 1677
+    "score": 1677,
+    "globalRank": 34725
   },
   {
     "login": "cederdorff",
@@ -5541,7 +5936,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 396,
-    "score": 949
+    "score": 949,
+    "globalRank": 34987
   },
   {
     "login": "ellioman",
@@ -5555,7 +5951,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 397,
-    "score": 744
+    "score": 744,
+    "globalRank": 34988
   },
   {
     "login": "bjarnel",
@@ -5569,7 +5966,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 398,
-    "score": 99
+    "score": 99,
+    "globalRank": 34989
   },
   {
     "login": "fredsted",
@@ -5583,7 +5981,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 399,
-    "score": 634
+    "score": 634,
+    "globalRank": 34990
   },
   {
     "login": "mardahl",
@@ -5597,7 +5996,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 400,
-    "score": 5266
+    "score": 5266,
+    "globalRank": 35236
   },
   {
     "login": "pbbastian",
@@ -5611,7 +6011,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 401,
-    "score": 121
+    "score": 121,
+    "globalRank": 35237
   },
   {
     "login": "jakobrosenberg",
@@ -5625,7 +6026,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 402,
-    "score": 278
+    "score": 278,
+    "globalRank": 35238
   },
   {
     "login": "ilkerkesen",
@@ -5639,7 +6041,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 403,
-    "score": 397
+    "score": 397,
+    "globalRank": 35481
   },
   {
     "login": "koppen",
@@ -5653,7 +6056,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 404,
-    "score": 6047
+    "score": 6047,
+    "globalRank": 35482
   },
   {
     "login": "DanielLavrushin",
@@ -5667,7 +6071,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 405,
-    "score": 3346
+    "score": 3346,
+    "globalRank": 35483
   },
   {
     "login": "ahmadsalim",
@@ -5681,7 +6086,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 406,
-    "score": 95
+    "score": 95,
+    "globalRank": 35484
   },
   {
     "login": "uStepperOld",
@@ -5695,7 +6101,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 407,
-    "score": 94
+    "score": 94,
+    "globalRank": 35734
   },
   {
     "login": "matpow2",
@@ -5709,7 +6116,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 408,
-    "score": 94
+    "score": 94,
+    "globalRank": 35735
   },
   {
     "login": "amatzen",
@@ -5723,7 +6131,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 409,
-    "score": 196
+    "score": 196,
+    "globalRank": 35736
   },
   {
     "login": "kennethlarsen",
@@ -5737,7 +6146,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 410,
-    "score": 249
+    "score": 249,
+    "globalRank": 35737
   },
   {
     "login": "eugene",
@@ -5751,7 +6161,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 411,
-    "score": 178
+    "score": 178,
+    "globalRank": 35993
   },
   {
     "login": "mahdi-malv",
@@ -5765,7 +6176,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 412,
-    "score": 920
+    "score": 920,
+    "globalRank": 35994
   },
   {
     "login": "kaspermarstal",
@@ -5779,7 +6191,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 413,
-    "score": 826
+    "score": 826,
+    "globalRank": 35995
   },
   {
     "login": "straussmaximilian",
@@ -5793,7 +6206,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 414,
-    "score": 218
+    "score": 218,
+    "globalRank": 35996
   },
   {
     "login": "runestubbe",
@@ -5807,7 +6221,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 415,
-    "score": 127
+    "score": 127,
+    "globalRank": 35997
   },
   {
     "login": "luisfcofv",
@@ -5821,7 +6236,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 416,
-    "score": 98
+    "score": 98,
+    "globalRank": 35998
   },
   {
     "login": "Rassibassi",
@@ -5835,7 +6251,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 417,
-    "score": 97
+    "score": 97,
+    "globalRank": 35999
   },
   {
     "login": "lczech",
@@ -5849,7 +6266,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 418,
-    "score": 479
+    "score": 479,
+    "globalRank": 36266
   },
   {
     "login": "bquorning",
@@ -5863,7 +6281,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 419,
-    "score": 3464
+    "score": 3464,
+    "globalRank": 36267
   },
   {
     "login": "cnheider",
@@ -5877,7 +6296,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 420,
-    "score": 506
+    "score": 506,
+    "globalRank": 36268
   },
   {
     "login": "erik-krogh",
@@ -5891,7 +6311,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 421,
-    "score": 3710
+    "score": 3710,
+    "globalRank": 36269
   },
   {
     "login": "DerXter",
@@ -5905,7 +6326,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 422,
-    "score": 106
+    "score": 106,
+    "globalRank": 36270
   },
   {
     "login": "pankaj28843",
@@ -5919,7 +6341,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 423,
-    "score": 2247
+    "score": 2247,
+    "globalRank": 36271
   },
   {
     "login": "sachsmc",
@@ -5933,7 +6356,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 424,
-    "score": 301
+    "score": 301,
+    "globalRank": 36272
   },
   {
     "login": "kasperkristensen",
@@ -5947,7 +6371,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 425,
-    "score": 1592
+    "score": 1592,
+    "globalRank": 36545
   },
   {
     "login": "amel-unity",
@@ -5961,7 +6386,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 426,
-    "score": 91
+    "score": 91,
+    "globalRank": 36546
   },
   {
     "login": "jonasgroendahl",
@@ -5975,7 +6401,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 427,
-    "score": 1714
+    "score": 1714,
+    "globalRank": 36547
   },
   {
     "login": "eval",
@@ -5989,7 +6416,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 428,
-    "score": 2000
+    "score": 2000,
+    "globalRank": 36548
   },
   {
     "login": "a-magdy",
@@ -6003,7 +6431,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 429,
-    "score": 2166
+    "score": 2166,
+    "globalRank": 36549
   },
   {
     "login": "lundmar",
@@ -6017,7 +6446,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 430,
-    "score": 101
+    "score": 101,
+    "globalRank": 36550
   },
   {
     "login": "Malu05",
@@ -6031,7 +6461,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 431,
-    "score": 100
+    "score": 100,
+    "globalRank": 36800
   },
   {
     "login": "kimfalk",
@@ -6045,7 +6476,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 432,
-    "score": 117
+    "score": 117,
+    "globalRank": 36801
   },
   {
     "login": "druewilding",
@@ -6059,7 +6491,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 433,
-    "score": 5419
+    "score": 5419,
+    "globalRank": 36802
   },
   {
     "login": "bodkan",
@@ -6073,7 +6506,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 434,
-    "score": 2259
+    "score": 2259,
+    "globalRank": 36803
   },
   {
     "login": "BomMadsen",
@@ -6087,7 +6521,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 435,
-    "score": 333
+    "score": 333,
+    "globalRank": 37075
   },
   {
     "login": "zetxek",
@@ -6101,7 +6536,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 436,
-    "score": 2102
+    "score": 2102,
+    "globalRank": 37076
   },
   {
     "login": "graulund",
@@ -6115,7 +6551,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 437,
-    "score": 1940
+    "score": 1940,
+    "globalRank": 37077
   },
   {
     "login": "pstibrany",
@@ -6129,7 +6566,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 438,
-    "score": 2377
+    "score": 2377,
+    "globalRank": 37078
   },
   {
     "login": "deamme",
@@ -6143,7 +6581,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 439,
-    "score": 90
+    "score": 90,
+    "globalRank": 37079
   },
   {
     "login": "aklt",
@@ -6157,7 +6596,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 440,
-    "score": 96
+    "score": 96,
+    "globalRank": 37378
   },
   {
     "login": "abjerner",
@@ -6171,7 +6611,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 441,
-    "score": 1826
+    "score": 1826,
+    "globalRank": 37379
   },
   {
     "login": "JonathanMH",
@@ -6185,7 +6626,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 442,
-    "score": 108
+    "score": 108,
+    "globalRank": 37380
   },
   {
     "login": "jibsen",
@@ -6199,7 +6641,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 443,
-    "score": 118
+    "score": 118,
+    "globalRank": 37381
   },
   {
     "login": "tobloef",
@@ -6213,7 +6656,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 444,
-    "score": 162
+    "score": 162,
+    "globalRank": 37382
   },
   {
     "login": "emilbaehr",
@@ -6227,7 +6671,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 445,
-    "score": 1207
+    "score": 1207,
+    "globalRank": 37684
   },
   {
     "login": "marcvanzee",
@@ -6241,7 +6686,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 446,
-    "score": 89
+    "score": 89,
+    "globalRank": 37685
   },
   {
     "login": "chriskjaer",
@@ -6255,7 +6701,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 447,
-    "score": 1790
+    "score": 1790,
+    "globalRank": 37686
   },
   {
     "login": "omersb",
@@ -6269,7 +6716,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 448,
-    "score": 329
+    "score": 329,
+    "globalRank": 37687
   },
   {
     "login": "dariye",
@@ -6283,7 +6731,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 449,
-    "score": 3376
+    "score": 3376,
+    "globalRank": 37688
   },
   {
     "login": "thomasbrueggemann",
@@ -6297,7 +6746,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 450,
-    "score": 2142
+    "score": 2142,
+    "globalRank": 37689
   },
   {
     "login": "cecarlsen",
@@ -6311,7 +6761,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 451,
-    "score": 894
+    "score": 894,
+    "globalRank": 37975
   },
   {
     "login": "logandk",
@@ -6325,7 +6776,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 452,
-    "score": 1984
+    "score": 1984,
+    "globalRank": 37976
   },
   {
     "login": "LordRahl90",
@@ -6339,7 +6791,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 453,
-    "score": 747
+    "score": 747,
+    "globalRank": 37977
   },
   {
     "login": "ATouhou",
@@ -6353,7 +6806,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 454,
-    "score": 2337
+    "score": 2337,
+    "globalRank": 37978
   },
   {
     "login": "petlatkea",
@@ -6367,7 +6821,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 455,
-    "score": 146
+    "score": 146,
+    "globalRank": 37979
   },
   {
     "login": "theill",
@@ -6381,7 +6836,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 456,
-    "score": 3749
+    "score": 3749,
+    "globalRank": 37980
   },
   {
     "login": "MadsHolten",
@@ -6395,7 +6851,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 457,
-    "score": 159
+    "score": 159,
+    "globalRank": 38273
   },
   {
     "login": "mikkelkrogsholm",
@@ -6409,7 +6866,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 458,
-    "score": 1352
+    "score": 1352,
+    "globalRank": 38274
   },
   {
     "login": "jchillerup",
@@ -6423,7 +6881,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 459,
-    "score": 378
+    "score": 378,
+    "globalRank": 38275
   },
   {
     "login": "Kirk3gaard",
@@ -6437,7 +6896,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 460,
-    "score": 137
+    "score": 137,
+    "globalRank": 38276
   },
   {
     "login": "zhenghuatan",
@@ -6451,7 +6911,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 461,
-    "score": 100
+    "score": 100,
+    "globalRank": 38277
   },
   {
     "login": "dotnetCarpenter",
@@ -6465,7 +6926,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 462,
-    "score": 505
+    "score": 505,
+    "globalRank": 38567
   },
   {
     "login": "jsmnbom",
@@ -6479,7 +6941,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 463,
-    "score": 204
+    "score": 204,
+    "globalRank": 38568
   },
   {
     "login": "andresmasegosa",
@@ -6493,7 +6956,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 464,
-    "score": 190
+    "score": 190,
+    "globalRank": 38569
   },
   {
     "login": "ZaradarBH",
@@ -6507,7 +6971,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 465,
-    "score": 398
+    "score": 398,
+    "globalRank": 38570
   },
   {
     "login": "petersuhm",
@@ -6521,7 +6986,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 466,
-    "score": 424
+    "score": 424,
+    "globalRank": 38571
   },
   {
     "login": "BrianEmilius",
@@ -6535,7 +7001,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 467,
-    "score": 295
+    "score": 295,
+    "globalRank": 38572
   },
   {
     "login": "srhb",
@@ -6549,7 +7016,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 468,
-    "score": 237
+    "score": 237,
+    "globalRank": 38573
   },
   {
     "login": "russell",
@@ -6563,7 +7031,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 469,
-    "score": 3085
+    "score": 3085,
+    "globalRank": 38574
   },
   {
     "login": "x2q",
@@ -6577,7 +7046,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 470,
-    "score": 210
+    "score": 210,
+    "globalRank": 38575
   },
   {
     "login": "JonasBK",
@@ -6591,7 +7061,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 471,
-    "score": 393
+    "score": 393,
+    "globalRank": 38898
   },
   {
     "login": "Frier03",
@@ -6605,7 +7076,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 472,
-    "score": 491
+    "score": 491,
+    "globalRank": 38899
   },
   {
     "login": "FuzzyLitchi",
@@ -6619,7 +7091,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 473,
-    "score": 104
+    "score": 104,
+    "globalRank": 38900
   },
   {
     "login": "MBehtemam",
@@ -6633,7 +7106,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 474,
-    "score": 723
+    "score": 723,
+    "globalRank": 39230
   },
   {
     "login": "steffendsommer",
@@ -6647,7 +7121,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 475,
-    "score": 2459
+    "score": 2459,
+    "globalRank": 39231
   },
   {
     "login": "rhughes42",
@@ -6661,7 +7136,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 476,
-    "score": 904
+    "score": 904,
+    "globalRank": 39232
   },
   {
     "login": "cstein",
@@ -6675,7 +7151,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 477,
-    "score": 83
+    "score": 83,
+    "globalRank": 39233
   },
   {
     "login": "tykling",
@@ -6689,7 +7166,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 478,
-    "score": 1332
+    "score": 1332,
+    "globalRank": 39234
   },
   {
     "login": "christianhelle",
@@ -6703,7 +7181,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 479,
-    "score": 10949
+    "score": 10949,
+    "globalRank": 39235
   },
   {
     "login": "raroni",
@@ -6717,7 +7196,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 480,
-    "score": 86
+    "score": 86,
+    "globalRank": 39236
   },
   {
     "login": "fiadliel",
@@ -6731,7 +7211,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 481,
-    "score": 2318
+    "score": 2318,
+    "globalRank": 39237
   },
   {
     "login": "eCrimeLabs",
@@ -6745,7 +7226,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 482,
-    "score": 99
+    "score": 99,
+    "globalRank": 39560
   },
   {
     "login": "AlbertMN",
@@ -6759,7 +7241,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 483,
-    "score": 1861
+    "score": 1861,
+    "globalRank": 39561
   },
   {
     "login": "namedgraph",
@@ -6773,7 +7256,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 484,
-    "score": 834
+    "score": 834,
+    "globalRank": 39562
   },
   {
     "login": "sitereactor",
@@ -6787,7 +7271,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 485,
-    "score": 82
+    "score": 82,
+    "globalRank": 39563
   },
   {
     "login": "Ahnfelt",
@@ -6801,7 +7286,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 486,
-    "score": 2078
+    "score": 2078,
+    "globalRank": 39885
   },
   {
     "login": "fbosch",
@@ -6815,7 +7301,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 487,
-    "score": 6836
+    "score": 6836,
+    "globalRank": 39886
   },
   {
     "login": "daegalus",
@@ -6829,7 +7316,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 488,
-    "score": 476
+    "score": 476,
+    "globalRank": 39887
   },
   {
     "login": "JackHamer09",
@@ -6843,7 +7331,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 489,
-    "score": 350
+    "score": 350,
+    "globalRank": 39888
   },
   {
     "login": "FjamZoo",
@@ -6857,7 +7346,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 490,
-    "score": 2375
+    "score": 2375,
+    "globalRank": 39889
   },
   {
     "login": "benthebear93",
@@ -6871,7 +7361,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 491,
-    "score": 365
+    "score": 365,
+    "globalRank": 39890
   },
   {
     "login": "larsgk",
@@ -6885,7 +7376,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 492,
-    "score": 315
+    "score": 315,
+    "globalRank": 40213
   },
   {
     "login": "ERLMKea",
@@ -6899,7 +7391,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 493,
-    "score": 88
+    "score": 88,
+    "globalRank": 40214
   },
   {
     "login": "anissen",
@@ -6913,7 +7406,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 494,
-    "score": 375
+    "score": 375,
+    "globalRank": 40215
   },
   {
     "login": "jenshnielsen",
@@ -6927,7 +7421,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 495,
-    "score": 3846
+    "score": 3846,
+    "globalRank": 40216
   },
   {
     "login": "leoGalani",
@@ -6941,7 +7436,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 496,
-    "score": 115
+    "score": 115,
+    "globalRank": 40217
   },
   {
     "login": "KasperTidemann",
@@ -6955,7 +7451,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 497,
-    "score": 79
+    "score": 79,
+    "globalRank": 40218
   },
   {
     "login": "mariangemarcano",
@@ -6969,7 +7466,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 498,
-    "score": 79
+    "score": 79,
+    "globalRank": 40219
   },
   {
     "login": "p0o",
@@ -6983,7 +7481,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 499,
-    "score": 278
+    "score": 278,
+    "globalRank": 40220
   },
   {
     "login": "sunesimonsen",
@@ -6997,7 +7496,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 500,
-    "score": 4004
+    "score": 4004,
+    "globalRank": 40221
   },
   {
     "login": "runeksvendsen",
@@ -7011,7 +7511,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 501,
-    "score": 81
+    "score": 81,
+    "globalRank": 40222
   },
   {
     "login": "kanongil",
@@ -7025,7 +7526,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 502,
-    "score": 187
+    "score": 187,
+    "globalRank": 40521
   },
   {
     "login": "troldal",
@@ -7039,7 +7541,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 503,
-    "score": 249
+    "score": 249,
+    "globalRank": 40522
   },
   {
     "login": "Oleksiy-Yakovenko",
@@ -7053,7 +7556,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 504,
-    "score": 712
+    "score": 712,
+    "globalRank": 40523
   },
   {
     "login": "nadiaholmquist",
@@ -7067,7 +7571,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 505,
-    "score": 180
+    "score": 180,
+    "globalRank": 40524
   },
   {
     "login": "jguddas",
@@ -7081,7 +7586,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 506,
-    "score": 1799
+    "score": 1799,
+    "globalRank": 40525
   },
   {
     "login": "sylvesterdamgaard",
@@ -7095,7 +7601,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 507,
-    "score": 7031
+    "score": 7031,
+    "globalRank": 40526
   },
   {
     "login": "tokami",
@@ -7109,7 +7616,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 508,
-    "score": 347
+    "score": 347,
+    "globalRank": 40808
   },
   {
     "login": "fishfollower",
@@ -7123,7 +7631,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 509,
-    "score": 204
+    "score": 204,
+    "globalRank": 40809
   },
   {
     "login": "sebastianseilund",
@@ -7137,7 +7646,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 510,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 40810
   },
   {
     "login": "sestoft",
@@ -7151,7 +7661,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 511,
-    "score": 77
+    "score": 77,
+    "globalRank": 40811
   },
   {
     "login": "davestasiuk",
@@ -7165,7 +7676,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 512,
-    "score": 77
+    "score": 77,
+    "globalRank": 40812
   },
   {
     "login": "fghjorth",
@@ -7179,7 +7691,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 513,
-    "score": 309
+    "score": 309,
+    "globalRank": 40813
   },
   {
     "login": "greystate",
@@ -7193,7 +7706,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 514,
-    "score": 2193
+    "score": 2193,
+    "globalRank": 40814
   },
   {
     "login": "raghavian",
@@ -7207,7 +7721,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 515,
-    "score": 942
+    "score": 942,
+    "globalRank": 40815
   },
   {
     "login": "smukkejohan",
@@ -7221,7 +7736,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 516,
-    "score": 434
+    "score": 434,
+    "globalRank": 40816
   },
   {
     "login": "younesmln",
@@ -7235,7 +7751,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 517,
-    "score": 124
+    "score": 124,
+    "globalRank": 41106
   },
   {
     "login": "Webudvikler-TechCollege",
@@ -7249,7 +7766,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 518,
-    "score": 372
+    "score": 372,
+    "globalRank": 41107
   },
   {
     "login": "SocialComplexityLab",
@@ -7263,7 +7781,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 519,
-    "score": 214
+    "score": 214,
+    "globalRank": 41108
   },
   {
     "login": "henrikstengaard",
@@ -7277,7 +7796,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 520,
-    "score": 311
+    "score": 311,
+    "globalRank": 41109
   },
   {
     "login": "kaspernissen",
@@ -7291,7 +7811,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 521,
-    "score": 743
+    "score": 743,
+    "globalRank": 41413
   },
   {
     "login": "kirkegaard",
@@ -7305,7 +7826,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 522,
-    "score": 708
+    "score": 708,
+    "globalRank": 41414
   },
   {
     "login": "saulhardman",
@@ -7319,7 +7841,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 523,
-    "score": 569
+    "score": 569,
+    "globalRank": 41415
   },
   {
     "login": "achempion",
@@ -7333,7 +7856,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 524,
-    "score": 244
+    "score": 244,
+    "globalRank": 41416
   },
   {
     "login": "Fogh",
@@ -7347,7 +7871,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 525,
-    "score": 1891
+    "score": 1891,
+    "globalRank": 41417
   },
   {
     "login": "dybber",
@@ -7361,7 +7886,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 526,
-    "score": 86
+    "score": 86,
+    "globalRank": 41729
   },
   {
     "login": "floitsch",
@@ -7375,7 +7901,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 527,
-    "score": 9980
+    "score": 9980,
+    "globalRank": 41730
   },
   {
     "login": "andsens",
@@ -7389,7 +7916,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 528,
-    "score": 3336
+    "score": 3336,
+    "globalRank": 41731
   },
   {
     "login": "akd-io",
@@ -7403,7 +7931,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 529,
-    "score": 473
+    "score": 473,
+    "globalRank": 41732
   },
   {
     "login": "NJonesUK",
@@ -7417,7 +7946,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 530,
-    "score": 160
+    "score": 160,
+    "globalRank": 41733
   },
   {
     "login": "martin31821",
@@ -7431,7 +7961,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 531,
-    "score": 102
+    "score": 102,
+    "globalRank": 41734
   },
   {
     "login": "esbenkc",
@@ -7445,7 +7976,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 532,
-    "score": 510
+    "score": 510,
+    "globalRank": 41735
   },
   {
     "login": "nazrulworld",
@@ -7459,7 +7991,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 533,
-    "score": 175
+    "score": 175,
+    "globalRank": 41736
   },
   {
     "login": "donsvensen",
@@ -7473,7 +8006,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 534,
-    "score": 81
+    "score": 81,
+    "globalRank": 41737
   },
   {
     "login": "LukasHedegaard",
@@ -7487,7 +8021,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 535,
-    "score": 74
+    "score": 74,
+    "globalRank": 41738
   },
   {
     "login": "cozzbie",
@@ -7501,7 +8036,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 536,
-    "score": 2328
+    "score": 2328,
+    "globalRank": 41739
   },
   {
     "login": "soupglasses",
@@ -7515,7 +8051,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 537,
-    "score": 543
+    "score": 543,
+    "globalRank": 42017
   },
   {
     "login": "jonaslagoni",
@@ -7529,7 +8066,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 538,
-    "score": 1206
+    "score": 1206,
+    "globalRank": 42018
   },
   {
     "login": "NeoTeo",
@@ -7543,7 +8081,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 539,
-    "score": 179
+    "score": 179,
+    "globalRank": 42019
   },
   {
     "login": "jnyrup",
@@ -7557,7 +8096,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 540,
-    "score": 376
+    "score": 376,
+    "globalRank": 42020
   },
   {
     "login": "dzhavat",
@@ -7571,7 +8111,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 541,
-    "score": 1455
+    "score": 1455,
+    "globalRank": 42021
   },
   {
     "login": "willtonkin",
@@ -7585,7 +8126,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 542,
-    "score": 443
+    "score": 443,
+    "globalRank": 42022
   },
   {
     "login": "mmelkersen",
@@ -7599,7 +8141,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 543,
-    "score": 230
+    "score": 230,
+    "globalRank": 42023
   },
   {
     "login": "jamshideftekhari",
@@ -7613,7 +8156,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 544,
-    "score": 125
+    "score": 125,
+    "globalRank": 42024
   },
   {
     "login": "Mi6u3l",
@@ -7627,7 +8171,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 545,
-    "score": 1517
+    "score": 1517,
+    "globalRank": 42025
   },
   {
     "login": "filipbech",
@@ -7641,7 +8186,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 546,
-    "score": 157
+    "score": 157,
+    "globalRank": 42026
   },
   {
     "login": "clausia",
@@ -7655,7 +8201,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 547,
-    "score": 738
+    "score": 738,
+    "globalRank": 42027
   },
   {
     "login": "jonbertelsen",
@@ -7669,7 +8216,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 548,
-    "score": 775
+    "score": 775,
+    "globalRank": 42028
   },
   {
     "login": "elisescu",
@@ -7683,7 +8231,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 549,
-    "score": 670
+    "score": 670,
+    "globalRank": 42029
   },
   {
     "login": "javigon",
@@ -7697,7 +8246,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 550,
-    "score": 74
+    "score": 74,
+    "globalRank": 42364
   },
   {
     "login": "micknudsen",
@@ -7711,7 +8261,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 551,
-    "score": 1672
+    "score": 1672,
+    "globalRank": 42365
   },
   {
     "login": "styler",
@@ -7725,7 +8276,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 552,
-    "score": 2725
+    "score": 2725,
+    "globalRank": 42366
   },
   {
     "login": "qgeissmann",
@@ -7739,7 +8291,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 553,
-    "score": 302
+    "score": 302,
+    "globalRank": 42367
   },
   {
     "login": "hrvolapeter",
@@ -7753,7 +8306,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 554,
-    "score": 405
+    "score": 405,
+    "globalRank": 42368
   },
   {
     "login": "HLasse",
@@ -7767,7 +8321,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 555,
-    "score": 813
+    "score": 813,
+    "globalRank": 42369
   },
   {
     "login": "kristofferandreasen",
@@ -7781,7 +8336,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 556,
-    "score": 214
+    "score": 214,
+    "globalRank": 42370
   },
   {
     "login": "bjornforsberg",
@@ -7795,7 +8351,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 557,
-    "score": 932
+    "score": 932,
+    "globalRank": 42371
   },
   {
     "login": "LudeeD",
@@ -7809,7 +8366,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 558,
-    "score": 2028
+    "score": 2028,
+    "globalRank": 42372
   },
   {
     "login": "DronRathore",
@@ -7823,7 +8381,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 559,
-    "score": 78
+    "score": 78,
+    "globalRank": 42373
   },
   {
     "login": "sofusalbertsen",
@@ -7837,7 +8396,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 560,
-    "score": 576
+    "score": 576,
+    "globalRank": 42374
   },
   {
     "login": "isoAdvector",
@@ -7851,7 +8411,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 561,
-    "score": 195
+    "score": 195,
+    "globalRank": 42375
   },
   {
     "login": "ulrikdamm",
@@ -7865,7 +8426,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 562,
-    "score": 1408
+    "score": 1408,
+    "globalRank": 42376
   },
   {
     "login": "nicolasloizeau",
@@ -7879,7 +8441,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 563,
-    "score": 608
+    "score": 608,
+    "globalRank": 42672
   },
   {
     "login": "kristiandupont",
@@ -7893,7 +8456,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 564,
-    "score": 1946
+    "score": 1946,
+    "globalRank": 42673
   },
   {
     "login": "elvisvoer",
@@ -7907,7 +8471,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 565,
-    "score": 77
+    "score": 77,
+    "globalRank": 42674
   },
   {
     "login": "nombersDev",
@@ -7921,7 +8486,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 566,
-    "score": 2775
+    "score": 2775,
+    "globalRank": 42675
   },
   {
     "login": "Muddz",
@@ -7935,7 +8501,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 567,
-    "score": 157
+    "score": 157,
+    "globalRank": 42676
   },
   {
     "login": "dara",
@@ -7949,7 +8516,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 568,
-    "score": 793
+    "score": 793,
+    "globalRank": 42677
   },
   {
     "login": "lgalke",
@@ -7963,7 +8531,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 569,
-    "score": 420
+    "score": 420,
+    "globalRank": 42678
   },
   {
     "login": "nicholassm",
@@ -7977,7 +8546,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 570,
-    "score": 256
+    "score": 256,
+    "globalRank": 42679
   },
   {
     "login": "asathoor",
@@ -7991,7 +8561,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 571,
-    "score": 203
+    "score": 203,
+    "globalRank": 42680
   },
   {
     "login": "jhovgaard",
@@ -8005,7 +8576,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 572,
-    "score": 1031
+    "score": 1031,
+    "globalRank": 42681
   },
   {
     "login": "NicklasVraa",
@@ -8019,7 +8591,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 573,
-    "score": 77
+    "score": 77,
+    "globalRank": 43009
   },
   {
     "login": "CKolkey",
@@ -8033,7 +8606,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 574,
-    "score": 3184
+    "score": 3184,
+    "globalRank": 43010
   },
   {
     "login": "perl-easj",
@@ -8047,7 +8621,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 575,
-    "score": 70
+    "score": 70,
+    "globalRank": 43011
   },
   {
     "login": "olzzon",
@@ -8061,7 +8636,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 576,
-    "score": 2057
+    "score": 2057,
+    "globalRank": 43012
   },
   {
     "login": "saltydk",
@@ -8075,7 +8651,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 577,
-    "score": 1986
+    "score": 1986,
+    "globalRank": 43013
   },
   {
     "login": "vdaguenet",
@@ -8089,7 +8666,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 578,
-    "score": 460
+    "score": 460,
+    "globalRank": 43014
   },
   {
     "login": "Giovanni1085",
@@ -8103,7 +8681,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 579,
-    "score": 78
+    "score": 78,
+    "globalRank": 43015
   },
   {
     "login": "ldynia",
@@ -8117,7 +8696,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 580,
-    "score": 143
+    "score": 143,
+    "globalRank": 43016
   },
   {
     "login": "victorkreutzfeldt",
@@ -8131,7 +8711,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 581,
-    "score": 184
+    "score": 184,
+    "globalRank": 43332
   },
   {
     "login": "Mortal",
@@ -8145,7 +8726,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 582,
-    "score": 171
+    "score": 171,
+    "globalRank": 43333
   },
   {
     "login": "dbergloev",
@@ -8159,7 +8741,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 583,
-    "score": 191
+    "score": 191,
+    "globalRank": 43334
   },
   {
     "login": "asgerf",
@@ -8173,7 +8756,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 584,
-    "score": 546
+    "score": 546,
+    "globalRank": 43335
   },
   {
     "login": "sbglasius",
@@ -8187,7 +8771,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 585,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 43336
   },
   {
     "login": "TethysSvensson",
@@ -8201,7 +8786,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 586,
-    "score": 3907
+    "score": 3907,
+    "globalRank": 43337
   },
   {
     "login": "pa-ba",
@@ -8215,7 +8801,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 587,
-    "score": 101
+    "score": 101,
+    "globalRank": 43338
   },
   {
     "login": "jfo",
@@ -8229,7 +8816,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 588,
-    "score": 880
+    "score": 880,
+    "globalRank": 43339
   },
   {
     "login": "birkelund",
@@ -8243,7 +8831,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 589,
-    "score": 82
+    "score": 82,
+    "globalRank": 43340
   },
   {
     "login": "mikkelhegn",
@@ -8257,7 +8846,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 590,
-    "score": 117
+    "score": 117,
+    "globalRank": 43341
   },
   {
     "login": "MortenGregersen",
@@ -8271,7 +8861,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 591,
-    "score": 1472
+    "score": 1472,
+    "globalRank": 43670
   },
   {
     "login": "sorhawell",
@@ -8285,7 +8876,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 592,
-    "score": 68
+    "score": 68,
+    "globalRank": 43671
   },
   {
     "login": "mdzaberalhamid",
@@ -8299,7 +8891,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 593,
-    "score": 127
+    "score": 127,
+    "globalRank": 43672
   },
   {
     "login": "kbevers",
@@ -8313,7 +8906,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 594,
-    "score": 300
+    "score": 300,
+    "globalRank": 43673
   },
   {
     "login": "acostajohn",
@@ -8327,7 +8921,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 595,
-    "score": 2466
+    "score": 2466,
+    "globalRank": 43674
   },
   {
     "login": "PanosAntoniadis",
@@ -8341,7 +8936,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 596,
-    "score": 1130
+    "score": 1130,
+    "globalRank": 43675
   },
   {
     "login": "Danielkaas94",
@@ -8355,7 +8951,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 597,
-    "score": 396
+    "score": 396,
+    "globalRank": 43676
   },
   {
     "login": "ellvtr",
@@ -8369,7 +8966,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 598,
-    "score": 939
+    "score": 939,
+    "globalRank": 43677
   },
   {
     "login": "osteslag",
@@ -8383,7 +8981,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 599,
-    "score": 308
+    "score": 308,
+    "globalRank": 43678
   },
   {
     "login": "pouryaghazizadeh",
@@ -8397,7 +8996,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 600,
-    "score": 69
+    "score": 69,
+    "globalRank": 43679
   },
   {
     "login": "natosha",
@@ -8411,7 +9011,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 601,
-    "score": 68
+    "score": 68,
+    "globalRank": 43680
   },
   {
     "login": "agraven",
@@ -8425,7 +9026,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 602,
-    "score": 84
+    "score": 84,
+    "globalRank": 43681
   },
   {
     "login": "perslev",
@@ -8439,7 +9041,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 603,
-    "score": 966
+    "score": 966,
+    "globalRank": 43682
   },
   {
     "login": "vivet",
@@ -8453,7 +9056,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 604,
-    "score": 612
+    "score": 612,
+    "globalRank": 44054
   },
   {
     "login": "Sunekaer",
@@ -8467,7 +9071,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 605,
-    "score": 82
+    "score": 82,
+    "globalRank": 44055
   },
   {
     "login": "viktorpopp",
@@ -8481,7 +9086,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 606,
-    "score": 989
+    "score": 989,
+    "globalRank": 44056
   },
   {
     "login": "basile-henry",
@@ -8495,7 +9101,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 607,
-    "score": 1293
+    "score": 1293,
+    "globalRank": 44057
   },
   {
     "login": "GitaStreet",
@@ -8509,7 +9116,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 608,
-    "score": 67
+    "score": 67,
+    "globalRank": 44058
   },
   {
     "login": "annargrs",
@@ -8523,7 +9131,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 609,
-    "score": 117
+    "score": 117,
+    "globalRank": 44059
   },
   {
     "login": "Spirit55555",
@@ -8537,7 +9146,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 610,
-    "score": 252
+    "score": 252,
+    "globalRank": 44060
   },
   {
     "login": "neo4reo",
@@ -8551,7 +9161,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 611,
-    "score": 85
+    "score": 85,
+    "globalRank": 44421
   },
   {
     "login": "apepa",
@@ -8565,7 +9176,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 612,
-    "score": 84
+    "score": 84,
+    "globalRank": 44422
   },
   {
     "login": "cosmincatalin",
@@ -8579,7 +9191,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 613,
-    "score": 2258
+    "score": 2258,
+    "globalRank": 44423
   },
   {
     "login": "christianhg",
@@ -8593,7 +9206,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 614,
-    "score": 4237
+    "score": 4237,
+    "globalRank": 44424
   },
   {
     "login": "0xFFCarlo",
@@ -8607,7 +9221,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 615,
-    "score": 238
+    "score": 238,
+    "globalRank": 44425
   },
   {
     "login": "Robotto",
@@ -8621,7 +9236,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 616,
-    "score": 204
+    "score": 204,
+    "globalRank": 44426
   },
   {
     "login": "VladimirAmiorkov",
@@ -8635,7 +9251,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 617,
-    "score": 1894
+    "score": 1894,
+    "globalRank": 44427
   },
   {
     "login": "jensstigaard",
@@ -8649,7 +9266,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 618,
-    "score": 86
+    "score": 86,
+    "globalRank": 44428
   },
   {
     "login": "erleben",
@@ -8663,7 +9281,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 619,
-    "score": 1710
+    "score": 1710,
+    "globalRank": 44429
   },
   {
     "login": "nqpz",
@@ -8677,7 +9296,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 620,
-    "score": 352
+    "score": 352,
+    "globalRank": 44807
   },
   {
     "login": "coquer",
@@ -8691,7 +9311,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 621,
-    "score": 1422
+    "score": 1422,
+    "globalRank": 44808
   },
   {
     "login": "mikini",
@@ -8705,7 +9326,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 622,
-    "score": 80
+    "score": 80,
+    "globalRank": 44809
   },
   {
     "login": "frankNiessen",
@@ -8719,7 +9341,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 623,
-    "score": 74
+    "score": 74,
+    "globalRank": 44810
   },
   {
     "login": "ianmurrays",
@@ -8733,7 +9356,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 624,
-    "score": 3209
+    "score": 3209,
+    "globalRank": 44811
   },
   {
     "login": "NiklasJordan",
@@ -8747,7 +9371,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 625,
-    "score": 108
+    "score": 108,
+    "globalRank": 44812
   },
   {
     "login": "bence-toth",
@@ -8761,7 +9386,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 626,
-    "score": 2447
+    "score": 2447,
+    "globalRank": 44813
   },
   {
     "login": "msiebuhr",
@@ -8775,7 +9401,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 627,
-    "score": 80
+    "score": 80,
+    "globalRank": 44814
   },
   {
     "login": "Ron391",
@@ -8789,7 +9416,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 628,
-    "score": 92
+    "score": 92,
+    "globalRank": 44815
   },
   {
     "login": "Saturate",
@@ -8803,7 +9431,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 629,
-    "score": 2382
+    "score": 2382,
+    "globalRank": 44816
   },
   {
     "login": "Mobilpadde",
@@ -8817,7 +9446,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 630,
-    "score": 1250
+    "score": 1250,
+    "globalRank": 44817
   },
   {
     "login": "hansielneff",
@@ -8831,7 +9461,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 631,
-    "score": 132
+    "score": 132,
+    "globalRank": 45207
   },
   {
     "login": "xSke",
@@ -8845,7 +9476,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 632,
-    "score": 338
+    "score": 338,
+    "globalRank": 45208
   },
   {
     "login": "ozankaraali",
@@ -8859,7 +9491,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 633,
-    "score": 515
+    "score": 515,
+    "globalRank": 45209
   },
   {
     "login": "tympanix",
@@ -8873,7 +9506,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 634,
-    "score": 384
+    "score": 384,
+    "globalRank": 45210
   },
   {
     "login": "atiti",
@@ -8887,7 +9521,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 635,
-    "score": 7737
+    "score": 7737,
+    "globalRank": 45211
   },
   {
     "login": "peterhoeg",
@@ -8901,7 +9536,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 636,
-    "score": 1413
+    "score": 1413,
+    "globalRank": 45212
   },
   {
     "login": "Herlevsen",
@@ -8915,7 +9551,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 637,
-    "score": 64
+    "score": 64,
+    "globalRank": 45213
   },
   {
     "login": "romulojales",
@@ -8929,7 +9566,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 638,
-    "score": 71
+    "score": 71,
+    "globalRank": 45214
   },
   {
     "login": "dopraxcom",
@@ -8943,7 +9581,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 639,
-    "score": 65
+    "score": 65,
+    "globalRank": 45215
   },
   {
     "login": "DKH-DK",
@@ -8957,7 +9596,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 640,
-    "score": 133
+    "score": 133,
+    "globalRank": 45216
   },
   {
     "login": "lambdachad",
@@ -8971,7 +9611,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 641,
-    "score": 1501
+    "score": 1501,
+    "globalRank": 45217
   },
   {
     "login": "iskedk",
@@ -8985,7 +9626,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 642,
-    "score": 64
+    "score": 64,
+    "globalRank": 45218
   },
   {
     "login": "devinamm",
@@ -8999,7 +9641,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 643,
-    "score": 63
+    "score": 63,
+    "globalRank": 45616
   },
   {
     "login": "superrob",
@@ -9013,7 +9656,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 644,
-    "score": 165
+    "score": 165,
+    "globalRank": 45617
   },
   {
     "login": "panday1995",
@@ -9027,7 +9671,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 645,
-    "score": 82
+    "score": 82,
+    "globalRank": 45618
   },
   {
     "login": "abrander",
@@ -9041,7 +9686,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 646,
-    "score": 968
+    "score": 968,
+    "globalRank": 45619
   },
   {
     "login": "fhdk",
@@ -9055,7 +9701,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 647,
-    "score": 104
+    "score": 104,
+    "globalRank": 45620
   },
   {
     "login": "LudvigOlsen",
@@ -9069,7 +9716,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 648,
-    "score": 1662
+    "score": 1662,
+    "globalRank": 45621
   },
   {
     "login": "OleHolmNielsen",
@@ -9083,7 +9731,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 649,
-    "score": 832
+    "score": 832,
+    "globalRank": 45622
   },
   {
     "login": "mathsite",
@@ -9097,7 +9746,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 650,
-    "score": 435
+    "score": 435,
+    "globalRank": 45623
   },
   {
     "login": "rosenbjerg",
@@ -9111,7 +9761,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 651,
-    "score": 2459
+    "score": 2459,
+    "globalRank": 45624
   },
   {
     "login": "yanhui09",
@@ -9125,7 +9776,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 652,
-    "score": 69
+    "score": 69,
+    "globalRank": 45625
   },
   {
     "login": "brinkar",
@@ -9139,7 +9791,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 653,
-    "score": 150
+    "score": 150,
+    "globalRank": 45626
   },
   {
     "login": "NicolaiSoeborg",
@@ -9153,7 +9806,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 654,
-    "score": 1416
+    "score": 1416,
+    "globalRank": 45627
   },
   {
     "login": "amaurremi",
@@ -9167,7 +9821,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 655,
-    "score": 82
+    "score": 82,
+    "globalRank": 45628
   },
   {
     "login": "jhjensen2",
@@ -9181,7 +9836,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 656,
-    "score": 65
+    "score": 65,
+    "globalRank": 45629
   },
   {
     "login": "paurkedal",
@@ -9195,7 +9851,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 657,
-    "score": 214
+    "score": 214,
+    "globalRank": 45630
   },
   {
     "login": "ramokz",
@@ -9209,7 +9866,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 658,
-    "score": 355
+    "score": 355,
+    "globalRank": 45631
   },
   {
     "login": "siemensikkema",
@@ -9223,7 +9881,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 659,
-    "score": 74
+    "score": 74,
+    "globalRank": 45632
   },
   {
     "login": "rosell-dk",
@@ -9237,7 +9896,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 660,
-    "score": 1564
+    "score": 1564,
+    "globalRank": 45633
   },
   {
     "login": "joscdk",
@@ -9251,7 +9911,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 661,
-    "score": 3952
+    "score": 3952,
+    "globalRank": 45634
   },
   {
     "login": "Tobee1406",
@@ -9265,7 +9926,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 662,
-    "score": 63
+    "score": 63,
+    "globalRank": 45635
   },
   {
     "login": "ratishsp",
@@ -9279,7 +9941,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 663,
-    "score": 1210
+    "score": 1210,
+    "globalRank": 45636
   },
   {
     "login": "AdamRJensen",
@@ -9293,7 +9956,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 664,
-    "score": 1395
+    "score": 1395,
+    "globalRank": 46031
   },
   {
     "login": "thedrlambda",
@@ -9307,7 +9971,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 665,
-    "score": 79
+    "score": 79,
+    "globalRank": 46032
   },
   {
     "login": "magnusstubman",
@@ -9321,7 +9986,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 666,
-    "score": 64
+    "score": 64,
+    "globalRank": 46033
   },
   {
     "login": "danielrothmann",
@@ -9335,7 +10001,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 667,
-    "score": 1520
+    "score": 1520,
+    "globalRank": 46034
   },
   {
     "login": "AnthonyEbert",
@@ -9349,7 +10016,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 668,
-    "score": 68
+    "score": 68,
+    "globalRank": 46035
   },
   {
     "login": "czepluch",
@@ -9363,7 +10031,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 669,
-    "score": 965
+    "score": 965,
+    "globalRank": 46036
   },
   {
     "login": "madsodgaard",
@@ -9377,7 +10046,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 670,
-    "score": 874
+    "score": 874,
+    "globalRank": 46037
   },
   {
     "login": "chazy",
@@ -9391,7 +10061,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 671,
-    "score": 62
+    "score": 62,
+    "globalRank": 46038
   },
   {
     "login": "anastassiavybornova",
@@ -9405,7 +10076,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 672,
-    "score": 503
+    "score": 503,
+    "globalRank": 46039
   },
   {
     "login": "MathiasPius",
@@ -9419,7 +10091,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 673,
-    "score": 911
+    "score": 911,
+    "globalRank": 46040
   },
   {
     "login": "titouanmathis",
@@ -9433,7 +10106,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 674,
-    "score": 3260
+    "score": 3260,
+    "globalRank": 46041
   },
   {
     "login": "vallentin",
@@ -9447,7 +10121,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 675,
-    "score": 227
+    "score": 227,
+    "globalRank": 46042
   },
   {
     "login": "jacobandresen",
@@ -9461,7 +10136,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 676,
-    "score": 320
+    "score": 320,
+    "globalRank": 46043
   },
   {
     "login": "INedelcu",
@@ -9475,7 +10151,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 677,
-    "score": 182
+    "score": 182,
+    "globalRank": 46462
   },
   {
     "login": "svkucheryavski",
@@ -9489,7 +10166,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 678,
-    "score": 362
+    "score": 362,
+    "globalRank": 46463
   },
   {
     "login": "ccontinisio",
@@ -9503,7 +10181,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 679,
-    "score": 431
+    "score": 431,
+    "globalRank": 46464
   },
   {
     "login": "luchev",
@@ -9517,7 +10196,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 680,
-    "score": 126
+    "score": 126,
+    "globalRank": 46465
   },
   {
     "login": "martinandersen",
@@ -9531,7 +10211,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 681,
-    "score": 113
+    "score": 113,
+    "globalRank": 46466
   },
   {
     "login": "Kimster55",
@@ -9545,7 +10226,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 682,
-    "score": 61
+    "score": 61,
+    "globalRank": 46467
   },
   {
     "login": "larsmaaloee",
@@ -9559,7 +10241,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 683,
-    "score": 71
+    "score": 71,
+    "globalRank": 46468
   },
   {
     "login": "flummer",
@@ -9573,7 +10256,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 684,
-    "score": 124
+    "score": 124,
+    "globalRank": 46469
   },
   {
     "login": "mhwelander",
@@ -9587,7 +10271,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 685,
-    "score": 63
+    "score": 63,
+    "globalRank": 46470
   },
   {
     "login": "L4COUR",
@@ -9601,7 +10286,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 686,
-    "score": 93
+    "score": 93,
+    "globalRank": 46471
   },
   {
     "login": "eliaperantoni",
@@ -9615,7 +10301,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 687,
-    "score": 2699
+    "score": 2699,
+    "globalRank": 46472
   },
   {
     "login": "bestie",
@@ -9629,7 +10316,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 688,
-    "score": 284
+    "score": 284,
+    "globalRank": 46473
   },
   {
     "login": "sheikhomar",
@@ -9643,7 +10331,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 689,
-    "score": 62
+    "score": 62,
+    "globalRank": 46474
   },
   {
     "login": "chrivers",
@@ -9657,7 +10346,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 690,
-    "score": 969
+    "score": 969,
+    "globalRank": 46475
   },
   {
     "login": "kjac",
@@ -9671,7 +10361,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 691,
-    "score": 978
+    "score": 978,
+    "globalRank": 46892
   },
   {
     "login": "ToshaBely",
@@ -9685,7 +10376,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 692,
-    "score": 126
+    "score": 126,
+    "globalRank": 46893
   },
   {
     "login": "Theile",
@@ -9699,7 +10391,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 693,
-    "score": 158
+    "score": 158,
+    "globalRank": 46894
   },
   {
     "login": "emilhe",
@@ -9713,7 +10406,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 694,
-    "score": 226
+    "score": 226,
+    "globalRank": 46895
   },
   {
     "login": "arnested",
@@ -9727,7 +10421,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 695,
-    "score": 6335
+    "score": 6335,
+    "globalRank": 46896
   },
   {
     "login": "lasseborly",
@@ -9741,7 +10436,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 696,
-    "score": 103
+    "score": 103,
+    "globalRank": 46897
   },
   {
     "login": "ujco",
@@ -9755,7 +10451,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 697,
-    "score": 60
+    "score": 60,
+    "globalRank": 46898
   },
   {
     "login": "cristianvogel",
@@ -9769,7 +10466,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 698,
-    "score": 1958
+    "score": 1958,
+    "globalRank": 46899
   },
   {
     "login": "m4drat",
@@ -9783,7 +10481,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 699,
-    "score": 249
+    "score": 249,
+    "globalRank": 46900
   },
   {
     "login": "olivercederborg",
@@ -9797,7 +10496,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 700,
-    "score": 1455
+    "score": 1455,
+    "globalRank": 46901
   },
   {
     "login": "3mr-mahmoud",
@@ -9811,7 +10511,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 701,
-    "score": 169
+    "score": 169,
+    "globalRank": 46902
   },
   {
     "login": "vvicaretti",
@@ -9825,7 +10526,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 702,
-    "score": 1759
+    "score": 1759,
+    "globalRank": 46903
   },
   {
     "login": "FiammettaC",
@@ -9839,7 +10541,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 703,
-    "score": 194
+    "score": 194,
+    "globalRank": 46904
   },
   {
     "login": "harrisonzhu508",
@@ -9853,7 +10556,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 704,
-    "score": 517
+    "score": 517,
+    "globalRank": 46905
   },
   {
     "login": "Niputi",
@@ -9867,7 +10571,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 705,
-    "score": 63
+    "score": 63,
+    "globalRank": 46906
   },
   {
     "login": "adriansalgadoa",
@@ -9881,7 +10586,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 706,
-    "score": 830
+    "score": 830,
+    "globalRank": 46907
   },
   {
     "login": "komarserjio",
@@ -9895,7 +10601,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 707,
-    "score": 91
+    "score": 91,
+    "globalRank": 46908
   },
   {
     "login": "JReinhold",
@@ -9909,7 +10616,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 708,
-    "score": 2033
+    "score": 2033,
+    "globalRank": 46909
   },
   {
     "login": "cvium",
@@ -9923,7 +10631,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 709,
-    "score": 120
+    "score": 120,
+    "globalRank": 46910
   },
   {
     "login": "StjerneIdioten",
@@ -9937,7 +10646,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 710,
-    "score": 102
+    "score": 102,
+    "globalRank": 47335
   },
   {
     "login": "Casperhr",
@@ -9951,7 +10661,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 711,
-    "score": 6898
+    "score": 6898,
+    "globalRank": 47336
   },
   {
     "login": "hvitved",
@@ -9965,7 +10676,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 712,
-    "score": 1280
+    "score": 1280,
+    "globalRank": 47337
   },
   {
     "login": "timrobertson100",
@@ -9979,7 +10691,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 713,
-    "score": 505
+    "score": 505,
+    "globalRank": 47338
   },
   {
     "login": "bitkos12",
@@ -9993,7 +10706,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 714,
-    "score": 59
+    "score": 59,
+    "globalRank": 47339
   },
   {
     "login": "peterschmidtdk",
@@ -10007,7 +10721,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 715,
-    "score": 1278
+    "score": 1278,
+    "globalRank": 47340
   },
   {
     "login": "RaMin0",
@@ -10021,7 +10736,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 716,
-    "score": 206
+    "score": 206,
+    "globalRank": 47341
   },
   {
     "login": "xmacex",
@@ -10035,7 +10751,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 717,
-    "score": 295
+    "score": 295,
+    "globalRank": 47342
   },
   {
     "login": "klausenbusk",
@@ -10049,7 +10766,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 718,
-    "score": 121
+    "score": 121,
+    "globalRank": 47343
   },
   {
     "login": "snakefoot",
@@ -10063,7 +10781,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 719,
-    "score": 1356
+    "score": 1356,
+    "globalRank": 47344
   },
   {
     "login": "ThisDevDane",
@@ -10077,7 +10796,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 720,
-    "score": 384
+    "score": 384,
+    "globalRank": 47345
   },
   {
     "login": "improvedk",
@@ -10091,7 +10811,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 721,
-    "score": 58
+    "score": 58,
+    "globalRank": 47739
   },
   {
     "login": "pmadruga",
@@ -10105,7 +10826,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 722,
-    "score": 955
+    "score": 955,
+    "globalRank": 47740
   },
   {
     "login": "1iveowl",
@@ -10119,7 +10841,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 723,
-    "score": 241
+    "score": 241,
+    "globalRank": 47741
   },
   {
     "login": "SShadowS",
@@ -10133,7 +10856,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 724,
-    "score": 4027
+    "score": 4027,
+    "globalRank": 47742
   },
   {
     "login": "blackavec",
@@ -10147,7 +10871,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 725,
-    "score": 74
+    "score": 74,
+    "globalRank": 47743
   },
   {
     "login": "abizjak",
@@ -10161,7 +10886,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 726,
-    "score": 58
+    "score": 58,
+    "globalRank": 47744
   },
   {
     "login": "erumkatzwan",
@@ -10175,7 +10901,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 727,
-    "score": 66
+    "score": 66,
+    "globalRank": 47745
   },
   {
     "login": "jdiaz97",
@@ -10189,7 +10916,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 728,
-    "score": 1502
+    "score": 1502,
+    "globalRank": 47746
   },
   {
     "login": "dviske",
@@ -10203,7 +10931,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 729,
-    "score": 61
+    "score": 61,
+    "globalRank": 47747
   },
   {
     "login": "vwnd",
@@ -10217,7 +10946,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 730,
-    "score": 2992
+    "score": 2992,
+    "globalRank": 47748
   },
   {
     "login": "WP-LKL",
@@ -10231,7 +10961,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 731,
-    "score": 1489
+    "score": 1489,
+    "globalRank": 47749
   },
   {
     "login": "emiln",
@@ -10245,7 +10976,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 732,
-    "score": 58
+    "score": 58,
+    "globalRank": 47750
   },
   {
     "login": "jstoone",
@@ -10259,7 +10991,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 733,
-    "score": 3398
+    "score": 3398,
+    "globalRank": 47751
   },
   {
     "login": "arniwesth",
@@ -10273,7 +11006,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 734,
-    "score": 251
+    "score": 251,
+    "globalRank": 47752
   },
   {
     "login": "pluspeople",
@@ -10287,7 +11021,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 735,
-    "score": 58
+    "score": 58,
+    "globalRank": 47753
   },
   {
     "login": "vanjacosic",
@@ -10301,7 +11036,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 736,
-    "score": 483
+    "score": 483,
+    "globalRank": 47754
   },
   {
     "login": "mbogh",
@@ -10315,7 +11051,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 737,
-    "score": 569
+    "score": 569,
+    "globalRank": 47755
   },
   {
     "login": "hannahlowens",
@@ -10329,7 +11066,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 738,
-    "score": 178
+    "score": 178,
+    "globalRank": 47756
   },
   {
     "login": "debois",
@@ -10343,7 +11081,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 739,
-    "score": 57
+    "score": 57,
+    "globalRank": 48180
   },
   {
     "login": "madsbangh",
@@ -10357,7 +11096,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 740,
-    "score": 370
+    "score": 370,
+    "globalRank": 48181
   },
   {
     "login": "martinsohn",
@@ -10371,7 +11111,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 741,
-    "score": 390
+    "score": 390,
+    "globalRank": 48182
   },
   {
     "login": "sorin-davidoi",
@@ -10385,7 +11126,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 742,
-    "score": 503
+    "score": 503,
+    "globalRank": 48183
   },
   {
     "login": "r-aghaei",
@@ -10399,7 +11141,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 743,
-    "score": 57
+    "score": 57,
+    "globalRank": 48184
   },
   {
     "login": "jakobwilm",
@@ -10413,7 +11156,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 744,
-    "score": 57
+    "score": 57,
+    "globalRank": 48185
   },
   {
     "login": "lasseebert",
@@ -10427,7 +11171,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 745,
-    "score": 3327
+    "score": 3327,
+    "globalRank": 48186
   },
   {
     "login": "MartinMSPedersen",
@@ -10441,7 +11186,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 746,
-    "score": 905
+    "score": 905,
+    "globalRank": 48187
   },
   {
     "login": "piqoni",
@@ -10455,7 +11201,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 747,
-    "score": 1599
+    "score": 1599,
+    "globalRank": 48188
   },
   {
     "login": "woopstar",
@@ -10469,7 +11216,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 748,
-    "score": 578
+    "score": 578,
+    "globalRank": 48189
   },
   {
     "login": "romaklimenko",
@@ -10483,7 +11231,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 749,
-    "score": 626
+    "score": 626,
+    "globalRank": 48190
   },
   {
     "login": "kimusan",
@@ -10497,7 +11246,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 750,
-    "score": 528
+    "score": 528,
+    "globalRank": 48191
   },
   {
     "login": "skttl",
@@ -10511,7 +11261,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 751,
-    "score": 457
+    "score": 457,
+    "globalRank": 48192
   },
   {
     "login": "mogenslund",
@@ -10525,7 +11276,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 752,
-    "score": 57
+    "score": 57,
+    "globalRank": 48193
   },
   {
     "login": "limemloh",
@@ -10539,7 +11291,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 753,
-    "score": 595
+    "score": 595,
+    "globalRank": 48194
   },
   {
     "login": "LegrandNico",
@@ -10553,7 +11306,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 754,
-    "score": 636
+    "score": 636,
+    "globalRank": 48195
   },
   {
     "login": "KasperSkytte",
@@ -10567,7 +11321,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 755,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 48196
   },
   {
     "login": "TinkerWorX",
@@ -10581,7 +11336,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 756,
-    "score": 95
+    "score": 95,
+    "globalRank": 48197
   },
   {
     "login": "jacmoe",
@@ -10595,7 +11351,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 757,
-    "score": 121
+    "score": 121,
+    "globalRank": 48198
   },
   {
     "login": "njustesen",
@@ -10609,7 +11366,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 758,
-    "score": 741
+    "score": 741,
+    "globalRank": 48199
   },
   {
     "login": "fredefox",
@@ -10623,7 +11381,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 759,
-    "score": 104
+    "score": 104,
+    "globalRank": 48200
   },
   {
     "login": "narciszait",
@@ -10637,7 +11396,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 760,
-    "score": 61
+    "score": 61,
+    "globalRank": 48201
   },
   {
     "login": "NotBad4U",
@@ -10651,7 +11411,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 761,
-    "score": 335
+    "score": 335,
+    "globalRank": 48202
   },
   {
     "login": "suneman",
@@ -10665,7 +11426,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 762,
-    "score": 62
+    "score": 62,
+    "globalRank": 48203
   },
   {
     "login": "jsmpereira",
@@ -10679,7 +11441,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 763,
-    "score": 962
+    "score": 962,
+    "globalRank": 48204
   },
   {
     "login": "kiddouk",
@@ -10693,7 +11456,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 764,
-    "score": 476
+    "score": 476,
+    "globalRank": 48205
   },
   {
     "login": "aligfellow",
@@ -10707,7 +11471,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 765,
-    "score": 1831
+    "score": 1831,
+    "globalRank": 48206
   },
   {
     "login": "foxyseta",
@@ -10721,7 +11486,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 766,
-    "score": 424
+    "score": 424,
+    "globalRank": 48653
   },
   {
     "login": "Ruben2776",
@@ -10735,7 +11501,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 767,
-    "score": 969
+    "score": 969,
+    "globalRank": 48654
   },
   {
     "login": "jorgenkraghjakobsen",
@@ -10749,7 +11516,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 768,
-    "score": 227
+    "score": 227,
+    "globalRank": 48655
   },
   {
     "login": "jonesor",
@@ -10763,7 +11531,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 769,
-    "score": 316
+    "score": 316,
+    "globalRank": 48656
   },
   {
     "login": "Admiral-Enigma",
@@ -10777,7 +11546,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 770,
-    "score": 2304
+    "score": 2304,
+    "globalRank": 48657
   },
   {
     "login": "doefler",
@@ -10791,7 +11561,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 771,
-    "score": 56
+    "score": 56,
+    "globalRank": 48658
   },
   {
     "login": "massimopizzol",
@@ -10805,7 +11576,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 772,
-    "score": 95
+    "score": 95,
+    "globalRank": 48659
   },
   {
     "login": "aliciacatalina",
@@ -10819,7 +11591,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 773,
-    "score": 276
+    "score": 276,
+    "globalRank": 48660
   },
   {
     "login": "Deleetdk",
@@ -10833,7 +11606,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 774,
-    "score": 72
+    "score": 72,
+    "globalRank": 48661
   },
   {
     "login": "icanhasjonas",
@@ -10847,7 +11621,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 775,
-    "score": 4399
+    "score": 4399,
+    "globalRank": 48662
   },
   {
     "login": "tlbdk",
@@ -10861,7 +11636,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 776,
-    "score": 1464
+    "score": 1464,
+    "globalRank": 48663
   },
   {
     "login": "YogurtTheHorse",
@@ -10875,7 +11651,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 777,
-    "score": 1015
+    "score": 1015,
+    "globalRank": 48664
   },
   {
     "login": "martinchrzan",
@@ -10889,7 +11666,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 778,
-    "score": 69
+    "score": 69,
+    "globalRank": 48665
   },
   {
     "login": "edno",
@@ -10903,7 +11681,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 779,
-    "score": 950
+    "score": 950,
+    "globalRank": 49129
   },
   {
     "login": "stanstrup",
@@ -10917,7 +11696,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 780,
-    "score": 1325
+    "score": 1325,
+    "globalRank": 49130
   },
   {
     "login": "DenLilleMand",
@@ -10931,7 +11711,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 781,
-    "score": 70
+    "score": 70,
+    "globalRank": 49131
   },
   {
     "login": "carlbordum",
@@ -10945,7 +11726,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 782,
-    "score": 171
+    "score": 171,
+    "globalRank": 49132
   },
   {
     "login": "spitters",
@@ -10959,7 +11741,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 783,
-    "score": 5388
+    "score": 5388,
+    "globalRank": 49133
   },
   {
     "login": "lyschoening",
@@ -10973,7 +11756,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 784,
-    "score": 604
+    "score": 604,
+    "globalRank": 49134
   },
   {
     "login": "IdrissRio",
@@ -10987,7 +11771,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 785,
-    "score": 1654
+    "score": 1654,
+    "globalRank": 49135
   },
   {
     "login": "jedenastkan",
@@ -11001,7 +11786,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 786,
-    "score": 55
+    "score": 55,
+    "globalRank": 49136
   },
   {
     "login": "sshaaf",
@@ -11015,7 +11801,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 787,
-    "score": 760
+    "score": 760,
+    "globalRank": 49137
   },
   {
     "login": "xefonon",
@@ -11029,7 +11816,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 788,
-    "score": 112
+    "score": 112,
+    "globalRank": 49138
   },
   {
     "login": "ayooby",
@@ -11043,7 +11831,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 789,
-    "score": 68
+    "score": 68,
+    "globalRank": 49139
   },
   {
     "login": "jonas-lj",
@@ -11057,7 +11846,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 790,
-    "score": 809
+    "score": 809,
+    "globalRank": 49140
   },
   {
     "login": "jkiddo",
@@ -11071,7 +11861,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 791,
-    "score": 1118
+    "score": 1118,
+    "globalRank": 49141
   },
   {
     "login": "LasseRegin",
@@ -11085,7 +11876,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 792,
-    "score": 1733
+    "score": 1733,
+    "globalRank": 49142
   },
   {
     "login": "DearDhruv",
@@ -11099,7 +11891,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 793,
-    "score": 2617
+    "score": 2617,
+    "globalRank": 49143
   },
   {
     "login": "kbilsted",
@@ -11113,7 +11906,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 794,
-    "score": 484
+    "score": 484,
+    "globalRank": 49144
   },
   {
     "login": "olof",
@@ -11127,7 +11921,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 795,
-    "score": 73
+    "score": 73,
+    "globalRank": 49145
   },
   {
     "login": "Raphexion",
@@ -11141,7 +11936,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 796,
-    "score": 2406
+    "score": 2406,
+    "globalRank": 49146
   },
   {
     "login": "emg",
@@ -11155,7 +11951,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 797,
-    "score": 55
+    "score": 55,
+    "globalRank": 49147
   },
   {
     "login": "EbbeVang",
@@ -11169,7 +11966,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 798,
-    "score": 54
+    "score": 54,
+    "globalRank": 49617
   },
   {
     "login": "joelazar",
@@ -11183,7 +11981,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 799,
-    "score": 3159
+    "score": 3159,
+    "globalRank": 49618
   },
   {
     "login": "finnpedersenkazes",
@@ -11197,7 +11996,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 800,
-    "score": 2491
+    "score": 2491,
+    "globalRank": 49619
   },
   {
     "login": "fpetru",
@@ -11211,7 +12011,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 801,
-    "score": 54
+    "score": 54,
+    "globalRank": 49620
   },
   {
     "login": "schmid",
@@ -11225,7 +12026,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 802,
-    "score": 54
+    "score": 54,
+    "globalRank": 49621
   },
   {
     "login": "sergioazevedo",
@@ -11239,7 +12041,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 803,
-    "score": 2072
+    "score": 2072,
+    "globalRank": 49622
   },
   {
     "login": "mircealungu",
@@ -11253,7 +12056,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 804,
-    "score": 4100
+    "score": 4100,
+    "globalRank": 49623
   },
   {
     "login": "whesse",
@@ -11267,7 +12071,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 805,
-    "score": 54
+    "score": 54,
+    "globalRank": 49624
   },
   {
     "login": "Metallist1",
@@ -11281,7 +12086,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 806,
-    "score": 92
+    "score": 92,
+    "globalRank": 49625
   },
   {
     "login": "fernandoabolafio",
@@ -11295,7 +12101,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 807,
-    "score": 3379
+    "score": 3379,
+    "globalRank": 49626
   },
   {
     "login": "Splaxi",
@@ -11309,7 +12116,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 808,
-    "score": 367
+    "score": 367,
+    "globalRank": 49627
   },
   {
     "login": "gimlichael",
@@ -11323,7 +12131,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 809,
-    "score": 762
+    "score": 762,
+    "globalRank": 49628
   },
   {
     "login": "birjj",
@@ -11337,7 +12146,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 810,
-    "score": 1154
+    "score": 1154,
+    "globalRank": 49629
   },
   {
     "login": "Nicklason",
@@ -11351,7 +12161,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 811,
-    "score": 285
+    "score": 285,
+    "globalRank": 49630
   },
   {
     "login": "voigtstefan",
@@ -11365,7 +12176,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 812,
-    "score": 1355
+    "score": 1355,
+    "globalRank": 49631
   },
   {
     "login": "RGring",
@@ -11379,7 +12191,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 813,
-    "score": 54
+    "score": 54,
+    "globalRank": 49632
   },
   {
     "login": "razius",
@@ -11393,7 +12206,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 814,
-    "score": 672
+    "score": 672,
+    "globalRank": 49633
   },
   {
     "login": "madsnedergaard",
@@ -11407,7 +12221,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 815,
-    "score": 1654
+    "score": 1654,
+    "globalRank": 49634
   },
   {
     "login": "tibor19",
@@ -11421,7 +12236,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 816,
-    "score": 144
+    "score": 144,
+    "globalRank": 49635
   },
   {
     "login": "ssoelvsten",
@@ -11435,7 +12251,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 817,
-    "score": 1207
+    "score": 1207,
+    "globalRank": 49636
   },
   {
     "login": "gertvv",
@@ -11449,7 +12266,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 818,
-    "score": 178
+    "score": 178,
+    "globalRank": 50161
   },
   {
     "login": "vladsandulescu",
@@ -11463,7 +12281,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 819,
-    "score": 57
+    "score": 57,
+    "globalRank": 50162
   },
   {
     "login": "jcemelanda",
@@ -11477,7 +12296,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 820,
-    "score": 90
+    "score": 90,
+    "globalRank": 50163
   },
   {
     "login": "petersenpeter",
@@ -11491,7 +12311,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 821,
-    "score": 1019
+    "score": 1019,
+    "globalRank": 50164
   },
   {
     "login": "abdelhakim96",
@@ -11505,7 +12326,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 822,
-    "score": 651
+    "score": 651,
+    "globalRank": 50165
   },
   {
     "login": "TATDK",
@@ -11519,7 +12341,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 823,
-    "score": 53
+    "score": 53,
+    "globalRank": 50166
   },
   {
     "login": "devindazzle",
@@ -11533,7 +12356,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 824,
-    "score": 53
+    "score": 53,
+    "globalRank": 50167
   },
   {
     "login": "ThomasArdal",
@@ -11547,7 +12371,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 825,
-    "score": 1586
+    "score": 1586,
+    "globalRank": 50168
   },
   {
     "login": "candu",
@@ -11561,7 +12386,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 826,
-    "score": 305
+    "score": 305,
+    "globalRank": 50169
   },
   {
     "login": "Djarnis",
@@ -11575,7 +12401,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 827,
-    "score": 3201
+    "score": 3201,
+    "globalRank": 50170
   },
   {
     "login": "PeterHorsbollMoller",
@@ -11589,7 +12416,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 828,
-    "score": 91
+    "score": 91,
+    "globalRank": 50171
   },
   {
     "login": "NoHop3",
@@ -11603,7 +12431,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 829,
-    "score": 299
+    "score": 299,
+    "globalRank": 50172
   },
   {
     "login": "alexdor",
@@ -11617,7 +12446,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 830,
-    "score": 1168
+    "score": 1168,
+    "globalRank": 50173
   },
   {
     "login": "temken",
@@ -11631,7 +12461,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 831,
-    "score": 308
+    "score": 308,
+    "globalRank": 50674
   },
   {
     "login": "nyerup",
@@ -11645,7 +12476,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 832,
-    "score": 139
+    "score": 139,
+    "globalRank": 50675
   },
   {
     "login": "PhilipK",
@@ -11659,7 +12491,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 833,
-    "score": 584
+    "score": 584,
+    "globalRank": 50676
   },
   {
     "login": "noahlaux",
@@ -11673,7 +12506,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 834,
-    "score": 2455
+    "score": 2455,
+    "globalRank": 50677
   },
   {
     "login": "seby-sbirna",
@@ -11687,7 +12521,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 835,
-    "score": 52
+    "score": 52,
+    "globalRank": 50678
   },
   {
     "login": "mavalentim",
@@ -11701,7 +12536,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 836,
-    "score": 58
+    "score": 58,
+    "globalRank": 50679
   },
   {
     "login": "dragonwasrobot",
@@ -11715,7 +12551,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 837,
-    "score": 729
+    "score": 729,
+    "globalRank": 50680
   },
   {
     "login": "rud",
@@ -11729,7 +12566,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 838,
-    "score": 11124
+    "score": 11124,
+    "globalRank": 50681
   },
   {
     "login": "skipperbent",
@@ -11743,7 +12581,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 839,
-    "score": 60
+    "score": 60,
+    "globalRank": 50682
   },
   {
     "login": "JakobChristensen",
@@ -11757,7 +12596,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 840,
-    "score": 528
+    "score": 528,
+    "globalRank": 50683
   },
   {
     "login": "ejurgensen",
@@ -11771,7 +12611,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 841,
-    "score": 301
+    "score": 301,
+    "globalRank": 50684
   },
   {
     "login": "kbr-ucl",
@@ -11785,7 +12626,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 842,
-    "score": 392
+    "score": 392,
+    "globalRank": 50685
   },
   {
     "login": "fusaroli",
@@ -11799,7 +12641,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 843,
-    "score": 160
+    "score": 160,
+    "globalRank": 50686
   },
   {
     "login": "fmpr",
@@ -11813,7 +12656,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 844,
-    "score": 53
+    "score": 53,
+    "globalRank": 50687
   },
   {
     "login": "simonj",
@@ -11827,7 +12671,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 845,
-    "score": 2760
+    "score": 2760,
+    "globalRank": 50688
   },
   {
     "login": "grych",
@@ -11841,7 +12686,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 846,
-    "score": 85
+    "score": 85,
+    "globalRank": 50689
   },
   {
     "login": "Ahrengot",
@@ -11855,7 +12701,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 847,
-    "score": 1929
+    "score": 1929,
+    "globalRank": 50690
   },
   {
     "login": "quartercastle",
@@ -11869,7 +12716,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 848,
-    "score": 1372
+    "score": 1372,
+    "globalRank": 50691
   },
   {
     "login": "brycx",
@@ -11883,7 +12731,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 849,
-    "score": 160
+    "score": 160,
+    "globalRank": 50692
   },
   {
     "login": "epernst",
@@ -11897,7 +12746,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 850,
-    "score": 136
+    "score": 136,
+    "globalRank": 50693
   },
   {
     "login": "zainmujahid",
@@ -11911,7 +12761,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 851,
-    "score": 232
+    "score": 232,
+    "globalRank": 50694
   },
   {
     "login": "lassebunk",
@@ -11925,7 +12776,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 852,
-    "score": 52
+    "score": 52,
+    "globalRank": 50695
   },
   {
     "login": "melund",
@@ -11939,7 +12791,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 853,
-    "score": 1428
+    "score": 1428,
+    "globalRank": 50696
   },
   {
     "login": "BitOfAByte",
@@ -11953,7 +12806,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 854,
-    "score": 155
+    "score": 155,
+    "globalRank": 50697
   },
   {
     "login": "Thecoder0012",
@@ -11967,7 +12821,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 855,
-    "score": 52
+    "score": 52,
+    "globalRank": 51203
   },
   {
     "login": "omegahm",
@@ -11981,7 +12836,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 856,
-    "score": 176
+    "score": 176,
+    "globalRank": 51204
   },
   {
     "login": "BrianEstrada",
@@ -11995,7 +12851,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 857,
-    "score": 6108
+    "score": 6108,
+    "globalRank": 51205
   },
   {
     "login": "Xazin",
@@ -12009,7 +12866,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 858,
-    "score": 1148
+    "score": 1148,
+    "globalRank": 51206
   },
   {
     "login": "haoranpb",
@@ -12023,7 +12881,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 859,
-    "score": 1384
+    "score": 1384,
+    "globalRank": 51207
   },
   {
     "login": "SarthakYadav",
@@ -12037,7 +12896,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 860,
-    "score": 537
+    "score": 537,
+    "globalRank": 51208
   },
   {
     "login": "MikaelFangel",
@@ -12051,7 +12911,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 861,
-    "score": 1781
+    "score": 1781,
+    "globalRank": 51209
   },
   {
     "login": "bewildergeist",
@@ -12065,7 +12926,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 862,
-    "score": 821
+    "score": 821,
+    "globalRank": 51210
   },
   {
     "login": "larsbaunwall",
@@ -12079,7 +12941,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 863,
-    "score": 938
+    "score": 938,
+    "globalRank": 51211
   },
   {
     "login": "Silverbaq",
@@ -12093,7 +12956,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 864,
-    "score": 104
+    "score": 104,
+    "globalRank": 51212
   },
   {
     "login": "rasmuskl",
@@ -12107,7 +12971,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 865,
-    "score": 86
+    "score": 86,
+    "globalRank": 51213
   },
   {
     "login": "stauersbol",
@@ -12121,7 +12986,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 866,
-    "score": 503
+    "score": 503,
+    "globalRank": 51214
   },
   {
     "login": "kasperg",
@@ -12135,7 +13001,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 867,
-    "score": 2802
+    "score": 2802,
+    "globalRank": 51215
   },
   {
     "login": "ysig",
@@ -12149,7 +13016,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 868,
-    "score": 94
+    "score": 94,
+    "globalRank": 51216
   },
   {
     "login": "bvilhjal",
@@ -12163,7 +13031,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 869,
-    "score": 60
+    "score": 60,
+    "globalRank": 51217
   },
   {
     "login": "kuznero",
@@ -12177,7 +13046,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 870,
-    "score": 3127
+    "score": 3127,
+    "globalRank": 51218
   },
   {
     "login": "nealstewart",
@@ -12191,7 +13061,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 871,
-    "score": 424
+    "score": 424,
+    "globalRank": 51219
   },
   {
     "login": "krose",
@@ -12205,7 +13076,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 872,
-    "score": 51
+    "score": 51,
+    "globalRank": 51697
   },
   {
     "login": "rethore",
@@ -12219,7 +13091,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 873,
-    "score": 1032
+    "score": 1032,
+    "globalRank": 51698
   },
   {
     "login": "trenskow",
@@ -12233,7 +13106,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 874,
-    "score": 12624
+    "score": 12624,
+    "globalRank": 51699
   },
   {
     "login": "cauli",
@@ -12247,7 +13121,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 875,
-    "score": 969
+    "score": 969,
+    "globalRank": 51700
   },
   {
     "login": "ba0708",
@@ -12261,7 +13136,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 876,
-    "score": 50
+    "score": 50,
+    "globalRank": 51701
   },
   {
     "login": "Thalley",
@@ -12275,7 +13151,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 877,
-    "score": 1608
+    "score": 1608,
+    "globalRank": 51702
   },
   {
     "login": "nikolajlovenhardt",
@@ -12289,7 +13166,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 878,
-    "score": 2087
+    "score": 2087,
+    "globalRank": 51703
   },
   {
     "login": "pandr",
@@ -12303,7 +13181,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 879,
-    "score": 179
+    "score": 179,
+    "globalRank": 51704
   },
   {
     "login": "colinpmillar",
@@ -12317,7 +13196,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 880,
-    "score": 596
+    "score": 596,
+    "globalRank": 51705
   },
   {
     "login": "vibber",
@@ -12331,7 +13211,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 881,
-    "score": 69
+    "score": 69,
+    "globalRank": 51706
   },
   {
     "login": "zanderhavgaard",
@@ -12345,7 +13226,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 882,
-    "score": 2608
+    "score": 2608,
+    "globalRank": 51707
   },
   {
     "login": "valkyriesavage",
@@ -12359,7 +13241,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 883,
-    "score": 115
+    "score": 115,
+    "globalRank": 51708
   },
   {
     "login": "DariusLukasukas",
@@ -12373,7 +13256,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 884,
-    "score": 312
+    "score": 312,
+    "globalRank": 51709
   },
   {
     "login": "talesp",
@@ -12387,7 +13271,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 885,
-    "score": 64
+    "score": 64,
+    "globalRank": 51710
   },
   {
     "login": "amintimany",
@@ -12401,7 +13286,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 886,
-    "score": 526
+    "score": 526,
+    "globalRank": 51711
   },
   {
     "login": "mdabros",
@@ -12415,7 +13301,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 887,
-    "score": 74
+    "score": 74,
+    "globalRank": 51712
   },
   {
     "login": "erikcorry",
@@ -12429,7 +13316,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 888,
-    "score": 217
+    "score": 217,
+    "globalRank": 51713
   },
   {
     "login": "larsch",
@@ -12443,7 +13331,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 889,
-    "score": 192
+    "score": 192,
+    "globalRank": 51714
   },
   {
     "login": "Danielss89",
@@ -12457,7 +13346,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 890,
-    "score": 66
+    "score": 66,
+    "globalRank": 51715
   },
   {
     "login": "peterkrull",
@@ -12471,7 +13361,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 891,
-    "score": 333
+    "score": 333,
+    "globalRank": 51716
   },
   {
     "login": "skumlos",
@@ -12485,7 +13376,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 892,
-    "score": 50
+    "score": 50,
+    "globalRank": 51717
   },
   {
     "login": "theflow",
@@ -12499,7 +13391,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 893,
-    "score": 50
+    "score": 50,
+    "globalRank": 51718
   },
   {
     "login": "atmosfeer",
@@ -12513,7 +13406,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 894,
-    "score": 49
+    "score": 49,
+    "globalRank": 52192
   },
   {
     "login": "DoktorMike",
@@ -12527,7 +13421,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 895,
-    "score": 278
+    "score": 278,
+    "globalRank": 52193
   },
   {
     "login": "KPLauritzen",
@@ -12541,7 +13436,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 896,
-    "score": 1423
+    "score": 1423,
+    "globalRank": 52194
   },
   {
     "login": "kimdv",
@@ -12555,7 +13451,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 897,
-    "score": 12971
+    "score": 12971,
+    "globalRank": 52195
   },
   {
     "login": "RSpace",
@@ -12569,7 +13466,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 898,
-    "score": 49
+    "score": 49,
+    "globalRank": 52196
   },
   {
     "login": "sazimi",
@@ -12583,7 +13481,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 899,
-    "score": 88
+    "score": 88,
+    "globalRank": 52197
   },
   {
     "login": "MBvisti",
@@ -12597,7 +13496,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 900,
-    "score": 2461
+    "score": 2461,
+    "globalRank": 52198
   },
   {
     "login": "eskil",
@@ -12611,7 +13511,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 901,
-    "score": 133
+    "score": 133,
+    "globalRank": 52199
   },
   {
     "login": "BrettRToomey",
@@ -12625,7 +13526,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 902,
-    "score": 139
+    "score": 139,
+    "globalRank": 52200
   },
   {
     "login": "sepisoad",
@@ -12639,7 +13541,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 903,
-    "score": 83
+    "score": 83,
+    "globalRank": 52201
   },
   {
     "login": "madsrh",
@@ -12653,7 +13556,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 904,
-    "score": 56
+    "score": 56,
+    "globalRank": 52202
   },
   {
     "login": "tobiasebsen",
@@ -12667,7 +13571,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 905,
-    "score": 89
+    "score": 89,
+    "globalRank": 52203
   },
   {
     "login": "vd4mmind",
@@ -12681,7 +13586,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 906,
-    "score": 209
+    "score": 209,
+    "globalRank": 52204
   },
   {
     "login": "emilstahl",
@@ -12695,7 +13601,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 907,
-    "score": 63
+    "score": 63,
+    "globalRank": 52205
   },
   {
     "login": "JarlTuxen",
@@ -12709,7 +13616,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 908,
-    "score": 125
+    "score": 125,
+    "globalRank": 52206
   },
   {
     "login": "ptrf",
@@ -12723,7 +13631,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 909,
-    "score": 109
+    "score": 109,
+    "globalRank": 52207
   },
   {
     "login": "Cornholio6969",
@@ -12737,7 +13646,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 910,
-    "score": 398
+    "score": 398,
+    "globalRank": 52208
   },
   {
     "login": "xiplias",
@@ -12751,7 +13661,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 911,
-    "score": 1961
+    "score": 1961,
+    "globalRank": 52209
   },
   {
     "login": "andersmelander",
@@ -12765,7 +13676,8 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 912,
-    "score": 2244
+    "score": 2244,
+    "globalRank": 52210
   },
   {
     "login": "lassestilvang",
@@ -12779,6 +13691,7 @@
     "country": "denmark",
     "countryName": "Denmark",
     "countryRank": 913,
-    "score": 12433
+    "score": 12433,
+    "globalRank": 52211
   }
 ]

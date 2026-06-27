@@ -11,7 +11,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 1,
-    "score": 15431
+    "score": 15431,
+    "globalRank": 475
   },
   {
     "login": "XhmikosR",
@@ -25,7 +26,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 2,
-    "score": 4610
+    "score": 4610,
+    "globalRank": 774
   },
   {
     "login": "Chalarangelo",
@@ -39,7 +41,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 3,
-    "score": 4763
+    "score": 4763,
+    "globalRank": 820
   },
   {
     "login": "g1f1",
@@ -53,7 +56,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 4,
-    "score": 2421
+    "score": 2421,
+    "globalRank": 1564
   },
   {
     "login": "daviwil",
@@ -67,7 +71,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 5,
-    "score": 2877
+    "score": 2877,
+    "globalRank": 1656
   },
   {
     "login": "kataras",
@@ -81,7 +86,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 6,
-    "score": 3948
+    "score": 3948,
+    "globalRank": 1978
   },
   {
     "login": "lipis",
@@ -95,7 +101,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 7,
-    "score": 1894
+    "score": 1894,
+    "globalRank": 2056
   },
   {
     "login": "dspinellis",
@@ -109,7 +116,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 8,
-    "score": 2212
+    "score": 2212,
+    "globalRank": 2061
   },
   {
     "login": "maldevel",
@@ -123,7 +131,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 9,
-    "score": 2483
+    "score": 2483,
+    "globalRank": 2596
   },
   {
     "login": "k4m4",
@@ -137,7 +146,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 10,
-    "score": 1734
+    "score": 1734,
+    "globalRank": 2602
   },
   {
     "login": "dioptx",
@@ -151,7 +161,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 11,
-    "score": 1364
+    "score": 1364,
+    "globalRank": 2899
   },
   {
     "login": "0xgpapad",
@@ -165,7 +176,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 12,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 3302
   },
   {
     "login": "dionyziz",
@@ -179,7 +191,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 13,
-    "score": 1236
+    "score": 1236,
+    "globalRank": 3646
   },
   {
     "login": "skorokithakis",
@@ -193,7 +206,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 14,
-    "score": 4116
+    "score": 4116,
+    "globalRank": 4265
   },
   {
     "login": "trickster0",
@@ -207,7 +221,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 15,
-    "score": 942
+    "score": 942,
+    "globalRank": 4296
   },
   {
     "login": "gkalpak",
@@ -221,7 +236,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 16,
-    "score": 1771
+    "score": 1771,
+    "globalRank": 4656
   },
   {
     "login": "S1ckB0y1337",
@@ -235,7 +251,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 17,
-    "score": 821
+    "score": 821,
+    "globalRank": 5089
   },
   {
     "login": "gr33kurious",
@@ -249,7 +266,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 18,
-    "score": 826
+    "score": 826,
+    "globalRank": 5090
   },
   {
     "login": "ratracegrad",
@@ -263,7 +281,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 19,
-    "score": 1158
+    "score": 1158,
+    "globalRank": 5153
   },
   {
     "login": "EleftheriaBatsou",
@@ -277,7 +296,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 20,
-    "score": 985
+    "score": 985,
+    "globalRank": 5167
   },
   {
     "login": "kaotickj",
@@ -291,7 +311,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 21,
-    "score": 922
+    "score": 922,
+    "globalRank": 5242
   },
   {
     "login": "chsakell",
@@ -305,7 +326,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 22,
-    "score": 781
+    "score": 781,
+    "globalRank": 5518
   },
   {
     "login": "Mcompetitions",
@@ -319,7 +341,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 23,
-    "score": 739
+    "score": 739,
+    "globalRank": 5686
   },
   {
     "login": "ypersyntelykos",
@@ -333,7 +356,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 24,
-    "score": 735
+    "score": 735,
+    "globalRank": 5718
   },
   {
     "login": "ktsaou",
@@ -347,7 +371,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 25,
-    "score": 2172
+    "score": 2172,
+    "globalRank": 6166
   },
   {
     "login": "stasinopoulos",
@@ -361,7 +386,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 26,
-    "score": 779
+    "score": 779,
+    "globalRank": 6464
   },
   {
     "login": "stevsharp",
@@ -375,7 +401,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 27,
-    "score": 1140
+    "score": 1140,
+    "globalRank": 6504
   },
   {
     "login": "tyiannak",
@@ -389,7 +416,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 28,
-    "score": 711
+    "score": 711,
+    "globalRank": 6770
   },
   {
     "login": "KaloudasDev",
@@ -403,7 +431,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 29,
-    "score": 2120
+    "score": 2120,
+    "globalRank": 7165
   },
   {
     "login": "kostasx",
@@ -417,7 +446,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 30,
-    "score": 1393
+    "score": 1393,
+    "globalRank": 7241
   },
   {
     "login": "aristath",
@@ -431,7 +461,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 31,
-    "score": 8916
+    "score": 8916,
+    "globalRank": 7304
   },
   {
     "login": "pablof7z",
@@ -445,7 +476,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 32,
-    "score": 14493
+    "score": 14493,
+    "globalRank": 7590
   },
   {
     "login": "Pizzaboi87",
@@ -459,7 +491,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 33,
-    "score": 897
+    "score": 897,
+    "globalRank": 7633
   },
   {
     "login": "mandarini",
@@ -473,7 +506,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 34,
-    "score": 3427
+    "score": 3427,
+    "globalRank": 7883
   },
   {
     "login": "dkapt",
@@ -487,7 +521,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 35,
-    "score": 585
+    "score": 585,
+    "globalRank": 8201
   },
   {
     "login": "woidzero",
@@ -501,7 +536,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 36,
-    "score": 575
+    "score": 575,
+    "globalRank": 8236
   },
   {
     "login": "dimikara",
@@ -515,7 +551,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 37,
-    "score": 587
+    "score": 587,
+    "globalRank": 8450
   },
   {
     "login": "edisleka",
@@ -529,7 +566,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 38,
-    "score": 822
+    "score": 822,
+    "globalRank": 8545
   },
   {
     "login": "louridas",
@@ -543,7 +581,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 39,
-    "score": 524
+    "score": 524,
+    "globalRank": 8816
   },
   {
     "login": "sdroege",
@@ -557,7 +596,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 40,
-    "score": 3130
+    "score": 3130,
+    "globalRank": 9213
   },
   {
     "login": "petros",
@@ -571,7 +611,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 41,
-    "score": 2152
+    "score": 2152,
+    "globalRank": 9616
   },
   {
     "login": "GeorgeGkolfis",
@@ -585,7 +626,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 42,
-    "score": 813
+    "score": 813,
+    "globalRank": 9636
   },
   {
     "login": "angelosstampoulisgithub",
@@ -599,7 +641,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 43,
-    "score": 761
+    "score": 761,
+    "globalRank": 9782
   },
   {
     "login": "pyscripter",
@@ -613,7 +656,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 44,
-    "score": 838
+    "score": 838,
+    "globalRank": 9955
   },
   {
     "login": "MFDGaming",
@@ -627,7 +671,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 45,
-    "score": 603
+    "score": 603,
+    "globalRank": 10730
   },
   {
     "login": "sotos22i",
@@ -641,7 +686,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 46,
-    "score": 532
+    "score": 532,
+    "globalRank": 10988
   },
   {
     "login": "chrismitsdev",
@@ -655,7 +701,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 47,
-    "score": 1054
+    "score": 1054,
+    "globalRank": 10989
   },
   {
     "login": "freskoulix",
@@ -669,7 +716,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 48,
-    "score": 411
+    "score": 411,
+    "globalRank": 11278
   },
   {
     "login": "Geoxor",
@@ -683,7 +731,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 49,
-    "score": 568
+    "score": 568,
+    "globalRank": 11392
   },
   {
     "login": "maxbyz",
@@ -697,7 +746,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 50,
-    "score": 377
+    "score": 377,
+    "globalRank": 11436
   },
   {
     "login": "geoand",
@@ -711,7 +761,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 51,
-    "score": 3862
+    "score": 3862,
+    "globalRank": 11531
   },
   {
     "login": "bcallaway11",
@@ -725,7 +776,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 52,
-    "score": 627
+    "score": 627,
+    "globalRank": 11566
   },
   {
     "login": "chrisk44",
@@ -739,7 +791,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 53,
-    "score": 391
+    "score": 391,
+    "globalRank": 11605
   },
   {
     "login": "anestisb",
@@ -753,7 +806,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 54,
-    "score": 370
+    "score": 370,
+    "globalRank": 11606
   },
   {
     "login": "a8anassis",
@@ -767,7 +821,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 55,
-    "score": 2435
+    "score": 2435,
+    "globalRank": 11744
   },
   {
     "login": "SpySioutis",
@@ -781,7 +836,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 56,
-    "score": 1183
+    "score": 1183,
+    "globalRank": 11826
   },
   {
     "login": "cyb3rmik3",
@@ -795,7 +851,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 57,
-    "score": 445
+    "score": 445,
+    "globalRank": 12178
   },
   {
     "login": "thanpolas",
@@ -809,7 +866,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 58,
-    "score": 1878
+    "score": 1878,
+    "globalRank": 12296
   },
   {
     "login": "educ8s",
@@ -823,7 +881,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 59,
-    "score": 427
+    "score": 427,
+    "globalRank": 12470
   },
   {
     "login": "davidoster",
@@ -837,7 +896,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 60,
-    "score": 339
+    "score": 339,
+    "globalRank": 12710
   },
   {
     "login": "Trinityyi",
@@ -851,7 +911,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 61,
-    "score": 718
+    "score": 718,
+    "globalRank": 12711
   },
   {
     "login": "makdosx",
@@ -865,7 +926,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 62,
-    "score": 332
+    "score": 332,
+    "globalRank": 12956
   },
   {
     "login": "VelocityRa",
@@ -879,7 +941,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 63,
-    "score": 1045
+    "score": 1045,
+    "globalRank": 13056
   },
   {
     "login": "3ct0s",
@@ -893,7 +956,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 64,
-    "score": 617
+    "score": 617,
+    "globalRank": 13203
   },
   {
     "login": "pavlospt",
@@ -907,7 +971,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 65,
-    "score": 488
+    "score": 488,
+    "globalRank": 13310
   },
   {
     "login": "stjordanis",
@@ -921,7 +986,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 66,
-    "score": 420
+    "score": 420,
+    "globalRank": 13471
   },
   {
     "login": "iridakos",
@@ -935,7 +1001,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 67,
-    "score": 327
+    "score": 327,
+    "globalRank": 13512
   },
   {
     "login": "mariabarkouzou",
@@ -949,7 +1016,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 68,
-    "score": 304
+    "score": 304,
+    "globalRank": 14349
   },
   {
     "login": "chatziko",
@@ -963,7 +1031,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 69,
-    "score": 1439
+    "score": 1439,
+    "globalRank": 14481
   },
   {
     "login": "annakrystalli",
@@ -977,7 +1046,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 70,
-    "score": 2119
+    "score": 2119,
+    "globalRank": 14592
   },
   {
     "login": "mactsouk",
@@ -991,7 +1061,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 71,
-    "score": 1086
+    "score": 1086,
+    "globalRank": 14900
   },
   {
     "login": "VisualEhrmanntraut",
@@ -1005,7 +1076,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 72,
-    "score": 716
+    "score": 716,
+    "globalRank": 15279
   },
   {
     "login": "malihu",
@@ -1019,7 +1091,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 73,
-    "score": 275
+    "score": 275,
+    "globalRank": 15572
   },
   {
     "login": "Louisathenios",
@@ -1033,7 +1106,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 74,
-    "score": 271
+    "score": 271,
+    "globalRank": 15623
   },
   {
     "login": "G-MAKROGLOU",
@@ -1047,7 +1121,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 75,
-    "score": 1009
+    "score": 1009,
+    "globalRank": 15944
   },
   {
     "login": "kostis-codefresh",
@@ -1061,7 +1136,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 76,
-    "score": 11971
+    "score": 11971,
+    "globalRank": 16113
   },
   {
     "login": "thanosparavantis",
@@ -1075,7 +1151,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 77,
-    "score": 725
+    "score": 725,
+    "globalRank": 16266
   },
   {
     "login": "GeoSot",
@@ -1089,7 +1166,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 78,
-    "score": 430
+    "score": 430,
+    "globalRank": 16684
   },
   {
     "login": "ggeop",
@@ -1103,7 +1181,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 79,
-    "score": 251
+    "score": 251,
+    "globalRank": 16685
   },
   {
     "login": "raphaelthegreat",
@@ -1117,7 +1196,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 80,
-    "score": 511
+    "score": 511,
+    "globalRank": 16772
   },
   {
     "login": "Zapotek",
@@ -1131,7 +1211,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 81,
-    "score": 853
+    "score": 853,
+    "globalRank": 16885
   },
   {
     "login": "scoumbourdis",
@@ -1145,7 +1226,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 82,
-    "score": 468
+    "score": 468,
+    "globalRank": 17081
   },
   {
     "login": "orfeasel",
@@ -1159,7 +1241,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 83,
-    "score": 529
+    "score": 529,
+    "globalRank": 17352
   },
   {
     "login": "c00kiemon5ter",
@@ -1173,7 +1256,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 84,
-    "score": 308
+    "score": 308,
+    "globalRank": 17417
   },
   {
     "login": "iocanel",
@@ -1187,7 +1271,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 85,
-    "score": 1334
+    "score": 1334,
+    "globalRank": 17472
   },
   {
     "login": "ntakouris",
@@ -1201,7 +1286,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 86,
-    "score": 262
+    "score": 262,
+    "globalRank": 17521
   },
   {
     "login": "Noudi03",
@@ -1215,7 +1301,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 87,
-    "score": 359
+    "score": 359,
+    "globalRank": 17522
   },
   {
     "login": "tsevdos",
@@ -1229,7 +1316,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 88,
-    "score": 635
+    "score": 635,
+    "globalRank": 17585
   },
   {
     "login": "mds",
@@ -1243,7 +1331,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 89,
-    "score": 2990
+    "score": 2990,
+    "globalRank": 17637
   },
   {
     "login": "sgoudelis",
@@ -1257,7 +1346,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 90,
-    "score": 2455
+    "score": 2455,
+    "globalRank": 17638
   },
   {
     "login": "acidvegas",
@@ -1271,7 +1361,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 91,
-    "score": 1336
+    "score": 1336,
+    "globalRank": 17639
   },
   {
     "login": "skmp",
@@ -1285,7 +1376,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 92,
-    "score": 1696
+    "score": 1696,
+    "globalRank": 17959
   },
   {
     "login": "dimitrisraptis96",
@@ -1299,7 +1391,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 93,
-    "score": 837
+    "score": 837,
+    "globalRank": 18016
   },
   {
     "login": "admariner",
@@ -1313,7 +1406,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 94,
-    "score": 728
+    "score": 728,
+    "globalRank": 18017
   },
   {
     "login": "theatina",
@@ -1327,7 +1421,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 95,
-    "score": 280
+    "score": 280,
+    "globalRank": 18018
   },
   {
     "login": "sger",
@@ -1341,7 +1436,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 96,
-    "score": 1717
+    "score": 1717,
+    "globalRank": 18019
   },
   {
     "login": "bampakoa",
@@ -1355,7 +1451,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 97,
-    "score": 338
+    "score": 338,
+    "globalRank": 18171
   },
   {
     "login": "costashatz",
@@ -1369,7 +1466,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 98,
-    "score": 969
+    "score": 969,
+    "globalRank": 18283
   },
   {
     "login": "kkar",
@@ -1383,7 +1481,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 99,
-    "score": 216
+    "score": 216,
+    "globalRank": 18595
   },
   {
     "login": "ArjixWasTaken",
@@ -1397,7 +1496,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 100,
-    "score": 1514
+    "score": 1514,
+    "globalRank": 18660
   },
   {
     "login": "GeopJr",
@@ -1411,7 +1511,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 101,
-    "score": 676
+    "score": 676,
+    "globalRank": 18715
   },
   {
     "login": "wheremyfoodat",
@@ -1425,7 +1526,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 102,
-    "score": 919
+    "score": 919,
+    "globalRank": 18716
   },
   {
     "login": "Gexos",
@@ -1439,7 +1541,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 103,
-    "score": 305
+    "score": 305,
+    "globalRank": 18717
   },
   {
     "login": "neoaggelos",
@@ -1453,7 +1556,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 104,
-    "score": 2677
+    "score": 2677,
+    "globalRank": 18847
   },
   {
     "login": "nikosdion",
@@ -1467,7 +1571,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 105,
-    "score": 2558
+    "score": 2558,
+    "globalRank": 19416
   },
   {
     "login": "Katerinajames",
@@ -1481,7 +1586,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 106,
-    "score": 221
+    "score": 221,
+    "globalRank": 19635
   },
   {
     "login": "nickie",
@@ -1495,7 +1601,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 107,
-    "score": 286
+    "score": 286,
+    "globalRank": 19853
   },
   {
     "login": "harris21",
@@ -1509,7 +1616,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 108,
-    "score": 2841
+    "score": 2841,
+    "globalRank": 20205
   },
   {
     "login": "fevangelou",
@@ -1523,7 +1631,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 109,
-    "score": 719
+    "score": 719,
+    "globalRank": 20206
   },
   {
     "login": "xtonousou",
@@ -1537,7 +1646,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 110,
-    "score": 201
+    "score": 201,
+    "globalRank": 20417
   },
   {
     "login": "KaterinaK06",
@@ -1551,7 +1661,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 111,
-    "score": 201
+    "score": 201,
+    "globalRank": 20418
   },
   {
     "login": "agladysh",
@@ -1565,7 +1676,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 112,
-    "score": 3057
+    "score": 3057,
+    "globalRank": 20502
   },
   {
     "login": "petrosagg",
@@ -1579,7 +1691,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 113,
-    "score": 535
+    "score": 535,
+    "globalRank": 20575
   },
   {
     "login": "ObserverOfTime",
@@ -1593,7 +1706,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 114,
-    "score": 875
+    "score": 875,
+    "globalRank": 20742
   },
   {
     "login": "huku-",
@@ -1607,7 +1721,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 115,
-    "score": 218
+    "score": 218,
+    "globalRank": 20818
   },
   {
     "login": "kostis",
@@ -1621,7 +1736,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 116,
-    "score": 1095
+    "score": 1095,
+    "globalRank": 20908
   },
   {
     "login": "jkakavas",
@@ -1635,7 +1751,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 117,
-    "score": 3043
+    "score": 3043,
+    "globalRank": 21191
   },
   {
     "login": "WindowsNT",
@@ -1649,7 +1766,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 118,
-    "score": 739
+    "score": 739,
+    "globalRank": 21294
   },
   {
     "login": "operatorequals",
@@ -1663,7 +1781,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 119,
-    "score": 893
+    "score": 893,
+    "globalRank": 21547
   },
   {
     "login": "glogiotatidis",
@@ -1677,7 +1796,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 120,
-    "score": 2287
+    "score": 2287,
+    "globalRank": 21632
   },
   {
     "login": "Thelouras58",
@@ -1691,7 +1811,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 121,
-    "score": 489
+    "score": 489,
+    "globalRank": 21732
   },
   {
     "login": "pmoschos",
@@ -1705,7 +1826,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 122,
-    "score": 343
+    "score": 343,
+    "globalRank": 21826
   },
   {
     "login": "mvykool",
@@ -1719,7 +1841,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 123,
-    "score": 1181
+    "score": 1181,
+    "globalRank": 21925
   },
   {
     "login": "spapas",
@@ -1733,7 +1856,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 124,
-    "score": 1827
+    "score": 1827,
+    "globalRank": 22041
   },
   {
     "login": "iani",
@@ -1747,7 +1871,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 125,
-    "score": 476
+    "score": 476,
+    "globalRank": 22042
   },
   {
     "login": "thgreasi",
@@ -1761,7 +1886,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 126,
-    "score": 1191
+    "score": 1191,
+    "globalRank": 22156
   },
   {
     "login": "ThanosFisherman",
@@ -1775,7 +1901,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 127,
-    "score": 545
+    "score": 545,
+    "globalRank": 22157
   },
   {
     "login": "epilys",
@@ -1789,7 +1916,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 128,
-    "score": 1271
+    "score": 1271,
+    "globalRank": 22276
   },
   {
     "login": "artemisln",
@@ -1803,7 +1931,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 129,
-    "score": 2167
+    "score": 2167,
+    "globalRank": 22277
   },
   {
     "login": "ggozad",
@@ -1817,7 +1946,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 130,
-    "score": 3156
+    "score": 3156,
+    "globalRank": 22403
   },
   {
     "login": "verymanley",
@@ -1831,7 +1961,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 131,
-    "score": 169
+    "score": 169,
+    "globalRank": 22404
   },
   {
     "login": "GiannisTzonis",
@@ -1845,7 +1976,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 132,
-    "score": 164
+    "score": 164,
+    "globalRank": 23097
   },
   {
     "login": "AmmarkoV",
@@ -1859,7 +1991,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 133,
-    "score": 1892
+    "score": 1892,
+    "globalRank": 23098
   },
   {
     "login": "Acherontas",
@@ -1873,7 +2006,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 134,
-    "score": 755
+    "score": 755,
+    "globalRank": 23222
   },
   {
     "login": "vorillaz",
@@ -1887,7 +2021,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 135,
-    "score": 2536
+    "score": 2536,
+    "globalRank": 23223
   },
   {
     "login": "Florents-Tselai",
@@ -1901,7 +2036,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 136,
-    "score": 426
+    "score": 426,
+    "globalRank": 23339
   },
   {
     "login": "akDeveloper",
@@ -1915,7 +2051,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 137,
-    "score": 332
+    "score": 332,
+    "globalRank": 23340
   },
   {
     "login": "foo123",
@@ -1929,7 +2066,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 138,
-    "score": 1040
+    "score": 1040,
+    "globalRank": 23457
   },
   {
     "login": "profanis",
@@ -1943,7 +2081,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 139,
-    "score": 927
+    "score": 927,
+    "globalRank": 23458
   },
   {
     "login": "ptzagk",
@@ -1957,7 +2096,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 140,
-    "score": 243
+    "score": 243,
+    "globalRank": 23459
   },
   {
     "login": "parisk",
@@ -1971,7 +2111,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 141,
-    "score": 221
+    "score": 221,
+    "globalRank": 23697
   },
   {
     "login": "hevalhazalkurt",
@@ -1985,7 +2126,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 142,
-    "score": 980
+    "score": 980,
+    "globalRank": 23835
   },
   {
     "login": "le4ker",
@@ -1999,7 +2141,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 143,
-    "score": 499
+    "score": 499,
+    "globalRank": 23979
   },
   {
     "login": "petrostrak",
@@ -2013,7 +2156,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 144,
-    "score": 199
+    "score": 199,
+    "globalRank": 23980
   },
   {
     "login": "SergiosKar",
@@ -2027,7 +2171,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 145,
-    "score": 155
+    "score": 155,
+    "globalRank": 24099
   },
   {
     "login": "agorf",
@@ -2041,7 +2186,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 146,
-    "score": 487
+    "score": 487,
+    "globalRank": 24100
   },
   {
     "login": "georgesittas",
@@ -2055,7 +2201,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 147,
-    "score": 3126
+    "score": 3126,
+    "globalRank": 24101
   },
   {
     "login": "spirosoik",
@@ -2069,7 +2216,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 148,
-    "score": 1576
+    "score": 1576,
+    "globalRank": 24244
   },
   {
     "login": "polyzos",
@@ -2083,7 +2231,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 149,
-    "score": 373
+    "score": 373,
+    "globalRank": 24245
   },
   {
     "login": "vasilakisfil",
@@ -2097,7 +2246,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 150,
-    "score": 162
+    "score": 162,
+    "globalRank": 24246
   },
   {
     "login": "stellamarma",
@@ -2111,7 +2261,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 151,
-    "score": 195
+    "score": 195,
+    "globalRank": 24386
   },
   {
     "login": "hlolli",
@@ -2125,7 +2276,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 152,
-    "score": 616
+    "score": 616,
+    "globalRank": 24646
   },
   {
     "login": "sfikas",
@@ -2139,7 +2291,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 153,
-    "score": 539
+    "score": 539,
+    "globalRank": 24647
   },
   {
     "login": "stavrossk",
@@ -2153,7 +2306,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 154,
-    "score": 148
+    "score": 148,
+    "globalRank": 25065
   },
   {
     "login": "4yx",
@@ -2167,7 +2321,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 155,
-    "score": 528
+    "score": 528,
+    "globalRank": 25193
   },
   {
     "login": "dgrammatiko",
@@ -2181,7 +2336,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 156,
-    "score": 1312
+    "score": 1312,
+    "globalRank": 25194
   },
   {
     "login": "ppapadeas",
@@ -2195,7 +2351,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 157,
-    "score": 982
+    "score": 982,
+    "globalRank": 25326
   },
   {
     "login": "nathanl",
@@ -2209,7 +2366,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 158,
-    "score": 2046
+    "score": 2046,
+    "globalRank": 25462
   },
   {
     "login": "ellakdev",
@@ -2223,7 +2381,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 159,
-    "score": 151
+    "score": 151,
+    "globalRank": 25463
   },
   {
     "login": "stav121",
@@ -2237,7 +2396,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 160,
-    "score": 301
+    "score": 301,
+    "globalRank": 25616
   },
   {
     "login": "Twilight0",
@@ -2251,7 +2411,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 161,
-    "score": 334
+    "score": 334,
+    "globalRank": 25617
   },
   {
     "login": "vrypan",
@@ -2265,7 +2426,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 162,
-    "score": 1463
+    "score": 1463,
+    "globalRank": 25918
   },
   {
     "login": "foutrelis",
@@ -2279,7 +2441,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 163,
-    "score": 144
+    "score": 144,
+    "globalRank": 25919
   },
   {
     "login": "Deffro",
@@ -2293,7 +2456,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 164,
-    "score": 643
+    "score": 643,
+    "globalRank": 26072
   },
   {
     "login": "georgerv85",
@@ -2307,7 +2471,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 165,
-    "score": 221
+    "score": 221,
+    "globalRank": 26073
   },
   {
     "login": "mariosknl",
@@ -2321,7 +2486,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 166,
-    "score": 11046
+    "score": 11046,
+    "globalRank": 26074
   },
   {
     "login": "akalipetis",
@@ -2335,7 +2501,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 167,
-    "score": 2221
+    "score": 2221,
+    "globalRank": 26075
   },
   {
     "login": "steveiliop56",
@@ -2349,7 +2516,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 168,
-    "score": 1664
+    "score": 1664,
+    "globalRank": 26218
   },
   {
     "login": "wizgrav",
@@ -2363,7 +2531,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 169,
-    "score": 139
+    "score": 139,
+    "globalRank": 26381
   },
   {
     "login": "mgiannopoulos24",
@@ -2377,7 +2546,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 170,
-    "score": 1994
+    "score": 1994,
+    "globalRank": 26382
   },
   {
     "login": "PanagiotisKotsorgios",
@@ -2391,7 +2561,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 171,
-    "score": 7276
+    "score": 7276,
+    "globalRank": 26689
   },
   {
     "login": "theodorosploumis",
@@ -2405,7 +2576,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 172,
-    "score": 3171
+    "score": 3171,
+    "globalRank": 27001
   },
   {
     "login": "gstavrinos",
@@ -2419,7 +2591,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 173,
-    "score": 1061
+    "score": 1061,
+    "globalRank": 27188
   },
   {
     "login": "georapbox",
@@ -2433,7 +2606,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 174,
-    "score": 790
+    "score": 790,
+    "globalRank": 27189
   },
   {
     "login": "passalis",
@@ -2447,7 +2621,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 175,
-    "score": 163
+    "score": 163,
+    "globalRank": 27521
   },
   {
     "login": "planetis-m",
@@ -2461,7 +2636,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 176,
-    "score": 2222
+    "score": 2222,
+    "globalRank": 27668
   },
   {
     "login": "roipeker",
@@ -2475,7 +2651,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 177,
-    "score": 332
+    "score": 332,
+    "globalRank": 27833
   },
   {
     "login": "sfoteini",
@@ -2489,7 +2666,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 178,
-    "score": 151
+    "score": 151,
+    "globalRank": 27834
   },
   {
     "login": "marudy",
@@ -2503,7 +2681,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 179,
-    "score": 693
+    "score": 693,
+    "globalRank": 27991
   },
   {
     "login": "iracleous",
@@ -2517,7 +2696,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 180,
-    "score": 278
+    "score": 278,
+    "globalRank": 28156
   },
   {
     "login": "palladin",
@@ -2531,7 +2711,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 181,
-    "score": 388
+    "score": 388,
+    "globalRank": 28157
   },
   {
     "login": "kochlisGit",
@@ -2545,7 +2726,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 182,
-    "score": 217
+    "score": 217,
+    "globalRank": 28341
   },
   {
     "login": "bergercookie",
@@ -2559,7 +2741,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 183,
-    "score": 216
+    "score": 216,
+    "globalRank": 28342
   },
   {
     "login": "kalxas",
@@ -2573,7 +2756,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 184,
-    "score": 1111
+    "score": 1111,
+    "globalRank": 28522
   },
   {
     "login": "zoep",
@@ -2587,7 +2771,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 185,
-    "score": 1005
+    "score": 1005,
+    "globalRank": 28523
   },
   {
     "login": "VISH01AL",
@@ -2601,7 +2786,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 186,
-    "score": 178
+    "score": 178,
+    "globalRank": 28524
   },
   {
     "login": "kleok",
@@ -2615,7 +2801,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 187,
-    "score": 126
+    "score": 126,
+    "globalRank": 28525
   },
   {
     "login": "alex-ppg",
@@ -2629,7 +2816,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 188,
-    "score": 520
+    "score": 520,
+    "globalRank": 28526
   },
   {
     "login": "pkounoudis",
@@ -2643,7 +2831,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 189,
-    "score": 190
+    "score": 190,
+    "globalRank": 28727
   },
   {
     "login": "alup",
@@ -2657,7 +2846,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 190,
-    "score": 1440
+    "score": 1440,
+    "globalRank": 28728
   },
   {
     "login": "GDimitroulakos",
@@ -2671,7 +2861,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 191,
-    "score": 393
+    "score": 393,
+    "globalRank": 28729
   },
   {
     "login": "iosifidis",
@@ -2685,7 +2876,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 192,
-    "score": 556
+    "score": 556,
+    "globalRank": 28730
   },
   {
     "login": "cerebrux",
@@ -2699,7 +2891,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 193,
-    "score": 796
+    "score": 796,
+    "globalRank": 28731
   },
   {
     "login": "epappas",
@@ -2713,7 +2906,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 194,
-    "score": 11042
+    "score": 11042,
+    "globalRank": 28899
   },
   {
     "login": "chrispetrou",
@@ -2727,7 +2921,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 195,
-    "score": 1244
+    "score": 1244,
+    "globalRank": 28900
   },
   {
     "login": "Chris-Sid",
@@ -2741,7 +2936,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 196,
-    "score": 207
+    "score": 207,
+    "globalRank": 29100
   },
   {
     "login": "mgogoulos",
@@ -2755,7 +2951,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 197,
-    "score": 707
+    "score": 707,
+    "globalRank": 29101
   },
   {
     "login": "g0d",
@@ -2769,7 +2966,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 198,
-    "score": 165
+    "score": 165,
+    "globalRank": 29102
   },
   {
     "login": "ParaskP7",
@@ -2783,7 +2981,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 199,
-    "score": 873
+    "score": 873,
+    "globalRank": 29285
   },
   {
     "login": "OverloadedOrama",
@@ -2797,7 +2996,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 200,
-    "score": 1487
+    "score": 1487,
+    "globalRank": 29286
   },
   {
     "login": "angelhof",
@@ -2811,7 +3011,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 201,
-    "score": 691
+    "score": 691,
+    "globalRank": 29287
   },
   {
     "login": "loathingKernel",
@@ -2825,7 +3026,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 202,
-    "score": 2550
+    "score": 2550,
+    "globalRank": 29467
   },
   {
     "login": "NikosKatrakoulis",
@@ -2839,7 +3041,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 203,
-    "score": 1198
+    "score": 1198,
+    "globalRank": 29468
   },
   {
     "login": "gmponos",
@@ -2853,7 +3056,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 204,
-    "score": 120
+    "score": 120,
+    "globalRank": 29673
   },
   {
     "login": "kabasakalis",
@@ -2867,7 +3071,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 205,
-    "score": 120
+    "score": 120,
+    "globalRank": 29674
   },
   {
     "login": "Nikitas-io",
@@ -2881,7 +3086,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 206,
-    "score": 954
+    "score": 954,
+    "globalRank": 29866
   },
   {
     "login": "SudoPlz",
@@ -2895,7 +3101,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 207,
-    "score": 1007
+    "score": 1007,
+    "globalRank": 29867
   },
   {
     "login": "0xInception",
@@ -2909,7 +3116,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 208,
-    "score": 404
+    "score": 404,
+    "globalRank": 29868
   },
   {
     "login": "dzervas",
@@ -2923,7 +3131,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 209,
-    "score": 2749
+    "score": 2749,
+    "globalRank": 30057
   },
   {
     "login": "teo-tsirpanis",
@@ -2937,7 +3146,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 210,
-    "score": 1482
+    "score": 1482,
+    "globalRank": 30058
   },
   {
     "login": "proditis",
@@ -2951,7 +3161,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 211,
-    "score": 2015
+    "score": 2015,
+    "globalRank": 30059
   },
   {
     "login": "MarieGutiz",
@@ -2965,7 +3176,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 212,
-    "score": 823
+    "score": 823,
+    "globalRank": 30060
   },
   {
     "login": "j8n",
@@ -2979,7 +3191,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 213,
-    "score": 119
+    "score": 119,
+    "globalRank": 30267
   },
   {
     "login": "octoper",
@@ -2993,7 +3206,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 214,
-    "score": 2244
+    "score": 2244,
+    "globalRank": 30268
   },
   {
     "login": "tpaschalis",
@@ -3007,7 +3221,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 215,
-    "score": 1370
+    "score": 1370,
+    "globalRank": 30269
   },
   {
     "login": "esarafianou",
@@ -3021,7 +3236,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 216,
-    "score": 880
+    "score": 880,
+    "globalRank": 30475
   },
   {
     "login": "OFFTKP",
@@ -3035,7 +3251,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 217,
-    "score": 1589
+    "score": 1589,
+    "globalRank": 30476
   },
   {
     "login": "georgesimos",
@@ -3049,7 +3266,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 218,
-    "score": 255
+    "score": 255,
+    "globalRank": 30477
   },
   {
     "login": "tsadimas",
@@ -3063,7 +3281,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 219,
-    "score": 222
+    "score": 222,
+    "globalRank": 30478
   },
   {
     "login": "dragonGR",
@@ -3077,7 +3296,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 220,
-    "score": 5775
+    "score": 5775,
+    "globalRank": 30479
   },
   {
     "login": "kongr45gpen",
@@ -3091,7 +3311,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 221,
-    "score": 393
+    "score": 393,
+    "globalRank": 30709
   },
   {
     "login": "Spasi",
@@ -3105,7 +3326,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 222,
-    "score": 832
+    "score": 832,
+    "globalRank": 30710
   },
   {
     "login": "kargig",
@@ -3119,7 +3341,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 223,
-    "score": 1334
+    "score": 1334,
+    "globalRank": 30711
   },
   {
     "login": "g-laliotis",
@@ -3133,7 +3356,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 224,
-    "score": 512
+    "score": 512,
+    "globalRank": 30928
   },
   {
     "login": "elajnabe",
@@ -3147,7 +3371,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 225,
-    "score": 765
+    "score": 765,
+    "globalRank": 31156
   },
   {
     "login": "jimfilippou",
@@ -3161,7 +3386,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 226,
-    "score": 488
+    "score": 488,
+    "globalRank": 31157
   },
   {
     "login": "brightio",
@@ -3175,7 +3401,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 227,
-    "score": 240
+    "score": 240,
+    "globalRank": 31158
   },
   {
     "login": "akatsoulas",
@@ -3189,7 +3416,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 228,
-    "score": 1747
+    "score": 1747,
+    "globalRank": 31360
   },
   {
     "login": "abyssum",
@@ -3203,7 +3431,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 229,
-    "score": 151
+    "score": 151,
+    "globalRank": 31361
   },
   {
     "login": "Cranot",
@@ -3217,7 +3446,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 230,
-    "score": 9674
+    "score": 9674,
+    "globalRank": 31362
   },
   {
     "login": "wallymathieu",
@@ -3231,7 +3461,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 231,
-    "score": 1510
+    "score": 1510,
+    "globalRank": 31363
   },
   {
     "login": "papamarkou",
@@ -3245,7 +3476,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 232,
-    "score": 162
+    "score": 162,
+    "globalRank": 31614
   },
   {
     "login": "ctrochalakis",
@@ -3259,7 +3491,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 233,
-    "score": 224
+    "score": 224,
+    "globalRank": 31615
   },
   {
     "login": "michaelkolesidis",
@@ -3273,7 +3506,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 234,
-    "score": 280138
+    "score": 280138,
+    "globalRank": 31859
   },
   {
     "login": "magsol",
@@ -3287,7 +3521,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 235,
-    "score": 183
+    "score": 183,
+    "globalRank": 31860
   },
   {
     "login": "leombastos",
@@ -3301,7 +3536,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 236,
-    "score": 166
+    "score": 166,
+    "globalRank": 31861
   },
   {
     "login": "Codeh4ck",
@@ -3315,7 +3551,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 237,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 32105
   },
   {
     "login": "markpapadakis",
@@ -3329,7 +3566,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 238,
-    "score": 109
+    "score": 109,
+    "globalRank": 32106
   },
   {
     "login": "OrfeasZ",
@@ -3343,7 +3581,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 239,
-    "score": 1401
+    "score": 1401,
+    "globalRank": 32348
   },
   {
     "login": "Antwnis",
@@ -3357,7 +3596,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 240,
-    "score": 108
+    "score": 108,
+    "globalRank": 32349
   },
   {
     "login": "geooo109",
@@ -3371,7 +3611,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 241,
-    "score": 1278
+    "score": 1278,
+    "globalRank": 32545
   },
   {
     "login": "nitria",
@@ -3385,7 +3626,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 242,
-    "score": 107
+    "score": 107,
+    "globalRank": 32546
   },
   {
     "login": "teohaik",
@@ -3399,7 +3641,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 243,
-    "score": 437
+    "score": 437,
+    "globalRank": 32547
   },
   {
     "login": "Reckonyd",
@@ -3413,7 +3656,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 244,
-    "score": 213
+    "score": 213,
+    "globalRank": 32548
   },
   {
     "login": "johndel",
@@ -3427,7 +3671,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 245,
-    "score": 3698
+    "score": 3698,
+    "globalRank": 32549
   },
   {
     "login": "ppapapetrou76",
@@ -3441,7 +3686,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 246,
-    "score": 912
+    "score": 912,
+    "globalRank": 32788
   },
   {
     "login": "AAndyProgram",
@@ -3455,7 +3701,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 247,
-    "score": 120
+    "score": 120,
+    "globalRank": 33014
   },
   {
     "login": "billsioros",
@@ -3469,7 +3716,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 248,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 33015
   },
   {
     "login": "vissarion",
@@ -3483,7 +3731,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 249,
-    "score": 319
+    "score": 319,
+    "globalRank": 33251
   },
   {
     "login": "Serasidis",
@@ -3497,7 +3746,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 250,
-    "score": 106
+    "score": 106,
+    "globalRank": 33252
   },
   {
     "login": "shresthagrawal",
@@ -3511,7 +3761,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 251,
-    "score": 249
+    "score": 249,
+    "globalRank": 33502
   },
   {
     "login": "jimkont",
@@ -3525,7 +3776,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 252,
-    "score": 558
+    "score": 558,
+    "globalRank": 33503
   },
   {
     "login": "gioiliop7",
@@ -3539,7 +3791,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 253,
-    "score": 457
+    "score": 457,
+    "globalRank": 33798
   },
   {
     "login": "JimiC",
@@ -3553,7 +3806,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 254,
-    "score": 123
+    "score": 123,
+    "globalRank": 33799
   },
   {
     "login": "HarryKing87",
@@ -3567,7 +3821,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 255,
-    "score": 576
+    "score": 576,
+    "globalRank": 34071
   },
   {
     "login": "margaritis",
@@ -3581,7 +3836,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 256,
-    "score": 422
+    "score": 422,
+    "globalRank": 34072
   },
   {
     "login": "johncodeos",
@@ -3595,7 +3851,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 257,
-    "score": 110
+    "score": 110,
+    "globalRank": 34073
   },
   {
     "login": "okinp",
@@ -3609,7 +3866,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 258,
-    "score": 106
+    "score": 106,
+    "globalRank": 34074
   },
   {
     "login": "mmick66",
@@ -3623,7 +3881,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 259,
-    "score": 1137
+    "score": 1137,
+    "globalRank": 34294
   },
   {
     "login": "Kava4",
@@ -3637,7 +3896,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 260,
-    "score": 181
+    "score": 181,
+    "globalRank": 34295
   },
   {
     "login": "Nikoloutsos",
@@ -3651,7 +3911,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 261,
-    "score": 120
+    "score": 120,
+    "globalRank": 34504
   },
   {
     "login": "Erethon",
@@ -3665,7 +3926,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 262,
-    "score": 446
+    "score": 446,
+    "globalRank": 34505
   },
   {
     "login": "mikezaby",
@@ -3679,7 +3941,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 263,
-    "score": 930
+    "score": 930,
+    "globalRank": 34506
   },
   {
     "login": "gkastrinis",
@@ -3693,7 +3956,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 264,
-    "score": 1466
+    "score": 1466,
+    "globalRank": 34507
   },
   {
     "login": "lianastavrou",
@@ -3707,7 +3971,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 265,
-    "score": 112
+    "score": 112,
+    "globalRank": 34508
   },
   {
     "login": "clockworkgr",
@@ -3721,7 +3986,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 266,
-    "score": 1543
+    "score": 1543,
+    "globalRank": 34751
   },
   {
     "login": "srekoble",
@@ -3735,7 +4001,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 267,
-    "score": 478
+    "score": 478,
+    "globalRank": 34752
   },
   {
     "login": "chrisdukakis",
@@ -3749,7 +4016,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 268,
-    "score": 102
+    "score": 102,
+    "globalRank": 34753
   },
   {
     "login": "pespantelis",
@@ -3763,7 +4031,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 269,
-    "score": 543
+    "score": 543,
+    "globalRank": 35009
   },
   {
     "login": "jonian",
@@ -3777,7 +4046,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 270,
-    "score": 241
+    "score": 241,
+    "globalRank": 35010
   },
   {
     "login": "PanagiotisDrakatos",
@@ -3791,7 +4061,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 271,
-    "score": 184
+    "score": 184,
+    "globalRank": 35011
   },
   {
     "login": "tkouts",
@@ -3805,7 +4076,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 272,
-    "score": 300
+    "score": 300,
+    "globalRank": 35257
   },
   {
     "login": "petrosbountis",
@@ -3819,7 +4091,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 273,
-    "score": 96
+    "score": 96,
+    "globalRank": 35258
   },
   {
     "login": "bekos",
@@ -3833,7 +4106,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 274,
-    "score": 6381
+    "score": 6381,
+    "globalRank": 35259
   },
   {
     "login": "gtsiolis",
@@ -3847,7 +4121,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 275,
-    "score": 608
+    "score": 608,
+    "globalRank": 35260
   },
   {
     "login": "sp1thas",
@@ -3861,7 +4136,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 276,
-    "score": 159
+    "score": 159,
+    "globalRank": 35261
   },
   {
     "login": "frizchar",
@@ -3875,7 +4151,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 277,
-    "score": 211
+    "score": 211,
+    "globalRank": 35262
   },
   {
     "login": "leemcpeters92",
@@ -3889,7 +4166,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 278,
-    "score": 175
+    "score": 175,
+    "globalRank": 35263
   },
   {
     "login": "chrisvel",
@@ -3903,7 +4181,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 279,
-    "score": 1811
+    "score": 1811,
+    "globalRank": 35512
   },
   {
     "login": "tilemachoscfu",
@@ -3917,7 +4196,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 280,
-    "score": 95
+    "score": 95,
+    "globalRank": 35513
   },
   {
     "login": "GramThanos",
@@ -3931,7 +4211,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 281,
-    "score": 270
+    "score": 270,
+    "globalRank": 35765
   },
   {
     "login": "papaemman",
@@ -3945,7 +4226,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 282,
-    "score": 370
+    "score": 370,
+    "globalRank": 35766
   },
   {
     "login": "th3hunt",
@@ -3959,7 +4241,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 283,
-    "score": 983
+    "score": 983,
+    "globalRank": 35767
   },
   {
     "login": "netgfx",
@@ -3973,7 +4256,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 284,
-    "score": 165
+    "score": 165,
+    "globalRank": 35768
   },
   {
     "login": "Alamot",
@@ -3987,7 +4271,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 285,
-    "score": 99
+    "score": 99,
+    "globalRank": 36025
   },
   {
     "login": "noelkoutlis",
@@ -4001,7 +4286,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 286,
-    "score": 93
+    "score": 93,
+    "globalRank": 36026
   },
   {
     "login": "d-michail",
@@ -4015,7 +4301,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 287,
-    "score": 123
+    "score": 123,
+    "globalRank": 36299
   },
   {
     "login": "Panos32gr",
@@ -4029,7 +4316,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 288,
-    "score": 129
+    "score": 129,
+    "globalRank": 36300
   },
   {
     "login": "AlexPeti",
@@ -4043,7 +4331,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 289,
-    "score": 101
+    "score": 101,
+    "globalRank": 36301
   },
   {
     "login": "mepcotterell",
@@ -4057,7 +4346,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 290,
-    "score": 1099
+    "score": 1099,
+    "globalRank": 36569
   },
   {
     "login": "tlatsas",
@@ -4071,7 +4361,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 291,
-    "score": 2760
+    "score": 2760,
+    "globalRank": 36831
   },
   {
     "login": "tsourolampis",
@@ -4085,7 +4376,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 292,
-    "score": 241
+    "score": 241,
+    "globalRank": 36832
   },
   {
     "login": "AlexandrosKyriakakis",
@@ -4099,7 +4391,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 293,
-    "score": 1515
+    "score": 1515,
+    "globalRank": 36833
   },
   {
     "login": "alkisg",
@@ -4113,7 +4406,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 294,
-    "score": 183
+    "score": 183,
+    "globalRank": 36834
   },
   {
     "login": "farmaker47",
@@ -4127,7 +4421,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 295,
-    "score": 309
+    "score": 309,
+    "globalRank": 36835
   },
   {
     "login": "etsardou",
@@ -4141,7 +4436,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 296,
-    "score": 622
+    "score": 622,
+    "globalRank": 37105
   },
   {
     "login": "xabikos",
@@ -4155,7 +4451,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 297,
-    "score": 96
+    "score": 96,
+    "globalRank": 37106
   },
   {
     "login": "1nikolas",
@@ -4169,7 +4466,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 298,
-    "score": 492
+    "score": 492,
+    "globalRank": 37107
   },
   {
     "login": "elkos",
@@ -4183,7 +4481,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 299,
-    "score": 89
+    "score": 89,
+    "globalRank": 37108
   },
   {
     "login": "lvrach",
@@ -4197,7 +4496,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 300,
-    "score": 2163
+    "score": 2163,
+    "globalRank": 37417
   },
   {
     "login": "georgepar",
@@ -4211,7 +4511,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 301,
-    "score": 157
+    "score": 157,
+    "globalRank": 37418
   },
   {
     "login": "adreaskar",
@@ -4225,7 +4526,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 302,
-    "score": 451
+    "score": 451,
+    "globalRank": 37719
   },
   {
     "login": "Vivecstel",
@@ -4239,7 +4541,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 303,
-    "score": 405
+    "score": 405,
+    "globalRank": 37720
   },
   {
     "login": "gprok",
@@ -4253,7 +4556,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 304,
-    "score": 248
+    "score": 248,
+    "globalRank": 38007
   },
   {
     "login": "IronistM",
@@ -4267,7 +4571,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 305,
-    "score": 211
+    "score": 211,
+    "globalRank": 38008
   },
   {
     "login": "dmatsanganis",
@@ -4281,7 +4586,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 306,
-    "score": 351
+    "score": 351,
+    "globalRank": 38009
   },
   {
     "login": "dk-raw",
@@ -4295,7 +4601,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 307,
-    "score": 108
+    "score": 108,
+    "globalRank": 38307
   },
   {
     "login": "eldimious",
@@ -4309,7 +4616,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 308,
-    "score": 1910
+    "score": 1910,
+    "globalRank": 38308
   },
   {
     "login": "johnzaro",
@@ -4323,7 +4631,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 309,
-    "score": 2853
+    "score": 2853,
+    "globalRank": 38309
   },
   {
     "login": "MichaelDim02",
@@ -4337,7 +4646,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 310,
-    "score": 91
+    "score": 91,
+    "globalRank": 38310
   },
   {
     "login": "cherouvim",
@@ -4351,7 +4661,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 311,
-    "score": 290
+    "score": 290,
+    "globalRank": 38311
   },
   {
     "login": "buraktamturk",
@@ -4365,7 +4676,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 312,
-    "score": 160
+    "score": 160,
+    "globalRank": 38312
   },
   {
     "login": "avgerin0s",
@@ -4379,7 +4691,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 313,
-    "score": 1072
+    "score": 1072,
+    "globalRank": 38616
   },
   {
     "login": "ljanastas",
@@ -4393,7 +4706,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 314,
-    "score": 84
+    "score": 84,
+    "globalRank": 38617
   },
   {
     "login": "deltaclock",
@@ -4407,7 +4721,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 315,
-    "score": 143
+    "score": 143,
+    "globalRank": 38618
   },
   {
     "login": "christosporios",
@@ -4421,7 +4736,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 316,
-    "score": 897
+    "score": 897,
+    "globalRank": 38619
   },
   {
     "login": "petrosDemetrakopoulos",
@@ -4435,7 +4751,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 317,
-    "score": 1088
+    "score": 1088,
+    "globalRank": 38933
   },
   {
     "login": "thanosgn",
@@ -4449,7 +4766,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 318,
-    "score": 380
+    "score": 380,
+    "globalRank": 38934
   },
   {
     "login": "christodoulos",
@@ -4463,7 +4781,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 319,
-    "score": 83
+    "score": 83,
+    "globalRank": 38935
   },
   {
     "login": "matentzn",
@@ -4477,7 +4796,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 320,
-    "score": 3592
+    "score": 3592,
+    "globalRank": 38936
   },
   {
     "login": "atzorvas",
@@ -4491,7 +4811,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 321,
-    "score": 488
+    "score": 488,
+    "globalRank": 38937
   },
   {
     "login": "boubounokefalos",
@@ -4505,7 +4826,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 322,
-    "score": 120
+    "score": 120,
+    "globalRank": 38938
   },
   {
     "login": "dimlev",
@@ -4519,7 +4841,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 323,
-    "score": 99
+    "score": 99,
+    "globalRank": 38939
   },
   {
     "login": "svagionitis",
@@ -4533,7 +4856,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 324,
-    "score": 110
+    "score": 110,
+    "globalRank": 38940
   },
   {
     "login": "tgkarounos",
@@ -4547,7 +4871,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 325,
-    "score": 88
+    "score": 88,
+    "globalRank": 39267
   },
   {
     "login": "marioskanaris",
@@ -4561,7 +4886,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 326,
-    "score": 82
+    "score": 82,
+    "globalRank": 39268
   },
   {
     "login": "Undisputed00x",
@@ -4575,7 +4901,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 327,
-    "score": 131
+    "score": 131,
+    "globalRank": 39269
   },
   {
     "login": "GiwrgosGln",
@@ -4589,7 +4916,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 328,
-    "score": 686
+    "score": 686,
+    "globalRank": 39270
   },
   {
     "login": "nohponex",
@@ -4603,7 +4931,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 329,
-    "score": 2769
+    "score": 2769,
+    "globalRank": 39271
   },
   {
     "login": "fedonman",
@@ -4617,7 +4946,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 330,
-    "score": 689
+    "score": 689,
+    "globalRank": 39272
   },
   {
     "login": "Theofilos-Chamalis",
@@ -4631,7 +4961,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 331,
-    "score": 452
+    "score": 452,
+    "globalRank": 39273
   },
   {
     "login": "SokratisVidros",
@@ -4645,7 +4976,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 332,
-    "score": 2912
+    "score": 2912,
+    "globalRank": 39597
   },
   {
     "login": "spkal01",
@@ -4659,7 +4991,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 333,
-    "score": 831
+    "score": 831,
+    "globalRank": 39598
   },
   {
     "login": "kpatronas",
@@ -4673,7 +5006,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 334,
-    "score": 102
+    "score": 102,
+    "globalRank": 39599
   },
   {
     "login": "nasservb",
@@ -4687,7 +5021,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 335,
-    "score": 163
+    "score": 163,
+    "globalRank": 39600
   },
   {
     "login": "glls",
@@ -4701,7 +5036,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 336,
-    "score": 843
+    "score": 843,
+    "globalRank": 39934
   },
   {
     "login": "birbilis",
@@ -4715,7 +5051,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 337,
-    "score": 745
+    "score": 745,
+    "globalRank": 39935
   },
   {
     "login": "cosmix",
@@ -4729,7 +5066,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 338,
-    "score": 4590
+    "score": 4590,
+    "globalRank": 39936
   },
   {
     "login": "Erenk1412",
@@ -4743,7 +5081,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 339,
-    "score": 80
+    "score": 80,
+    "globalRank": 39937
   },
   {
     "login": "ntemposd",
@@ -4757,7 +5096,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 340,
-    "score": 427
+    "score": 427,
+    "globalRank": 39938
   },
   {
     "login": "djib2011",
@@ -4771,7 +5111,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 341,
-    "score": 128
+    "score": 128,
+    "globalRank": 39939
   },
   {
     "login": "charkost",
@@ -4785,7 +5126,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 342,
-    "score": 616
+    "score": 616,
+    "globalRank": 39940
   },
   {
     "login": "charbgr",
@@ -4799,7 +5141,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 343,
-    "score": 1232
+    "score": 1232,
+    "globalRank": 40258
   },
   {
     "login": "Papadope-zz",
@@ -4813,7 +5156,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 344,
-    "score": 79
+    "score": 79,
+    "globalRank": 40259
   },
   {
     "login": "Griglad",
@@ -4827,7 +5171,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 345,
-    "score": 79
+    "score": 79,
+    "globalRank": 40260
   },
   {
     "login": "gsaslis",
@@ -4841,7 +5186,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 346,
-    "score": 434
+    "score": 434,
+    "globalRank": 40261
   },
   {
     "login": "apostoiis",
@@ -4855,7 +5201,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 347,
-    "score": 108
+    "score": 108,
+    "globalRank": 40262
   },
   {
     "login": "calmsacibis995",
@@ -4869,7 +5216,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 348,
-    "score": 269
+    "score": 269,
+    "globalRank": 40263
   },
   {
     "login": "turri21",
@@ -4883,7 +5231,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 349,
-    "score": 5152
+    "score": 5152,
+    "globalRank": 40264
   },
   {
     "login": "anselal",
@@ -4897,7 +5246,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 350,
-    "score": 142
+    "score": 142,
+    "globalRank": 40571
   },
   {
     "login": "tsironis",
@@ -4911,7 +5261,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 351,
-    "score": 498
+    "score": 498,
+    "globalRank": 40572
   },
   {
     "login": "gkagklo",
@@ -4925,7 +5276,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 352,
-    "score": 78
+    "score": 78,
+    "globalRank": 40573
   },
   {
     "login": "NikolasGialitsis",
@@ -4939,7 +5291,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 353,
-    "score": 331
+    "score": 331,
+    "globalRank": 40574
   },
   {
     "login": "MaryRichelle",
@@ -4953,7 +5306,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 354,
-    "score": 114
+    "score": 114,
+    "globalRank": 40859
   },
   {
     "login": "ilias-ant",
@@ -4967,7 +5321,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 355,
-    "score": 263
+    "score": 263,
+    "globalRank": 40860
   },
   {
     "login": "limouren2000",
@@ -4981,7 +5336,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 356,
-    "score": 150
+    "score": 150,
+    "globalRank": 40861
   },
   {
     "login": "theofilis",
@@ -4995,7 +5351,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 357,
-    "score": 456
+    "score": 456,
+    "globalRank": 40862
   },
   {
     "login": "SpyrosLefkaditis",
@@ -5009,7 +5366,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 358,
-    "score": 133
+    "score": 133,
+    "globalRank": 40863
   },
   {
     "login": "ntsekouras",
@@ -5023,7 +5381,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 359,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 40864
   },
   {
     "login": "mkechagia",
@@ -5037,7 +5396,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 360,
-    "score": 140
+    "score": 140,
+    "globalRank": 40865
   },
   {
     "login": "georgedouzas",
@@ -5051,7 +5411,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 361,
-    "score": 193
+    "score": 193,
+    "globalRank": 41147
   },
   {
     "login": "vasloui",
@@ -5065,7 +5426,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 362,
-    "score": 77
+    "score": 77,
+    "globalRank": 41148
   },
   {
     "login": "kx0101",
@@ -5079,7 +5441,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 363,
-    "score": 945
+    "score": 945,
+    "globalRank": 41149
   },
   {
     "login": "anantoni",
@@ -5093,7 +5456,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 364,
-    "score": 355
+    "score": 355,
+    "globalRank": 41150
   },
   {
     "login": "kotrotskon",
@@ -5107,7 +5471,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 365,
-    "score": 76
+    "score": 76,
+    "globalRank": 41151
   },
   {
     "login": "ebarakos",
@@ -5121,7 +5486,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 366,
-    "score": 523
+    "score": 523,
+    "globalRank": 41436
   },
   {
     "login": "jackkolokasis",
@@ -5135,7 +5501,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 367,
-    "score": 583
+    "score": 583,
+    "globalRank": 41437
   },
   {
     "login": "pontikis",
@@ -5149,7 +5516,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 368,
-    "score": 921
+    "score": 921,
+    "globalRank": 41438
   },
   {
     "login": "dmtrs",
@@ -5163,7 +5531,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 369,
-    "score": 1838
+    "score": 1838,
+    "globalRank": 41439
   },
   {
     "login": "macnick",
@@ -5177,7 +5546,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 370,
-    "score": 296
+    "score": 296,
+    "globalRank": 41440
   },
   {
     "login": "kosmastsk",
@@ -5191,7 +5561,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 371,
-    "score": 79
+    "score": 79,
+    "globalRank": 41441
   },
   {
     "login": "tsanikgr",
@@ -5205,7 +5576,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 372,
-    "score": 2093
+    "score": 2093,
+    "globalRank": 41770
   },
   {
     "login": "varemenos",
@@ -5219,7 +5591,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 373,
-    "score": 91
+    "score": 91,
+    "globalRank": 41771
   },
   {
     "login": "drazioti",
@@ -5233,7 +5606,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 374,
-    "score": 176
+    "score": 176,
+    "globalRank": 41772
   },
   {
     "login": "andefined",
@@ -5247,7 +5621,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 375,
-    "score": 715
+    "score": 715,
+    "globalRank": 41773
   },
   {
     "login": "the-rectifier",
@@ -5261,7 +5636,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 376,
-    "score": 186
+    "score": 186,
+    "globalRank": 42067
   },
   {
     "login": "ziogaschr",
@@ -5275,7 +5651,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 377,
-    "score": 5210
+    "score": 5210,
+    "globalRank": 42068
   },
   {
     "login": "sobit-nep",
@@ -5289,7 +5666,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 378,
-    "score": 156
+    "score": 156,
+    "globalRank": 42069
   },
   {
     "login": "Omer1977",
@@ -5303,7 +5681,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 379,
-    "score": 78
+    "score": 78,
+    "globalRank": 42070
   },
   {
     "login": "themicp",
@@ -5317,7 +5696,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 380,
-    "score": 951
+    "score": 951,
+    "globalRank": 42071
   },
   {
     "login": "evagian",
@@ -5331,7 +5711,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 381,
-    "score": 503
+    "score": 503,
+    "globalRank": 42072
   },
   {
     "login": "ioannisa",
@@ -5345,7 +5726,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 382,
-    "score": 388
+    "score": 388,
+    "globalRank": 42073
   },
   {
     "login": "gkakogeorgiou",
@@ -5359,7 +5741,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 383,
-    "score": 178
+    "score": 178,
+    "globalRank": 42074
   },
   {
     "login": "vdw",
@@ -5373,7 +5756,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 384,
-    "score": 1065
+    "score": 1065,
+    "globalRank": 42409
   },
   {
     "login": "kyrcha",
@@ -5387,7 +5771,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 385,
-    "score": 469
+    "score": 469,
+    "globalRank": 42410
   },
   {
     "login": "falexandrou",
@@ -5401,7 +5786,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 386,
-    "score": 1316
+    "score": 1316,
+    "globalRank": 42411
   },
   {
     "login": "AlexandrosPanag",
@@ -5415,7 +5801,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 387,
-    "score": 800
+    "score": 800,
+    "globalRank": 42412
   },
   {
     "login": "AndyFou",
@@ -5429,7 +5816,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 388,
-    "score": 109
+    "score": 109,
+    "globalRank": 42413
   },
   {
     "login": "yiannist",
@@ -5443,7 +5831,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 389,
-    "score": 72
+    "score": 72,
+    "globalRank": 42414
   },
   {
     "login": "Argyro-Sioziou",
@@ -5457,7 +5846,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 390,
-    "score": 72
+    "score": 72,
+    "globalRank": 42415
   },
   {
     "login": "keybraker",
@@ -5471,7 +5861,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 391,
-    "score": 942
+    "score": 942,
+    "globalRank": 42416
   },
   {
     "login": "panosru",
@@ -5485,7 +5876,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 392,
-    "score": 1294
+    "score": 1294,
+    "globalRank": 42712
   },
   {
     "login": "NikV2",
@@ -5499,7 +5891,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 393,
-    "score": 120
+    "score": 120,
+    "globalRank": 42713
   },
   {
     "login": "apostolos",
@@ -5513,7 +5906,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 394,
-    "score": 1926
+    "score": 1926,
+    "globalRank": 42714
   },
   {
     "login": "stratosk",
@@ -5527,7 +5921,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 395,
-    "score": 71
+    "score": 71,
+    "globalRank": 42715
   },
   {
     "login": "cvasilak",
@@ -5541,7 +5936,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 396,
-    "score": 77
+    "score": 77,
+    "globalRank": 42716
   },
   {
     "login": "pkakelas",
@@ -5555,7 +5951,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 397,
-    "score": 842
+    "score": 842,
+    "globalRank": 42717
   },
   {
     "login": "penglezos",
@@ -5569,7 +5966,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 398,
-    "score": 3682
+    "score": 3682,
+    "globalRank": 42718
   },
   {
     "login": "NickSklA",
@@ -5583,7 +5981,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 399,
-    "score": 272
+    "score": 272,
+    "globalRank": 42719
   },
   {
     "login": "fakiolinho",
@@ -5597,7 +5996,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 400,
-    "score": 344
+    "score": 344,
+    "globalRank": 42720
   },
   {
     "login": "fpsom",
@@ -5611,7 +6011,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 401,
-    "score": 195
+    "score": 195,
+    "globalRank": 42721
   },
   {
     "login": "nikosd",
@@ -5625,7 +6026,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 402,
-    "score": 71
+    "score": 71,
+    "globalRank": 42722
   },
   {
     "login": "tech-gian",
@@ -5639,7 +6041,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 403,
-    "score": 807
+    "score": 807,
+    "globalRank": 42723
   },
   {
     "login": "andreashandel",
@@ -5653,7 +6056,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 404,
-    "score": 414
+    "score": 414,
+    "globalRank": 42724
   },
   {
     "login": "ChrsMark",
@@ -5667,7 +6071,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 405,
-    "score": 2316
+    "score": 2316,
+    "globalRank": 42725
   },
   {
     "login": "ipavlopoulos",
@@ -5681,7 +6086,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 406,
-    "score": 368
+    "score": 368,
+    "globalRank": 42726
   },
   {
     "login": "pmoust",
@@ -5695,7 +6101,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 407,
-    "score": 2938
+    "score": 2938,
+    "globalRank": 42727
   },
   {
     "login": "papas8105",
@@ -5709,7 +6116,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 408,
-    "score": 70
+    "score": 70,
+    "globalRank": 43046
   },
   {
     "login": "filby89",
@@ -5723,7 +6131,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 409,
-    "score": 199
+    "score": 199,
+    "globalRank": 43047
   },
   {
     "login": "PanosJee",
@@ -5737,7 +6146,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 410,
-    "score": 70
+    "score": 70,
+    "globalRank": 43048
   },
   {
     "login": "aspil",
@@ -5751,7 +6161,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 411,
-    "score": 295
+    "score": 295,
+    "globalRank": 43049
   },
   {
     "login": "tkouleris",
@@ -5765,7 +6176,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 412,
-    "score": 1211
+    "score": 1211,
+    "globalRank": 43050
   },
   {
     "login": "ngkogkos",
@@ -5779,7 +6191,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 413,
-    "score": 69
+    "score": 69,
+    "globalRank": 43373
   },
   {
     "login": "SeijinD",
@@ -5793,7 +6206,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 414,
-    "score": 592
+    "score": 592,
+    "globalRank": 43374
   },
   {
     "login": "Stamanos",
@@ -5807,7 +6221,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 415,
-    "score": 96
+    "score": 96,
+    "globalRank": 43375
   },
   {
     "login": "AriannaK97",
@@ -5821,7 +6236,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 416,
-    "score": 73
+    "score": 73,
+    "globalRank": 43376
   },
   {
     "login": "phaistonian",
@@ -5835,7 +6251,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 417,
-    "score": 93
+    "score": 93,
+    "globalRank": 43377
   },
   {
     "login": "GeorgeLS",
@@ -5849,7 +6266,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 418,
-    "score": 549
+    "score": 549,
+    "globalRank": 43378
   },
   {
     "login": "olibia",
@@ -5863,7 +6281,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 419,
-    "score": 69
+    "score": 69,
+    "globalRank": 43722
   },
   {
     "login": "manospsyx",
@@ -5877,7 +6296,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 420,
-    "score": 68
+    "score": 68,
+    "globalRank": 43723
   },
   {
     "login": "KonstantinosF",
@@ -5891,7 +6311,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 421,
-    "score": 71
+    "score": 71,
+    "globalRank": 43724
   },
   {
     "login": "katsos",
@@ -5905,7 +6326,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 422,
-    "score": 69
+    "score": 69,
+    "globalRank": 43725
   },
   {
     "login": "jasonmanesis",
@@ -5919,7 +6341,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 423,
-    "score": 779
+    "score": 779,
+    "globalRank": 43726
   },
   {
     "login": "disarmed3",
@@ -5933,7 +6356,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 424,
-    "score": 89
+    "score": 89,
+    "globalRank": 43727
   },
   {
     "login": "DamMarin",
@@ -5947,7 +6371,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 425,
-    "score": 2456
+    "score": 2456,
+    "globalRank": 43728
   },
   {
     "login": "lefterisloukas",
@@ -5961,7 +6386,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 426,
-    "score": 675
+    "score": 675,
+    "globalRank": 43729
   },
   {
     "login": "MediaBilly",
@@ -5975,7 +6401,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 427,
-    "score": 85
+    "score": 85,
+    "globalRank": 44095
   },
   {
     "login": "Manosgou",
@@ -5989,7 +6416,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 428,
-    "score": 348
+    "score": 348,
+    "globalRank": 44096
   },
   {
     "login": "harkal",
@@ -6003,7 +6431,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 429,
-    "score": 1203
+    "score": 1203,
+    "globalRank": 44097
   },
   {
     "login": "rakeden",
@@ -6017,7 +6446,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 430,
-    "score": 538
+    "score": 538,
+    "globalRank": 44098
   },
   {
     "login": "cyberpython",
@@ -6031,7 +6461,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 431,
-    "score": 87
+    "score": 87,
+    "globalRank": 44099
   },
   {
     "login": "NikosDelijohn",
@@ -6045,7 +6476,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 432,
-    "score": 214
+    "score": 214,
+    "globalRank": 44100
   },
   {
     "login": "ac-webdesign",
@@ -6059,7 +6491,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 433,
-    "score": 82
+    "score": 82,
+    "globalRank": 44461
   },
   {
     "login": "eliaskousk",
@@ -6073,7 +6506,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 434,
-    "score": 78
+    "score": 78,
+    "globalRank": 44462
   },
   {
     "login": "kasketis",
@@ -6087,7 +6521,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 435,
-    "score": 687
+    "score": 687,
+    "globalRank": 44463
   },
   {
     "login": "dpoulopoulos",
@@ -6101,7 +6536,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 436,
-    "score": 1388
+    "score": 1388,
+    "globalRank": 44464
   },
   {
     "login": "jimmykarily",
@@ -6115,7 +6551,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 437,
-    "score": 1187
+    "score": 1187,
+    "globalRank": 44465
   },
   {
     "login": "arminamirinasab",
@@ -6129,7 +6566,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 438,
-    "score": 122
+    "score": 122,
+    "globalRank": 44466
   },
   {
     "login": "ChryssaAliferi",
@@ -6143,7 +6581,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 439,
-    "score": 1157
+    "score": 1157,
+    "globalRank": 44467
   },
   {
     "login": "Myrto-Inglezou",
@@ -6157,7 +6596,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 440,
-    "score": 73
+    "score": 73,
+    "globalRank": 44468
   },
   {
     "login": "VisionR1",
@@ -6171,7 +6611,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 441,
-    "score": 300
+    "score": 300,
+    "globalRank": 44469
   },
   {
     "login": "paravoid",
@@ -6185,7 +6626,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 442,
-    "score": 96
+    "score": 96,
+    "globalRank": 44470
   },
   {
     "login": "zkotti",
@@ -6199,7 +6641,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 443,
-    "score": 275
+    "score": 275,
+    "globalRank": 44856
   },
   {
     "login": "wallace",
@@ -6213,7 +6656,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 444,
-    "score": 998
+    "score": 998,
+    "globalRank": 44857
   },
   {
     "login": "ikiranis",
@@ -6227,7 +6671,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 445,
-    "score": 2583
+    "score": 2583,
+    "globalRank": 44858
   },
   {
     "login": "momegas",
@@ -6241,7 +6686,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 446,
-    "score": 401
+    "score": 401,
+    "globalRank": 44859
   },
   {
     "login": "ariskeyman",
@@ -6255,7 +6701,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 447,
-    "score": 65
+    "score": 65,
+    "globalRank": 44860
   },
   {
     "login": "sifislag",
@@ -6269,7 +6716,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 448,
-    "score": 733
+    "score": 733,
+    "globalRank": 45256
   },
   {
     "login": "panagiks",
@@ -6283,7 +6731,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 449,
-    "score": 66
+    "score": 66,
+    "globalRank": 45257
   },
   {
     "login": "math10",
@@ -6297,7 +6746,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 450,
-    "score": 86
+    "score": 86,
+    "globalRank": 45258
   },
   {
     "login": "bzafiris",
@@ -6311,7 +6761,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 451,
-    "score": 219
+    "score": 219,
+    "globalRank": 45259
   },
   {
     "login": "cmargonis",
@@ -6325,7 +6776,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 452,
-    "score": 2804
+    "score": 2804,
+    "globalRank": 45673
   },
   {
     "login": "driedtoast",
@@ -6339,7 +6791,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 453,
-    "score": 1260
+    "score": 1260,
+    "globalRank": 45674
   },
   {
     "login": "cbergman",
@@ -6353,7 +6806,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 454,
-    "score": 331
+    "score": 331,
+    "globalRank": 45675
   },
   {
     "login": "awareness481",
@@ -6367,7 +6821,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 455,
-    "score": 69
+    "score": 69,
+    "globalRank": 45676
   },
   {
     "login": "PendragonDevelopment",
@@ -6381,7 +6836,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 456,
-    "score": 1503
+    "score": 1503,
+    "globalRank": 45677
   },
   {
     "login": "CodedK",
@@ -6395,7 +6851,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 457,
-    "score": 1810
+    "score": 1810,
+    "globalRank": 45678
   },
   {
     "login": "eeVoskos",
@@ -6409,7 +6866,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 458,
-    "score": 394
+    "score": 394,
+    "globalRank": 45679
   },
   {
     "login": "georgetomzaridis",
@@ -6423,7 +6881,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 459,
-    "score": 65
+    "score": 65,
+    "globalRank": 45680
   },
   {
     "login": "import-this",
@@ -6437,7 +6896,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 460,
-    "score": 63
+    "score": 63,
+    "globalRank": 45681
   },
   {
     "login": "gtsatsis",
@@ -6451,7 +6911,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 461,
-    "score": 62
+    "score": 62,
+    "globalRank": 46088
   },
   {
     "login": "anskarl",
@@ -6465,7 +6926,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 462,
-    "score": 68
+    "score": 68,
+    "globalRank": 46089
   },
   {
     "login": "papanikge",
@@ -6479,7 +6941,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 463,
-    "score": 942
+    "score": 942,
+    "globalRank": 46090
   },
   {
     "login": "akoufa",
@@ -6493,7 +6956,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 464,
-    "score": 77
+    "score": 77,
+    "globalRank": 46091
   },
   {
     "login": "anastasop",
@@ -6507,7 +6971,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 465,
-    "score": 92
+    "score": 92,
+    "globalRank": 46092
   },
   {
     "login": "tstafylakis",
@@ -6521,7 +6986,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 466,
-    "score": 62
+    "score": 62,
+    "globalRank": 46093
   },
   {
     "login": "cfanoulis",
@@ -6535,7 +7001,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 467,
-    "score": 101
+    "score": 101,
+    "globalRank": 46094
   },
   {
     "login": "chris-kechagias",
@@ -6549,7 +7016,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 468,
-    "score": 605
+    "score": 605,
+    "globalRank": 46095
   },
   {
     "login": "jftuga",
@@ -6563,7 +7031,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 469,
-    "score": 526
+    "score": 526,
+    "globalRank": 46096
   },
   {
     "login": "akispapapanagiotou",
@@ -6577,7 +7046,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 470,
-    "score": 74
+    "score": 74,
+    "globalRank": 46097
   },
   {
     "login": "m-Peter",
@@ -6591,7 +7061,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 471,
-    "score": 703
+    "score": 703,
+    "globalRank": 46098
   },
   {
     "login": "rickychilcott",
@@ -6605,7 +7076,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 472,
-    "score": 1703
+    "score": 1703,
+    "globalRank": 46099
   },
   {
     "login": "igaster",
@@ -6619,7 +7091,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 473,
-    "score": 747
+    "score": 747,
+    "globalRank": 46100
   },
   {
     "login": "dimlucas",
@@ -6633,7 +7106,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 474,
-    "score": 3495
+    "score": 3495,
+    "globalRank": 46514
   },
   {
     "login": "navouris",
@@ -6647,7 +7121,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 475,
-    "score": 61
+    "score": 61,
+    "globalRank": 46515
   },
   {
     "login": "nkast",
@@ -6661,7 +7136,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 476,
-    "score": 691
+    "score": 691,
+    "globalRank": 46516
   },
   {
     "login": "Valen-H",
@@ -6675,7 +7151,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 477,
-    "score": 77
+    "score": 77,
+    "globalRank": 46517
   },
   {
     "login": "ekarak",
@@ -6689,7 +7166,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 478,
-    "score": 62
+    "score": 62,
+    "globalRank": 46518
   },
   {
     "login": "Kapendev",
@@ -6703,7 +7181,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 479,
-    "score": 1222
+    "score": 1222,
+    "globalRank": 46519
   },
   {
     "login": "GeoRouv",
@@ -6717,7 +7196,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 480,
-    "score": 480
+    "score": 480,
+    "globalRank": 46961
   },
   {
     "login": "aalykiot",
@@ -6731,7 +7211,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 481,
-    "score": 192
+    "score": 192,
+    "globalRank": 46962
   },
   {
     "login": "christos-P",
@@ -6745,7 +7226,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 482,
-    "score": 1186
+    "score": 1186,
+    "globalRank": 46963
   },
   {
     "login": "anodynos",
@@ -6759,7 +7241,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 483,
-    "score": 373
+    "score": 373,
+    "globalRank": 46964
   },
   {
     "login": "mantzas",
@@ -6773,7 +7256,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 484,
-    "score": 1394
+    "score": 1394,
+    "globalRank": 46965
   },
   {
     "login": "pantmal",
@@ -6787,7 +7271,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 485,
-    "score": 60
+    "score": 60,
+    "globalRank": 46966
   },
   {
     "login": "lemonidas",
@@ -6801,7 +7286,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 486,
-    "score": 79
+    "score": 79,
+    "globalRank": 46967
   },
   {
     "login": "kouts",
@@ -6815,7 +7301,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 487,
-    "score": 381
+    "score": 381,
+    "globalRank": 46968
   },
   {
     "login": "abed42",
@@ -6829,7 +7316,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 488,
-    "score": 614
+    "score": 614,
+    "globalRank": 46969
   },
   {
     "login": "fovoc",
@@ -6843,7 +7331,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 489,
-    "score": 60
+    "score": 60,
+    "globalRank": 46970
   },
   {
     "login": "Theminijohn",
@@ -6857,7 +7346,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 490,
-    "score": 511
+    "score": 511,
+    "globalRank": 46971
   },
   {
     "login": "gkalmoukis",
@@ -6871,7 +7361,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 491,
-    "score": 1412
+    "score": 1412,
+    "globalRank": 46972
   },
   {
     "login": "Effie375",
@@ -6885,7 +7376,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 492,
-    "score": 59
+    "score": 59,
+    "globalRank": 47375
   },
   {
     "login": "vlaxose",
@@ -6899,7 +7391,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 493,
-    "score": 60
+    "score": 60,
+    "globalRank": 47376
   },
   {
     "login": "matrixlord",
@@ -6913,7 +7406,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 494,
-    "score": 59
+    "score": 59,
+    "globalRank": 47377
   },
   {
     "login": "RKALM",
@@ -6927,7 +7421,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 495,
-    "score": 94
+    "score": 94,
+    "globalRank": 47378
   },
   {
     "login": "karamolegkos",
@@ -6941,7 +7436,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 496,
-    "score": 261
+    "score": 261,
+    "globalRank": 47379
   },
   {
     "login": "vagman",
@@ -6955,7 +7451,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 497,
-    "score": 540
+    "score": 540,
+    "globalRank": 47380
   },
   {
     "login": "AchillesKal",
@@ -6969,7 +7466,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 498,
-    "score": 575
+    "score": 575,
+    "globalRank": 47381
   },
   {
     "login": "kotzir",
@@ -6983,7 +7481,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 499,
-    "score": 59
+    "score": 59,
+    "globalRank": 47382
   },
   {
     "login": "xqtr",
@@ -6997,7 +7496,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 500,
-    "score": 133
+    "score": 133,
+    "globalRank": 47803
   },
   {
     "login": "Vasilis-SE",
@@ -7011,7 +7511,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 501,
-    "score": 132
+    "score": 132,
+    "globalRank": 47804
   },
   {
     "login": "rvpanoz",
@@ -7025,7 +7526,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 502,
-    "score": 948
+    "score": 948,
+    "globalRank": 47805
   },
   {
     "login": "spChalk",
@@ -7039,7 +7541,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 503,
-    "score": 768
+    "score": 768,
+    "globalRank": 47806
   },
   {
     "login": "magkopian",
@@ -7053,7 +7556,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 504,
-    "score": 210
+    "score": 210,
+    "globalRank": 47807
   },
   {
     "login": "atmosx",
@@ -7067,7 +7571,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 505,
-    "score": 1568
+    "score": 1568,
+    "globalRank": 47808
   },
   {
     "login": "giannis-papaioannou",
@@ -7081,7 +7586,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 506,
-    "score": 83
+    "score": 83,
+    "globalRank": 47809
   },
   {
     "login": "serafeimgr",
@@ -7095,7 +7601,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 507,
-    "score": 58
+    "score": 58,
+    "globalRank": 47810
   },
   {
     "login": "pantazos",
@@ -7109,7 +7616,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 508,
-    "score": 58
+    "score": 58,
+    "globalRank": 47811
   },
   {
     "login": "andyhot",
@@ -7123,7 +7631,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 509,
-    "score": 146
+    "score": 146,
+    "globalRank": 47812
   },
   {
     "login": "bkarak",
@@ -7137,7 +7646,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 510,
-    "score": 1001
+    "score": 1001,
+    "globalRank": 47813
   },
   {
     "login": "gkaimakas",
@@ -7151,7 +7661,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 511,
-    "score": 60
+    "score": 60,
+    "globalRank": 47814
   },
   {
     "login": "jdryg",
@@ -7165,7 +7676,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 512,
-    "score": 828
+    "score": 828,
+    "globalRank": 47815
   },
   {
     "login": "YanTsi",
@@ -7179,7 +7691,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 513,
-    "score": 62
+    "score": 62,
+    "globalRank": 47816
   },
   {
     "login": "whiplashoo",
@@ -7193,7 +7706,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 514,
-    "score": 1712
+    "score": 1712,
+    "globalRank": 47817
   },
   {
     "login": "mbalamat",
@@ -7207,7 +7721,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 515,
-    "score": 58
+    "score": 58,
+    "globalRank": 47818
   },
   {
     "login": "nikoskarapas86",
@@ -7221,7 +7736,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 516,
-    "score": 58
+    "score": 58,
+    "globalRank": 47819
   },
   {
     "login": "chrisK824",
@@ -7235,7 +7751,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 517,
-    "score": 1696
+    "score": 1696,
+    "globalRank": 47820
   },
   {
     "login": "dfwteinos",
@@ -7249,7 +7766,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 518,
-    "score": 779
+    "score": 779,
+    "globalRank": 48262
   },
   {
     "login": "AntonisGkortzis",
@@ -7263,7 +7781,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 519,
-    "score": 57
+    "score": 57,
+    "globalRank": 48263
   },
   {
     "login": "tsirif",
@@ -7277,7 +7796,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 520,
-    "score": 418
+    "score": 418,
+    "globalRank": 48264
   },
   {
     "login": "VasilikiVas",
@@ -7291,7 +7811,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 521,
-    "score": 78
+    "score": 78,
+    "globalRank": 48265
   },
   {
     "login": "hb20007",
@@ -7305,7 +7826,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 522,
-    "score": 190
+    "score": 190,
+    "globalRank": 48266
   },
   {
     "login": "dkatsios",
@@ -7319,7 +7841,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 523,
-    "score": 586
+    "score": 586,
+    "globalRank": 48267
   },
   {
     "login": "sptz45",
@@ -7333,7 +7856,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 524,
-    "score": 57
+    "score": 57,
+    "globalRank": 48268
   },
   {
     "login": "irenevlachou",
@@ -7347,7 +7871,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 525,
-    "score": 57
+    "score": 57,
+    "globalRank": 48269
   },
   {
     "login": "loverdos",
@@ -7361,7 +7886,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 526,
-    "score": 1931
+    "score": 1931,
+    "globalRank": 48270
   },
   {
     "login": "JohnNtirintis",
@@ -7375,7 +7901,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 527,
-    "score": 109
+    "score": 109,
+    "globalRank": 48728
   },
   {
     "login": "praxitelisk",
@@ -7389,7 +7916,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 528,
-    "score": 85
+    "score": 85,
+    "globalRank": 48729
   },
   {
     "login": "Kamaropoulos",
@@ -7403,7 +7931,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 529,
-    "score": 70
+    "score": 70,
+    "globalRank": 48730
   },
   {
     "login": "giannisnik",
@@ -7417,7 +7946,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 530,
-    "score": 67
+    "score": 67,
+    "globalRank": 48731
   },
   {
     "login": "sebdesign",
@@ -7431,7 +7961,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 531,
-    "score": 160
+    "score": 160,
+    "globalRank": 48732
   },
   {
     "login": "ebal",
@@ -7445,7 +7976,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 532,
-    "score": 189
+    "score": 189,
+    "globalRank": 48733
   },
   {
     "login": "JulStrat",
@@ -7459,7 +7991,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 533,
-    "score": 56
+    "score": 56,
+    "globalRank": 48734
   },
   {
     "login": "alexaapo",
@@ -7473,7 +8006,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 534,
-    "score": 56
+    "score": 56,
+    "globalRank": 48735
   },
   {
     "login": "DionGR",
@@ -7487,7 +8021,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 535,
-    "score": 63
+    "score": 63,
+    "globalRank": 49195
   },
   {
     "login": "man-c",
@@ -7501,7 +8036,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 536,
-    "score": 144
+    "score": 144,
+    "globalRank": 49196
   },
   {
     "login": "pothitos",
@@ -7515,7 +8051,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 537,
-    "score": 57
+    "score": 57,
+    "globalRank": 49197
   },
   {
     "login": "kvasilopoulos",
@@ -7529,7 +8066,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 538,
-    "score": 256
+    "score": 256,
+    "globalRank": 49198
   },
   {
     "login": "sleeptillseven",
@@ -7543,7 +8081,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 539,
-    "score": 61
+    "score": 61,
+    "globalRank": 49199
   },
   {
     "login": "gionanide",
@@ -7557,7 +8096,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 540,
-    "score": 121
+    "score": 121,
+    "globalRank": 49200
   },
   {
     "login": "acinonyx",
@@ -7571,7 +8111,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 541,
-    "score": 57
+    "score": 57,
+    "globalRank": 49201
   },
   {
     "login": "Renelvon",
@@ -7585,7 +8126,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 542,
-    "score": 55
+    "score": 55,
+    "globalRank": 49202
   },
   {
     "login": "LinkBoi00",
@@ -7599,7 +8141,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 543,
-    "score": 375
+    "score": 375,
+    "globalRank": 49203
   },
   {
     "login": "nkokkalis",
@@ -7613,7 +8156,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 544,
-    "score": 115
+    "score": 115,
+    "globalRank": 49700
   },
   {
     "login": "sneakykiwi",
@@ -7627,7 +8171,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 545,
-    "score": 2535
+    "score": 2535,
+    "globalRank": 49701
   },
   {
     "login": "aeleftheriadis",
@@ -7641,7 +8186,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 546,
-    "score": 113
+    "score": 113,
+    "globalRank": 49702
   },
   {
     "login": "jturney",
@@ -7655,7 +8201,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 547,
-    "score": 281
+    "score": 281,
+    "globalRank": 49703
   },
   {
     "login": "y3nk0",
@@ -7669,7 +8216,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 548,
-    "score": 102
+    "score": 102,
+    "globalRank": 49704
   },
   {
     "login": "Sta8is",
@@ -7683,7 +8231,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 549,
-    "score": 278
+    "score": 278,
+    "globalRank": 49705
   },
   {
     "login": "pankgeorg",
@@ -7697,7 +8246,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 550,
-    "score": 3540
+    "score": 3540,
+    "globalRank": 49706
   },
   {
     "login": "leftkats",
@@ -7711,7 +8261,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 551,
-    "score": 633
+    "score": 633,
+    "globalRank": 49707
   },
   {
     "login": "AKouki",
@@ -7725,7 +8276,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 552,
-    "score": 54
+    "score": 54,
+    "globalRank": 49708
   },
   {
     "login": "jmcneese",
@@ -7739,7 +8291,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 553,
-    "score": 1075
+    "score": 1075,
+    "globalRank": 49709
   },
   {
     "login": "jmike",
@@ -7753,7 +8306,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 554,
-    "score": 1855
+    "score": 1855,
+    "globalRank": 49710
   },
   {
     "login": "Tzal3x",
@@ -7767,7 +8321,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 555,
-    "score": 709
+    "score": 709,
+    "globalRank": 49711
   },
   {
     "login": "andreaskontogiannis",
@@ -7781,7 +8336,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 556,
-    "score": 260
+    "score": 260,
+    "globalRank": 49712
   },
   {
     "login": "eksperience",
@@ -7795,7 +8351,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 557,
-    "score": 54
+    "score": 54,
+    "globalRank": 49713
   },
   {
     "login": "nikosT",
@@ -7809,7 +8366,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 558,
-    "score": 185
+    "score": 185,
+    "globalRank": 49714
   },
   {
     "login": "innerout",
@@ -7823,7 +8381,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 559,
-    "score": 441
+    "score": 441,
+    "globalRank": 49715
   },
   {
     "login": "dimitris-papadimitriou-chr",
@@ -7837,7 +8396,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 560,
-    "score": 53
+    "score": 53,
+    "globalRank": 50217
   },
   {
     "login": "ilias1111",
@@ -7851,7 +8411,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 561,
-    "score": 1454
+    "score": 1454,
+    "globalRank": 50218
   },
   {
     "login": "nikosdouvlis",
@@ -7865,7 +8426,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 562,
-    "score": 3249
+    "score": 3249,
+    "globalRank": 50219
   },
   {
     "login": "vinPopulaire",
@@ -7879,7 +8441,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 563,
-    "score": 75
+    "score": 75,
+    "globalRank": 50220
   },
   {
     "login": "kvantas",
@@ -7893,7 +8456,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 564,
-    "score": 633
+    "score": 633,
+    "globalRank": 50221
   },
   {
     "login": "evgesoch",
@@ -7907,7 +8471,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 565,
-    "score": 53
+    "score": 53,
+    "globalRank": 50222
   },
   {
     "login": "Kanin",
@@ -7921,7 +8486,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 566,
-    "score": 823
+    "score": 823,
+    "globalRank": 50223
   },
   {
     "login": "vpapanik",
@@ -7935,7 +8501,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 567,
-    "score": 58
+    "score": 58,
+    "globalRank": 50224
   },
   {
     "login": "charmitro",
@@ -7949,7 +8516,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 568,
-    "score": 240
+    "score": 240,
+    "globalRank": 50225
   },
   {
     "login": "mariamou7",
@@ -7963,7 +8531,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 569,
-    "score": 54
+    "score": 54,
+    "globalRank": 50226
   },
   {
     "login": "neron-png",
@@ -7977,7 +8546,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 570,
-    "score": 341
+    "score": 341,
+    "globalRank": 50227
   },
   {
     "login": "KreAch3R",
@@ -7991,7 +8561,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 571,
-    "score": 60
+    "score": 60,
+    "globalRank": 50228
   },
   {
     "login": "billp",
@@ -8005,7 +8576,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 572,
-    "score": 499
+    "score": 499,
+    "globalRank": 50229
   },
   {
     "login": "stelloop",
@@ -8019,7 +8591,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 573,
-    "score": 52
+    "score": 52,
+    "globalRank": 50751
   },
   {
     "login": "mpetyx",
@@ -8033,7 +8606,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 574,
-    "score": 70
+    "score": 70,
+    "globalRank": 50752
   },
   {
     "login": "Devnol",
@@ -8047,7 +8621,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 575,
-    "score": 79
+    "score": 79,
+    "globalRank": 50753
   },
   {
     "login": "elenamountz",
@@ -8061,7 +8636,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 576,
-    "score": 1018
+    "score": 1018,
+    "globalRank": 50754
   },
   {
     "login": "iamnapo",
@@ -8075,7 +8651,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 577,
-    "score": 182
+    "score": 182,
+    "globalRank": 50755
   },
   {
     "login": "riggas-ionio",
@@ -8089,7 +8666,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 578,
-    "score": 168
+    "score": 168,
+    "globalRank": 50756
   },
   {
     "login": "milouk",
@@ -8103,7 +8681,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 579,
-    "score": 2075
+    "score": 2075,
+    "globalRank": 50757
   },
   {
     "login": "stefpant",
@@ -8117,7 +8696,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 580,
-    "score": 52
+    "score": 52,
+    "globalRank": 50758
   },
   {
     "login": "Learus",
@@ -8131,7 +8711,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 581,
-    "score": 538
+    "score": 538,
+    "globalRank": 50759
   },
   {
     "login": "gkiagia",
@@ -8145,7 +8726,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 582,
-    "score": 157
+    "score": 157,
+    "globalRank": 50760
   },
   {
     "login": "Chintan2108",
@@ -8159,7 +8741,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 583,
-    "score": 94
+    "score": 94,
+    "globalRank": 50761
   },
   {
     "login": "aggelgian",
@@ -8173,7 +8756,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 584,
-    "score": 68
+    "score": 68,
+    "globalRank": 51257
   },
   {
     "login": "tsiger",
@@ -8187,7 +8771,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 585,
-    "score": 2064
+    "score": 2064,
+    "globalRank": 51258
   },
   {
     "login": "alefteris",
@@ -8201,7 +8786,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 586,
-    "score": 78
+    "score": 78,
+    "globalRank": 51259
   },
   {
     "login": "nickbel7",
@@ -8215,7 +8801,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 587,
-    "score": 467
+    "score": 467,
+    "globalRank": 51260
   },
   {
     "login": "kpatsakis",
@@ -8229,7 +8816,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 588,
-    "score": 94
+    "score": 94,
+    "globalRank": 51261
   },
   {
     "login": "FoteiniK",
@@ -8243,7 +8831,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 589,
-    "score": 51
+    "score": 51,
+    "globalRank": 51262
   },
   {
     "login": "ragecryx",
@@ -8257,7 +8846,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 590,
-    "score": 342
+    "score": 342,
+    "globalRank": 51263
   },
   {
     "login": "OrPolyzos",
@@ -8271,7 +8861,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 591,
-    "score": 51
+    "score": 51,
+    "globalRank": 51264
   },
   {
     "login": "nikitas-theo",
@@ -8285,7 +8876,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 592,
-    "score": 198
+    "score": 198,
+    "globalRank": 51265
   },
   {
     "login": "ggianna",
@@ -8299,7 +8891,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 593,
-    "score": 51
+    "score": 51,
+    "globalRank": 51266
   },
   {
     "login": "apantzar",
@@ -8313,7 +8906,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 594,
-    "score": 259
+    "score": 259,
+    "globalRank": 51267
   },
   {
     "login": "amoraitis",
@@ -8327,7 +8921,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 595,
-    "score": 235
+    "score": 235,
+    "globalRank": 51268
   },
   {
     "login": "solisoft",
@@ -8341,7 +8936,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 596,
-    "score": 600
+    "score": 600,
+    "globalRank": 51269
   },
   {
     "login": "drammos",
@@ -8355,7 +8951,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 597,
-    "score": 56
+    "score": 56,
+    "globalRank": 51270
   },
   {
     "login": "themetalfleece",
@@ -8369,7 +8966,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 598,
-    "score": 1576
+    "score": 1576,
+    "globalRank": 51757
   },
   {
     "login": "csymvoul",
@@ -8383,7 +8981,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 599,
-    "score": 125
+    "score": 125,
+    "globalRank": 51758
   },
   {
     "login": "alexbogias",
@@ -8397,7 +8996,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 600,
-    "score": 2713
+    "score": 2713,
+    "globalRank": 51759
   },
   {
     "login": "igavriil",
@@ -8411,7 +9011,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 601,
-    "score": 796
+    "score": 796,
+    "globalRank": 51760
   },
   {
     "login": "bill88t",
@@ -8425,7 +9026,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 602,
-    "score": 1164
+    "score": 1164,
+    "globalRank": 51761
   },
   {
     "login": "ankostis",
@@ -8439,7 +9041,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 603,
-    "score": 385
+    "score": 385,
+    "globalRank": 51762
   },
   {
     "login": "apapadopoulou",
@@ -8453,7 +9056,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 604,
-    "score": 54
+    "score": 54,
+    "globalRank": 51763
   },
   {
     "login": "apoikos",
@@ -8467,7 +9071,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 605,
-    "score": 419
+    "score": 419,
+    "globalRank": 51764
   },
   {
     "login": "asterisch",
@@ -8481,7 +9086,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 606,
-    "score": 50
+    "score": 50,
+    "globalRank": 51765
   },
   {
     "login": "JuniorWells",
@@ -8495,7 +9101,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 607,
-    "score": 93
+    "score": 93,
+    "globalRank": 51766
   },
   {
     "login": "Sitaras",
@@ -8509,7 +9116,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 608,
-    "score": 95
+    "score": 95,
+    "globalRank": 51767
   },
   {
     "login": "ChasakisD",
@@ -8523,7 +9131,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 609,
-    "score": 977
+    "score": 977,
+    "globalRank": 51768
   },
   {
     "login": "msroot",
@@ -8537,7 +9146,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 610,
-    "score": 59
+    "score": 59,
+    "globalRank": 51769
   },
   {
     "login": "cpapasotiri",
@@ -8551,7 +9161,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 611,
-    "score": 67
+    "score": 67,
+    "globalRank": 51770
   },
   {
     "login": "ChristosHadjichristofi",
@@ -8565,7 +9176,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 612,
-    "score": 883
+    "score": 883,
+    "globalRank": 51771
   },
   {
     "login": "giannisp",
@@ -8579,7 +9191,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 613,
-    "score": 8869
+    "score": 8869,
+    "globalRank": 51772
   },
   {
     "login": "mrdimosthenis",
@@ -8593,7 +9206,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 614,
-    "score": 50
+    "score": 50,
+    "globalRank": 51773
   },
   {
     "login": "kroustou",
@@ -8607,7 +9221,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 615,
-    "score": 2805
+    "score": 2805,
+    "globalRank": 51774
   },
   {
     "login": "nasseef",
@@ -8621,7 +9236,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 616,
-    "score": 175
+    "score": 175,
+    "globalRank": 51775
   },
   {
     "login": "kilon",
@@ -8635,7 +9251,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 617,
-    "score": 50
+    "score": 50,
+    "globalRank": 52247
   },
   {
     "login": "Sandbird",
@@ -8649,7 +9266,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 618,
-    "score": 3750
+    "score": 3750,
+    "globalRank": 52248
   },
   {
     "login": "pmav99",
@@ -8663,7 +9281,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 619,
-    "score": 534
+    "score": 534,
+    "globalRank": 52249
   },
   {
     "login": "MiliasV",
@@ -8677,7 +9296,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 620,
-    "score": 267
+    "score": 267,
+    "globalRank": 52250
   },
   {
     "login": "LefKok",
@@ -8691,7 +9311,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 621,
-    "score": 91
+    "score": 91,
+    "globalRank": 52251
   },
   {
     "login": "JimTsiob",
@@ -8705,7 +9326,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 622,
-    "score": 49
+    "score": 49,
+    "globalRank": 52252
   },
   {
     "login": "abresas",
@@ -8719,7 +9341,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 623,
-    "score": 858
+    "score": 858,
+    "globalRank": 52253
   },
   {
     "login": "akosiaris",
@@ -8733,7 +9356,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 624,
-    "score": 232
+    "score": 232,
+    "globalRank": 52254
   },
   {
     "login": "grmarag",
@@ -8747,7 +9371,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 625,
-    "score": 72
+    "score": 72,
+    "globalRank": 52255
   },
   {
     "login": "spirosChv",
@@ -8761,7 +9386,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 626,
-    "score": 212
+    "score": 212,
+    "globalRank": 52256
   },
   {
     "login": "MrGoumX",
@@ -8775,7 +9401,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 627,
-    "score": 1705
+    "score": 1705,
+    "globalRank": 52257
   },
   {
     "login": "ppapadatis",
@@ -8789,7 +9416,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 628,
-    "score": 359
+    "score": 359,
+    "globalRank": 52258
   },
   {
     "login": "grigoria",
@@ -8803,7 +9431,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 629,
-    "score": 54
+    "score": 54,
+    "globalRank": 52259
   },
   {
     "login": "Basilakis",
@@ -8817,7 +9446,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 630,
-    "score": 2050
+    "score": 2050,
+    "globalRank": 52260
   },
   {
     "login": "dtogias",
@@ -8831,7 +9461,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 631,
-    "score": 1716
+    "score": 1716,
+    "globalRank": 52731
   },
   {
     "login": "apoeco",
@@ -8845,7 +9476,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 632,
-    "score": 1000
+    "score": 1000,
+    "globalRank": 52732
   },
   {
     "login": "treboryx",
@@ -8859,7 +9491,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 633,
-    "score": 1839
+    "score": 1839,
+    "globalRank": 52733
   },
   {
     "login": "fanixk",
@@ -8873,7 +9506,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 634,
-    "score": 48
+    "score": 48,
+    "globalRank": 52734
   },
   {
     "login": "alexofrhodes",
@@ -8887,7 +9521,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 635,
-    "score": 65
+    "score": 65,
+    "globalRank": 52735
   },
   {
     "login": "pikrakis",
@@ -8901,7 +9536,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 636,
-    "score": 48
+    "score": 48,
+    "globalRank": 52736
   },
   {
     "login": "TFotakis",
@@ -8915,7 +9551,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 637,
-    "score": 71
+    "score": 71,
+    "globalRank": 52737
   },
   {
     "login": "avvie",
@@ -8929,7 +9566,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 638,
-    "score": 123
+    "score": 123,
+    "globalRank": 52738
   },
   {
     "login": "dimitrisstyl7",
@@ -8943,7 +9581,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 639,
-    "score": 100
+    "score": 100,
+    "globalRank": 52739
   },
   {
     "login": "itheodoridis",
@@ -8957,7 +9596,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 640,
-    "score": 67
+    "score": 67,
+    "globalRank": 52740
   },
   {
     "login": "stougsch",
@@ -8971,7 +9611,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 641,
-    "score": 48
+    "score": 48,
+    "globalRank": 52741
   },
   {
     "login": "SpyrosRoum",
@@ -8985,7 +9626,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 642,
-    "score": 1484
+    "score": 1484,
+    "globalRank": 52742
   },
   {
     "login": "NektariaMoka",
@@ -8999,7 +9641,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 643,
-    "score": 114
+    "score": 114,
+    "globalRank": 52743
   },
   {
     "login": "dpavlos",
@@ -9013,7 +9656,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 644,
-    "score": 51
+    "score": 51,
+    "globalRank": 52744
   },
   {
     "login": "gkampitakis",
@@ -9027,7 +9671,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 645,
-    "score": 2022
+    "score": 2022,
+    "globalRank": 52745
   },
   {
     "login": "chris-asl",
@@ -9041,7 +9686,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 646,
-    "score": 1062
+    "score": 1062,
+    "globalRank": 52746
   },
   {
     "login": "irinakalman",
@@ -9055,7 +9701,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 647,
-    "score": 63
+    "score": 63,
+    "globalRank": 52747
   },
   {
     "login": "kosbarts",
@@ -9069,7 +9716,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 648,
-    "score": 50
+    "score": 50,
+    "globalRank": 52748
   },
   {
     "login": "vsamtuc",
@@ -9083,7 +9731,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 649,
-    "score": 56
+    "score": 56,
+    "globalRank": 52749
   },
   {
     "login": "rdnt",
@@ -9097,7 +9746,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 650,
-    "score": 48
+    "score": 48,
+    "globalRank": 52750
   },
   {
     "login": "geralexgr",
@@ -9111,7 +9761,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 651,
-    "score": 135
+    "score": 135,
+    "globalRank": 52751
   },
   {
     "login": "geoalx",
@@ -9125,7 +9776,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 652,
-    "score": 50
+    "score": 50,
+    "globalRank": 52752
   },
   {
     "login": "alladinian",
@@ -9139,7 +9791,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 653,
-    "score": 442
+    "score": 442,
+    "globalRank": 53239
   },
   {
     "login": "panagelak",
@@ -9153,7 +9806,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 654,
-    "score": 49
+    "score": 49,
+    "globalRank": 53240
   },
   {
     "login": "astyanax",
@@ -9167,7 +9821,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 655,
-    "score": 113
+    "score": 113,
+    "globalRank": 53241
   },
   {
     "login": "liondani",
@@ -9181,7 +9836,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 656,
-    "score": 47
+    "score": 47,
+    "globalRank": 53242
   },
   {
     "login": "domgeorg",
@@ -9195,7 +9851,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 657,
-    "score": 47
+    "score": 47,
+    "globalRank": 53243
   },
   {
     "login": "kderme",
@@ -9209,7 +9866,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 658,
-    "score": 247
+    "score": 247,
+    "globalRank": 53244
   },
   {
     "login": "solaunar",
@@ -9223,7 +9881,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 659,
-    "score": 47
+    "score": 47,
+    "globalRank": 53245
   },
   {
     "login": "basdog22",
@@ -9237,7 +9896,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 660,
-    "score": 58
+    "score": 58,
+    "globalRank": 53246
   },
   {
     "login": "Galactus9",
@@ -9251,7 +9911,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 661,
-    "score": 102
+    "score": 102,
+    "globalRank": 53247
   },
   {
     "login": "JohnTheGr8",
@@ -9265,7 +9926,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 662,
-    "score": 48
+    "score": 48,
+    "globalRank": 53248
   },
   {
     "login": "trachalakis",
@@ -9279,7 +9941,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 663,
-    "score": 435
+    "score": 435,
+    "globalRank": 53249
   },
   {
     "login": "kanenas",
@@ -9293,7 +9956,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 664,
-    "score": 276
+    "score": 276,
+    "globalRank": 53250
   },
   {
     "login": "Besssy",
@@ -9307,7 +9971,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 665,
-    "score": 47
+    "score": 47,
+    "globalRank": 53251
   },
   {
     "login": "meter-peter",
@@ -9321,7 +9986,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 666,
-    "score": 1645
+    "score": 1645,
+    "globalRank": 53252
   },
   {
     "login": "tgogos",
@@ -9335,7 +10001,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 667,
-    "score": 750
+    "score": 750,
+    "globalRank": 53253
   },
   {
     "login": "NickolasBenakis",
@@ -9349,7 +10016,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 668,
-    "score": 378
+    "score": 378,
+    "globalRank": 53254
   },
   {
     "login": "cgeopapa",
@@ -9363,7 +10031,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 669,
-    "score": 50
+    "score": 50,
+    "globalRank": 53255
   },
   {
     "login": "Candygoblen123",
@@ -9377,7 +10046,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 670,
-    "score": 53
+    "score": 53,
+    "globalRank": 53256
   },
   {
     "login": "kmandalas",
@@ -9391,7 +10061,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 671,
-    "score": 122
+    "score": 122,
+    "globalRank": 53731
   },
   {
     "login": "sttzia",
@@ -9405,7 +10076,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 672,
-    "score": 88
+    "score": 88,
+    "globalRank": 53732
   },
   {
     "login": "mrxkon",
@@ -9419,7 +10091,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 673,
-    "score": 49
+    "score": 49,
+    "globalRank": 53733
   },
   {
     "login": "Sourland",
@@ -9433,7 +10106,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 674,
-    "score": 112
+    "score": 112,
+    "globalRank": 53734
   },
   {
     "login": "rezudox",
@@ -9447,7 +10121,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 675,
-    "score": 584
+    "score": 584,
+    "globalRank": 53735
   },
   {
     "login": "KushajveerSingh",
@@ -9461,7 +10136,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 676,
-    "score": 282
+    "score": 282,
+    "globalRank": 53736
   },
   {
     "login": "theodora-panteliou",
@@ -9475,7 +10151,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 677,
-    "score": 48
+    "score": 48,
+    "globalRank": 53737
   },
   {
     "login": "skonto",
@@ -9489,7 +10166,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 678,
-    "score": 119
+    "score": 119,
+    "globalRank": 53738
   },
   {
     "login": "zaaachos",
@@ -9503,7 +10181,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 679,
-    "score": 85
+    "score": 85,
+    "globalRank": 53739
   },
   {
     "login": "stafot",
@@ -9517,7 +10196,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 680,
-    "score": 2688
+    "score": 2688,
+    "globalRank": 53740
   },
   {
     "login": "Ierofantis",
@@ -9531,7 +10211,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 681,
-    "score": 54
+    "score": 54,
+    "globalRank": 53741
   },
   {
     "login": "iliasprc",
@@ -9545,7 +10226,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 682,
-    "score": 400
+    "score": 400,
+    "globalRank": 53742
   },
   {
     "login": "thanoskrg",
@@ -9559,7 +10241,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 683,
-    "score": 1386
+    "score": 1386,
+    "globalRank": 53743
   },
   {
     "login": "cjrevelas",
@@ -9573,7 +10256,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 684,
-    "score": 124
+    "score": 124,
+    "globalRank": 53744
   },
   {
     "login": "pleontis",
@@ -9587,7 +10271,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 685,
-    "score": 107
+    "score": 107,
+    "globalRank": 54296
   },
   {
     "login": "pangiann",
@@ -9601,7 +10286,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 686,
-    "score": 47
+    "score": 47,
+    "globalRank": 54297
   },
   {
     "login": "npetalid",
@@ -9615,7 +10301,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 687,
-    "score": 58
+    "score": 58,
+    "globalRank": 54298
   },
   {
     "login": "jafarimurtaza",
@@ -9629,7 +10316,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 688,
-    "score": 2135
+    "score": 2135,
+    "globalRank": 54299
   },
   {
     "login": "Greekforce1821",
@@ -9643,7 +10331,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 689,
-    "score": 138
+    "score": 138,
+    "globalRank": 54300
   },
   {
     "login": "avraampiperidis",
@@ -9657,7 +10346,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 690,
-    "score": 45
+    "score": 45,
+    "globalRank": 54301
   },
   {
     "login": "rski",
@@ -9671,7 +10361,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 691,
-    "score": 55
+    "score": 55,
+    "globalRank": 54302
   },
   {
     "login": "nikoshet",
@@ -9685,7 +10376,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 692,
-    "score": 2720
+    "score": 2720,
+    "globalRank": 54303
   },
   {
     "login": "ftylitak",
@@ -9699,7 +10391,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 693,
-    "score": 373
+    "score": 373,
+    "globalRank": 54304
   },
   {
     "login": "ulfox",
@@ -9713,7 +10406,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 694,
-    "score": 1611
+    "score": 1611,
+    "globalRank": 54305
   },
   {
     "login": "MichaelKanios",
@@ -9727,7 +10421,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 695,
-    "score": 320
+    "score": 320,
+    "globalRank": 54306
   },
   {
     "login": "Vagelis-Prokopiou",
@@ -9741,7 +10436,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 696,
-    "score": 783
+    "score": 783,
+    "globalRank": 54307
   },
   {
     "login": "Panagiotis-INS",
@@ -9755,7 +10451,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 697,
-    "score": 71
+    "score": 71,
+    "globalRank": 54308
   },
   {
     "login": "ragkousism",
@@ -9769,7 +10466,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 698,
-    "score": 100
+    "score": 100,
+    "globalRank": 54309
   },
   {
     "login": "sniafas",
@@ -9783,7 +10481,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 699,
-    "score": 49
+    "score": 49,
+    "globalRank": 54310
   },
   {
     "login": "KruglovaOlga",
@@ -9797,7 +10496,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 700,
-    "score": 46
+    "score": 46,
+    "globalRank": 54311
   },
   {
     "login": "vagelisp",
@@ -9811,7 +10511,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 701,
-    "score": 1061
+    "score": 1061,
+    "globalRank": 54312
   },
   {
     "login": "ntanis-dev",
@@ -9825,7 +10526,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 702,
-    "score": 3159
+    "score": 3159,
+    "globalRank": 54313
   },
   {
     "login": "dimgrav",
@@ -9839,7 +10541,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 703,
-    "score": 315
+    "score": 315,
+    "globalRank": 54903
   },
   {
     "login": "Nikos-Salichos",
@@ -9853,7 +10556,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 704,
-    "score": 268
+    "score": 268,
+    "globalRank": 54904
   },
   {
     "login": "stefanogram",
@@ -9867,7 +10571,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 705,
-    "score": 59
+    "score": 59,
+    "globalRank": 54905
   },
   {
     "login": "gliaskos",
@@ -9881,7 +10586,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 706,
-    "score": 397
+    "score": 397,
+    "globalRank": 54906
   },
   {
     "login": "georgebellos",
@@ -9895,7 +10601,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 707,
-    "score": 50
+    "score": 50,
+    "globalRank": 54907
   },
   {
     "login": "drakakisgeo",
@@ -9909,7 +10616,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 708,
-    "score": 1137
+    "score": 1137,
+    "globalRank": 54908
   },
   {
     "login": "psomas",
@@ -9923,7 +10631,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 709,
-    "score": 72
+    "score": 72,
+    "globalRank": 54909
   },
   {
     "login": "jebediah47",
@@ -9937,7 +10646,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 710,
-    "score": 1164
+    "score": 1164,
+    "globalRank": 54910
   },
   {
     "login": "tomvlk",
@@ -9951,7 +10661,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 711,
-    "score": 514
+    "score": 514,
+    "globalRank": 54911
   },
   {
     "login": "rowanthorpe",
@@ -9965,7 +10676,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 712,
-    "score": 44
+    "score": 44,
+    "globalRank": 54912
   },
   {
     "login": "Leonardpepa",
@@ -9979,7 +10691,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 713,
-    "score": 73
+    "score": 73,
+    "globalRank": 54913
   },
   {
     "login": "menmaa",
@@ -9993,7 +10706,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 714,
-    "score": 626
+    "score": 626,
+    "globalRank": 54914
   },
   {
     "login": "sonic2000gr",
@@ -10007,7 +10721,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 715,
-    "score": 44
+    "score": 44,
+    "globalRank": 54915
   },
   {
     "login": "tefra",
@@ -10021,7 +10736,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 716,
-    "score": 1453
+    "score": 1453,
+    "globalRank": 54916
   },
   {
     "login": "CSpyridakis",
@@ -10035,7 +10751,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 717,
-    "score": 104
+    "score": 104,
+    "globalRank": 54917
   },
   {
     "login": "3nvi",
@@ -10049,7 +10766,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 718,
-    "score": 44
+    "score": 44,
+    "globalRank": 54918
   },
   {
     "login": "dim1119",
@@ -10063,7 +10781,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 719,
-    "score": 324
+    "score": 324,
+    "globalRank": 55496
   },
   {
     "login": "AlexKostas",
@@ -10077,7 +10796,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 720,
-    "score": 81
+    "score": 81,
+    "globalRank": 55497
   },
   {
     "login": "Jtsigkos",
@@ -10091,7 +10811,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 721,
-    "score": 43
+    "score": 43,
+    "globalRank": 55498
   },
   {
     "login": "chazapis",
@@ -10105,7 +10826,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 722,
-    "score": 144
+    "score": 144,
+    "globalRank": 55499
   },
   {
     "login": "jasonfilippou",
@@ -10119,7 +10841,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 723,
-    "score": 45
+    "score": 45,
+    "globalRank": 55500
   },
   {
     "login": "VaggelisD",
@@ -10133,7 +10856,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 724,
-    "score": 2221
+    "score": 2221,
+    "globalRank": 55501
   },
   {
     "login": "V-for-Vaggelis",
@@ -10147,7 +10871,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 725,
-    "score": 43
+    "score": 43,
+    "globalRank": 55502
   },
   {
     "login": "antonisPanos",
@@ -10161,7 +10886,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 726,
-    "score": 821
+    "score": 821,
+    "globalRank": 55503
   },
   {
     "login": "Somnius",
@@ -10175,7 +10901,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 727,
-    "score": 327
+    "score": 327,
+    "globalRank": 55504
   },
   {
     "login": "antoniosthanasisgit",
@@ -10189,7 +10916,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 728,
-    "score": 4225
+    "score": 4225,
+    "globalRank": 55505
   },
   {
     "login": "Spygour",
@@ -10203,7 +10931,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 729,
-    "score": 138
+    "score": 138,
+    "globalRank": 55506
   },
   {
     "login": "Giapa",
@@ -10217,7 +10946,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 730,
-    "score": 298
+    "score": 298,
+    "globalRank": 55507
   },
   {
     "login": "vtripolitakis",
@@ -10231,7 +10961,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 731,
-    "score": 1534
+    "score": 1534,
+    "globalRank": 55508
   },
   {
     "login": "ThanosTsoukalas",
@@ -10245,7 +10976,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 732,
-    "score": 153
+    "score": 153,
+    "globalRank": 55509
   },
   {
     "login": "marisid",
@@ -10259,7 +10991,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 733,
-    "score": 1199
+    "score": 1199,
+    "globalRank": 55510
   },
   {
     "login": "kristos80",
@@ -10273,7 +11006,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 734,
-    "score": 2001
+    "score": 2001,
+    "globalRank": 55511
   },
   {
     "login": "dbalaouras",
@@ -10287,7 +11021,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 735,
-    "score": 77
+    "score": 77,
+    "globalRank": 55512
   },
   {
     "login": "StefanosStefanidis93",
@@ -10301,7 +11036,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 736,
-    "score": 67
+    "score": 67,
+    "globalRank": 55513
   },
   {
     "login": "Drakevr",
@@ -10315,7 +11051,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 737,
-    "score": 42
+    "score": 42,
+    "globalRank": 56153
   },
   {
     "login": "Dragotic",
@@ -10329,7 +11066,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 738,
-    "score": 1346
+    "score": 1346,
+    "globalRank": 56154
   },
   {
     "login": "kkougiou",
@@ -10343,7 +11081,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 739,
-    "score": 118
+    "score": 118,
+    "globalRank": 56155
   },
   {
     "login": "apalos",
@@ -10357,7 +11096,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 740,
-    "score": 121
+    "score": 121,
+    "globalRank": 56156
   },
   {
     "login": "EvangeliaBi",
@@ -10371,7 +11111,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 741,
-    "score": 255
+    "score": 255,
+    "globalRank": 56157
   },
   {
     "login": "merkourisa",
@@ -10385,7 +11126,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 742,
-    "score": 42
+    "score": 42,
+    "globalRank": 56158
   },
   {
     "login": "meredoth",
@@ -10399,7 +11141,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 743,
-    "score": 62
+    "score": 62,
+    "globalRank": 56159
   },
   {
     "login": "dpnevmatikos",
@@ -10413,7 +11156,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 744,
-    "score": 218
+    "score": 218,
+    "globalRank": 56160
   },
   {
     "login": "KonstantoJr",
@@ -10427,7 +11171,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 745,
-    "score": 229
+    "score": 229,
+    "globalRank": 56161
   },
   {
     "login": "stefastra",
@@ -10441,7 +11186,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 746,
-    "score": 54
+    "score": 54,
+    "globalRank": 56162
   },
   {
     "login": "Konstantinos-Papanagnou",
@@ -10455,7 +11201,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 747,
-    "score": 49
+    "score": 49,
+    "globalRank": 56163
   },
   {
     "login": "spyros-briakos",
@@ -10469,7 +11216,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 748,
-    "score": 43
+    "score": 43,
+    "globalRank": 56164
   },
   {
     "login": "spirosrap",
@@ -10483,7 +11231,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 749,
-    "score": 2001
+    "score": 2001,
+    "globalRank": 56165
   },
   {
     "login": "kostaspt",
@@ -10497,7 +11246,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 750,
-    "score": 46
+    "score": 46,
+    "globalRank": 56166
   },
   {
     "login": "kerk12",
@@ -10511,7 +11261,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 751,
-    "score": 358
+    "score": 358,
+    "globalRank": 56167
   },
   {
     "login": "eirc",
@@ -10525,7 +11276,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 752,
-    "score": 52
+    "score": 52,
+    "globalRank": 56805
   },
   {
     "login": "George-Atmatsidis",
@@ -10539,7 +11291,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 753,
-    "score": 45
+    "score": 45,
+    "globalRank": 56806
   },
   {
     "login": "nikolaslepidas",
@@ -10553,7 +11306,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 754,
-    "score": 42
+    "score": 42,
+    "globalRank": 56807
   },
   {
     "login": "panosRaptis",
@@ -10567,7 +11321,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 755,
-    "score": 41
+    "score": 41,
+    "globalRank": 56808
   },
   {
     "login": "Ctsap",
@@ -10581,7 +11336,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 756,
-    "score": 581
+    "score": 581,
+    "globalRank": 56809
   },
   {
     "login": "athanasiosem",
@@ -10595,7 +11351,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 757,
-    "score": 931
+    "score": 931,
+    "globalRank": 56810
   },
   {
     "login": "dimisdas",
@@ -10609,7 +11366,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 758,
-    "score": 2301
+    "score": 2301,
+    "globalRank": 56811
   },
   {
     "login": "georgebisbas",
@@ -10623,7 +11381,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 759,
-    "score": 263
+    "score": 263,
+    "globalRank": 56812
   },
   {
     "login": "nassosoassos",
@@ -10637,7 +11396,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 760,
-    "score": 42
+    "score": 42,
+    "globalRank": 56813
   },
   {
     "login": "psy2k",
@@ -10651,7 +11411,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 761,
-    "score": 1460
+    "score": 1460,
+    "globalRank": 56814
   },
   {
     "login": "PanagiotisIatrou",
@@ -10665,7 +11426,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 762,
-    "score": 339
+    "score": 339,
+    "globalRank": 56815
   },
   {
     "login": "a-yiorgos",
@@ -10679,7 +11441,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 763,
-    "score": 53
+    "score": 53,
+    "globalRank": 56816
   },
   {
     "login": "elisavetTriant",
@@ -10693,7 +11456,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 764,
-    "score": 80
+    "score": 80,
+    "globalRank": 56817
   },
   {
     "login": "purpl3F0x",
@@ -10707,7 +11471,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 765,
-    "score": 591
+    "score": 591,
+    "globalRank": 56818
   },
   {
     "login": "dpliakos",
@@ -10721,7 +11486,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 766,
-    "score": 53
+    "score": 53,
+    "globalRank": 56819
   },
   {
     "login": "Yaw-Dev",
@@ -10735,7 +11501,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 767,
-    "score": 61
+    "score": 61,
+    "globalRank": 56820
   },
   {
     "login": "kantale",
@@ -10749,7 +11516,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 768,
-    "score": 45
+    "score": 45,
+    "globalRank": 56821
   },
   {
     "login": "isl",
@@ -10763,7 +11531,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 769,
-    "score": 44
+    "score": 44,
+    "globalRank": 56822
   },
   {
     "login": "EfstratiosLontzetidis",
@@ -10777,7 +11546,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 770,
-    "score": 45
+    "score": 45,
+    "globalRank": 56823
   },
   {
     "login": "spartakos87",
@@ -10791,7 +11561,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 771,
-    "score": 63
+    "score": 63,
+    "globalRank": 56824
   },
   {
     "login": "KellyBlack",
@@ -10805,7 +11576,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 772,
-    "score": 42
+    "score": 42,
+    "globalRank": 56825
   },
   {
     "login": "TeoMastro",
@@ -10819,7 +11591,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 773,
-    "score": 298
+    "score": 298,
+    "globalRank": 56826
   },
   {
     "login": "ipinak",
@@ -10833,7 +11606,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 774,
-    "score": 716
+    "score": 716,
+    "globalRank": 56827
   },
   {
     "login": "christosgalano",
@@ -10847,7 +11621,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 775,
-    "score": 2225
+    "score": 2225,
+    "globalRank": 56828
   },
   {
     "login": "TolisChal",
@@ -10861,7 +11636,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 776,
-    "score": 57
+    "score": 57,
+    "globalRank": 56829
   },
   {
     "login": "theopsall",
@@ -10875,7 +11651,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 777,
-    "score": 818
+    "score": 818,
+    "globalRank": 56830
   },
   {
     "login": "esentis",
@@ -10889,7 +11666,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 778,
-    "score": 870
+    "score": 870,
+    "globalRank": 56831
   },
   {
     "login": "gemantzu",
@@ -10903,7 +11681,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 779,
-    "score": 1497
+    "score": 1497,
+    "globalRank": 56832
   },
   {
     "login": "alexookah",
@@ -10917,7 +11696,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 780,
-    "score": 459
+    "score": 459,
+    "globalRank": 56833
   },
   {
     "login": "chpipis",
@@ -10931,7 +11711,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 781,
-    "score": 41
+    "score": 41,
+    "globalRank": 56834
   },
   {
     "login": "greenonion",
@@ -10945,7 +11726,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 782,
-    "score": 114
+    "score": 114,
+    "globalRank": 56835
   },
   {
     "login": "ipapoutsidis",
@@ -10959,7 +11741,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 783,
-    "score": 50
+    "score": 50,
+    "globalRank": 56836
   },
   {
     "login": "Chris-Forrest",
@@ -10973,7 +11756,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 784,
-    "score": 431
+    "score": 431,
+    "globalRank": 57471
   },
   {
     "login": "kpapadatos",
@@ -10987,7 +11771,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 785,
-    "score": 1611
+    "score": 1611,
+    "globalRank": 57472
   },
   {
     "login": "demanasta",
@@ -11001,7 +11786,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 786,
-    "score": 80
+    "score": 80,
+    "globalRank": 57473
   },
   {
     "login": "pikaplan",
@@ -11015,7 +11801,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 787,
-    "score": 40
+    "score": 40,
+    "globalRank": 57474
   },
   {
     "login": "anges244",
@@ -11029,7 +11816,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 788,
-    "score": 445
+    "score": 445,
+    "globalRank": 57475
   },
   {
     "login": "stefaniaskorda",
@@ -11043,7 +11831,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 789,
-    "score": 40
+    "score": 40,
+    "globalRank": 57476
   },
   {
     "login": "andmarios",
@@ -11057,7 +11846,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 790,
-    "score": 2959
+    "score": 2959,
+    "globalRank": 57477
   },
   {
     "login": "GKNSB",
@@ -11071,7 +11861,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 791,
-    "score": 98
+    "score": 98,
+    "globalRank": 57478
   },
   {
     "login": "C4Terina",
@@ -11085,7 +11876,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 792,
-    "score": 40
+    "score": 40,
+    "globalRank": 57479
   },
   {
     "login": "SKefalidis",
@@ -11099,7 +11891,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 793,
-    "score": 540
+    "score": 540,
+    "globalRank": 57480
   },
   {
     "login": "BillyTziv",
@@ -11113,7 +11906,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 794,
-    "score": 815
+    "score": 815,
+    "globalRank": 57481
   },
   {
     "login": "vmasto",
@@ -11127,7 +11921,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 795,
-    "score": 65
+    "score": 65,
+    "globalRank": 57482
   },
   {
     "login": "nickstamat",
@@ -11141,7 +11936,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 796,
-    "score": 1892
+    "score": 1892,
+    "globalRank": 57483
   },
   {
     "login": "pmatigakis",
@@ -11155,7 +11951,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 797,
-    "score": 605
+    "score": 605,
+    "globalRank": 57484
   },
   {
     "login": "pavlosGR21",
@@ -11169,7 +11966,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 798,
-    "score": 41
+    "score": 41,
+    "globalRank": 57485
   },
   {
     "login": "attheodo",
@@ -11183,7 +11981,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 799,
-    "score": 866
+    "score": 866,
+    "globalRank": 57486
   },
   {
     "login": "marios8543",
@@ -11197,7 +11996,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 800,
-    "score": 58
+    "score": 58,
+    "globalRank": 57487
   },
   {
     "login": "candrian",
@@ -11211,7 +12011,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 801,
-    "score": 40
+    "score": 40,
+    "globalRank": 57488
   },
   {
     "login": "richardschwabe",
@@ -11225,7 +12026,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 802,
-    "score": 48
+    "score": 48,
+    "globalRank": 58073
   },
   {
     "login": "amaxilat",
@@ -11239,7 +12041,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 803,
-    "score": 1635
+    "score": 1635,
+    "globalRank": 58074
   },
   {
     "login": "George-RG",
@@ -11253,7 +12056,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 804,
-    "score": 326
+    "score": 326,
+    "globalRank": 58075
   },
   {
     "login": "AndreasAvgou",
@@ -11267,7 +12071,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 805,
-    "score": 1399
+    "score": 1399,
+    "globalRank": 58076
   },
   {
     "login": "agamemnonc",
@@ -11281,7 +12086,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 806,
-    "score": 902
+    "score": 902,
+    "globalRank": 58077
   },
   {
     "login": "Mastrangelis",
@@ -11295,7 +12101,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 807,
-    "score": 284
+    "score": 284,
+    "globalRank": 58078
   },
   {
     "login": "Ilias1988",
@@ -11309,7 +12116,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 808,
-    "score": 80
+    "score": 80,
+    "globalRank": 58079
   },
   {
     "login": "stathdim",
@@ -11323,7 +12131,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 809,
-    "score": 399
+    "score": 399,
+    "globalRank": 58080
   },
   {
     "login": "xarisd",
@@ -11337,7 +12146,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 810,
-    "score": 41
+    "score": 41,
+    "globalRank": 58081
   },
   {
     "login": "liaoyanqing666",
@@ -11351,7 +12161,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 811,
-    "score": 101
+    "score": 101,
+    "globalRank": 58082
   },
   {
     "login": "vbanos",
@@ -11365,7 +12176,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 812,
-    "score": 422
+    "score": 422,
+    "globalRank": 58083
   },
   {
     "login": "hypest",
@@ -11379,7 +12191,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 813,
-    "score": 1080
+    "score": 1080,
+    "globalRank": 58084
   },
   {
     "login": "MariannaPaszkowska",
@@ -11393,7 +12206,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 814,
-    "score": 136
+    "score": 136,
+    "globalRank": 58085
   },
   {
     "login": "Nightherald",
@@ -11407,7 +12221,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 815,
-    "score": 1343
+    "score": 1343,
+    "globalRank": 58086
   },
   {
     "login": "martzoukos",
@@ -11421,7 +12236,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 816,
-    "score": 1024
+    "score": 1024,
+    "globalRank": 58087
   },
   {
     "login": "dtsolis",
@@ -11435,7 +12251,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 817,
-    "score": 39
+    "score": 39,
+    "globalRank": 58088
   },
   {
     "login": "yortabortsgv",
@@ -11449,7 +12266,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 818,
-    "score": 39
+    "score": 39,
+    "globalRank": 58089
   },
   {
     "login": "amiralimi",
@@ -11463,7 +12281,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 819,
-    "score": 82
+    "score": 82,
+    "globalRank": 58090
   },
   {
     "login": "nikkatsa7",
@@ -11477,7 +12296,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 820,
-    "score": 42
+    "score": 42,
+    "globalRank": 58091
   },
   {
     "login": "mariosk",
@@ -11491,7 +12311,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 821,
-    "score": 1549
+    "score": 1549,
+    "globalRank": 58092
   },
   {
     "login": "zisiszikos",
@@ -11505,7 +12326,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 822,
-    "score": 1245
+    "score": 1245,
+    "globalRank": 58093
   },
   {
     "login": "GeorgeBacky",
@@ -11519,7 +12341,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 823,
-    "score": 146
+    "score": 146,
+    "globalRank": 58094
   },
   {
     "login": "kidrecursive",
@@ -11533,7 +12356,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 824,
-    "score": 99
+    "score": 99,
+    "globalRank": 58095
   },
   {
     "login": "eakirtas",
@@ -11547,7 +12371,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 825,
-    "score": 69
+    "score": 69,
+    "globalRank": 58096
   },
   {
     "login": "makelarisjr",
@@ -11561,7 +12386,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 826,
-    "score": 1080
+    "score": 1080,
+    "globalRank": 58097
   },
   {
     "login": "isaranto",
@@ -11575,7 +12401,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 827,
-    "score": 96
+    "score": 96,
+    "globalRank": 58098
   },
   {
     "login": "mpalaourg",
@@ -11589,7 +12416,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 828,
-    "score": 104
+    "score": 104,
+    "globalRank": 58099
   },
   {
     "login": "tsangiotis",
@@ -11603,7 +12431,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 829,
-    "score": 2267
+    "score": 2267,
+    "globalRank": 58750
   },
   {
     "login": "markdimi",
@@ -11617,7 +12446,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 830,
-    "score": 42
+    "score": 42,
+    "globalRank": 58751
   },
   {
     "login": "2007heaven",
@@ -11631,7 +12461,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 831,
-    "score": 50
+    "score": 50,
+    "globalRank": 58752
   },
   {
     "login": "dimidev",
@@ -11645,7 +12476,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 832,
-    "score": 233
+    "score": 233,
+    "globalRank": 58753
   },
   {
     "login": "dsarlis",
@@ -11659,7 +12491,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 833,
-    "score": 387
+    "score": 387,
+    "globalRank": 58754
   },
   {
     "login": "polyvios",
@@ -11673,7 +12506,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 834,
-    "score": 39
+    "score": 39,
+    "globalRank": 58755
   },
   {
     "login": "fzantalis",
@@ -11687,7 +12521,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 835,
-    "score": 318
+    "score": 318,
+    "globalRank": 58756
   },
   {
     "login": "serezhka",
@@ -11701,7 +12536,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 836,
-    "score": 38
+    "score": 38,
+    "globalRank": 58757
   },
   {
     "login": "PantelisGeorgiadis",
@@ -11715,7 +12551,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 837,
-    "score": 321
+    "score": 321,
+    "globalRank": 58758
   },
   {
     "login": "Giannisduke",
@@ -11729,7 +12566,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 838,
-    "score": 575
+    "score": 575,
+    "globalRank": 58759
   },
   {
     "login": "spirosikmd",
@@ -11743,7 +12581,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 839,
-    "score": 2966
+    "score": 2966,
+    "globalRank": 58760
   },
   {
     "login": "iliastsa",
@@ -11757,7 +12596,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 840,
-    "score": 411
+    "score": 411,
+    "globalRank": 58761
   },
   {
     "login": "ChrisNick92",
@@ -11771,7 +12611,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 841,
-    "score": 598
+    "score": 598,
+    "globalRank": 58762
   },
   {
     "login": "AntonisCSt",
@@ -11785,7 +12626,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 842,
-    "score": 194
+    "score": 194,
+    "globalRank": 58763
   },
   {
     "login": "hsoc",
@@ -11799,7 +12641,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 843,
-    "score": 44
+    "score": 44,
+    "globalRank": 58764
   },
   {
     "login": "constarg",
@@ -11813,7 +12656,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 844,
-    "score": 267
+    "score": 267,
+    "globalRank": 58765
   },
   {
     "login": "greekfetacheese",
@@ -11827,7 +12671,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 845,
-    "score": 698
+    "score": 698,
+    "globalRank": 58766
   },
   {
     "login": "stsourlidakis",
@@ -11841,7 +12686,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 846,
-    "score": 1298
+    "score": 1298,
+    "globalRank": 58767
   },
   {
     "login": "chronis10",
@@ -11855,7 +12701,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 847,
-    "score": 212
+    "score": 212,
+    "globalRank": 58768
   },
   {
     "login": "podikoglou",
@@ -11869,7 +12716,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 848,
-    "score": 2855
+    "score": 2855,
+    "globalRank": 58769
   },
   {
     "login": "dexter93",
@@ -11883,7 +12731,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 849,
-    "score": 552
+    "score": 552,
+    "globalRank": 58770
   },
   {
     "login": "kouk",
@@ -11897,7 +12746,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 850,
-    "score": 79
+    "score": 79,
+    "globalRank": 58771
   },
   {
     "login": "John-Atha",
@@ -11911,7 +12761,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 851,
-    "score": 1683
+    "score": 1683,
+    "globalRank": 58772
   },
   {
     "login": "stefaniamak",
@@ -11925,7 +12776,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 852,
-    "score": 383
+    "score": 383,
+    "globalRank": 58773
   },
   {
     "login": "anastasiamousa",
@@ -11939,7 +12791,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 853,
-    "score": 58
+    "score": 58,
+    "globalRank": 58774
   },
   {
     "login": "srigas",
@@ -11953,7 +12806,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 854,
-    "score": 790
+    "score": 790,
+    "globalRank": 58775
   },
   {
     "login": "PavlosMelissinos",
@@ -11967,7 +12821,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 855,
-    "score": 52
+    "score": 52,
+    "globalRank": 58776
   },
   {
     "login": "tdgs",
@@ -11981,7 +12836,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 856,
-    "score": 45
+    "score": 45,
+    "globalRank": 58777
   },
   {
     "login": "kleinmind",
@@ -11995,7 +12851,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 857,
-    "score": 40
+    "score": 40,
+    "globalRank": 58778
   },
   {
     "login": "atsta",
@@ -12009,7 +12866,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 858,
-    "score": 51
+    "score": 51,
+    "globalRank": 58779
   },
   {
     "login": "yordanraychev",
@@ -12023,7 +12881,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 859,
-    "score": 38
+    "score": 38,
+    "globalRank": 58780
   },
   {
     "login": "georgiosgiatsidis",
@@ -12037,7 +12896,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 860,
-    "score": 219
+    "score": 219,
+    "globalRank": 58781
   },
   {
     "login": "theoklitosBam7",
@@ -12051,7 +12911,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 861,
-    "score": 289
+    "score": 289,
+    "globalRank": 58782
   },
   {
     "login": "Arty2",
@@ -12065,7 +12926,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 862,
-    "score": 135
+    "score": 135,
+    "globalRank": 58783
   },
   {
     "login": "kchousos",
@@ -12079,7 +12941,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 863,
-    "score": 833
+    "score": 833,
+    "globalRank": 58784
   },
   {
     "login": "itsam",
@@ -12093,7 +12956,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 864,
-    "score": 1302
+    "score": 1302,
+    "globalRank": 59405
   },
   {
     "login": "spl-icsforth",
@@ -12107,7 +12971,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 865,
-    "score": 37
+    "score": 37,
+    "globalRank": 59406
   },
   {
     "login": "maro-michailidou",
@@ -12121,7 +12986,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 866,
-    "score": 40
+    "score": 40,
+    "globalRank": 59407
   },
   {
     "login": "GBratsos",
@@ -12135,7 +13001,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 867,
-    "score": 54
+    "score": 54,
+    "globalRank": 59408
   },
   {
     "login": "grgalex",
@@ -12149,7 +13016,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 868,
-    "score": 1443
+    "score": 1443,
+    "globalRank": 59409
   },
   {
     "login": "zafeirisdimi",
@@ -12163,7 +13031,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 869,
-    "score": 37
+    "score": 37,
+    "globalRank": 59410
   },
   {
     "login": "pvassil",
@@ -12177,7 +13046,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 870,
-    "score": 44
+    "score": 44,
+    "globalRank": 59411
   },
   {
     "login": "mariosant",
@@ -12191,7 +13061,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 871,
-    "score": 1322
+    "score": 1322,
+    "globalRank": 59412
   },
   {
     "login": "dftm",
@@ -12205,7 +13076,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 872,
-    "score": 80
+    "score": 80,
+    "globalRank": 59413
   },
   {
     "login": "avgenakisg",
@@ -12219,7 +13091,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 873,
-    "score": 434
+    "score": 434,
+    "globalRank": 59414
   },
   {
     "login": "LeoLoupos",
@@ -12233,7 +13106,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 874,
-    "score": 37
+    "score": 37,
+    "globalRank": 59415
   },
   {
     "login": "athakapo",
@@ -12247,7 +13121,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 875,
-    "score": 46
+    "score": 46,
+    "globalRank": 59416
   },
   {
     "login": "abeis",
@@ -12261,7 +13136,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 876,
-    "score": 116
+    "score": 116,
+    "globalRank": 59417
   },
   {
     "login": "actuallylost",
@@ -12275,7 +13151,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 877,
-    "score": 405
+    "score": 405,
+    "globalRank": 59418
   },
   {
     "login": "GeoKrom",
@@ -12289,7 +13166,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 878,
-    "score": 114
+    "score": 114,
+    "globalRank": 59419
   },
   {
     "login": "zelaki",
@@ -12303,7 +13181,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 879,
-    "score": 161
+    "score": 161,
+    "globalRank": 59420
   },
   {
     "login": "evangelosmeklis",
@@ -12317,7 +13196,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 880,
-    "score": 439
+    "score": 439,
+    "globalRank": 59421
   },
   {
     "login": "dbaltas",
@@ -12331,7 +13211,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 881,
-    "score": 37
+    "score": 37,
+    "globalRank": 59422
   },
   {
     "login": "itsMyrto",
@@ -12345,7 +13226,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 882,
-    "score": 222
+    "score": 222,
+    "globalRank": 59423
   },
   {
     "login": "kpech21",
@@ -12359,7 +13241,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 883,
-    "score": 61
+    "score": 61,
+    "globalRank": 59424
   },
   {
     "login": "Skorpinakos",
@@ -12373,7 +13256,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 884,
-    "score": 65
+    "score": 65,
+    "globalRank": 59425
   },
   {
     "login": "christosc",
@@ -12387,7 +13271,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 885,
-    "score": 182
+    "score": 182,
+    "globalRank": 60101
   },
   {
     "login": "dityas",
@@ -12401,7 +13286,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 886,
-    "score": 73
+    "score": 73,
+    "globalRank": 60102
   },
   {
     "login": "paulkokos",
@@ -12415,7 +13301,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 887,
-    "score": 2123
+    "score": 2123,
+    "globalRank": 60103
   },
   {
     "login": "kchasialis",
@@ -12429,7 +13316,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 888,
-    "score": 252
+    "score": 252,
+    "globalRank": 60104
   },
   {
     "login": "kkopanidis",
@@ -12443,7 +13331,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 889,
-    "score": 1923
+    "score": 1923,
+    "globalRank": 60105
   },
   {
     "login": "oefremidis",
@@ -12457,7 +13346,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 890,
-    "score": 100
+    "score": 100,
+    "globalRank": 60106
   },
   {
     "login": "akolybelnikov",
@@ -12471,7 +13361,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 891,
-    "score": 235
+    "score": 235,
+    "globalRank": 60107
   },
   {
     "login": "moukoublen",
@@ -12485,7 +13376,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 892,
-    "score": 939
+    "score": 939,
+    "globalRank": 60108
   },
   {
     "login": "anagstef",
@@ -12499,7 +13391,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 893,
-    "score": 1495
+    "score": 1495,
+    "globalRank": 60109
   },
   {
     "login": "PavlopoulosLab",
@@ -12513,7 +13406,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 894,
-    "score": 36
+    "score": 36,
+    "globalRank": 60110
   },
   {
     "login": "z4p5a9",
@@ -12527,7 +13421,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 895,
-    "score": 489
+    "score": 489,
+    "globalRank": 60111
   },
   {
     "login": "omzlo",
@@ -12541,7 +13436,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 896,
-    "score": 238
+    "score": 238,
+    "globalRank": 60112
   },
   {
     "login": "kostistsaprailis",
@@ -12555,7 +13451,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 897,
-    "score": 200
+    "score": 200,
+    "globalRank": 60113
   },
   {
     "login": "alexpiti",
@@ -12569,7 +13466,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 898,
-    "score": 36
+    "score": 36,
+    "globalRank": 60114
   },
   {
     "login": "ikyriak",
@@ -12583,7 +13481,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 899,
-    "score": 36
+    "score": 36,
+    "globalRank": 60115
   },
   {
     "login": "tasos14",
@@ -12597,7 +13496,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 900,
-    "score": 871
+    "score": 871,
+    "globalRank": 60116
   },
   {
     "login": "mfragkoulis",
@@ -12611,7 +13511,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 901,
-    "score": 44
+    "score": 44,
+    "globalRank": 60117
   },
   {
     "login": "antoni4040",
@@ -12625,7 +13526,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 902,
-    "score": 58
+    "score": 58,
+    "globalRank": 60118
   },
   {
     "login": "schmitzlab",
@@ -12639,7 +13541,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 903,
-    "score": 51
+    "score": 51,
+    "globalRank": 60119
   },
   {
     "login": "vdimitriad",
@@ -12653,7 +13556,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 904,
-    "score": 39
+    "score": 39,
+    "globalRank": 60120
   },
   {
     "login": "nikolasd",
@@ -12667,7 +13571,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 905,
-    "score": 2016
+    "score": 2016,
+    "globalRank": 60121
   },
   {
     "login": "gkech",
@@ -12681,7 +13586,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 906,
-    "score": 1108
+    "score": 1108,
+    "globalRank": 60122
   },
   {
     "login": "katsfak",
@@ -12695,7 +13601,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 907,
-    "score": 405
+    "score": 405,
+    "globalRank": 60123
   },
   {
     "login": "aemiliu5",
@@ -12709,7 +13616,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 908,
-    "score": 79
+    "score": 79,
+    "globalRank": 60124
   },
   {
     "login": "kostasrim",
@@ -12723,7 +13631,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 909,
-    "score": 697
+    "score": 697,
+    "globalRank": 60125
   },
   {
     "login": "iliastsi",
@@ -12737,7 +13646,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 910,
-    "score": 37
+    "score": 37,
+    "globalRank": 60126
   },
   {
     "login": "Achno",
@@ -12751,7 +13661,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 911,
-    "score": 177
+    "score": 177,
+    "globalRank": 60127
   },
   {
     "login": "micbakos",
@@ -12765,7 +13676,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 912,
-    "score": 239
+    "score": 239,
+    "globalRank": 60128
   },
   {
     "login": "mariosffx",
@@ -12779,7 +13691,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 913,
-    "score": 123
+    "score": 123,
+    "globalRank": 60827
   },
   {
     "login": "ChristosTrimas",
@@ -12793,7 +13706,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 914,
-    "score": 35
+    "score": 35,
+    "globalRank": 60828
   },
   {
     "login": "cnisidis",
@@ -12807,7 +13721,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 915,
-    "score": 408
+    "score": 408,
+    "globalRank": 60829
   },
   {
     "login": "MimisK13",
@@ -12821,7 +13736,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 916,
-    "score": 200
+    "score": 200,
+    "globalRank": 60830
   },
   {
     "login": "kostaslazaros",
@@ -12835,7 +13751,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 917,
-    "score": 96
+    "score": 96,
+    "globalRank": 60831
   },
   {
     "login": "PavlosP1987",
@@ -12849,7 +13766,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 918,
-    "score": 68
+    "score": 68,
+    "globalRank": 60832
   },
   {
     "login": "tharropoulos",
@@ -12863,7 +13781,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 919,
-    "score": 1427
+    "score": 1427,
+    "globalRank": 60833
   },
   {
     "login": "nkokkos",
@@ -12877,7 +13796,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 920,
-    "score": 351
+    "score": 351,
+    "globalRank": 60834
   },
   {
     "login": "arisgk",
@@ -12891,7 +13811,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 921,
-    "score": 930
+    "score": 930,
+    "globalRank": 60835
   },
   {
     "login": "tassosm",
@@ -12905,7 +13826,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 922,
-    "score": 584
+    "score": 584,
+    "globalRank": 60836
   },
   {
     "login": "KostaSav",
@@ -12919,7 +13841,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 923,
-    "score": 42
+    "score": 42,
+    "globalRank": 60837
   },
   {
     "login": "biodeveloper",
@@ -12933,7 +13856,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 924,
-    "score": 35
+    "score": 35,
+    "globalRank": 60838
   },
   {
     "login": "nijoe1",
@@ -12947,7 +13871,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 925,
-    "score": 682
+    "score": 682,
+    "globalRank": 60839
   },
   {
     "login": "solarblue",
@@ -12961,7 +13886,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 926,
-    "score": 176
+    "score": 176,
+    "globalRank": 60840
   },
   {
     "login": "amsichani",
@@ -12975,7 +13901,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 927,
-    "score": 36
+    "score": 36,
+    "globalRank": 60841
   },
   {
     "login": "Straw-Hat-Hacks",
@@ -12989,7 +13916,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 928,
-    "score": 132
+    "score": 132,
+    "globalRank": 60842
   },
   {
     "login": "zisisvakras",
@@ -13003,7 +13931,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 929,
-    "score": 361
+    "score": 361,
+    "globalRank": 60843
   },
   {
     "login": "PavlosIsaris",
@@ -13017,7 +13946,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 930,
-    "score": 2921
+    "score": 2921,
+    "globalRank": 60844
   },
   {
     "login": "alexkiousis",
@@ -13031,7 +13961,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 931,
-    "score": 35
+    "score": 35,
+    "globalRank": 60845
   },
   {
     "login": "alexbradshaw",
@@ -13045,7 +13976,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 932,
-    "score": 269
+    "score": 269,
+    "globalRank": 60846
   },
   {
     "login": "memaskal",
@@ -13059,7 +13991,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 933,
-    "score": 38
+    "score": 38,
+    "globalRank": 60847
   },
   {
     "login": "astratakis",
@@ -13073,7 +14006,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 934,
-    "score": 738
+    "score": 738,
+    "globalRank": 60848
   },
   {
     "login": "tougrel",
@@ -13087,7 +14021,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 935,
-    "score": 199
+    "score": 199,
+    "globalRank": 60849
   },
   {
     "login": "smokris",
@@ -13101,7 +14036,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 936,
-    "score": 111
+    "score": 111,
+    "globalRank": 60850
   },
   {
     "login": "rotheconrad",
@@ -13115,7 +14051,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 937,
-    "score": 559
+    "score": 559,
+    "globalRank": 60851
   },
   {
     "login": "Sedictious",
@@ -13129,7 +14066,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 938,
-    "score": 40
+    "score": 40,
+    "globalRank": 60852
   },
   {
     "login": "dsapalidis",
@@ -13143,7 +14081,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 939,
-    "score": 160
+    "score": 160,
+    "globalRank": 60853
   },
   {
     "login": "ekondis",
@@ -13157,7 +14096,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 940,
-    "score": 43
+    "score": 43,
+    "globalRank": 60854
   },
   {
     "login": "tasos-m",
@@ -13171,7 +14111,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 941,
-    "score": 35
+    "score": 35,
+    "globalRank": 60855
   },
   {
     "login": "giorgosnikolaou",
@@ -13185,7 +14126,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 942,
-    "score": 250
+    "score": 250,
+    "globalRank": 60856
   },
   {
     "login": "akritiko",
@@ -13199,7 +14141,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 943,
-    "score": 99
+    "score": 99,
+    "globalRank": 60857
   },
   {
     "login": "DRgreenT",
@@ -13213,7 +14156,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 944,
-    "score": 259
+    "score": 259,
+    "globalRank": 60858
   },
   {
     "login": "Vaggelis-Arg",
@@ -13227,7 +14171,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 945,
-    "score": 436
+    "score": 436,
+    "globalRank": 60859
   },
   {
     "login": "kitsorfan",
@@ -13241,7 +14186,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 946,
-    "score": 91
+    "score": 91,
+    "globalRank": 61554
   },
   {
     "login": "ZEDGR",
@@ -13255,7 +14201,8 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 947,
-    "score": 49
+    "score": 49,
+    "globalRank": 61555
   },
   {
     "login": "patsaoglou",
@@ -13269,6 +14216,7 @@
     "country": "greece",
     "countryName": "Greece",
     "countryRank": 948,
-    "score": 90
+    "score": 90,
+    "globalRank": 61556
   }
 ]

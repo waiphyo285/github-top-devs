@@ -11,7 +11,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 1,
-    "score": 112407
+    "score": 112407,
+    "globalRank": 1
   },
   {
     "login": "diego3g",
@@ -25,7 +26,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 2,
-    "score": 34081
+    "score": 34081,
+    "globalRank": 17
   },
   {
     "login": "akitaonrails",
@@ -39,7 +41,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 3,
-    "score": 19240
+    "score": 19240,
+    "globalRank": 59
   },
   {
     "login": "maykbrito",
@@ -53,7 +56,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 4,
-    "score": 17718
+    "score": 17718,
+    "globalRank": 61
   },
   {
     "login": "acenelio",
@@ -67,7 +71,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 5,
-    "score": 14505
+    "score": 14505,
+    "globalRank": 89
   },
   {
     "login": "professorguanabara",
@@ -81,7 +86,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 6,
-    "score": 13117
+    "score": 13117,
+    "globalRank": 108
   },
   {
     "login": "ErickWendel",
@@ -95,7 +101,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 7,
-    "score": 11811
+    "score": 11811,
+    "globalRank": 146
   },
   {
     "login": "arthurspk",
@@ -109,7 +116,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 8,
-    "score": 12285
+    "score": 12285,
+    "globalRank": 171
   },
   {
     "login": "otaviossousa",
@@ -123,7 +131,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 9,
-    "score": 9425
+    "score": 9425,
+    "globalRank": 190
   },
   {
     "login": "luizomf",
@@ -137,7 +146,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 10,
-    "score": 12801
+    "score": 12801,
+    "globalRank": 205
   },
   {
     "login": "teteusAraujo",
@@ -151,7 +161,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 11,
-    "score": 8917
+    "score": 8917,
+    "globalRank": 207
   },
   {
     "login": "Fernanda-Kipper",
@@ -165,7 +176,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 12,
-    "score": 11240
+    "score": 11240,
+    "globalRank": 224
   },
   {
     "login": "alineai18",
@@ -179,7 +191,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 13,
-    "score": 8293
+    "score": 8293,
+    "globalRank": 235
   },
   {
     "login": "cami-la",
@@ -193,7 +206,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 14,
-    "score": 8396
+    "score": 8396,
+    "globalRank": 243
   },
   {
     "login": "Rafaelmdcarneiro",
@@ -207,7 +221,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 15,
-    "score": 8068
+    "score": 8068,
+    "globalRank": 244
   },
   {
     "login": "felipefialho",
@@ -221,7 +236,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 16,
-    "score": 10296
+    "score": 10296,
+    "globalRank": 260
   },
   {
     "login": "omariosouto",
@@ -235,7 +251,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 17,
-    "score": 9964
+    "score": 9964,
+    "globalRank": 291
   },
   {
     "login": "rodrigobranas",
@@ -249,7 +266,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 18,
-    "score": 8447
+    "score": 8447,
+    "globalRank": 311
   },
   {
     "login": "avelino",
@@ -263,7 +281,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 19,
-    "score": 9136
+    "score": 9136,
+    "globalRank": 341
   },
   {
     "login": "falvojr",
@@ -277,7 +296,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 20,
-    "score": 6816
+    "score": 6816,
+    "globalRank": 349
   },
   {
     "login": "oluiscabral",
@@ -291,7 +311,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 21,
-    "score": 7222
+    "score": 7222,
+    "globalRank": 373
   },
   {
     "login": "felipeAguiarCode",
@@ -305,7 +326,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 22,
-    "score": 5807
+    "score": 5807,
+    "globalRank": 383
   },
   {
     "login": "VictorTaelin",
@@ -319,7 +341,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 23,
-    "score": 5944
+    "score": 5944,
+    "globalRank": 404
   },
   {
     "login": "jeffersongoncalves",
@@ -333,7 +356,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 24,
-    "score": 18638
+    "score": 18638,
+    "globalRank": 426
   },
   {
     "login": "AlianeAmaral",
@@ -347,7 +371,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 25,
-    "score": 5254
+    "score": 5254,
+    "globalRank": 504
   },
   {
     "login": "danielhe4rt",
@@ -361,7 +386,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 26,
-    "score": 7716
+    "score": 7716,
+    "globalRank": 505
   },
   {
     "login": "insidegui",
@@ -375,7 +401,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 27,
-    "score": 9536
+    "score": 9536,
+    "globalRank": 506
   },
   {
     "login": "lucasrmagalhaes",
@@ -389,7 +416,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 28,
-    "score": 5063
+    "score": 5063,
+    "globalRank": 540
   },
   {
     "login": "caarlos0",
@@ -403,7 +431,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 29,
-    "score": 10848
+    "score": 10848,
+    "globalRank": 549
   },
   {
     "login": "dunossauro",
@@ -417,7 +446,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 30,
-    "score": 5482
+    "score": 5482,
+    "globalRank": 555
   },
   {
     "login": "glaucia86",
@@ -431,7 +461,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 31,
-    "score": 6391
+    "score": 6391,
+    "globalRank": 558
   },
   {
     "login": "ramalho",
@@ -445,7 +476,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 32,
-    "score": 5176
+    "score": 5176,
+    "globalRank": 568
   },
   {
     "login": "jakeliny",
@@ -459,7 +491,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 33,
-    "score": 6250
+    "score": 6250,
+    "globalRank": 570
   },
   {
     "login": "gabrielfroes",
@@ -473,7 +506,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 34,
-    "score": 4509
+    "score": 4509,
+    "globalRank": 574
   },
   {
     "login": "Rodrigo-Cn",
@@ -487,7 +521,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 35,
-    "score": 4559
+    "score": 4559,
+    "globalRank": 592
   },
   {
     "login": "andrebaltieri",
@@ -501,7 +536,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 36,
-    "score": 4896
+    "score": 4896,
+    "globalRank": 608
   },
   {
     "login": "rmanguinho",
@@ -515,7 +551,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 37,
-    "score": 4225
+    "score": 4225,
+    "globalRank": 612
   },
   {
     "login": "sibelius",
@@ -529,7 +566,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 38,
-    "score": 14652
+    "score": 14652,
+    "globalRank": 618
   },
   {
     "login": "EduardoPires",
@@ -543,7 +581,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 39,
-    "score": 4380
+    "score": 4380,
+    "globalRank": 628
   },
   {
     "login": "peas",
@@ -557,7 +596,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 40,
-    "score": 5346
+    "score": 5346,
+    "globalRank": 642
   },
   {
     "login": "jpsantos1",
@@ -571,7 +611,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 41,
-    "score": 4717
+    "score": 4717,
+    "globalRank": 665
   },
   {
     "login": "rcaferati",
@@ -585,7 +626,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 42,
-    "score": 3715
+    "score": 3715,
+    "globalRank": 748
   },
   {
     "login": "vaamonde",
@@ -599,7 +641,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 43,
-    "score": 3659
+    "score": 3659,
+    "globalRank": 764
   },
   {
     "login": "fdaciuk",
@@ -613,7 +656,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 44,
-    "score": 8889
+    "score": 8889,
+    "globalRank": 769
   },
   {
     "login": "joaomdmoura",
@@ -627,7 +671,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 45,
-    "score": 4871
+    "score": 4871,
+    "globalRank": 789
   },
   {
     "login": "vitorfs",
@@ -641,7 +686,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 46,
-    "score": 5097
+    "score": 5097,
+    "globalRank": 808
   },
   {
     "login": "LauraBeatris",
@@ -655,7 +701,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 47,
-    "score": 4379
+    "score": 4379,
+    "globalRank": 825
   },
   {
     "login": "renatogroffe",
@@ -669,7 +716,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 48,
-    "score": 6001
+    "score": 6001,
+    "globalRank": 829
   },
   {
     "login": "JVictorDias",
@@ -683,7 +731,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 49,
-    "score": 3255
+    "score": 3255,
+    "globalRank": 842
   },
   {
     "login": "brunodev85",
@@ -697,7 +746,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 50,
-    "score": 3459
+    "score": 3459,
+    "globalRank": 865
   },
   {
     "login": "felipemotarocha",
@@ -711,7 +761,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 51,
-    "score": 6682
+    "score": 6682,
+    "globalRank": 868
   },
   {
     "login": "MonicaHillman",
@@ -725,7 +776,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 52,
-    "score": 3230
+    "score": 3230,
+    "globalRank": 891
   },
   {
     "login": "rodolfomori",
@@ -739,7 +791,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 53,
-    "score": 3158
+    "score": 3158,
+    "globalRank": 955
   },
   {
     "login": "giovannamoeller",
@@ -753,7 +806,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 54,
-    "score": 3367
+    "score": 3367,
+    "globalRank": 1003
   },
   {
     "login": "bhza",
@@ -767,7 +821,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 55,
-    "score": 3258
+    "score": 3258,
+    "globalRank": 1006
   },
   {
     "login": "jonataslaw",
@@ -781,7 +836,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 56,
-    "score": 3457
+    "score": 3457,
+    "globalRank": 1028
   },
   {
     "login": "joaocarpim",
@@ -795,7 +851,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 57,
-    "score": 3164
+    "score": 3164,
+    "globalRank": 1036
   },
   {
     "login": "lauragrassig",
@@ -809,7 +866,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 58,
-    "score": 4706
+    "score": 4706,
+    "globalRank": 1064
   },
   {
     "login": "anabastos",
@@ -823,7 +881,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 59,
-    "score": 3364
+    "score": 3364,
+    "globalRank": 1097
   },
   {
     "login": "lukemorales",
@@ -837,7 +896,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 60,
-    "score": 3225
+    "score": 3225,
+    "globalRank": 1098
   },
   {
     "login": "birobirobiro",
@@ -851,7 +911,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 61,
-    "score": 5029
+    "score": 5029,
+    "globalRank": 1128
   },
   {
     "login": "ananeridev",
@@ -865,7 +926,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 62,
-    "score": 3060
+    "score": 3060,
+    "globalRank": 1138
   },
   {
     "login": "guilhermesilveira",
@@ -879,7 +941,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 63,
-    "score": 32433
+    "score": 32433,
+    "globalRank": 1158
   },
   {
     "login": "argentinaluiz",
@@ -893,7 +956,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 64,
-    "score": 3815
+    "score": 3815,
+    "globalRank": 1163
   },
   {
     "login": "vanessametonini",
@@ -907,7 +971,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 65,
-    "score": 2435
+    "score": 2435,
+    "globalRank": 1246
   },
   {
     "login": "turicas",
@@ -921,7 +986,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 66,
-    "score": 2778
+    "score": 2778,
+    "globalRank": 1299
   },
   {
     "login": "leandromoreira",
@@ -935,7 +1001,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 67,
-    "score": 2369
+    "score": 2369,
+    "globalRank": 1310
   },
   {
     "login": "tomast1337",
@@ -949,7 +1016,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 68,
-    "score": 5353
+    "score": 5353,
+    "globalRank": 1313
   },
   {
     "login": "maateusilva",
@@ -963,7 +1031,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 69,
-    "score": 5979
+    "score": 5979,
+    "globalRank": 1335
   },
   {
     "login": "BotBitmap",
@@ -977,7 +1046,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 70,
-    "score": 2310
+    "score": 2310,
+    "globalRank": 1342
   },
   {
     "login": "zanfranceschi",
@@ -991,7 +1061,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 71,
-    "score": 4209
+    "score": 4209,
+    "globalRank": 1367
   },
   {
     "login": "Perkles",
@@ -1005,7 +1076,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 72,
-    "score": 2211
+    "score": 2211,
+    "globalRank": 1428
   },
   {
     "login": "sandeco",
@@ -1019,7 +1091,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 73,
-    "score": 2207
+    "score": 2207,
+    "globalRank": 1453
   },
   {
     "login": "jpedroschmitz",
@@ -1033,7 +1106,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 74,
-    "score": 2889
+    "score": 2889,
+    "globalRank": 1487
   },
   {
     "login": "EduardoDosSantosFerreira",
@@ -1047,7 +1121,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 75,
-    "score": 2705
+    "score": 2705,
+    "globalRank": 1534
   },
   {
     "login": "desecsecurity",
@@ -1061,7 +1136,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 76,
-    "score": 1992
+    "score": 1992,
+    "globalRank": 1631
   },
   {
     "login": "giggio",
@@ -1075,7 +1151,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 77,
-    "score": 3893
+    "score": 3893,
+    "globalRank": 1651
   },
   {
     "login": "lvgalvao",
@@ -1089,7 +1166,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 78,
-    "score": 2325
+    "score": 2325,
+    "globalRank": 1673
   },
   {
     "login": "vsouzx",
@@ -1103,7 +1181,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 79,
-    "score": 2233
+    "score": 2233,
+    "globalRank": 1698
   },
   {
     "login": "JulianaAmoasei",
@@ -1117,7 +1196,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 80,
-    "score": 2003
+    "score": 2003,
+    "globalRank": 1706
   },
   {
     "login": "professorjosedeassis",
@@ -1131,7 +1211,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 81,
-    "score": 2086
+    "score": 2086,
+    "globalRank": 1718
   },
   {
     "login": "josepholiveira",
@@ -1145,7 +1226,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 82,
-    "score": 3148
+    "score": 3148,
+    "globalRank": 1801
   },
   {
     "login": "RubensZimbres",
@@ -1159,7 +1241,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 83,
-    "score": 2386
+    "score": 2386,
+    "globalRank": 1853
   },
   {
     "login": "asouza",
@@ -1173,7 +1256,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 84,
-    "score": 1818
+    "score": 1818,
+    "globalRank": 1878
   },
   {
     "login": "luchina-gabriel",
@@ -1187,7 +1271,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 85,
-    "score": 2131
+    "score": 2131,
+    "globalRank": 1885
   },
   {
     "login": "mulheresemdados",
@@ -1201,7 +1286,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 86,
-    "score": 1748
+    "score": 1748,
+    "globalRank": 1936
   },
   {
     "login": "deyvin",
@@ -1215,7 +1301,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 87,
-    "score": 2270
+    "score": 2270,
+    "globalRank": 1985
   },
   {
     "login": "Wanderson-Magalhaes",
@@ -1229,7 +1316,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 88,
-    "score": 1697
+    "score": 1697,
+    "globalRank": 2007
   },
   {
     "login": "paulo-magls",
@@ -1243,7 +1331,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 89,
-    "score": 1669
+    "score": 1669,
+    "globalRank": 2055
   },
   {
     "login": "jaydson",
@@ -1257,7 +1346,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 90,
-    "score": 1690
+    "score": 1690,
+    "globalRank": 2059
   },
   {
     "login": "joaopauloaramuni",
@@ -1271,7 +1361,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 91,
-    "score": 5735
+    "score": 5735,
+    "globalRank": 2073
   },
   {
     "login": "vsouza",
@@ -1285,7 +1376,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 92,
-    "score": 1987
+    "score": 1987,
+    "globalRank": 2088
   },
   {
     "login": "KAYOKG",
@@ -1299,7 +1391,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 93,
-    "score": 2320
+    "score": 2320,
+    "globalRank": 2091
   },
   {
     "login": "WSTxda",
@@ -1313,7 +1406,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 94,
-    "score": 2059
+    "score": 2059,
+    "globalRank": 2092
   },
   {
     "login": "sergiolopes",
@@ -1327,7 +1421,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 95,
-    "score": 2895
+    "score": 2895,
+    "globalRank": 2099
   },
   {
     "login": "daltonmenezes",
@@ -1341,7 +1436,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 96,
-    "score": 2839
+    "score": 2839,
+    "globalRank": 2118
   },
   {
     "login": "IgorHalfeld",
@@ -1355,7 +1451,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 97,
-    "score": 1608
+    "score": 1608,
+    "globalRank": 2160
   },
   {
     "login": "RafaelGSS",
@@ -1369,7 +1466,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 98,
-    "score": 4321
+    "score": 4321,
+    "globalRank": 2175
   },
   {
     "login": "luizbatanero",
@@ -1383,7 +1481,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 99,
-    "score": 2225
+    "score": 2225,
+    "globalRank": 2204
   },
   {
     "login": "robertolima-dev",
@@ -1397,7 +1496,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 100,
-    "score": 4061
+    "score": 4061,
+    "globalRank": 2222
   },
   {
     "login": "paulosalvatore",
@@ -1411,7 +1511,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 101,
-    "score": 2907
+    "score": 2907,
+    "globalRank": 2226
   },
   {
     "login": "waldemarnt",
@@ -1425,7 +1526,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 102,
-    "score": 2179
+    "score": 2179,
+    "globalRank": 2242
   },
   {
     "login": "techjuliana",
@@ -1439,7 +1541,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 103,
-    "score": 1598
+    "score": 1598,
+    "globalRank": 2244
   },
   {
     "login": "RafaelGallo",
@@ -1453,7 +1556,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 104,
-    "score": 2100
+    "score": 2100,
+    "globalRank": 2257
   },
   {
     "login": "MilenaCarecho",
@@ -1467,7 +1571,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 105,
-    "score": 1521
+    "score": 1521,
+    "globalRank": 2271
   },
   {
     "login": "jacobaraujo7",
@@ -1481,7 +1586,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 106,
-    "score": 1663
+    "score": 1663,
+    "globalRank": 2291
   },
   {
     "login": "Kamilahsantos",
@@ -1495,7 +1601,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 107,
-    "score": 1502
+    "score": 1502,
+    "globalRank": 2322
   },
   {
     "login": "gabrielle-lima",
@@ -1509,7 +1616,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 108,
-    "score": 1626
+    "score": 1626,
+    "globalRank": 2331
   },
   {
     "login": "AdrianaSaty",
@@ -1523,7 +1631,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 109,
-    "score": 1578
+    "score": 1578,
+    "globalRank": 2365
   },
   {
     "login": "wilsonfreitas",
@@ -1537,7 +1646,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 110,
-    "score": 2458
+    "score": 2458,
+    "globalRank": 2367
   },
   {
     "login": "steniowagner",
@@ -1551,7 +1661,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 111,
-    "score": 1616
+    "score": 1616,
+    "globalRank": 2378
   },
   {
     "login": "lucianopf",
@@ -1565,7 +1676,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 112,
-    "score": 2388
+    "score": 2388,
+    "globalRank": 2385
   },
   {
     "login": "fabricioveronez",
@@ -1579,7 +1691,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 113,
-    "score": 3219
+    "score": 3219,
+    "globalRank": 2421
   },
   {
     "login": "ellisonleao",
@@ -1593,7 +1706,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 114,
-    "score": 2279
+    "score": 2279,
+    "globalRank": 2439
   },
   {
     "login": "jacqueline-oliveira",
@@ -1607,7 +1721,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 115,
-    "score": 1436
+    "score": 1436,
+    "globalRank": 2455
   },
   {
     "login": "CarlosLevir",
@@ -1621,7 +1736,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 116,
-    "score": 1991
+    "score": 1991,
+    "globalRank": 2456
   },
   {
     "login": "claudiosanches",
@@ -1635,7 +1751,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 117,
-    "score": 4134
+    "score": 4134,
+    "globalRank": 2467
   },
   {
     "login": "codingscode",
@@ -1649,7 +1766,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 118,
-    "score": 2006
+    "score": 2006,
+    "globalRank": 2468
   },
   {
     "login": "gafanhotos",
@@ -1663,7 +1781,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 119,
-    "score": 1418
+    "score": 1418,
+    "globalRank": 2486
   },
   {
     "login": "juunegreiros",
@@ -1677,7 +1796,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 120,
-    "score": 2914
+    "score": 2914,
+    "globalRank": 2555
   },
   {
     "login": "micheleambrosio",
@@ -1691,7 +1811,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 121,
-    "score": 2373
+    "score": 2373,
+    "globalRank": 2558
   },
   {
     "login": "jeffhsta",
@@ -1705,7 +1826,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 122,
-    "score": 1372
+    "score": 1372,
+    "globalRank": 2608
   },
   {
     "login": "msfidelis",
@@ -1719,7 +1841,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 123,
-    "score": 1755
+    "score": 1755,
+    "globalRank": 2635
   },
   {
     "login": "flameastro",
@@ -1733,7 +1856,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 124,
-    "score": 2305
+    "score": 2305,
+    "globalRank": 2636
   },
   {
     "login": "FeynmanDaUSP",
@@ -1747,7 +1871,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 125,
-    "score": 1353
+    "score": 1353,
+    "globalRank": 2650
   },
   {
     "login": "korizyx",
@@ -1761,7 +1886,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 126,
-    "score": 1345
+    "score": 1345,
+    "globalRank": 2670
   },
   {
     "login": "afonsopacifer",
@@ -1775,7 +1901,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 127,
-    "score": 1344
+    "score": 1344,
+    "globalRank": 2671
   },
   {
     "login": "hishamhm",
@@ -1789,7 +1916,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 128,
-    "score": 2309
+    "score": 2309,
+    "globalRank": 2676
   },
   {
     "login": "Cassianosch",
@@ -1803,7 +1931,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 129,
-    "score": 2522
+    "score": 2522,
+    "globalRank": 2681
   },
   {
     "login": "EliasGcf",
@@ -1817,7 +1946,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 130,
-    "score": 1727
+    "score": 1727,
+    "globalRank": 2685
   },
   {
     "login": "JoyceFatima",
@@ -1831,7 +1961,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 131,
-    "score": 1370
+    "score": 1370,
+    "globalRank": 2721
   },
   {
     "login": "simaraconceicao",
@@ -1845,7 +1976,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 132,
-    "score": 1335
+    "score": 1335,
+    "globalRank": 2746
   },
   {
     "login": "dthabata",
@@ -1859,7 +1991,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 133,
-    "score": 1325
+    "score": 1325,
+    "globalRank": 2773
   },
   {
     "login": "andreluizsecco",
@@ -1873,7 +2006,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 134,
-    "score": 1427
+    "score": 1427,
+    "globalRank": 2792
   },
   {
     "login": "lucasfcosta",
@@ -1887,7 +2021,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 135,
-    "score": 3766
+    "score": 3766,
+    "globalRank": 2866
   },
   {
     "login": "mauricioaniche",
@@ -1901,7 +2036,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 136,
-    "score": 3003
+    "score": 3003,
+    "globalRank": 2870
   },
   {
     "login": "YuriRDev",
@@ -1915,7 +2051,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 137,
-    "score": 1632
+    "score": 1632,
+    "globalRank": 2881
   },
   {
     "login": "beatrizmilz",
@@ -1929,7 +2066,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 138,
-    "score": 1977
+    "score": 1977,
+    "globalRank": 2920
   },
   {
     "login": "giuliana-bezerra",
@@ -1943,7 +2081,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 139,
-    "score": 1265
+    "score": 1265,
+    "globalRank": 2946
   },
   {
     "login": "alexandresanlim",
@@ -1957,7 +2096,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 140,
-    "score": 1696
+    "score": 1696,
+    "globalRank": 2965
   },
   {
     "login": "rodrigooler",
@@ -1971,7 +2111,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 141,
-    "score": 6324
+    "score": 6324,
+    "globalRank": 3017
   },
   {
     "login": "josemalcher",
@@ -1985,7 +2126,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 142,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 3018
   },
   {
     "login": "infoslack",
@@ -1999,7 +2141,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 143,
-    "score": 1345
+    "score": 1345,
+    "globalRank": 3082
   },
   {
     "login": "Samuel-de-Oliveira",
@@ -2013,7 +2156,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 144,
-    "score": 1315
+    "score": 1315,
+    "globalRank": 3088
   },
   {
     "login": "Nick-Gabe",
@@ -2027,7 +2171,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 145,
-    "score": 2599
+    "score": 2599,
+    "globalRank": 3103
   },
   {
     "login": "pellizzetti",
@@ -2041,7 +2186,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 146,
-    "score": 2213
+    "score": 2213,
+    "globalRank": 3132
   },
   {
     "login": "aripiprazole",
@@ -2055,7 +2201,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 147,
-    "score": 1683
+    "score": 1683,
+    "globalRank": 3171
   },
   {
     "login": "JuanBindez",
@@ -2069,7 +2216,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 148,
-    "score": 1567
+    "score": 1567,
+    "globalRank": 3172
   },
   {
     "login": "joaohcrangel",
@@ -2083,7 +2231,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 149,
-    "score": 3693
+    "score": 3693,
+    "globalRank": 3194
   },
   {
     "login": "cassiobotaro",
@@ -2097,7 +2246,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 150,
-    "score": 2448
+    "score": 2448,
+    "globalRank": 3195
   },
   {
     "login": "matheuss",
@@ -2111,7 +2261,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 151,
-    "score": 2345
+    "score": 2345,
+    "globalRank": 3206
   },
   {
     "login": "nikumu",
@@ -2125,7 +2276,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 152,
-    "score": 1363
+    "score": 1363,
+    "globalRank": 3222
   },
   {
     "login": "FulvioFPimentel",
@@ -2139,7 +2291,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 153,
-    "score": 1152
+    "score": 1152,
+    "globalRank": 3265
   },
   {
     "login": "millermedeiros",
@@ -2153,7 +2306,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 154,
-    "score": 1152
+    "score": 1152,
+    "globalRank": 3266
   },
   {
     "login": "jgcmarins",
@@ -2167,7 +2321,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 155,
-    "score": 2759
+    "score": 2759,
+    "globalRank": 3288
   },
   {
     "login": "rg3915",
@@ -2181,7 +2336,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 156,
-    "score": 1269
+    "score": 1269,
+    "globalRank": 3346
   },
   {
     "login": "fhugoduarte",
@@ -2195,7 +2351,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 157,
-    "score": 1191
+    "score": 1191,
+    "globalRank": 3421
   },
   {
     "login": "denilsonbonatti",
@@ -2209,7 +2366,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 158,
-    "score": 1214
+    "score": 1214,
+    "globalRank": 3432
   },
   {
     "login": "cristianoAbudu",
@@ -2223,7 +2381,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 159,
-    "score": 1107
+    "score": 1107,
+    "globalRank": 3439
   },
   {
     "login": "rafaelq80",
@@ -2237,7 +2396,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 160,
-    "score": 1768
+    "score": 1768,
+    "globalRank": 3457
   },
   {
     "login": "celso-henrique",
@@ -2251,7 +2411,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 161,
-    "score": 1639
+    "score": 1639,
+    "globalRank": 3464
   },
   {
     "login": "vininjr",
@@ -2265,7 +2426,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 162,
-    "score": 2932
+    "score": 2932,
+    "globalRank": 3474
   },
   {
     "login": "felippe-regazio",
@@ -2279,7 +2441,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 163,
-    "score": 1149
+    "score": 1149,
+    "globalRank": 3500
   },
   {
     "login": "lalizita",
@@ -2293,7 +2456,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 164,
-    "score": 1112
+    "score": 1112,
+    "globalRank": 3501
   },
   {
     "login": "RafaelPrincival",
@@ -2307,7 +2471,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 165,
-    "score": 1082
+    "score": 1082,
+    "globalRank": 3543
   },
   {
     "login": "tgmarinho",
@@ -2321,7 +2486,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 166,
-    "score": 2844
+    "score": 2844,
+    "globalRank": 3544
   },
   {
     "login": "merces",
@@ -2335,7 +2501,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 167,
-    "score": 2295
+    "score": 2295,
+    "globalRank": 3564
   },
   {
     "login": "nathsouzadev",
@@ -2349,7 +2516,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 168,
-    "score": 1170
+    "score": 1170,
+    "globalRank": 3636
   },
   {
     "login": "Pleiterson",
@@ -2363,7 +2531,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 169,
-    "score": 1215
+    "score": 1215,
+    "globalRank": 3724
   },
   {
     "login": "luiztools",
@@ -2377,7 +2546,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 170,
-    "score": 1622
+    "score": 1622,
+    "globalRank": 3725
   },
   {
     "login": "kaue",
@@ -2391,7 +2561,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 171,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 3738
   },
   {
     "login": "diogomoretti",
@@ -2405,7 +2576,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 172,
-    "score": 1678
+    "score": 1678,
+    "globalRank": 3777
   },
   {
     "login": "alexandresaints",
@@ -2419,7 +2591,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 173,
-    "score": 1026
+    "score": 1026,
+    "globalRank": 3823
   },
   {
     "login": "racerxdl",
@@ -2433,7 +2606,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 174,
-    "score": 2170
+    "score": 2170,
+    "globalRank": 3845
   },
   {
     "login": "wh0isdxk",
@@ -2447,7 +2621,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 175,
-    "score": 1019
+    "score": 1019,
+    "globalRank": 3865
   },
   {
     "login": "lucasfernog",
@@ -2461,7 +2636,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 176,
-    "score": 2067
+    "score": 2067,
+    "globalRank": 3869
   },
   {
     "login": "gnuwilliam",
@@ -2475,7 +2651,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 177,
-    "score": 1728
+    "score": 1728,
+    "globalRank": 3875
   },
   {
     "login": "lpereira",
@@ -2489,7 +2666,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 178,
-    "score": 1293
+    "score": 1293,
+    "globalRank": 3882
   },
   {
     "login": "vncscds",
@@ -2503,7 +2681,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 179,
-    "score": 1521
+    "score": 1521,
+    "globalRank": 3900
   },
   {
     "login": "isyuricunha-zz",
@@ -2517,7 +2696,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 180,
-    "score": 993
+    "score": 993,
+    "globalRank": 3969
   },
   {
     "login": "alganet",
@@ -2531,7 +2711,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 181,
-    "score": 3366
+    "score": 3366,
+    "globalRank": 4009
   },
   {
     "login": "cezaraugusto",
@@ -2545,7 +2726,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 182,
-    "score": 7347
+    "score": 7347,
+    "globalRank": 4010
   },
   {
     "login": "F3lip32010",
@@ -2559,7 +2741,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 183,
-    "score": 993
+    "score": 993,
+    "globalRank": 4021
   },
   {
     "login": "isaac545454",
@@ -2573,7 +2756,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 184,
-    "score": 1088
+    "score": 1088,
+    "globalRank": 4039
   },
   {
     "login": "netojoaobatista",
@@ -2587,7 +2771,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 185,
-    "score": 979
+    "score": 979,
+    "globalRank": 4045
   },
   {
     "login": "fariasmateuss",
@@ -2601,7 +2786,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 186,
-    "score": 970
+    "score": 970,
+    "globalRank": 4099
   },
   {
     "login": "lfnovo",
@@ -2615,7 +2801,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 187,
-    "score": 3902
+    "score": 3902,
+    "globalRank": 4111
   },
   {
     "login": "felipenmoura",
@@ -2629,7 +2816,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 188,
-    "score": 1619
+    "score": 1619,
+    "globalRank": 4115
   },
   {
     "login": "angelicaweiler",
@@ -2643,7 +2831,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 189,
-    "score": 1235
+    "score": 1235,
+    "globalRank": 4122
   },
   {
     "login": "nathadriele",
@@ -2657,7 +2846,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 190,
-    "score": 1414
+    "score": 1414,
+    "globalRank": 4125
   },
   {
     "login": "MatheuZSecurity",
@@ -2671,7 +2861,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 191,
-    "score": 1133
+    "score": 1133,
+    "globalRank": 4162
   },
   {
     "login": "gabrieldejesus",
@@ -2685,7 +2876,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 192,
-    "score": 2856
+    "score": 2856,
+    "globalRank": 4175
   },
   {
     "login": "cidacastello",
@@ -2699,7 +2891,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 193,
-    "score": 957
+    "score": 957,
+    "globalRank": 4181
   },
   {
     "login": "joaocarloslima",
@@ -2713,7 +2906,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 194,
-    "score": 1322
+    "score": 1322,
+    "globalRank": 4209
   },
   {
     "login": "brunobritodev",
@@ -2727,7 +2921,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 195,
-    "score": 2193
+    "score": 2193,
+    "globalRank": 4238
   },
   {
     "login": "luizcarlosfaria",
@@ -2741,7 +2936,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 196,
-    "score": 2446
+    "score": 2446,
+    "globalRank": 4270
   },
   {
     "login": "piedro404",
@@ -2755,7 +2951,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 197,
-    "score": 2509
+    "score": 2509,
+    "globalRank": 4305
   },
   {
     "login": "steffano-da-cruz",
@@ -2769,7 +2966,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 198,
-    "score": 958
+    "score": 958,
+    "globalRank": 4323
   },
   {
     "login": "jessilyneh",
@@ -2783,7 +2981,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 199,
-    "score": 937
+    "score": 937,
+    "globalRank": 4338
   },
   {
     "login": "oguscaetano",
@@ -2797,7 +2996,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 200,
-    "score": 1152
+    "score": 1152,
+    "globalRank": 4369
   },
   {
     "login": "CleuJunior",
@@ -2811,7 +3011,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 201,
-    "score": 992
+    "score": 992,
+    "globalRank": 4382
   },
   {
     "login": "renzon",
@@ -2825,7 +3026,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 202,
-    "score": 992
+    "score": 992,
+    "globalRank": 4406
   },
   {
     "login": "carolsoaressantos",
@@ -2839,7 +3041,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 203,
-    "score": 916
+    "score": 916,
+    "globalRank": 4407
   },
   {
     "login": "ahirtonlopes",
@@ -2853,7 +3056,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 204,
-    "score": 961
+    "score": 961,
+    "globalRank": 4417
   },
   {
     "login": "endel",
@@ -2867,7 +3071,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 205,
-    "score": 3595
+    "score": 3595,
+    "globalRank": 4425
   },
   {
     "login": "Fernando-Rodrigo",
@@ -2881,7 +3086,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 206,
-    "score": 913
+    "score": 913,
+    "globalRank": 4435
   },
   {
     "login": "kelvins",
@@ -2895,7 +3101,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 207,
-    "score": 2491
+    "score": 2491,
+    "globalRank": 4449
   },
   {
     "login": "diaspd",
@@ -2909,7 +3116,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 208,
-    "score": 973
+    "score": 973,
+    "globalRank": 4475
   },
   {
     "login": "hiperesp",
@@ -2923,7 +3131,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 209,
-    "score": 2042
+    "score": 2042,
+    "globalRank": 4511
   },
   {
     "login": "JoseLucasapp",
@@ -2937,7 +3146,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 210,
-    "score": 2065
+    "score": 2065,
+    "globalRank": 4519
   },
   {
     "login": "gabaugusto",
@@ -2951,7 +3161,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 211,
-    "score": 1415
+    "score": 1415,
+    "globalRank": 4521
   },
   {
     "login": "juditecypreste",
@@ -2965,7 +3176,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 212,
-    "score": 908
+    "score": 908,
+    "globalRank": 4528
   },
   {
     "login": "ninrod",
@@ -2979,7 +3191,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 213,
-    "score": 893
+    "score": 893,
+    "globalRank": 4593
   },
   {
     "login": "alexfelipe",
@@ -2993,7 +3206,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 214,
-    "score": 884
+    "score": 884,
+    "globalRank": 4601
   },
   {
     "login": "felipecastrosales",
@@ -3007,7 +3221,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 215,
-    "score": 4412
+    "score": 4412,
+    "globalRank": 4611
   },
   {
     "login": "professorisidro",
@@ -3021,7 +3236,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 216,
-    "score": 926
+    "score": 926,
+    "globalRank": 4620
   },
   {
     "login": "AlvaroIsrael",
@@ -3035,7 +3251,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 217,
-    "score": 926
+    "score": 926,
+    "globalRank": 4630
   },
   {
     "login": "HeannaReis",
@@ -3049,7 +3266,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 218,
-    "score": 993
+    "score": 993,
+    "globalRank": 4666
   },
   {
     "login": "rponte",
@@ -3063,7 +3281,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 219,
-    "score": 1183
+    "score": 1183,
+    "globalRank": 4686
   },
   {
     "login": "leouieda",
@@ -3077,7 +3296,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 220,
-    "score": 1588
+    "score": 1588,
+    "globalRank": 4713
   },
   {
     "login": "laisfrigerio",
@@ -3091,7 +3311,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 221,
-    "score": 2289
+    "score": 2289,
+    "globalRank": 4774
   },
   {
     "login": "luanaxcardoso",
@@ -3105,7 +3326,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 222,
-    "score": 905
+    "score": 905,
+    "globalRank": 4795
   },
   {
     "login": "guzztavo2",
@@ -3119,7 +3341,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 223,
-    "score": 1829
+    "score": 1829,
+    "globalRank": 4803
   },
   {
     "login": "willgm",
@@ -3133,7 +3356,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 224,
-    "score": 1021
+    "score": 1021,
+    "globalRank": 4807
   },
   {
     "login": "thiagoleitecarvalho",
@@ -3147,7 +3371,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 225,
-    "score": 903
+    "score": 903,
+    "globalRank": 4864
   },
   {
     "login": "kterra",
@@ -3161,7 +3386,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 226,
-    "score": 883
+    "score": 883,
+    "globalRank": 4885
   },
   {
     "login": "rafaelmaiach",
@@ -3175,7 +3401,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 227,
-    "score": 1130
+    "score": 1130,
+    "globalRank": 4930
   },
   {
     "login": "tuliofaria",
@@ -3189,7 +3416,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 228,
-    "score": 4369
+    "score": 4369,
+    "globalRank": 4931
   },
   {
     "login": "saulocatharino",
@@ -3203,7 +3431,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 229,
-    "score": 831
+    "score": 831,
+    "globalRank": 4973
   },
   {
     "login": "ShadowMario",
@@ -3217,7 +3446,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 230,
-    "score": 846
+    "score": 846,
+    "globalRank": 4974
   },
   {
     "login": "rpeleias-v1",
@@ -3231,7 +3461,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 231,
-    "score": 829
+    "score": 829,
+    "globalRank": 4986
   },
   {
     "login": "luizcalaca",
@@ -3245,7 +3476,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 232,
-    "score": 923
+    "score": 923,
+    "globalRank": 4994
   },
   {
     "login": "cibelerusso",
@@ -3259,7 +3491,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 233,
-    "score": 944
+    "score": 944,
+    "globalRank": 5023
   },
   {
     "login": "thiagopac",
@@ -3273,7 +3506,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 234,
-    "score": 1929
+    "score": 1929,
+    "globalRank": 5038
   },
   {
     "login": "gilbarbara",
@@ -3287,7 +3521,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 235,
-    "score": 2149
+    "score": 2149,
+    "globalRank": 5071
   },
   {
     "login": "heynemann",
@@ -3301,7 +3536,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 236,
-    "score": 6015
+    "score": 6015,
+    "globalRank": 5102
   },
   {
     "login": "gabrielrcouto",
@@ -3315,7 +3551,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 237,
-    "score": 865
+    "score": 865,
+    "globalRank": 5182
   },
   {
     "login": "KlausEverWalkingDev",
@@ -3329,7 +3566,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 238,
-    "score": 802
+    "score": 802,
+    "globalRank": 5197
   },
   {
     "login": "dsfb",
@@ -3343,7 +3581,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 239,
-    "score": 932
+    "score": 932,
+    "globalRank": 5198
   },
   {
     "login": "marcopollivier",
@@ -3357,7 +3596,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 240,
-    "score": 1636
+    "score": 1636,
+    "globalRank": 5269
   },
   {
     "login": "vinicius73",
@@ -3371,7 +3611,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 241,
-    "score": 3645
+    "score": 3645,
+    "globalRank": 5288
   },
   {
     "login": "RodrigoAnjos2004",
@@ -3385,7 +3626,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 242,
-    "score": 780
+    "score": 780,
+    "globalRank": 5341
   },
   {
     "login": "VitorVilela7",
@@ -3399,7 +3641,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 243,
-    "score": 782
+    "score": 782,
+    "globalRank": 5342
   },
   {
     "login": "caio-andres",
@@ -3413,7 +3656,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 244,
-    "score": 1096
+    "score": 1096,
+    "globalRank": 5357
   },
   {
     "login": "dfalbel",
@@ -3427,7 +3671,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 245,
-    "score": 2046
+    "score": 2046,
+    "globalRank": 5367
   },
   {
     "login": "macoratti",
@@ -3441,7 +3686,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 246,
-    "score": 860
+    "score": 860,
+    "globalRank": 5368
   },
   {
     "login": "TiuTalk",
@@ -3455,7 +3701,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 247,
-    "score": 3059
+    "score": 3059,
+    "globalRank": 5390
   },
   {
     "login": "natalia-fs",
@@ -3469,7 +3716,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 248,
-    "score": 1023
+    "score": 1023,
+    "globalRank": 5397
   },
   {
     "login": "bernaferrari",
@@ -3483,7 +3731,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 249,
-    "score": 3482
+    "score": 3482,
+    "globalRank": 5398
   },
   {
     "login": "juanplopes",
@@ -3497,7 +3746,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 250,
-    "score": 2974
+    "score": 2974,
+    "globalRank": 5404
   },
   {
     "login": "NickeManarin",
@@ -3511,7 +3761,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 251,
-    "score": 869
+    "score": 869,
+    "globalRank": 5411
   },
   {
     "login": "gabuldev",
@@ -3525,7 +3776,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 252,
-    "score": 834
+    "score": 834,
+    "globalRank": 5412
   },
   {
     "login": "nicoddemus",
@@ -3539,7 +3791,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 253,
-    "score": 1781
+    "score": 1781,
+    "globalRank": 5413
   },
   {
     "login": "guisouza",
@@ -3553,7 +3806,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 254,
-    "score": 847
+    "score": 847,
+    "globalRank": 5420
   },
   {
     "login": "leocavalcante",
@@ -3567,7 +3821,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 255,
-    "score": 5484
+    "score": 5484,
+    "globalRank": 5421
   },
   {
     "login": "Zurubabel",
@@ -3581,7 +3836,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 256,
-    "score": 769
+    "score": 769,
+    "globalRank": 5442
   },
   {
     "login": "MateusHoffman",
@@ -3595,7 +3851,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 257,
-    "score": 981
+    "score": 981,
+    "globalRank": 5478
   },
   {
     "login": "georgeguimaraes",
@@ -3609,7 +3866,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 258,
-    "score": 5700
+    "score": 5700,
+    "globalRank": 5479
   },
   {
     "login": "Notlynoel",
@@ -3623,7 +3881,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 259,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 5514
   },
   {
     "login": "MrPowerGamerBR",
@@ -3637,7 +3896,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 260,
-    "score": 4176
+    "score": 4176,
+    "globalRank": 5536
   },
   {
     "login": "rinaldodev",
@@ -3651,7 +3911,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 261,
-    "score": 829
+    "score": 829,
+    "globalRank": 5547
   },
   {
     "login": "villares",
@@ -3665,7 +3926,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 262,
-    "score": 2896
+    "score": 2896,
+    "globalRank": 5553
   },
   {
     "login": "ChristoPy",
@@ -3679,7 +3941,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 263,
-    "score": 4547
+    "score": 4547,
+    "globalRank": 5572
   },
   {
     "login": "nglauber",
@@ -3693,7 +3956,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 264,
-    "score": 751
+    "score": 751,
+    "globalRank": 5595
   },
   {
     "login": "EdsonMSouza",
@@ -3707,7 +3971,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 265,
-    "score": 830
+    "score": 830,
+    "globalRank": 5643
   },
   {
     "login": "alexandreaquiles",
@@ -3721,7 +3986,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 266,
-    "score": 1028
+    "score": 1028,
+    "globalRank": 5684
   },
   {
     "login": "tapajos",
@@ -3735,7 +4001,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 267,
-    "score": 1494
+    "score": 1494,
+    "globalRank": 5691
   },
   {
     "login": "wbruno",
@@ -3749,7 +4016,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 268,
-    "score": 3679
+    "score": 3679,
+    "globalRank": 5692
   },
   {
     "login": "fronthendy",
@@ -3763,7 +4031,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 269,
-    "score": 737
+    "score": 737,
+    "globalRank": 5703
   },
   {
     "login": "danilo-vieira",
@@ -3777,7 +4046,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 270,
-    "score": 1235
+    "score": 1235,
+    "globalRank": 5727
   },
   {
     "login": "jrdutra",
@@ -3791,7 +4061,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 271,
-    "score": 1030
+    "score": 1030,
+    "globalRank": 5750
   },
   {
     "login": "brunos3d",
@@ -3805,7 +4076,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 272,
-    "score": 2964
+    "score": 2964,
+    "globalRank": 5763
   },
   {
     "login": "luisdeol",
@@ -3819,7 +4091,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 273,
-    "score": 869
+    "score": 869,
+    "globalRank": 5791
   },
   {
     "login": "fulviavaz",
@@ -3833,7 +4106,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 274,
-    "score": 896
+    "score": 896,
+    "globalRank": 5829
   },
   {
     "login": "alestanalves",
@@ -3847,7 +4121,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 275,
-    "score": 2010
+    "score": 2010,
+    "globalRank": 5842
   },
   {
     "login": "EderSantana",
@@ -3861,7 +4136,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 276,
-    "score": 713
+    "score": 713,
+    "globalRank": 5911
   },
   {
     "login": "leonardoscorza",
@@ -3875,7 +4151,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 277,
-    "score": 1211
+    "score": 1211,
+    "globalRank": 5949
   },
   {
     "login": "HakaCode",
@@ -3889,7 +4166,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 278,
-    "score": 705
+    "score": 705,
+    "globalRank": 5963
   },
   {
     "login": "eldermoraes",
@@ -3903,7 +4181,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 279,
-    "score": 861
+    "score": 861,
+    "globalRank": 5972
   },
   {
     "login": "h-ssiqueira",
@@ -3917,7 +4196,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 280,
-    "score": 815
+    "score": 815,
+    "globalRank": 5977
   },
   {
     "login": "angelahempkmeier",
@@ -3931,7 +4211,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 281,
-    "score": 909
+    "score": 909,
+    "globalRank": 5990
   },
   {
     "login": "rafapereirabr",
@@ -3945,7 +4226,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 282,
-    "score": 2134
+    "score": 2134,
+    "globalRank": 5998
   },
   {
     "login": "galvez",
@@ -3959,7 +4241,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 283,
-    "score": 1061
+    "score": 1061,
+    "globalRank": 5999
   },
   {
     "login": "mrsrina",
@@ -3973,7 +4256,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 284,
-    "score": 1266
+    "score": 1266,
+    "globalRank": 6008
   },
   {
     "login": "canesche",
@@ -3987,7 +4271,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 285,
-    "score": 772
+    "score": 772,
+    "globalRank": 6021
   },
   {
     "login": "nyousefali",
@@ -4001,7 +4286,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 286,
-    "score": 698
+    "score": 698,
+    "globalRank": 6022
   },
   {
     "login": "lucianodiisouza",
@@ -4015,7 +4301,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 287,
-    "score": 2873
+    "score": 2873,
+    "globalRank": 6023
   },
   {
     "login": "diogocezar",
@@ -4029,7 +4316,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 288,
-    "score": 4516
+    "score": 4516,
+    "globalRank": 6047
   },
   {
     "login": "melissawm",
@@ -4043,7 +4331,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 289,
-    "score": 1720
+    "score": 1720,
+    "globalRank": 6048
   },
   {
     "login": "Motirck",
@@ -4057,7 +4346,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 290,
-    "score": 779
+    "score": 779,
+    "globalRank": 6055
   },
   {
     "login": "knopmickael",
@@ -4071,7 +4361,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 291,
-    "score": 778
+    "score": 778,
+    "globalRank": 6067
   },
   {
     "login": "hallpaz",
@@ -4085,7 +4376,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 292,
-    "score": 758
+    "score": 758,
+    "globalRank": 6068
   },
   {
     "login": "marciomrd",
@@ -4099,7 +4391,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 293,
-    "score": 731
+    "score": 731,
+    "globalRank": 6088
   },
   {
     "login": "engelgabriel",
@@ -4113,7 +4406,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 294,
-    "score": 689
+    "score": 689,
+    "globalRank": 6114
   },
   {
     "login": "MatheusAlvarez",
@@ -4127,7 +4421,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 295,
-    "score": 895
+    "score": 895,
+    "globalRank": 6161
   },
   {
     "login": "larissadcew",
@@ -4141,7 +4436,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 296,
-    "score": 680
+    "score": 680,
+    "globalRank": 6205
   },
   {
     "login": "mari4souza",
@@ -4155,7 +4451,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 297,
-    "score": 895
+    "score": 895,
+    "globalRank": 6247
   },
   {
     "login": "alisonpezzott",
@@ -4169,7 +4466,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 298,
-    "score": 1518
+    "score": 1518,
+    "globalRank": 6260
   },
   {
     "login": "carlosportella16",
@@ -4183,7 +4481,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 299,
-    "score": 953
+    "score": 953,
+    "globalRank": 6288
   },
   {
     "login": "steppat",
@@ -4197,7 +4496,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 300,
-    "score": 678
+    "score": 678,
+    "globalRank": 6297
   },
   {
     "login": "erickzanardo",
@@ -4211,7 +4511,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 301,
-    "score": 6518
+    "score": 6518,
+    "globalRank": 6311
   },
   {
     "login": "ThiagoBarradas",
@@ -4225,7 +4526,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 302,
-    "score": 695
+    "score": 695,
+    "globalRank": 6312
   },
   {
     "login": "jtrecenti",
@@ -4239,7 +4541,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 303,
-    "score": 2035
+    "score": 2035,
+    "globalRank": 6320
   },
   {
     "login": "joaostack",
@@ -4253,7 +4556,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 304,
-    "score": 1347
+    "score": 1347,
+    "globalRank": 6348
   },
   {
     "login": "guanabara-eteot",
@@ -4267,7 +4571,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 305,
-    "score": 663
+    "score": 663,
+    "globalRank": 6355
   },
   {
     "login": "FabianaCampanari",
@@ -4281,7 +4586,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 306,
-    "score": 26643
+    "score": 26643,
+    "globalRank": 6367
   },
   {
     "login": "yuredev",
@@ -4295,7 +4601,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 307,
-    "score": 674
+    "score": 674,
+    "globalRank": 6376
   },
   {
     "login": "JackWh0",
@@ -4309,7 +4616,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 308,
-    "score": 702
+    "score": 702,
+    "globalRank": 6445
   },
   {
     "login": "FelipeSDS23",
@@ -4323,7 +4631,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 309,
-    "score": 658
+    "score": 658,
+    "globalRank": 6446
   },
   {
     "login": "danhpaiva",
@@ -4337,7 +4646,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 310,
-    "score": 2031
+    "score": 2031,
+    "globalRank": 6460
   },
   {
     "login": "lyssacavalcanti",
@@ -4351,7 +4661,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 311,
-    "score": 699
+    "score": 699,
+    "globalRank": 6461
   },
   {
     "login": "adrielcafe",
@@ -4365,7 +4676,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 312,
-    "score": 3083
+    "score": 3083,
+    "globalRank": 6483
   },
   {
     "login": "lucasmazza",
@@ -4379,7 +4691,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 313,
-    "score": 3303
+    "score": 3303,
+    "globalRank": 6484
   },
   {
     "login": "phpenterprise",
@@ -4393,7 +4706,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 314,
-    "score": 821
+    "score": 821,
+    "globalRank": 6508
   },
   {
     "login": "cjpatoilo",
@@ -4407,7 +4721,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 315,
-    "score": 748
+    "score": 748,
+    "globalRank": 6532
   },
   {
     "login": "carlosbrando",
@@ -4421,7 +4736,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 316,
-    "score": 903
+    "score": 903,
+    "globalRank": 6533
   },
   {
     "login": "thgmhz",
@@ -4435,7 +4751,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 317,
-    "score": 708
+    "score": 708,
+    "globalRank": 6541
   },
   {
     "login": "obetomuniz",
@@ -4449,7 +4766,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 318,
-    "score": 1248
+    "score": 1248,
+    "globalRank": 6542
   },
   {
     "login": "Mssjim",
@@ -4463,7 +4781,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 319,
-    "score": 757
+    "score": 757,
+    "globalRank": 6560
   },
   {
     "login": "cyz",
@@ -4477,7 +4796,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 320,
-    "score": 1211
+    "score": 1211,
+    "globalRank": 6584
   },
   {
     "login": "akinncar",
@@ -4491,7 +4811,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 321,
-    "score": 1390
+    "score": 1390,
+    "globalRank": 6605
   },
   {
     "login": "danvitoriano",
@@ -4505,7 +4826,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 322,
-    "score": 1649
+    "score": 1649,
+    "globalRank": 6606
   },
   {
     "login": "stherzada",
@@ -4519,7 +4841,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 323,
-    "score": 1048
+    "score": 1048,
+    "globalRank": 6615
   },
   {
     "login": "wilcorrea",
@@ -4533,7 +4856,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 324,
-    "score": 3980
+    "score": 3980,
+    "globalRank": 6626
   },
   {
     "login": "mariana-cristina-dias",
@@ -4547,7 +4871,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 325,
-    "score": 650
+    "score": 650,
+    "globalRank": 6639
   },
   {
     "login": "luisleao",
@@ -4561,7 +4886,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 326,
-    "score": 1449
+    "score": 1449,
+    "globalRank": 6659
   },
   {
     "login": "tjfaccipieri",
@@ -4575,7 +4901,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 327,
-    "score": 893
+    "score": 893,
+    "globalRank": 6713
   },
   {
     "login": "johnatas-henrique",
@@ -4589,7 +4916,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 328,
-    "score": 1800
+    "score": 1800,
+    "globalRank": 6766
   },
   {
     "login": "PabloG-7",
@@ -4603,7 +4931,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 329,
-    "score": 1886
+    "score": 1886,
+    "globalRank": 6778
   },
   {
     "login": "Marcos9868",
@@ -4617,7 +4946,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 330,
-    "score": 816
+    "score": 816,
+    "globalRank": 6790
   },
   {
     "login": "walissonsilva",
@@ -4631,7 +4961,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 331,
-    "score": 655
+    "score": 655,
+    "globalRank": 6791
   },
   {
     "login": "scarletquasar",
@@ -4645,7 +4976,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 332,
-    "score": 7741
+    "score": 7741,
+    "globalRank": 6801
   },
   {
     "login": "ogiansouza",
@@ -4659,7 +4991,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 333,
-    "score": 683
+    "score": 683,
+    "globalRank": 6802
   },
   {
     "login": "juniorjrjl",
@@ -4673,7 +5006,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 334,
-    "score": 916
+    "score": 916,
+    "globalRank": 6813
   },
   {
     "login": "melissapalhano",
@@ -4687,7 +5021,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 335,
-    "score": 859
+    "score": 859,
+    "globalRank": 6814
   },
   {
     "login": "paulozip",
@@ -4701,7 +5036,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 336,
-    "score": 650
+    "score": 650,
+    "globalRank": 6815
   },
   {
     "login": "danieldonda",
@@ -4715,7 +5051,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 337,
-    "score": 640
+    "score": 640,
+    "globalRank": 6816
   },
   {
     "login": "talitapagani",
@@ -4729,7 +5066,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 338,
-    "score": 621
+    "score": 621,
+    "globalRank": 6826
   },
   {
     "login": "Taimisson",
@@ -4743,7 +5081,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 339,
-    "score": 736
+    "score": 736,
+    "globalRank": 6827
   },
   {
     "login": "Defmc",
@@ -4757,7 +5096,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 340,
-    "score": 862
+    "score": 862,
+    "globalRank": 6828
   },
   {
     "login": "malukenho",
@@ -4771,7 +5111,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 341,
-    "score": 962
+    "score": 962,
+    "globalRank": 6849
   },
   {
     "login": "htrgouvea",
@@ -4785,7 +5126,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 342,
-    "score": 3042
+    "score": 3042,
+    "globalRank": 6868
   },
   {
     "login": "thevelvetsnow",
@@ -4799,7 +5141,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 343,
-    "score": 617
+    "score": 617,
+    "globalRank": 6891
   },
   {
     "login": "augustohp",
@@ -4813,7 +5156,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 344,
-    "score": 661
+    "score": 661,
+    "globalRank": 6910
   },
   {
     "login": "inteligenciamilgrau",
@@ -4827,7 +5171,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 345,
-    "score": 962
+    "score": 962,
+    "globalRank": 6911
   },
   {
     "login": "felladrin",
@@ -4841,7 +5186,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 346,
-    "score": 1972
+    "score": 1972,
+    "globalRank": 6912
   },
   {
     "login": "bernarddeluna",
@@ -4855,7 +5201,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 347,
-    "score": 657
+    "score": 657,
+    "globalRank": 6924
   },
   {
     "login": "mbdavid",
@@ -4869,7 +5216,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 348,
-    "score": 629
+    "score": 629,
+    "globalRank": 6974
   },
   {
     "login": "helviojunior",
@@ -4883,7 +5231,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 349,
-    "score": 1379
+    "score": 1379,
+    "globalRank": 6975
   },
   {
     "login": "arthurfiorette",
@@ -4897,7 +5246,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 350,
-    "score": 1424
+    "score": 1424,
+    "globalRank": 6986
   },
   {
     "login": "DanielObara",
@@ -4911,7 +5261,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 351,
-    "score": 858
+    "score": 858,
+    "globalRank": 6987
   },
   {
     "login": "BernardoGO",
@@ -4925,7 +5276,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 352,
-    "score": 607
+    "score": 607,
+    "globalRank": 6988
   },
   {
     "login": "osantana",
@@ -4939,7 +5291,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 353,
-    "score": 1122
+    "score": 1122,
+    "globalRank": 7007
   },
   {
     "login": "bdlukaa",
@@ -4953,7 +5306,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 354,
-    "score": 1675
+    "score": 1675,
+    "globalRank": 7037
   },
   {
     "login": "danieldsf",
@@ -4967,7 +5321,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 355,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 7060
   },
   {
     "login": "leosales",
@@ -4981,7 +5336,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 356,
-    "score": 599
+    "score": 599,
+    "globalRank": 7074
   },
   {
     "login": "charlenopires",
@@ -4995,7 +5351,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 357,
-    "score": 1100
+    "score": 1100,
+    "globalRank": 7084
   },
   {
     "login": "KleberVales",
@@ -5009,7 +5366,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 358,
-    "score": 5964
+    "score": 5964,
+    "globalRank": 7094
   },
   {
     "login": "rxaviers",
@@ -5023,7 +5381,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 359,
-    "score": 653
+    "score": 653,
+    "globalRank": 7095
   },
   {
     "login": "carsimoes",
@@ -5037,7 +5396,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 360,
-    "score": 895
+    "score": 895,
+    "globalRank": 7111
   },
   {
     "login": "Dovyski",
@@ -5051,7 +5411,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 361,
-    "score": 4716
+    "score": 4716,
+    "globalRank": 7112
   },
   {
     "login": "cirospaciari",
@@ -5065,7 +5426,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 362,
-    "score": 1220
+    "score": 1220,
+    "globalRank": 7113
   },
   {
     "login": "mairatma",
@@ -5079,7 +5441,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 363,
-    "score": 934
+    "score": 934,
+    "globalRank": 7121
   },
   {
     "login": "onlurking",
@@ -5093,7 +5456,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 364,
-    "score": 2493
+    "score": 2493,
+    "globalRank": 7142
   },
   {
     "login": "appinha",
@@ -5107,7 +5471,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 365,
-    "score": 1429
+    "score": 1429,
+    "globalRank": 7151
   },
   {
     "login": "DavidsonGomes",
@@ -5121,7 +5486,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 366,
-    "score": 2162
+    "score": 2162,
+    "globalRank": 7174
   },
   {
     "login": "fgrehm",
@@ -5135,7 +5501,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 367,
-    "score": 9339
+    "score": 9339,
+    "globalRank": 7220
   },
   {
     "login": "plt-amy",
@@ -5149,7 +5516,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 368,
-    "score": 933
+    "score": 933,
+    "globalRank": 7237
   },
   {
     "login": "Meigarom",
@@ -5163,7 +5531,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 369,
-    "score": 611
+    "score": 611,
+    "globalRank": 7295
   },
   {
     "login": "serradura",
@@ -5177,7 +5546,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 370,
-    "score": 1833
+    "score": 1833,
+    "globalRank": 7296
   },
   {
     "login": "k8adev",
@@ -5191,7 +5561,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 371,
-    "score": 3575
+    "score": 3575,
+    "globalRank": 7311
   },
   {
     "login": "gerivanc",
@@ -5205,7 +5576,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 372,
-    "score": 1931
+    "score": 1931,
+    "globalRank": 7312
   },
   {
     "login": "CauanDZN",
@@ -5219,7 +5591,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 373,
-    "score": 2155
+    "score": 2155,
+    "globalRank": 7321
   },
   {
     "login": "phenpessoa",
@@ -5233,7 +5606,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 374,
-    "score": 1334
+    "score": 1334,
+    "globalRank": 7352
   },
   {
     "login": "RafaelBarbosatec",
@@ -5247,7 +5621,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 375,
-    "score": 1498
+    "score": 1498,
+    "globalRank": 7353
   },
   {
     "login": "EONRaider",
@@ -5261,7 +5636,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 376,
-    "score": 574
+    "score": 574,
+    "globalRank": 7393
   },
   {
     "login": "leandronsp",
@@ -5275,7 +5651,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 377,
-    "score": 3256
+    "score": 3256,
+    "globalRank": 7394
   },
   {
     "login": "Daniel-Alvarenga",
@@ -5289,7 +5666,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 378,
-    "score": 602
+    "score": 602,
+    "globalRank": 7395
   },
   {
     "login": "Rychillie",
@@ -5303,7 +5681,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 379,
-    "score": 2203
+    "score": 2203,
+    "globalRank": 7398
   },
   {
     "login": "davinyleticia",
@@ -5317,7 +5696,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 380,
-    "score": 1582
+    "score": 1582,
+    "globalRank": 7412
   },
   {
     "login": "mthbernardes",
@@ -5331,7 +5711,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 381,
-    "score": 595
+    "score": 595,
+    "globalRank": 7413
   },
   {
     "login": "coproduto",
@@ -5345,7 +5726,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 382,
-    "score": 1348
+    "score": 1348,
+    "globalRank": 7414
   },
   {
     "login": "GuilhermeSantos001",
@@ -5359,7 +5741,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 383,
-    "score": 3953
+    "score": 3953,
+    "globalRank": 7415
   },
   {
     "login": "frednora",
@@ -5373,7 +5756,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 384,
-    "score": 1517
+    "score": 1517,
+    "globalRank": 7428
   },
   {
     "login": "reu",
@@ -5387,7 +5771,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 385,
-    "score": 2588
+    "score": 2588,
+    "globalRank": 7429
   },
   {
     "login": "fakenickels",
@@ -5401,7 +5786,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 386,
-    "score": 1441
+    "score": 1441,
+    "globalRank": 7430
   },
   {
     "login": "PotHix",
@@ -5415,7 +5801,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 387,
-    "score": 2426
+    "score": 2426,
+    "globalRank": 7439
   },
   {
     "login": "FernandaBernardo",
@@ -5429,7 +5816,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 388,
-    "score": 570
+    "score": 570,
+    "globalRank": 7496
   },
   {
     "login": "IseduardoRezende",
@@ -5443,7 +5831,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 389,
-    "score": 3669
+    "score": 3669,
+    "globalRank": 7497
   },
   {
     "login": "Lucas-Bellini",
@@ -5457,7 +5846,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 390,
-    "score": 577
+    "score": 577,
+    "globalRank": 7560
   },
   {
     "login": "marcotav",
@@ -5471,7 +5861,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 391,
-    "score": 556
+    "score": 556,
+    "globalRank": 7587
   },
   {
     "login": "stacktecnologias",
@@ -5485,7 +5876,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 392,
-    "score": 556
+    "score": 556,
+    "globalRank": 7588
   },
   {
     "login": "victorqribeiro",
@@ -5499,7 +5891,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 393,
-    "score": 573
+    "score": 573,
+    "globalRank": 7600
   },
   {
     "login": "camilla-m",
@@ -5513,7 +5906,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 394,
-    "score": 694
+    "score": 694,
+    "globalRank": 7610
   },
   {
     "login": "alvarowolfx",
@@ -5527,7 +5921,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 395,
-    "score": 1332
+    "score": 1332,
+    "globalRank": 7611
   },
   {
     "login": "matheusaudibert",
@@ -5541,7 +5936,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 396,
-    "score": 1350
+    "score": 1350,
+    "globalRank": 7648
   },
   {
     "login": "andreynering",
@@ -5555,7 +5951,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 397,
-    "score": 4541
+    "score": 4541,
+    "globalRank": 7677
   },
   {
     "login": "nadalmateus",
@@ -5569,7 +5966,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 398,
-    "score": 987
+    "score": 987,
+    "globalRank": 7708
   },
   {
     "login": "srizzon",
@@ -5583,7 +5981,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 399,
-    "score": 2435
+    "score": 2435,
+    "globalRank": 7709
   },
   {
     "login": "alegauss",
@@ -5597,7 +5996,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 400,
-    "score": 3256
+    "score": 3256,
+    "globalRank": 7722
   },
   {
     "login": "tiagorlampert",
@@ -5611,7 +6011,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 401,
-    "score": 7937
+    "score": 7937,
+    "globalRank": 7723
   },
   {
     "login": "adolfont",
@@ -5625,7 +6026,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 402,
-    "score": 1825
+    "score": 1825,
+    "globalRank": 7748
   },
   {
     "login": "BrunoGonSouza",
@@ -5639,7 +6041,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 403,
-    "score": 542
+    "score": 542,
+    "globalRank": 7764
   },
   {
     "login": "faalbuquerque",
@@ -5653,7 +6056,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 404,
-    "score": 741
+    "score": 741,
+    "globalRank": 7799
   },
   {
     "login": "willmendesneto",
@@ -5667,7 +6071,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 405,
-    "score": 2380
+    "score": 2380,
+    "globalRank": 7816
   },
   {
     "login": "GustavoBoaz",
@@ -5681,7 +6086,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 406,
-    "score": 555
+    "score": 555,
+    "globalRank": 7817
   },
   {
     "login": "RenanBorba",
@@ -5695,7 +6101,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 407,
-    "score": 578
+    "score": 578,
+    "globalRank": 7842
   },
   {
     "login": "kaburelabs",
@@ -5709,7 +6116,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 408,
-    "score": 587
+    "score": 587,
+    "globalRank": 7865
   },
   {
     "login": "lincon-ac",
@@ -5723,7 +6131,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 409,
-    "score": 681
+    "score": 681,
+    "globalRank": 7866
   },
   {
     "login": "Lucas-Woibau",
@@ -5737,7 +6146,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 410,
-    "score": 1021
+    "score": 1021,
+    "globalRank": 7867
   },
   {
     "login": "lfarah",
@@ -5751,7 +6161,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 411,
-    "score": 3221
+    "score": 3221,
+    "globalRank": 7910
   },
   {
     "login": "tonhowtf",
@@ -5765,7 +6176,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 412,
-    "score": 3396
+    "score": 3396,
+    "globalRank": 7911
   },
   {
     "login": "philss",
@@ -5779,7 +6191,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 413,
-    "score": 756
+    "score": 756,
+    "globalRank": 7923
   },
   {
     "login": "xTecna",
@@ -5793,7 +6206,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 414,
-    "score": 574
+    "score": 574,
+    "globalRank": 7945
   },
   {
     "login": "talyssonoc",
@@ -5807,7 +6221,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 415,
-    "score": 2188
+    "score": 2188,
+    "globalRank": 7946
   },
   {
     "login": "elvis7t",
@@ -5821,7 +6236,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 416,
-    "score": 548
+    "score": 548,
+    "globalRank": 7947
   },
   {
     "login": "David-Braz",
@@ -5835,7 +6251,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 417,
-    "score": 784
+    "score": 784,
+    "globalRank": 7948
   },
   {
     "login": "tnbie",
@@ -5849,7 +6266,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 418,
-    "score": 524
+    "score": 524,
+    "globalRank": 7998
   },
   {
     "login": "gabsferreira",
@@ -5863,7 +6281,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 419,
-    "score": 552
+    "score": 552,
+    "globalRank": 8014
   },
   {
     "login": "bonieky",
@@ -5877,7 +6296,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 420,
-    "score": 1140
+    "score": 1140,
+    "globalRank": 8031
   },
   {
     "login": "amgauna",
@@ -5891,7 +6311,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 421,
-    "score": 1128
+    "score": 1128,
+    "globalRank": 8094
   },
   {
     "login": "jh00nbr",
@@ -5905,7 +6326,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 422,
-    "score": 519
+    "score": 519,
+    "globalRank": 8095
   },
   {
     "login": "brunobertolini",
@@ -5919,7 +6341,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 423,
-    "score": 3927
+    "score": 3927,
+    "globalRank": 8102
   },
   {
     "login": "AdrianoBinhara",
@@ -5933,7 +6356,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 424,
-    "score": 639
+    "score": 639,
+    "globalRank": 8103
   },
   {
     "login": "iasminaraujoc",
@@ -5947,7 +6371,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 425,
-    "score": 1013
+    "score": 1013,
+    "globalRank": 8104
   },
   {
     "login": "krkaynan",
@@ -5961,7 +6386,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 426,
-    "score": 719
+    "score": 719,
+    "globalRank": 8105
   },
   {
     "login": "andreterceiro",
@@ -5975,7 +6401,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 427,
-    "score": 7474
+    "score": 7474,
+    "globalRank": 8136
   },
   {
     "login": "Ubrennz",
@@ -5989,7 +6416,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 428,
-    "score": 610
+    "score": 610,
+    "globalRank": 8149
   },
   {
     "login": "GilbertoScript",
@@ -6003,7 +6431,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 429,
-    "score": 559
+    "score": 559,
+    "globalRank": 8161
   },
   {
     "login": "felipementel",
@@ -6017,7 +6446,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 430,
-    "score": 7422
+    "score": 7422,
+    "globalRank": 8194
   },
   {
     "login": "camilatigre",
@@ -6031,7 +6461,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 431,
-    "score": 535
+    "score": 535,
+    "globalRank": 8227
   },
   {
     "login": "jonatas",
@@ -6045,7 +6476,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 432,
-    "score": 1221
+    "score": 1221,
+    "globalRank": 8228
   },
   {
     "login": "usernein",
@@ -6059,7 +6491,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 433,
-    "score": 602
+    "score": 602,
+    "globalRank": 8229
   },
   {
     "login": "carlaprv",
@@ -6073,7 +6506,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 434,
-    "score": 509
+    "score": 509,
+    "globalRank": 8252
   },
   {
     "login": "alessandrofeitoza",
@@ -6087,7 +6521,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 435,
-    "score": 2588
+    "score": 2588,
+    "globalRank": 8274
   },
   {
     "login": "Henrique123-Marques",
@@ -6101,7 +6536,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 436,
-    "score": 578
+    "score": 578,
+    "globalRank": 8288
   },
   {
     "login": "eduardojmatos",
@@ -6115,7 +6551,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 437,
-    "score": 608
+    "score": 608,
+    "globalRank": 8303
   },
   {
     "login": "krol3",
@@ -6129,7 +6566,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 438,
-    "score": 743
+    "score": 743,
+    "globalRank": 8315
   },
   {
     "login": "douglasjunior",
@@ -6143,7 +6581,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 439,
-    "score": 1160
+    "score": 1160,
+    "globalRank": 8332
   },
   {
     "login": "carinebatista",
@@ -6157,7 +6596,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 440,
-    "score": 513
+    "score": 513,
+    "globalRank": 8387
   },
   {
     "login": "danielschmitz",
@@ -6171,7 +6611,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 441,
-    "score": 613
+    "score": 613,
+    "globalRank": 8388
   },
   {
     "login": "marcglasberg",
@@ -6185,7 +6626,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 442,
-    "score": 1458
+    "score": 1458,
+    "globalRank": 8410
   },
   {
     "login": "marcelopaludetto",
@@ -6199,7 +6641,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 443,
-    "score": 648
+    "score": 648,
+    "globalRank": 8426
   },
   {
     "login": "felpfsf",
@@ -6213,7 +6656,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 444,
-    "score": 1627
+    "score": 1627,
+    "globalRank": 8442
   },
   {
     "login": "linces",
@@ -6227,7 +6671,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 445,
-    "score": 1654
+    "score": 1654,
+    "globalRank": 8463
   },
   {
     "login": "zehfernandes",
@@ -6241,7 +6686,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 446,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 8464
   },
   {
     "login": "vqrca",
@@ -6255,7 +6701,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 447,
-    "score": 631
+    "score": 631,
+    "globalRank": 8485
   },
   {
     "login": "alicepsz98",
@@ -6269,7 +6716,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 448,
-    "score": 496
+    "score": 496,
+    "globalRank": 8486
   },
   {
     "login": "h2hconference",
@@ -6283,7 +6731,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 449,
-    "score": 496
+    "score": 496,
+    "globalRank": 8487
   },
   {
     "login": "pedrofracassi",
@@ -6297,7 +6746,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 450,
-    "score": 531
+    "score": 531,
+    "globalRank": 8503
   },
   {
     "login": "VitorLuizC",
@@ -6311,7 +6761,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 451,
-    "score": 770
+    "score": 770,
+    "globalRank": 8540
   },
   {
     "login": "JoaoNt599",
@@ -6325,7 +6776,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 452,
-    "score": 623
+    "score": 623,
+    "globalRank": 8541
   },
   {
     "login": "fernandacaramico",
@@ -6339,7 +6791,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 453,
-    "score": 506
+    "score": 506,
+    "globalRank": 8556
   },
   {
     "login": "dev-alexandre17",
@@ -6353,7 +6806,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 454,
-    "score": 579
+    "score": 579,
+    "globalRank": 8557
   },
   {
     "login": "crgimenes",
@@ -6367,7 +6821,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 455,
-    "score": 2199
+    "score": 2199,
+    "globalRank": 8558
   },
   {
     "login": "marcelgsantos",
@@ -6381,7 +6836,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 456,
-    "score": 492
+    "score": 492,
+    "globalRank": 8600
   },
   {
     "login": "guiireal",
@@ -6395,7 +6851,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 457,
-    "score": 8505
+    "score": 8505,
+    "globalRank": 8601
   },
   {
     "login": "guilouro",
@@ -6409,7 +6866,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 458,
-    "score": 843
+    "score": 843,
+    "globalRank": 8612
   },
   {
     "login": "patrickelectric",
@@ -6423,7 +6881,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 459,
-    "score": 3102
+    "score": 3102,
+    "globalRank": 8631
   },
   {
     "login": "canove",
@@ -6437,7 +6896,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 460,
-    "score": 1886
+    "score": 1886,
+    "globalRank": 8656
   },
   {
     "login": "m4n3dw0lf",
@@ -6451,7 +6911,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 461,
-    "score": 767
+    "score": 767,
+    "globalRank": 8657
   },
   {
     "login": "LevyMatias",
@@ -6465,7 +6926,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 462,
-    "score": 487
+    "score": 487,
+    "globalRank": 8658
   },
   {
     "login": "binary-ex-machina",
@@ -6479,7 +6941,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 463,
-    "score": 485
+    "score": 485,
+    "globalRank": 8676
   },
   {
     "login": "Yuri-stack",
@@ -6493,7 +6956,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 464,
-    "score": 725
+    "score": 725,
+    "globalRank": 8690
   },
   {
     "login": "wouerner",
@@ -6507,7 +6971,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 465,
-    "score": 832
+    "score": 832,
+    "globalRank": 8691
   },
   {
     "login": "leanfj",
@@ -6521,7 +6986,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 466,
-    "score": 577
+    "score": 577,
+    "globalRank": 8692
   },
   {
     "login": "papitodev",
@@ -6535,7 +7001,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 467,
-    "score": 582
+    "score": 582,
+    "globalRank": 8721
   },
   {
     "login": "drantunes",
@@ -6549,7 +7016,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 468,
-    "score": 520
+    "score": 520,
+    "globalRank": 8722
   },
   {
     "login": "alefragnani",
@@ -6563,7 +7031,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 469,
-    "score": 1722
+    "score": 1722,
+    "globalRank": 8723
   },
   {
     "login": "Moneemsaadaoui",
@@ -6577,7 +7046,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 470,
-    "score": 614
+    "score": 614,
+    "globalRank": 8738
   },
   {
     "login": "bugarela",
@@ -6591,7 +7061,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 471,
-    "score": 3142
+    "score": 3142,
+    "globalRank": 8739
   },
   {
     "login": "ericdallo",
@@ -6605,7 +7076,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 472,
-    "score": 7391
+    "score": 7391,
+    "globalRank": 8757
   },
   {
     "login": "robertoachar",
@@ -6619,7 +7091,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 473,
-    "score": 1527
+    "score": 1527,
+    "globalRank": 8777
   },
   {
     "login": "wallysonlima",
@@ -6633,7 +7106,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 474,
-    "score": 511
+    "score": 511,
+    "globalRank": 8778
   },
   {
     "login": "nandomoreirame",
@@ -6647,7 +7121,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 475,
-    "score": 8378
+    "score": 8378,
+    "globalRank": 8797
   },
   {
     "login": "alex-oren",
@@ -6661,7 +7136,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 476,
-    "score": 5325
+    "score": 5325,
+    "globalRank": 8811
   },
   {
     "login": "vnen",
@@ -6675,7 +7151,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 477,
-    "score": 768
+    "score": 768,
+    "globalRank": 8834
   },
   {
     "login": "Malabarba",
@@ -6689,7 +7166,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 478,
-    "score": 4074
+    "score": 4074,
+    "globalRank": 8835
   },
   {
     "login": "gfpoliva",
@@ -6703,7 +7181,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 479,
-    "score": 485
+    "score": 485,
+    "globalRank": 8836
   },
   {
     "login": "oesp",
@@ -6717,7 +7196,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 480,
-    "score": 474
+    "score": 474,
+    "globalRank": 8871
   },
   {
     "login": "DevMasterTeam",
@@ -6731,7 +7211,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 481,
-    "score": 476
+    "score": 476,
+    "globalRank": 8894
   },
   {
     "login": "wellwelwel",
@@ -6745,7 +7226,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 482,
-    "score": 3219
+    "score": 3219,
+    "globalRank": 8916
   },
   {
     "login": "arthur404dev",
@@ -6759,7 +7241,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 483,
-    "score": 2272
+    "score": 2272,
+    "globalRank": 8935
   },
   {
     "login": "ugioni",
@@ -6773,7 +7256,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 484,
-    "score": 534
+    "score": 534,
+    "globalRank": 8953
   },
   {
     "login": "gleicon",
@@ -6787,7 +7271,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 485,
-    "score": 2034
+    "score": 2034,
+    "globalRank": 8964
   },
   {
     "login": "Edresson",
@@ -6801,7 +7286,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 486,
-    "score": 497
+    "score": 497,
+    "globalRank": 8986
   },
   {
     "login": "eu-audrey",
@@ -6815,7 +7301,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 487,
-    "score": 576
+    "score": 576,
+    "globalRank": 8987
   },
   {
     "login": "VagnerBellacosa",
@@ -6829,7 +7316,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 488,
-    "score": 1146
+    "score": 1146,
+    "globalRank": 8988
   },
   {
     "login": "rafabene",
@@ -6843,7 +7331,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 489,
-    "score": 1959
+    "score": 1959,
+    "globalRank": 9007
   },
   {
     "login": "InFog",
@@ -6857,7 +7346,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 490,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 9024
   },
   {
     "login": "brunopulis",
@@ -6871,7 +7361,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 491,
-    "score": 1938
+    "score": 1938,
+    "globalRank": 9025
   },
   {
     "login": "eddoliver1",
@@ -6885,7 +7376,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 492,
-    "score": 1804
+    "score": 1804,
+    "globalRank": 9026
   },
   {
     "login": "wilkerlucio",
@@ -6899,7 +7391,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 493,
-    "score": 822
+    "score": 822,
+    "globalRank": 9041
   },
   {
     "login": "LucasVince",
@@ -6913,7 +7406,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 494,
-    "score": 548
+    "score": 548,
+    "globalRank": 9061
   },
   {
     "login": "AnaProgramando",
@@ -6927,7 +7421,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 495,
-    "score": 466
+    "score": 466,
+    "globalRank": 9083
   },
   {
     "login": "Ericodesenvolvedor",
@@ -6941,7 +7436,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 496,
-    "score": 463
+    "score": 463,
+    "globalRank": 9084
   },
   {
     "login": "claus",
@@ -6955,7 +7451,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 497,
-    "score": 1169
+    "score": 1169,
+    "globalRank": 9106
   },
   {
     "login": "jeffprestes",
@@ -6969,7 +7466,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 498,
-    "score": 598
+    "score": 598,
+    "globalRank": 9123
   },
   {
     "login": "bamboo",
@@ -6983,7 +7481,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 499,
-    "score": 1194
+    "score": 1194,
+    "globalRank": 9124
   },
   {
     "login": "carlosedp",
@@ -6997,7 +7496,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 500,
-    "score": 1222
+    "score": 1222,
+    "globalRank": 9125
   },
   {
     "login": "daniloab",
@@ -7011,7 +7511,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 501,
-    "score": 3386
+    "score": 3386,
+    "globalRank": 9144
   },
   {
     "login": "sl4ureano",
@@ -7025,7 +7526,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 502,
-    "score": 467
+    "score": 467,
+    "globalRank": 9182
   },
   {
     "login": "alidioribeiro",
@@ -7039,7 +7541,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 503,
-    "score": 468
+    "score": 468,
+    "globalRank": 9183
   },
   {
     "login": "HelenDias",
@@ -7053,7 +7556,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 504,
-    "score": 894
+    "score": 894,
+    "globalRank": 9184
   },
   {
     "login": "vitormattos",
@@ -7067,7 +7571,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 505,
-    "score": 13135
+    "score": 13135,
+    "globalRank": 9203
   },
   {
     "login": "mikeninerbravog",
@@ -7081,7 +7586,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 506,
-    "score": 907
+    "score": 907,
+    "globalRank": 9204
   },
   {
     "login": "lubien",
@@ -7095,7 +7601,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 507,
-    "score": 1826
+    "score": 1826,
+    "globalRank": 9270
   },
   {
     "login": "programadriano",
@@ -7109,7 +7616,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 508,
-    "score": 453
+    "score": 453,
+    "globalRank": 9289
   },
   {
     "login": "caironoleto",
@@ -7123,7 +7631,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 509,
-    "score": 1315
+    "score": 1315,
+    "globalRank": 9320
   },
   {
     "login": "diegopacheco",
@@ -7137,7 +7646,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 510,
-    "score": 5544
+    "score": 5544,
+    "globalRank": 9342
   },
   {
     "login": "gustavobigardi",
@@ -7151,7 +7661,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 511,
-    "score": 595
+    "score": 595,
+    "globalRank": 9343
   },
   {
     "login": "dario-gms",
@@ -7165,7 +7676,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 512,
-    "score": 1915
+    "score": 1915,
+    "globalRank": 9344
   },
   {
     "login": "thamiscoder",
@@ -7179,7 +7691,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 513,
-    "score": 581
+    "score": 581,
+    "globalRank": 9365
   },
   {
     "login": "diogomoreira",
@@ -7193,7 +7706,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 514,
-    "score": 533
+    "score": 533,
+    "globalRank": 9389
   },
   {
     "login": "samycici",
@@ -7207,7 +7721,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 515,
-    "score": 449
+    "score": 449,
+    "globalRank": 9390
   },
   {
     "login": "flrizzato",
@@ -7221,7 +7736,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 516,
-    "score": 471
+    "score": 471,
+    "globalRank": 9391
   },
   {
     "login": "lerrua",
@@ -7235,7 +7751,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 517,
-    "score": 1103
+    "score": 1103,
+    "globalRank": 9392
   },
   {
     "login": "hernandev",
@@ -7249,7 +7766,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 518,
-    "score": 465
+    "score": 465,
+    "globalRank": 9393
   },
   {
     "login": "viniciusfinger",
@@ -7263,7 +7781,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 519,
-    "score": 2049
+    "score": 2049,
+    "globalRank": 9418
   },
   {
     "login": "MarcoWorms",
@@ -7277,7 +7796,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 520,
-    "score": 5612
+    "score": 5612,
+    "globalRank": 9437
   },
   {
     "login": "LarissaAbreu",
@@ -7291,7 +7811,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 521,
-    "score": 472
+    "score": 472,
+    "globalRank": 9438
   },
   {
     "login": "giovannalinda",
@@ -7305,7 +7826,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 522,
-    "score": 446
+    "score": 446,
+    "globalRank": 9462
   },
   {
     "login": "ivosoares",
@@ -7319,7 +7841,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 523,
-    "score": 496
+    "score": 496,
+    "globalRank": 9463
   },
   {
     "login": "ionixjunior",
@@ -7333,7 +7856,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 524,
-    "score": 577
+    "score": 577,
+    "globalRank": 9464
   },
   {
     "login": "prof-francisco-rodrigues",
@@ -7347,7 +7871,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 525,
-    "score": 449
+    "score": 449,
+    "globalRank": 9465
   },
   {
     "login": "marciodanielll",
@@ -7361,7 +7886,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 526,
-    "score": 448
+    "score": 448,
+    "globalRank": 9485
   },
   {
     "login": "ThadeuCesario",
@@ -7375,7 +7901,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 527,
-    "score": 445
+    "score": 445,
+    "globalRank": 9486
   },
   {
     "login": "DanielSouza2005",
@@ -7389,7 +7916,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 528,
-    "score": 764
+    "score": 764,
+    "globalRank": 9487
   },
   {
     "login": "Danilo-Miguel",
@@ -7403,7 +7931,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 529,
-    "score": 751
+    "score": 751,
+    "globalRank": 9488
   },
   {
     "login": "ovasylenko",
@@ -7417,7 +7946,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 530,
-    "score": 925
+    "score": 925,
+    "globalRank": 9489
   },
   {
     "login": "erikfritas",
@@ -7431,7 +7961,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 531,
-    "score": 474
+    "score": 474,
+    "globalRank": 9510
   },
   {
     "login": "pinceladasdaweb",
@@ -7445,7 +7976,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 532,
-    "score": 3900
+    "score": 3900,
+    "globalRank": 9534
   },
   {
     "login": "pantuza",
@@ -7459,7 +7991,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 533,
-    "score": 1302
+    "score": 1302,
+    "globalRank": 9535
   },
   {
     "login": "vhs0s0",
@@ -7473,7 +8006,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 534,
-    "score": 673
+    "score": 673,
+    "globalRank": 9554
   },
   {
     "login": "nrbrd",
@@ -7487,7 +8021,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 535,
-    "score": 2122
+    "score": 2122,
+    "globalRank": 9581
   },
   {
     "login": "netomarin",
@@ -7501,7 +8036,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 536,
-    "score": 495
+    "score": 495,
+    "globalRank": 9609
   },
   {
     "login": "lucasaltm",
@@ -7515,7 +8051,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 537,
-    "score": 440
+    "score": 440,
+    "globalRank": 9610
   },
   {
     "login": "clarabez",
@@ -7529,7 +8066,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 538,
-    "score": 439
+    "score": 439,
+    "globalRank": 9626
   },
   {
     "login": "thomasdacosta",
@@ -7543,7 +8081,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 539,
-    "score": 439
+    "score": 439,
+    "globalRank": 9627
   },
   {
     "login": "iamjunioru",
@@ -7557,7 +8096,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 540,
-    "score": 467
+    "score": 467,
+    "globalRank": 9653
   },
   {
     "login": "gabrieltsants",
@@ -7571,7 +8111,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 541,
-    "score": 455
+    "score": 455,
+    "globalRank": 9668
   },
   {
     "login": "GeorgesStavracas",
@@ -7585,7 +8126,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 542,
-    "score": 538
+    "score": 538,
+    "globalRank": 9722
   },
   {
     "login": "dfilitto",
@@ -7599,7 +8141,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 543,
-    "score": 487
+    "score": 487,
+    "globalRank": 9723
   },
   {
     "login": "juliarizza",
@@ -7613,7 +8156,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 544,
-    "score": 2333
+    "score": 2333,
+    "globalRank": 9747
   },
   {
     "login": "viglioni",
@@ -7627,7 +8171,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 545,
-    "score": 863
+    "score": 863,
+    "globalRank": 9748
   },
   {
     "login": "rodrigo-brito",
@@ -7641,7 +8186,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 546,
-    "score": 1655
+    "score": 1655,
+    "globalRank": 9777
   },
   {
     "login": "otavio",
@@ -7655,7 +8201,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 547,
-    "score": 3612
+    "score": 3612,
+    "globalRank": 9778
   },
   {
     "login": "he4rtlabs",
@@ -7669,7 +8216,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 548,
-    "score": 431
+    "score": 431,
+    "globalRank": 9795
   },
   {
     "login": "LucasCFerraz",
@@ -7683,7 +8231,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 549,
-    "score": 503
+    "score": 503,
+    "globalRank": 9796
   },
   {
     "login": "c3l3si4n",
@@ -7697,7 +8246,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 550,
-    "score": 536
+    "score": 536,
+    "globalRank": 9841
   },
   {
     "login": "vsenger",
@@ -7711,7 +8261,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 551,
-    "score": 452
+    "score": 452,
+    "globalRank": 9888
   },
   {
     "login": "italojs",
@@ -7725,7 +8276,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 552,
-    "score": 1473
+    "score": 1473,
+    "globalRank": 9913
   },
   {
     "login": "danielbergholz",
@@ -7739,7 +8291,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 553,
-    "score": 2703
+    "score": 2703,
+    "globalRank": 9914
   },
   {
     "login": "madalena-rocha",
@@ -7753,7 +8306,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 554,
-    "score": 553
+    "score": 553,
+    "globalRank": 9947
   },
   {
     "login": "DanielTomazi",
@@ -7767,7 +8321,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 555,
-    "score": 692
+    "score": 692,
+    "globalRank": 9948
   },
   {
     "login": "hmschreiner",
@@ -7781,7 +8336,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 556,
-    "score": 643
+    "score": 643,
+    "globalRank": 9949
   },
   {
     "login": "NatanaelAntonioli",
@@ -7795,7 +8351,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 557,
-    "score": 442
+    "score": 442,
+    "globalRank": 9972
   },
   {
     "login": "jpbrab0",
@@ -7809,7 +8366,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 558,
-    "score": 666
+    "score": 666,
+    "globalRank": 9994
   },
   {
     "login": "jeffotoni",
@@ -7823,7 +8381,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 559,
-    "score": 1476
+    "score": 1476,
+    "globalRank": 9995
   },
   {
     "login": "viniciusfcf",
@@ -7837,7 +8396,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 560,
-    "score": 619
+    "score": 619,
+    "globalRank": 10037
   },
   {
     "login": "leandrocfe",
@@ -7851,7 +8411,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 561,
-    "score": 1510
+    "score": 1510,
+    "globalRank": 10038
   },
   {
     "login": "gardusig",
@@ -7865,7 +8426,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 562,
-    "score": 718
+    "score": 718,
+    "globalRank": 10039
   },
   {
     "login": "AndersonDinizDev",
@@ -7879,7 +8441,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 563,
-    "score": 4417
+    "score": 4417,
+    "globalRank": 10063
   },
   {
     "login": "nubiaferr",
@@ -7893,7 +8456,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 564,
-    "score": 624
+    "score": 624,
+    "globalRank": 10090
   },
   {
     "login": "simoesusp",
@@ -7907,7 +8471,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 565,
-    "score": 427
+    "score": 427,
+    "globalRank": 10091
   },
   {
     "login": "atimilson",
@@ -7921,7 +8486,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 566,
-    "score": 1095
+    "score": 1095,
+    "globalRank": 10124
   },
   {
     "login": "osvaldokalvaitir",
@@ -7935,7 +8501,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 567,
-    "score": 3507
+    "score": 3507,
+    "globalRank": 10149
   },
   {
     "login": "Fekleite",
@@ -7949,7 +8516,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 568,
-    "score": 664
+    "score": 664,
+    "globalRank": 10171
   },
   {
     "login": "yukioandre",
@@ -7963,7 +8531,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 569,
-    "score": 461
+    "score": 461,
+    "globalRank": 10172
   },
   {
     "login": "AndreiCalazans",
@@ -7977,7 +8546,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 570,
-    "score": 502
+    "score": 502,
+    "globalRank": 10189
   },
   {
     "login": "VitorCarvalho67",
@@ -7991,7 +8561,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 571,
-    "score": 756
+    "score": 756,
+    "globalRank": 10190
   },
   {
     "login": "keppelen",
@@ -8005,7 +8576,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 572,
-    "score": 2875
+    "score": 2875,
+    "globalRank": 10191
   },
   {
     "login": "EduardoSampaio",
@@ -8019,7 +8591,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 573,
-    "score": 495
+    "score": 495,
+    "globalRank": 10219
   },
   {
     "login": "luizdepra",
@@ -8033,7 +8606,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 574,
-    "score": 471
+    "score": 471,
+    "globalRank": 10220
   },
   {
     "login": "manoelcampos",
@@ -8047,7 +8621,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 575,
-    "score": 774
+    "score": 774,
+    "globalRank": 10221
   },
   {
     "login": "robertojunnior",
@@ -8061,7 +8636,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 576,
-    "score": 820
+    "score": 820,
+    "globalRank": 10222
   },
   {
     "login": "igui-git",
@@ -8075,7 +8651,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 577,
-    "score": 431
+    "score": 431,
+    "globalRank": 10251
   },
   {
     "login": "dann95",
@@ -8089,7 +8666,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 578,
-    "score": 476
+    "score": 476,
+    "globalRank": 10252
   },
   {
     "login": "ValdirFerreira",
@@ -8103,7 +8681,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 579,
-    "score": 447
+    "score": 447,
+    "globalRank": 10253
   },
   {
     "login": "nathanssantos",
@@ -8117,7 +8696,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 580,
-    "score": 5459
+    "score": 5459,
+    "globalRank": 10283
   },
   {
     "login": "miguelfermo",
@@ -8131,7 +8711,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 581,
-    "score": 1297
+    "score": 1297,
+    "globalRank": 10284
   },
   {
     "login": "thiagotpsilva",
@@ -8145,7 +8726,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 582,
-    "score": 484
+    "score": 484,
+    "globalRank": 10309
   },
   {
     "login": "Leoruiz197",
@@ -8159,7 +8741,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 583,
-    "score": 689
+    "score": 689,
+    "globalRank": 10310
   },
   {
     "login": "sergiogama",
@@ -8173,7 +8756,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 584,
-    "score": 525
+    "score": 525,
+    "globalRank": 10311
   },
   {
     "login": "gugs881",
@@ -8187,7 +8771,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 585,
-    "score": 859
+    "score": 859,
+    "globalRank": 10312
   },
   {
     "login": "eduardogc",
@@ -8201,7 +8786,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 586,
-    "score": 1036
+    "score": 1036,
+    "globalRank": 10313
   },
   {
     "login": "gabrieldarezzo",
@@ -8215,7 +8801,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 587,
-    "score": 970
+    "score": 970,
+    "globalRank": 10387
   },
   {
     "login": "vndmtrx",
@@ -8229,7 +8816,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 588,
-    "score": 1230
+    "score": 1230,
+    "globalRank": 10388
   },
   {
     "login": "moisesfdasilva",
@@ -8243,7 +8831,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 589,
-    "score": 454
+    "score": 454,
+    "globalRank": 10389
   },
   {
     "login": "neylsoncrepalde",
@@ -8257,7 +8846,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 590,
-    "score": 410
+    "score": 410,
+    "globalRank": 10416
   },
   {
     "login": "lbguilherme",
@@ -8271,7 +8861,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 591,
-    "score": 543
+    "score": 543,
+    "globalRank": 10417
   },
   {
     "login": "the-akira",
@@ -8285,7 +8876,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 592,
-    "score": 686
+    "score": 686,
+    "globalRank": 10418
   },
   {
     "login": "felipe-augusto",
@@ -8299,7 +8891,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 593,
-    "score": 2762
+    "score": 2762,
+    "globalRank": 10442
   },
   {
     "login": "matheusgr",
@@ -8313,7 +8906,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 594,
-    "score": 1094
+    "score": 1094,
+    "globalRank": 10443
   },
   {
     "login": "roziscoding",
@@ -8327,7 +8921,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 595,
-    "score": 2234
+    "score": 2234,
+    "globalRank": 10444
   },
   {
     "login": "marcoscastro",
@@ -8341,7 +8936,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 596,
-    "score": 407
+    "score": 407,
+    "globalRank": 10445
   },
   {
     "login": "freire45",
@@ -8355,7 +8951,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 597,
-    "score": 440
+    "score": 440,
+    "globalRank": 10476
   },
   {
     "login": "danilobellini",
@@ -8369,7 +8966,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 598,
-    "score": 413
+    "score": 413,
+    "globalRank": 10508
   },
   {
     "login": "davidevol",
@@ -8383,7 +8981,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 599,
-    "score": 514
+    "score": 514,
+    "globalRank": 10509
   },
   {
     "login": "thiagomarquessp",
@@ -8397,7 +8996,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 600,
-    "score": 408
+    "score": 408,
+    "globalRank": 10510
   },
   {
     "login": "devdrops",
@@ -8411,7 +9011,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 601,
-    "score": 418
+    "score": 418,
+    "globalRank": 10545
   },
   {
     "login": "Kayke-Fujinaka",
@@ -8425,7 +9026,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 602,
-    "score": 2967
+    "score": 2967,
+    "globalRank": 10546
   },
   {
     "login": "vitor-mendrone-deel",
@@ -8439,7 +9041,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 603,
-    "score": 3591
+    "score": 3591,
+    "globalRank": 10547
   },
   {
     "login": "FBSeletronica",
@@ -8453,7 +9056,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 604,
-    "score": 683
+    "score": 683,
+    "globalRank": 10548
   },
   {
     "login": "larien",
@@ -8467,7 +9071,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 605,
-    "score": 2953
+    "score": 2953,
+    "globalRank": 10549
   },
   {
     "login": "moniquelive",
@@ -8481,7 +9086,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 606,
-    "score": 1209
+    "score": 1209,
+    "globalRank": 10608
   },
   {
     "login": "vinnydeveloper",
@@ -8495,7 +9101,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 607,
-    "score": 1776
+    "score": 1776,
+    "globalRank": 10609
   },
   {
     "login": "rebeccamanzi",
@@ -8509,7 +9116,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 608,
-    "score": 401
+    "score": 401,
+    "globalRank": 10633
   },
   {
     "login": "LucasAlv3s",
@@ -8523,7 +9131,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 609,
-    "score": 405
+    "score": 405,
+    "globalRank": 10660
   },
   {
     "login": "filipecalegario",
@@ -8537,7 +9146,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 610,
-    "score": 1464
+    "score": 1464,
+    "globalRank": 10693
   },
   {
     "login": "Ellen-code",
@@ -8551,7 +9161,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 611,
-    "score": 399
+    "score": 399,
+    "globalRank": 10694
   },
   {
     "login": "zoedsoupe",
@@ -8565,7 +9176,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 612,
-    "score": 1732
+    "score": 1732,
+    "globalRank": 10695
   },
   {
     "login": "Joey-Resende",
@@ -8579,7 +9191,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 613,
-    "score": 398
+    "score": 398,
+    "globalRank": 10721
   },
   {
     "login": "LucasCapSilva",
@@ -8593,7 +9206,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 614,
-    "score": 487
+    "score": 487,
+    "globalRank": 10722
   },
   {
     "login": "rafa-thayto",
@@ -8607,7 +9221,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 615,
-    "score": 2068
+    "score": 2068,
+    "globalRank": 10723
   },
   {
     "login": "avizmarlon",
@@ -8621,7 +9236,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 616,
-    "score": 936
+    "score": 936,
+    "globalRank": 10745
   },
   {
     "login": "iagocavalcante",
@@ -8635,7 +9251,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 617,
-    "score": 3806
+    "score": 3806,
+    "globalRank": 10746
   },
   {
     "login": "JeskaLopesT",
@@ -8649,7 +9266,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 618,
-    "score": 396
+    "score": 396,
+    "globalRank": 10769
   },
   {
     "login": "alinekborges",
@@ -8663,7 +9281,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 619,
-    "score": 1213
+    "score": 1213,
+    "globalRank": 10843
   },
   {
     "login": "tiago-aguiar",
@@ -8677,7 +9296,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 620,
-    "score": 1192
+    "score": 1192,
+    "globalRank": 10844
   },
   {
     "login": "boloto1979",
@@ -8691,7 +9311,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 621,
-    "score": 1016
+    "score": 1016,
+    "globalRank": 10845
   },
   {
     "login": "VitorEmanuelDev",
@@ -8705,7 +9326,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 622,
-    "score": 408
+    "score": 408,
+    "globalRank": 10846
   },
   {
     "login": "beatrizadm",
@@ -8719,7 +9341,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 623,
-    "score": 393
+    "score": 393,
+    "globalRank": 10875
   },
   {
     "login": "juliohm",
@@ -8733,7 +9356,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 624,
-    "score": 1967
+    "score": 1967,
+    "globalRank": 10876
   },
   {
     "login": "fccoelho",
@@ -8747,7 +9371,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 625,
-    "score": 2137
+    "score": 2137,
+    "globalRank": 10913
   },
   {
     "login": "LarissaAzevedo",
@@ -8761,7 +9386,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 626,
-    "score": 432
+    "score": 432,
+    "globalRank": 10947
   },
   {
     "login": "mocraveirodev",
@@ -8775,7 +9401,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 627,
-    "score": 702
+    "score": 702,
+    "globalRank": 10974
   },
   {
     "login": "ajikisan",
@@ -8789,7 +9416,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 628,
-    "score": 432
+    "score": 432,
+    "globalRank": 10975
   },
   {
     "login": "thotypous",
@@ -8803,7 +9431,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 629,
-    "score": 1823
+    "score": 1823,
+    "globalRank": 10999
   },
   {
     "login": "italo-mauricio",
@@ -8817,7 +9446,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 630,
-    "score": 403
+    "score": 403,
+    "globalRank": 11000
   },
   {
     "login": "leoqbc",
@@ -8831,7 +9461,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 631,
-    "score": 617
+    "score": 617,
+    "globalRank": 11029
   },
   {
     "login": "cmilfont",
@@ -8845,7 +9476,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 632,
-    "score": 544
+    "score": 544,
+    "globalRank": 11030
   },
   {
     "login": "ibrahimcesar",
@@ -8859,7 +9491,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 633,
-    "score": 2183
+    "score": 2183,
+    "globalRank": 11031
   },
   {
     "login": "LeDragoX",
@@ -8873,7 +9506,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 634,
-    "score": 438
+    "score": 438,
+    "globalRank": 11066
   },
   {
     "login": "ribafs",
@@ -8887,7 +9521,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 635,
-    "score": 386
+    "score": 386,
+    "globalRank": 11067
   },
   {
     "login": "luk4x",
@@ -8901,7 +9536,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 636,
-    "score": 530
+    "score": 530,
+    "globalRank": 11068
   },
   {
     "login": "boaglio",
@@ -8915,7 +9551,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 637,
-    "score": 494
+    "score": 494,
+    "globalRank": 11069
   },
   {
     "login": "victorshinya",
@@ -8929,7 +9566,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 638,
-    "score": 401
+    "score": 401,
+    "globalRank": 11070
   },
   {
     "login": "mauri870",
@@ -8943,7 +9581,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 639,
-    "score": 1797
+    "score": 1797,
+    "globalRank": 11097
   },
   {
     "login": "carloscds",
@@ -8957,7 +9596,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 640,
-    "score": 402
+    "score": 402,
+    "globalRank": 11098
   },
   {
     "login": "agostinhomarcia",
@@ -8971,7 +9611,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 641,
-    "score": 390
+    "score": 390,
+    "globalRank": 11099
   },
   {
     "login": "LucasMB21",
@@ -8985,7 +9626,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 642,
-    "score": 622
+    "score": 622,
+    "globalRank": 11157
   },
   {
     "login": "jcarlosadm",
@@ -8999,7 +9641,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 643,
-    "score": 414
+    "score": 414,
+    "globalRank": 11158
   },
   {
     "login": "aew",
@@ -9013,7 +9656,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 644,
-    "score": 4735
+    "score": 4735,
+    "globalRank": 11192
   },
   {
     "login": "hebertialmeida",
@@ -9027,7 +9671,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 645,
-    "score": 1413
+    "score": 1413,
+    "globalRank": 11226
   },
   {
     "login": "EijiTomonari",
@@ -9041,7 +9686,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 646,
-    "score": 467
+    "score": 467,
+    "globalRank": 11227
   },
   {
     "login": "oalanicolas",
@@ -9055,7 +9701,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 647,
-    "score": 706
+    "score": 706,
+    "globalRank": 11228
   },
   {
     "login": "lauraol",
@@ -9069,7 +9716,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 648,
-    "score": 381
+    "score": 381,
+    "globalRank": 11229
   },
   {
     "login": "tarsisazevedo",
@@ -9083,7 +9731,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 649,
-    "score": 1329
+    "score": 1329,
+    "globalRank": 11230
   },
   {
     "login": "augusto-herrmann",
@@ -9097,7 +9746,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 650,
-    "score": 513
+    "score": 513,
+    "globalRank": 11231
   },
   {
     "login": "sleipnir",
@@ -9111,7 +9761,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 651,
-    "score": 2078
+    "score": 2078,
+    "globalRank": 11232
   },
   {
     "login": "jeffersonRibeiro",
@@ -9125,7 +9776,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 652,
-    "score": 6161
+    "score": 6161,
+    "globalRank": 11233
   },
   {
     "login": "vinciidev",
@@ -9139,7 +9791,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 653,
-    "score": 900
+    "score": 900,
+    "globalRank": 11268
   },
   {
     "login": "vmesel",
@@ -9153,7 +9806,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 654,
-    "score": 3959
+    "score": 3959,
+    "globalRank": 11269
   },
   {
     "login": "leofab",
@@ -9167,7 +9821,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 655,
-    "score": 384
+    "score": 384,
+    "globalRank": 11270
   },
   {
     "login": "leo-aa88",
@@ -9181,7 +9836,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 656,
-    "score": 1779
+    "score": 1779,
+    "globalRank": 11298
   },
   {
     "login": "nic",
@@ -9195,7 +9851,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 657,
-    "score": 489
+    "score": 489,
+    "globalRank": 11299
   },
   {
     "login": "carolinarutililima",
@@ -9209,7 +9866,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 658,
-    "score": 443
+    "score": 443,
+    "globalRank": 11329
   },
   {
     "login": "marcosfshirafuchi",
@@ -9223,7 +9881,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 659,
-    "score": 1180
+    "score": 1180,
+    "globalRank": 11330
   },
   {
     "login": "ghdeassis",
@@ -9237,7 +9896,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 660,
-    "score": 379
+    "score": 379,
+    "globalRank": 11331
   },
   {
     "login": "giulianobertoti",
@@ -9251,7 +9911,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 661,
-    "score": 378
+    "score": 378,
+    "globalRank": 11332
   },
   {
     "login": "emerleite",
@@ -9265,7 +9926,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 662,
-    "score": 590
+    "score": 590,
+    "globalRank": 11355
   },
   {
     "login": "marcelcaraciolo",
@@ -9279,7 +9941,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 663,
-    "score": 376
+    "score": 376,
+    "globalRank": 11379
   },
   {
     "login": "amandavilela",
@@ -9293,7 +9956,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 664,
-    "score": 633
+    "score": 633,
+    "globalRank": 11380
   },
   {
     "login": "Castruu",
@@ -9307,7 +9971,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 665,
-    "score": 860
+    "score": 860,
+    "globalRank": 11423
   },
   {
     "login": "joaoflaviosantos",
@@ -9321,7 +9986,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 666,
-    "score": 375
+    "score": 375,
+    "globalRank": 11424
   },
   {
     "login": "ThiagoAGDev",
@@ -9335,7 +10001,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 667,
-    "score": 375
+    "score": 375,
+    "globalRank": 11425
   },
   {
     "login": "ImGabreuw",
@@ -9349,7 +10016,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 668,
-    "score": 1992
+    "score": 1992,
+    "globalRank": 11426
   },
   {
     "login": "glaucotodesco",
@@ -9363,7 +10031,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 669,
-    "score": 656
+    "score": 656,
+    "globalRank": 11460
   },
   {
     "login": "paulobrandaodev",
@@ -9377,7 +10046,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 670,
-    "score": 489
+    "score": 489,
+    "globalRank": 11461
   },
   {
     "login": "andersao",
@@ -9391,7 +10061,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 671,
-    "score": 4535
+    "score": 4535,
+    "globalRank": 11480
   },
   {
     "login": "di3goleite",
@@ -9405,7 +10076,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 672,
-    "score": 1524
+    "score": 1524,
+    "globalRank": 11481
   },
   {
     "login": "CarolPC",
@@ -9419,7 +10091,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 673,
-    "score": 373
+    "score": 373,
+    "globalRank": 11482
   },
   {
     "login": "drgomesp",
@@ -9433,7 +10106,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 674,
-    "score": 2136
+    "score": 2136,
+    "globalRank": 11483
   },
   {
     "login": "carolquiterio",
@@ -9447,7 +10121,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 675,
-    "score": 469
+    "score": 469,
+    "globalRank": 11484
   },
   {
     "login": "paulohscwb",
@@ -9461,7 +10136,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 676,
-    "score": 1553
+    "score": 1553,
+    "globalRank": 11515
   },
   {
     "login": "leogregianin",
@@ -9475,7 +10151,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 677,
-    "score": 843
+    "score": 843,
+    "globalRank": 11516
   },
   {
     "login": "thauska",
@@ -9489,7 +10166,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 678,
-    "score": 714
+    "score": 714,
+    "globalRank": 11552
   },
   {
     "login": "jessycadev",
@@ -9503,7 +10181,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 679,
-    "score": 390
+    "score": 390,
+    "globalRank": 11553
   },
   {
     "login": "vtorres96",
@@ -9517,7 +10196,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 680,
-    "score": 374
+    "score": 374,
+    "globalRank": 11554
   },
   {
     "login": "belatoledo",
@@ -9531,7 +10211,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 681,
-    "score": 476
+    "score": 476,
+    "globalRank": 11594
   },
   {
     "login": "Vit0rg",
@@ -9545,7 +10226,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 682,
-    "score": 594
+    "score": 594,
+    "globalRank": 11595
   },
   {
     "login": "renatorib",
@@ -9559,7 +10241,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 683,
-    "score": 2111
+    "score": 2111,
+    "globalRank": 11596
   },
   {
     "login": "felipeholanda2077",
@@ -9573,7 +10256,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 684,
-    "score": 3351
+    "score": 3351,
+    "globalRank": 11634
   },
   {
     "login": "marcosdataleal",
@@ -9587,7 +10271,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 685,
-    "score": 397
+    "score": 397,
+    "globalRank": 11635
   },
   {
     "login": "bergpb",
@@ -9601,7 +10286,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 686,
-    "score": 433
+    "score": 433,
+    "globalRank": 11660
   },
   {
     "login": "mewmewdevart",
@@ -9615,7 +10301,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 687,
-    "score": 658
+    "score": 658,
+    "globalRank": 11661
   },
   {
     "login": "IsadoraFerrao",
@@ -9629,7 +10316,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 688,
-    "score": 391
+    "score": 391,
+    "globalRank": 11662
   },
   {
     "login": "Valdecy",
@@ -9643,7 +10331,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 689,
-    "score": 841
+    "score": 841,
+    "globalRank": 11697
   },
   {
     "login": "msperlin",
@@ -9657,7 +10346,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 690,
-    "score": 588
+    "score": 588,
+    "globalRank": 11698
   },
   {
     "login": "SmokeMonsterPacks",
@@ -9671,7 +10361,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 691,
-    "score": 367
+    "score": 367,
+    "globalRank": 11729
   },
   {
     "login": "rranelli",
@@ -9685,7 +10376,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 692,
-    "score": 1622
+    "score": 1622,
+    "globalRank": 11730
   },
   {
     "login": "cainhooow",
@@ -9699,7 +10391,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 693,
-    "score": 1318
+    "score": 1318,
+    "globalRank": 11731
   },
   {
     "login": "Luferat",
@@ -9713,7 +10406,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 694,
-    "score": 1221
+    "score": 1221,
+    "globalRank": 11732
   },
   {
     "login": "conrado-garcia-studies",
@@ -9727,7 +10421,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 695,
-    "score": 365
+    "score": 365,
+    "globalRank": 11771
   },
   {
     "login": "luzfcb",
@@ -9741,7 +10436,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 696,
-    "score": 451
+    "score": 451,
+    "globalRank": 11772
   },
   {
     "login": "DoctorSolo",
@@ -9755,7 +10451,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 697,
-    "score": 518
+    "score": 518,
+    "globalRank": 11773
   },
   {
     "login": "DanielSant0s",
@@ -9769,7 +10466,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 698,
-    "score": 608
+    "score": 608,
+    "globalRank": 11774
   },
   {
     "login": "micalevisk",
@@ -9783,7 +10481,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 699,
-    "score": 3164
+    "score": 3164,
+    "globalRank": 11775
   },
   {
     "login": "raphaelalmeidamartins",
@@ -9797,7 +10496,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 700,
-    "score": 372
+    "score": 372,
+    "globalRank": 11807
   },
   {
     "login": "vinniciusgomes",
@@ -9811,7 +10511,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 701,
-    "score": 1458
+    "score": 1458,
+    "globalRank": 11808
   },
   {
     "login": "bush1D3v",
@@ -9825,7 +10526,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 702,
-    "score": 1296
+    "score": 1296,
+    "globalRank": 11809
   },
   {
     "login": "rafaskb",
@@ -9839,7 +10541,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 703,
-    "score": 1367
+    "score": 1367,
+    "globalRank": 11810
   },
   {
     "login": "galvao",
@@ -9853,7 +10556,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 704,
-    "score": 804
+    "score": 804,
+    "globalRank": 11811
   },
   {
     "login": "sthalles",
@@ -9867,7 +10571,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 705,
-    "score": 394
+    "score": 394,
+    "globalRank": 11853
   },
   {
     "login": "juligaioso",
@@ -9881,7 +10586,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 706,
-    "score": 371
+    "score": 371,
+    "globalRank": 11890
   },
   {
     "login": "mateuschaves",
@@ -9895,7 +10601,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 707,
-    "score": 3093
+    "score": 3093,
+    "globalRank": 11891
   },
   {
     "login": "renatoalencar",
@@ -9909,7 +10616,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 708,
-    "score": 969
+    "score": 969,
+    "globalRank": 11924
   },
   {
     "login": "fabioharams",
@@ -9923,7 +10631,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 709,
-    "score": 477
+    "score": 477,
+    "globalRank": 11971
   },
   {
     "login": "renan-siqueira",
@@ -9937,7 +10646,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 710,
-    "score": 1364
+    "score": 1364,
+    "globalRank": 11972
   },
   {
     "login": "robmachado",
@@ -9951,7 +10661,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 711,
-    "score": 1813
+    "score": 1813,
+    "globalRank": 12014
   },
   {
     "login": "denisidoro",
@@ -9965,7 +10676,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 712,
-    "score": 374
+    "score": 374,
+    "globalRank": 12015
   },
   {
     "login": "theandersonn",
@@ -9979,7 +10691,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 713,
-    "score": 374
+    "score": 374,
+    "globalRank": 12057
   },
   {
     "login": "lndsilva",
@@ -9993,7 +10706,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 714,
-    "score": 854
+    "score": 854,
+    "globalRank": 12058
   },
   {
     "login": "toshiossada",
@@ -10007,7 +10721,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 715,
-    "score": 412
+    "score": 412,
+    "globalRank": 12059
   },
   {
     "login": "JessicaNathany",
@@ -10021,7 +10736,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 716,
-    "score": 641
+    "score": 641,
+    "globalRank": 12096
   },
   {
     "login": "santiagomarcos",
@@ -10035,7 +10751,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 717,
-    "score": 1122
+    "score": 1122,
+    "globalRank": 12097
   },
   {
     "login": "MatheusAlvesPereira",
@@ -10049,7 +10766,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 718,
-    "score": 579
+    "score": 579,
+    "globalRank": 12136
   },
   {
     "login": "iaurg",
@@ -10063,7 +10781,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 719,
-    "score": 2689
+    "score": 2689,
+    "globalRank": 12168
   },
   {
     "login": "thiagorider",
@@ -10077,7 +10796,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 720,
-    "score": 1767
+    "score": 1767,
+    "globalRank": 12169
   },
   {
     "login": "FelipeAlmeida010",
@@ -10091,7 +10811,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 721,
-    "score": 416
+    "score": 416,
+    "globalRank": 12194
   },
   {
     "login": "Amadeo-Frontend",
@@ -10105,7 +10826,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 722,
-    "score": 1088
+    "score": 1088,
+    "globalRank": 12195
   },
   {
     "login": "viniciusdacal",
@@ -10119,7 +10841,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 723,
-    "score": 6957
+    "score": 6957,
+    "globalRank": 12196
   },
   {
     "login": "RafaelGoulartB",
@@ -10133,7 +10856,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 724,
-    "score": 1558
+    "score": 1558,
+    "globalRank": 12226
   },
   {
     "login": "angelogluz",
@@ -10147,7 +10871,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 725,
-    "score": 379
+    "score": 379,
+    "globalRank": 12227
   },
   {
     "login": "liara987",
@@ -10161,7 +10886,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 726,
-    "score": 510
+    "score": 510,
+    "globalRank": 12228
   },
   {
     "login": "filipe-augusto",
@@ -10175,7 +10901,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 727,
-    "score": 369
+    "score": 369,
+    "globalRank": 12255
   },
   {
     "login": "ricarthlima",
@@ -10189,7 +10916,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 728,
-    "score": 808
+    "score": 808,
+    "globalRank": 12256
   },
   {
     "login": "dmesquita",
@@ -10203,7 +10931,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 729,
-    "score": 514
+    "score": 514,
+    "globalRank": 12257
   },
   {
     "login": "grote",
@@ -10217,7 +10946,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 730,
-    "score": 1003
+    "score": 1003,
+    "globalRank": 12285
   },
   {
     "login": "RodrigoVazOliveira",
@@ -10231,7 +10961,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 731,
-    "score": 374
+    "score": 374,
+    "globalRank": 12286
   },
   {
     "login": "liverday",
@@ -10245,7 +10976,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 732,
-    "score": 354
+    "score": 354,
+    "globalRank": 12287
   },
   {
     "login": "ryukinix",
@@ -10259,7 +10991,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 733,
-    "score": 1115
+    "score": 1115,
+    "globalRank": 12288
   },
   {
     "login": "vinijmoura",
@@ -10273,7 +11006,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 734,
-    "score": 560
+    "score": 560,
+    "globalRank": 12318
   },
   {
     "login": "BrianMunizSilveira",
@@ -10287,7 +11021,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 735,
-    "score": 496
+    "score": 496,
+    "globalRank": 12377
   },
   {
     "login": "grvcoelho",
@@ -10301,7 +11036,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 736,
-    "score": 593
+    "score": 593,
+    "globalRank": 12416
   },
   {
     "login": "DanWBR",
@@ -10315,7 +11051,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 737,
-    "score": 1255
+    "score": 1255,
+    "globalRank": 12417
   },
   {
     "login": "tabarra",
@@ -10329,7 +11066,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 738,
-    "score": 576
+    "score": 576,
+    "globalRank": 12418
   },
   {
     "login": "lfcnassif",
@@ -10343,7 +11081,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 739,
-    "score": 639
+    "score": 639,
+    "globalRank": 12458
   },
   {
     "login": "NicklessOne",
@@ -10357,7 +11096,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 740,
-    "score": 937
+    "score": 937,
+    "globalRank": 12459
   },
   {
     "login": "rdeconti",
@@ -10371,7 +11111,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 741,
-    "score": 435
+    "score": 435,
+    "globalRank": 12488
   },
   {
     "login": "ProfAlexandrePC",
@@ -10385,7 +11126,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 742,
-    "score": 401
+    "score": 401,
+    "globalRank": 12489
   },
   {
     "login": "icaroharry",
@@ -10399,7 +11141,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 743,
-    "score": 876
+    "score": 876,
+    "globalRank": 12521
   },
   {
     "login": "sunag",
@@ -10413,7 +11156,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 744,
-    "score": 993
+    "score": 993,
+    "globalRank": 12522
   },
   {
     "login": "Djalves424",
@@ -10427,7 +11171,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 745,
-    "score": 383
+    "score": 383,
+    "globalRank": 12549
   },
   {
     "login": "femontanha",
@@ -10441,7 +11186,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 746,
-    "score": 783
+    "score": 783,
+    "globalRank": 12550
   },
   {
     "login": "GuilhermeSerafim",
@@ -10455,7 +11201,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 747,
-    "score": 2212
+    "score": 2212,
+    "globalRank": 12551
   },
   {
     "login": "GravetoGeek",
@@ -10469,7 +11216,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 748,
-    "score": 1867
+    "score": 1867,
+    "globalRank": 12552
   },
   {
     "login": "gumaciel",
@@ -10483,7 +11231,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 749,
-    "score": 1154
+    "score": 1154,
+    "globalRank": 12587
   },
   {
     "login": "juliobaccin",
@@ -10497,7 +11246,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 750,
-    "score": 342
+    "score": 342,
+    "globalRank": 12588
   },
   {
     "login": "keowu",
@@ -10511,7 +11261,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 751,
-    "score": 996
+    "score": 996,
+    "globalRank": 12589
   },
   {
     "login": "jansenfelipe",
@@ -10525,7 +11276,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 752,
-    "score": 1884
+    "score": 1884,
+    "globalRank": 12625
   },
   {
     "login": "barraponto",
@@ -10539,7 +11291,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 753,
-    "score": 537
+    "score": 537,
+    "globalRank": 12626
   },
   {
     "login": "Lucas-PCN",
@@ -10553,7 +11306,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 754,
-    "score": 517
+    "score": 517,
+    "globalRank": 12665
   },
   {
     "login": "amaurybsouza",
@@ -10567,7 +11321,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 755,
-    "score": 918
+    "score": 918,
+    "globalRank": 12666
   },
   {
     "login": "err0x1a",
@@ -10581,7 +11336,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 756,
-    "score": 1879
+    "score": 1879,
+    "globalRank": 12667
   },
   {
     "login": "AyanCoders",
@@ -10595,7 +11351,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 757,
-    "score": 15442
+    "score": 15442,
+    "globalRank": 12668
   },
   {
     "login": "lesimoes",
@@ -10609,7 +11366,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 758,
-    "score": 1056
+    "score": 1056,
+    "globalRank": 12669
   },
   {
     "login": "robsonamendonca",
@@ -10623,7 +11381,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 759,
-    "score": 570
+    "score": 570,
+    "globalRank": 12670
   },
   {
     "login": "evaporei",
@@ -10637,7 +11396,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 760,
-    "score": 1009
+    "score": 1009,
+    "globalRank": 12700
   },
   {
     "login": "rosooares",
@@ -10651,7 +11411,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 761,
-    "score": 339
+    "score": 339,
+    "globalRank": 12701
   },
   {
     "login": "0xHericles",
@@ -10665,7 +11426,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 762,
-    "score": 1534
+    "score": 1534,
+    "globalRank": 12702
   },
   {
     "login": "brenopolanski",
@@ -10679,7 +11441,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 763,
-    "score": 1675
+    "score": 1675,
+    "globalRank": 12703
   },
   {
     "login": "yurimalheiros",
@@ -10693,7 +11456,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 764,
-    "score": 374
+    "score": 374,
+    "globalRank": 12740
   },
   {
     "login": "kayua",
@@ -10707,7 +11471,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 765,
-    "score": 1040
+    "score": 1040,
+    "globalRank": 12741
   },
   {
     "login": "felipensp",
@@ -10721,7 +11486,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 766,
-    "score": 647
+    "score": 647,
+    "globalRank": 12772
   },
   {
     "login": "glauciodaniel",
@@ -10735,7 +11501,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 767,
-    "score": 494
+    "score": 494,
+    "globalRank": 12773
   },
   {
     "login": "Rafael-M-Silva",
@@ -10749,7 +11516,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 768,
-    "score": 545
+    "score": 545,
+    "globalRank": 12811
   },
   {
     "login": "araujodanield",
@@ -10763,7 +11531,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 769,
-    "score": 339
+    "score": 339,
+    "globalRank": 12812
   },
   {
     "login": "isadfrn",
@@ -10777,7 +11546,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 770,
-    "score": 977
+    "score": 977,
+    "globalRank": 12813
   },
   {
     "login": "danilovaz",
@@ -10791,7 +11561,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 771,
-    "score": 1803
+    "score": 1803,
+    "globalRank": 12845
   },
   {
     "login": "alexnogueirasilva",
@@ -10805,7 +11576,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 772,
-    "score": 12857
+    "score": 12857,
+    "globalRank": 12846
   },
   {
     "login": "egermano",
@@ -10819,7 +11591,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 773,
-    "score": 2854
+    "score": 2854,
+    "globalRank": 12847
   },
   {
     "login": "AdrianoR85",
@@ -10833,7 +11606,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 774,
-    "score": 993
+    "score": 993,
+    "globalRank": 12883
   },
   {
     "login": "B-Ariel",
@@ -10847,7 +11621,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 775,
-    "score": 435
+    "score": 435,
+    "globalRank": 12884
   },
   {
     "login": "benits",
@@ -10861,7 +11636,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 776,
-    "score": 2367
+    "score": 2367,
+    "globalRank": 12916
   },
   {
     "login": "ricaun",
@@ -10875,7 +11651,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 777,
-    "score": 3913
+    "score": 3913,
+    "globalRank": 12946
   },
   {
     "login": "wsrzx",
@@ -10889,7 +11666,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 778,
-    "score": 357
+    "score": 357,
+    "globalRank": 12947
   },
   {
     "login": "VariableBee",
@@ -10903,7 +11681,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 779,
-    "score": 332
+    "score": 332,
+    "globalRank": 12948
   },
   {
     "login": "icarojobs",
@@ -10917,7 +11696,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 780,
-    "score": 1315
+    "score": 1315,
+    "globalRank": 12976
   },
   {
     "login": "ayrtonbsouza",
@@ -10931,7 +11711,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 781,
-    "score": 816
+    "score": 816,
+    "globalRank": 12977
   },
   {
     "login": "alvarocamillont",
@@ -10945,7 +11726,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 782,
-    "score": 483
+    "score": 483,
+    "globalRank": 12978
   },
   {
     "login": "patriciosilva83",
@@ -10959,7 +11741,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 783,
-    "score": 336
+    "score": 336,
+    "globalRank": 13011
   },
   {
     "login": "fabiogjardim",
@@ -10973,7 +11756,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 784,
-    "score": 353
+    "score": 353,
+    "globalRank": 13012
   },
   {
     "login": "sombriks",
@@ -10987,7 +11771,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 785,
-    "score": 773
+    "score": 773,
+    "globalRank": 13013
   },
   {
     "login": "DiegoBr7",
@@ -11001,7 +11786,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 786,
-    "score": 466
+    "score": 466,
+    "globalRank": 13014
   },
   {
     "login": "JSansalone",
@@ -11015,7 +11801,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 787,
-    "score": 330
+    "score": 330,
+    "globalRank": 13015
   },
   {
     "login": "leocomelli",
@@ -11029,7 +11816,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 788,
-    "score": 795
+    "score": 795,
+    "globalRank": 13016
   },
   {
     "login": "renadeveloper",
@@ -11043,7 +11831,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 789,
-    "score": 335
+    "score": 335,
+    "globalRank": 13048
   },
   {
     "login": "Mitsu325",
@@ -11057,7 +11846,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 790,
-    "score": 329
+    "score": 329,
+    "globalRank": 13081
   },
   {
     "login": "paulofaria",
@@ -11071,7 +11861,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 791,
-    "score": 1896
+    "score": 1896,
+    "globalRank": 13082
   },
   {
     "login": "MatheusEli",
@@ -11085,7 +11876,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 792,
-    "score": 2475
+    "score": 2475,
+    "globalRank": 13112
   },
   {
     "login": "Pr3d4dor",
@@ -11099,7 +11891,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 793,
-    "score": 460
+    "score": 460,
+    "globalRank": 13113
   },
   {
     "login": "daianeklein",
@@ -11113,7 +11906,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 794,
-    "score": 768
+    "score": 768,
+    "globalRank": 13151
   },
   {
     "login": "yamadapc",
@@ -11127,7 +11921,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 795,
-    "score": 767
+    "score": 767,
+    "globalRank": 13152
   },
   {
     "login": "akamud",
@@ -11141,7 +11936,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 796,
-    "score": 1163
+    "score": 1163,
+    "globalRank": 13153
   },
   {
     "login": "rinckodev",
@@ -11155,7 +11951,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 797,
-    "score": 475
+    "score": 475,
+    "globalRank": 13154
   },
   {
     "login": "danielbonifacio",
@@ -11169,7 +11966,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 798,
-    "score": 1996
+    "score": 1996,
+    "globalRank": 13155
   },
   {
     "login": "pu2clr",
@@ -11183,7 +11981,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 799,
-    "score": 488
+    "score": 488,
+    "globalRank": 13156
   },
   {
     "login": "jeffque",
@@ -11197,7 +11996,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 800,
-    "score": 652
+    "score": 652,
+    "globalRank": 13193
   },
   {
     "login": "pauloanalista",
@@ -11211,7 +12011,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 801,
-    "score": 343
+    "score": 343,
+    "globalRank": 13194
   },
   {
     "login": "gilsondev",
@@ -11225,7 +12026,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 802,
-    "score": 2227
+    "score": 2227,
+    "globalRank": 13228
   },
   {
     "login": "vcampitelli",
@@ -11239,7 +12041,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 803,
-    "score": 1467
+    "score": 1467,
+    "globalRank": 13229
   },
   {
     "login": "ynaralira",
@@ -11253,7 +12056,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 804,
-    "score": 2604
+    "score": 2604,
+    "globalRank": 13230
   },
   {
     "login": "victorges",
@@ -11267,7 +12071,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 805,
-    "score": 2395
+    "score": 2395,
+    "globalRank": 13259
   },
   {
     "login": "caiorss",
@@ -11281,7 +12086,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 806,
-    "score": 962
+    "score": 962,
+    "globalRank": 13260
   },
   {
     "login": "uLipe",
@@ -11295,7 +12101,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 807,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 13261
   },
   {
     "login": "lira1705",
@@ -11309,7 +12116,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 808,
-    "score": 323
+    "score": 323,
+    "globalRank": 13262
   },
   {
     "login": "robsontenorio",
@@ -11323,7 +12131,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 809,
-    "score": 1452
+    "score": 1452,
+    "globalRank": 13263
   },
   {
     "login": "willmorim",
@@ -11337,7 +12146,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 810,
-    "score": 323
+    "score": 323,
+    "globalRank": 13264
   },
   {
     "login": "juliomoreira666",
@@ -11351,7 +12161,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 811,
-    "score": 811
+    "score": 811,
+    "globalRank": 13297
   },
   {
     "login": "brunoerg",
@@ -11365,7 +12176,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 812,
-    "score": 1620
+    "score": 1620,
+    "globalRank": 13298
   },
   {
     "login": "fabioruicci",
@@ -11379,7 +12191,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 813,
-    "score": 322
+    "score": 322,
+    "globalRank": 13299
   },
   {
     "login": "xssrae",
@@ -11393,7 +12206,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 814,
-    "score": 376
+    "score": 376,
+    "globalRank": 13349
   },
   {
     "login": "angelicaccampos",
@@ -11407,7 +12221,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 815,
-    "score": 628
+    "score": 628,
+    "globalRank": 13350
   },
   {
     "login": "Wellers0n",
@@ -11421,7 +12236,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 816,
-    "score": 2348
+    "score": 2348,
+    "globalRank": 13386
   },
   {
     "login": "victorvoid",
@@ -11435,7 +12251,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 817,
-    "score": 2265
+    "score": 2265,
+    "globalRank": 13387
   },
   {
     "login": "pedrocava",
@@ -11449,7 +12266,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 818,
-    "score": 437
+    "score": 437,
+    "globalRank": 13416
   },
   {
     "login": "pedrobergamini",
@@ -11463,7 +12281,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 819,
-    "score": 1549
+    "score": 1549,
+    "globalRank": 13417
   },
   {
     "login": "MatheusVict",
@@ -11477,7 +12296,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 820,
-    "score": 599
+    "score": 599,
+    "globalRank": 13418
   },
   {
     "login": "gerolaleticia",
@@ -11491,7 +12311,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 821,
-    "score": 318
+    "score": 318,
+    "globalRank": 13457
   },
   {
     "login": "rhuanbello",
@@ -11505,7 +12326,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 822,
-    "score": 894
+    "score": 894,
+    "globalRank": 13458
   },
   {
     "login": "jeniferGoncalvesDaSilvaDev",
@@ -11519,7 +12341,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 823,
-    "score": 538
+    "score": 538,
+    "globalRank": 13459
   },
   {
     "login": "GSuaki",
@@ -11533,7 +12356,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 824,
-    "score": 318
+    "score": 318,
+    "globalRank": 13460
   },
   {
     "login": "Caaddss",
@@ -11547,7 +12371,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 825,
-    "score": 317
+    "score": 317,
+    "globalRank": 13498
   },
   {
     "login": "armandosouza",
@@ -11561,7 +12386,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 826,
-    "score": 352
+    "score": 352,
+    "globalRank": 13499
   },
   {
     "login": "cicerohen",
@@ -11575,7 +12401,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 827,
-    "score": 611
+    "score": 611,
+    "globalRank": 13541
   },
   {
     "login": "aleDsz",
@@ -11589,7 +12416,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 828,
-    "score": 1543
+    "score": 1543,
+    "globalRank": 13542
   },
   {
     "login": "vquaiato",
@@ -11603,7 +12431,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 829,
-    "score": 527
+    "score": 527,
+    "globalRank": 13543
   },
   {
     "login": "yanjustino",
@@ -11617,7 +12446,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 830,
-    "score": 540
+    "score": 540,
+    "globalRank": 13544
   },
   {
     "login": "CodesdaLu",
@@ -11631,7 +12461,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 831,
-    "score": 316
+    "score": 316,
+    "globalRank": 13545
   },
   {
     "login": "innng",
@@ -11645,7 +12476,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 832,
-    "score": 385
+    "score": 385,
+    "globalRank": 13546
   },
   {
     "login": "fbamuniz",
@@ -11659,7 +12491,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 833,
-    "score": 962
+    "score": 962,
+    "globalRank": 13589
   },
   {
     "login": "felipeweb",
@@ -11673,7 +12506,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 834,
-    "score": 1684
+    "score": 1684,
+    "globalRank": 13590
   },
   {
     "login": "raisiqueira",
@@ -11687,7 +12521,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 835,
-    "score": 797
+    "score": 797,
+    "globalRank": 13591
   },
   {
     "login": "julioxavierr",
@@ -11701,7 +12536,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 836,
-    "score": 7209
+    "score": 7209,
+    "globalRank": 13592
   },
   {
     "login": "waghcwb",
@@ -11715,7 +12551,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 837,
-    "score": 486
+    "score": 486,
+    "globalRank": 13593
   },
   {
     "login": "rcandidosilva",
@@ -11729,7 +12566,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 838,
-    "score": 488
+    "score": 488,
+    "globalRank": 13632
   },
   {
     "login": "caiooliveira-tech",
@@ -11743,7 +12581,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 839,
-    "score": 400
+    "score": 400,
+    "globalRank": 13633
   },
   {
     "login": "MrBElga",
@@ -11757,7 +12596,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 840,
-    "score": 1066
+    "score": 1066,
+    "globalRank": 13634
   },
   {
     "login": "ramon-victor",
@@ -11771,7 +12611,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 841,
-    "score": 1069
+    "score": 1069,
+    "globalRank": 13635
   },
   {
     "login": "joaovitor32",
@@ -11785,7 +12626,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 842,
-    "score": 319
+    "score": 319,
+    "globalRank": 13636
   },
   {
     "login": "LeoSousaJesus",
@@ -11799,7 +12641,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 843,
-    "score": 922
+    "score": 922,
+    "globalRank": 13637
   },
   {
     "login": "allisson",
@@ -11813,7 +12656,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 844,
-    "score": 2458
+    "score": 2458,
+    "globalRank": 13683
   },
   {
     "login": "hugooliveirad",
@@ -11827,7 +12671,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 845,
-    "score": 3930
+    "score": 3930,
+    "globalRank": 13719
   },
   {
     "login": "avrcoelho",
@@ -11841,7 +12686,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 846,
-    "score": 2015
+    "score": 2015,
+    "globalRank": 13720
   },
   {
     "login": "edgardmessias",
@@ -11855,7 +12701,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 847,
-    "score": 1345
+    "score": 1345,
+    "globalRank": 13721
   },
   {
     "login": "aleborba",
@@ -11869,7 +12716,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 848,
-    "score": 677
+    "score": 677,
+    "globalRank": 13722
   },
   {
     "login": "RodrigoPiropo",
@@ -11883,7 +12731,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 849,
-    "score": 312
+    "score": 312,
+    "globalRank": 13723
   },
   {
     "login": "rodsmade",
@@ -11897,7 +12746,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 850,
-    "score": 594
+    "score": 594,
+    "globalRank": 13764
   },
   {
     "login": "jeferson-paz",
@@ -11911,7 +12761,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 851,
-    "score": 311
+    "score": 311,
+    "globalRank": 13765
   },
   {
     "login": "jjesusfilho",
@@ -11925,7 +12776,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 852,
-    "score": 574
+    "score": 574,
+    "globalRank": 13798
   },
   {
     "login": "marioidival",
@@ -11939,7 +12791,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 853,
-    "score": 2742
+    "score": 2742,
+    "globalRank": 13799
   },
   {
     "login": "joevtap",
@@ -11953,7 +12806,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 854,
-    "score": 1380
+    "score": 1380,
+    "globalRank": 13821
   },
   {
     "login": "zeucxb",
@@ -11967,7 +12821,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 855,
-    "score": 679
+    "score": 679,
+    "globalRank": 13822
   },
   {
     "login": "jefersonrl",
@@ -11981,7 +12836,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 856,
-    "score": 335
+    "score": 335,
+    "globalRank": 13823
   },
   {
     "login": "devajmeireles",
@@ -11995,7 +12851,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 857,
-    "score": 3926
+    "score": 3926,
+    "globalRank": 13824
   },
   {
     "login": "hugobarauna",
@@ -12009,7 +12866,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 858,
-    "score": 1878
+    "score": 1878,
+    "globalRank": 13825
   },
   {
     "login": "rafaelporfiriobarros",
@@ -12023,7 +12881,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 859,
-    "score": 468
+    "score": 468,
+    "globalRank": 13826
   },
   {
     "login": "SouzaCleber98",
@@ -12037,7 +12896,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 860,
-    "score": 825
+    "score": 825,
+    "globalRank": 13827
   },
   {
     "login": "fjsj",
@@ -12051,7 +12911,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 861,
-    "score": 831
+    "score": 831,
+    "globalRank": 13828
   },
   {
     "login": "mjcoffeeholick",
@@ -12065,7 +12926,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 862,
-    "score": 308
+    "score": 308,
+    "globalRank": 13866
   },
   {
     "login": "Marcelo-Diament",
@@ -12079,7 +12941,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 863,
-    "score": 309
+    "score": 309,
+    "globalRank": 13867
   },
   {
     "login": "hollywoodpanda",
@@ -12093,7 +12956,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 864,
-    "score": 307
+    "score": 307,
+    "globalRank": 13902
   },
   {
     "login": "wainejr",
@@ -12107,7 +12971,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 865,
-    "score": 724
+    "score": 724,
+    "globalRank": 13985
   },
   {
     "login": "celiobjunior",
@@ -12121,7 +12986,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 866,
-    "score": 566
+    "score": 566,
+    "globalRank": 13986
   },
   {
     "login": "danielfm",
@@ -12135,7 +13001,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 867,
-    "score": 3153
+    "score": 3153,
+    "globalRank": 13987
   },
   {
     "login": "dsouloficial",
@@ -12149,7 +13016,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 868,
-    "score": 313
+    "score": 313,
+    "globalRank": 13988
   },
   {
     "login": "rcarneironet",
@@ -12163,7 +13031,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 869,
-    "score": 311
+    "score": 311,
+    "globalRank": 14023
   },
   {
     "login": "igorfelipeduca",
@@ -12177,7 +13046,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 870,
-    "score": 5380
+    "score": 5380,
+    "globalRank": 14062
   },
   {
     "login": "luanafront",
@@ -12191,7 +13061,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 871,
-    "score": 303
+    "score": 303,
+    "globalRank": 14063
   },
   {
     "login": "th14g0d3v",
@@ -12205,7 +13076,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 872,
-    "score": 303
+    "score": 303,
+    "globalRank": 14064
   },
   {
     "login": "ProfAndersonVanin",
@@ -12219,7 +13091,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 873,
-    "score": 527
+    "score": 527,
+    "globalRank": 14065
   },
   {
     "login": "Nikaum-js",
@@ -12233,7 +13106,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 874,
-    "score": 1135
+    "score": 1135,
+    "globalRank": 14066
   },
   {
     "login": "bugelseif",
@@ -12247,7 +13121,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 875,
-    "score": 605
+    "score": 605,
+    "globalRank": 14067
   },
   {
     "login": "leandrosnazareth",
@@ -12261,7 +13136,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 876,
-    "score": 868
+    "score": 868,
+    "globalRank": 14068
   },
   {
     "login": "sergiokopplin",
@@ -12275,7 +13151,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 877,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 14113
   },
   {
     "login": "LadyJessie19",
@@ -12289,7 +13166,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 878,
-    "score": 425
+    "score": 425,
+    "globalRank": 14114
   },
   {
     "login": "henriquejensen",
@@ -12303,7 +13181,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 879,
-    "score": 362
+    "score": 362,
+    "globalRank": 14157
   },
   {
     "login": "r3nanp",
@@ -12317,7 +13196,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 880,
-    "score": 1192
+    "score": 1192,
+    "globalRank": 14209
   },
   {
     "login": "msawaguchi",
@@ -12331,7 +13211,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 881,
-    "score": 303
+    "score": 303,
+    "globalRank": 14210
   },
   {
     "login": "rafaeltoledo",
@@ -12345,7 +13226,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 882,
-    "score": 835
+    "score": 835,
+    "globalRank": 14211
   },
   {
     "login": "Maujor",
@@ -12359,7 +13241,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 883,
-    "score": 300
+    "score": 300,
+    "globalRank": 14212
   },
   {
     "login": "coreh",
@@ -12373,7 +13256,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 884,
-    "score": 8938
+    "score": 8938,
+    "globalRank": 14213
   },
   {
     "login": "Pnkcaht",
@@ -12387,7 +13271,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 885,
-    "score": 1558
+    "score": 1558,
+    "globalRank": 14214
   },
   {
     "login": "cassiasamp",
@@ -12401,7 +13286,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 886,
-    "score": 473
+    "score": 473,
+    "globalRank": 14215
   },
   {
     "login": "DanSmaR",
@@ -12415,7 +13301,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 887,
-    "score": 1647
+    "score": 1647,
+    "globalRank": 14253
   },
   {
     "login": "jcmdsbr",
@@ -12429,7 +13316,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 888,
-    "score": 395
+    "score": 395,
+    "globalRank": 14254
   },
   {
     "login": "victorsouza19",
@@ -12443,7 +13331,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 889,
-    "score": 333
+    "score": 333,
+    "globalRank": 14255
   },
   {
     "login": "vldmatos",
@@ -12457,7 +13346,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 890,
-    "score": 359
+    "score": 359,
+    "globalRank": 14256
   },
   {
     "login": "tgcsantos",
@@ -12471,7 +13361,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 891,
-    "score": 298
+    "score": 298,
+    "globalRank": 14294
   },
   {
     "login": "adrianosantostreina",
@@ -12485,7 +13376,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 892,
-    "score": 385
+    "score": 385,
+    "globalRank": 14295
   },
   {
     "login": "franklaercio",
@@ -12499,7 +13391,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 893,
-    "score": 453
+    "score": 453,
+    "globalRank": 14296
   },
   {
     "login": "cristian-sbardelotto",
@@ -12513,7 +13406,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 894,
-    "score": 821
+    "score": 821,
+    "globalRank": 14297
   },
   {
     "login": "pablomaribondo",
@@ -12527,7 +13421,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 895,
-    "score": 298
+    "score": 298,
+    "globalRank": 14298
   },
   {
     "login": "rfsaldanha",
@@ -12541,7 +13436,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 896,
-    "score": 1428
+    "score": 1428,
+    "globalRank": 14299
   },
   {
     "login": "HunnTeRUS",
@@ -12555,7 +13451,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 897,
-    "score": 717
+    "score": 717,
+    "globalRank": 14300
   },
   {
     "login": "senapk",
@@ -12569,7 +13466,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 898,
-    "score": 910
+    "score": 910,
+    "globalRank": 14339
   },
   {
     "login": "omarcusdev",
@@ -12583,7 +13481,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 899,
-    "score": 782
+    "score": 782,
+    "globalRank": 14340
   },
   {
     "login": "HugoSilva023",
@@ -12597,7 +13496,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 900,
-    "score": 297
+    "score": 297,
+    "globalRank": 14382
   },
   {
     "login": "troquatte",
@@ -12611,7 +13511,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 901,
-    "score": 302
+    "score": 302,
+    "globalRank": 14383
   },
   {
     "login": "renatosousafilho",
@@ -12625,7 +13526,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 902,
-    "score": 306
+    "score": 306,
+    "globalRank": 14384
   },
   {
     "login": "Biellms",
@@ -12639,7 +13541,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 903,
-    "score": 320
+    "score": 320,
+    "globalRank": 14385
   },
   {
     "login": "ViniciusBenetti",
@@ -12653,7 +13556,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 904,
-    "score": 367
+    "score": 367,
+    "globalRank": 14386
   },
   {
     "login": "pietro-swe",
@@ -12667,7 +13571,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 905,
-    "score": 873
+    "score": 873,
+    "globalRank": 14387
   },
   {
     "login": "alexcmgit",
@@ -12681,7 +13586,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 906,
-    "score": 577
+    "score": 577,
+    "globalRank": 14388
   },
   {
     "login": "lucasew",
@@ -12695,7 +13601,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 907,
-    "score": 11709
+    "score": 11709,
+    "globalRank": 14389
   },
   {
     "login": "devyasminn",
@@ -12709,7 +13616,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 908,
-    "score": 379
+    "score": 379,
+    "globalRank": 14428
   },
   {
     "login": "marina-ferreira",
@@ -12723,7 +13631,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 909,
-    "score": 1523
+    "score": 1523,
+    "globalRank": 14429
   },
   {
     "login": "lucis",
@@ -12737,7 +13646,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 910,
-    "score": 1808
+    "score": 1808,
+    "globalRank": 14430
   },
   {
     "login": "filipealvesdef",
@@ -12751,7 +13661,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 911,
-    "score": 295
+    "score": 295,
+    "globalRank": 14431
   },
   {
     "login": "martins-rafael",
@@ -12765,7 +13676,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 912,
-    "score": 295
+    "score": 295,
+    "globalRank": 14432
   },
   {
     "login": "danilolutz",
@@ -12779,7 +13691,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 913,
-    "score": 931
+    "score": 931,
+    "globalRank": 14470
   },
   {
     "login": "guilhermebr",
@@ -12793,7 +13706,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 914,
-    "score": 1004
+    "score": 1004,
+    "globalRank": 14471
   },
   {
     "login": "silviomoreto",
@@ -12807,7 +13721,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 915,
-    "score": 465
+    "score": 465,
+    "globalRank": 14472
   },
   {
     "login": "caroldaniel",
@@ -12821,7 +13736,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 916,
-    "score": 306
+    "score": 306,
+    "globalRank": 14473
   },
   {
     "login": "fernandadegolin",
@@ -12835,7 +13751,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 917,
-    "score": 334
+    "score": 334,
+    "globalRank": 14519
   },
   {
     "login": "thiagomanel",
@@ -12849,7 +13766,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 918,
-    "score": 324
+    "score": 324,
+    "globalRank": 14571
   },
   {
     "login": "mswell",
@@ -12863,7 +13781,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 919,
-    "score": 1775
+    "score": 1775,
+    "globalRank": 14572
   },
   {
     "login": "robertotcestari",
@@ -12877,7 +13796,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 920,
-    "score": 5302
+    "score": 5302,
+    "globalRank": 14573
   },
   {
     "login": "cristianzsh",
@@ -12891,7 +13811,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 921,
-    "score": 500
+    "score": 500,
+    "globalRank": 14640
   },
   {
     "login": "wpjunior",
@@ -12905,7 +13826,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 922,
-    "score": 706
+    "score": 706,
+    "globalRank": 14641
   },
   {
     "login": "alfakini",
@@ -12919,7 +13841,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 923,
-    "score": 1150
+    "score": 1150,
+    "globalRank": 14642
   },
   {
     "login": "mensonones",
@@ -12933,7 +13856,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 924,
-    "score": 1344
+    "score": 1344,
+    "globalRank": 14643
   },
   {
     "login": "ThiagoDCode",
@@ -12947,7 +13871,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 925,
-    "score": 1601
+    "score": 1601,
+    "globalRank": 14692
   },
   {
     "login": "FlavioAro",
@@ -12961,7 +13886,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 926,
-    "score": 296
+    "score": 296,
+    "globalRank": 14693
   },
   {
     "login": "baiana",
@@ -12975,7 +13901,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 927,
-    "score": 290
+    "score": 290,
+    "globalRank": 14694
   },
   {
     "login": "Luciana-Santos",
@@ -12989,7 +13916,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 928,
-    "score": 447
+    "score": 447,
+    "globalRank": 14745
   },
   {
     "login": "DiegoMBS",
@@ -13003,7 +13931,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 929,
-    "score": 503
+    "score": 503,
+    "globalRank": 14746
   },
   {
     "login": "jwagnervaz",
@@ -13017,7 +13946,8 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 930,
-    "score": 423
+    "score": 423,
+    "globalRank": 14747
   },
   {
     "login": "shyoutarou",
@@ -13031,6 +13961,7 @@
     "country": "brazil",
     "countryName": "Brazil",
     "countryRank": 931,
-    "score": 294
+    "score": 294,
+    "globalRank": 14794
   }
 ]

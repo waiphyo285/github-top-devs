@@ -11,7 +11,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 1,
-    "score": 14505
+    "score": 14505,
+    "globalRank": 95
   },
   {
     "login": "filiph",
@@ -25,7 +26,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 2,
-    "score": 6003
+    "score": 6003,
+    "globalRank": 598
   },
   {
     "login": "Borda",
@@ -39,7 +41,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 3,
-    "score": 10451
+    "score": 10451,
+    "globalRank": 670
   },
   {
     "login": "photopea",
@@ -53,7 +56,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 4,
-    "score": 2943
+    "score": 2943,
+    "globalRank": 991
   },
   {
     "login": "catalinmiron",
@@ -67,7 +71,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 5,
-    "score": 4437
+    "score": 4437,
+    "globalRank": 1014
   },
   {
     "login": "HangeZoe",
@@ -81,7 +86,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 6,
-    "score": 2342
+    "score": 2342,
+    "globalRank": 1311
   },
   {
     "login": "TomasVotruba",
@@ -95,7 +101,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 7,
-    "score": 7455
+    "score": 7455,
+    "globalRank": 2113
   },
   {
     "login": "a7v8x",
@@ -109,7 +116,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 8,
-    "score": 1435
+    "score": 1435,
+    "globalRank": 2545
   },
   {
     "login": "Kubenew",
@@ -123,7 +131,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 9,
-    "score": 1467
+    "score": 1467,
+    "globalRank": 3038
   },
   {
     "login": "tpetricek",
@@ -137,7 +146,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 10,
-    "score": 1447
+    "score": 1447,
+    "globalRank": 3396
   },
   {
     "login": "webknjaz",
@@ -151,7 +161,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 11,
-    "score": 3923
+    "score": 3923,
+    "globalRank": 3658
   },
   {
     "login": "petrnohejl",
@@ -165,7 +176,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 12,
-    "score": 1041
+    "score": 1041,
+    "globalRank": 3742
   },
   {
     "login": "mosra",
@@ -179,7 +191,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 13,
-    "score": 2344
+    "score": 2344,
+    "globalRank": 3997
   },
   {
     "login": "piskvorky",
@@ -193,7 +206,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 14,
-    "score": 2307
+    "score": 2307,
+    "globalRank": 4012
   },
   {
     "login": "leostera",
@@ -207,7 +221,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 15,
-    "score": 1716
+    "score": 1716,
+    "globalRank": 4399
   },
   {
     "login": "wbenny",
@@ -221,7 +236,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 16,
-    "score": 1233
+    "score": 1233,
+    "globalRank": 4731
   },
   {
     "login": "vrana",
@@ -235,7 +251,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 17,
-    "score": 1252
+    "score": 1252,
+    "globalRank": 4805
   },
   {
     "login": "ondras",
@@ -249,7 +266,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 18,
-    "score": 1336
+    "score": 1336,
+    "globalRank": 4916
   },
   {
     "login": "ondrejmirtes",
@@ -263,7 +281,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 19,
-    "score": 3582
+    "score": 3582,
+    "globalRank": 5058
   },
   {
     "login": "janko",
@@ -277,7 +296,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 20,
-    "score": 1004
+    "score": 1004,
+    "globalRank": 5075
   },
   {
     "login": "ducha-aiki",
@@ -291,7 +311,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 21,
-    "score": 2171
+    "score": 2171,
+    "globalRank": 5289
   },
   {
     "login": "hanickadot",
@@ -305,7 +326,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 22,
-    "score": 1117
+    "score": 1117,
+    "globalRank": 5399
   },
   {
     "login": "MilosKozak",
@@ -319,7 +341,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 23,
-    "score": 13977
+    "score": 13977,
+    "globalRank": 5662
   },
   {
     "login": "karmi",
@@ -333,7 +356,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 24,
-    "score": 1034
+    "score": 1034,
+    "globalRank": 5876
   },
   {
     "login": "lahmatiy",
@@ -347,7 +371,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 25,
-    "score": 1326
+    "score": 1326,
+    "globalRank": 6069
   },
   {
     "login": "midorikocak",
@@ -361,7 +386,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 26,
-    "score": 645
+    "score": 645,
+    "globalRank": 6550
   },
   {
     "login": "vavkamil",
@@ -375,7 +401,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 27,
-    "score": 2581
+    "score": 2581,
+    "globalRank": 6570
   },
   {
     "login": "martinfleis",
@@ -389,7 +416,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 28,
-    "score": 2426
+    "score": 2426,
+    "globalRank": 6628
   },
   {
     "login": "steida",
@@ -403,7 +431,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 29,
-    "score": 1928
+    "score": 1928,
+    "globalRank": 7254
   },
   {
     "login": "dqbd",
@@ -417,7 +446,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 30,
-    "score": 3500
+    "score": 3500,
+    "globalRank": 7563
   },
   {
     "login": "jirutka",
@@ -431,7 +461,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 31,
-    "score": 1221
+    "score": 1221,
+    "globalRank": 7800
   },
   {
     "login": "Lomien007",
@@ -445,7 +476,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 32,
-    "score": 552
+    "score": 552,
+    "globalRank": 7912
   },
   {
     "login": "scholzj",
@@ -459,7 +491,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 33,
-    "score": 2517
+    "score": 2517,
+    "globalRank": 7984
   },
   {
     "login": "skoruba",
@@ -473,7 +506,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 34,
-    "score": 735
+    "score": 735,
+    "globalRank": 8074
   },
   {
     "login": "tsattler",
@@ -487,7 +521,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 35,
-    "score": 527
+    "score": 527,
+    "globalRank": 8151
   },
   {
     "login": "ElaMoscicka",
@@ -501,7 +536,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 36,
-    "score": 513
+    "score": 513,
+    "globalRank": 8177
   },
   {
     "login": "B4nan",
@@ -515,7 +551,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 37,
-    "score": 3851
+    "score": 3851,
+    "globalRank": 8304
   },
   {
     "login": "adamnemecek",
@@ -529,7 +566,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 38,
-    "score": 8202
+    "score": 8202,
+    "globalRank": 8392
   },
   {
     "login": "instafluff",
@@ -543,7 +581,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 39,
-    "score": 3635
+    "score": 3635,
+    "globalRank": 8507
   },
   {
     "login": "HappyCerberus",
@@ -557,7 +596,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 40,
-    "score": 490
+    "score": 490,
+    "globalRank": 8588
   },
   {
     "login": "filiptronicek",
@@ -571,7 +611,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 41,
-    "score": 2720
+    "score": 2720,
+    "globalRank": 8780
   },
   {
     "login": "dwelle",
@@ -585,7 +626,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 42,
-    "score": 1393
+    "score": 1393,
+    "globalRank": 9146
   },
   {
     "login": "knopp",
@@ -599,7 +641,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 43,
-    "score": 948
+    "score": 948,
+    "globalRank": 9208
   },
   {
     "login": "luboslenco",
@@ -613,7 +656,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 44,
-    "score": 2044
+    "score": 2044,
+    "globalRank": 9294
   },
   {
     "login": "Hotell",
@@ -627,7 +671,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 45,
-    "score": 1359
+    "score": 1359,
+    "globalRank": 9440
   },
   {
     "login": "nijel",
@@ -641,7 +686,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 46,
-    "score": 8431
+    "score": 8431,
+    "globalRank": 9441
   },
   {
     "login": "slush0",
@@ -655,7 +701,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 47,
-    "score": 883
+    "score": 883,
+    "globalRank": 9632
   },
   {
     "login": "Youssef1313",
@@ -669,7 +716,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 48,
-    "score": 4998
+    "score": 4998,
+    "globalRank": 10287
   },
   {
     "login": "lem0nSec",
@@ -683,7 +731,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 49,
-    "score": 596
+    "score": 596,
+    "globalRank": 10636
   },
   {
     "login": "ondrejsika",
@@ -697,7 +746,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 50,
-    "score": 6171
+    "score": 6171,
+    "globalRank": 11035
   },
   {
     "login": "jankotek",
@@ -711,7 +761,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 51,
-    "score": 426
+    "score": 426,
+    "globalRank": 11135
   },
   {
     "login": "sottlmarek",
@@ -725,7 +776,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 52,
-    "score": 600
+    "score": 600,
+    "globalRank": 11163
   },
   {
     "login": "msadowski",
@@ -739,7 +791,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 53,
-    "score": 857
+    "score": 857,
+    "globalRank": 11164
   },
   {
     "login": "DanPristupov",
@@ -753,7 +806,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 54,
-    "score": 381
+    "score": 381,
+    "globalRank": 11273
   },
   {
     "login": "samvasko",
@@ -767,7 +821,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 55,
-    "score": 375
+    "score": 375,
+    "globalRank": 11429
   },
   {
     "login": "pasky",
@@ -781,7 +836,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 56,
-    "score": 1885
+    "score": 1885,
+    "globalRank": 11813
   },
   {
     "login": "xotahal",
@@ -795,7 +851,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 57,
-    "score": 1306
+    "score": 1306,
+    "globalRank": 12064
   },
   {
     "login": "petrbroz",
@@ -809,7 +866,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 58,
-    "score": 586
+    "score": 586,
+    "globalRank": 12350
   },
   {
     "login": "karelz",
@@ -823,7 +881,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 59,
-    "score": 396
+    "score": 396,
+    "globalRank": 12384
   },
   {
     "login": "TomasHubelbauer",
@@ -837,7 +896,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 60,
-    "score": 2201
+    "score": 2201,
+    "globalRank": 12423
   },
   {
     "login": "layershifter",
@@ -851,7 +911,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 61,
-    "score": 1550
+    "score": 1550,
+    "globalRank": 12777
   },
   {
     "login": "q66",
@@ -865,7 +926,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 62,
-    "score": 1868
+    "score": 1868,
+    "globalRank": 12778
   },
   {
     "login": "evelinag",
@@ -879,7 +941,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 63,
-    "score": 387
+    "score": 387,
+    "globalRank": 12890
   },
   {
     "login": "igorkulman",
@@ -893,7 +956,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 64,
-    "score": 772
+    "score": 772,
+    "globalRank": 12919
   },
   {
     "login": "PatrikH0lop",
@@ -907,7 +971,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 65,
-    "score": 329
+    "score": 329,
+    "globalRank": 13054
   },
   {
     "login": "smarek",
@@ -921,7 +986,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 66,
-    "score": 333
+    "score": 333,
+    "globalRank": 13086
   },
   {
     "login": "diareuse",
@@ -935,7 +1001,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 67,
-    "score": 2689
+    "score": 2689,
+    "globalRank": 13120
   },
   {
     "login": "hroncok",
@@ -949,7 +1016,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 68,
-    "score": 988
+    "score": 988,
+    "globalRank": 13160
   },
   {
     "login": "dvorka",
@@ -963,7 +1031,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 69,
-    "score": 2158
+    "score": 2158,
+    "globalRank": 13466
   },
   {
     "login": "vslavik",
@@ -977,7 +1046,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 70,
-    "score": 1777
+    "score": 1777,
+    "globalRank": 13467
   },
   {
     "login": "Stranger6667",
@@ -991,7 +1061,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 71,
-    "score": 4707
+    "score": 4707,
+    "globalRank": 13506
   },
   {
     "login": "nohwnd",
@@ -1005,7 +1076,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 72,
-    "score": 1928
+    "score": 1928,
+    "globalRank": 13507
   },
   {
     "login": "Visgean",
@@ -1019,7 +1091,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 73,
-    "score": 337
+    "score": 337,
+    "globalRank": 13839
   },
   {
     "login": "honzajavorek",
@@ -1033,7 +1106,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 74,
-    "score": 3901
+    "score": 3901,
+    "globalRank": 13873
   },
   {
     "login": "omonimus1",
@@ -1047,7 +1121,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 75,
-    "score": 1713
+    "score": 1713,
+    "globalRank": 13943
   },
   {
     "login": "Disassembler0",
@@ -1061,7 +1136,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 76,
-    "score": 304
+    "score": 304,
+    "globalRank": 14073
   },
   {
     "login": "alexdevero",
@@ -1075,7 +1151,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 77,
-    "score": 752
+    "score": 752,
+    "globalRank": 14119
   },
   {
     "login": "Cvolton",
@@ -1089,7 +1166,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 78,
-    "score": 2217
+    "score": 2217,
+    "globalRank": 14262
   },
   {
     "login": "MichaelGrafnetter",
@@ -1103,7 +1181,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 79,
-    "score": 858
+    "score": 858,
+    "globalRank": 14436
   },
   {
     "login": "awibox",
@@ -1117,7 +1196,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 80,
-    "score": 293
+    "score": 293,
+    "globalRank": 14585
   },
   {
     "login": "Meldiron",
@@ -1131,7 +1211,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 81,
-    "score": 5515
+    "score": 5515,
+    "globalRank": 14755
   },
   {
     "login": "Crauzer",
@@ -1145,7 +1226,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 82,
-    "score": 2917
+    "score": 2917,
+    "globalRank": 14842
   },
   {
     "login": "vorner",
@@ -1159,7 +1241,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 83,
-    "score": 1078
+    "score": 1078,
+    "globalRank": 15217
   },
   {
     "login": "Ahmad-Akel",
@@ -1173,7 +1256,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 84,
-    "score": 746
+    "score": 746,
+    "globalRank": 15425
   },
   {
     "login": "lemenkov",
@@ -1187,7 +1271,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 85,
-    "score": 863
+    "score": 863,
+    "globalRank": 15562
   },
   {
     "login": "coells",
@@ -1201,7 +1286,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 86,
-    "score": 341
+    "score": 341,
+    "globalRank": 15615
   },
   {
     "login": "gmrchk",
@@ -1215,7 +1301,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 87,
-    "score": 1865
+    "score": 1865,
+    "globalRank": 15879
   },
   {
     "login": "darthdeus",
@@ -1229,7 +1316,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 88,
-    "score": 394
+    "score": 394,
+    "globalRank": 15993
   },
   {
     "login": "jnthn",
@@ -1243,7 +1331,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 89,
-    "score": 3313
+    "score": 3313,
+    "globalRank": 16044
   },
   {
     "login": "char0n",
@@ -1257,7 +1346,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 90,
-    "score": 4469
+    "score": 4469,
+    "globalRank": 16197
   },
   {
     "login": "Mimino666",
@@ -1271,7 +1361,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 91,
-    "score": 2562
+    "score": 2562,
+    "globalRank": 16377
   },
   {
     "login": "rparak",
@@ -1285,7 +1376,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 92,
-    "score": 444
+    "score": 444,
+    "globalRank": 16633
   },
   {
     "login": "TheR1D",
@@ -1299,7 +1391,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 93,
-    "score": 329
+    "score": 329,
+    "globalRank": 16933
   },
   {
     "login": "povik",
@@ -1313,7 +1406,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 94,
-    "score": 818
+    "score": 818,
+    "globalRank": 16934
   },
   {
     "login": "vrutkovs",
@@ -1327,7 +1421,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 95,
-    "score": 1636
+    "score": 1636,
+    "globalRank": 17116
   },
   {
     "login": "jnv",
@@ -1341,7 +1436,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 96,
-    "score": 2112
+    "score": 2112,
+    "globalRank": 17218
   },
   {
     "login": "capaj",
@@ -1355,7 +1451,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 97,
-    "score": 5753
+    "score": 5753,
+    "globalRank": 17289
   },
   {
     "login": "MihaZupan",
@@ -1369,7 +1466,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 98,
-    "score": 1368
+    "score": 1368,
+    "globalRank": 17512
   },
   {
     "login": "josefpihrt",
@@ -1383,7 +1481,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 99,
-    "score": 313
+    "score": 313,
+    "globalRank": 17578
   },
   {
     "login": "VojtechVitek",
@@ -1397,7 +1496,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 100,
-    "score": 3728
+    "score": 3728,
+    "globalRank": 17749
   },
   {
     "login": "davidvavra",
@@ -1411,7 +1511,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 101,
-    "score": 579
+    "score": 579,
+    "globalRank": 17851
   },
   {
     "login": "Sanqui",
@@ -1425,7 +1526,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 102,
-    "score": 1138
+    "score": 1138,
+    "globalRank": 18121
   },
   {
     "login": "jakubtomsu",
@@ -1439,7 +1541,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 103,
-    "score": 860
+    "score": 860,
+    "globalRank": 18409
   },
   {
     "login": "filipnavara",
@@ -1453,7 +1556,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 104,
-    "score": 2504
+    "score": 2504,
+    "globalRank": 18590
   },
   {
     "login": "jpochyla",
@@ -1467,7 +1571,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 105,
-    "score": 495
+    "score": 495,
+    "globalRank": 18709
   },
   {
     "login": "s3rvac",
@@ -1481,7 +1586,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 106,
-    "score": 345
+    "score": 345,
+    "globalRank": 18786
   },
   {
     "login": "MartinKavik",
@@ -1495,7 +1601,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 107,
-    "score": 3524
+    "score": 3524,
+    "globalRank": 18920
   },
   {
     "login": "tenhobi",
@@ -1509,7 +1616,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 108,
-    "score": 420
+    "score": 420,
+    "globalRank": 18985
   },
   {
     "login": "lucasconstantino",
@@ -1523,7 +1631,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 109,
-    "score": 945
+    "score": 945,
+    "globalRank": 19177
   },
   {
     "login": "JanTvrdik",
@@ -1537,7 +1646,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 110,
-    "score": 596
+    "score": 596,
+    "globalRank": 19178
   },
   {
     "login": "Janiczek",
@@ -1551,7 +1661,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 111,
-    "score": 2899
+    "score": 2899,
+    "globalRank": 19407
   },
   {
     "login": "vojtechruz",
@@ -1565,7 +1676,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 112,
-    "score": 695
+    "score": 695,
+    "globalRank": 19693
   },
   {
     "login": "patriksimek",
@@ -1579,7 +1691,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 113,
-    "score": 1092
+    "score": 1092,
+    "globalRank": 19922
   },
   {
     "login": "tvondra",
@@ -1593,7 +1706,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 114,
-    "score": 442
+    "score": 442,
+    "globalRank": 20058
   },
   {
     "login": "cztomsik",
@@ -1607,7 +1721,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 115,
-    "score": 856
+    "score": 856,
+    "globalRank": 20059
   },
   {
     "login": "Majkl578",
@@ -1621,7 +1736,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 116,
-    "score": 196
+    "score": 196,
+    "globalRank": 20137
   },
   {
     "login": "ugurkanates",
@@ -1635,7 +1751,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 117,
-    "score": 201
+    "score": 201,
+    "globalRank": 20201
   },
   {
     "login": "abnerwillys",
@@ -1649,7 +1766,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 118,
-    "score": 919
+    "score": 919,
+    "globalRank": 20202
   },
   {
     "login": "abtris",
@@ -1663,7 +1781,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 119,
-    "score": 801
+    "score": 801,
+    "globalRank": 20273
   },
   {
     "login": "maciejtreder",
@@ -1677,7 +1796,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 120,
-    "score": 225
+    "score": 225,
+    "globalRank": 20274
   },
   {
     "login": "martincohen",
@@ -1691,7 +1811,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 121,
-    "score": 370
+    "score": 370,
+    "globalRank": 20346
   },
   {
     "login": "TomasTomecek",
@@ -1705,7 +1826,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 122,
-    "score": 987
+    "score": 987,
+    "globalRank": 20347
   },
   {
     "login": "fczbkk",
@@ -1719,7 +1841,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 123,
-    "score": 488
+    "score": 488,
+    "globalRank": 20493
   },
   {
     "login": "MartinZikmund",
@@ -1733,7 +1856,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 124,
-    "score": 7795
+    "score": 7795,
+    "globalRank": 20648
   },
   {
     "login": "escopecz",
@@ -1747,7 +1871,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 125,
-    "score": 10895
+    "score": 10895,
+    "globalRank": 20736
   },
   {
     "login": "mfojtik",
@@ -1761,7 +1886,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 126,
-    "score": 185
+    "score": 185,
+    "globalRank": 20905
   },
   {
     "login": "ridercz",
@@ -1775,7 +1901,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 127,
-    "score": 555
+    "score": 555,
+    "globalRank": 21095
   },
   {
     "login": "ybabakhin",
@@ -1789,7 +1916,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 128,
-    "score": 201
+    "score": 201,
+    "globalRank": 21185
   },
   {
     "login": "viktorbezdek",
@@ -1803,7 +1931,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 129,
-    "score": 3268
+    "score": 3268,
+    "globalRank": 21286
   },
   {
     "login": "gotthardp",
@@ -1817,7 +1946,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 130,
-    "score": 197
+    "score": 197,
+    "globalRank": 21367
   },
   {
     "login": "hrach",
@@ -1831,7 +1961,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 131,
-    "score": 1216
+    "score": 1216,
+    "globalRank": 21539
   },
   {
     "login": "jerrinot",
@@ -1845,7 +1976,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 132,
-    "score": 1027
+    "score": 1027,
+    "globalRank": 21540
   },
   {
     "login": "assuncaocharles",
@@ -1859,7 +1991,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 133,
-    "score": 289
+    "score": 289,
+    "globalRank": 21621
   },
   {
     "login": "eliot-akira",
@@ -1873,7 +2006,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 134,
-    "score": 844
+    "score": 844,
+    "globalRank": 21719
   },
   {
     "login": "Dzoukr",
@@ -1887,7 +2021,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 135,
-    "score": 686
+    "score": 686,
+    "globalRank": 21720
   },
   {
     "login": "simi",
@@ -1901,7 +2036,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 136,
-    "score": 1091
+    "score": 1091,
+    "globalRank": 21820
   },
   {
     "login": "salutesh",
@@ -1915,7 +2051,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 137,
-    "score": 192
+    "score": 192,
+    "globalRank": 22032
   },
   {
     "login": "alexandrevicenzi",
@@ -1929,7 +2066,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 138,
-    "score": 961
+    "score": 961,
+    "globalRank": 22147
   },
   {
     "login": "vancura",
@@ -1943,7 +2081,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 139,
-    "score": 3943
+    "score": 3943,
+    "globalRank": 22267
   },
   {
     "login": "hason",
@@ -1957,7 +2096,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 140,
-    "score": 251
+    "score": 251,
+    "globalRank": 22268
   },
   {
     "login": "JakubOnderka",
@@ -1971,7 +2111,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 141,
-    "score": 240
+    "score": 240,
+    "globalRank": 22499
   },
   {
     "login": "xiaoxiae",
@@ -1985,7 +2126,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 142,
-    "score": 5403
+    "score": 5403,
+    "globalRank": 22500
   },
   {
     "login": "mposolda",
@@ -1999,7 +2141,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 143,
-    "score": 1413
+    "score": 1413,
+    "globalRank": 22609
   },
   {
     "login": "georgik",
@@ -2013,7 +2156,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 144,
-    "score": 1059
+    "score": 1059,
+    "globalRank": 22610
   },
   {
     "login": "marek-safar",
@@ -2027,7 +2171,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 145,
-    "score": 177
+    "score": 177,
+    "globalRank": 22732
   },
   {
     "login": "xmikos",
@@ -2041,7 +2186,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 146,
-    "score": 164
+    "score": 164,
+    "globalRank": 22964
   },
   {
     "login": "tomato42",
@@ -2055,7 +2201,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 147,
-    "score": 372
+    "score": 372,
+    "globalRank": 23327
   },
   {
     "login": "strzibny",
@@ -2069,7 +2216,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 148,
-    "score": 1662
+    "score": 1662,
+    "globalRank": 23328
   },
   {
     "login": "kovarex",
@@ -2083,7 +2231,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 149,
-    "score": 2372
+    "score": 2372,
+    "globalRank": 23329
   },
   {
     "login": "fidencio",
@@ -2097,7 +2246,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 150,
-    "score": 2219
+    "score": 2219,
+    "globalRank": 23444
   },
   {
     "login": "Vrtak-CZ",
@@ -2111,7 +2261,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 151,
-    "score": 929
+    "score": 929,
+    "globalRank": 23691
   },
   {
     "login": "DavidDurman",
@@ -2125,7 +2276,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 152,
-    "score": 219
+    "score": 219,
+    "globalRank": 24228
   },
   {
     "login": "zakjan",
@@ -2139,7 +2291,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 153,
-    "score": 518
+    "score": 518,
+    "globalRank": 24229
   },
   {
     "login": "jpechane",
@@ -2153,7 +2306,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 154,
-    "score": 2404
+    "score": 2404,
+    "globalRank": 24775
   },
   {
     "login": "havlenapetr",
@@ -2167,7 +2321,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 155,
-    "score": 149
+    "score": 149,
+    "globalRank": 24921
   },
   {
     "login": "dmajda",
@@ -2181,7 +2336,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 156,
-    "score": 316
+    "score": 316,
+    "globalRank": 24922
   },
   {
     "login": "easyCZ",
@@ -2195,7 +2351,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 157,
-    "score": 3844
+    "score": 3844,
+    "globalRank": 25055
   },
   {
     "login": "lkundrak",
@@ -2209,7 +2366,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 158,
-    "score": 172
+    "score": 172,
+    "globalRank": 25183
   },
   {
     "login": "uzuran",
@@ -2223,7 +2381,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 159,
-    "score": 493
+    "score": 493,
+    "globalRank": 25314
   },
   {
     "login": "yasanglass",
@@ -2237,7 +2396,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 160,
-    "score": 6327
+    "score": 6327,
+    "globalRank": 25315
   },
   {
     "login": "klaxalk",
@@ -2251,7 +2411,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 161,
-    "score": 938
+    "score": 938,
+    "globalRank": 25451
   },
   {
     "login": "liveans",
@@ -2265,7 +2426,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 162,
-    "score": 304
+    "score": 304,
+    "globalRank": 25452
   },
   {
     "login": "IvanKaloyanov",
@@ -2279,7 +2441,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 163,
-    "score": 144
+    "score": 144,
+    "globalRank": 25601
   },
   {
     "login": "korczis",
@@ -2293,7 +2456,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 164,
-    "score": 4479
+    "score": 4479,
+    "globalRank": 25602
   },
   {
     "login": "buddylindsey",
@@ -2307,7 +2471,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 165,
-    "score": 1388
+    "score": 1388,
+    "globalRank": 25603
   },
   {
     "login": "jukben",
@@ -2321,7 +2486,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 166,
-    "score": 1546
+    "score": 1546,
+    "globalRank": 25604
   },
   {
     "login": "janvorli",
@@ -2335,7 +2501,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 167,
-    "score": 737
+    "score": 737,
+    "globalRank": 25749
   },
   {
     "login": "oleksandrbalan",
@@ -2349,7 +2516,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 168,
-    "score": 157
+    "score": 157,
+    "globalRank": 25750
   },
   {
     "login": "jsafrane",
@@ -2363,7 +2531,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 169,
-    "score": 796
+    "score": 796,
+    "globalRank": 25751
   },
   {
     "login": "VojtaStavik",
@@ -2377,7 +2546,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 170,
-    "score": 145
+    "score": 145,
+    "globalRank": 25752
   },
   {
     "login": "LeZuse",
@@ -2391,7 +2561,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 171,
-    "score": 511
+    "score": 511,
+    "globalRank": 25904
   },
   {
     "login": "chemix",
@@ -2405,7 +2576,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 172,
-    "score": 207
+    "score": 207,
+    "globalRank": 25905
   },
   {
     "login": "jonathas",
@@ -2419,7 +2591,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 173,
-    "score": 374
+    "score": 374,
+    "globalRank": 26056
   },
   {
     "login": "petrbrzek",
@@ -2433,7 +2606,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 174,
-    "score": 328
+    "score": 328,
+    "globalRank": 26057
   },
   {
     "login": "josefadamcik",
@@ -2447,7 +2621,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 175,
-    "score": 320
+    "score": 320,
+    "globalRank": 26058
   },
   {
     "login": "vzarytovskii",
@@ -2461,7 +2636,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 176,
-    "score": 467
+    "score": 467,
+    "globalRank": 26059
   },
   {
     "login": "tompazourek",
@@ -2475,7 +2651,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 177,
-    "score": 171
+    "score": 171,
+    "globalRank": 26202
   },
   {
     "login": "lukas-vlcek",
@@ -2489,7 +2666,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 178,
-    "score": 265
+    "score": 265,
+    "globalRank": 26674
   },
   {
     "login": "usharik",
@@ -2503,7 +2681,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 179,
-    "score": 1016
+    "score": 1016,
+    "globalRank": 26839
   },
   {
     "login": "srigi",
@@ -2517,7 +2696,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 180,
-    "score": 334
+    "score": 334,
+    "globalRank": 26994
   },
   {
     "login": "mity",
@@ -2531,7 +2711,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 181,
-    "score": 210
+    "score": 210,
+    "globalRank": 26995
   },
   {
     "login": "Artaud",
@@ -2545,7 +2726,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 182,
-    "score": 893
+    "score": 893,
+    "globalRank": 27172
   },
   {
     "login": "mrtnzlml",
@@ -2559,7 +2741,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 183,
-    "score": 939
+    "score": 939,
+    "globalRank": 27340
   },
   {
     "login": "karelbilek",
@@ -2573,7 +2756,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 184,
-    "score": 209
+    "score": 209,
+    "globalRank": 27509
   },
   {
     "login": "xquery",
@@ -2587,7 +2771,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 185,
-    "score": 168
+    "score": 168,
+    "globalRank": 27647
   },
   {
     "login": "messa",
@@ -2601,7 +2786,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 186,
-    "score": 1624
+    "score": 1624,
+    "globalRank": 27648
   },
   {
     "login": "rtunazzz",
@@ -2615,7 +2801,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 187,
-    "score": 5098
+    "score": 5098,
+    "globalRank": 27813
   },
   {
     "login": "mmahut",
@@ -2629,7 +2816,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 188,
-    "score": 1783
+    "score": 1783,
+    "globalRank": 27814
   },
   {
     "login": "Metalnem",
@@ -2643,7 +2831,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 189,
-    "score": 207
+    "score": 207,
+    "globalRank": 27815
   },
   {
     "login": "maly",
@@ -2657,7 +2846,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 190,
-    "score": 556
+    "score": 556,
+    "globalRank": 27978
   },
   {
     "login": "Janamou",
@@ -2671,7 +2861,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 191,
-    "score": 129
+    "score": 129,
+    "globalRank": 27979
   },
   {
     "login": "lzap",
@@ -2685,7 +2876,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 192,
-    "score": 1985
+    "score": 1985,
+    "globalRank": 27980
   },
   {
     "login": "jzitnik-dev",
@@ -2699,7 +2891,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 193,
-    "score": 499
+    "score": 499,
+    "globalRank": 27981
   },
   {
     "login": "igor-raits",
@@ -2713,7 +2906,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 194,
-    "score": 5162
+    "score": 5162,
+    "globalRank": 28138
   },
   {
     "login": "RomanPodymov",
@@ -2727,7 +2921,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 195,
-    "score": 286
+    "score": 286,
+    "globalRank": 28139
   },
   {
     "login": "ytsarev",
@@ -2741,7 +2936,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 196,
-    "score": 2254
+    "score": 2254,
+    "globalRank": 28140
   },
   {
     "login": "S1ro1",
@@ -2755,7 +2951,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 197,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 28505
   },
   {
     "login": "ashleney",
@@ -2769,7 +2966,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 198,
-    "score": 765
+    "score": 765,
+    "globalRank": 28506
   },
   {
     "login": "datastory",
@@ -2783,7 +2981,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 199,
-    "score": 128
+    "score": 128,
+    "globalRank": 28507
   },
   {
     "login": "pavelsavara",
@@ -2797,7 +2996,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 200,
-    "score": 1726
+    "score": 1726,
+    "globalRank": 28508
   },
   {
     "login": "david-strejc",
@@ -2811,7 +3011,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 201,
-    "score": 458
+    "score": 458,
+    "globalRank": 28509
   },
   {
     "login": "markokhman",
@@ -2825,7 +3026,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 202,
-    "score": 1291
+    "score": 1291,
+    "globalRank": 28510
   },
   {
     "login": "valehasadli",
@@ -2839,7 +3041,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 203,
-    "score": 3336
+    "score": 3336,
+    "globalRank": 28701
   },
   {
     "login": "hclivess",
@@ -2853,7 +3056,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 204,
-    "score": 1031
+    "score": 1031,
+    "globalRank": 28702
   },
   {
     "login": "t184256",
@@ -2867,7 +3071,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 205,
-    "score": 748
+    "score": 748,
+    "globalRank": 28703
   },
   {
     "login": "martinprikryl",
@@ -2881,7 +3086,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 206,
-    "score": 592
+    "score": 592,
+    "globalRank": 28704
   },
   {
     "login": "verovaleros",
@@ -2895,7 +3101,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 207,
-    "score": 4106
+    "score": 4106,
+    "globalRank": 28705
   },
   {
     "login": "vojirt",
@@ -2909,7 +3116,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 208,
-    "score": 138
+    "score": 138,
+    "globalRank": 29081
   },
   {
     "login": "petrnalevka",
@@ -2923,7 +3131,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 209,
-    "score": 141
+    "score": 141,
+    "globalRank": 29082
   },
   {
     "login": "vojtech-dobes",
@@ -2937,7 +3146,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 210,
-    "score": 1315
+    "score": 1315,
+    "globalRank": 29451
   },
   {
     "login": "edtsech",
@@ -2951,7 +3161,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 211,
-    "score": 136
+    "score": 136,
+    "globalRank": 29452
   },
   {
     "login": "MartinDrab",
@@ -2965,7 +3176,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 212,
-    "score": 124
+    "score": 124,
+    "globalRank": 29647
   },
   {
     "login": "kine",
@@ -2979,7 +3191,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 213,
-    "score": 245
+    "score": 245,
+    "globalRank": 29648
   },
   {
     "login": "Strajk",
@@ -2993,7 +3206,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 214,
-    "score": 4267
+    "score": 4267,
+    "globalRank": 29649
   },
   {
     "login": "sairon",
@@ -3007,7 +3221,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 215,
-    "score": 1956
+    "score": 1956,
+    "globalRank": 29650
   },
   {
     "login": "bluebits-academy",
@@ -3021,7 +3236,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 216,
-    "score": 119
+    "score": 119,
+    "globalRank": 29847
   },
   {
     "login": "jkulhanek",
@@ -3035,7 +3251,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 217,
-    "score": 240
+    "score": 240,
+    "globalRank": 29848
   },
   {
     "login": "Evalle",
@@ -3049,7 +3266,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 218,
-    "score": 199
+    "score": 199,
+    "globalRank": 29849
   },
   {
     "login": "enumag",
@@ -3063,7 +3281,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 219,
-    "score": 166
+    "score": 166,
+    "globalRank": 30037
   },
   {
     "login": "MightyPork",
@@ -3077,7 +3296,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 220,
-    "score": 144
+    "score": 144,
+    "globalRank": 30038
   },
   {
     "login": "kumekay",
@@ -3091,7 +3311,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 221,
-    "score": 857
+    "score": 857,
+    "globalRank": 30247
   },
   {
     "login": "janmarek",
@@ -3105,7 +3326,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 222,
-    "score": 153
+    "score": 153,
+    "globalRank": 30248
   },
   {
     "login": "fakturk",
@@ -3119,7 +3341,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 223,
-    "score": 246
+    "score": 246,
+    "globalRank": 30249
   },
   {
     "login": "marxin",
@@ -3133,7 +3356,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 224,
-    "score": 2055
+    "score": 2055,
+    "globalRank": 30250
   },
   {
     "login": "Jacob-Mango",
@@ -3147,7 +3371,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 225,
-    "score": 357
+    "score": 357,
+    "globalRank": 30452
   },
   {
     "login": "hakenr",
@@ -3161,7 +3386,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 226,
-    "score": 2326
+    "score": 2326,
+    "globalRank": 30685
   },
   {
     "login": "jiripolasek",
@@ -3175,7 +3401,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 227,
-    "score": 1527
+    "score": 1527,
+    "globalRank": 30686
   },
   {
     "login": "Helas1999",
@@ -3189,7 +3416,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 228,
-    "score": 115
+    "score": 115,
+    "globalRank": 30687
   },
   {
     "login": "michtesar",
@@ -3203,7 +3431,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 229,
-    "score": 221
+    "score": 221,
+    "globalRank": 30910
   },
   {
     "login": "dundee",
@@ -3217,7 +3446,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 230,
-    "score": 1687
+    "score": 1687,
+    "globalRank": 31127
   },
   {
     "login": "petrkeil",
@@ -3231,7 +3461,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 231,
-    "score": 151
+    "score": 151,
+    "globalRank": 31128
   },
   {
     "login": "elendirx",
@@ -3245,7 +3476,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 232,
-    "score": 112
+    "score": 112,
+    "globalRank": 31339
   },
   {
     "login": "AndrejJurkin",
@@ -3259,7 +3491,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 233,
-    "score": 792
+    "score": 792,
+    "globalRank": 31340
   },
   {
     "login": "darosh",
@@ -3273,7 +3506,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 234,
-    "score": 3114
+    "score": 3114,
+    "globalRank": 31341
   },
   {
     "login": "matejcik",
@@ -3287,7 +3521,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 235,
-    "score": 398
+    "score": 398,
+    "globalRank": 31342
   },
   {
     "login": "heracek",
@@ -3301,7 +3536,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 236,
-    "score": 663
+    "score": 663,
+    "globalRank": 31584
   },
   {
     "login": "Bregor",
@@ -3315,7 +3551,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 237,
-    "score": 460
+    "score": 460,
+    "globalRank": 31835
   },
   {
     "login": "mkol5222",
@@ -3329,7 +3566,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 238,
-    "score": 882
+    "score": 882,
+    "globalRank": 31836
   },
   {
     "login": "gollux",
@@ -3343,7 +3581,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 239,
-    "score": 541
+    "score": 541,
+    "globalRank": 32518
   },
   {
     "login": "gulcin",
@@ -3357,7 +3596,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 240,
-    "score": 143
+    "score": 143,
+    "globalRank": 32519
   },
   {
     "login": "lapism",
@@ -3371,7 +3611,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 241,
-    "score": 106
+    "score": 106,
+    "globalRank": 32763
   },
   {
     "login": "miniak",
@@ -3385,7 +3626,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 242,
-    "score": 108
+    "score": 108,
+    "globalRank": 32764
   },
   {
     "login": "kokes",
@@ -3399,7 +3641,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 243,
-    "score": 226
+    "score": 226,
+    "globalRank": 32991
   },
   {
     "login": "ynezz",
@@ -3413,7 +3656,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 244,
-    "score": 341
+    "score": 341,
+    "globalRank": 32992
   },
   {
     "login": "mimoccc",
@@ -3427,7 +3671,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 245,
-    "score": 929
+    "score": 929,
+    "globalRank": 32993
   },
   {
     "login": "met",
@@ -3441,7 +3686,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 246,
-    "score": 125
+    "score": 125,
+    "globalRank": 32994
   },
   {
     "login": "jjonescz",
@@ -3455,7 +3701,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 247,
-    "score": 4768
+    "score": 4768,
+    "globalRank": 32995
   },
   {
     "login": "silverbucket",
@@ -3469,7 +3716,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 248,
-    "score": 1809
+    "score": 1809,
+    "globalRank": 32996
   },
   {
     "login": "alexeykuzmin",
@@ -3483,7 +3731,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 249,
-    "score": 3174
+    "score": 3174,
+    "globalRank": 33217
   },
   {
     "login": "Chleba",
@@ -3497,7 +3746,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 250,
-    "score": 705
+    "score": 705,
+    "globalRank": 33218
   },
   {
     "login": "SoptikHa2",
@@ -3511,7 +3761,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 251,
-    "score": 1219
+    "score": 1219,
+    "globalRank": 33219
   },
   {
     "login": "Ketcap",
@@ -3525,7 +3776,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 252,
-    "score": 1184
+    "score": 1184,
+    "globalRank": 33220
   },
   {
     "login": "rdk",
@@ -3539,7 +3791,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 253,
-    "score": 413
+    "score": 413,
+    "globalRank": 33221
   },
   {
     "login": "piit79",
@@ -3553,7 +3806,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 254,
-    "score": 131
+    "score": 131,
+    "globalRank": 33222
   },
   {
     "login": "geordi",
@@ -3567,7 +3821,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 255,
-    "score": 455
+    "score": 455,
+    "globalRank": 33223
   },
   {
     "login": "good-lly",
@@ -3581,7 +3836,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 256,
-    "score": 674
+    "score": 674,
+    "globalRank": 33224
   },
   {
     "login": "MartinKolarik",
@@ -3595,7 +3851,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 257,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 33476
   },
   {
     "login": "antonfirsov",
@@ -3609,7 +3866,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 258,
-    "score": 294
+    "score": 294,
+    "globalRank": 33775
   },
   {
     "login": "KarelVesely84",
@@ -3623,7 +3881,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 259,
-    "score": 134
+    "score": 134,
+    "globalRank": 33776
   },
   {
     "login": "alenkacz",
@@ -3637,7 +3896,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 260,
-    "score": 2128
+    "score": 2128,
+    "globalRank": 34047
   },
   {
     "login": "mroczis",
@@ -3651,7 +3911,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 261,
-    "score": 106
+    "score": 106,
+    "globalRank": 34048
   },
   {
     "login": "Ash258",
@@ -3665,7 +3926,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 262,
-    "score": 417
+    "score": 417,
+    "globalRank": 34049
   },
   {
     "login": "machal",
@@ -3679,7 +3941,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 263,
-    "score": 312
+    "score": 312,
+    "globalRank": 34050
   },
   {
     "login": "petrroll",
@@ -3693,7 +3956,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 264,
-    "score": 956
+    "score": 956,
+    "globalRank": 34272
   },
   {
     "login": "dero",
@@ -3707,7 +3971,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 265,
-    "score": 326
+    "score": 326,
+    "globalRank": 34273
   },
   {
     "login": "gestom",
@@ -3721,7 +3986,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 266,
-    "score": 104
+    "score": 104,
+    "globalRank": 34486
   },
   {
     "login": "matej21",
@@ -3735,7 +4001,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 267,
-    "score": 8239
+    "score": 8239,
+    "globalRank": 34715
   },
   {
     "login": "xstefank",
@@ -3749,7 +4016,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 268,
-    "score": 1160
+    "score": 1160,
+    "globalRank": 34716
   },
   {
     "login": "SogoCZE",
@@ -3763,7 +4031,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 269,
-    "score": 1528
+    "score": 1528,
+    "globalRank": 34717
   },
   {
     "login": "jprochazk",
@@ -3777,7 +4046,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 270,
-    "score": 1584
+    "score": 1584,
+    "globalRank": 34718
   },
   {
     "login": "Myralllka",
@@ -3791,7 +4061,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 271,
-    "score": 838
+    "score": 838,
+    "globalRank": 34984
   },
   {
     "login": "dan-zeman",
@@ -3805,7 +4076,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 272,
-    "score": 4652
+    "score": 4652,
+    "globalRank": 34985
   },
   {
     "login": "musketyr",
@@ -3819,7 +4091,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 273,
-    "score": 5068
+    "score": 5068,
+    "globalRank": 34986
   },
   {
     "login": "mkasaii16",
@@ -3833,7 +4106,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 274,
-    "score": 344
+    "score": 344,
+    "globalRank": 35233
   },
   {
     "login": "david-sabata",
@@ -3847,7 +4121,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 275,
-    "score": 1954
+    "score": 1954,
+    "globalRank": 35234
   },
   {
     "login": "metopa",
@@ -3861,7 +4136,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 276,
-    "score": 136
+    "score": 136,
+    "globalRank": 35235
   },
   {
     "login": "michalbcz",
@@ -3875,7 +4151,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 277,
-    "score": 131
+    "score": 131,
+    "globalRank": 35479
   },
   {
     "login": "Jasstkn",
@@ -3889,7 +4166,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 278,
-    "score": 327
+    "score": 327,
+    "globalRank": 35480
   },
   {
     "login": "mkj-is",
@@ -3903,7 +4181,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 279,
-    "score": 816
+    "score": 816,
+    "globalRank": 35732
   },
   {
     "login": "tsusanka",
@@ -3917,7 +4196,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 280,
-    "score": 196
+    "score": 196,
+    "globalRank": 35733
   },
   {
     "login": "tringakrasniqi",
@@ -3931,7 +4211,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 281,
-    "score": 93
+    "score": 93,
+    "globalRank": 35988
   },
   {
     "login": "svick",
@@ -3945,7 +4226,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 282,
-    "score": 210
+    "score": 210,
+    "globalRank": 35989
   },
   {
     "login": "littleli",
@@ -3959,7 +4241,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 283,
-    "score": 125
+    "score": 125,
+    "globalRank": 35990
   },
   {
     "login": "Baggz",
@@ -3973,7 +4256,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 284,
-    "score": 4172
+    "score": 4172,
+    "globalRank": 35991
   },
   {
     "login": "orpiske",
@@ -3987,7 +4271,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 285,
-    "score": 4088
+    "score": 4088,
+    "globalRank": 35992
   },
   {
     "login": "odditica",
@@ -4001,7 +4286,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 286,
-    "score": 92
+    "score": 92,
+    "globalRank": 36260
   },
   {
     "login": "krivdat",
@@ -4015,7 +4301,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 287,
-    "score": 373
+    "score": 373,
+    "globalRank": 36261
   },
   {
     "login": "vmasek",
@@ -4029,7 +4316,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 288,
-    "score": 977
+    "score": 977,
+    "globalRank": 36262
   },
   {
     "login": "ViliamKopecky",
@@ -4043,7 +4331,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 289,
-    "score": 5935
+    "score": 5935,
+    "globalRank": 36263
   },
   {
     "login": "DrrDom",
@@ -4057,7 +4346,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 290,
-    "score": 475
+    "score": 475,
+    "globalRank": 36264
   },
   {
     "login": "hellcp",
@@ -4071,7 +4361,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 291,
-    "score": 514
+    "score": 514,
+    "globalRank": 36265
   },
   {
     "login": "petrbela",
@@ -4085,7 +4376,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 292,
-    "score": 608
+    "score": 608,
+    "globalRank": 36539
   },
   {
     "login": "juzna",
@@ -4099,7 +4391,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 293,
-    "score": 133
+    "score": 133,
+    "globalRank": 36540
   },
   {
     "login": "akhundMurad",
@@ -4113,7 +4406,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 294,
-    "score": 423
+    "score": 423,
+    "globalRank": 36541
   },
   {
     "login": "borekb",
@@ -4127,7 +4421,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 295,
-    "score": 1425
+    "score": 1425,
+    "globalRank": 36542
   },
   {
     "login": "MichalStehlik",
@@ -4141,7 +4436,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 296,
-    "score": 692
+    "score": 692,
+    "globalRank": 36543
   },
   {
     "login": "damikun",
@@ -4155,7 +4451,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 297,
-    "score": 2026
+    "score": 2026,
+    "globalRank": 36544
   },
   {
     "login": "mxdpeep",
@@ -4169,7 +4466,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 298,
-    "score": 2477
+    "score": 2477,
+    "globalRank": 36797
   },
   {
     "login": "hejny",
@@ -4183,7 +4481,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 299,
-    "score": 16147
+    "score": 16147,
+    "globalRank": 36798
   },
   {
     "login": "jiripudil",
@@ -4197,7 +4496,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 300,
-    "score": 570
+    "score": 570,
+    "globalRank": 36799
   },
   {
     "login": "billpsomas",
@@ -4211,7 +4511,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 301,
-    "score": 210
+    "score": 210,
+    "globalRank": 37069
   },
   {
     "login": "Darginec05",
@@ -4225,7 +4526,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 302,
-    "score": 548
+    "score": 548,
+    "globalRank": 37070
   },
   {
     "login": "turboMaCk",
@@ -4239,7 +4541,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 303,
-    "score": 1873
+    "score": 1873,
+    "globalRank": 37071
   },
   {
     "login": "petrsvihlik",
@@ -4253,7 +4556,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 304,
-    "score": 649
+    "score": 649,
+    "globalRank": 37072
   },
   {
     "login": "rlnav",
@@ -4267,7 +4571,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 305,
-    "score": 229
+    "score": 229,
+    "globalRank": 37073
   },
   {
     "login": "paveljurca",
@@ -4281,7 +4586,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 306,
-    "score": 91
+    "score": 91,
+    "globalRank": 37074
   },
   {
     "login": "vdusek",
@@ -4295,7 +4601,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 307,
-    "score": 2763
+    "score": 2763,
+    "globalRank": 37375
   },
   {
     "login": "divi255",
@@ -4309,7 +4616,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 308,
-    "score": 1195
+    "score": 1195,
+    "globalRank": 37376
   },
   {
     "login": "Bystroushaak",
@@ -4323,7 +4631,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 309,
-    "score": 368
+    "score": 368,
+    "globalRank": 37377
   },
   {
     "login": "VerosK",
@@ -4337,7 +4646,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 310,
-    "score": 102
+    "score": 102,
+    "globalRank": 37676
   },
   {
     "login": "ciribob",
@@ -4351,7 +4661,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 311,
-    "score": 257
+    "score": 257,
+    "globalRank": 37677
   },
   {
     "login": "leshakoss",
@@ -4365,7 +4676,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 312,
-    "score": 121
+    "score": 121,
+    "globalRank": 37678
   },
   {
     "login": "oplatek",
@@ -4379,7 +4691,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 313,
-    "score": 2180
+    "score": 2180,
+    "globalRank": 37679
   },
   {
     "login": "dougwithseismic",
@@ -4393,7 +4706,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 314,
-    "score": 3273
+    "score": 3273,
+    "globalRank": 37680
   },
   {
     "login": "MichalBusta",
@@ -4407,7 +4721,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 315,
-    "score": 329
+    "score": 329,
+    "globalRank": 37681
   },
   {
     "login": "OndrejNepozitek",
@@ -4421,7 +4736,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 316,
-    "score": 174
+    "score": 174,
+    "globalRank": 37682
   },
   {
     "login": "AuHau",
@@ -4435,7 +4751,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 317,
-    "score": 222
+    "score": 222,
+    "globalRank": 37683
   },
   {
     "login": "LeftTwixWand",
@@ -4449,7 +4766,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 318,
-    "score": 2943
+    "score": 2943,
+    "globalRank": 37973
   },
   {
     "login": "debarshiray",
@@ -4463,7 +4781,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 319,
-    "score": 403
+    "score": 403,
+    "globalRank": 37974
   },
   {
     "login": "danvratil",
@@ -4477,7 +4796,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 320,
-    "score": 724
+    "score": 724,
+    "globalRank": 38269
   },
   {
     "login": "katkad",
@@ -4491,7 +4811,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 321,
-    "score": 85
+    "score": 85,
+    "globalRank": 38270
   },
   {
     "login": "moisesguimaraes",
@@ -4505,7 +4826,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 322,
-    "score": 90
+    "score": 90,
+    "globalRank": 38271
   },
   {
     "login": "MrMebelMan",
@@ -4519,7 +4841,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 323,
-    "score": 1380
+    "score": 1380,
+    "globalRank": 38272
   },
   {
     "login": "bartholomej",
@@ -4533,7 +4856,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 324,
-    "score": 4537
+    "score": 4537,
+    "globalRank": 38562
   },
   {
     "login": "jankuca",
@@ -4547,7 +4871,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 325,
-    "score": 3314
+    "score": 3314,
+    "globalRank": 38563
   },
   {
     "login": "janbarasek",
@@ -4561,7 +4886,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 326,
-    "score": 5106
+    "score": 5106,
+    "globalRank": 38564
   },
   {
     "login": "atx",
@@ -4575,7 +4901,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 327,
-    "score": 1438
+    "score": 1438,
+    "globalRank": 38565
   },
   {
     "login": "ardov",
@@ -4589,7 +4916,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 328,
-    "score": 342
+    "score": 342,
+    "globalRank": 38566
   },
   {
     "login": "mpreisler",
@@ -4603,7 +4931,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 329,
-    "score": 83
+    "score": 83,
+    "globalRank": 38893
   },
   {
     "login": "vpavlin",
@@ -4617,7 +4946,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 330,
-    "score": 725
+    "score": 725,
+    "globalRank": 38894
   },
   {
     "login": "Aprillion",
@@ -4631,7 +4961,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 331,
-    "score": 424
+    "score": 424,
+    "globalRank": 38895
   },
   {
     "login": "simecek",
@@ -4645,7 +4976,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 332,
-    "score": 372
+    "score": 372,
+    "globalRank": 38896
   },
   {
     "login": "OndraM",
@@ -4659,7 +4991,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 333,
-    "score": 664
+    "score": 664,
+    "globalRank": 38897
   },
   {
     "login": "jankaifer",
@@ -4673,7 +5006,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 334,
-    "score": 103
+    "score": 103,
+    "globalRank": 39221
   },
   {
     "login": "tomas-langer",
@@ -4687,7 +5021,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 335,
-    "score": 1302
+    "score": 1302,
+    "globalRank": 39222
   },
   {
     "login": "K0F",
@@ -4701,7 +5036,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 336,
-    "score": 465
+    "score": 465,
+    "globalRank": 39223
   },
   {
     "login": "iki",
@@ -4715,7 +5051,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 337,
-    "score": 1097
+    "score": 1097,
+    "globalRank": 39224
   },
   {
     "login": "tomasherceg",
@@ -4729,7 +5066,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 338,
-    "score": 358
+    "score": 358,
+    "globalRank": 39225
   },
   {
     "login": "martykan",
@@ -4743,7 +5081,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 339,
-    "score": 1907
+    "score": 1907,
+    "globalRank": 39226
   },
   {
     "login": "Kostahe",
@@ -4757,7 +5096,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 340,
-    "score": 273
+    "score": 273,
+    "globalRank": 39227
   },
   {
     "login": "triceo",
@@ -4771,7 +5111,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 341,
-    "score": 1145
+    "score": 1145,
+    "globalRank": 39228
   },
   {
     "login": "iNecas",
@@ -4785,7 +5126,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 342,
-    "score": 729
+    "score": 729,
+    "globalRank": 39229
   },
   {
     "login": "dsehnal",
@@ -4799,7 +5141,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 343,
-    "score": 1016
+    "score": 1016,
+    "globalRank": 39555
   },
   {
     "login": "mkolar",
@@ -4813,7 +5156,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 344,
-    "score": 175
+    "score": 175,
+    "globalRank": 39556
   },
   {
     "login": "andreyka26-git",
@@ -4827,7 +5171,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 345,
-    "score": 380
+    "score": 380,
+    "globalRank": 39557
   },
   {
     "login": "gabrielgilini",
@@ -4841,7 +5186,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 346,
-    "score": 101
+    "score": 101,
+    "globalRank": 39558
   },
   {
     "login": "Tomiinek",
@@ -4855,7 +5201,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 347,
-    "score": 268
+    "score": 268,
+    "globalRank": 39559
   },
   {
     "login": "vojta-horanek",
@@ -4869,7 +5216,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 348,
-    "score": 1498
+    "score": 1498,
+    "globalRank": 39881
   },
   {
     "login": "wentasah",
@@ -4883,7 +5231,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 349,
-    "score": 1231
+    "score": 1231,
+    "globalRank": 39882
   },
   {
     "login": "kdudka",
@@ -4897,7 +5246,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 350,
-    "score": 1369
+    "score": 1369,
+    "globalRank": 39883
   },
   {
     "login": "BurnyCoder",
@@ -4911,7 +5261,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 351,
-    "score": 2196
+    "score": 2196,
+    "globalRank": 39884
   },
   {
     "login": "janproch",
@@ -4925,7 +5276,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 352,
-    "score": 772
+    "score": 772,
+    "globalRank": 40204
   },
   {
     "login": "tomassedovic",
@@ -4939,7 +5291,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 353,
-    "score": 677
+    "score": 677,
+    "globalRank": 40205
   },
   {
     "login": "Evangelink",
@@ -4953,7 +5306,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 354,
-    "score": 3265
+    "score": 3265,
+    "globalRank": 40206
   },
   {
     "login": "vasspilka",
@@ -4967,7 +5321,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 355,
-    "score": 3913
+    "score": 3913,
+    "globalRank": 40207
   },
   {
     "login": "koss-lebedev",
@@ -4981,7 +5336,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 356,
-    "score": 192
+    "score": 192,
+    "globalRank": 40208
   },
   {
     "login": "MartinStyk",
@@ -4995,7 +5351,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 357,
-    "score": 81
+    "score": 81,
+    "globalRank": 40209
   },
   {
     "login": "halafi",
@@ -5009,7 +5366,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 358,
-    "score": 1640
+    "score": 1640,
+    "globalRank": 40210
   },
   {
     "login": "katemihalikova",
@@ -5023,7 +5381,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 359,
-    "score": 439
+    "score": 439,
+    "globalRank": 40211
   },
   {
     "login": "OndrejPetrzilka",
@@ -5037,7 +5396,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 360,
-    "score": 91
+    "score": 91,
+    "globalRank": 40212
   },
   {
     "login": "mbelsky",
@@ -5051,7 +5411,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 361,
-    "score": 614
+    "score": 614,
+    "globalRank": 40516
   },
   {
     "login": "curusarn",
@@ -5065,7 +5426,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 362,
-    "score": 488
+    "score": 488,
+    "globalRank": 40517
   },
   {
     "login": "hosu-kim",
@@ -5079,7 +5441,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 363,
-    "score": 486
+    "score": 486,
+    "globalRank": 40518
   },
   {
     "login": "kubatruhlar",
@@ -5093,7 +5456,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 364,
-    "score": 82
+    "score": 82,
+    "globalRank": 40519
   },
   {
     "login": "vladimirvolek",
@@ -5107,7 +5471,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 365,
-    "score": 2234
+    "score": 2234,
+    "globalRank": 40520
   },
   {
     "login": "jumarko",
@@ -5121,7 +5486,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 366,
-    "score": 5103
+    "score": 5103,
+    "globalRank": 40806
   },
   {
     "login": "jakubcerveny",
@@ -5135,7 +5501,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 367,
-    "score": 783
+    "score": 783,
+    "globalRank": 40807
   },
   {
     "login": "BeanGreen247",
@@ -5149,7 +5516,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 368,
-    "score": 355
+    "score": 355,
+    "globalRank": 41098
   },
   {
     "login": "petrbouchal",
@@ -5163,7 +5531,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 369,
-    "score": 303
+    "score": 303,
+    "globalRank": 41099
   },
   {
     "login": "mainiak",
@@ -5177,7 +5546,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 370,
-    "score": 374
+    "score": 374,
+    "globalRank": 41100
   },
   {
     "login": "hechth",
@@ -5191,7 +5561,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 371,
-    "score": 1261
+    "score": 1261,
+    "globalRank": 41101
   },
   {
     "login": "barunik",
@@ -5205,7 +5576,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 372,
-    "score": 87
+    "score": 87,
+    "globalRank": 41102
   },
   {
     "login": "locoloader",
@@ -5219,7 +5591,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 373,
-    "score": 84
+    "score": 84,
+    "globalRank": 41103
   },
   {
     "login": "uricamic",
@@ -5233,7 +5606,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 374,
-    "score": 104
+    "score": 104,
+    "globalRank": 41104
   },
   {
     "login": "jhrcek",
@@ -5247,7 +5621,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 375,
-    "score": 2102
+    "score": 2102,
+    "globalRank": 41105
   },
   {
     "login": "rpeshkov",
@@ -5261,7 +5636,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 376,
-    "score": 75
+    "score": 75,
+    "globalRank": 41410
   },
   {
     "login": "mrc0mmand",
@@ -5275,7 +5651,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 377,
-    "score": 458
+    "score": 458,
+    "globalRank": 41411
   },
   {
     "login": "metthal",
@@ -5289,7 +5666,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 378,
-    "score": 147
+    "score": 147,
+    "globalRank": 41412
   },
   {
     "login": "nohal",
@@ -5303,7 +5681,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 379,
-    "score": 371
+    "score": 371,
+    "globalRank": 41724
   },
   {
     "login": "deric",
@@ -5317,7 +5696,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 380,
-    "score": 245
+    "score": 245,
+    "globalRank": 41725
   },
   {
     "login": "mirekholec",
@@ -5331,7 +5711,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 381,
-    "score": 187
+    "score": 187,
+    "globalRank": 41726
   },
   {
     "login": "jansedivy",
@@ -5345,7 +5726,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 382,
-    "score": 83
+    "score": 83,
+    "globalRank": 41727
   },
   {
     "login": "boranx",
@@ -5359,7 +5741,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 383,
-    "score": 179
+    "score": 179,
+    "globalRank": 41728
   },
   {
     "login": "cnak",
@@ -5373,7 +5756,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 384,
-    "score": 123
+    "score": 123,
+    "globalRank": 42007
   },
   {
     "login": "chakany",
@@ -5387,7 +5771,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 385,
-    "score": 249
+    "score": 249,
+    "globalRank": 42008
   },
   {
     "login": "maraf",
@@ -5401,7 +5786,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 386,
-    "score": 2855
+    "score": 2855,
+    "globalRank": 42009
   },
   {
     "login": "alex-alex",
@@ -5415,7 +5801,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 387,
-    "score": 74
+    "score": 74,
+    "globalRank": 42010
   },
   {
     "login": "OndroMih",
@@ -5429,7 +5816,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 388,
-    "score": 851
+    "score": 851,
+    "globalRank": 42011
   },
   {
     "login": "mcepl",
@@ -5443,7 +5831,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 389,
-    "score": 352
+    "score": 352,
+    "globalRank": 42012
   },
   {
     "login": "tchap",
@@ -5457,7 +5846,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 390,
-    "score": 581
+    "score": 581,
+    "globalRank": 42013
   },
   {
     "login": "Salamek",
@@ -5471,7 +5861,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 391,
-    "score": 344
+    "score": 344,
+    "globalRank": 42014
   },
   {
     "login": "nemecdev",
@@ -5485,7 +5876,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 392,
-    "score": 1590
+    "score": 1590,
+    "globalRank": 42015
   },
   {
     "login": "tsinis",
@@ -5499,7 +5891,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 393,
-    "score": 1785
+    "score": 1785,
+    "globalRank": 42016
   },
   {
     "login": "suculent",
@@ -5513,7 +5906,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 394,
-    "score": 417
+    "score": 417,
+    "globalRank": 42358
   },
   {
     "login": "Oldes",
@@ -5527,7 +5921,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 395,
-    "score": 613
+    "score": 613,
+    "globalRank": 42359
   },
   {
     "login": "tuetschek",
@@ -5541,7 +5936,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 396,
-    "score": 86
+    "score": 86,
+    "globalRank": 42360
   },
   {
     "login": "KrabCode",
@@ -5555,7 +5951,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 397,
-    "score": 556
+    "score": 556,
+    "globalRank": 42361
   },
   {
     "login": "ingvagabund",
@@ -5569,7 +5966,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 398,
-    "score": 1767
+    "score": 1767,
+    "globalRank": 42362
   },
   {
     "login": "dimetron",
@@ -5583,7 +5981,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 399,
-    "score": 697
+    "score": 697,
+    "globalRank": 42363
   },
   {
     "login": "svetlemodry",
@@ -5597,7 +5996,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 400,
-    "score": 128
+    "score": 128,
+    "globalRank": 42669
   },
   {
     "login": "lukasj",
@@ -5611,7 +6011,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 401,
-    "score": 797
+    "score": 797,
+    "globalRank": 42670
   },
   {
     "login": "simPod",
@@ -5625,7 +6026,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 402,
-    "score": 1709
+    "score": 1709,
+    "globalRank": 42671
   },
   {
     "login": "yash0307",
@@ -5639,7 +6041,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 403,
-    "score": 72
+    "score": 72,
+    "globalRank": 43000
   },
   {
     "login": "TanyaPristupova",
@@ -5653,7 +6056,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 404,
-    "score": 429
+    "score": 429,
+    "globalRank": 43001
   },
   {
     "login": "skateman",
@@ -5667,7 +6071,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 405,
-    "score": 347
+    "score": 347,
+    "globalRank": 43002
   },
   {
     "login": "ashmoran",
@@ -5681,7 +6086,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 406,
-    "score": 70
+    "score": 70,
+    "globalRank": 43003
   },
   {
     "login": "anton-bushuiev",
@@ -5695,7 +6101,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 407,
-    "score": 513
+    "score": 513,
+    "globalRank": 43004
   },
   {
     "login": "gtolias",
@@ -5709,7 +6116,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 408,
-    "score": 71
+    "score": 71,
+    "globalRank": 43005
   },
   {
     "login": "andriilive",
@@ -5723,7 +6131,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 409,
-    "score": 302
+    "score": 302,
+    "globalRank": 43006
   },
   {
     "login": "martin-sicho",
@@ -5737,7 +6146,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 410,
-    "score": 274
+    "score": 274,
+    "globalRank": 43007
   },
   {
     "login": "clytaemnestra",
@@ -5751,7 +6161,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 411,
-    "score": 329
+    "score": 329,
+    "globalRank": 43008
   },
   {
     "login": "xibaca",
@@ -5765,7 +6176,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 412,
-    "score": 69
+    "score": 69,
+    "globalRank": 43323
   },
   {
     "login": "c4t-dr34m",
@@ -5779,7 +6191,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 413,
-    "score": 69
+    "score": 69,
+    "globalRank": 43324
   },
   {
     "login": "danielkec",
@@ -5793,7 +6206,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 414,
-    "score": 818
+    "score": 818,
+    "globalRank": 43325
   },
   {
     "login": "Jakuje",
@@ -5807,7 +6221,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 415,
-    "score": 1174
+    "score": 1174,
+    "globalRank": 43326
   },
   {
     "login": "ManickaP",
@@ -5821,7 +6236,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 416,
-    "score": 358
+    "score": 358,
+    "globalRank": 43327
   },
   {
     "login": "mj41",
@@ -5835,7 +6251,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 417,
-    "score": 1938
+    "score": 1938,
+    "globalRank": 43328
   },
   {
     "login": "Lily-Roseary",
@@ -5849,7 +6266,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 418,
-    "score": 69
+    "score": 69,
+    "globalRank": 43329
   },
   {
     "login": "Papooch",
@@ -5863,7 +6281,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 419,
-    "score": 1622
+    "score": 1622,
+    "globalRank": 43330
   },
   {
     "login": "grulja",
@@ -5877,7 +6296,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 420,
-    "score": 246
+    "score": 246,
+    "globalRank": 43331
   },
   {
     "login": "jakubg05",
@@ -5891,7 +6311,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 421,
-    "score": 358
+    "score": 358,
+    "globalRank": 43664
   },
   {
     "login": "psfinaki",
@@ -5905,7 +6326,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 422,
-    "score": 499
+    "score": 499,
+    "globalRank": 43665
   },
   {
     "login": "fxck",
@@ -5919,7 +6341,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 423,
-    "score": 2148
+    "score": 2148,
+    "globalRank": 43666
   },
   {
     "login": "GthiN89",
@@ -5933,7 +6356,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 424,
-    "score": 136
+    "score": 136,
+    "globalRank": 43667
   },
   {
     "login": "Cicko",
@@ -5947,7 +6371,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 425,
-    "score": 781
+    "score": 781,
+    "globalRank": 43668
   },
   {
     "login": "AllienWorks",
@@ -5961,7 +6386,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 426,
-    "score": 68
+    "score": 68,
+    "globalRank": 43669
   },
   {
     "login": "leftys",
@@ -5975,7 +6401,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 427,
-    "score": 553
+    "score": 553,
+    "globalRank": 44043
   },
   {
     "login": "REPTILEHAUS",
@@ -5989,7 +6416,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 428,
-    "score": 173
+    "score": 173,
+    "globalRank": 44044
   },
   {
     "login": "jlacko",
@@ -6003,7 +6431,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 429,
-    "score": 238
+    "score": 238,
+    "globalRank": 44045
   },
   {
     "login": "mikz",
@@ -6017,7 +6446,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 430,
-    "score": 8021
+    "score": 8021,
+    "globalRank": 44046
   },
   {
     "login": "mtrunkat",
@@ -6031,7 +6461,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 431,
-    "score": 509
+    "score": 509,
+    "globalRank": 44047
   },
   {
     "login": "Martyx00",
@@ -6045,7 +6476,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 432,
-    "score": 78
+    "score": 78,
+    "globalRank": 44048
   },
   {
     "login": "prokopsimek",
@@ -6059,7 +6491,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 433,
-    "score": 2679
+    "score": 2679,
+    "globalRank": 44049
   },
   {
     "login": "MattSkala",
@@ -6073,7 +6506,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 434,
-    "score": 2850
+    "score": 2850,
+    "globalRank": 44050
   },
   {
     "login": "ilonatommy",
@@ -6087,7 +6521,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 435,
-    "score": 853
+    "score": 853,
+    "globalRank": 44051
   },
   {
     "login": "xsuchy",
@@ -6101,7 +6536,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 436,
-    "score": 1015
+    "score": 1015,
+    "globalRank": 44052
   },
   {
     "login": "vojtasvoboda",
@@ -6115,7 +6551,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 437,
-    "score": 132
+    "score": 132,
+    "globalRank": 44053
   },
   {
     "login": "tajnymag",
@@ -6129,7 +6566,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 438,
-    "score": 159
+    "score": 159,
+    "globalRank": 44416
   },
   {
     "login": "martinpopel",
@@ -6143,7 +6581,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 439,
-    "score": 207
+    "score": 207,
+    "globalRank": 44417
   },
   {
     "login": "Kleissner",
@@ -6157,7 +6596,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 440,
-    "score": 66
+    "score": 66,
+    "globalRank": 44418
   },
   {
     "login": "jmartisk",
@@ -6171,7 +6611,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 441,
-    "score": 1274
+    "score": 1274,
+    "globalRank": 44419
   },
   {
     "login": "matejak",
@@ -6185,7 +6626,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 442,
-    "score": 123
+    "score": 123,
+    "globalRank": 44420
   },
   {
     "login": "janbuchar",
@@ -6199,7 +6641,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 443,
-    "score": 1585
+    "score": 1585,
+    "globalRank": 44798
   },
   {
     "login": "mvidner",
@@ -6213,7 +6656,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 444,
-    "score": 600
+    "score": 600,
+    "globalRank": 44799
   },
   {
     "login": "xlauko",
@@ -6227,7 +6671,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 445,
-    "score": 1502
+    "score": 1502,
+    "globalRank": 44800
   },
   {
     "login": "curlyboi",
@@ -6241,7 +6686,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 446,
-    "score": 66
+    "score": 66,
+    "globalRank": 44801
   },
   {
     "login": "velocitatem",
@@ -6255,7 +6701,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 447,
-    "score": 1547
+    "score": 1547,
+    "globalRank": 44802
   },
   {
     "login": "tomas-pluskal",
@@ -6269,7 +6716,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 448,
-    "score": 65
+    "score": 65,
+    "globalRank": 44803
   },
   {
     "login": "nezdemkovski",
@@ -6283,7 +6731,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 449,
-    "score": 2189
+    "score": 2189,
+    "globalRank": 44804
   },
   {
     "login": "codinglawyer",
@@ -6297,7 +6746,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 450,
-    "score": 65
+    "score": 65,
+    "globalRank": 44805
   },
   {
     "login": "zsvoboda",
@@ -6311,7 +6761,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 451,
-    "score": 259
+    "score": 259,
+    "globalRank": 44806
   },
   {
     "login": "andrewkozlik",
@@ -6325,7 +6776,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 452,
-    "score": 215
+    "score": 215,
+    "globalRank": 45199
   },
   {
     "login": "zbycz",
@@ -6339,7 +6791,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 453,
-    "score": 1630
+    "score": 1630,
+    "globalRank": 45200
   },
   {
     "login": "pofider",
@@ -6353,7 +6806,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 454,
-    "score": 146
+    "score": 146,
+    "globalRank": 45201
   },
   {
     "login": "shr-project",
@@ -6367,7 +6821,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 455,
-    "score": 227
+    "score": 227,
+    "globalRank": 45202
   },
   {
     "login": "quarckster",
@@ -6381,7 +6836,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 456,
-    "score": 1576
+    "score": 1576,
+    "globalRank": 45203
   },
   {
     "login": "JanMikes",
@@ -6395,7 +6851,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 457,
-    "score": 3385
+    "score": 3385,
+    "globalRank": 45204
   },
   {
     "login": "Vitexus",
@@ -6409,7 +6866,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 458,
-    "score": 7260
+    "score": 7260,
+    "globalRank": 45205
   },
   {
     "login": "dstepanov",
@@ -6423,7 +6881,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 459,
-    "score": 836
+    "score": 836,
+    "globalRank": 45206
   },
   {
     "login": "brozrost",
@@ -6437,7 +6896,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 460,
-    "score": 723
+    "score": 723,
+    "globalRank": 45606
   },
   {
     "login": "Warxim",
@@ -6451,7 +6911,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 461,
-    "score": 66
+    "score": 66,
+    "globalRank": 45607
   },
   {
     "login": "MarcoRossignoli",
@@ -6465,7 +6926,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 462,
-    "score": 120
+    "score": 120,
+    "globalRank": 45608
   },
   {
     "login": "CermakM",
@@ -6479,7 +6941,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 463,
-    "score": 3473
+    "score": 3473,
+    "globalRank": 45609
   },
   {
     "login": "mvolfik",
@@ -6493,7 +6956,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 464,
-    "score": 858
+    "score": 858,
+    "globalRank": 45610
   },
   {
     "login": "timthelion",
@@ -6507,7 +6971,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 465,
-    "score": 2426
+    "score": 2426,
+    "globalRank": 45611
   },
   {
     "login": "Kaspik",
@@ -6521,7 +6986,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 466,
-    "score": 9170
+    "score": 9170,
+    "globalRank": 45612
   },
   {
     "login": "lynt-smitka",
@@ -6535,7 +7001,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 467,
-    "score": 145
+    "score": 145,
+    "globalRank": 45613
   },
   {
     "login": "droslean",
@@ -6549,7 +7016,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 468,
-    "score": 1415
+    "score": 1415,
+    "globalRank": 45614
   },
   {
     "login": "adelsz",
@@ -6563,7 +7031,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 469,
-    "score": 3793
+    "score": 3793,
+    "globalRank": 45615
   },
   {
     "login": "heh9",
@@ -6577,7 +7046,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 470,
-    "score": 761
+    "score": 761,
+    "globalRank": 46023
   },
   {
     "login": "lzoubek",
@@ -6591,7 +7061,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 471,
-    "score": 64
+    "score": 64,
+    "globalRank": 46024
   },
   {
     "login": "Martinfx",
@@ -6605,7 +7076,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 472,
-    "score": 702
+    "score": 702,
+    "globalRank": 46025
   },
   {
     "login": "SelenGora",
@@ -6619,7 +7091,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 473,
-    "score": 62
+    "score": 62,
+    "globalRank": 46026
   },
   {
     "login": "jkuchar",
@@ -6633,7 +7106,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 474,
-    "score": 74
+    "score": 74,
+    "globalRank": 46027
   },
   {
     "login": "pdostal",
@@ -6647,7 +7121,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 475,
-    "score": 694
+    "score": 694,
+    "globalRank": 46028
   },
   {
     "login": "jindrichmynarz",
@@ -6661,7 +7136,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 476,
-    "score": 64
+    "score": 64,
+    "globalRank": 46029
   },
   {
     "login": "PepijnSenders",
@@ -6675,7 +7151,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 477,
-    "score": 1876
+    "score": 1876,
+    "globalRank": 46030
   },
   {
     "login": "Witiko",
@@ -6689,7 +7166,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 478,
-    "score": 2104
+    "score": 2104,
+    "globalRank": 46453
   },
   {
     "login": "zindel",
@@ -6703,7 +7181,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 479,
-    "score": 61
+    "score": 61,
+    "globalRank": 46454
   },
   {
     "login": "maio",
@@ -6717,7 +7196,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 480,
-    "score": 66
+    "score": 66,
+    "globalRank": 46455
   },
   {
     "login": "calmrat",
@@ -6731,7 +7211,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 481,
-    "score": 64
+    "score": 64,
+    "globalRank": 46456
   },
   {
     "login": "czhujer",
@@ -6745,7 +7226,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 482,
-    "score": 228
+    "score": 228,
+    "globalRank": 46457
   },
   {
     "login": "EudaldV98",
@@ -6759,7 +7241,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 483,
-    "score": 70
+    "score": 70,
+    "globalRank": 46458
   },
   {
     "login": "abhishtagatya",
@@ -6773,7 +7256,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 484,
-    "score": 238
+    "score": 238,
+    "globalRank": 46459
   },
   {
     "login": "janpipek",
@@ -6787,7 +7271,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 485,
-    "score": 527
+    "score": 527,
+    "globalRank": 46460
   },
   {
     "login": "pfactum",
@@ -6801,7 +7286,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 486,
-    "score": 77
+    "score": 77,
+    "globalRank": 46461
   },
   {
     "login": "FUSAKLA",
@@ -6815,7 +7301,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 487,
-    "score": 134
+    "score": 134,
+    "globalRank": 46884
   },
   {
     "login": "artogahr",
@@ -6829,7 +7316,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 488,
-    "score": 546
+    "score": 546,
+    "globalRank": 46885
   },
   {
     "login": "tomasr8",
@@ -6843,7 +7331,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 489,
-    "score": 1104
+    "score": 1104,
+    "globalRank": 46886
   },
   {
     "login": "kir",
@@ -6857,7 +7346,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 490,
-    "score": 92
+    "score": 92,
+    "globalRank": 46887
   },
   {
     "login": "voltangle",
@@ -6871,7 +7361,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 491,
-    "score": 465
+    "score": 465,
+    "globalRank": 46888
   },
   {
     "login": "hakunin",
@@ -6885,7 +7376,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 492,
-    "score": 572
+    "score": 572,
+    "globalRank": 46889
   },
   {
     "login": "mmilata",
@@ -6899,7 +7391,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 493,
-    "score": 595
+    "score": 595,
+    "globalRank": 46890
   },
   {
     "login": "beldmit",
@@ -6913,7 +7406,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 494,
-    "score": 441
+    "score": 441,
+    "globalRank": 46891
   },
   {
     "login": "LubomirJagos",
@@ -6927,7 +7421,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 495,
-    "score": 59
+    "score": 59,
+    "globalRank": 47324
   },
   {
     "login": "dragomirecky",
@@ -6941,7 +7436,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 496,
-    "score": 1313
+    "score": 1313,
+    "globalRank": 47325
   },
   {
     "login": "DominikBucher12",
@@ -6955,7 +7451,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 497,
-    "score": 59
+    "score": 59,
+    "globalRank": 47326
   },
   {
     "login": "T1maty",
@@ -6969,7 +7466,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 498,
-    "score": 352
+    "score": 352,
+    "globalRank": 47327
   },
   {
     "login": "mathemage",
@@ -6983,7 +7481,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 499,
-    "score": 605
+    "score": 605,
+    "globalRank": 47328
   },
   {
     "login": "JuroOravec",
@@ -6997,7 +7496,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 500,
-    "score": 1814
+    "score": 1814,
+    "globalRank": 47329
   },
   {
     "login": "mfocko",
@@ -7011,7 +7511,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 501,
-    "score": 496
+    "score": 496,
+    "globalRank": 47330
   },
   {
     "login": "vojtechmares",
@@ -7025,7 +7526,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 502,
-    "score": 1901
+    "score": 1901,
+    "globalRank": 47331
   },
   {
     "login": "Piyush-555",
@@ -7039,7 +7541,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 503,
-    "score": 63
+    "score": 63,
+    "globalRank": 47332
   },
   {
     "login": "lenticularis39",
@@ -7053,7 +7556,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 504,
-    "score": 299
+    "score": 299,
+    "globalRank": 47333
   },
   {
     "login": "landam",
@@ -7067,7 +7571,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 505,
-    "score": 532
+    "score": 532,
+    "globalRank": 47334
   },
   {
     "login": "Vuka951",
@@ -7081,7 +7586,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 506,
-    "score": 251
+    "score": 251,
+    "globalRank": 47733
   },
   {
     "login": "koo5",
@@ -7095,7 +7601,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 507,
-    "score": 1821
+    "score": 1821,
+    "globalRank": 47734
   },
   {
     "login": "phracek",
@@ -7109,7 +7616,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 508,
-    "score": 1656
+    "score": 1656,
+    "globalRank": 47735
   },
   {
     "login": "aitorllj93",
@@ -7123,7 +7631,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 509,
-    "score": 1667
+    "score": 1667,
+    "globalRank": 47736
   },
   {
     "login": "RikudouSage",
@@ -7137,7 +7646,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 510,
-    "score": 2338
+    "score": 2338,
+    "globalRank": 47737
   },
   {
     "login": "bechynsky",
@@ -7151,7 +7661,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 511,
-    "score": 201
+    "score": 201,
+    "globalRank": 47738
   },
   {
     "login": "sideeffffect",
@@ -7165,7 +7676,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 512,
-    "score": 324
+    "score": 324,
+    "globalRank": 48172
   },
   {
     "login": "ChaoticRoman",
@@ -7179,7 +7691,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 513,
-    "score": 442
+    "score": 442,
+    "globalRank": 48173
   },
   {
     "login": "janivanecky",
@@ -7193,7 +7706,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 514,
-    "score": 57
+    "score": 57,
+    "globalRank": 48174
   },
   {
     "login": "vojtechjelinek",
@@ -7207,7 +7721,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 515,
-    "score": 74
+    "score": 74,
+    "globalRank": 48175
   },
   {
     "login": "aleszoulek",
@@ -7221,7 +7736,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 516,
-    "score": 62
+    "score": 62,
+    "globalRank": 48176
   },
   {
     "login": "PetrDlouhy",
@@ -7235,7 +7751,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 517,
-    "score": 423
+    "score": 423,
+    "globalRank": 48177
   },
   {
     "login": "VasekPurchart",
@@ -7249,7 +7766,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 518,
-    "score": 68
+    "score": 68,
+    "globalRank": 48178
   },
   {
     "login": "molcik",
@@ -7263,7 +7781,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 519,
-    "score": 335
+    "score": 335,
+    "globalRank": 48179
   },
   {
     "login": "brmzkw",
@@ -7277,7 +7796,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 520,
-    "score": 3956
+    "score": 3956,
+    "globalRank": 48640
   },
   {
     "login": "racinmat",
@@ -7291,7 +7811,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 521,
-    "score": 463
+    "score": 463,
+    "globalRank": 48641
   },
   {
     "login": "paveldedik",
@@ -7305,7 +7826,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 522,
-    "score": 136
+    "score": 136,
+    "globalRank": 48642
   },
   {
     "login": "strohel",
@@ -7319,7 +7841,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 523,
-    "score": 1201
+    "score": 1201,
+    "globalRank": 48643
   },
   {
     "login": "mrq1911",
@@ -7333,7 +7856,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 524,
-    "score": 1046
+    "score": 1046,
+    "globalRank": 48644
   },
   {
     "login": "oliexe",
@@ -7347,7 +7871,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 525,
-    "score": 2053
+    "score": 2053,
+    "globalRank": 48645
   },
   {
     "login": "chyrta",
@@ -7361,7 +7886,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 526,
-    "score": 58
+    "score": 58,
+    "globalRank": 48646
   },
   {
     "login": "lacina-dev",
@@ -7375,7 +7901,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 527,
-    "score": 112
+    "score": 112,
+    "globalRank": 48647
   },
   {
     "login": "Andersson007",
@@ -7389,7 +7916,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 528,
-    "score": 1181
+    "score": 1181,
+    "globalRank": 48648
   },
   {
     "login": "JakubMelka",
@@ -7403,7 +7931,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 529,
-    "score": 325
+    "score": 325,
+    "globalRank": 48649
   },
   {
     "login": "palubad",
@@ -7417,7 +7946,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 530,
-    "score": 129
+    "score": 129,
+    "globalRank": 48650
   },
   {
     "login": "bubnikv",
@@ -7431,7 +7961,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 531,
-    "score": 105
+    "score": 105,
+    "globalRank": 48651
   },
   {
     "login": "jardicc",
@@ -7445,7 +7976,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 532,
-    "score": 909
+    "score": 909,
+    "globalRank": 48652
   },
   {
     "login": "netmilk",
@@ -7459,7 +7991,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 533,
-    "score": 987
+    "score": 987,
+    "globalRank": 49121
   },
   {
     "login": "simonrozsival",
@@ -7473,7 +8006,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 534,
-    "score": 1312
+    "score": 1312,
+    "globalRank": 49122
   },
   {
     "login": "tomas-fryza",
@@ -7487,7 +8021,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 535,
-    "score": 452
+    "score": 452,
+    "globalRank": 49123
   },
   {
     "login": "JanCizmar",
@@ -7501,7 +8036,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 536,
-    "score": 780
+    "score": 780,
+    "globalRank": 49124
   },
   {
     "login": "tamarme",
@@ -7515,7 +8051,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 537,
-    "score": 59
+    "score": 59,
+    "globalRank": 49125
   },
   {
     "login": "OndrejMottl",
@@ -7529,7 +8066,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 538,
-    "score": 959
+    "score": 959,
+    "globalRank": 49126
   },
   {
     "login": "Trsak",
@@ -7543,7 +8081,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 539,
-    "score": 65
+    "score": 65,
+    "globalRank": 49127
   },
   {
     "login": "ondrejbartas",
@@ -7557,7 +8096,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 540,
-    "score": 330
+    "score": 330,
+    "globalRank": 49128
   },
   {
     "login": "jakubzitny",
@@ -7571,7 +8111,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 541,
-    "score": 383
+    "score": 383,
+    "globalRank": 49607
   },
   {
     "login": "jistr",
@@ -7585,7 +8126,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 542,
-    "score": 256
+    "score": 256,
+    "globalRank": 49608
   },
   {
     "login": "uhlhosting",
@@ -7599,7 +8141,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 543,
-    "score": 1144
+    "score": 1144,
+    "globalRank": 49609
   },
   {
     "login": "jakubboucek",
@@ -7613,7 +8156,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 544,
-    "score": 447
+    "score": 447,
+    "globalRank": 49610
   },
   {
     "login": "Ifeanyi-Christian",
@@ -7627,7 +8171,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 545,
-    "score": 74
+    "score": 74,
+    "globalRank": 49611
   },
   {
     "login": "dolejska-daniel",
@@ -7641,7 +8186,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 546,
-    "score": 2911
+    "score": 2911,
+    "globalRank": 49612
   },
   {
     "login": "Nodonisko",
@@ -7655,7 +8201,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 547,
-    "score": 314
+    "score": 314,
+    "globalRank": 49613
   },
   {
     "login": "paranoiq",
@@ -7669,7 +8216,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 548,
-    "score": 156
+    "score": 156,
+    "globalRank": 49614
   },
   {
     "login": "averrin",
@@ -7683,7 +8231,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 549,
-    "score": 1431
+    "score": 1431,
+    "globalRank": 49615
   },
   {
     "login": "0nko",
@@ -7697,7 +8246,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 550,
-    "score": 978
+    "score": 978,
+    "globalRank": 49616
   },
   {
     "login": "return-none",
@@ -7711,7 +8261,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 551,
-    "score": 53
+    "score": 53,
+    "globalRank": 50149
   },
   {
     "login": "Ibrahim5aad",
@@ -7725,7 +8276,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 552,
-    "score": 471
+    "score": 471,
+    "globalRank": 50150
   },
   {
     "login": "smidm",
@@ -7739,7 +8291,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 553,
-    "score": 1095
+    "score": 1095,
+    "globalRank": 50151
   },
   {
     "login": "zvadaadam",
@@ -7753,7 +8306,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 554,
-    "score": 2333
+    "score": 2333,
+    "globalRank": 50152
   },
   {
     "login": "snajpa",
@@ -7767,7 +8321,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 555,
-    "score": 232
+    "score": 232,
+    "globalRank": 50153
   },
   {
     "login": "strnad",
@@ -7781,7 +8336,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 556,
-    "score": 416
+    "score": 416,
+    "globalRank": 50154
   },
   {
     "login": "victor-am",
@@ -7795,7 +8351,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 557,
-    "score": 539
+    "score": 539,
+    "globalRank": 50155
   },
   {
     "login": "petrbouda",
@@ -7809,7 +8366,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 558,
-    "score": 994
+    "score": 994,
+    "globalRank": 50156
   },
   {
     "login": "roman-bushuiev",
@@ -7823,7 +8381,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 559,
-    "score": 600
+    "score": 600,
+    "globalRank": 50157
   },
   {
     "login": "29jm",
@@ -7837,7 +8396,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 560,
-    "score": 53
+    "score": 53,
+    "globalRank": 50158
   },
   {
     "login": "snmslavk",
@@ -7851,7 +8411,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 561,
-    "score": 173
+    "score": 173,
+    "globalRank": 50159
   },
   {
     "login": "gfraiteur",
@@ -7865,7 +8426,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 562,
-    "score": 4144
+    "score": 4144,
+    "globalRank": 50160
   },
   {
     "login": "illagrenan",
@@ -7879,7 +8441,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 563,
-    "score": 155
+    "score": 155,
+    "globalRank": 50664
   },
   {
     "login": "slaweet",
@@ -7893,7 +8456,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 564,
-    "score": 65
+    "score": 65,
+    "globalRank": 50665
   },
   {
     "login": "rsvoboda",
@@ -7907,7 +8471,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 565,
-    "score": 941
+    "score": 941,
+    "globalRank": 50666
   },
   {
     "login": "Kedrigern",
@@ -7921,7 +8486,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 566,
-    "score": 357
+    "score": 357,
+    "globalRank": 50667
   },
   {
     "login": "tiredpixel",
@@ -7935,7 +8501,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 567,
-    "score": 5981
+    "score": 5981,
+    "globalRank": 50668
   },
   {
     "login": "jozefchutka",
@@ -7949,7 +8516,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 568,
-    "score": 110
+    "score": 110,
+    "globalRank": 50669
   },
   {
     "login": "octopusengine",
@@ -7963,7 +8531,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 569,
-    "score": 361
+    "score": 361,
+    "globalRank": 50670
   },
   {
     "login": "kostasdrakonakis",
@@ -7977,7 +8546,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 570,
-    "score": 1026
+    "score": 1026,
+    "globalRank": 50671
   },
   {
     "login": "vitaliihonta",
@@ -7991,7 +8561,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 571,
-    "score": 52
+    "score": 52,
+    "globalRank": 50672
   },
   {
     "login": "sleepyfran",
@@ -8005,7 +8576,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 572,
-    "score": 1466
+    "score": 1466,
+    "globalRank": 50673
   },
   {
     "login": "opichals",
@@ -8019,7 +8591,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 573,
-    "score": 51
+    "score": 51,
+    "globalRank": 51191
   },
   {
     "login": "Simply007",
@@ -8033,7 +8606,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 574,
-    "score": 625
+    "score": 625,
+    "globalRank": 51192
   },
   {
     "login": "lfryc",
@@ -8047,7 +8621,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 575,
-    "score": 51
+    "score": 51,
+    "globalRank": 51193
   },
   {
     "login": "ped7g",
@@ -8061,7 +8636,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 576,
-    "score": 232
+    "score": 232,
+    "globalRank": 51194
   },
   {
     "login": "drobnikj",
@@ -8075,7 +8651,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 577,
-    "score": 1326
+    "score": 1326,
+    "globalRank": 51195
   },
   {
     "login": "sitole",
@@ -8089,7 +8666,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 578,
-    "score": 2037
+    "score": 2037,
+    "globalRank": 51196
   },
   {
     "login": "march08",
@@ -8103,7 +8681,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 579,
-    "score": 2500
+    "score": 2500,
+    "globalRank": 51197
   },
   {
     "login": "danielpoliakov",
@@ -8117,7 +8696,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 580,
-    "score": 51
+    "score": 51,
+    "globalRank": 51198
   },
   {
     "login": "pesikj",
@@ -8131,7 +8711,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 581,
-    "score": 574
+    "score": 574,
+    "globalRank": 51199
   },
   {
     "login": "T-Gro",
@@ -8145,7 +8726,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 582,
-    "score": 1474
+    "score": 1474,
+    "globalRank": 51200
   },
   {
     "login": "marianhlavac",
@@ -8159,7 +8741,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 583,
-    "score": 1922
+    "score": 1922,
+    "globalRank": 51201
   },
   {
     "login": "nohaapav",
@@ -8173,7 +8756,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 584,
-    "score": 2301
+    "score": 2301,
+    "globalRank": 51202
   },
   {
     "login": "OndrejMarsalek",
@@ -8187,7 +8771,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 585,
-    "score": 128
+    "score": 128,
+    "globalRank": 51683
   },
   {
     "login": "vire",
@@ -8201,7 +8786,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 586,
-    "score": 84
+    "score": 84,
+    "globalRank": 51684
   },
   {
     "login": "FilipChalupa",
@@ -8215,7 +8801,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 587,
-    "score": 11154
+    "score": 11154,
+    "globalRank": 51685
   },
   {
     "login": "davidmarek",
@@ -8229,7 +8816,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 588,
-    "score": 83
+    "score": 83,
+    "globalRank": 51686
   },
   {
     "login": "OlegIvaniv",
@@ -8243,7 +8831,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 589,
-    "score": 762
+    "score": 762,
+    "globalRank": 51687
   },
   {
     "login": "pixochi",
@@ -8257,7 +8846,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 590,
-    "score": 989
+    "score": 989,
+    "globalRank": 51688
   },
   {
     "login": "obrejla",
@@ -8271,7 +8861,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 591,
-    "score": 89
+    "score": 89,
+    "globalRank": 51689
   },
   {
     "login": "tarzanek",
@@ -8285,7 +8876,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 592,
-    "score": 117
+    "score": 117,
+    "globalRank": 51690
   },
   {
     "login": "redmonkez12",
@@ -8299,7 +8891,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 593,
-    "score": 3805
+    "score": 3805,
+    "globalRank": 51691
   },
   {
     "login": "zjor",
@@ -8313,7 +8906,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 594,
-    "score": 3514
+    "score": 3514,
+    "globalRank": 51692
   },
   {
     "login": "abonie",
@@ -8327,7 +8921,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 595,
-    "score": 396
+    "score": 396,
+    "globalRank": 51693
   },
   {
     "login": "adokitkat",
@@ -8341,7 +8936,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 596,
-    "score": 171
+    "score": 171,
+    "globalRank": 51694
   },
   {
     "login": "gavento",
@@ -8355,7 +8951,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 597,
-    "score": 1412
+    "score": 1412,
+    "globalRank": 51695
   },
   {
     "login": "Mine556",
@@ -8369,7 +8966,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 598,
-    "score": 52
+    "score": 52,
+    "globalRank": 51696
   },
   {
     "login": "pk",
@@ -8383,7 +8981,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 599,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 52179
   },
   {
     "login": "jlibovicky",
@@ -8397,7 +8996,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 600,
-    "score": 174
+    "score": 174,
+    "globalRank": 52180
   },
   {
     "login": "siteshwar",
@@ -8411,7 +9011,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 601,
-    "score": 164
+    "score": 164,
+    "globalRank": 52181
   },
   {
     "login": "agajdosi",
@@ -8425,7 +9026,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 602,
-    "score": 677
+    "score": 677,
+    "globalRank": 52182
   },
   {
     "login": "vyskoczilova",
@@ -8439,7 +9041,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 603,
-    "score": 1797
+    "score": 1797,
+    "globalRank": 52183
   },
   {
     "login": "PetraVidnerova",
@@ -8453,7 +9056,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 604,
-    "score": 493
+    "score": 493,
+    "globalRank": 52184
   },
   {
     "login": "playfulFence",
@@ -8467,7 +9071,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 605,
-    "score": 411
+    "score": 411,
+    "globalRank": 52185
   },
   {
     "login": "kpiwko",
@@ -8481,7 +9086,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 606,
-    "score": 311
+    "score": 311,
+    "globalRank": 52186
   },
   {
     "login": "MR-DOS",
@@ -8495,7 +9101,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 607,
-    "score": 68
+    "score": 68,
+    "globalRank": 52187
   },
   {
     "login": "michalblaha",
@@ -8509,7 +9116,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 608,
-    "score": 1253
+    "score": 1253,
+    "globalRank": 52188
   },
   {
     "login": "benabraham",
@@ -8523,7 +9131,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 609,
-    "score": 638
+    "score": 638,
+    "globalRank": 52189
   },
   {
     "login": "smithfarm",
@@ -8537,7 +9146,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 610,
-    "score": 89
+    "score": 89,
+    "globalRank": 52190
   },
   {
     "login": "stancld",
@@ -8551,7 +9161,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 611,
-    "score": 3230
+    "score": 3230,
+    "globalRank": 52191
   },
   {
     "login": "jaroslav-kubicek",
@@ -8565,7 +9176,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 612,
-    "score": 1278
+    "score": 1278,
+    "globalRank": 52674
   },
   {
     "login": "aLekSer",
@@ -8579,7 +9191,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 613,
-    "score": 128
+    "score": 128,
+    "globalRank": 52675
   },
   {
     "login": "tgrk",
@@ -8593,7 +9206,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 614,
-    "score": 2158
+    "score": 2158,
+    "globalRank": 52676
   },
   {
     "login": "lookyman",
@@ -8607,7 +9221,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 615,
-    "score": 72
+    "score": 72,
+    "globalRank": 52677
   },
   {
     "login": "pdovhomilja",
@@ -8621,7 +9236,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 616,
-    "score": 4642
+    "score": 4642,
+    "globalRank": 52678
   },
   {
     "login": "infi-pc",
@@ -8635,7 +9251,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 617,
-    "score": 107
+    "score": 107,
+    "globalRank": 52679
   },
   {
     "login": "mikevercoelen",
@@ -8649,7 +9266,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 618,
-    "score": 9913
+    "score": 9913,
+    "globalRank": 52680
   },
   {
     "login": "cisc0disco",
@@ -8663,7 +9281,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 619,
-    "score": 124
+    "score": 124,
+    "globalRank": 52681
   },
   {
     "login": "petrbel",
@@ -8677,7 +9296,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 620,
-    "score": 1745
+    "score": 1745,
+    "globalRank": 52682
   },
   {
     "login": "esemi",
@@ -8691,7 +9311,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 621,
-    "score": 629
+    "score": 629,
+    "globalRank": 52683
   },
   {
     "login": "paveljanda",
@@ -8705,7 +9326,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 622,
-    "score": 81
+    "score": 81,
+    "globalRank": 52684
   },
   {
     "login": "pavelbucek",
@@ -8719,7 +9341,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 623,
-    "score": 48
+    "score": 48,
+    "globalRank": 52685
   },
   {
     "login": "ddatsko",
@@ -8733,7 +9356,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 624,
-    "score": 892
+    "score": 892,
+    "globalRank": 52686
   },
   {
     "login": "exyi",
@@ -8747,7 +9371,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 625,
-    "score": 257
+    "score": 257,
+    "globalRank": 52687
   },
   {
     "login": "ticcky",
@@ -8761,7 +9386,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 626,
-    "score": 90
+    "score": 90,
+    "globalRank": 52688
   },
   {
     "login": "LoriLori",
@@ -8775,7 +9401,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 627,
-    "score": 48
+    "score": 48,
+    "globalRank": 52689
   },
   {
     "login": "spayd",
@@ -8789,7 +9416,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 628,
-    "score": 48
+    "score": 48,
+    "globalRank": 52690
   },
   {
     "login": "sputnikus",
@@ -8803,7 +9431,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 629,
-    "score": 476
+    "score": 476,
+    "globalRank": 52691
   },
   {
     "login": "galou",
@@ -8817,7 +9446,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 630,
-    "score": 138
+    "score": 138,
+    "globalRank": 53175
   },
   {
     "login": "petr-hejda",
@@ -8831,7 +9461,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 631,
-    "score": 357
+    "score": 357,
+    "globalRank": 53176
   },
   {
     "login": "netri",
@@ -8845,7 +9476,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 632,
-    "score": 47
+    "score": 47,
+    "globalRank": 53177
   },
   {
     "login": "PetrHeinz",
@@ -8859,7 +9491,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 633,
-    "score": 883
+    "score": 883,
+    "globalRank": 53178
   },
   {
     "login": "galfar",
@@ -8873,7 +9506,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 634,
-    "score": 61
+    "score": 61,
+    "globalRank": 53179
   },
   {
     "login": "alxndlk",
@@ -8887,7 +9521,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 635,
-    "score": 159
+    "score": 159,
+    "globalRank": 53180
   },
   {
     "login": "choroba",
@@ -8901,7 +9536,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 636,
-    "score": 13000
+    "score": 13000,
+    "globalRank": 53181
   },
   {
     "login": "dmage",
@@ -8915,7 +9551,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 637,
-    "score": 56
+    "score": 56,
+    "globalRank": 53182
   },
   {
     "login": "humaton",
@@ -8929,7 +9566,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 638,
-    "score": 49
+    "score": 49,
+    "globalRank": 53183
   },
   {
     "login": "freaz",
@@ -8943,7 +9581,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 639,
-    "score": 1443
+    "score": 1443,
+    "globalRank": 53184
   },
   {
     "login": "josefslerka",
@@ -8957,7 +9596,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 640,
-    "score": 50
+    "score": 50,
+    "globalRank": 53185
   },
   {
     "login": "mareknovotny",
@@ -8971,7 +9611,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 641,
-    "score": 558
+    "score": 558,
+    "globalRank": 53186
   },
   {
     "login": "farin",
@@ -8985,7 +9626,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 642,
-    "score": 49
+    "score": 49,
+    "globalRank": 53187
   },
   {
     "login": "tangero",
@@ -8999,7 +9641,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 643,
-    "score": 2190
+    "score": 2190,
+    "globalRank": 53188
   },
   {
     "login": "jamacku",
@@ -9013,7 +9656,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 644,
-    "score": 971
+    "score": 971,
+    "globalRank": 53189
   },
   {
     "login": "gippy",
@@ -9027,7 +9671,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 645,
-    "score": 1128
+    "score": 1128,
+    "globalRank": 53190
   },
   {
     "login": "abaddion",
@@ -9041,7 +9686,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 646,
-    "score": 72
+    "score": 72,
+    "globalRank": 53191
   },
   {
     "login": "arax",
@@ -9055,7 +9701,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 647,
-    "score": 47
+    "score": 47,
+    "globalRank": 53192
   },
   {
     "login": "code-of-kpp",
@@ -9069,7 +9716,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 648,
-    "score": 57
+    "score": 57,
+    "globalRank": 53193
   },
   {
     "login": "botafi",
@@ -9083,7 +9731,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 649,
-    "score": 466
+    "score": 466,
+    "globalRank": 53194
   },
   {
     "login": "cajthamlmatej",
@@ -9097,7 +9746,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 650,
-    "score": 1690
+    "score": 1690,
+    "globalRank": 53195
   },
   {
     "login": "stekycz",
@@ -9111,7 +9761,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 651,
-    "score": 1092
+    "score": 1092,
+    "globalRank": 53196
   },
   {
     "login": "vaclav",
@@ -9125,7 +9776,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 652,
-    "score": 473
+    "score": 473,
+    "globalRank": 53197
   },
   {
     "login": "lukaskonarovsky",
@@ -9139,7 +9791,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 653,
-    "score": 47
+    "score": 47,
+    "globalRank": 53198
   },
   {
     "login": "scholtz",
@@ -9153,7 +9806,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 654,
-    "score": 2420
+    "score": 2420,
+    "globalRank": 53671
   },
   {
     "login": "spetex",
@@ -9167,7 +9821,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 655,
-    "score": 46
+    "score": 46,
+    "globalRank": 53672
   },
   {
     "login": "jpopelka",
@@ -9181,7 +9836,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 656,
-    "score": 129
+    "score": 129,
+    "globalRank": 53673
   },
   {
     "login": "janedbal",
@@ -9195,7 +9851,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 657,
-    "score": 789
+    "score": 789,
+    "globalRank": 53674
   },
   {
     "login": "harby",
@@ -9209,7 +9866,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 658,
-    "score": 46
+    "score": 46,
+    "globalRank": 53675
   },
   {
     "login": "tomkis",
@@ -9223,7 +9881,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 659,
-    "score": 2648
+    "score": 2648,
+    "globalRank": 53676
   },
   {
     "login": "pristas-peter",
@@ -9237,7 +9896,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 660,
-    "score": 343
+    "score": 343,
+    "globalRank": 53677
   },
   {
     "login": "VeeeneX",
@@ -9251,7 +9911,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 661,
-    "score": 2638
+    "score": 2638,
+    "globalRank": 53678
   },
   {
     "login": "Otavioensa",
@@ -9265,7 +9926,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 662,
-    "score": 50
+    "score": 50,
+    "globalRank": 53679
   },
   {
     "login": "MartinBspheroid",
@@ -9279,7 +9941,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 663,
-    "score": 1115
+    "score": 1115,
+    "globalRank": 53680
   },
   {
     "login": "Pajk",
@@ -9293,7 +9956,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 664,
-    "score": 283
+    "score": 283,
+    "globalRank": 53681
   },
   {
     "login": "petrpavlik",
@@ -9307,7 +9971,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 665,
-    "score": 1232
+    "score": 1232,
+    "globalRank": 53682
   },
   {
     "login": "pichi",
@@ -9321,7 +9986,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 666,
-    "score": 50
+    "score": 50,
+    "globalRank": 53683
   },
   {
     "login": "padak",
@@ -9335,7 +10001,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 667,
-    "score": 4479
+    "score": 4479,
+    "globalRank": 53684
   },
   {
     "login": "manuelboldrer",
@@ -9349,7 +10016,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 668,
-    "score": 763
+    "score": 763,
+    "globalRank": 53685
   },
   {
     "login": "aramboyajyan",
@@ -9363,7 +10031,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 669,
-    "score": 60
+    "score": 60,
+    "globalRank": 54237
   },
   {
     "login": "tumic0",
@@ -9377,7 +10046,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 670,
-    "score": 880
+    "score": 880,
+    "globalRank": 54238
   },
   {
     "login": "petrdvorak",
@@ -9391,7 +10061,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 671,
-    "score": 104
+    "score": 104,
+    "globalRank": 54239
   },
   {
     "login": "Eremiell",
@@ -9405,7 +10076,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 672,
-    "score": 45
+    "score": 45,
+    "globalRank": 54240
   },
   {
     "login": "xleepy",
@@ -9419,7 +10091,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 673,
-    "score": 292
+    "score": 292,
+    "globalRank": 54241
   },
   {
     "login": "psiroky",
@@ -9433,7 +10106,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 674,
-    "score": 53
+    "score": 53,
+    "globalRank": 54242
   },
   {
     "login": "mpotociar",
@@ -9447,7 +10121,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 675,
-    "score": 45
+    "score": 45,
+    "globalRank": 54243
   },
   {
     "login": "Pitel",
@@ -9461,7 +10136,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 676,
-    "score": 4953
+    "score": 4953,
+    "globalRank": 54244
   },
   {
     "login": "Blackhex",
@@ -9475,7 +10151,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 677,
-    "score": 349
+    "score": 349,
+    "globalRank": 54245
   },
   {
     "login": "T0biasCZe",
@@ -9489,7 +10166,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 678,
-    "score": 110
+    "score": 110,
+    "globalRank": 54246
   },
   {
     "login": "Griperis",
@@ -9503,7 +10181,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 679,
-    "score": 96
+    "score": 96,
+    "globalRank": 54247
   },
   {
     "login": "pjasicek",
@@ -9517,7 +10196,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 680,
-    "score": 378
+    "score": 378,
+    "globalRank": 54248
   },
   {
     "login": "ivanhrabcak",
@@ -9531,7 +10211,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 681,
-    "score": 362
+    "score": 362,
+    "globalRank": 54249
   },
   {
     "login": "martastain",
@@ -9545,7 +10226,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 682,
-    "score": 2984
+    "score": 2984,
+    "globalRank": 54250
   },
   {
     "login": "klukule",
@@ -9559,7 +10241,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 683,
-    "score": 223
+    "score": 223,
+    "globalRank": 54251
   },
   {
     "login": "dalu93",
@@ -9573,7 +10256,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 684,
-    "score": 45
+    "score": 45,
+    "globalRank": 54252
   },
   {
     "login": "legionus",
@@ -9587,7 +10271,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 685,
-    "score": 920
+    "score": 920,
+    "globalRank": 54253
   },
   {
     "login": "alinpahontu2912",
@@ -9601,7 +10286,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 686,
-    "score": 261
+    "score": 261,
+    "globalRank": 54254
   },
   {
     "login": "Svehla",
@@ -9615,7 +10301,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 687,
-    "score": 63
+    "score": 63,
+    "globalRank": 54829
   },
   {
     "login": "janremes",
@@ -9629,7 +10316,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 688,
-    "score": 1195
+    "score": 1195,
+    "globalRank": 54830
   },
   {
     "login": "setnicka",
@@ -9643,7 +10331,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 689,
-    "score": 257
+    "score": 257,
+    "globalRank": 54831
   },
   {
     "login": "mukrop",
@@ -9657,7 +10346,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 690,
-    "score": 52
+    "score": 52,
+    "globalRank": 54832
   },
   {
     "login": "jsnajdr",
@@ -9671,7 +10361,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 691,
-    "score": 609
+    "score": 609,
+    "globalRank": 54833
   },
   {
     "login": "mamash",
@@ -9685,7 +10376,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 692,
-    "score": 358
+    "score": 358,
+    "globalRank": 54834
   },
   {
     "login": "medovina",
@@ -9699,7 +10391,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 693,
-    "score": 630
+    "score": 630,
+    "globalRank": 54835
   },
   {
     "login": "sime",
@@ -9713,7 +10406,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 694,
-    "score": 248
+    "score": 248,
+    "globalRank": 54836
   },
   {
     "login": "josefdolezal",
@@ -9727,7 +10421,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 695,
-    "score": 161
+    "score": 161,
+    "globalRank": 54837
   },
   {
     "login": "alexander-demicev",
@@ -9741,7 +10436,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 696,
-    "score": 541
+    "score": 541,
+    "globalRank": 54838
   },
   {
     "login": "michalkasparek",
@@ -9755,7 +10451,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 697,
-    "score": 150
+    "score": 150,
+    "globalRank": 54839
   },
   {
     "login": "PeterMatula",
@@ -9769,7 +10466,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 698,
-    "score": 60
+    "score": 60,
+    "globalRank": 54840
   },
   {
     "login": "ziky90",
@@ -9783,7 +10481,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 699,
-    "score": 165
+    "score": 165,
+    "globalRank": 54841
   },
   {
     "login": "Krejdom",
@@ -9797,7 +10496,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 700,
-    "score": 44
+    "score": 44,
+    "globalRank": 54842
   },
   {
     "login": "danfis",
@@ -9811,7 +10511,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 701,
-    "score": 59
+    "score": 59,
+    "globalRank": 54843
   },
   {
     "login": "rzikm",
@@ -9825,7 +10526,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 702,
-    "score": 465
+    "score": 465,
+    "globalRank": 54844
   },
   {
     "login": "mayaCostantini",
@@ -9839,7 +10541,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 703,
-    "score": 113
+    "score": 113,
+    "globalRank": 54845
   },
   {
     "login": "jpbochi",
@@ -9853,7 +10556,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 704,
-    "score": 402
+    "score": 402,
+    "globalRank": 54846
   },
   {
     "login": "barjin",
@@ -9867,7 +10571,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 705,
-    "score": 1810
+    "score": 1810,
+    "globalRank": 54847
   },
   {
     "login": "martinmodrak",
@@ -9881,7 +10586,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 706,
-    "score": 28712
+    "score": 28712,
+    "globalRank": 54848
   },
   {
     "login": "lnykryn",
@@ -9895,7 +10601,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 707,
-    "score": 110
+    "score": 110,
+    "globalRank": 55426
   },
   {
     "login": "quentincaffeino",
@@ -9909,7 +10616,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 708,
-    "score": 106
+    "score": 106,
+    "globalRank": 55427
   },
   {
     "login": "adaamz",
@@ -9923,7 +10631,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 709,
-    "score": 52
+    "score": 52,
+    "globalRank": 55428
   },
   {
     "login": "blazek",
@@ -9937,7 +10646,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 710,
-    "score": 53
+    "score": 53,
+    "globalRank": 55429
   },
   {
     "login": "EmptyKeys",
@@ -9951,7 +10661,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 711,
-    "score": 44
+    "score": 44,
+    "globalRank": 55430
   },
   {
     "login": "tesar-tech",
@@ -9965,7 +10676,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 712,
-    "score": 370
+    "score": 370,
+    "globalRank": 55431
   },
   {
     "login": "arturmuller",
@@ -9979,7 +10691,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 713,
-    "score": 735
+    "score": 735,
+    "globalRank": 55432
   },
   {
     "login": "harmim",
@@ -9993,7 +10706,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 714,
-    "score": 69
+    "score": 69,
+    "globalRank": 55433
   },
   {
     "login": "jkvetina",
@@ -10007,7 +10721,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 715,
-    "score": 5379
+    "score": 5379,
+    "globalRank": 55434
   },
   {
     "login": "widlarizer",
@@ -10021,7 +10736,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 716,
-    "score": 1185
+    "score": 1185,
+    "globalRank": 55435
   },
   {
     "login": "enzy",
@@ -10035,7 +10751,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 717,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 55436
   },
   {
     "login": "premun",
@@ -10049,7 +10766,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 718,
-    "score": 3121
+    "score": 3121,
+    "globalRank": 55437
   },
   {
     "login": "polakjan",
@@ -10063,7 +10781,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 719,
-    "score": 43
+    "score": 43,
+    "globalRank": 55438
   },
   {
     "login": "lspdv",
@@ -10077,7 +10796,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 720,
-    "score": 47
+    "score": 47,
+    "globalRank": 55439
   },
   {
     "login": "HakubJozak",
@@ -10091,7 +10811,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 721,
-    "score": 2027
+    "score": 2027,
+    "globalRank": 55440
   },
   {
     "login": "JakubMrozek",
@@ -10105,7 +10826,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 722,
-    "score": 2306
+    "score": 2306,
+    "globalRank": 55441
   },
   {
     "login": "van800",
@@ -10119,7 +10841,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 723,
-    "score": 730
+    "score": 730,
+    "globalRank": 55442
   },
   {
     "login": "hernikplays",
@@ -10133,7 +10856,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 724,
-    "score": 1127
+    "score": 1127,
+    "globalRank": 55443
   },
   {
     "login": "RomanHodulak",
@@ -10147,7 +10871,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 725,
-    "score": 1132
+    "score": 1132,
+    "globalRank": 55444
   },
   {
     "login": "Pustelto",
@@ -10161,7 +10886,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 726,
-    "score": 206
+    "score": 206,
+    "globalRank": 55445
   },
   {
     "login": "jagotu",
@@ -10175,7 +10901,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 727,
-    "score": 48
+    "score": 48,
+    "globalRank": 56067
   },
   {
     "login": "YoukouTenhouin",
@@ -10189,7 +10916,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 728,
-    "score": 611
+    "score": 611,
+    "globalRank": 56068
   },
   {
     "login": "lukasmrtvy",
@@ -10203,7 +10931,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 729,
-    "score": 1358
+    "score": 1358,
+    "globalRank": 56069
   },
   {
     "login": "adamkudrna",
@@ -10217,7 +10946,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 730,
-    "score": 241
+    "score": 241,
+    "globalRank": 56070
   },
   {
     "login": "mishak87",
@@ -10231,7 +10961,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 731,
-    "score": 42
+    "score": 42,
+    "globalRank": 56071
   },
   {
     "login": "malinajan",
@@ -10245,7 +10976,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 732,
-    "score": 761
+    "score": 761,
+    "globalRank": 56072
   },
   {
     "login": "ilblog",
@@ -10259,7 +10991,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 733,
-    "score": 43
+    "score": 43,
+    "globalRank": 56073
   },
   {
     "login": "vvondra",
@@ -10273,7 +11006,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 734,
-    "score": 390
+    "score": 390,
+    "globalRank": 56074
   },
   {
     "login": "DSroD",
@@ -10287,7 +11021,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 735,
-    "score": 291
+    "score": 291,
+    "globalRank": 56075
   },
   {
     "login": "valorcz",
@@ -10301,7 +11036,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 736,
-    "score": 138
+    "score": 138,
+    "globalRank": 56076
   },
   {
     "login": "onovy",
@@ -10315,7 +11051,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 737,
-    "score": 208
+    "score": 208,
+    "globalRank": 56077
   },
   {
     "login": "username0x0a",
@@ -10329,7 +11066,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 738,
-    "score": 82
+    "score": 82,
+    "globalRank": 56078
   },
   {
     "login": "fpytloun",
@@ -10343,7 +11081,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 739,
-    "score": 1964
+    "score": 1964,
+    "globalRank": 56079
   },
   {
     "login": "w-vi",
@@ -10357,7 +11096,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 740,
-    "score": 63
+    "score": 63,
+    "globalRank": 56080
   },
   {
     "login": "hacxman",
@@ -10371,7 +11111,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 741,
-    "score": 44
+    "score": 44,
+    "globalRank": 56081
   },
   {
     "login": "acquayefrank",
@@ -10385,7 +11126,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 742,
-    "score": 202
+    "score": 202,
+    "globalRank": 56082
   },
   {
     "login": "JanPokorny",
@@ -10399,7 +11141,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 743,
-    "score": 1925
+    "score": 1925,
+    "globalRank": 56083
   },
   {
     "login": "ondrabus",
@@ -10413,7 +11156,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 744,
-    "score": 43
+    "score": 43,
+    "globalRank": 56084
   },
   {
     "login": "ateska",
@@ -10427,7 +11171,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 745,
-    "score": 363
+    "score": 363,
+    "globalRank": 56085
   },
   {
     "login": "elqsar",
@@ -10441,7 +11186,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 746,
-    "score": 278
+    "score": 278,
+    "globalRank": 56724
   },
   {
     "login": "dmatej",
@@ -10455,7 +11201,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 747,
-    "score": 1687
+    "score": 1687,
+    "globalRank": 56725
   },
   {
     "login": "KUTlime",
@@ -10469,7 +11216,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 748,
-    "score": 938
+    "score": 938,
+    "globalRank": 56726
   },
   {
     "login": "TTtie",
@@ -10483,7 +11231,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 749,
-    "score": 573
+    "score": 573,
+    "globalRank": 56727
   },
   {
     "login": "mezantrop",
@@ -10497,7 +11246,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 750,
-    "score": 155
+    "score": 155,
+    "globalRank": 56728
   },
   {
     "login": "Indy2222",
@@ -10511,7 +11261,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 751,
-    "score": 637
+    "score": 637,
+    "globalRank": 56729
   },
   {
     "login": "kysely",
@@ -10525,7 +11276,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 752,
-    "score": 896
+    "score": 896,
+    "globalRank": 56730
   },
   {
     "login": "jreidinger",
@@ -10539,7 +11291,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 753,
-    "score": 1151
+    "score": 1151,
+    "globalRank": 56731
   },
   {
     "login": "jiriklepl",
@@ -10553,7 +11306,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 754,
-    "score": 1228
+    "score": 1228,
+    "globalRank": 56732
   },
   {
     "login": "tinazhouhui",
@@ -10567,7 +11321,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 755,
-    "score": 1368
+    "score": 1368,
+    "globalRank": 56733
   },
   {
     "login": "Halama",
@@ -10581,7 +11336,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 756,
-    "score": 8154
+    "score": 8154,
+    "globalRank": 56734
   },
   {
     "login": "no23reason",
@@ -10595,7 +11351,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 757,
-    "score": 3728
+    "score": 3728,
+    "globalRank": 56735
   },
   {
     "login": "ProkopHapala",
@@ -10609,7 +11366,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 758,
-    "score": 293
+    "score": 293,
+    "globalRank": 56736
   },
   {
     "login": "jamhed",
@@ -10623,7 +11381,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 759,
-    "score": 1878
+    "score": 1878,
+    "globalRank": 56737
   },
   {
     "login": "idmitrievsky",
@@ -10637,7 +11396,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 760,
-    "score": 44
+    "score": 44,
+    "globalRank": 56738
   },
   {
     "login": "asotona",
@@ -10651,7 +11411,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 761,
-    "score": 345
+    "score": 345,
+    "globalRank": 56739
   },
   {
     "login": "cleveHEX",
@@ -10665,7 +11426,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 762,
-    "score": 75
+    "score": 75,
+    "globalRank": 56740
   },
   {
     "login": "gkordo",
@@ -10679,7 +11441,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 763,
-    "score": 103
+    "score": 103,
+    "globalRank": 56741
   },
   {
     "login": "Werkov",
@@ -10693,7 +11456,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 764,
-    "score": 154
+    "score": 154,
+    "globalRank": 56742
   },
   {
     "login": "Gldkslfmsd",
@@ -10707,7 +11471,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 765,
-    "score": 323
+    "score": 323,
+    "globalRank": 57381
   },
   {
     "login": "GamingasCZ",
@@ -10721,7 +11486,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 766,
-    "score": 216
+    "score": 216,
+    "globalRank": 57382
   },
   {
     "login": "emifloofy",
@@ -10735,7 +11501,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 767,
-    "score": 104
+    "score": 104,
+    "globalRank": 57383
   },
   {
     "login": "elvircrn",
@@ -10749,7 +11516,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 768,
-    "score": 804
+    "score": 804,
+    "globalRank": 57384
   },
   {
     "login": "japod",
@@ -10763,7 +11531,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 769,
-    "score": 40
+    "score": 40,
+    "globalRank": 57385
   },
   {
     "login": "ptesarik",
@@ -10777,7 +11546,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 770,
-    "score": 90
+    "score": 90,
+    "globalRank": 57386
   },
   {
     "login": "TomasRoj",
@@ -10791,7 +11561,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 771,
-    "score": 121
+    "score": 121,
+    "globalRank": 57387
   },
   {
     "login": "dominik-hadl",
@@ -10805,7 +11576,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 772,
-    "score": 479
+    "score": 479,
+    "globalRank": 57388
   },
   {
     "login": "pemensik",
@@ -10819,7 +11591,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 773,
-    "score": 142
+    "score": 142,
+    "globalRank": 57389
   },
   {
     "login": "rasvob",
@@ -10833,7 +11606,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 774,
-    "score": 49
+    "score": 49,
+    "globalRank": 57390
   },
   {
     "login": "martinholovsky",
@@ -10847,7 +11621,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 775,
-    "score": 112
+    "score": 112,
+    "globalRank": 57391
   },
   {
     "login": "karliatto",
@@ -10861,7 +11636,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 776,
-    "score": 1418
+    "score": 1418,
+    "globalRank": 57392
   },
   {
     "login": "stransky",
@@ -10875,7 +11651,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 777,
-    "score": 99
+    "score": 99,
+    "globalRank": 57393
   },
   {
     "login": "serycjon",
@@ -10889,7 +11666,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 778,
-    "score": 140
+    "score": 140,
+    "globalRank": 57394
   },
   {
     "login": "JuryA",
@@ -10903,7 +11681,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 779,
-    "score": 102
+    "score": 102,
+    "globalRank": 57995
   },
   {
     "login": "sorashi",
@@ -10917,7 +11696,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 780,
-    "score": 272
+    "score": 272,
+    "globalRank": 57996
   },
   {
     "login": "DeXP",
@@ -10931,7 +11711,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 781,
-    "score": 212
+    "score": 212,
+    "globalRank": 57997
   },
   {
     "login": "jajcayn",
@@ -10945,7 +11726,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 782,
-    "score": 2288
+    "score": 2288,
+    "globalRank": 57998
   },
   {
     "login": "andreaulicna",
@@ -10959,7 +11741,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 783,
-    "score": 45
+    "score": 45,
+    "globalRank": 57999
   },
   {
     "login": "alexedev",
@@ -10973,7 +11756,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 784,
-    "score": 39
+    "score": 39,
+    "globalRank": 58000
   },
   {
     "login": "Novaes",
@@ -10987,7 +11771,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 785,
-    "score": 236
+    "score": 236,
+    "globalRank": 58001
   },
   {
     "login": "richardbiely",
@@ -11001,7 +11786,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 786,
-    "score": 2665
+    "score": 2665,
+    "globalRank": 58002
   },
   {
     "login": "jktjkt",
@@ -11015,7 +11801,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 787,
-    "score": 693
+    "score": 693,
+    "globalRank": 58003
   },
   {
     "login": "lubomirblazekcz",
@@ -11029,7 +11816,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 788,
-    "score": 550
+    "score": 550,
+    "globalRank": 58004
   },
   {
     "login": "miska",
@@ -11043,7 +11831,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 789,
-    "score": 333
+    "score": 333,
+    "globalRank": 58005
   },
   {
     "login": "FilipJirsak",
@@ -11057,7 +11846,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 790,
-    "score": 195
+    "score": 195,
+    "globalRank": 58006
   },
   {
     "login": "petertoth",
@@ -11071,7 +11861,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 791,
-    "score": 1116
+    "score": 1116,
+    "globalRank": 58007
   },
   {
     "login": "mhajas",
@@ -11085,7 +11876,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 792,
-    "score": 97
+    "score": 97,
+    "globalRank": 58008
   },
   {
     "login": "eternalvision",
@@ -11099,7 +11891,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 793,
-    "score": 79
+    "score": 79,
+    "globalRank": 58009
   },
   {
     "login": "Aearsis",
@@ -11113,7 +11906,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 794,
-    "score": 39
+    "score": 39,
+    "globalRank": 58010
   },
   {
     "login": "ognevsky",
@@ -11127,7 +11921,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 795,
-    "score": 895
+    "score": 895,
+    "globalRank": 58011
   },
   {
     "login": "georgy",
@@ -11141,7 +11936,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 796,
-    "score": 72
+    "score": 72,
+    "globalRank": 58664
   },
   {
     "login": "JanSimek",
@@ -11155,7 +11951,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 797,
-    "score": 273
+    "score": 273,
+    "globalRank": 58665
   },
   {
     "login": "bogomil",
@@ -11169,7 +11966,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 798,
-    "score": 54
+    "score": 54,
+    "globalRank": 58666
   },
   {
     "login": "MrLarkyy",
@@ -11183,7 +11981,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 799,
-    "score": 2844
+    "score": 2844,
+    "globalRank": 58667
   },
   {
     "login": "jirkapenzes",
@@ -11197,7 +11996,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 800,
-    "score": 429
+    "score": 429,
+    "globalRank": 58668
   },
   {
     "login": "spiwokv",
@@ -11211,7 +12011,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 801,
-    "score": 51
+    "score": 51,
+    "globalRank": 58669
   },
   {
     "login": "antond15",
@@ -11225,7 +12026,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 802,
-    "score": 1521
+    "score": 1521,
+    "globalRank": 58670
   },
   {
     "login": "C0rn3j",
@@ -11239,7 +12041,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 803,
-    "score": 1153
+    "score": 1153,
+    "globalRank": 58671
   },
   {
     "login": "robinbortlik",
@@ -11253,7 +12056,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 804,
-    "score": 1806
+    "score": 1806,
+    "globalRank": 58672
   },
   {
     "login": "zatkoma",
@@ -11267,7 +12071,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 805,
-    "score": 2346
+    "score": 2346,
+    "globalRank": 58673
   },
   {
     "login": "Amir-Ashkezari",
@@ -11281,7 +12086,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 806,
-    "score": 38
+    "score": 38,
+    "globalRank": 58674
   },
   {
     "login": "livthomas",
@@ -11295,7 +12101,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 807,
-    "score": 1040
+    "score": 1040,
+    "globalRank": 58675
   },
   {
     "login": "jerguslejko",
@@ -11309,7 +12116,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 808,
-    "score": 2692
+    "score": 2692,
+    "globalRank": 58676
   },
   {
     "login": "Hurtak",
@@ -11323,7 +12131,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 809,
-    "score": 1540
+    "score": 1540,
+    "globalRank": 58677
   },
   {
     "login": "atahanceylan",
@@ -11337,7 +12146,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 810,
-    "score": 46
+    "score": 46,
+    "globalRank": 58678
   },
   {
     "login": "semanticer",
@@ -11351,7 +12161,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 811,
-    "score": 751
+    "score": 751,
+    "globalRank": 58679
   },
   {
     "login": "freeseacher",
@@ -11365,7 +12176,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 812,
-    "score": 97
+    "score": 97,
+    "globalRank": 58680
   },
   {
     "login": "MikeKovarik",
@@ -11379,7 +12191,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 813,
-    "score": 1984
+    "score": 1984,
+    "globalRank": 58681
   },
   {
     "login": "PetrKorab",
@@ -11393,7 +12206,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 814,
-    "score": 154
+    "score": 154,
+    "globalRank": 58682
   },
   {
     "login": "OnnaMcadva",
@@ -11407,7 +12221,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 815,
-    "score": 1241
+    "score": 1241,
+    "globalRank": 58683
   },
   {
     "login": "diggit",
@@ -11421,7 +12236,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 816,
-    "score": 89
+    "score": 89,
+    "globalRank": 58684
   },
   {
     "login": "wladich",
@@ -11435,7 +12251,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 817,
-    "score": 159
+    "score": 159,
+    "globalRank": 59296
   },
   {
     "login": "pavelkraleu",
@@ -11449,7 +12266,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 818,
-    "score": 44
+    "score": 44,
+    "globalRank": 59297
   },
   {
     "login": "ccomrade",
@@ -11463,7 +12281,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 819,
-    "score": 686
+    "score": 686,
+    "globalRank": 59298
   },
   {
     "login": "maksymdobrynin",
@@ -11477,7 +12296,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 820,
-    "score": 47
+    "score": 47,
+    "globalRank": 59299
   },
   {
     "login": "Soothsilver",
@@ -11491,7 +12311,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 821,
-    "score": 40
+    "score": 40,
+    "globalRank": 59300
   },
   {
     "login": "jsduenass",
@@ -11505,7 +12326,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 822,
-    "score": 37
+    "score": 37,
+    "globalRank": 59301
   },
   {
     "login": "slowbackspace",
@@ -11519,7 +12341,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 823,
-    "score": 1800
+    "score": 1800,
+    "globalRank": 59302
   },
   {
     "login": "lunemec",
@@ -11533,7 +12356,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 824,
-    "score": 231
+    "score": 231,
+    "globalRank": 59303
   },
   {
     "login": "svarnypetr",
@@ -11547,7 +12371,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 825,
-    "score": 268
+    "score": 268,
+    "globalRank": 59304
   },
   {
     "login": "fernflower",
@@ -11561,7 +12386,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 826,
-    "score": 74
+    "score": 74,
+    "globalRank": 59305
   },
   {
     "login": "yellowgh0st",
@@ -11575,7 +12401,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 827,
-    "score": 40
+    "score": 40,
+    "globalRank": 59306
   },
   {
     "login": "lstehlik2809",
@@ -11589,7 +12416,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 828,
-    "score": 264
+    "score": 264,
+    "globalRank": 59307
   },
   {
     "login": "jirkamarsik",
@@ -11603,7 +12431,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 829,
-    "score": 349
+    "score": 349,
+    "globalRank": 59308
   },
   {
     "login": "mir4a",
@@ -11617,7 +12446,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 830,
-    "score": 1017
+    "score": 1017,
+    "globalRank": 59309
   },
   {
     "login": "ZacWalk",
@@ -11631,7 +12461,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 831,
-    "score": 145
+    "score": 145,
+    "globalRank": 59310
   },
   {
     "login": "ekazakos",
@@ -11645,7 +12476,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 832,
-    "score": 56
+    "score": 56,
+    "globalRank": 59311
   },
   {
     "login": "balhar-jakub",
@@ -11659,7 +12491,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 833,
-    "score": 233
+    "score": 233,
+    "globalRank": 59312
   },
   {
     "login": "Ludomancer",
@@ -11673,7 +12506,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 834,
-    "score": 38
+    "score": 38,
+    "globalRank": 59313
   },
   {
     "login": "blechta",
@@ -11687,7 +12521,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 835,
-    "score": 49
+    "score": 49,
+    "globalRank": 59314
   },
   {
     "login": "JanPetr",
@@ -11701,7 +12536,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 836,
-    "score": 1181
+    "score": 1181,
+    "globalRank": 59315
   },
   {
     "login": "vbmacher",
@@ -11715,7 +12551,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 837,
-    "score": 459
+    "score": 459,
+    "globalRank": 59316
   },
   {
     "login": "Pajenicko",
@@ -11729,7 +12566,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 838,
-    "score": 109
+    "score": 109,
+    "globalRank": 59317
   },
   {
     "login": "siroky",
@@ -11743,7 +12581,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 839,
-    "score": 182
+    "score": 182,
+    "globalRank": 59318
   },
   {
     "login": "kafejo",
@@ -11757,7 +12596,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 840,
-    "score": 38
+    "score": 38,
+    "globalRank": 59319
   },
   {
     "login": "viktormalik",
@@ -11771,7 +12611,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 841,
-    "score": 585
+    "score": 585,
+    "globalRank": 59320
   },
   {
     "login": "mskl",
@@ -11785,7 +12626,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 842,
-    "score": 2265
+    "score": 2265,
+    "globalRank": 59321
   },
   {
     "login": "LilyStilson",
@@ -11799,7 +12641,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 843,
-    "score": 967
+    "score": 967,
+    "globalRank": 59322
   },
   {
     "login": "damianhorna",
@@ -11813,7 +12656,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 844,
-    "score": 108
+    "score": 108,
+    "globalRank": 59323
   },
   {
     "login": "aellopos",
@@ -11827,7 +12671,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 845,
-    "score": 38
+    "score": 38,
+    "globalRank": 59324
   },
   {
     "login": "besimgurbuz",
@@ -11841,7 +12686,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 846,
-    "score": 125
+    "score": 125,
+    "globalRank": 59325
   },
   {
     "login": "Alirun",
@@ -11855,7 +12701,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 847,
-    "score": 1193
+    "score": 1193,
+    "globalRank": 59326
   },
   {
     "login": "rkadlec",
@@ -11869,7 +12716,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 848,
-    "score": 36
+    "score": 36,
+    "globalRank": 60011
   },
   {
     "login": "umutkoksaldi",
@@ -11883,7 +12731,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 849,
-    "score": 36
+    "score": 36,
+    "globalRank": 60012
   },
   {
     "login": "mgajdos",
@@ -11897,7 +12746,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 850,
-    "score": 36
+    "score": 36,
+    "globalRank": 60013
   },
   {
     "login": "sophieH29",
@@ -11911,7 +12761,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 851,
-    "score": 36
+    "score": 36,
+    "globalRank": 60014
   },
   {
     "login": "Lastaapps",
@@ -11925,7 +12776,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 852,
-    "score": 522
+    "score": 522,
+    "globalRank": 60015
   },
   {
     "login": "ondt",
@@ -11939,7 +12791,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 853,
-    "score": 414
+    "score": 414,
+    "globalRank": 60016
   },
   {
     "login": "diananova",
@@ -11953,7 +12806,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 854,
-    "score": 40
+    "score": 40,
+    "globalRank": 60017
   },
   {
     "login": "DartCZ",
@@ -11967,7 +12821,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 855,
-    "score": 46
+    "score": 46,
+    "globalRank": 60018
   },
   {
     "login": "gyfis",
@@ -11981,7 +12836,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 856,
-    "score": 5732
+    "score": 5732,
+    "globalRank": 60019
   },
   {
     "login": "zdnk",
@@ -11995,7 +12851,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 857,
-    "score": 6996
+    "score": 6996,
+    "globalRank": 60020
   },
   {
     "login": "IGPenguin",
@@ -12009,7 +12866,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 858,
-    "score": 796
+    "score": 796,
+    "globalRank": 60021
   },
   {
     "login": "JanProvaznik",
@@ -12023,7 +12881,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 859,
-    "score": 950
+    "score": 950,
+    "globalRank": 60022
   },
   {
     "login": "hosek",
@@ -12037,7 +12896,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 860,
-    "score": 146
+    "score": 146,
+    "globalRank": 60023
   },
   {
     "login": "OrkhanHuseynli",
@@ -12051,7 +12911,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 861,
-    "score": 47
+    "score": 47,
+    "globalRank": 60024
   },
   {
     "login": "Kysela",
@@ -12065,7 +12926,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 862,
-    "score": 861
+    "score": 861,
+    "globalRank": 60025
   },
   {
     "login": "jiridanek",
@@ -12079,7 +12941,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 863,
-    "score": 2910
+    "score": 2910,
+    "globalRank": 60026
   },
   {
     "login": "hejld",
@@ -12093,7 +12956,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 864,
-    "score": 398
+    "score": 398,
+    "globalRank": 60027
   },
   {
     "login": "ujovlado",
@@ -12107,7 +12971,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 865,
-    "score": 1508
+    "score": 1508,
+    "globalRank": 60028
   },
   {
     "login": "msekletar",
@@ -12121,7 +12986,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 866,
-    "score": 153
+    "score": 153,
+    "globalRank": 60029
   },
   {
     "login": "petrkohut",
@@ -12135,7 +13001,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 867,
-    "score": 1438
+    "score": 1438,
+    "globalRank": 60030
   },
   {
     "login": "baresmax",
@@ -12149,7 +13016,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 868,
-    "score": 36
+    "score": 36,
+    "globalRank": 60031
   },
   {
     "login": "cernymatej",
@@ -12163,7 +13031,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 869,
-    "score": 3269
+    "score": 3269,
+    "globalRank": 60032
   },
   {
     "login": "jakubjezek001",
@@ -12177,7 +13046,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 870,
-    "score": 1494
+    "score": 1494,
+    "globalRank": 60033
   },
   {
     "login": "hansek",
@@ -12191,7 +13061,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 871,
-    "score": 36
+    "score": 36,
+    "globalRank": 60034
   },
   {
     "login": "honzasladek",
@@ -12205,7 +13076,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 872,
-    "score": 5267
+    "score": 5267,
+    "globalRank": 60035
   },
   {
     "login": "LukasCaha",
@@ -12219,7 +13091,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 873,
-    "score": 1692
+    "score": 1692,
+    "globalRank": 60036
   },
   {
     "login": "Rigos0",
@@ -12233,7 +13106,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 874,
-    "score": 3506
+    "score": 3506,
+    "globalRank": 60037
   },
   {
     "login": "mouracamila",
@@ -12247,7 +13121,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 875,
-    "score": 36
+    "score": 36,
+    "globalRank": 60038
   },
   {
     "login": "rosenbergm",
@@ -12261,7 +13136,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 876,
-    "score": 642
+    "score": 642,
+    "globalRank": 60039
   },
   {
     "login": "exdis",
@@ -12275,7 +13151,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 877,
-    "score": 319
+    "score": 319,
+    "globalRank": 60040
   },
   {
     "login": "pchlupacek",
@@ -12289,7 +13166,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 878,
-    "score": 41
+    "score": 41,
+    "globalRank": 60041
   },
   {
     "login": "me2d13",
@@ -12303,7 +13181,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 879,
-    "score": 147
+    "score": 147,
+    "globalRank": 60717
   },
   {
     "login": "yruslan",
@@ -12317,7 +13196,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 880,
-    "score": 1213
+    "score": 1213,
+    "globalRank": 60718
   },
   {
     "login": "marysieek",
@@ -12331,7 +13211,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 881,
-    "score": 2560
+    "score": 2560,
+    "globalRank": 60719
   },
   {
     "login": "erhankur",
@@ -12345,7 +13226,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 882,
-    "score": 435
+    "score": 435,
+    "globalRank": 60720
   },
   {
     "login": "jindraivanek",
@@ -12359,7 +13241,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 883,
-    "score": 47
+    "score": 47,
+    "globalRank": 60721
   },
   {
     "login": "Cuchulain",
@@ -12373,7 +13256,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 884,
-    "score": 560
+    "score": 560,
+    "globalRank": 60722
   },
   {
     "login": "lslezak",
@@ -12387,7 +13271,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 885,
-    "score": 853
+    "score": 853,
+    "globalRank": 60723
   },
   {
     "login": "formanektomas",
@@ -12401,7 +13286,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 886,
-    "score": 572
+    "score": 572,
+    "globalRank": 60724
   },
   {
     "login": "Adam014",
@@ -12415,7 +13301,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 887,
-    "score": 2752
+    "score": 2752,
+    "globalRank": 60725
   },
   {
     "login": "programLyrique",
@@ -12429,7 +13316,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 888,
-    "score": 1151
+    "score": 1151,
+    "globalRank": 60726
   },
   {
     "login": "honzabrecka",
@@ -12443,7 +13331,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 889,
-    "score": 37
+    "score": 37,
+    "globalRank": 60727
   },
   {
     "login": "kursadcayir",
@@ -12457,7 +13346,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 890,
-    "score": 35
+    "score": 35,
+    "globalRank": 60728
   },
   {
     "login": "frantisek901",
@@ -12471,7 +13361,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 891,
-    "score": 324
+    "score": 324,
+    "globalRank": 60729
   },
   {
     "login": "lanesket",
@@ -12485,7 +13376,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 892,
-    "score": 454
+    "score": 454,
+    "globalRank": 60730
   },
   {
     "login": "wayneshn",
@@ -12499,7 +13391,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 893,
-    "score": 1077
+    "score": 1077,
+    "globalRank": 60731
   },
   {
     "login": "TheRamsay",
@@ -12513,7 +13406,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 894,
-    "score": 981
+    "score": 981,
+    "globalRank": 60732
   },
   {
     "login": "valenpe7",
@@ -12527,7 +13421,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 895,
-    "score": 107
+    "score": 107,
+    "globalRank": 60733
   },
   {
     "login": "jakubklimek",
@@ -12541,7 +13436,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 896,
-    "score": 1100
+    "score": 1100,
+    "globalRank": 60734
   },
   {
     "login": "patriciamar",
@@ -12555,7 +13451,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 897,
-    "score": 51
+    "score": 51,
+    "globalRank": 60735
   },
   {
     "login": "techee",
@@ -12569,7 +13466,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 898,
-    "score": 233
+    "score": 233,
+    "globalRank": 60736
   },
   {
     "login": "landgraf",
@@ -12583,7 +13481,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 899,
-    "score": 47
+    "score": 47,
+    "globalRank": 60737
   },
   {
     "login": "matthlavacka",
@@ -12597,7 +13496,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 900,
-    "score": 442
+    "score": 442,
+    "globalRank": 60738
   },
   {
     "login": "martinpovolny",
@@ -12611,7 +13511,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 901,
-    "score": 418
+    "score": 418,
+    "globalRank": 60739
   },
   {
     "login": "Jirka-Mayer",
@@ -12625,7 +13526,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 902,
-    "score": 523
+    "score": 523,
+    "globalRank": 60740
   },
   {
     "login": "vitbokisch",
@@ -12639,7 +13541,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 903,
-    "score": 5698
+    "score": 5698,
+    "globalRank": 60741
   },
   {
     "login": "ismailgunayy",
@@ -12653,7 +13556,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 904,
-    "score": 865
+    "score": 865,
+    "globalRank": 60742
   },
   {
     "login": "Tomucha",
@@ -12667,7 +13571,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 905,
-    "score": 114
+    "score": 114,
+    "globalRank": 61436
   },
   {
     "login": "vojtechtrefny",
@@ -12681,7 +13586,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 906,
-    "score": 1517
+    "score": 1517,
+    "globalRank": 61437
   },
   {
     "login": "ocetnik",
@@ -12695,7 +13601,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 907,
-    "score": 307
+    "score": 307,
+    "globalRank": 61438
   },
   {
     "login": "jakubknejzlik",
@@ -12709,7 +13616,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 908,
-    "score": 555
+    "score": 555,
+    "globalRank": 61439
   },
   {
     "login": "MartinKral",
@@ -12723,7 +13631,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 909,
-    "score": 37
+    "score": 37,
+    "globalRank": 61440
   },
   {
     "login": "filak-sap",
@@ -12737,7 +13646,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 910,
-    "score": 134
+    "score": 134,
+    "globalRank": 61441
   },
   {
     "login": "Seraff",
@@ -12751,7 +13661,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 911,
-    "score": 120
+    "score": 120,
+    "globalRank": 61442
   },
   {
     "login": "jiri-janousek",
@@ -12765,7 +13676,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 912,
-    "score": 34
+    "score": 34,
+    "globalRank": 61443
   },
   {
     "login": "dfridrich",
@@ -12779,7 +13691,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 913,
-    "score": 3059
+    "score": 3059,
+    "globalRank": 61444
   },
   {
     "login": "DoctorGester",
@@ -12793,7 +13706,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 914,
-    "score": 1541
+    "score": 1541,
+    "globalRank": 61445
   },
   {
     "login": "rembish",
@@ -12807,7 +13721,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 915,
-    "score": 569
+    "score": 569,
+    "globalRank": 61446
   },
   {
     "login": "parakhm95",
@@ -12821,7 +13736,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 916,
-    "score": 930
+    "score": 930,
+    "globalRank": 61447
   },
   {
     "login": "MultiTricker",
@@ -12835,7 +13751,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 917,
-    "score": 245
+    "score": 245,
+    "globalRank": 61448
   },
   {
     "login": "wilx",
@@ -12849,7 +13766,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 918,
-    "score": 235
+    "score": 235,
+    "globalRank": 61449
   },
   {
     "login": "VojtechBartoska",
@@ -12863,7 +13781,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 919,
-    "score": 34
+    "score": 34,
+    "globalRank": 61450
   },
   {
     "login": "mkacmar",
@@ -12877,7 +13796,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 920,
-    "score": 641
+    "score": 641,
+    "globalRank": 61451
   },
   {
     "login": "ra100",
@@ -12891,7 +13811,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 921,
-    "score": 1028
+    "score": 1028,
+    "globalRank": 61452
   },
   {
     "login": "Robyer",
@@ -12905,7 +13826,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 922,
-    "score": 82
+    "score": 82,
+    "globalRank": 61453
   },
   {
     "login": "slavokozar",
@@ -12919,7 +13841,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 923,
-    "score": 63
+    "score": 63,
+    "globalRank": 61454
   },
   {
     "login": "kopkaa",
@@ -12933,7 +13856,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 924,
-    "score": 195
+    "score": 195,
+    "globalRank": 61455
   },
   {
     "login": "jan-martinek",
@@ -12947,7 +13871,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 925,
-    "score": 994
+    "score": 994,
+    "globalRank": 61456
   },
   {
     "login": "salax",
@@ -12961,7 +13886,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 926,
-    "score": 35
+    "score": 35,
+    "globalRank": 61457
   },
   {
     "login": "wajda",
@@ -12975,7 +13901,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 927,
-    "score": 488
+    "score": 488,
+    "globalRank": 61458
   },
   {
     "login": "tsandrini",
@@ -12989,7 +13916,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 928,
-    "score": 425
+    "score": 425,
+    "globalRank": 61459
   },
   {
     "login": "kuzmoyev",
@@ -13003,7 +13931,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 929,
-    "score": 118
+    "score": 118,
+    "globalRank": 61460
   },
   {
     "login": "miladamilli",
@@ -13017,7 +13946,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 930,
-    "score": 421
+    "score": 421,
+    "globalRank": 61461
   },
   {
     "login": "Alykoff",
@@ -13031,7 +13961,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 931,
-    "score": 34
+    "score": 34,
+    "globalRank": 61462
   },
   {
     "login": "xxdavid",
@@ -13045,7 +13976,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 932,
-    "score": 163
+    "score": 163,
+    "globalRank": 61463
   },
   {
     "login": "Romop5",
@@ -13059,7 +13991,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 933,
-    "score": 38
+    "score": 38,
+    "globalRank": 61464
   },
   {
     "login": "mkrauskopf",
@@ -13073,7 +14006,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 934,
-    "score": 294
+    "score": 294,
+    "globalRank": 61465
   },
   {
     "login": "Adamekka",
@@ -13087,7 +14021,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 935,
-    "score": 2010
+    "score": 2010,
+    "globalRank": 61466
   },
   {
     "login": "metlos",
@@ -13101,7 +14036,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 936,
-    "score": 287
+    "score": 287,
+    "globalRank": 61467
   },
   {
     "login": "lm",
@@ -13115,7 +14051,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 937,
-    "score": 35
+    "score": 35,
+    "globalRank": 61468
   },
   {
     "login": "malytomas",
@@ -13129,7 +14066,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 938,
-    "score": 438
+    "score": 438,
+    "globalRank": 61469
   },
   {
     "login": "vfosnar",
@@ -13143,7 +14081,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 939,
-    "score": 58
+    "score": 58,
+    "globalRank": 61470
   },
   {
     "login": "tasuki",
@@ -13157,7 +14096,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 940,
-    "score": 794
+    "score": 794,
+    "globalRank": 61471
   },
   {
     "login": "MariaRigaki",
@@ -13171,7 +14111,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 941,
-    "score": 293
+    "score": 293,
+    "globalRank": 62198
   },
   {
     "login": "versotym",
@@ -13185,7 +14126,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 942,
-    "score": 63
+    "score": 63,
+    "globalRank": 62199
   },
   {
     "login": "LukasCZ",
@@ -13199,7 +14141,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 943,
-    "score": 33
+    "score": 33,
+    "globalRank": 62200
   },
   {
     "login": "martinschatz-cz",
@@ -13213,7 +14156,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 944,
-    "score": 300
+    "score": 300,
+    "globalRank": 62201
   },
   {
     "login": "ohlidalp",
@@ -13227,7 +14171,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 945,
-    "score": 200
+    "score": 200,
+    "globalRank": 62202
   },
   {
     "login": "the-ress",
@@ -13241,7 +14186,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 946,
-    "score": 43
+    "score": 43,
+    "globalRank": 62203
   },
   {
     "login": "fazpu",
@@ -13255,7 +14201,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 947,
-    "score": 15777
+    "score": 15777,
+    "globalRank": 62204
   },
   {
     "login": "bosdos12",
@@ -13269,7 +14216,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 948,
-    "score": 271
+    "score": 271,
+    "globalRank": 62205
   },
   {
     "login": "maxbares",
@@ -13283,7 +14231,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 949,
-    "score": 33
+    "score": 33,
+    "globalRank": 62206
   },
   {
     "login": "antoninkriz",
@@ -13297,7 +14246,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 950,
-    "score": 183
+    "score": 183,
+    "globalRank": 62207
   },
   {
     "login": "detrin",
@@ -13311,7 +14261,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 951,
-    "score": 2428
+    "score": 2428,
+    "globalRank": 62208
   },
   {
     "login": "keprt",
@@ -13325,7 +14276,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 952,
-    "score": 33
+    "score": 33,
+    "globalRank": 62209
   },
   {
     "login": "misaon",
@@ -13339,7 +14291,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 953,
-    "score": 89
+    "score": 89,
+    "globalRank": 62210
   },
   {
     "login": "janithRS",
@@ -13353,7 +14306,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 954,
-    "score": 139
+    "score": 139,
+    "globalRank": 62211
   },
   {
     "login": "matejnesuta",
@@ -13367,7 +14321,8 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 955,
-    "score": 71
+    "score": 71,
+    "globalRank": 62212
   },
   {
     "login": "josefrichter",
@@ -13381,6 +14336,7 @@
     "country": "czechia",
     "countryName": "Czechia",
     "countryRank": 956,
-    "score": 43
+    "score": 43,
+    "globalRank": 62213
   }
 ]

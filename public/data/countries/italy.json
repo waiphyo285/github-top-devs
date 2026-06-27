@@ -11,7 +11,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 1,
-    "score": 29023
+    "score": 29023,
+    "globalRank": 22
   },
   {
     "login": "mcollina",
@@ -25,7 +26,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 2,
-    "score": 15917
+    "score": 15917,
+    "globalRank": 142
   },
   {
     "login": "evilsocket",
@@ -39,7 +41,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 3,
-    "score": 16592
+    "score": 16592,
+    "globalRank": 191
   },
   {
     "login": "FiloSottile",
@@ -53,7 +56,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 4,
-    "score": 10337
+    "score": 10337,
+    "globalRank": 193
   },
   {
     "login": "Magicianred",
@@ -67,7 +71,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 5,
-    "score": 5777
+    "score": 5777,
+    "globalRank": 384
   },
   {
     "login": "tshemsedinov",
@@ -81,7 +86,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 6,
-    "score": 6981
+    "score": 6981,
+    "globalRank": 435
   },
   {
     "login": "somekindofwallflower",
@@ -95,7 +101,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 7,
-    "score": 5328
+    "score": 5328,
+    "globalRank": 556
   },
   {
     "login": "Ocramius",
@@ -109,7 +116,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 8,
-    "score": 6706
+    "score": 6706,
+    "globalRank": 580
   },
   {
     "login": "x3ric",
@@ -123,7 +131,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 9,
-    "score": 8136
+    "score": 8136,
+    "globalRank": 640
   },
   {
     "login": "formidablae",
@@ -137,7 +146,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 10,
-    "score": 5225
+    "score": 5225,
+    "globalRank": 806
   },
   {
     "login": "LukeMathWalker",
@@ -151,7 +161,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 11,
-    "score": 4707
+    "score": 4707,
+    "globalRank": 822
   },
   {
     "login": "FrancescoXX",
@@ -165,7 +176,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 12,
-    "score": 3753
+    "score": 3753,
+    "globalRank": 849
   },
   {
     "login": "m4ll0k",
@@ -179,7 +191,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 13,
-    "score": 3189
+    "score": 3189,
+    "globalRank": 925
   },
   {
     "login": "gabrielemariotti",
@@ -193,7 +206,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 14,
-    "score": 2702
+    "score": 2702,
+    "globalRank": 1080
   },
   {
     "login": "gcanti",
@@ -207,7 +221,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 15,
-    "score": 3983
+    "score": 3983,
+    "globalRank": 1108
   },
   {
     "login": "bocaletto-luca",
@@ -221,7 +236,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 16,
-    "score": 73716
+    "score": 73716,
+    "globalRank": 1324
   },
   {
     "login": "cubiq",
@@ -235,7 +251,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 17,
-    "score": 2410
+    "score": 2410,
+    "globalRank": 1339
   },
   {
     "login": "WebReflection",
@@ -249,7 +266,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 18,
-    "score": 4762
+    "score": 4762,
+    "globalRank": 1341
   },
   {
     "login": "flaviocopes",
@@ -263,7 +281,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 19,
-    "score": 3658
+    "score": 3658,
+    "globalRank": 1384
   },
   {
     "login": "mudler",
@@ -277,7 +296,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 20,
-    "score": 9170
+    "score": 9170,
+    "globalRank": 1427
   },
   {
     "login": "FezVrasta",
@@ -291,7 +311,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 21,
-    "score": 5118
+    "score": 5118,
+    "globalRank": 1479
   },
   {
     "login": "JonnyBanana",
@@ -305,7 +326,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 22,
-    "score": 2164
+    "score": 2164,
+    "globalRank": 1517
   },
   {
     "login": "feder-cr",
@@ -319,7 +341,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 23,
-    "score": 2328
+    "score": 2328,
+    "globalRank": 1606
   },
   {
     "login": "lucaboca82",
@@ -333,7 +356,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 24,
-    "score": 1948
+    "score": 1948,
+    "globalRank": 1905
   },
   {
     "login": "edoardottt",
@@ -347,7 +371,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 25,
-    "score": 4028
+    "score": 4028,
+    "globalRank": 1989
   },
   {
     "login": "aler9",
@@ -361,7 +386,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 26,
-    "score": 3316
+    "score": 3316,
+    "globalRank": 2028
   },
   {
     "login": "GeoSn0w",
@@ -375,7 +401,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 27,
-    "score": 19137
+    "score": 19137,
+    "globalRank": 2159
   },
   {
     "login": "as-cii",
@@ -389,7 +416,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 28,
-    "score": 2475
+    "score": 2475,
+    "globalRank": 2189
   },
   {
     "login": "delvedor",
@@ -403,7 +431,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 29,
-    "score": 4215
+    "score": 4215,
+    "globalRank": 2227
   },
   {
     "login": "Rinnegatamante",
@@ -417,7 +446,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 30,
-    "score": 2939
+    "score": 2939,
+    "globalRank": 2241
   },
   {
     "login": "johnno1962",
@@ -431,7 +461,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 31,
-    "score": 2051
+    "score": 2051,
+    "globalRank": 2351
   },
   {
     "login": "malcommac",
@@ -445,7 +476,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 32,
-    "score": 1542
+    "score": 1542,
+    "globalRank": 2374
   },
   {
     "login": "kristoff-it",
@@ -459,7 +491,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 33,
-    "score": 2161
+    "score": 2161,
+    "globalRank": 2498
   },
   {
     "login": "lollocenne",
@@ -473,7 +506,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 34,
-    "score": 1524
+    "score": 1524,
+    "globalRank": 2500
   },
   {
     "login": "antonioCoco",
@@ -487,7 +521,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 35,
-    "score": 1365
+    "score": 1365,
+    "globalRank": 2622
   },
   {
     "login": "jamescalam",
@@ -501,7 +536,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 36,
-    "score": 6612
+    "score": 6612,
+    "globalRank": 2632
   },
   {
     "login": "rennf93",
@@ -515,7 +551,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 37,
-    "score": 3978
+    "score": 3978,
+    "globalRank": 2644
   },
   {
     "login": "andreamazz",
@@ -529,7 +566,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 38,
-    "score": 1325
+    "score": 1325,
+    "globalRank": 2718
   },
   {
     "login": "Datalux",
@@ -543,7 +581,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 39,
-    "score": 1358
+    "score": 1358,
+    "globalRank": 2805
   },
   {
     "login": "maxcohen31",
@@ -557,7 +596,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 40,
-    "score": 1510
+    "score": 1510,
+    "globalRank": 2902
   },
   {
     "login": "Domenicobrz",
@@ -571,7 +611,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 41,
-    "score": 1380
+    "score": 1380,
+    "globalRank": 2981
   },
   {
     "login": "mariofusco",
@@ -585,7 +626,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 42,
-    "score": 1962
+    "score": 1962,
+    "globalRank": 3013
   },
   {
     "login": "whatyouhide",
@@ -599,7 +641,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 43,
-    "score": 4564
+    "score": 4564,
+    "globalRank": 3056
   },
   {
     "login": "skypjack",
@@ -613,7 +656,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 44,
-    "score": 2735
+    "score": 2735,
+    "globalRank": 3298
   },
   {
     "login": "lballabio",
@@ -627,7 +671,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 45,
-    "score": 1884
+    "score": 1884,
+    "globalRank": 3305
   },
   {
     "login": "pitmonticone",
@@ -641,7 +686,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 46,
-    "score": 10473
+    "score": 10473,
+    "globalRank": 3377
   },
   {
     "login": "0xdea",
@@ -655,7 +701,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 47,
-    "score": 2871
+    "score": 2871,
+    "globalRank": 3426
   },
   {
     "login": "HosseinJafari2001",
@@ -669,7 +716,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 48,
-    "score": 1101
+    "score": 1101,
+    "globalRank": 3472
   },
   {
     "login": "vittorioPiotti",
@@ -683,7 +731,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 49,
-    "score": 1080
+    "score": 1080,
+    "globalRank": 3552
   },
   {
     "login": "bdamele",
@@ -697,7 +746,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 50,
-    "score": 1078
+    "score": 1078,
+    "globalRank": 3555
   },
   {
     "login": "juristr",
@@ -711,7 +761,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 51,
-    "score": 7305
+    "score": 7305,
+    "globalRank": 3788
   },
   {
     "login": "remorses",
@@ -725,7 +776,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 52,
-    "score": 22638
+    "score": 22638,
+    "globalRank": 3946
   },
   {
     "login": "mmazzarolo",
@@ -739,7 +791,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 53,
-    "score": 996
+    "score": 996,
+    "globalRank": 4005
   },
   {
     "login": "SnaKKo",
@@ -753,7 +806,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 54,
-    "score": 982
+    "score": 982,
+    "globalRank": 4036
   },
   {
     "login": "Erfaniaa",
@@ -767,7 +821,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 55,
-    "score": 2501
+    "score": 2501,
+    "globalRank": 4102
   },
   {
     "login": "PalinuroSec",
@@ -781,7 +836,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 56,
-    "score": 1197
+    "score": 1197,
+    "globalRank": 4109
   },
   {
     "login": "ptkdev",
@@ -795,7 +851,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 57,
-    "score": 1342
+    "score": 1342,
+    "globalRank": 4112
   },
   {
     "login": "caveofprogramming",
@@ -809,7 +866,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 58,
-    "score": 1058
+    "score": 1058,
+    "globalRank": 4130
   },
   {
     "login": "jodosha",
@@ -823,7 +881,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 59,
-    "score": 2206
+    "score": 2206,
+    "globalRank": 4231
   },
   {
     "login": "GyulyVGC",
@@ -837,7 +896,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 60,
-    "score": 3580
+    "score": 3580,
+    "globalRank": 4241
   },
   {
     "login": "enzomanuelmangano",
@@ -851,7 +911,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 61,
-    "score": 3646
+    "score": 3646,
+    "globalRank": 4492
   },
   {
     "login": "silicia-apps",
@@ -865,7 +926,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 62,
-    "score": 969
+    "score": 969,
+    "globalRank": 4517
   },
   {
     "login": "paolosalvatori",
@@ -879,7 +941,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 63,
-    "score": 1752
+    "score": 1752,
+    "globalRank": 4579
   },
   {
     "login": "WillyJL",
@@ -893,7 +956,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 64,
-    "score": 3610
+    "score": 3610,
+    "globalRank": 4717
   },
   {
     "login": "danog",
@@ -907,7 +971,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 65,
-    "score": 4081
+    "score": 4081,
+    "globalRank": 4878
   },
   {
     "login": "Th3Wall",
@@ -921,7 +986,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 66,
-    "score": 839
+    "score": 839,
+    "globalRank": 4926
   },
   {
     "login": "Swordfish90",
@@ -935,7 +1001,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 67,
-    "score": 1575
+    "score": 1575,
+    "globalRank": 4948
   },
   {
     "login": "matteocrippa",
@@ -949,7 +1016,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 68,
-    "score": 2834
+    "score": 2834,
+    "globalRank": 4965
   },
   {
     "login": "AuroraWright",
@@ -963,7 +1031,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 69,
-    "score": 1416
+    "score": 1416,
+    "globalRank": 4983
   },
   {
     "login": "dancamdev",
@@ -977,7 +1046,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 70,
-    "score": 816
+    "score": 816,
+    "globalRank": 5099
   },
   {
     "login": "ftomassetti",
@@ -991,7 +1061,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 71,
-    "score": 7901
+    "score": 7901,
+    "globalRank": 5112
   },
   {
     "login": "Naramsim",
@@ -1005,7 +1076,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 72,
-    "score": 1205
+    "score": 1205,
+    "globalRank": 5177
   },
   {
     "login": "koistya",
@@ -1019,7 +1091,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 73,
-    "score": 2718
+    "score": 2718,
+    "globalRank": 5195
   },
   {
     "login": "equinusocio",
@@ -1033,7 +1106,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 74,
-    "score": 1821
+    "score": 1821,
+    "globalRank": 5222
   },
   {
     "login": "federico-terzi",
@@ -1047,7 +1121,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 75,
-    "score": 854
+    "score": 854,
+    "globalRank": 5284
   },
   {
     "login": "lantiga",
@@ -1061,7 +1136,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 76,
-    "score": 1036
+    "score": 1036,
+    "globalRank": 5302
   },
   {
     "login": "nicolaiarocci",
@@ -1075,7 +1151,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 77,
-    "score": 4170
+    "score": 4170,
+    "globalRank": 5317
   },
   {
     "login": "cyrus-and",
@@ -1089,7 +1166,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 78,
-    "score": 1289
+    "score": 1289,
+    "globalRank": 5338
   },
   {
     "login": "leodido",
@@ -1103,7 +1181,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 79,
-    "score": 4625
+    "score": 4625,
+    "globalRank": 5349
   },
   {
     "login": "giampaolo",
@@ -1117,7 +1196,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 80,
-    "score": 5042
+    "score": 5042,
+    "globalRank": 5350
   },
   {
     "login": "89luca89",
@@ -1131,7 +1211,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 81,
-    "score": 1640
+    "score": 1640,
+    "globalRank": 5508
   },
   {
     "login": "ezimuel",
@@ -1145,7 +1226,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 82,
-    "score": 1147
+    "score": 1147,
+    "globalRank": 5532
   },
   {
     "login": "clone95",
@@ -1159,7 +1241,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 83,
-    "score": 762
+    "score": 762,
+    "globalRank": 5539
   },
   {
     "login": "fabnicolas",
@@ -1173,7 +1256,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 84,
-    "score": 756
+    "score": 756,
+    "globalRank": 5558
   },
   {
     "login": "elek80s",
@@ -1187,7 +1271,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 85,
-    "score": 791
+    "score": 791,
+    "globalRank": 5568
   },
   {
     "login": "suspectedoceano",
@@ -1201,7 +1286,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 86,
-    "score": 743
+    "score": 743,
+    "globalRank": 5656
   },
   {
     "login": "GuidoPenta",
@@ -1215,7 +1301,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 87,
-    "score": 771
+    "score": 771,
+    "globalRank": 5730
   },
   {
     "login": "CastagnaIT",
@@ -1229,7 +1316,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 88,
-    "score": 1215
+    "score": 1215,
+    "globalRank": 5743
   },
   {
     "login": "cerlymarco",
@@ -1243,7 +1331,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 89,
-    "score": 724
+    "score": 724,
+    "globalRank": 5803
   },
   {
     "login": "Lucksi",
@@ -1257,7 +1346,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 90,
-    "score": 740
+    "score": 740,
+    "globalRank": 5846
   },
   {
     "login": "togisoft",
@@ -1271,7 +1361,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 91,
-    "score": 1053
+    "score": 1053,
+    "globalRank": 5974
   },
   {
     "login": "SebaUbuntu",
@@ -1285,7 +1376,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 92,
-    "score": 3334
+    "score": 3334,
+    "globalRank": 6089
   },
   {
     "login": "MikeCodesDotNET",
@@ -1299,7 +1391,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 93,
-    "score": 2248
+    "score": 2248,
+    "globalRank": 6122
   },
   {
     "login": "danieleteti",
@@ -1313,7 +1406,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 94,
-    "score": 1389
+    "score": 1389,
+    "globalRank": 6151
   },
   {
     "login": "mlocati",
@@ -1327,7 +1421,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 95,
-    "score": 2612
+    "score": 2612,
+    "globalRank": 6229
   },
   {
     "login": "pauloxnet",
@@ -1341,7 +1436,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 96,
-    "score": 901
+    "score": 901,
+    "globalRank": 6337
   },
   {
     "login": "rbonghi",
@@ -1355,7 +1451,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 97,
-    "score": 679
+    "score": 679,
+    "globalRank": 6338
   },
   {
     "login": "segemun",
@@ -1369,7 +1466,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 98,
-    "score": 2514
+    "score": 2514,
+    "globalRank": 6383
   },
   {
     "login": "miroslavpejic85",
@@ -1383,7 +1481,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 99,
-    "score": 2868
+    "score": 2868,
+    "globalRank": 6458
   },
   {
     "login": "Mte90",
@@ -1397,7 +1496,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 100,
-    "score": 2425
+    "score": 2425,
+    "globalRank": 6489
   },
   {
     "login": "zaach",
@@ -1411,7 +1511,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 101,
-    "score": 669
+    "score": 669,
+    "globalRank": 6576
   },
   {
     "login": "weppos",
@@ -1425,7 +1526,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 102,
-    "score": 7705
+    "score": 7705,
+    "globalRank": 6695
   },
   {
     "login": "jnordberg",
@@ -1439,7 +1541,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 103,
-    "score": 843
+    "score": 843,
+    "globalRank": 6696
   },
   {
     "login": "rock3r",
@@ -1453,7 +1556,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 104,
-    "score": 6400
+    "score": 6400,
+    "globalRank": 6724
   },
   {
     "login": "sickn33",
@@ -1467,7 +1571,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 105,
-    "score": 1159
+    "score": 1159,
+    "globalRank": 6725
   },
   {
     "login": "emilyalbini",
@@ -1481,7 +1586,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 106,
-    "score": 2001
+    "score": 2001,
+    "globalRank": 6760
   },
   {
     "login": "lpinca",
@@ -1495,7 +1601,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 107,
-    "score": 1817
+    "score": 1817,
+    "globalRank": 6920
   },
   {
     "login": "giacomocavalieri",
@@ -1509,7 +1616,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 108,
-    "score": 3050
+    "score": 3050,
+    "globalRank": 7053
   },
   {
     "login": "Nelzouki22",
@@ -1523,7 +1631,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 109,
-    "score": 684
+    "score": 684,
+    "globalRank": 7066
   },
   {
     "login": "eduardomecchiafernandez",
@@ -1537,7 +1646,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 110,
-    "score": 1218
+    "score": 1218,
+    "globalRank": 7089
   },
   {
     "login": "shmykelsa",
@@ -1551,7 +1661,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 111,
-    "score": 609
+    "score": 609,
+    "globalRank": 7134
   },
   {
     "login": "alexcasalboni",
@@ -1565,7 +1676,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 112,
-    "score": 1507
+    "score": 1507,
+    "globalRank": 7201
   },
   {
     "login": "fabrizio-bianchi",
@@ -1579,7 +1691,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 113,
-    "score": 587
+    "score": 587,
+    "globalRank": 7213
   },
   {
     "login": "elia",
@@ -1593,7 +1706,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 114,
-    "score": 3050
+    "score": 3050,
+    "globalRank": 7243
   },
   {
     "login": "d3ward",
@@ -1607,7 +1721,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 115,
-    "score": 1194
+    "score": 1194,
+    "globalRank": 7244
   },
   {
     "login": "fabiocaccamo",
@@ -1621,7 +1736,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 116,
-    "score": 1235
+    "score": 1235,
+    "globalRank": 7287
   },
   {
     "login": "bonzini",
@@ -1635,7 +1751,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 117,
-    "score": 1990
+    "score": 1990,
+    "globalRank": 7490
   },
   {
     "login": "traversaro",
@@ -1649,7 +1766,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 118,
-    "score": 5357
+    "score": 5357,
+    "globalRank": 7591
   },
   {
     "login": "Stypox",
@@ -1663,7 +1781,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 119,
-    "score": 1553
+    "score": 1553,
+    "globalRank": 7682
   },
   {
     "login": "pymike00",
@@ -1677,7 +1796,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 120,
-    "score": 3636
+    "score": 3636,
+    "globalRank": 7758
   },
   {
     "login": "alexpate",
@@ -1691,7 +1811,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 121,
-    "score": 2159
+    "score": 2159,
+    "globalRank": 7847
   },
   {
     "login": "marcominerva",
@@ -1705,7 +1826,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 122,
-    "score": 2591
+    "score": 2591,
+    "globalRank": 7848
   },
   {
     "login": "fabiobiondi",
@@ -1719,7 +1841,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 123,
-    "score": 2238
+    "score": 2238,
+    "globalRank": 7886
   },
   {
     "login": "danielabrozzoni",
@@ -1733,7 +1856,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 124,
-    "score": 675
+    "score": 675,
+    "globalRank": 8041
   },
   {
     "login": "nicolaerario",
@@ -1747,7 +1871,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 125,
-    "score": 866
+    "score": 866,
+    "globalRank": 8064
   },
   {
     "login": "AlessandroCorradini",
@@ -1761,7 +1886,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 126,
-    "score": 518
+    "score": 518,
+    "globalRank": 8114
   },
   {
     "login": "valentinogagliardi",
@@ -1775,7 +1901,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 127,
-    "score": 1440
+    "score": 1440,
+    "globalRank": 8115
   },
   {
     "login": "vittominacori",
@@ -1789,7 +1916,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 128,
-    "score": 1250
+    "score": 1250,
+    "globalRank": 8130
   },
   {
     "login": "giuseppe",
@@ -1803,7 +1931,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 129,
-    "score": 1953
+    "score": 1953,
+    "globalRank": 8204
   },
   {
     "login": "Francesco149",
@@ -1817,7 +1946,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 130,
-    "score": 1683
+    "score": 1683,
+    "globalRank": 8278
   },
   {
     "login": "saajann",
@@ -1831,7 +1961,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 131,
-    "score": 781
+    "score": 781,
+    "globalRank": 8308
   },
   {
     "login": "anakin87",
@@ -1845,7 +1976,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 132,
-    "score": 3901
+    "score": 3901,
+    "globalRank": 8343
   },
   {
     "login": "alco",
@@ -1859,7 +1991,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 133,
-    "score": 1847
+    "score": 1847,
+    "globalRank": 8372
   },
   {
     "login": "BigNerd95",
@@ -1873,7 +2006,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 134,
-    "score": 502
+    "score": 502,
+    "globalRank": 8373
   },
   {
     "login": "adolfintel",
@@ -1887,7 +2021,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 135,
-    "score": 944
+    "score": 944,
+    "globalRank": 8605
   },
   {
     "login": "ernie",
@@ -1901,7 +2036,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 136,
-    "score": 2038
+    "score": 2038,
+    "globalRank": 8606
   },
   {
     "login": "gabrielelana",
@@ -1915,7 +2051,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 137,
-    "score": 677
+    "score": 677,
+    "globalRank": 8620
   },
   {
     "login": "LeonardoE95",
@@ -1929,7 +2066,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 138,
-    "score": 508
+    "score": 508,
+    "globalRank": 8699
   },
   {
     "login": "aryx",
@@ -1943,7 +2081,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 139,
-    "score": 4589
+    "score": 4589,
+    "globalRank": 8709
   },
   {
     "login": "emanuele-f",
@@ -1957,7 +2096,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 140,
-    "score": 625
+    "score": 625,
+    "globalRank": 8786
   },
   {
     "login": "jekil",
@@ -1971,7 +2111,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 141,
-    "score": 535
+    "score": 535,
+    "globalRank": 8822
   },
   {
     "login": "delivrance",
@@ -1985,7 +2126,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 142,
-    "score": 474
+    "score": 474,
+    "globalRank": 8884
   },
   {
     "login": "sntk-76",
@@ -1999,7 +2141,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 143,
-    "score": 569
+    "score": 569,
+    "globalRank": 8922
   },
   {
     "login": "Balastrong",
@@ -2013,7 +2156,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 144,
-    "score": 1751
+    "score": 1751,
+    "globalRank": 8943
   },
   {
     "login": "IAbuElRuzz",
@@ -2027,7 +2171,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 145,
-    "score": 3672
+    "score": 3672,
+    "globalRank": 8944
   },
   {
     "login": "aaime",
@@ -2041,7 +2186,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 146,
-    "score": 1524
+    "score": 1524,
+    "globalRank": 9069
   },
   {
     "login": "alvagante",
@@ -2055,7 +2201,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 147,
-    "score": 1289
+    "score": 1289,
+    "globalRank": 9095
   },
   {
     "login": "ivanfioravanti",
@@ -2069,7 +2216,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 148,
-    "score": 1424
+    "score": 1424,
+    "globalRank": 9096
   },
   {
     "login": "ADeltaX",
@@ -2083,7 +2231,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 149,
-    "score": 463
+    "score": 463,
+    "globalRank": 9097
   },
   {
     "login": "marcofugaro",
@@ -2097,7 +2246,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 150,
-    "score": 488
+    "score": 488,
+    "globalRank": 9152
   },
   {
     "login": "hellais",
@@ -2111,7 +2261,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 151,
-    "score": 1000
+    "score": 1000,
+    "globalRank": 9167
   },
   {
     "login": "loretoparisi",
@@ -2125,7 +2276,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 152,
-    "score": 672
+    "score": 672,
+    "globalRank": 9168
   },
   {
     "login": "dottorblaster",
@@ -2139,7 +2291,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 153,
-    "score": 2914
+    "score": 2914,
+    "globalRank": 9245
   },
   {
     "login": "zmaker",
@@ -2153,7 +2306,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 154,
-    "score": 600
+    "score": 600,
+    "globalRank": 9246
   },
   {
     "login": "marco-ippolito",
@@ -2167,7 +2321,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 155,
-    "score": 1560
+    "score": 1560,
+    "globalRank": 9279
   },
   {
     "login": "RiccardoPP",
@@ -2181,7 +2336,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 156,
-    "score": 470
+    "score": 470,
+    "globalRank": 9406
   },
   {
     "login": "Eomm",
@@ -2195,7 +2351,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 157,
-    "score": 1217
+    "score": 1217,
+    "globalRank": 9407
   },
   {
     "login": "tagliala",
@@ -2209,7 +2366,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 158,
-    "score": 1970
+    "score": 1970,
+    "globalRank": 9429
   },
   {
     "login": "nrk",
@@ -2223,7 +2381,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 159,
-    "score": 447
+    "score": 447,
+    "globalRank": 9448
   },
   {
     "login": "eur0pa",
@@ -2237,7 +2396,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 160,
-    "score": 451
+    "score": 451,
+    "globalRank": 9449
   },
   {
     "login": "AurelioDeRosa",
@@ -2251,7 +2411,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 161,
-    "score": 452
+    "score": 452,
+    "globalRank": 9525
   },
   {
     "login": "santiagobasulto",
@@ -2265,7 +2426,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 162,
-    "score": 452
+    "score": 452,
+    "globalRank": 9594
   },
   {
     "login": "marcoieni",
@@ -2279,7 +2441,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 163,
-    "score": 3651
+    "score": 3651,
+    "globalRank": 9936
   },
   {
     "login": "drego85",
@@ -2293,7 +2456,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 164,
-    "score": 1022
+    "score": 1022,
+    "globalRank": 10010
   },
   {
     "login": "facchinm",
@@ -2307,7 +2471,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 165,
-    "score": 1051
+    "score": 1051,
+    "globalRank": 10011
   },
   {
     "login": "pamoroso",
@@ -2321,7 +2486,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 166,
-    "score": 650
+    "score": 650,
+    "globalRank": 10072
   },
   {
     "login": "buffer",
@@ -2335,7 +2501,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 167,
-    "score": 518
+    "score": 518,
+    "globalRank": 10181
   },
   {
     "login": "sw33tLie",
@@ -2349,7 +2516,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 168,
-    "score": 484
+    "score": 484,
+    "globalRank": 10182
   },
   {
     "login": "unbit",
@@ -2363,7 +2531,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 169,
-    "score": 412
+    "score": 412,
+    "globalRank": 10296
   },
   {
     "login": "mirkobrombin",
@@ -2377,7 +2546,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 170,
-    "score": 5998
+    "score": 5998,
+    "globalRank": 10334
   },
   {
     "login": "diegoberaldin",
@@ -2391,7 +2561,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 171,
-    "score": 425
+    "score": 425,
+    "globalRank": 10335
   },
   {
     "login": "clintongormley",
@@ -2405,7 +2576,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 172,
-    "score": 4698
+    "score": 4698,
+    "globalRank": 10336
   },
   {
     "login": "ppatierno",
@@ -2419,7 +2591,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 173,
-    "score": 1619
+    "score": 1619,
+    "globalRank": 10463
   },
   {
     "login": "amerkoleci",
@@ -2433,7 +2606,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 174,
-    "score": 787
+    "score": 787,
+    "globalRank": 10492
   },
   {
     "login": "Francesco601",
@@ -2447,7 +2621,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 175,
-    "score": 412
+    "score": 412,
+    "globalRank": 10524
   },
   {
     "login": "kamicane",
@@ -2461,7 +2636,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 176,
-    "score": 438
+    "score": 438,
+    "globalRank": 10562
   },
   {
     "login": "marcocantu",
@@ -2475,7 +2651,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 177,
-    "score": 401
+    "score": 401,
+    "globalRank": 10678
   },
   {
     "login": "enkomio",
@@ -2489,7 +2666,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 178,
-    "score": 470
+    "score": 470,
+    "globalRank": 10712
   },
   {
     "login": "ohpe",
@@ -2503,7 +2681,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 179,
-    "score": 397
+    "score": 397,
+    "globalRank": 10762
   },
   {
     "login": "laluxx",
@@ -2517,7 +2696,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 180,
-    "score": 911
+    "score": 911,
+    "globalRank": 10812
   },
   {
     "login": "floswald",
@@ -2531,7 +2711,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 181,
-    "score": 1530
+    "score": 1530,
+    "globalRank": 10889
   },
   {
     "login": "Helias",
@@ -2545,7 +2726,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 182,
-    "score": 2050
+    "score": 2050,
+    "globalRank": 10931
   },
   {
     "login": "BernardoGiordano",
@@ -2559,7 +2741,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 183,
-    "score": 706
+    "score": 706,
+    "globalRank": 10963
   },
   {
     "login": "NoriSte",
@@ -2573,7 +2756,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 184,
-    "score": 1422
+    "score": 1422,
+    "globalRank": 11009
   },
   {
     "login": "cnoviello",
@@ -2587,7 +2771,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 185,
-    "score": 382
+    "score": 382,
+    "globalRank": 11205
   },
   {
     "login": "nusco",
@@ -2601,7 +2786,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 186,
-    "score": 415
+    "score": 415,
+    "globalRank": 11342
   },
   {
     "login": "ST-Apps",
@@ -2615,7 +2801,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 187,
-    "score": 376
+    "score": 376,
+    "globalRank": 11400
   },
   {
     "login": "emilianobonassi",
@@ -2629,7 +2816,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 188,
-    "score": 441
+    "score": 441,
+    "globalRank": 11401
   },
   {
     "login": "thesp0nge",
@@ -2643,7 +2831,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 189,
-    "score": 411
+    "score": 411,
+    "globalRank": 11496
   },
   {
     "login": "Giando",
@@ -2657,7 +2846,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 190,
-    "score": 374
+    "score": 374,
+    "globalRank": 11497
   },
   {
     "login": "galeone",
@@ -2671,7 +2861,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 191,
-    "score": 1130
+    "score": 1130,
+    "globalRank": 11574
   },
   {
     "login": "pattacini",
@@ -2685,7 +2876,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 192,
-    "score": 1352
+    "score": 1352,
+    "globalRank": 11645
   },
   {
     "login": "pmusolino",
@@ -2699,7 +2891,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 193,
-    "score": 1333
+    "score": 1333,
+    "globalRank": 11646
   },
   {
     "login": "SukkoPera",
@@ -2713,7 +2906,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 194,
-    "score": 541
+    "score": 541,
+    "globalRank": 11715
   },
   {
     "login": "ProfAndreaPollini",
@@ -2727,7 +2921,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 195,
-    "score": 799
+    "score": 799,
+    "globalRank": 11716
   },
   {
     "login": "pichillilorenzo",
@@ -2741,7 +2936,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 196,
-    "score": 2681
+    "score": 2681,
+    "globalRank": 11717
   },
   {
     "login": "theMiddleBlue",
@@ -2755,7 +2951,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 197,
-    "score": 418
+    "score": 418,
+    "globalRank": 11718
   },
   {
     "login": "riccardoperra",
@@ -2769,7 +2966,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 198,
-    "score": 737
+    "score": 737,
+    "globalRank": 11871
   },
   {
     "login": "lmassaron",
@@ -2783,7 +2981,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 199,
-    "score": 989
+    "score": 989,
+    "globalRank": 11872
   },
   {
     "login": "AkesiSeli",
@@ -2797,7 +2996,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 200,
-    "score": 850
+    "score": 850,
+    "globalRank": 11944
   },
   {
     "login": "roccomuso",
@@ -2811,7 +3011,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 201,
-    "score": 2073
+    "score": 2073,
+    "globalRank": 11945
   },
   {
     "login": "LivingtonMerello98",
@@ -2825,7 +3026,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 202,
-    "score": 456
+    "score": 456,
+    "globalRank": 12078
   },
   {
     "login": "szaghi",
@@ -2839,7 +3041,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 203,
-    "score": 2083
+    "score": 2083,
+    "globalRank": 12205
   },
   {
     "login": "fulcorno",
@@ -2853,7 +3056,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 204,
-    "score": 509
+    "score": 509,
+    "globalRank": 12302
   },
   {
     "login": "devgianlu",
@@ -2867,7 +3071,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 205,
-    "score": 3826
+    "score": 3826,
+    "globalRank": 12303
   },
   {
     "login": "SandroMaglione",
@@ -2881,7 +3086,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 206,
-    "score": 3155
+    "score": 3155,
+    "globalRank": 12326
   },
   {
     "login": "nicolocarpignoli",
@@ -2895,7 +3101,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 207,
-    "score": 584
+    "score": 584,
+    "globalRank": 12354
   },
   {
     "login": "ikawrakow",
@@ -2909,7 +3116,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 208,
-    "score": 2165
+    "score": 2165,
+    "globalRank": 12389
   },
   {
     "login": "pupunzi",
@@ -2923,7 +3131,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 209,
-    "score": 361
+    "score": 361,
+    "globalRank": 12433
   },
   {
     "login": "andreareginato",
@@ -2937,7 +3146,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 210,
-    "score": 1371
+    "score": 1371,
+    "globalRank": 12434
   },
   {
     "login": "peazip",
@@ -2951,7 +3161,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 211,
-    "score": 696
+    "score": 696,
+    "globalRank": 12472
   },
   {
     "login": "matteobruni",
@@ -2965,7 +3176,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 212,
-    "score": 2478
+    "score": 2478,
+    "globalRank": 12790
   },
   {
     "login": "ivan-hc",
@@ -2979,7 +3191,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 213,
-    "score": 4155
+    "score": 4155,
+    "globalRank": 12822
   },
   {
     "login": "Gsantomaggio",
@@ -2993,7 +3206,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 214,
-    "score": 967
+    "score": 967,
+    "globalRank": 12895
   },
   {
     "login": "gioboa",
@@ -3007,7 +3221,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 215,
-    "score": 3898
+    "score": 3898,
+    "globalRank": 12896
   },
   {
     "login": "lminiero",
@@ -3021,7 +3236,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 216,
-    "score": 568
+    "score": 568,
+    "globalRank": 12927
   },
   {
     "login": "giancosta86",
@@ -3035,7 +3251,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 217,
-    "score": 662
+    "score": 662,
+    "globalRank": 12928
   },
   {
     "login": "gotev",
@@ -3049,7 +3266,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 218,
-    "score": 738
+    "score": 738,
+    "globalRank": 12929
   },
   {
     "login": "gloriag-dev",
@@ -3063,7 +3281,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 219,
-    "score": 383
+    "score": 383,
+    "globalRank": 12988
   },
   {
     "login": "oscerd",
@@ -3077,7 +3296,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 220,
-    "score": 6255
+    "score": 6255,
+    "globalRank": 13092
   },
   {
     "login": "hamen",
@@ -3091,7 +3311,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 221,
-    "score": 3287
+    "score": 3287,
+    "globalRank": 13172
   },
   {
     "login": "lucab",
@@ -3105,7 +3326,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 222,
-    "score": 1128
+    "score": 1128,
+    "globalRank": 13314
   },
   {
     "login": "massimo1220",
@@ -3119,7 +3341,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 223,
-    "score": 369
+    "score": 369,
+    "globalRank": 13359
   },
   {
     "login": "lavalamp-",
@@ -3133,7 +3356,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 224,
-    "score": 3680
+    "score": 3680,
+    "globalRank": 13360
   },
   {
     "login": "umbros",
@@ -3147,7 +3371,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 225,
-    "score": 324
+    "score": 324,
+    "globalRank": 13361
   },
   {
     "login": "Faless",
@@ -3161,7 +3386,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 226,
-    "score": 376
+    "score": 376,
+    "globalRank": 13399
   },
   {
     "login": "claudia-romano",
@@ -3175,7 +3401,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 227,
-    "score": 320
+    "score": 320,
+    "globalRank": 13400
   },
   {
     "login": "masci",
@@ -3189,7 +3416,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 228,
-    "score": 876
+    "score": 876,
+    "globalRank": 13475
   },
   {
     "login": "ekokedao",
@@ -3203,7 +3431,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 229,
-    "score": 318
+    "score": 318,
+    "globalRank": 13476
   },
   {
     "login": "nank1ro",
@@ -3217,7 +3446,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 230,
-    "score": 3286
+    "score": 3286,
+    "globalRank": 13515
   },
   {
     "login": "lucavallin",
@@ -3231,7 +3461,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 231,
-    "score": 1139
+    "score": 1139,
+    "globalRank": 13651
   },
   {
     "login": "marluanespiritusanto",
@@ -3245,7 +3476,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 232,
-    "score": 1095
+    "score": 1095,
+    "globalRank": 13733
   },
   {
     "login": "anglinb",
@@ -3259,7 +3491,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 233,
-    "score": 1745
+    "score": 1745,
+    "globalRank": 13811
   },
   {
     "login": "andrea-magni",
@@ -3273,7 +3506,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 234,
-    "score": 899
+    "score": 899,
+    "globalRank": 13883
   },
   {
     "login": "carlotta94c",
@@ -3287,7 +3521,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 235,
-    "score": 630
+    "score": 630,
+    "globalRank": 13911
   },
   {
     "login": "mauroservienti",
@@ -3301,7 +3536,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 236,
-    "score": 1952
+    "score": 1952,
+    "globalRank": 14001
   },
   {
     "login": "metalx1000",
@@ -3315,7 +3551,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 237,
-    "score": 303
+    "score": 303,
+    "globalRank": 14081
   },
   {
     "login": "gbrindisi",
@@ -3329,7 +3566,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 238,
-    "score": 477
+    "score": 477,
+    "globalRank": 14130
   },
   {
     "login": "paoloanzn",
@@ -3343,7 +3581,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 239,
-    "score": 2651
+    "score": 2651,
+    "globalRank": 14170
   },
   {
     "login": "balevine",
@@ -3357,7 +3596,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 240,
-    "score": 1302
+    "score": 1302,
+    "globalRank": 14171
   },
   {
     "login": "correlucas",
@@ -3371,7 +3611,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 241,
-    "score": 300
+    "score": 300,
+    "globalRank": 14229
   },
   {
     "login": "irvelervel",
@@ -3385,7 +3626,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 242,
-    "score": 971
+    "score": 971,
+    "globalRank": 14399
   },
   {
     "login": "andri27-ts",
@@ -3399,7 +3641,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 243,
-    "score": 295
+    "score": 295,
+    "globalRank": 14446
   },
   {
     "login": "pracucci",
@@ -3413,7 +3656,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 244,
-    "score": 6269
+    "score": 6269,
+    "globalRank": 14447
   },
   {
     "login": "gnuton",
@@ -3427,7 +3671,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 245,
-    "score": 569
+    "score": 569,
+    "globalRank": 14448
   },
   {
     "login": "mikhailshilkov",
@@ -3441,7 +3686,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 246,
-    "score": 1950
+    "score": 1950,
+    "globalRank": 14531
   },
   {
     "login": "flavio",
@@ -3455,7 +3701,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 247,
-    "score": 4603
+    "score": 4603,
+    "globalRank": 14532
   },
   {
     "login": "rdeioris",
@@ -3469,7 +3716,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 248,
-    "score": 710
+    "score": 710,
+    "globalRank": 14763
   },
   {
     "login": "asturur",
@@ -3483,7 +3731,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 249,
-    "score": 1086
+    "score": 1086,
+    "globalRank": 14764
   },
   {
     "login": "paolo-rossi",
@@ -3497,7 +3746,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 250,
-    "score": 479
+    "score": 479,
+    "globalRank": 14765
   },
   {
     "login": "drakkan",
@@ -3511,7 +3761,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 251,
-    "score": 934
+    "score": 934,
+    "globalRank": 14766
   },
   {
     "login": "garak",
@@ -3525,7 +3776,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 252,
-    "score": 1600
+    "score": 1600,
+    "globalRank": 14767
   },
   {
     "login": "dluc",
@@ -3539,7 +3791,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 253,
-    "score": 1052
+    "score": 1052,
+    "globalRank": 14807
   },
   {
     "login": "maboglia",
@@ -3553,7 +3806,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 254,
-    "score": 816
+    "score": 816,
+    "globalRank": 14851
   },
   {
     "login": "federicoiosue",
@@ -3567,7 +3821,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 255,
-    "score": 313
+    "score": 313,
+    "globalRank": 14904
   },
   {
     "login": "GaspareG",
@@ -3581,7 +3836,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 256,
-    "score": 290
+    "score": 290,
+    "globalRank": 14905
   },
   {
     "login": "xreef",
@@ -3595,7 +3851,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 257,
-    "score": 796
+    "score": 796,
+    "globalRank": 14906
   },
   {
     "login": "lgs",
@@ -3609,7 +3866,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 258,
-    "score": 644
+    "score": 644,
+    "globalRank": 14941
   },
   {
     "login": "luca020400",
@@ -3623,7 +3881,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 259,
-    "score": 866
+    "score": 866,
+    "globalRank": 14988
   },
   {
     "login": "GiulioRossetti",
@@ -3637,7 +3896,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 260,
-    "score": 6204
+    "score": 6204,
+    "globalRank": 15085
   },
   {
     "login": "depau",
@@ -3651,7 +3911,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 261,
-    "score": 695
+    "score": 695,
+    "globalRank": 15126
   },
   {
     "login": "arkypita",
@@ -3665,7 +3926,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 262,
-    "score": 282
+    "score": 282,
+    "globalRank": 15168
   },
   {
     "login": "elfalehed",
@@ -3679,7 +3941,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 263,
-    "score": 335
+    "score": 335,
+    "globalRank": 15169
   },
   {
     "login": "AlbertoOlla",
@@ -3693,7 +3956,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 264,
-    "score": 280
+    "score": 280,
+    "globalRank": 15231
   },
   {
     "login": "roberto-butti",
@@ -3707,7 +3971,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 265,
-    "score": 772
+    "score": 772,
+    "globalRank": 15388
   },
   {
     "login": "stefanocasazza",
@@ -3721,7 +3986,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 266,
-    "score": 275
+    "score": 275,
+    "globalRank": 15437
   },
   {
     "login": "ItsVixano",
@@ -3735,7 +4001,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 267,
-    "score": 1254
+    "score": 1254,
+    "globalRank": 15438
   },
   {
     "login": "EndBug",
@@ -3749,7 +4016,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 268,
-    "score": 1209
+    "score": 1209,
+    "globalRank": 15480
   },
   {
     "login": "serenasensini",
@@ -3763,7 +4031,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 269,
-    "score": 314
+    "score": 314,
+    "globalRank": 15481
   },
   {
     "login": "parro-it",
@@ -3777,7 +4046,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 270,
-    "score": 326
+    "score": 326,
+    "globalRank": 15482
   },
   {
     "login": "abarisani",
@@ -3791,7 +4061,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 271,
-    "score": 1087
+    "score": 1087,
+    "globalRank": 15626
   },
   {
     "login": "erfanghorbanee",
@@ -3805,7 +4076,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 272,
-    "score": 557
+    "score": 557,
+    "globalRank": 15627
   },
   {
     "login": "corna",
@@ -3819,7 +4091,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 273,
-    "score": 271
+    "score": 271,
+    "globalRank": 15673
   },
   {
     "login": "frapposelli",
@@ -3833,7 +4106,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 274,
-    "score": 276
+    "score": 276,
+    "globalRank": 15674
   },
   {
     "login": "napo",
@@ -3847,7 +4121,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 275,
-    "score": 38545
+    "score": 38545,
+    "globalRank": 15675
   },
   {
     "login": "viticci",
@@ -3861,7 +4136,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 276,
-    "score": 448
+    "score": 448,
+    "globalRank": 15735
   },
   {
     "login": "carver",
@@ -3875,7 +4151,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 277,
-    "score": 351
+    "score": 351,
+    "globalRank": 15736
   },
   {
     "login": "rcardin",
@@ -3889,7 +4166,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 278,
-    "score": 1599
+    "score": 1599,
+    "globalRank": 15784
   },
   {
     "login": "michelelacorte",
@@ -3903,7 +4181,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 279,
-    "score": 268
+    "score": 268,
+    "globalRank": 15785
   },
   {
     "login": "berdav",
@@ -3917,7 +4196,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 280,
-    "score": 370
+    "score": 370,
+    "globalRank": 15830
   },
   {
     "login": "albertodev01",
@@ -3931,7 +4211,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 281,
-    "score": 1155
+    "score": 1155,
+    "globalRank": 15831
   },
   {
     "login": "matrix",
@@ -3945,7 +4226,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 282,
-    "score": 691
+    "score": 691,
+    "globalRank": 15949
   },
   {
     "login": "LemonPower21",
@@ -3959,7 +4241,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 283,
-    "score": 796
+    "score": 796,
+    "globalRank": 15950
   },
   {
     "login": "eloquentarduino",
@@ -3973,7 +4256,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 284,
-    "score": 314
+    "score": 314,
+    "globalRank": 16004
   },
   {
     "login": "jndok",
@@ -3987,7 +4271,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 285,
-    "score": 264
+    "score": 264,
+    "globalRank": 16005
   },
   {
     "login": "miniMAC",
@@ -4001,7 +4286,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 286,
-    "score": 318
+    "score": 318,
+    "globalRank": 16115
   },
   {
     "login": "robertsLando",
@@ -4015,7 +4301,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 287,
-    "score": 3203
+    "score": 3203,
+    "globalRank": 16209
   },
   {
     "login": "Auties00",
@@ -4029,7 +4316,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 288,
-    "score": 550
+    "score": 550,
+    "globalRank": 16274
   },
   {
     "login": "LucaRonin",
@@ -4043,7 +4331,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 289,
-    "score": 5958
+    "score": 5958,
+    "globalRank": 16333
   },
   {
     "login": "rikyoz",
@@ -4057,7 +4346,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 290,
-    "score": 329
+    "score": 329,
+    "globalRank": 16334
   },
   {
     "login": "mrs83",
@@ -4071,7 +4361,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 291,
-    "score": 2502
+    "score": 2502,
+    "globalRank": 16437
   },
   {
     "login": "tokudu",
@@ -4085,7 +4376,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 292,
-    "score": 1724
+    "score": 1724,
+    "globalRank": 16488
   },
   {
     "login": "beyzaaakeser",
@@ -4099,7 +4391,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 293,
-    "score": 254
+    "score": 254,
+    "globalRank": 16536
   },
   {
     "login": "vecna",
@@ -4113,7 +4406,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 294,
-    "score": 378
+    "score": 378,
+    "globalRank": 16537
   },
   {
     "login": "verlok",
@@ -4127,7 +4421,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 295,
-    "score": 349
+    "score": 349,
+    "globalRank": 16592
   },
   {
     "login": "naksyn",
@@ -4141,7 +4436,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 296,
-    "score": 256
+    "score": 256,
+    "globalRank": 16593
   },
   {
     "login": "Jean85",
@@ -4155,7 +4451,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 297,
-    "score": 700
+    "score": 700,
+    "globalRank": 16594
   },
   {
     "login": "grandemayta",
@@ -4169,7 +4466,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 298,
-    "score": 253
+    "score": 253,
+    "globalRank": 16595
   },
   {
     "login": "bassosimone",
@@ -4183,7 +4481,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 299,
-    "score": 4884
+    "score": 4884,
+    "globalRank": 16596
   },
   {
     "login": "ostinelli",
@@ -4197,7 +4496,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 300,
-    "score": 3195
+    "score": 3195,
+    "globalRank": 16597
   },
   {
     "login": "Federiker",
@@ -4211,7 +4511,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 301,
-    "score": 822
+    "score": 822,
+    "globalRank": 16598
   },
   {
     "login": "alessandro-zomparelli",
@@ -4225,7 +4526,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 302,
-    "score": 260
+    "score": 260,
+    "globalRank": 16643
   },
   {
     "login": "stefanobartoletti",
@@ -4239,7 +4541,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 303,
-    "score": 1596
+    "score": 1596,
+    "globalRank": 16686
   },
   {
     "login": "enricobottazzi",
@@ -4253,7 +4556,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 304,
-    "score": 1200
+    "score": 1200,
+    "globalRank": 16687
   },
   {
     "login": "francescomalatesta",
@@ -4267,7 +4571,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 305,
-    "score": 1498
+    "score": 1498,
+    "globalRank": 16776
   },
   {
     "login": "cambusa",
@@ -4281,7 +4586,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 306,
-    "score": 249
+    "score": 249,
+    "globalRank": 16777
   },
   {
     "login": "coveralls",
@@ -4295,7 +4601,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 307,
-    "score": 254
+    "score": 254,
+    "globalRank": 16778
   },
   {
     "login": "kashimAstro",
@@ -4309,7 +4616,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 308,
-    "score": 292
+    "score": 292,
+    "globalRank": 16779
   },
   {
     "login": "despos",
@@ -4323,7 +4631,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 309,
-    "score": 248
+    "score": 248,
+    "globalRank": 16833
   },
   {
     "login": "andreafortuna",
@@ -4337,7 +4646,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 310,
-    "score": 1794
+    "score": 1794,
+    "globalRank": 16834
   },
   {
     "login": "kalwalt",
@@ -4351,7 +4661,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 311,
-    "score": 1558
+    "score": 1558,
+    "globalRank": 16890
   },
   {
     "login": "dperini",
@@ -4365,7 +4676,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 312,
-    "score": 268
+    "score": 268,
+    "globalRank": 16891
   },
   {
     "login": "marcoramilli",
@@ -4379,7 +4691,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 313,
-    "score": 393
+    "score": 393,
+    "globalRank": 16947
   },
   {
     "login": "thebatclaudio",
@@ -4393,7 +4706,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 314,
-    "score": 339
+    "score": 339,
+    "globalRank": 16994
   },
   {
     "login": "nickbeth",
@@ -4407,7 +4721,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 315,
-    "score": 310
+    "score": 310,
+    "globalRank": 17041
   },
   {
     "login": "DD3Boh",
@@ -4421,7 +4736,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 316,
-    "score": 2729
+    "score": 2729,
+    "globalRank": 17042
   },
   {
     "login": "cedoor",
@@ -4435,7 +4751,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 317,
-    "score": 1354
+    "score": 1354,
+    "globalRank": 17084
   },
   {
     "login": "ezio84",
@@ -4449,7 +4766,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 318,
-    "score": 243
+    "score": 243,
+    "globalRank": 17085
   },
   {
     "login": "rpl",
@@ -4463,7 +4781,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 319,
-    "score": 443
+    "score": 443,
+    "globalRank": 17128
   },
   {
     "login": "aborruso",
@@ -4477,7 +4796,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 320,
-    "score": 16322
+    "score": 16322,
+    "globalRank": 17237
   },
   {
     "login": "niedev",
@@ -4491,7 +4811,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 321,
-    "score": 324
+    "score": 324,
+    "globalRank": 17238
   },
   {
     "login": "Cipulot",
@@ -4505,7 +4826,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 322,
-    "score": 1605
+    "score": 1605,
+    "globalRank": 17302
   },
   {
     "login": "danielinux",
@@ -4519,7 +4841,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 323,
-    "score": 2205
+    "score": 2205,
+    "globalRank": 17360
   },
   {
     "login": "dionyysus",
@@ -4533,7 +4856,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 324,
-    "score": 533
+    "score": 533,
+    "globalRank": 17361
   },
   {
     "login": "khadijagardezi",
@@ -4547,7 +4871,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 325,
-    "score": 942
+    "score": 942,
+    "globalRank": 17362
   },
   {
     "login": "matteozappia",
@@ -4561,7 +4886,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 326,
-    "score": 1047
+    "score": 1047,
+    "globalRank": 17426
   },
   {
     "login": "francescopace",
@@ -4575,7 +4901,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 327,
-    "score": 1196
+    "score": 1196,
+    "globalRank": 17474
   },
   {
     "login": "gmazzap",
@@ -4589,7 +4916,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 328,
-    "score": 386
+    "score": 386,
+    "globalRank": 17475
   },
   {
     "login": "ruslanmv",
@@ -4603,7 +4931,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 329,
-    "score": 4486
+    "score": 4486,
+    "globalRank": 17476
   },
   {
     "login": "mauronofrio",
@@ -4617,7 +4946,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 330,
-    "score": 289
+    "score": 289,
+    "globalRank": 17531
   },
   {
     "login": "cozis",
@@ -4631,7 +4961,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 331,
-    "score": 1317
+    "score": 1317,
+    "globalRank": 17591
   },
   {
     "login": "vlomonaco",
@@ -4645,7 +4976,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 332,
-    "score": 235
+    "score": 235,
+    "globalRank": 17644
   },
   {
     "login": "FabioLolix",
@@ -4659,7 +4991,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 333,
-    "score": 1355
+    "score": 1355,
+    "globalRank": 17762
   },
   {
     "login": "paciosdev",
@@ -4673,7 +5006,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 334,
-    "score": 275
+    "score": 275,
+    "globalRank": 17763
   },
   {
     "login": "IvanoBilenchi",
@@ -4687,7 +5021,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 335,
-    "score": 507
+    "score": 507,
+    "globalRank": 17764
   },
   {
     "login": "rejetto",
@@ -4701,7 +5036,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 336,
-    "score": 1761
+    "score": 1761,
+    "globalRank": 17810
   },
   {
     "login": "agdl",
@@ -4715,7 +5051,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 337,
-    "score": 811
+    "score": 811,
+    "globalRank": 17811
   },
   {
     "login": "prometherion",
@@ -4729,7 +5066,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 338,
-    "score": 1027
+    "score": 1027,
+    "globalRank": 17860
   },
   {
     "login": "mebeim",
@@ -4743,7 +5081,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 339,
-    "score": 395
+    "score": 395,
+    "globalRank": 17861
   },
   {
     "login": "rcmalli",
@@ -4757,7 +5096,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 340,
-    "score": 564
+    "score": 564,
+    "globalRank": 17862
   },
   {
     "login": "lorenzocadamuro",
@@ -4771,7 +5111,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 341,
-    "score": 230
+    "score": 230,
+    "globalRank": 17863
   },
   {
     "login": "Myzhar",
@@ -4785,7 +5126,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 342,
-    "score": 1488
+    "score": 1488,
+    "globalRank": 17914
   },
   {
     "login": "evilaliv3",
@@ -4799,7 +5141,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 343,
-    "score": 2225
+    "score": 2225,
+    "globalRank": 17915
   },
   {
     "login": "digiampietro",
@@ -4813,7 +5156,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 344,
-    "score": 227
+    "score": 227,
+    "globalRank": 17968
   },
   {
     "login": "acuoci",
@@ -4827,7 +5171,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 345,
-    "score": 349
+    "score": 349,
+    "globalRank": 18025
   },
   {
     "login": "Lymphatus",
@@ -4841,7 +5186,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 346,
-    "score": 473
+    "score": 473,
+    "globalRank": 18228
   },
   {
     "login": "kandros",
@@ -4855,7 +5201,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 347,
-    "score": 1880
+    "score": 1880,
+    "globalRank": 18229
   },
   {
     "login": "astrada",
@@ -4869,7 +5216,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 348,
-    "score": 382
+    "score": 382,
+    "globalRank": 18230
   },
   {
     "login": "fedepaol",
@@ -4883,7 +5231,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 349,
-    "score": 1233
+    "score": 1233,
+    "globalRank": 18231
   },
   {
     "login": "CarloLucibello",
@@ -4897,7 +5246,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 350,
-    "score": 486
+    "score": 486,
+    "globalRank": 18288
   },
   {
     "login": "nostalgiaz",
@@ -4911,7 +5261,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 351,
-    "score": 228
+    "score": 228,
+    "globalRank": 18289
   },
   {
     "login": "andreagrandi",
@@ -4925,7 +5276,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 352,
-    "score": 2297
+    "score": 2297,
+    "globalRank": 18290
   },
   {
     "login": "planttheidea",
@@ -4939,7 +5291,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 353,
-    "score": 535
+    "score": 535,
+    "globalRank": 18291
   },
   {
     "login": "cagnulein",
@@ -4953,7 +5306,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 354,
-    "score": 1884
+    "score": 1884,
+    "globalRank": 18349
   },
   {
     "login": "data-pizza",
@@ -4967,7 +5321,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 355,
-    "score": 220
+    "score": 220,
+    "globalRank": 18350
   },
   {
     "login": "spelidof",
@@ -4981,7 +5336,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 356,
-    "score": 223
+    "score": 223,
+    "globalRank": 18422
   },
   {
     "login": "DavideViolante",
@@ -4995,7 +5351,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 357,
-    "score": 2217
+    "score": 2217,
+    "globalRank": 18423
   },
   {
     "login": "salvatoreraccardi",
@@ -5009,7 +5366,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 358,
-    "score": 765
+    "score": 765,
+    "globalRank": 18424
   },
   {
     "login": "emmelleppi",
@@ -5023,7 +5381,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 359,
-    "score": 1961
+    "score": 1961,
+    "globalRank": 18473
   },
   {
     "login": "matteocontrini",
@@ -5037,7 +5396,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 360,
-    "score": 3593
+    "score": 3593,
+    "globalRank": 18474
   },
   {
     "login": "birkhofflee",
@@ -5051,7 +5411,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 361,
-    "score": 1051
+    "score": 1051,
+    "globalRank": 18475
   },
   {
     "login": "veeso",
@@ -5065,7 +5426,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 362,
-    "score": 3562
+    "score": 3562,
+    "globalRank": 18476
   },
   {
     "login": "leogr",
@@ -5079,7 +5441,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 363,
-    "score": 2365
+    "score": 2365,
+    "globalRank": 18477
   },
   {
     "login": "pimoGit",
@@ -5093,7 +5456,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 364,
-    "score": 821
+    "score": 821,
+    "globalRank": 18543
   },
   {
     "login": "peppeconti",
@@ -5107,7 +5471,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 365,
-    "score": 230
+    "score": 230,
+    "globalRank": 18666
   },
   {
     "login": "amasiero",
@@ -5121,7 +5486,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 366,
-    "score": 266
+    "score": 266,
+    "globalRank": 18667
   },
   {
     "login": "android1337",
@@ -5135,7 +5501,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 367,
-    "score": 216
+    "score": 216,
+    "globalRank": 18668
   },
   {
     "login": "jermp",
@@ -5149,7 +5516,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 368,
-    "score": 1386
+    "score": 1386,
+    "globalRank": 18669
   },
   {
     "login": "Dax89",
@@ -5163,7 +5531,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 369,
-    "score": 682
+    "score": 682,
+    "globalRank": 18727
   },
   {
     "login": "xm1k3",
@@ -5177,7 +5546,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 370,
-    "score": 725
+    "score": 725,
+    "globalRank": 18794
   },
   {
     "login": "ClaudiuGeorgiu",
@@ -5191,7 +5561,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 371,
-    "score": 1256
+    "score": 1256,
+    "globalRank": 18795
   },
   {
     "login": "Alberto97",
@@ -5205,7 +5576,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 372,
-    "score": 381
+    "score": 381,
+    "globalRank": 18796
   },
   {
     "login": "simoneb",
@@ -5219,7 +5591,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 373,
-    "score": 467
+    "score": 467,
+    "globalRank": 18854
   },
   {
     "login": "simoales",
@@ -5233,7 +5606,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 374,
-    "score": 222
+    "score": 222,
+    "globalRank": 18855
   },
   {
     "login": "fabriziosalmi",
@@ -5247,7 +5621,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 375,
-    "score": 10877
+    "score": 10877,
+    "globalRank": 18930
   },
   {
     "login": "sgotti",
@@ -5261,7 +5636,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 376,
-    "score": 242
+    "score": 242,
+    "globalRank": 18994
   },
   {
     "login": "essepuntato",
@@ -5275,7 +5651,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 377,
-    "score": 633
+    "score": 633,
+    "globalRank": 18995
   },
   {
     "login": "flaper87",
@@ -5289,7 +5666,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 378,
-    "score": 1694
+    "score": 1694,
+    "globalRank": 19047
   },
   {
     "login": "RottingCollective",
@@ -5303,7 +5681,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 379,
-    "score": 209
+    "score": 209,
+    "globalRank": 19048
   },
   {
     "login": "rawnly",
@@ -5317,7 +5696,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 380,
-    "score": 1338
+    "score": 1338,
+    "globalRank": 19120
   },
   {
     "login": "WizardOfMenlo",
@@ -5331,7 +5711,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 381,
-    "score": 1727
+    "score": 1727,
+    "globalRank": 19121
   },
   {
     "login": "dextorer",
@@ -5345,7 +5726,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 382,
-    "score": 968
+    "score": 968,
+    "globalRank": 19122
   },
   {
     "login": "jtommy",
@@ -5359,7 +5741,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 383,
-    "score": 216
+    "score": 216,
+    "globalRank": 19187
   },
   {
     "login": "sbordet",
@@ -5373,7 +5756,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 384,
-    "score": 931
+    "score": 931,
+    "globalRank": 19188
   },
   {
     "login": "rfc1036",
@@ -5387,7 +5771,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 385,
-    "score": 299
+    "score": 299,
+    "globalRank": 19189
   },
   {
     "login": "mcicolella",
@@ -5401,7 +5786,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 386,
-    "score": 246
+    "score": 246,
+    "globalRank": 19264
   },
   {
     "login": "torakiki",
@@ -5415,7 +5801,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 387,
-    "score": 462
+    "score": 462,
+    "globalRank": 19265
   },
   {
     "login": "enricocid",
@@ -5429,7 +5816,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 388,
-    "score": 212
+    "score": 212,
+    "globalRank": 19266
   },
   {
     "login": "mcostalba",
@@ -5443,7 +5831,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 389,
-    "score": 207
+    "score": 207,
+    "globalRank": 19267
   },
   {
     "login": "dbartolini",
@@ -5457,7 +5846,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 390,
-    "score": 2163
+    "score": 2163,
+    "globalRank": 19268
   },
   {
     "login": "LoneDev6",
@@ -5471,7 +5861,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 391,
-    "score": 739
+    "score": 739,
+    "globalRank": 19339
   },
   {
     "login": "francescobianco",
@@ -5485,7 +5876,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 392,
-    "score": 4739
+    "score": 4739,
+    "globalRank": 19340
   },
   {
     "login": "mapio",
@@ -5499,7 +5891,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 393,
-    "score": 847
+    "score": 847,
+    "globalRank": 19421
   },
   {
     "login": "chasseurmic",
@@ -5513,7 +5906,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 394,
-    "score": 208
+    "score": 208,
+    "globalRank": 19422
   },
   {
     "login": "Hokkyokukou",
@@ -5527,7 +5921,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 395,
-    "score": 451
+    "score": 451,
+    "globalRank": 19423
   },
   {
     "login": "m-i-n-a-r",
@@ -5541,7 +5936,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 396,
-    "score": 779
+    "score": 779,
+    "globalRank": 19424
   },
   {
     "login": "matteobaccan",
@@ -5555,7 +5951,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 397,
-    "score": 990
+    "score": 990,
+    "globalRank": 19425
   },
   {
     "login": "pietroppeter",
@@ -5569,7 +5966,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 398,
-    "score": 241
+    "score": 241,
+    "globalRank": 19426
   },
   {
     "login": "albertosantini",
@@ -5583,7 +5981,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 399,
-    "score": 777
+    "score": 777,
+    "globalRank": 19427
   },
   {
     "login": "Wabri",
@@ -5597,7 +5996,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 400,
-    "score": 1139
+    "score": 1139,
+    "globalRank": 19428
   },
   {
     "login": "gbetorre",
@@ -5611,7 +6011,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 401,
-    "score": 1509
+    "score": 1509,
+    "globalRank": 19493
   },
   {
     "login": "brainpicture",
@@ -5625,7 +6026,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 402,
-    "score": 486
+    "score": 486,
+    "globalRank": 19494
   },
   {
     "login": "Granze",
@@ -5639,7 +6041,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 403,
-    "score": 1353
+    "score": 1353,
+    "globalRank": 19495
   },
   {
     "login": "drak3hft7",
@@ -5653,7 +6056,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 404,
-    "score": 267
+    "score": 267,
+    "globalRank": 19567
   },
   {
     "login": "manlius",
@@ -5667,7 +6071,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 405,
-    "score": 225
+    "score": 225,
+    "globalRank": 19568
   },
   {
     "login": "heytherewill",
@@ -5681,7 +6086,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 406,
-    "score": 260
+    "score": 260,
+    "globalRank": 19569
   },
   {
     "login": "jorainer",
@@ -5695,7 +6101,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 407,
-    "score": 1643
+    "score": 1643,
+    "globalRank": 19570
   },
   {
     "login": "gmacario",
@@ -5709,7 +6116,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 408,
-    "score": 3142
+    "score": 3142,
+    "globalRank": 19640
   },
   {
     "login": "Cadienvan",
@@ -5723,7 +6131,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 409,
-    "score": 4585
+    "score": 4585,
+    "globalRank": 19641
   },
   {
     "login": "vladocar",
@@ -5737,7 +6146,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 410,
-    "score": 199
+    "score": 199,
+    "globalRank": 19776
   },
   {
     "login": "c-w",
@@ -5751,7 +6161,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 411,
-    "score": 240
+    "score": 240,
+    "globalRank": 19777
   },
   {
     "login": "ziobrando",
@@ -5765,7 +6176,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 412,
-    "score": 570
+    "score": 570,
+    "globalRank": 19857
   },
   {
     "login": "nicoloboschi",
@@ -5779,7 +6191,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 413,
-    "score": 4384
+    "score": 4384,
+    "globalRank": 19858
   },
   {
     "login": "mell-o-tron",
@@ -5793,7 +6206,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 414,
-    "score": 408
+    "score": 408,
+    "globalRank": 19859
   },
   {
     "login": "ilpianista",
@@ -5807,7 +6221,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 415,
-    "score": 673
+    "score": 673,
+    "globalRank": 19860
   },
   {
     "login": "afelicioni",
@@ -5821,7 +6236,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 416,
-    "score": 5678
+    "score": 5678,
+    "globalRank": 19861
   },
   {
     "login": "GiorgioAntonelli94",
@@ -5835,7 +6251,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 417,
-    "score": 416
+    "score": 416,
+    "globalRank": 19862
   },
   {
     "login": "ivanhofer",
@@ -5849,7 +6266,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 418,
-    "score": 198
+    "score": 198,
+    "globalRank": 19940
   },
   {
     "login": "bettio",
@@ -5863,7 +6281,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 419,
-    "score": 2193
+    "score": 2193,
+    "globalRank": 19941
   },
   {
     "login": "paolomainardi",
@@ -5877,7 +6296,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 420,
-    "score": 1872
+    "score": 1872,
+    "globalRank": 19942
   },
   {
     "login": "padovah4ck",
@@ -5891,7 +6311,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 421,
-    "score": 217
+    "score": 217,
+    "globalRank": 20011
   },
   {
     "login": "zedr",
@@ -5905,7 +6326,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 422,
-    "score": 404
+    "score": 404,
+    "globalRank": 20012
   },
   {
     "login": "undavide",
@@ -5919,7 +6341,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 423,
-    "score": 805
+    "score": 805,
+    "globalRank": 20078
   },
   {
     "login": "yuchi",
@@ -5933,7 +6356,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 424,
-    "score": 198
+    "score": 198,
+    "globalRank": 20079
   },
   {
     "login": "Ansuel",
@@ -5947,7 +6371,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 425,
-    "score": 916
+    "score": 916,
+    "globalRank": 20153
   },
   {
     "login": "diamond2016",
@@ -5961,7 +6386,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 426,
-    "score": 1204
+    "score": 1204,
+    "globalRank": 20154
   },
   {
     "login": "puemos",
@@ -5975,7 +6401,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 427,
-    "score": 2531
+    "score": 2531,
+    "globalRank": 20214
   },
   {
     "login": "DanySK",
@@ -5989,7 +6416,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 428,
-    "score": 3472
+    "score": 3472,
+    "globalRank": 20215
   },
   {
     "login": "alevit90",
@@ -6003,7 +6431,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 429,
-    "score": 193
+    "score": 193,
+    "globalRank": 20216
   },
   {
     "login": "hany606",
@@ -6017,7 +6446,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 430,
-    "score": 476
+    "score": 476,
+    "globalRank": 20217
   },
   {
     "login": "arl",
@@ -6031,7 +6461,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 431,
-    "score": 1226
+    "score": 1226,
+    "globalRank": 20284
   },
   {
     "login": "ducciorocchini",
@@ -6045,7 +6476,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 432,
-    "score": 1122
+    "score": 1122,
+    "globalRank": 20285
   },
   {
     "login": "FrancescoPaoloL",
@@ -6059,7 +6491,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 433,
-    "score": 478
+    "score": 478,
+    "globalRank": 20286
   },
   {
     "login": "3v1n0",
@@ -6073,7 +6506,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 434,
-    "score": 1458
+    "score": 1458,
+    "globalRank": 20358
   },
   {
     "login": "Prince07746",
@@ -6087,7 +6521,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 435,
-    "score": 669
+    "score": 669,
+    "globalRank": 20359
   },
   {
     "login": "xpmatteo",
@@ -6101,7 +6536,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 436,
-    "score": 836
+    "score": 836,
+    "globalRank": 20360
   },
   {
     "login": "open-source-modelling",
@@ -6115,7 +6551,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 437,
-    "score": 208
+    "score": 208,
+    "globalRank": 20430
   },
   {
     "login": "cosmos72",
@@ -6129,7 +6566,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 438,
-    "score": 1030
+    "score": 1030,
+    "globalRank": 20509
   },
   {
     "login": "kian79",
@@ -6143,7 +6581,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 439,
-    "score": 235
+    "score": 235,
+    "globalRank": 20510
   },
   {
     "login": "Puppo",
@@ -6157,7 +6596,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 440,
-    "score": 955
+    "score": 955,
+    "globalRank": 20511
   },
   {
     "login": "christian-roggia",
@@ -6171,7 +6611,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 441,
-    "score": 273
+    "score": 273,
+    "globalRank": 20579
   },
   {
     "login": "dorvan",
@@ -6185,7 +6626,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 442,
-    "score": 211
+    "score": 211,
+    "globalRank": 20580
   },
   {
     "login": "fedeit",
@@ -6199,7 +6641,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 443,
-    "score": 191
+    "score": 191,
+    "globalRank": 20581
   },
   {
     "login": "squillace",
@@ -6213,7 +6656,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 444,
-    "score": 277
+    "score": 277,
+    "globalRank": 20667
   },
   {
     "login": "liarco",
@@ -6227,7 +6671,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 445,
-    "score": 612
+    "score": 612,
+    "globalRank": 20668
   },
   {
     "login": "Alessandro624",
@@ -6241,7 +6686,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 446,
-    "score": 3102
+    "score": 3102,
+    "globalRank": 20750
   },
   {
     "login": "kubealex",
@@ -6255,7 +6701,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 447,
-    "score": 600
+    "score": 600,
+    "globalRank": 20751
   },
   {
     "login": "gambhirsharma",
@@ -6269,7 +6716,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 448,
-    "score": 685
+    "score": 685,
+    "globalRank": 20752
   },
   {
     "login": "ParzivalHack",
@@ -6283,7 +6731,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 449,
-    "score": 599
+    "score": 599,
+    "globalRank": 20825
   },
   {
     "login": "marcogermani87",
@@ -6297,7 +6746,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 450,
-    "score": 320
+    "score": 320,
+    "globalRank": 20826
   },
   {
     "login": "mzyxnuel",
@@ -6311,7 +6761,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 451,
-    "score": 926
+    "score": 926,
+    "globalRank": 20827
   },
   {
     "login": "mfranzon",
@@ -6325,7 +6776,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 452,
-    "score": 795
+    "score": 795,
+    "globalRank": 20914
   },
   {
     "login": "aparo",
@@ -6339,7 +6791,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 453,
-    "score": 238
+    "score": 238,
+    "globalRank": 20915
   },
   {
     "login": "giuppidev",
@@ -6353,7 +6806,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 454,
-    "score": 1362
+    "score": 1362,
+    "globalRank": 21022
   },
   {
     "login": "polilluminato",
@@ -6367,7 +6821,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 455,
-    "score": 549
+    "score": 549,
+    "globalRank": 21023
   },
   {
     "login": "wilk",
@@ -6381,7 +6836,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 456,
-    "score": 182
+    "score": 182,
+    "globalRank": 21114
   },
   {
     "login": "Em-Ant",
@@ -6395,7 +6851,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 457,
-    "score": 208
+    "score": 208,
+    "globalRank": 21115
   },
   {
     "login": "amirzenoozi",
@@ -6409,7 +6866,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 458,
-    "score": 520
+    "score": 520,
+    "globalRank": 21116
   },
   {
     "login": "omorandi",
@@ -6423,7 +6881,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 459,
-    "score": 382
+    "score": 382,
+    "globalRank": 21203
   },
   {
     "login": "alisharifi963",
@@ -6437,7 +6896,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 460,
-    "score": 196
+    "score": 196,
+    "globalRank": 21204
   },
   {
     "login": "mohmmadi123",
@@ -6451,7 +6911,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 461,
-    "score": 181
+    "score": 181,
+    "globalRank": 21205
   },
   {
     "login": "spicyjpeg",
@@ -6465,7 +6926,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 462,
-    "score": 225
+    "score": 225,
+    "globalRank": 21206
   },
   {
     "login": "wajahat-ali-mir-dev",
@@ -6479,7 +6941,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 463,
-    "score": 5842
+    "score": 5842,
+    "globalRank": 21301
   },
   {
     "login": "cioccarellia",
@@ -6493,7 +6956,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 464,
-    "score": 181
+    "score": 181,
+    "globalRank": 21302
   },
   {
     "login": "MarcoBuster",
@@ -6507,7 +6971,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 465,
-    "score": 212
+    "score": 212,
+    "globalRank": 21303
   },
   {
     "login": "FBruzzesi",
@@ -6521,7 +6986,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 466,
-    "score": 2019
+    "score": 2019,
+    "globalRank": 21393
   },
   {
     "login": "fabrimagic72",
@@ -6535,7 +7001,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 467,
-    "score": 178
+    "score": 178,
+    "globalRank": 21477
   },
   {
     "login": "gabro",
@@ -6549,7 +7016,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 468,
-    "score": 222
+    "score": 222,
+    "globalRank": 21478
   },
   {
     "login": "pcapriotti",
@@ -6563,7 +7031,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 469,
-    "score": 308
+    "score": 308,
+    "globalRank": 21479
   },
   {
     "login": "sirmmo",
@@ -6577,7 +7046,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 470,
-    "score": 6252
+    "score": 6252,
+    "globalRank": 21480
   },
   {
     "login": "stefanoverna",
@@ -6591,7 +7061,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 471,
-    "score": 3393
+    "score": 3393,
+    "globalRank": 21481
   },
   {
     "login": "BrilliantPhoenix2024",
@@ -6605,7 +7076,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 472,
-    "score": 178
+    "score": 178,
+    "globalRank": 21555
   },
   {
     "login": "antonioschisano",
@@ -6619,7 +7091,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 473,
-    "score": 176
+    "score": 176,
+    "globalRank": 21646
   },
   {
     "login": "normandipalo",
@@ -6633,7 +7106,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 474,
-    "score": 177
+    "score": 177,
+    "globalRank": 21647
   },
   {
     "login": "silviosampaio",
@@ -6647,7 +7121,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 475,
-    "score": 1218
+    "score": 1218,
+    "globalRank": 21741
   },
   {
     "login": "andredisa",
@@ -6661,7 +7136,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 476,
-    "score": 3080
+    "score": 3080,
+    "globalRank": 21742
   },
   {
     "login": "PirosB3",
@@ -6675,7 +7151,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 477,
-    "score": 2384
+    "score": 2384,
+    "globalRank": 21743
   },
   {
     "login": "adospace",
@@ -6689,7 +7166,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 478,
-    "score": 549
+    "score": 549,
+    "globalRank": 21744
   },
   {
     "login": "Matt-code-d",
@@ -6703,7 +7181,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 479,
-    "score": 3236
+    "score": 3236,
+    "globalRank": 21837
   },
   {
     "login": "MaurizioFD",
@@ -6717,7 +7196,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 480,
-    "score": 214
+    "score": 214,
+    "globalRank": 21838
   },
   {
     "login": "mkmik",
@@ -6731,7 +7211,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 481,
-    "score": 623
+    "score": 623,
+    "globalRank": 21839
   },
   {
     "login": "cloudify",
@@ -6745,7 +7226,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 482,
-    "score": 3880
+    "score": 3880,
+    "globalRank": 21936
   },
   {
     "login": "Bonfee",
@@ -6759,7 +7241,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 483,
-    "score": 173
+    "score": 173,
+    "globalRank": 21937
   },
   {
     "login": "yaapu",
@@ -6773,7 +7256,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 484,
-    "score": 193
+    "score": 193,
+    "globalRank": 22053
   },
   {
     "login": "flick9000",
@@ -6787,7 +7271,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 485,
-    "score": 447
+    "score": 447,
+    "globalRank": 22054
   },
   {
     "login": "paolobarbolini",
@@ -6801,7 +7286,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 486,
-    "score": 1149
+    "score": 1149,
+    "globalRank": 22055
   },
   {
     "login": "coyer1986",
@@ -6815,7 +7301,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 487,
-    "score": 1499
+    "score": 1499,
+    "globalRank": 22056
   },
   {
     "login": "elpaso",
@@ -6829,7 +7316,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 488,
-    "score": 869
+    "score": 869,
+    "globalRank": 22057
   },
   {
     "login": "jodydonetti",
@@ -6843,7 +7331,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 489,
-    "score": 603
+    "score": 603,
+    "globalRank": 22058
   },
   {
     "login": "shomykohai",
@@ -6857,7 +7346,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 490,
-    "score": 1157
+    "score": 1157,
+    "globalRank": 22170
   },
   {
     "login": "adepasquale",
@@ -6871,7 +7361,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 491,
-    "score": 215
+    "score": 215,
+    "globalRank": 22171
   },
   {
     "login": "pigoz",
@@ -6885,7 +7376,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 492,
-    "score": 1090
+    "score": 1090,
+    "globalRank": 22172
   },
   {
     "login": "WilliamKarolDiCioccio",
@@ -6899,7 +7391,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 493,
-    "score": 781
+    "score": 781,
+    "globalRank": 22173
   },
   {
     "login": "pippokill",
@@ -6913,7 +7406,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 494,
-    "score": 296
+    "score": 296,
+    "globalRank": 22293
   },
   {
     "login": "kmunger",
@@ -6927,7 +7421,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 495,
-    "score": 206
+    "score": 206,
+    "globalRank": 22294
   },
   {
     "login": "rebelot",
@@ -6941,7 +7436,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 496,
-    "score": 629
+    "score": 629,
+    "globalRank": 22295
   },
   {
     "login": "Slamdunk",
@@ -6955,7 +7451,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 497,
-    "score": 1292
+    "score": 1292,
+    "globalRank": 22296
   },
   {
     "login": "dcampogiani",
@@ -6969,7 +7466,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 498,
-    "score": 1359
+    "score": 1359,
+    "globalRank": 22297
   },
   {
     "login": "napolux",
@@ -6983,7 +7481,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 499,
-    "score": 217
+    "score": 217,
+    "globalRank": 22298
   },
   {
     "login": "lburgazzoli",
@@ -6997,7 +7496,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 500,
-    "score": 1569
+    "score": 1569,
+    "globalRank": 22411
   },
   {
     "login": "fenix-hub",
@@ -7011,7 +7511,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 501,
-    "score": 404
+    "score": 404,
+    "globalRank": 22412
   },
   {
     "login": "g7",
@@ -7025,7 +7526,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 502,
-    "score": 418
+    "score": 418,
+    "globalRank": 22413
   },
   {
     "login": "stefoxp",
@@ -7039,7 +7541,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 503,
-    "score": 459
+    "score": 459,
+    "globalRank": 22515
   },
   {
     "login": "aleron75",
@@ -7053,7 +7556,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 504,
-    "score": 329
+    "score": 329,
+    "globalRank": 22516
   },
   {
     "login": "91DarioDev",
@@ -7067,7 +7571,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 505,
-    "score": 303
+    "score": 303,
+    "globalRank": 22517
   },
   {
     "login": "joiijos",
@@ -7081,7 +7586,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 506,
-    "score": 168
+    "score": 168,
+    "globalRank": 22518
   },
   {
     "login": "augustozanellato",
@@ -7095,7 +7601,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 507,
-    "score": 594
+    "score": 594,
+    "globalRank": 22519
   },
   {
     "login": "amusarra",
@@ -7109,7 +7616,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 508,
-    "score": 547
+    "score": 547,
+    "globalRank": 22637
   },
   {
     "login": "SMH17",
@@ -7123,7 +7631,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 509,
-    "score": 187
+    "score": 187,
+    "globalRank": 22638
   },
   {
     "login": "HostFat",
@@ -7137,7 +7646,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 510,
-    "score": 1330
+    "score": 1330,
+    "globalRank": 22639
   },
   {
     "login": "Matrix86",
@@ -7151,7 +7661,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 511,
-    "score": 280
+    "score": 280,
+    "globalRank": 22754
   },
   {
     "login": "AvalZ",
@@ -7165,7 +7676,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 512,
-    "score": 218
+    "score": 218,
+    "globalRank": 22755
   },
   {
     "login": "phosphore",
@@ -7179,7 +7691,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 513,
-    "score": 3208
+    "score": 3208,
+    "globalRank": 22862
   },
   {
     "login": "ax",
@@ -7193,7 +7706,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 514,
-    "score": 172
+    "score": 172,
+    "globalRank": 22863
   },
   {
     "login": "luigigubello",
@@ -7207,7 +7721,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 515,
-    "score": 614
+    "score": 614,
+    "globalRank": 22864
   },
   {
     "login": "maboa",
@@ -7221,7 +7736,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 516,
-    "score": 1328
+    "score": 1328,
+    "globalRank": 22865
   },
   {
     "login": "hidran",
@@ -7235,7 +7751,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 517,
-    "score": 1679
+    "score": 1679,
+    "globalRank": 22866
   },
   {
     "login": "sergeytulyakov",
@@ -7249,7 +7766,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 518,
-    "score": 165
+    "score": 165,
+    "globalRank": 22867
   },
   {
     "login": "Lazza",
@@ -7263,7 +7781,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 519,
-    "score": 772
+    "score": 772,
+    "globalRank": 22868
   },
   {
     "login": "Compiled-Code",
@@ -7277,7 +7796,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 520,
-    "score": 165
+    "score": 165,
+    "globalRank": 22869
   },
   {
     "login": "aurasphere",
@@ -7291,7 +7811,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 521,
-    "score": 567
+    "score": 567,
+    "globalRank": 22984
   },
   {
     "login": "wdalmut",
@@ -7305,7 +7826,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 522,
-    "score": 885
+    "score": 885,
+    "globalRank": 22985
   },
   {
     "login": "ostafen",
@@ -7319,7 +7841,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 523,
-    "score": 287
+    "score": 287,
+    "globalRank": 22986
   },
   {
     "login": "amadvance",
@@ -7333,7 +7856,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 524,
-    "score": 4625
+    "score": 4625,
+    "globalRank": 22987
   },
   {
     "login": "breezykermo",
@@ -7347,7 +7871,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 525,
-    "score": 1840
+    "score": 1840,
+    "globalRank": 22988
   },
   {
     "login": "Lucchetto",
@@ -7361,7 +7886,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 526,
-    "score": 825
+    "score": 825,
+    "globalRank": 22989
   },
   {
     "login": "sebasmagri",
@@ -7375,7 +7901,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 527,
-    "score": 206
+    "score": 206,
+    "globalRank": 22990
   },
   {
     "login": "alexamici",
@@ -7389,7 +7916,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 528,
-    "score": 592
+    "score": 592,
+    "globalRank": 22991
   },
   {
     "login": "Amirparsa-Sal",
@@ -7403,7 +7931,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 529,
-    "score": 237
+    "score": 237,
+    "globalRank": 23115
   },
   {
     "login": "erodola",
@@ -7417,7 +7946,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 530,
-    "score": 679
+    "score": 679,
+    "globalRank": 23116
   },
   {
     "login": "EdoardoCarlesi",
@@ -7431,7 +7961,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 531,
-    "score": 190
+    "score": 190,
+    "globalRank": 23117
   },
   {
     "login": "lucab85",
@@ -7445,7 +7976,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 532,
-    "score": 3675
+    "score": 3675,
+    "globalRank": 23118
   },
   {
     "login": "mcallegari",
@@ -7459,7 +7991,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 533,
-    "score": 833
+    "score": 833,
+    "globalRank": 23236
   },
   {
     "login": "Allan-Nava",
@@ -7473,7 +8006,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 534,
-    "score": 358
+    "score": 358,
+    "globalRank": 23237
   },
   {
     "login": "enreeco",
@@ -7487,7 +8021,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 535,
-    "score": 855
+    "score": 855,
+    "globalRank": 23238
   },
   {
     "login": "C0MPL3XDEV",
@@ -7501,7 +8036,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 536,
-    "score": 272
+    "score": 272,
+    "globalRank": 23239
   },
   {
     "login": "mattiamanzati",
@@ -7515,7 +8051,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 537,
-    "score": 1443
+    "score": 1443,
+    "globalRank": 23354
   },
   {
     "login": "npisanti",
@@ -7529,7 +8066,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 538,
-    "score": 161
+    "score": 161,
+    "globalRank": 23355
   },
   {
     "login": "spaghettidba",
@@ -7543,7 +8081,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 539,
-    "score": 685
+    "score": 685,
+    "globalRank": 23472
   },
   {
     "login": "iacopomasi",
@@ -7557,7 +8096,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 540,
-    "score": 189
+    "score": 189,
+    "globalRank": 23589
   },
   {
     "login": "danyspin97",
@@ -7571,7 +8111,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 541,
-    "score": 307
+    "score": 307,
+    "globalRank": 23590
   },
   {
     "login": "Whisppererr",
@@ -7585,7 +8126,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 542,
-    "score": 178
+    "score": 178,
+    "globalRank": 23591
   },
   {
     "login": "Hackjaku",
@@ -7599,7 +8141,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 543,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 23592
   },
   {
     "login": "luigidr",
@@ -7613,7 +8156,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 544,
-    "score": 388
+    "score": 388,
+    "globalRank": 23593
   },
   {
     "login": "massimoaria",
@@ -7627,7 +8171,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 545,
-    "score": 922
+    "score": 922,
+    "globalRank": 23594
   },
   {
     "login": "eolivelli",
@@ -7641,7 +8186,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 546,
-    "score": 2337
+    "score": 2337,
+    "globalRank": 23595
   },
   {
     "login": "FrancoMelandri",
@@ -7655,7 +8201,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 547,
-    "score": 217
+    "score": 217,
+    "globalRank": 23596
   },
   {
     "login": "kennyadsl",
@@ -7669,7 +8216,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 548,
-    "score": 555
+    "score": 555,
+    "globalRank": 23713
   },
   {
     "login": "ilteoood",
@@ -7683,7 +8231,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 549,
-    "score": 6158
+    "score": 6158,
+    "globalRank": 23714
   },
   {
     "login": "mattpoggi",
@@ -7697,7 +8246,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 550,
-    "score": 173
+    "score": 173,
+    "globalRank": 23715
   },
   {
     "login": "musixmatch",
@@ -7711,7 +8261,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 551,
-    "score": 158
+    "score": 158,
+    "globalRank": 23716
   },
   {
     "login": "PaoloPia",
@@ -7725,7 +8276,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 552,
-    "score": 924
+    "score": 924,
+    "globalRank": 23854
   },
   {
     "login": "MaxArt2501",
@@ -7739,7 +8291,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 553,
-    "score": 348
+    "score": 348,
+    "globalRank": 23855
   },
   {
     "login": "Emasoft",
@@ -7753,7 +8306,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 554,
-    "score": 9004
+    "score": 9004,
+    "globalRank": 23856
   },
   {
     "login": "BearToCode",
@@ -7767,7 +8321,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 555,
-    "score": 991
+    "score": 991,
+    "globalRank": 23857
   },
   {
     "login": "angelodel80",
@@ -7781,7 +8336,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 556,
-    "score": 217
+    "score": 217,
+    "globalRank": 23858
   },
   {
     "login": "fox1t",
@@ -7795,7 +8351,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 557,
-    "score": 1791
+    "score": 1791,
+    "globalRank": 23990
   },
   {
     "login": "Lukasss93",
@@ -7809,7 +8366,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 558,
-    "score": 1727
+    "score": 1727,
+    "globalRank": 23991
   },
   {
     "login": "fabriziopandini",
@@ -7823,7 +8381,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 559,
-    "score": 1233
+    "score": 1233,
+    "globalRank": 23992
   },
   {
     "login": "davidesantangelo",
@@ -7837,7 +8396,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 560,
-    "score": 2847
+    "score": 2847,
+    "globalRank": 23993
   },
   {
     "login": "fgaz",
@@ -7851,7 +8411,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 561,
-    "score": 541
+    "score": 541,
+    "globalRank": 23994
   },
   {
     "login": "kekkorider",
@@ -7865,7 +8426,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 562,
-    "score": 957
+    "score": 957,
+    "globalRank": 24110
   },
   {
     "login": "LucaCappelletti94",
@@ -7879,7 +8441,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 563,
-    "score": 5569
+    "score": 5569,
+    "globalRank": 24111
   },
   {
     "login": "emadb",
@@ -7893,7 +8456,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 564,
-    "score": 1378
+    "score": 1378,
+    "globalRank": 24112
   },
   {
     "login": "jotadagostin",
@@ -7907,7 +8471,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 565,
-    "score": 795
+    "score": 795,
+    "globalRank": 24113
   },
   {
     "login": "alsora",
@@ -7921,7 +8486,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 566,
-    "score": 189
+    "score": 189,
+    "globalRank": 24114
   },
   {
     "login": "andysal",
@@ -7935,7 +8501,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 567,
-    "score": 164
+    "score": 164,
+    "globalRank": 24115
   },
   {
     "login": "41xu",
@@ -7949,7 +8516,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 568,
-    "score": 442
+    "score": 442,
+    "globalRank": 24116
   },
   {
     "login": "Nhoya",
@@ -7963,7 +8531,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 569,
-    "score": 155
+    "score": 155,
+    "globalRank": 24117
   },
   {
     "login": "lucadegasperi",
@@ -7977,7 +8546,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 570,
-    "score": 826
+    "score": 826,
+    "globalRank": 24266
   },
   {
     "login": "ElDavoo",
@@ -7991,7 +8561,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 571,
-    "score": 252
+    "score": 252,
+    "globalRank": 24267
   },
   {
     "login": "mateonunez",
@@ -8005,7 +8576,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 572,
-    "score": 1424
+    "score": 1424,
+    "globalRank": 24402
   },
   {
     "login": "gvinciguerra",
@@ -8019,7 +8591,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 573,
-    "score": 273
+    "score": 273,
+    "globalRank": 24403
   },
   {
     "login": "littleark",
@@ -8033,7 +8606,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 574,
-    "score": 369
+    "score": 369,
+    "globalRank": 24404
   },
   {
     "login": "dianaberna",
@@ -8047,7 +8621,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 575,
-    "score": 1063
+    "score": 1063,
+    "globalRank": 24405
   },
   {
     "login": "mlivesu",
@@ -8061,7 +8636,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 576,
-    "score": 306
+    "score": 306,
+    "globalRank": 24406
   },
   {
     "login": "majestic-owl448",
@@ -8075,7 +8651,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 577,
-    "score": 3271
+    "score": 3271,
+    "globalRank": 24407
   },
   {
     "login": "goblindegook",
@@ -8089,7 +8666,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 578,
-    "score": 295
+    "score": 295,
+    "globalRank": 24521
   },
   {
     "login": "luca-heltai",
@@ -8103,7 +8681,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 579,
-    "score": 984
+    "score": 984,
+    "globalRank": 24522
   },
   {
     "login": "crisidev",
@@ -8117,7 +8696,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 580,
-    "score": 348
+    "score": 348,
+    "globalRank": 24523
   },
   {
     "login": "mohamadch91",
@@ -8131,7 +8711,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 581,
-    "score": 8743
+    "score": 8743,
+    "globalRank": 24524
   },
   {
     "login": "MalwareLabx",
@@ -8145,7 +8726,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 582,
-    "score": 152
+    "score": 152,
+    "globalRank": 24665
   },
   {
     "login": "Vectorpackengine",
@@ -8159,7 +8741,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 583,
-    "score": 168
+    "score": 168,
+    "globalRank": 24666
   },
   {
     "login": "GiulioRomualdi",
@@ -8173,7 +8756,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 584,
-    "score": 1472
+    "score": 1472,
+    "globalRank": 24667
   },
   {
     "login": "aadm",
@@ -8187,7 +8771,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 585,
-    "score": 169
+    "score": 169,
+    "globalRank": 24802
   },
   {
     "login": "mane",
@@ -8201,7 +8786,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 586,
-    "score": 243
+    "score": 243,
+    "globalRank": 24803
   },
   {
     "login": "ShiSHcat",
@@ -8215,7 +8801,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 587,
-    "score": 169
+    "score": 169,
+    "globalRank": 24804
   },
   {
     "login": "StefanFlorian94",
@@ -8229,7 +8816,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 588,
-    "score": 178
+    "score": 178,
+    "globalRank": 24805
   },
   {
     "login": "cris96spa",
@@ -8243,7 +8831,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 589,
-    "score": 4237
+    "score": 4237,
+    "globalRank": 24945
   },
   {
     "login": "albanobattistella",
@@ -8257,7 +8846,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 590,
-    "score": 915
+    "score": 915,
+    "globalRank": 24946
   },
   {
     "login": "Kliton",
@@ -8271,7 +8861,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 591,
-    "score": 1371
+    "score": 1371,
+    "globalRank": 24947
   },
   {
     "login": "r3dxpl0it",
@@ -8285,7 +8876,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 592,
-    "score": 152
+    "score": 152,
+    "globalRank": 24948
   },
   {
     "login": "saniales",
@@ -8299,7 +8891,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 593,
-    "score": 667
+    "score": 667,
+    "globalRank": 24949
   },
   {
     "login": "francesco-strazzullo",
@@ -8313,7 +8906,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 594,
-    "score": 287
+    "score": 287,
+    "globalRank": 24950
   },
   {
     "login": "Fashad-Ahmed",
@@ -8327,7 +8921,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 595,
-    "score": 3454
+    "score": 3454,
+    "globalRank": 24951
   },
   {
     "login": "L0STE",
@@ -8341,7 +8936,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 596,
-    "score": 2015
+    "score": 2015,
+    "globalRank": 24952
   },
   {
     "login": "toomuchdesign",
@@ -8355,7 +8951,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 597,
-    "score": 823
+    "score": 823,
+    "globalRank": 25080
   },
   {
     "login": "Lorezz",
@@ -8369,7 +8966,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 598,
-    "score": 387
+    "score": 387,
+    "globalRank": 25081
   },
   {
     "login": "ebastler",
@@ -8383,7 +8981,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 599,
-    "score": 188
+    "score": 188,
+    "globalRank": 25082
   },
   {
     "login": "bovirus",
@@ -8397,7 +8996,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 600,
-    "score": 1455
+    "score": 1455,
+    "globalRank": 25083
   },
   {
     "login": "plfiorini",
@@ -8411,7 +9011,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 601,
-    "score": 1040
+    "score": 1040,
+    "globalRank": 25084
   },
   {
     "login": "JavadZandiyeh",
@@ -8425,7 +9026,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 602,
-    "score": 219
+    "score": 219,
+    "globalRank": 25216
   },
   {
     "login": "guerinoni",
@@ -8439,7 +9041,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 603,
-    "score": 2918
+    "score": 2918,
+    "globalRank": 25217
   },
   {
     "login": "danterolle",
@@ -8453,7 +9056,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 604,
-    "score": 480
+    "score": 480,
+    "globalRank": 25218
   },
   {
     "login": "ludusrusso",
@@ -8467,7 +9071,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 605,
-    "score": 618
+    "score": 618,
+    "globalRank": 25219
   },
   {
     "login": "aliivaezii",
@@ -8481,7 +9086,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 606,
-    "score": 891
+    "score": 891,
+    "globalRank": 25220
   },
   {
     "login": "dainok",
@@ -8495,7 +9101,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 607,
-    "score": 633
+    "score": 633,
+    "globalRank": 25221
   },
   {
     "login": "andreabuttarelli",
@@ -8509,7 +9116,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 608,
-    "score": 4976
+    "score": 4976,
+    "globalRank": 25341
   },
   {
     "login": "Exyss",
@@ -8523,7 +9131,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 609,
-    "score": 326
+    "score": 326,
+    "globalRank": 25342
   },
   {
     "login": "emanuelegurini",
@@ -8537,7 +9146,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 610,
-    "score": 1562
+    "score": 1562,
+    "globalRank": 25343
   },
   {
     "login": "barrycumbie",
@@ -8551,7 +9161,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 611,
-    "score": 1026
+    "score": 1026,
+    "globalRank": 25344
   },
   {
     "login": "Giovix92",
@@ -8565,7 +9176,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 612,
-    "score": 177
+    "score": 177,
+    "globalRank": 25345
   },
   {
     "login": "hackademix",
@@ -8579,7 +9191,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 613,
-    "score": 688
+    "score": 688,
+    "globalRank": 25346
   },
   {
     "login": "intrip",
@@ -8593,7 +9206,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 614,
-    "score": 1820
+    "score": 1820,
+    "globalRank": 25479
   },
   {
     "login": "matfantinel",
@@ -8607,7 +9221,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 615,
-    "score": 674
+    "score": 674,
+    "globalRank": 25480
   },
   {
     "login": "marcosh",
@@ -8621,7 +9236,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 616,
-    "score": 842
+    "score": 842,
+    "globalRank": 25481
   },
   {
     "login": "volkanozsarac",
@@ -8635,7 +9251,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 617,
-    "score": 709
+    "score": 709,
+    "globalRank": 25482
   },
   {
     "login": "SalGnt",
@@ -8649,7 +9266,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 618,
-    "score": 172
+    "score": 172,
+    "globalRank": 25483
   },
   {
     "login": "Pupix",
@@ -8663,7 +9281,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 619,
-    "score": 154
+    "score": 154,
+    "globalRank": 25484
   },
   {
     "login": "CarloDotLog",
@@ -8677,7 +9296,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 620,
-    "score": 288
+    "score": 288,
+    "globalRank": 25485
   },
   {
     "login": "mastrogb",
@@ -8691,7 +9311,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 621,
-    "score": 148
+    "score": 148,
+    "globalRank": 25630
   },
   {
     "login": "roberto-arista",
@@ -8705,7 +9326,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 622,
-    "score": 2922
+    "score": 2922,
+    "globalRank": 25785
   },
   {
     "login": "SomTambe",
@@ -8719,7 +9341,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 623,
-    "score": 166
+    "score": 166,
+    "globalRank": 25786
   },
   {
     "login": "Steffo99",
@@ -8733,7 +9356,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 624,
-    "score": 392
+    "score": 392,
+    "globalRank": 25787
   },
   {
     "login": "carlobaldassi",
@@ -8747,7 +9371,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 625,
-    "score": 149
+    "score": 149,
+    "globalRank": 25788
   },
   {
     "login": "fametrano",
@@ -8761,7 +9386,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 626,
-    "score": 222
+    "score": 222,
+    "globalRank": 25789
   },
   {
     "login": "thesofakillers",
@@ -8775,7 +9401,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 627,
-    "score": 2358
+    "score": 2358,
+    "globalRank": 25790
   },
   {
     "login": "rbino",
@@ -8789,7 +9416,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 628,
-    "score": 469
+    "score": 469,
+    "globalRank": 25791
   },
   {
     "login": "gragusa",
@@ -8803,7 +9431,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 629,
-    "score": 1065
+    "score": 1065,
+    "globalRank": 25941
   },
   {
     "login": "thehowl",
@@ -8817,7 +9446,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 630,
-    "score": 1022
+    "score": 1022,
+    "globalRank": 25942
   },
   {
     "login": "alepore",
@@ -8831,7 +9461,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 631,
-    "score": 1261
+    "score": 1261,
+    "globalRank": 25943
   },
   {
     "login": "mr-manuel",
@@ -8845,7 +9476,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 632,
-    "score": 801
+    "score": 801,
+    "globalRank": 25944
   },
   {
     "login": "orestbida",
@@ -8859,7 +9491,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 633,
-    "score": 682
+    "score": 682,
+    "globalRank": 25945
   },
   {
     "login": "jacopo-j",
@@ -8873,7 +9506,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 634,
-    "score": 149
+    "score": 149,
+    "globalRank": 25946
   },
   {
     "login": "andreadelprete",
@@ -8887,7 +9521,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 635,
-    "score": 203
+    "score": 203,
+    "globalRank": 26090
   },
   {
     "login": "D0men1c0",
@@ -8901,7 +9536,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 636,
-    "score": 437
+    "score": 437,
+    "globalRank": 26091
   },
   {
     "login": "mq1",
@@ -8915,7 +9551,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 637,
-    "score": 7416
+    "score": 7416,
+    "globalRank": 26092
   },
   {
     "login": "AlessandroMinoccheri",
@@ -8929,7 +9566,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 638,
-    "score": 179
+    "score": 179,
+    "globalRank": 26237
   },
   {
     "login": "gali8",
@@ -8943,7 +9581,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 639,
-    "score": 142
+    "score": 142,
+    "globalRank": 26238
   },
   {
     "login": "BrutPitt",
@@ -8957,7 +9596,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 640,
-    "score": 175
+    "score": 175,
+    "globalRank": 26239
   },
   {
     "login": "bsorrentino",
@@ -8971,7 +9611,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 641,
-    "score": 2458
+    "score": 2458,
+    "globalRank": 26240
   },
   {
     "login": "felixggi",
@@ -8985,7 +9626,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 642,
-    "score": 140
+    "score": 140,
+    "globalRank": 26241
   },
   {
     "login": "giuseppebonaccorso",
@@ -8999,7 +9641,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 643,
-    "score": 140
+    "score": 140,
+    "globalRank": 26242
   },
   {
     "login": "davidebeatrici",
@@ -9013,7 +9656,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 644,
-    "score": 5287
+    "score": 5287,
+    "globalRank": 26397
   },
   {
     "login": "EscVM",
@@ -9027,7 +9671,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 645,
-    "score": 152
+    "score": 152,
+    "globalRank": 26398
   },
   {
     "login": "marcellacornia",
@@ -9041,7 +9686,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 646,
-    "score": 165
+    "score": 165,
+    "globalRank": 26399
   },
   {
     "login": "marcellobardus",
@@ -9055,7 +9701,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 647,
-    "score": 143
+    "score": 143,
+    "globalRank": 26400
   },
   {
     "login": "drizzt",
@@ -9069,7 +9716,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 648,
-    "score": 632
+    "score": 632,
+    "globalRank": 26557
   },
   {
     "login": "stefantalpalaru",
@@ -9083,7 +9731,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 649,
-    "score": 718
+    "score": 718,
+    "globalRank": 26558
   },
   {
     "login": "AntonioBerna",
@@ -9097,7 +9746,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 650,
-    "score": 882
+    "score": 882,
+    "globalRank": 26559
   },
   {
     "login": "sullof",
@@ -9111,7 +9761,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 651,
-    "score": 948
+    "score": 948,
+    "globalRank": 26560
   },
   {
     "login": "indomus",
@@ -9125,7 +9776,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 652,
-    "score": 139
+    "score": 139,
+    "globalRank": 26712
   },
   {
     "login": "drisso",
@@ -9139,7 +9791,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 653,
-    "score": 375
+    "score": 375,
+    "globalRank": 26713
   },
   {
     "login": "rospogrigio",
@@ -9153,7 +9806,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 654,
-    "score": 142
+    "score": 142,
+    "globalRank": 26714
   },
   {
     "login": "dgerosa",
@@ -9167,7 +9821,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 655,
-    "score": 2669
+    "score": 2669,
+    "globalRank": 26715
   },
   {
     "login": "urbanslug",
@@ -9181,7 +9836,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 656,
-    "score": 450
+    "score": 450,
+    "globalRank": 26716
   },
   {
     "login": "airscripts",
@@ -9195,7 +9851,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 657,
-    "score": 1461
+    "score": 1461,
+    "globalRank": 26717
   },
   {
     "login": "FedericoBruzzone",
@@ -9209,7 +9866,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 658,
-    "score": 2141
+    "score": 2141,
+    "globalRank": 26718
   },
   {
     "login": "alessandrogario",
@@ -9223,7 +9881,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 659,
-    "score": 753
+    "score": 753,
+    "globalRank": 26867
   },
   {
     "login": "davidcanino",
@@ -9237,7 +9896,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 660,
-    "score": 136
+    "score": 136,
+    "globalRank": 26868
   },
   {
     "login": "LidiaKovac",
@@ -9251,7 +9911,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 661,
-    "score": 812
+    "score": 812,
+    "globalRank": 26869
   },
   {
     "login": "borntofrappe",
@@ -9265,7 +9926,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 662,
-    "score": 498
+    "score": 498,
+    "globalRank": 26870
   },
   {
     "login": "LightDestory",
@@ -9279,7 +9941,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 663,
-    "score": 380
+    "score": 380,
+    "globalRank": 27031
   },
   {
     "login": "Gruppio",
@@ -9293,7 +9956,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 664,
-    "score": 1117
+    "score": 1117,
+    "globalRank": 27032
   },
   {
     "login": "mavimo",
@@ -9307,7 +9971,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 665,
-    "score": 901
+    "score": 901,
+    "globalRank": 27207
   },
   {
     "login": "danybony",
@@ -9321,7 +9986,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 666,
-    "score": 737
+    "score": 737,
+    "globalRank": 27208
   },
   {
     "login": "antonio-petricca",
@@ -9335,7 +10001,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 667,
-    "score": 1349
+    "score": 1349,
+    "globalRank": 27209
   },
   {
     "login": "duckyb",
@@ -9349,7 +10016,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 668,
-    "score": 976
+    "score": 976,
+    "globalRank": 27210
   },
   {
     "login": "stefano-garzarella",
@@ -9363,7 +10031,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 669,
-    "score": 933
+    "score": 933,
+    "globalRank": 27211
   },
   {
     "login": "mastrolinux",
@@ -9377,7 +10046,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 670,
-    "score": 1512
+    "score": 1512,
+    "globalRank": 27212
   },
   {
     "login": "Laky-64",
@@ -9391,7 +10061,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 671,
-    "score": 1121
+    "score": 1121,
+    "globalRank": 27213
   },
   {
     "login": "fmarchioni",
@@ -9405,7 +10076,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 672,
-    "score": 238
+    "score": 238,
+    "globalRank": 27214
   },
   {
     "login": "smx-smx",
@@ -9419,7 +10091,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 673,
-    "score": 549
+    "score": 549,
+    "globalRank": 27374
   },
   {
     "login": "JustWhit3",
@@ -9433,7 +10106,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 674,
-    "score": 143
+    "score": 143,
+    "globalRank": 27375
   },
   {
     "login": "MaSTERmIKK",
@@ -9447,7 +10121,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 675,
-    "score": 1001
+    "score": 1001,
+    "globalRank": 27376
   },
   {
     "login": "lolgab",
@@ -9461,7 +10136,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 676,
-    "score": 625
+    "score": 625,
+    "globalRank": 27377
   },
   {
     "login": "nicolaferraro",
@@ -9475,7 +10151,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 677,
-    "score": 953
+    "score": 953,
+    "globalRank": 27540
   },
   {
     "login": "matteobaglini",
@@ -9489,7 +10166,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 678,
-    "score": 1661
+    "score": 1661,
+    "globalRank": 27541
   },
   {
     "login": "alejoe91",
@@ -9503,7 +10181,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 679,
-    "score": 2206
+    "score": 2206,
+    "globalRank": 27542
   },
   {
     "login": "gianlucam76",
@@ -9517,7 +10196,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 680,
-    "score": 4765
+    "score": 4765,
+    "globalRank": 27543
   },
   {
     "login": "ronvoy",
@@ -9531,7 +10211,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 681,
-    "score": 996
+    "score": 996,
+    "globalRank": 27686
   },
   {
     "login": "SheMelody",
@@ -9545,7 +10226,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 682,
-    "score": 133
+    "score": 133,
+    "globalRank": 27687
   },
   {
     "login": "richkmeli",
@@ -9559,7 +10241,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 683,
-    "score": 439
+    "score": 439,
+    "globalRank": 27688
   },
   {
     "login": "massimobonanni",
@@ -9573,7 +10256,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 684,
-    "score": 1000
+    "score": 1000,
+    "globalRank": 27689
   },
   {
     "login": "MarcAnt01",
@@ -9587,7 +10271,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 685,
-    "score": 142
+    "score": 142,
+    "globalRank": 27690
   },
   {
     "login": "blazordevita",
@@ -9601,7 +10286,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 686,
-    "score": 131
+    "score": 131,
+    "globalRank": 27691
   },
   {
     "login": "CalfCrusher",
@@ -9615,7 +10301,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 687,
-    "score": 1316
+    "score": 1316,
+    "globalRank": 27692
   },
   {
     "login": "JustOptimize",
@@ -9629,7 +10316,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 688,
-    "score": 1255
+    "score": 1255,
+    "globalRank": 27693
   },
   {
     "login": "christiantroy",
@@ -9643,7 +10331,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 689,
-    "score": 130
+    "score": 130,
+    "globalRank": 27855
   },
   {
     "login": "alexandercerutti",
@@ -9657,7 +10346,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 690,
-    "score": 2444
+    "score": 2444,
+    "globalRank": 27856
   },
   {
     "login": "limone-eth",
@@ -9671,7 +10361,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 691,
-    "score": 2382
+    "score": 2382,
+    "globalRank": 27857
   },
   {
     "login": "ktiOSz",
@@ -9685,7 +10376,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 692,
-    "score": 130
+    "score": 130,
+    "globalRank": 27858
   },
   {
     "login": "nicolaprezza",
@@ -9699,7 +10391,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 693,
-    "score": 326
+    "score": 326,
+    "globalRank": 27859
   },
   {
     "login": "lorenzodifuccia",
@@ -9713,7 +10406,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 694,
-    "score": 169
+    "score": 169,
+    "globalRank": 27860
   },
   {
     "login": "albertogeniola",
@@ -9727,7 +10421,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 695,
-    "score": 155
+    "score": 155,
+    "globalRank": 27861
   },
   {
     "login": "danielecampione",
@@ -9741,7 +10436,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 696,
-    "score": 285
+    "score": 285,
+    "globalRank": 27862
   },
   {
     "login": "paolocarta",
@@ -9755,7 +10451,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 697,
-    "score": 770
+    "score": 770,
+    "globalRank": 27863
   },
   {
     "login": "ataeiamirhosein",
@@ -9769,7 +10466,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 698,
-    "score": 137
+    "score": 137,
+    "globalRank": 28008
   },
   {
     "login": "magomimmo",
@@ -9783,7 +10481,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 699,
-    "score": 129
+    "score": 129,
+    "globalRank": 28009
   },
   {
     "login": "brucellino",
@@ -9797,7 +10496,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 700,
-    "score": 3030
+    "score": 3030,
+    "globalRank": 28010
   },
   {
     "login": "TheCrypt0",
@@ -9811,7 +10511,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 701,
-    "score": 266
+    "score": 266,
+    "globalRank": 28011
   },
   {
     "login": "Danieleg82",
@@ -9825,7 +10526,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 702,
-    "score": 129
+    "score": 129,
+    "globalRank": 28012
   },
   {
     "login": "agargaro",
@@ -9839,7 +10541,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 703,
-    "score": 324
+    "score": 324,
+    "globalRank": 28013
   },
   {
     "login": "vjt",
@@ -9853,7 +10556,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 704,
-    "score": 10597
+    "score": 10597,
+    "globalRank": 28014
   },
   {
     "login": "enricomarino",
@@ -9867,7 +10571,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 705,
-    "score": 129
+    "score": 129,
+    "globalRank": 28015
   },
   {
     "login": "PhysicsOfData",
@@ -9881,7 +10586,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 706,
-    "score": 160
+    "score": 160,
+    "globalRank": 28016
   },
   {
     "login": "anatolinicolae",
@@ -9895,7 +10601,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 707,
-    "score": 877
+    "score": 877,
+    "globalRank": 28017
   },
   {
     "login": "wisec",
@@ -9909,7 +10616,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 708,
-    "score": 248
+    "score": 248,
+    "globalRank": 28179
   },
   {
     "login": "Tkd-Alex",
@@ -9923,7 +10631,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 709,
-    "score": 809
+    "score": 809,
+    "globalRank": 28180
   },
   {
     "login": "made2591",
@@ -9937,7 +10646,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 710,
-    "score": 3030
+    "score": 3030,
+    "globalRank": 28181
   },
   {
     "login": "AngeloAvv",
@@ -9951,7 +10661,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 711,
-    "score": 425
+    "score": 425,
+    "globalRank": 28182
   },
   {
     "login": "mursalfk",
@@ -9965,7 +10676,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 712,
-    "score": 277
+    "score": 277,
+    "globalRank": 28183
   },
   {
     "login": "endorama",
@@ -9979,7 +10691,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 713,
-    "score": 1073
+    "score": 1073,
+    "globalRank": 28184
   },
   {
     "login": "ytnoos",
@@ -9993,7 +10706,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 714,
-    "score": 1730
+    "score": 1730,
+    "globalRank": 28185
   },
   {
     "login": "amin-tehrani",
@@ -10007,7 +10721,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 715,
-    "score": 4910
+    "score": 4910,
+    "globalRank": 28374
   },
   {
     "login": "federicorex",
@@ -10021,7 +10736,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 716,
-    "score": 127
+    "score": 127,
+    "globalRank": 28375
   },
   {
     "login": "GiaSen",
@@ -10035,7 +10751,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 717,
-    "score": 365
+    "score": 365,
+    "globalRank": 28376
   },
   {
     "login": "Pigrecos",
@@ -10049,7 +10766,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 718,
-    "score": 127
+    "score": 127,
+    "globalRank": 28377
   },
   {
     "login": "montali",
@@ -10063,7 +10781,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 719,
-    "score": 150
+    "score": 150,
+    "globalRank": 28378
   },
   {
     "login": "xdemocle",
@@ -10077,7 +10796,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 720,
-    "score": 7874
+    "score": 7874,
+    "globalRank": 28379
   },
   {
     "login": "fsciuti",
@@ -10091,7 +10811,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 721,
-    "score": 129
+    "score": 129,
+    "globalRank": 28380
   },
   {
     "login": "fabiotosi92",
@@ -10105,7 +10826,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 722,
-    "score": 206
+    "score": 206,
+    "globalRank": 28381
   },
   {
     "login": "andreabergia",
@@ -10119,7 +10841,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 723,
-    "score": 880
+    "score": 880,
+    "globalRank": 28557
   },
   {
     "login": "nandajavarma",
@@ -10133,7 +10856,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 724,
-    "score": 3231
+    "score": 3231,
+    "globalRank": 28558
   },
   {
     "login": "ugol",
@@ -10147,7 +10871,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 725,
-    "score": 281
+    "score": 281,
+    "globalRank": 28559
   },
   {
     "login": "paulocoghi",
@@ -10161,7 +10886,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 726,
-    "score": 347
+    "score": 347,
+    "globalRank": 28560
   },
   {
     "login": "45kb",
@@ -10175,7 +10901,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 727,
-    "score": 126
+    "score": 126,
+    "globalRank": 28561
   },
   {
     "login": "morellodev",
@@ -10189,7 +10916,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 728,
-    "score": 914
+    "score": 914,
+    "globalRank": 28562
   },
   {
     "login": "swrobel",
@@ -10203,7 +10931,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 729,
-    "score": 930
+    "score": 930,
+    "globalRank": 28563
   },
   {
     "login": "jacopotediosi",
@@ -10217,7 +10946,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 730,
-    "score": 910
+    "score": 910,
+    "globalRank": 28758
   },
   {
     "login": "simonecorsi",
@@ -10231,7 +10961,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 731,
-    "score": 2475
+    "score": 2475,
+    "globalRank": 28759
   },
   {
     "login": "simahawk",
@@ -10245,7 +10976,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 732,
-    "score": 968
+    "score": 968,
+    "globalRank": 28760
   },
   {
     "login": "DomeT99",
@@ -10259,7 +10991,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 733,
-    "score": 540
+    "score": 540,
+    "globalRank": 28761
   },
   {
     "login": "davcri",
@@ -10273,7 +11006,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 734,
-    "score": 734
+    "score": 734,
+    "globalRank": 28762
   },
   {
     "login": "andreapollastri",
@@ -10287,7 +11021,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 735,
-    "score": 1935
+    "score": 1935,
+    "globalRank": 28927
   },
   {
     "login": "foxhound87",
@@ -10301,7 +11036,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 736,
-    "score": 193
+    "score": 193,
+    "globalRank": 28928
   },
   {
     "login": "dottantgal",
@@ -10315,7 +11051,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 737,
-    "score": 709
+    "score": 709,
+    "globalRank": 28929
   },
   {
     "login": "adinapoli",
@@ -10329,7 +11066,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 738,
-    "score": 4040
+    "score": 4040,
+    "globalRank": 28930
   },
   {
     "login": "kholk",
@@ -10343,7 +11081,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 739,
-    "score": 127
+    "score": 127,
+    "globalRank": 28931
   },
   {
     "login": "PoglianiMattia",
@@ -10357,7 +11096,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 740,
-    "score": 124
+    "score": 124,
+    "globalRank": 28932
   },
   {
     "login": "clemenzi",
@@ -10371,7 +11111,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 741,
-    "score": 658
+    "score": 658,
+    "globalRank": 28933
   },
   {
     "login": "prittt",
@@ -10385,7 +11126,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 742,
-    "score": 929
+    "score": 929,
+    "globalRank": 28934
   },
   {
     "login": "Ladvace",
@@ -10399,7 +11141,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 743,
-    "score": 2159
+    "score": 2159,
+    "globalRank": 28935
   },
   {
     "login": "Andrea-Cavallo",
@@ -10413,7 +11156,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 744,
-    "score": 395
+    "score": 395,
+    "globalRank": 29132
   },
   {
     "login": "Specy",
@@ -10427,7 +11171,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 745,
-    "score": 1633
+    "score": 1633,
+    "globalRank": 29133
   },
   {
     "login": "wbigger",
@@ -10441,7 +11186,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 746,
-    "score": 216
+    "score": 216,
+    "globalRank": 29134
   },
   {
     "login": "andrei-zgirvaci",
@@ -10455,7 +11201,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 747,
-    "score": 342
+    "score": 342,
+    "globalRank": 29135
   },
   {
     "login": "GiovanniPasq",
@@ -10469,7 +11216,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 748,
-    "score": 346
+    "score": 346,
+    "globalRank": 29136
   },
   {
     "login": "LorenzCK",
@@ -10483,7 +11231,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 749,
-    "score": 937
+    "score": 937,
+    "globalRank": 29137
   },
   {
     "login": "rstefanetti",
@@ -10497,7 +11246,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 750,
-    "score": 145
+    "score": 145,
+    "globalRank": 29138
   },
   {
     "login": "phisco",
@@ -10511,7 +11261,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 751,
-    "score": 2598
+    "score": 2598,
+    "globalRank": 29309
   },
   {
     "login": "hsnborn22",
@@ -10525,7 +11276,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 752,
-    "score": 122
+    "score": 122,
+    "globalRank": 29310
   },
   {
     "login": "afabiani",
@@ -10539,7 +11291,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 753,
-    "score": 1025
+    "score": 1025,
+    "globalRank": 29311
   },
   {
     "login": "piever",
@@ -10553,7 +11306,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 754,
-    "score": 611
+    "score": 611,
+    "globalRank": 29494
   },
   {
     "login": "imperugo",
@@ -10567,7 +11321,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 755,
-    "score": 5576
+    "score": 5576,
+    "globalRank": 29495
   },
   {
     "login": "kevingreenman",
@@ -10581,7 +11336,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 756,
-    "score": 193
+    "score": 193,
+    "globalRank": 29496
   },
   {
     "login": "gianpaolof",
@@ -10595,7 +11351,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 757,
-    "score": 189
+    "score": 189,
+    "globalRank": 29497
   },
   {
     "login": "alvisespano",
@@ -10609,7 +11366,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 758,
-    "score": 368
+    "score": 368,
+    "globalRank": 29692
   },
   {
     "login": "dnlcrl",
@@ -10623,7 +11381,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 759,
-    "score": 1041
+    "score": 1041,
+    "globalRank": 29693
   },
   {
     "login": "Zibri",
@@ -10637,7 +11396,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 760,
-    "score": 297
+    "score": 297,
+    "globalRank": 29694
   },
   {
     "login": "chrvadala",
@@ -10651,7 +11411,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 761,
-    "score": 146
+    "score": 146,
+    "globalRank": 29695
   },
   {
     "login": "Neurone",
@@ -10665,7 +11426,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 762,
-    "score": 668
+    "score": 668,
+    "globalRank": 29696
   },
   {
     "login": "ludovicobesana",
@@ -10679,7 +11441,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 763,
-    "score": 1051
+    "score": 1051,
+    "globalRank": 29697
   },
   {
     "login": "luciotato",
@@ -10693,7 +11456,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 764,
-    "score": 1389
+    "score": 1389,
+    "globalRank": 29698
   },
   {
     "login": "Darkseal",
@@ -10707,7 +11471,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 765,
-    "score": 889
+    "score": 889,
+    "globalRank": 29699
   },
   {
     "login": "alegrey91",
@@ -10721,7 +11486,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 766,
-    "score": 748
+    "score": 748,
+    "globalRank": 29700
   },
   {
     "login": "ceticamarco",
@@ -10735,7 +11501,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 767,
-    "score": 255
+    "score": 255,
+    "globalRank": 29701
   },
   {
     "login": "johnnypax",
@@ -10749,7 +11516,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 768,
-    "score": 152
+    "score": 152,
+    "globalRank": 29897
   },
   {
     "login": "gionn",
@@ -10763,7 +11531,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 769,
-    "score": 4074
+    "score": 4074,
+    "globalRank": 29898
   },
   {
     "login": "pNre",
@@ -10777,7 +11546,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 770,
-    "score": 119
+    "score": 119,
+    "globalRank": 29899
   },
   {
     "login": "pettarin",
@@ -10791,7 +11561,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 771,
-    "score": 149
+    "score": 149,
+    "globalRank": 29900
   },
   {
     "login": "Christopher83",
@@ -10805,7 +11576,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 772,
-    "score": 119
+    "score": 119,
+    "globalRank": 29901
   },
   {
     "login": "NelloKudo",
@@ -10819,7 +11591,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 773,
-    "score": 1553
+    "score": 1553,
+    "globalRank": 30087
   },
   {
     "login": "jacopofar",
@@ -10833,7 +11606,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 774,
-    "score": 313
+    "score": 313,
+    "globalRank": 30088
   },
   {
     "login": "Herbrant",
@@ -10847,7 +11621,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 775,
-    "score": 630
+    "score": 630,
+    "globalRank": 30089
   },
   {
     "login": "matjack1",
@@ -10861,7 +11636,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 776,
-    "score": 247
+    "score": 247,
+    "globalRank": 30090
   },
   {
     "login": "GuglielmoCerri",
@@ -10875,7 +11651,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 777,
-    "score": 143
+    "score": 143,
+    "globalRank": 30091
   },
   {
     "login": "Saddytech",
@@ -10889,7 +11666,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 778,
-    "score": 142
+    "score": 142,
+    "globalRank": 30092
   },
   {
     "login": "DavidePastore",
@@ -10903,7 +11681,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 779,
-    "score": 337
+    "score": 337,
+    "globalRank": 30093
   },
   {
     "login": "0verp0wer",
@@ -10917,7 +11696,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 780,
-    "score": 245
+    "score": 245,
+    "globalRank": 30094
   },
   {
     "login": "leandrowar",
@@ -10931,7 +11711,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 781,
-    "score": 276
+    "score": 276,
+    "globalRank": 30291
   },
   {
     "login": "gigitux",
@@ -10945,7 +11726,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 782,
-    "score": 1045
+    "score": 1045,
+    "globalRank": 30292
   },
   {
     "login": "davidefella",
@@ -10959,7 +11741,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 783,
-    "score": 887
+    "score": 887,
+    "globalRank": 30293
   },
   {
     "login": "bytesAIren",
@@ -10973,7 +11756,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 784,
-    "score": 184
+    "score": 184,
+    "globalRank": 30294
   },
   {
     "login": "mijorus",
@@ -10987,7 +11771,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 785,
-    "score": 811
+    "score": 811,
+    "globalRank": 30295
   },
   {
     "login": "SamanFekri",
@@ -11001,7 +11786,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 786,
-    "score": 1053
+    "score": 1053,
+    "globalRank": 30296
   },
   {
     "login": "emalderson",
@@ -11015,7 +11801,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 787,
-    "score": 120
+    "score": 120,
+    "globalRank": 30297
   },
   {
     "login": "FedeDP",
@@ -11029,7 +11816,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 788,
-    "score": 1241
+    "score": 1241,
+    "globalRank": 30298
   },
   {
     "login": "fguerri",
@@ -11043,7 +11831,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 789,
-    "score": 117
+    "score": 117,
+    "globalRank": 30299
   },
   {
     "login": "lloc",
@@ -11057,7 +11846,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 790,
-    "score": 1516
+    "score": 1516,
+    "globalRank": 30508
   },
   {
     "login": "do-me",
@@ -11071,7 +11861,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 791,
-    "score": 871
+    "score": 871,
+    "globalRank": 30509
   },
   {
     "login": "semanticart",
@@ -11085,7 +11876,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 792,
-    "score": 132
+    "score": 132,
+    "globalRank": 30510
   },
   {
     "login": "ercoppa",
@@ -11099,7 +11891,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 793,
-    "score": 1017
+    "score": 1017,
+    "globalRank": 30511
   },
   {
     "login": "tonycaputome",
@@ -11113,7 +11906,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 794,
-    "score": 412
+    "score": 412,
+    "globalRank": 30512
   },
   {
     "login": "guizzo",
@@ -11127,7 +11921,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 795,
-    "score": 1324
+    "score": 1324,
+    "globalRank": 30513
   },
   {
     "login": "fundor333",
@@ -11141,7 +11936,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 796,
-    "score": 5009
+    "score": 5009,
+    "globalRank": 30514
   },
   {
     "login": "GuidoBartoli",
@@ -11155,7 +11951,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 797,
-    "score": 202
+    "score": 202,
+    "globalRank": 30515
   },
   {
     "login": "giulioturrisi",
@@ -11169,7 +11966,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 798,
-    "score": 1151
+    "score": 1151,
+    "globalRank": 30516
   },
   {
     "login": "FrancescoConti",
@@ -11183,7 +11981,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 799,
-    "score": 316
+    "score": 316,
+    "globalRank": 30744
   },
   {
     "login": "giocoal",
@@ -11197,7 +11996,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 800,
-    "score": 384
+    "score": 384,
+    "globalRank": 30745
   },
   {
     "login": "THeK3nger",
@@ -11211,7 +12011,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 801,
-    "score": 704
+    "score": 704,
+    "globalRank": 30746
   },
   {
     "login": "3DOM-FBK",
@@ -11225,7 +12026,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 802,
-    "score": 171
+    "score": 171,
+    "globalRank": 30747
   },
   {
     "login": "asnadc",
@@ -11239,7 +12041,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 803,
-    "score": 128
+    "score": 128,
+    "globalRank": 30748
   },
   {
     "login": "omissis",
@@ -11253,7 +12056,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 804,
-    "score": 457
+    "score": 457,
+    "globalRank": 30749
   },
   {
     "login": "dyarleniber",
@@ -11267,7 +12071,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 805,
-    "score": 1710
+    "score": 1710,
+    "globalRank": 30750
   },
   {
     "login": "lorenzovngl",
@@ -11281,7 +12086,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 806,
-    "score": 219
+    "score": 219,
+    "globalRank": 30751
   },
   {
     "login": "anitatehrani",
@@ -11295,7 +12101,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 807,
-    "score": 145
+    "score": 145,
+    "globalRank": 30752
   },
   {
     "login": "MindFlavor",
@@ -11309,7 +12116,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 808,
-    "score": 322
+    "score": 322,
+    "globalRank": 30753
   },
   {
     "login": "danialtavakoli",
@@ -11323,7 +12131,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 809,
-    "score": 150
+    "score": 150,
+    "globalRank": 30754
   },
   {
     "login": "alessandrolamberti",
@@ -11337,7 +12146,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 810,
-    "score": 275
+    "score": 275,
+    "globalRank": 30954
   },
   {
     "login": "Vytek",
@@ -11351,7 +12161,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 811,
-    "score": 223
+    "score": 223,
+    "globalRank": 30955
   },
   {
     "login": "micheles",
@@ -11365,7 +12176,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 812,
-    "score": 1629
+    "score": 1629,
+    "globalRank": 30956
   },
   {
     "login": "jfet97",
@@ -11379,7 +12191,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 813,
-    "score": 3029
+    "score": 3029,
+    "globalRank": 30957
   },
   {
     "login": "blues-man",
@@ -11393,7 +12206,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 814,
-    "score": 517
+    "score": 517,
+    "globalRank": 30958
   },
   {
     "login": "shoegazerstella",
@@ -11407,7 +12221,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 815,
-    "score": 134
+    "score": 134,
+    "globalRank": 30959
   },
   {
     "login": "seralf",
@@ -11421,7 +12236,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 816,
-    "score": 115
+    "score": 115,
+    "globalRank": 30960
   },
   {
     "login": "gtolomei",
@@ -11435,7 +12251,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 817,
-    "score": 413
+    "score": 413,
+    "globalRank": 30961
   },
   {
     "login": "ialirezaesrafili",
@@ -11449,7 +12266,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 818,
-    "score": 202
+    "score": 202,
+    "globalRank": 30962
   },
   {
     "login": "lucazulian",
@@ -11463,7 +12281,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 819,
-    "score": 3445
+    "score": 3445,
+    "globalRank": 30963
   },
   {
     "login": "piecol",
@@ -11477,7 +12296,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 820,
-    "score": 746
+    "score": 746,
+    "globalRank": 31190
   },
   {
     "login": "ilpropheta",
@@ -11491,7 +12311,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 821,
-    "score": 411
+    "score": 411,
+    "globalRank": 31191
   },
   {
     "login": "avalentino",
@@ -11505,7 +12326,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 822,
-    "score": 728
+    "score": 728,
+    "globalRank": 31192
   },
   {
     "login": "matteo-grella",
@@ -11519,7 +12341,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 823,
-    "score": 272
+    "score": 272,
+    "globalRank": 31193
   },
   {
     "login": "davidegiacometti",
@@ -11533,7 +12356,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 824,
-    "score": 789
+    "score": 789,
+    "globalRank": 31194
   },
   {
     "login": "atomotic",
@@ -11547,7 +12371,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 825,
-    "score": 262
+    "score": 262,
+    "globalRank": 31195
   },
   {
     "login": "foglio1024",
@@ -11561,7 +12386,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 826,
-    "score": 125
+    "score": 125,
+    "globalRank": 31196
   },
   {
     "login": "r3vn",
@@ -11575,7 +12401,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 827,
-    "score": 347
+    "score": 347,
+    "globalRank": 31197
   },
   {
     "login": "andreapavoni",
@@ -11589,7 +12416,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 828,
-    "score": 363
+    "score": 363,
+    "globalRank": 31198
   },
   {
     "login": "alkampfergit",
@@ -11603,7 +12431,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 829,
-    "score": 1140
+    "score": 1140,
+    "globalRank": 31199
   },
   {
     "login": "ac12644",
@@ -11617,7 +12446,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 830,
-    "score": 1329
+    "score": 1329,
+    "globalRank": 31402
   },
   {
     "login": "fexed",
@@ -11631,7 +12461,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 831,
-    "score": 278
+    "score": 278,
+    "globalRank": 31403
   },
   {
     "login": "AppendixPi",
@@ -11645,7 +12476,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 832,
-    "score": 298
+    "score": 298,
+    "globalRank": 31404
   },
   {
     "login": "pigreco",
@@ -11659,7 +12491,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 833,
-    "score": 6685
+    "score": 6685,
+    "globalRank": 31405
   },
   {
     "login": "enrichman",
@@ -11673,7 +12506,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 834,
-    "score": 959
+    "score": 959,
+    "globalRank": 31406
   },
   {
     "login": "SuperKali",
@@ -11687,7 +12521,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 835,
-    "score": 1245
+    "score": 1245,
+    "globalRank": 31407
   },
   {
     "login": "kessoning",
@@ -11701,7 +12536,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 836,
-    "score": 204
+    "score": 204,
+    "globalRank": 31408
   },
   {
     "login": "Lorys89",
@@ -11715,7 +12551,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 837,
-    "score": 408
+    "score": 408,
+    "globalRank": 31409
   },
   {
     "login": "MatteoGuadrini",
@@ -11729,7 +12566,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 838,
-    "score": 501
+    "score": 501,
+    "globalRank": 31410
   },
   {
     "login": "Danfoa",
@@ -11743,7 +12581,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 839,
-    "score": 1037
+    "score": 1037,
+    "globalRank": 31411
   },
   {
     "login": "waxnet",
@@ -11757,7 +12596,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 840,
-    "score": 132
+    "score": 132,
+    "globalRank": 31412
   },
   {
     "login": "dalpo",
@@ -11771,7 +12611,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 841,
-    "score": 125
+    "score": 125,
+    "globalRank": 31413
   },
   {
     "login": "iampujan",
@@ -11785,7 +12626,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 842,
-    "score": 318
+    "score": 318,
+    "globalRank": 31414
   },
   {
     "login": "pomettini",
@@ -11799,7 +12641,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 843,
-    "score": 1971
+    "score": 1971,
+    "globalRank": 31415
   },
   {
     "login": "iliasbartolini",
@@ -11813,7 +12656,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 844,
-    "score": 1019
+    "score": 1019,
+    "globalRank": 31639
   },
   {
     "login": "matteosister",
@@ -11827,7 +12671,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 845,
-    "score": 387
+    "score": 387,
+    "globalRank": 31640
   },
   {
     "login": "gcantoni",
@@ -11841,7 +12686,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 846,
-    "score": 163
+    "score": 163,
+    "globalRank": 31641
   },
   {
     "login": "alessandro-bugatti",
@@ -11855,7 +12701,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 847,
-    "score": 568
+    "score": 568,
+    "globalRank": 31642
   },
   {
     "login": "invictus1306",
@@ -11869,7 +12716,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 848,
-    "score": 111
+    "score": 111,
+    "globalRank": 31643
   },
   {
     "login": "maxto",
@@ -11883,7 +12731,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 849,
-    "score": 274
+    "score": 274,
+    "globalRank": 31644
   },
   {
     "login": "enricosada",
@@ -11897,7 +12746,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 850,
-    "score": 112
+    "score": 112,
+    "globalRank": 31645
   },
   {
     "login": "CVarisco",
@@ -11911,7 +12761,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 851,
-    "score": 1738
+    "score": 1738,
+    "globalRank": 31646
   },
   {
     "login": "elleFlorio",
@@ -11925,7 +12776,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 852,
-    "score": 111
+    "score": 111,
+    "globalRank": 31647
   },
   {
     "login": "demiliani",
@@ -11939,7 +12791,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 853,
-    "score": 242
+    "score": 242,
+    "globalRank": 31899
   },
   {
     "login": "storrisi",
@@ -11953,7 +12806,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 854,
-    "score": 652
+    "score": 652,
+    "globalRank": 31900
   },
   {
     "login": "JasterV",
@@ -11967,7 +12821,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 855,
-    "score": 1514
+    "score": 1514,
+    "globalRank": 31901
   },
   {
     "login": "nicolgit",
@@ -11981,7 +12836,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 856,
-    "score": 1102
+    "score": 1102,
+    "globalRank": 31902
   },
   {
     "login": "dnldsht",
@@ -11995,7 +12851,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 857,
-    "score": 776
+    "score": 776,
+    "globalRank": 31903
   },
   {
     "login": "Riccorl",
@@ -12009,7 +12866,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 858,
-    "score": 799
+    "score": 799,
+    "globalRank": 31904
   },
   {
     "login": "mattdibi",
@@ -12023,7 +12881,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 859,
-    "score": 1767
+    "score": 1767,
+    "globalRank": 31905
   },
   {
     "login": "Arrowar",
@@ -12037,7 +12896,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 860,
-    "score": 941
+    "score": 941,
+    "globalRank": 32137
   },
   {
     "login": "crisbal",
@@ -12051,7 +12911,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 861,
-    "score": 3237
+    "score": 3237,
+    "globalRank": 32138
   },
   {
     "login": "Peppe289",
@@ -12065,7 +12926,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 862,
-    "score": 386
+    "score": 386,
+    "globalRank": 32139
   },
   {
     "login": "Bloomca",
@@ -12079,7 +12941,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 863,
-    "score": 1579
+    "score": 1579,
+    "globalRank": 32140
   },
   {
     "login": "UsboKirishima",
@@ -12093,7 +12956,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 864,
-    "score": 446
+    "score": 446,
+    "globalRank": 32141
   },
   {
     "login": "nickmerwin",
@@ -12107,7 +12971,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 865,
-    "score": 2166
+    "score": 2166,
+    "globalRank": 32142
   },
   {
     "login": "ilmila",
@@ -12121,7 +12986,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 866,
-    "score": 113
+    "score": 113,
+    "globalRank": 32143
   },
   {
     "login": "dtonon",
@@ -12135,7 +13001,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 867,
-    "score": 1111
+    "score": 1111,
+    "globalRank": 32144
   },
   {
     "login": "xpepper",
@@ -12149,7 +13016,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 868,
-    "score": 4127
+    "score": 4127,
+    "globalRank": 32374
   },
   {
     "login": "salvoravida",
@@ -12163,7 +13031,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 869,
-    "score": 1398
+    "score": 1398,
+    "globalRank": 32375
   },
   {
     "login": "kesiev",
@@ -12177,7 +13046,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 870,
-    "score": 173
+    "score": 173,
+    "globalRank": 32376
   },
   {
     "login": "hamidds",
@@ -12191,7 +13061,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 871,
-    "score": 519
+    "score": 519,
+    "globalRank": 32377
   },
   {
     "login": "ogulcan",
@@ -12205,7 +13076,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 872,
-    "score": 113
+    "score": 113,
+    "globalRank": 32378
   },
   {
     "login": "TheEdoRan",
@@ -12219,7 +13091,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 873,
-    "score": 1586
+    "score": 1586,
+    "globalRank": 32379
   },
   {
     "login": "se7entyse7en",
@@ -12233,7 +13106,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 874,
-    "score": 4366
+    "score": 4366,
+    "globalRank": 32576
   },
   {
     "login": "alessandromazza98",
@@ -12247,7 +13121,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 875,
-    "score": 1332
+    "score": 1332,
+    "globalRank": 32577
   },
   {
     "login": "CyberSaiyanIT",
@@ -12261,7 +13136,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 876,
-    "score": 157
+    "score": 157,
+    "globalRank": 32578
   },
   {
     "login": "pietrodev07",
@@ -12275,7 +13151,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 877,
-    "score": 450
+    "score": 450,
+    "globalRank": 32579
   },
   {
     "login": "404answernotfound",
@@ -12289,7 +13166,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 878,
-    "score": 542
+    "score": 542,
+    "globalRank": 32580
   },
   {
     "login": "acammaroto",
@@ -12303,7 +13181,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 879,
-    "score": 107
+    "score": 107,
+    "globalRank": 32581
   },
   {
     "login": "akiross",
@@ -12317,7 +13196,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 880,
-    "score": 507
+    "score": 507,
+    "globalRank": 32582
   },
   {
     "login": "lucalullo",
@@ -12331,7 +13211,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 881,
-    "score": 154
+    "score": 154,
+    "globalRank": 32583
   },
   {
     "login": "aaumaitre",
@@ -12345,7 +13226,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 882,
-    "score": 107
+    "score": 107,
+    "globalRank": 32584
   },
   {
     "login": "gabrieleromanato",
@@ -12359,7 +13241,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 883,
-    "score": 115
+    "score": 115,
+    "globalRank": 32585
   },
   {
     "login": "ambitious-octopus",
@@ -12373,7 +13256,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 884,
-    "score": 370
+    "score": 370,
+    "globalRank": 32805
   },
   {
     "login": "nannib",
@@ -12387,7 +13271,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 885,
-    "score": 172
+    "score": 172,
+    "globalRank": 32806
   },
   {
     "login": "stevegeek",
@@ -12401,7 +13286,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 886,
-    "score": 3460
+    "score": 3460,
+    "globalRank": 32807
   },
   {
     "login": "spleennooname",
@@ -12415,7 +13301,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 887,
-    "score": 297
+    "score": 297,
+    "globalRank": 32808
   },
   {
     "login": "mnencia",
@@ -12429,7 +13316,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 888,
-    "score": 4192
+    "score": 4192,
+    "globalRank": 32809
   },
   {
     "login": "Cyofanni",
@@ -12443,7 +13331,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 889,
-    "score": 108
+    "score": 108,
+    "globalRank": 32810
   },
   {
     "login": "dadegi",
@@ -12457,7 +13346,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 890,
-    "score": 263
+    "score": 263,
+    "globalRank": 32811
   },
   {
     "login": "Pungyeon",
@@ -12471,7 +13361,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 891,
-    "score": 183
+    "score": 183,
+    "globalRank": 33035
   },
   {
     "login": "paoloantinori",
@@ -12485,7 +13376,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 892,
-    "score": 3357
+    "score": 3357,
+    "globalRank": 33036
   },
   {
     "login": "Manu098vm",
@@ -12499,7 +13391,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 893,
-    "score": 439
+    "score": 439,
+    "globalRank": 33037
   },
   {
     "login": "ciromattia",
@@ -12513,7 +13406,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 894,
-    "score": 110
+    "score": 110,
+    "globalRank": 33038
   },
   {
     "login": "mbeccati",
@@ -12527,7 +13421,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 895,
-    "score": 515
+    "score": 515,
+    "globalRank": 33039
   },
   {
     "login": "grammaton",
@@ -12541,7 +13436,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 896,
-    "score": 710
+    "score": 710,
+    "globalRank": 33040
   },
   {
     "login": "roncapat",
@@ -12555,7 +13451,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 897,
-    "score": 816
+    "score": 816,
+    "globalRank": 33041
   },
   {
     "login": "vmihalachi",
@@ -12569,7 +13466,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 898,
-    "score": 394
+    "score": 394,
+    "globalRank": 33042
   },
   {
     "login": "Zorgatone",
@@ -12583,7 +13481,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 899,
-    "score": 480
+    "score": 480,
+    "globalRank": 33043
   },
   {
     "login": "MioMauro",
@@ -12597,7 +13496,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 900,
-    "score": 105
+    "score": 105,
+    "globalRank": 33044
   },
   {
     "login": "zchoi",
@@ -12611,7 +13511,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 901,
-    "score": 203
+    "score": 203,
+    "globalRank": 33278
   },
   {
     "login": "sinadalvand",
@@ -12625,7 +13526,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 902,
-    "score": 186
+    "score": 186,
+    "globalRank": 33279
   },
   {
     "login": "veggero",
@@ -12639,7 +13541,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 903,
-    "score": 124
+    "score": 124,
+    "globalRank": 33280
   },
   {
     "login": "Randagio13",
@@ -12653,7 +13556,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 904,
-    "score": 804
+    "score": 804,
+    "globalRank": 33281
   },
   {
     "login": "aldesantis",
@@ -12667,7 +13571,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 905,
-    "score": 515
+    "score": 515,
+    "globalRank": 33282
   },
   {
     "login": "Baio1977",
@@ -12681,7 +13586,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 906,
-    "score": 364
+    "score": 364,
+    "globalRank": 33283
   },
   {
     "login": "simonefrancia",
@@ -12695,7 +13601,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 907,
-    "score": 106
+    "score": 106,
+    "globalRank": 33284
   },
   {
     "login": "cxnturi0n",
@@ -12709,7 +13616,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 908,
-    "score": 133
+    "score": 133,
+    "globalRank": 33285
   },
   {
     "login": "limesdotpink",
@@ -12723,7 +13631,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 909,
-    "score": 576
+    "score": 576,
+    "globalRank": 33286
   },
   {
     "login": "moebiusmania",
@@ -12737,7 +13646,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 910,
-    "score": 1731
+    "score": 1731,
+    "globalRank": 33287
   },
   {
     "login": "Bakel-Bakel",
@@ -12751,7 +13661,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 911,
-    "score": 591
+    "score": 591,
+    "globalRank": 33288
   },
   {
     "login": "lauralex",
@@ -12765,7 +13676,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 912,
-    "score": 820
+    "score": 820,
+    "globalRank": 33289
   },
   {
     "login": "fjug",
@@ -12779,7 +13691,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 913,
-    "score": 488
+    "score": 488,
+    "globalRank": 33290
   },
   {
     "login": "voxsim",
@@ -12793,7 +13706,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 914,
-    "score": 104
+    "score": 104,
+    "globalRank": 33291
   },
   {
     "login": "valerionew",
@@ -12807,7 +13721,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 915,
-    "score": 124
+    "score": 124,
+    "globalRank": 33540
   },
   {
     "login": "miczza",
@@ -12821,7 +13736,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 916,
-    "score": 240
+    "score": 240,
+    "globalRank": 33541
   },
   {
     "login": "matteobachetti",
@@ -12835,7 +13751,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 917,
-    "score": 887
+    "score": 887,
+    "globalRank": 33542
   },
   {
     "login": "siddharthdeore",
@@ -12849,7 +13766,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 918,
-    "score": 642
+    "score": 642,
+    "globalRank": 33543
   },
   {
     "login": "gipi",
@@ -12863,7 +13781,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 919,
-    "score": 112
+    "score": 112,
+    "globalRank": 33544
   },
   {
     "login": "stefano-k",
@@ -12877,7 +13796,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 920,
-    "score": 103
+    "score": 103,
+    "globalRank": 33545
   },
   {
     "login": "pcaressa",
@@ -12891,7 +13811,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 921,
-    "score": 116
+    "score": 116,
+    "globalRank": 33546
   },
   {
     "login": "ceyhunonac",
@@ -12905,7 +13826,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 922,
-    "score": 106
+    "score": 106,
+    "globalRank": 33547
   },
   {
     "login": "dentex",
@@ -12919,7 +13841,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 923,
-    "score": 107
+    "score": 107,
+    "globalRank": 33548
   },
   {
     "login": "egalli64",
@@ -12933,7 +13856,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 924,
-    "score": 1558
+    "score": 1558,
+    "globalRank": 33549
   },
   {
     "login": "simone-sanfratello",
@@ -12947,7 +13871,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 925,
-    "score": 332
+    "score": 332,
+    "globalRank": 33550
   },
   {
     "login": "sciabarra",
@@ -12961,7 +13886,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 926,
-    "score": 104
+    "score": 104,
+    "globalRank": 33551
   },
   {
     "login": "Fale",
@@ -12975,7 +13901,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 927,
-    "score": 626
+    "score": 626,
+    "globalRank": 33824
   },
   {
     "login": "zenkay",
@@ -12989,7 +13916,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 928,
-    "score": 102
+    "score": 102,
+    "globalRank": 33825
   },
   {
     "login": "akelity",
@@ -13003,7 +13931,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 929,
-    "score": 1510
+    "score": 1510,
+    "globalRank": 33826
   },
   {
     "login": "OpenCode",
@@ -13017,7 +13946,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 930,
-    "score": 673
+    "score": 673,
+    "globalRank": 33827
   },
   {
     "login": "bropat",
@@ -13031,7 +13961,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 931,
-    "score": 105
+    "score": 105,
+    "globalRank": 33828
   },
   {
     "login": "Eleirbag89",
@@ -13045,7 +13976,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 932,
-    "score": 105
+    "score": 105,
+    "globalRank": 33829
   },
   {
     "login": "LorenzoBianconi",
@@ -13059,7 +13991,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 933,
-    "score": 687
+    "score": 687,
+    "globalRank": 33830
   },
   {
     "login": "condatek",
@@ -13073,7 +14006,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 934,
-    "score": 120
+    "score": 120,
+    "globalRank": 33831
   },
   {
     "login": "scotu",
@@ -13087,7 +14021,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 935,
-    "score": 361
+    "score": 361,
+    "globalRank": 33832
   },
   {
     "login": "gsora",
@@ -13101,7 +14036,8 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 936,
-    "score": 821
+    "score": 821,
+    "globalRank": 33833
   },
   {
     "login": "macedonga",
@@ -13115,6 +14051,7 @@
     "country": "italy",
     "countryName": "Italy",
     "countryRank": 937,
-    "score": 549
+    "score": 549,
+    "globalRank": 33834
   }
 ]

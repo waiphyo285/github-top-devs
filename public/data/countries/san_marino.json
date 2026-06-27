@@ -12,22 +12,22 @@
     "countryName": "San Marino",
     "countryRank": 1,
     "score": 218,
-    "globalRank": 19635
+    "globalRank": 18943
   },
   {
     "login": "mikyll",
     "name": "Michele Righi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56556806?s=72&u=1601262bdba22f1637f82850c662d9045b4be044&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56556806?s=72&u=78c253afdfd2931ba79798005868b59c151c32fe&v=4",
     "location": "San Marino",
     "company": "@scmgroupspa",
     "followers": 74,
-    "publicContributions": 165,
-    "privateContributions": 1179,
+    "publicContributions": 172,
+    "privateContributions": 1592,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 2,
-    "score": 1418,
-    "globalRank": 42767
+    "score": 1838,
+    "globalRank": 41886
   },
   {
     "login": "nicorsm",
@@ -36,13 +36,13 @@
     "location": "San Marino",
     "company": "@pop-sm",
     "followers": 34,
-    "publicContributions": 0,
-    "privateContributions": 144,
+    "publicContributions": 1,
+    "privateContributions": 133,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 3,
-    "score": 178,
-    "globalRank": 62714
+    "score": 168,
+    "globalRank": 61855
   },
   {
     "login": "AleRiccardi",
@@ -57,7 +57,7 @@
     "countryName": "San Marino",
     "countryRank": 4,
     "score": 34,
-    "globalRank": 64193
+    "globalRank": 63328
   },
   {
     "login": "mcdado",
@@ -66,28 +66,43 @@
     "location": "San Marino (SMR) <✈️> Madrid, Spain",
     "company": "",
     "followers": 30,
-    "publicContributions": 76,
-    "privateContributions": 1444,
+    "publicContributions": 79,
+    "privateContributions": 2086,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 5,
-    "score": 1550,
-    "globalRank": 65669
+    "score": 2195,
+    "globalRank": 64806
   },
   {
     "login": "stfDeveloper",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91994473?s=72&u=0eeb1a7808d8380a8aa51b134b1fef26181204c3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91994473?s=72&u=1138d665057da073d2d98f705bb33a3b1a31e583&v=4",
     "location": "San Marino",
     "company": "",
     "followers": 27,
     "publicContributions": 0,
-    "privateContributions": 3,
+    "privateContributions": 4,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 6,
-    "score": 30,
-    "globalRank": 68279
+    "score": 31,
+    "globalRank": 67404
+  },
+  {
+    "login": "calebnewtonusc",
+    "name": "Caleb Newton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228436507?s=72&u=bcb09a237d36c54b310f4707d4f8ac501f34532a&v=4",
+    "location": "San Marino, CA",
+    "company": "AINA Tech",
+    "followers": 24,
+    "publicContributions": 3942,
+    "privateContributions": 3449,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 7,
+    "score": 7415,
+    "globalRank": 70394
   },
   {
     "login": "alexsteinerr",
@@ -96,58 +111,43 @@
     "location": "San Marino",
     "company": "",
     "followers": 20,
-    "publicContributions": 85,
-    "privateContributions": 26,
+    "publicContributions": 83,
+    "privateContributions": 25,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 7,
-    "score": 131,
-    "globalRank": 76001
+    "countryRank": 8,
+    "score": 128,
+    "globalRank": 75150
   },
   {
-    "login": "lorextera",
+    "login": "ellenico77",
     "name": "Lorenzo Nicoletti",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4",
     "location": "San Marino",
     "company": "I.e.S. SpA",
-    "followers": 20,
-    "publicContributions": 9,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 8,
-    "score": 29,
-    "globalRank": 76002
-  },
-  {
-    "login": "giacomobartoli",
-    "name": "Giacomo Bartoli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4",
-    "location": "San Marino, SMR",
-    "company": "@IBM",
-    "followers": 17,
-    "publicContributions": 3,
+    "followers": 18,
+    "publicContributions": 8,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 9,
-    "score": 20,
-    "globalRank": 79811
+    "score": 26,
+    "globalRank": 77669
   },
   {
-    "login": "its-hmny",
-    "name": "Enea Guidi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50141843?s=72&u=0c4bf025651a06d41deeaaeca30b9424826ac170&v=4",
+    "login": "Llandy3d",
+    "name": "Llandy Riveron Del Risco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16627175?s=72&u=730ce17c03aff41feaa902a06dceac7b4c40a8d4&v=4",
     "location": "San Marino",
-    "company": "@n26",
+    "company": "@grafana",
     "followers": 17,
-    "publicContributions": 204,
-    "privateContributions": 2030,
+    "publicContributions": 110,
+    "privateContributions": 216,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 10,
-    "score": 2251,
-    "globalRank": 79812
+    "score": 343,
+    "globalRank": 78981
   },
   {
     "login": "nukedbit",
@@ -162,22 +162,22 @@
     "countryName": "San Marino",
     "countryRank": 11,
     "score": 16,
-    "globalRank": 81228
+    "globalRank": 80411
   },
   {
-    "login": "Llandy3d",
-    "name": "Llandy Riveron Del Risco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16627175?s=72&u=730ce17c03aff41feaa902a06dceac7b4c40a8d4&v=4",
-    "location": "San Marino",
-    "company": "@grafana",
+    "login": "giacomobartoli",
+    "name": "Giacomo Bartoli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4",
+    "location": "San Marino, SMR",
+    "company": "@IBM",
     "followers": 16,
-    "publicContributions": 165,
-    "privateContributions": 53,
+    "publicContributions": 3,
+    "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 12,
-    "score": 234,
-    "globalRank": 81229
+    "score": 19,
+    "globalRank": 80412
   },
   {
     "login": "v1rx",
@@ -192,7 +192,22 @@
     "countryName": "San Marino",
     "countryRank": 13,
     "score": 19,
-    "globalRank": 81230
+    "globalRank": 80413
+  },
+  {
+    "login": "gcardi",
+    "name": "Giuliano Cardinali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5244348?s=72&u=b15759b9324a9c1581be0fbe996ea3f3e8b6d777&v=4",
+    "location": "Republic of San Marino",
+    "company": "",
+    "followers": 15,
+    "publicContributions": 314,
+    "privateContributions": 195,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 14,
+    "score": 524,
+    "globalRank": 81992
   },
   {
     "login": "NeedleCoin",
@@ -205,39 +220,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 14,
-    "score": 14,
-    "globalRank": 84451
-  },
-  {
-    "login": "calebnewtonusc",
-    "name": "Caleb Newton",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228436507?s=72&u=bcb09a237d36c54b310f4707d4f8ac501f34532a&v=4",
-    "location": "San Marino, CA",
-    "company": "AINA Tech",
-    "followers": 14,
-    "publicContributions": 3930,
-    "privateContributions": 2399,
-    "country": "san marino",
-    "countryName": "San Marino",
     "countryRank": 15,
-    "score": 6343,
-    "globalRank": 84452
+    "score": 14,
+    "globalRank": 83640
   },
   {
-    "login": "gcardi",
-    "name": "Giuliano Cardinali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5244348?s=72&u=b15759b9324a9c1581be0fbe996ea3f3e8b6d777&v=4",
-    "location": "Republic of San Marino",
+    "login": "N1K0232",
+    "name": "Nico",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60029977?s=72&u=1cf732902b8ef725ec58b6c1610627ab411573fc&v=4",
+    "location": "Repubblica di San Marino",
     "company": "",
-    "followers": 14,
-    "publicContributions": 165,
-    "privateContributions": 159,
+    "followers": 12,
+    "publicContributions": 104,
+    "privateContributions": 5,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 16,
-    "score": 338,
-    "globalRank": 84453
+    "score": 121,
+    "globalRank": 87300
   },
   {
     "login": "simorina",
@@ -246,13 +246,13 @@
     "location": "San Marino",
     "company": "",
     "followers": 12,
-    "publicContributions": 23,
+    "publicContributions": 21,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 17,
-    "score": 35,
-    "globalRank": 88129
+    "score": 33,
+    "globalRank": 87301
   },
   {
     "login": "damiandominella",
@@ -262,27 +262,27 @@
     "company": "Golee",
     "followers": 11,
     "publicContributions": 29,
-    "privateContributions": 1993,
+    "privateContributions": 2003,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 18,
-    "score": 2033,
-    "globalRank": 90104
+    "score": 2043,
+    "globalRank": 89231
   },
   {
-    "login": "N1K0232",
-    "name": "Nico",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60029977?s=72&u=1cf732902b8ef725ec58b6c1610627ab411573fc&v=4",
-    "location": "Repubblica di San Marino",
+    "login": "LadyMatteini",
+    "name": "Júlia Mateini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94371053?s=72&u=d45f74cfe57e7bb64de3021f70b22dda625d3315&v=4",
+    "location": "San Marino",
     "company": "",
-    "followers": 11,
-    "publicContributions": 107,
-    "privateContributions": 1,
+    "followers": 10,
+    "publicContributions": 137,
+    "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 19,
-    "score": 119,
-    "globalRank": 90105
+    "score": 147,
+    "globalRank": 91445
   },
   {
     "login": "Restoncomic",
@@ -297,7 +297,7 @@
     "countryName": "San Marino",
     "countryRank": 20,
     "score": 10,
-    "globalRank": 92310
+    "globalRank": 91446
   },
   {
     "login": "Wentianlong",
@@ -312,7 +312,7 @@
     "countryName": "San Marino",
     "countryRank": 21,
     "score": 10,
-    "globalRank": 92311
+    "globalRank": 91447
   },
   {
     "login": "tomwhoooo",
@@ -322,12 +322,12 @@
     "company": "UC Berkeley",
     "followers": 9,
     "publicContributions": 0,
-    "privateContributions": 986,
+    "privateContributions": 1886,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 22,
-    "score": 995,
-    "globalRank": 94435
+    "score": 1895,
+    "globalRank": 93564
   },
   {
     "login": "El2829",
@@ -342,7 +342,7 @@
     "countryName": "San Marino",
     "countryRank": 23,
     "score": 7,
-    "globalRank": 98899
+    "globalRank": 97986
   },
   {
     "login": "Novenine",
@@ -357,7 +357,7 @@
     "countryName": "San Marino",
     "countryRank": 24,
     "score": 7,
-    "globalRank": 98900
+    "globalRank": 97987
   },
   {
     "login": "simooooone",
@@ -366,13 +366,28 @@
     "location": "San Marino",
     "company": "",
     "followers": 6,
-    "publicContributions": 6,
-    "privateContributions": 585,
+    "publicContributions": 4,
+    "privateContributions": 3270,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 25,
-    "score": 597,
-    "globalRank": 101090
+    "score": 3280,
+    "globalRank": 100181
+  },
+  {
+    "login": "alessandrorebosio",
+    "name": "Rebo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117686165?s=72&u=9cfce8190bf26c6a89b9400b6f512846af86ea14&v=4",
+    "location": "San Marino",
+    "company": "Università di Bologna",
+    "followers": 6,
+    "publicContributions": 1237,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 26,
+    "score": 1243,
+    "globalRank": 100182
   },
   {
     "login": "decDaytype",
@@ -385,24 +400,54 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 26,
+    "countryRank": 27,
     "score": 6,
-    "globalRank": 101091
+    "globalRank": 100183
   },
   {
-    "login": "alessandrorebosio",
-    "name": "Rebo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117686165?s=72&u=9cfce8190bf26c6a89b9400b6f512846af86ea14&v=4",
-    "location": "San Marino",
-    "company": "Università di Bologna",
-    "followers": 5,
-    "publicContributions": 1470,
+    "login": "deBrian07",
+    "name": "Brian C.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4",
+    "location": "San Marino, CA",
+    "company": "",
+    "followers": 6,
+    "publicContributions": 494,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 27,
-    "score": 1475,
-    "globalRank": 103529
+    "countryRank": 28,
+    "score": 500,
+    "globalRank": 100184
+  },
+  {
+    "login": "CometaSensitiva",
+    "name": "Michele Mazza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122211053?s=72&u=186acbc99f20484bf96d966a7b9a31c54867ef70&v=4",
+    "location": "San Marino",
+    "company": "Alma Mater Studiorum - Università di Bologna",
+    "followers": 5,
+    "publicContributions": 49,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 29,
+    "score": 54,
+    "globalRank": 102631
+  },
+  {
+    "login": "gerza-lab",
+    "name": "adam gerza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203333663?s=72&u=90bd8f306c9ba0961ce215cc91db7b9ea357127a&v=4",
+    "location": "San Marino, CA",
+    "company": "",
+    "followers": 5,
+    "publicContributions": 41,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 30,
+    "score": 46,
+    "globalRank": 102632
   },
   {
     "login": "Hanike",
@@ -415,24 +460,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 28,
+    "countryRank": 31,
     "score": 5,
-    "globalRank": 103530
-  },
-  {
-    "login": "deBrian07",
-    "name": "Brian C.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4",
-    "location": "San Marino, CA",
-    "company": "",
-    "followers": 5,
-    "publicContributions": 727,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 29,
-    "score": 732,
-    "globalRank": 103531
+    "globalRank": 102633
   },
   {
     "login": "CastFX",
@@ -441,43 +471,13 @@
     "location": "San Marino",
     "company": "",
     "followers": 4,
-    "publicContributions": 8,
-    "privateContributions": 2124,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 30,
-    "score": 2136,
-    "globalRank": 106269
-  },
-  {
-    "login": "CometaSensitiva",
-    "name": "Michele Mazza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122211053?s=72&u=186acbc99f20484bf96d966a7b9a31c54867ef70&v=4",
-    "location": "San Marino",
-    "company": "Alma Mater Studiorum - Università di Bologna",
-    "followers": 4,
-    "publicContributions": 22,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 31,
-    "score": 26,
-    "globalRank": 106270
-  },
-  {
-    "login": "gerza-lab",
-    "name": "adam gerza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203333663?s=72&u=90bd8f306c9ba0961ce215cc91db7b9ea357127a&v=4",
-    "location": "San Marino, CA",
-    "company": "",
-    "followers": 4,
-    "publicContributions": 39,
-    "privateContributions": 0,
+    "publicContributions": 18,
+    "privateContributions": 2317,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 32,
-    "score": 43,
-    "globalRank": 106271
+    "score": 2339,
+    "globalRank": 105368
   },
   {
     "login": "agavss",
@@ -492,7 +492,7 @@
     "countryName": "San Marino",
     "countryRank": 33,
     "score": 8,
-    "globalRank": 106272
+    "globalRank": 105369
   },
   {
     "login": "samuele-mrapps",
@@ -501,13 +501,13 @@
     "location": "San Marino",
     "company": "Mr. APPs s.r.l.",
     "followers": 4,
-    "publicContributions": 6,
+    "publicContributions": 19,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 34,
-    "score": 10,
-    "globalRank": 106273
+    "score": 23,
+    "globalRank": 105370
   },
   {
     "login": "textarea",
@@ -522,7 +522,7 @@
     "countryName": "San Marino",
     "countryRank": 35,
     "score": 4,
-    "globalRank": 106274
+    "globalRank": 105371
   },
   {
     "login": "STIMA-CryptoValueStandard",
@@ -537,7 +537,22 @@
     "countryName": "San Marino",
     "countryRank": 36,
     "score": 3,
-    "globalRank": 109530
+    "globalRank": 108628
+  },
+  {
+    "login": "lucabio",
+    "name": "Luca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6459123?s=72&u=839f5363861c208bd339b73e70aa9195efc35a97&v=4",
+    "location": "San Marino",
+    "company": "",
+    "followers": 3,
+    "publicContributions": 1,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 37,
+    "score": 4,
+    "globalRank": 108629
   },
   {
     "login": "baidols",
@@ -550,24 +565,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 37,
-    "score": 3,
-    "globalRank": 109531
-  },
-  {
-    "login": "GBerardi",
-    "name": "Gianluca",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24650716?s=72&v=4",
-    "location": "Milan / San Marino",
-    "company": "",
-    "followers": 3,
-    "publicContributions": 6,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
     "countryRank": 38,
-    "score": 9,
-    "globalRank": 109532
+    "score": 3,
+    "globalRank": 108630
   },
   {
     "login": "lmacchiavelli",
@@ -576,13 +576,28 @@
     "location": "San Marino",
     "company": "22lab",
     "followers": 3,
-    "publicContributions": 2,
-    "privateContributions": 185,
+    "publicContributions": 15,
+    "privateContributions": 203,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 39,
-    "score": 190,
-    "globalRank": 109533
+    "score": 221,
+    "globalRank": 108631
+  },
+  {
+    "login": "GBerardi",
+    "name": "Gianluca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24650716?s=72&v=4",
+    "location": "Milan / San Marino",
+    "company": "",
+    "followers": 3,
+    "publicContributions": 8,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 40,
+    "score": 11,
+    "globalRank": 108632
   },
   {
     "login": "AldoJuniorSimoncini",
@@ -595,9 +610,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 40,
+    "countryRank": 41,
     "score": 3,
-    "globalRank": 109534
+    "globalRank": 108633
+  },
+  {
+    "login": "simonefalcini",
+    "name": "Simone",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1196854?s=72&u=9af41aa2adf647026fc708b9fd38d3974d180394&v=4",
+    "location": "San Marino",
+    "company": "",
+    "followers": 3,
+    "publicContributions": 3,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 42,
+    "score": 6,
+    "globalRank": 108634
   },
   {
     "login": "davidedusi",
@@ -610,9 +640,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 41,
+    "countryRank": 43,
     "score": 3,
-    "globalRank": 109535
+    "globalRank": 108635
   },
   {
     "login": "3N37",
@@ -625,9 +655,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 42,
+    "countryRank": 44,
     "score": 3,
-    "globalRank": 109536
+    "globalRank": 108636
   },
   {
     "login": "umctec",
@@ -640,9 +670,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 43,
+    "countryRank": 45,
     "score": 3,
-    "globalRank": 109537
+    "globalRank": 108637
   },
   {
     "login": "mircotamburini",
@@ -655,9 +685,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 44,
+    "countryRank": 46,
     "score": 3,
-    "globalRank": 109538
+    "globalRank": 108638
   },
   {
     "login": "thu105",
@@ -667,12 +697,12 @@
     "company": "",
     "followers": 3,
     "publicContributions": 0,
-    "privateContributions": 111,
+    "privateContributions": 122,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 45,
-    "score": 114,
-    "globalRank": 109539
+    "countryRank": 47,
+    "score": 125,
+    "globalRank": 108639
   },
   {
     "login": "gioele-santi",
@@ -681,13 +711,13 @@
     "location": "San Marino Republic",
     "company": "",
     "followers": 2,
-    "publicContributions": 0,
-    "privateContributions": 6,
+    "publicContributions": 22,
+    "privateContributions": 3,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 46,
-    "score": 8,
-    "globalRank": 113723
+    "countryRank": 48,
+    "score": 27,
+    "globalRank": 112829
   },
   {
     "login": "Design-dei-sistemi",
@@ -700,24 +730,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 47,
+    "countryRank": 49,
     "score": 2,
-    "globalRank": 113724
-  },
-  {
-    "login": "lucabio",
-    "name": "Luca",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6459123?s=72&u=839f5363861c208bd339b73e70aa9195efc35a97&v=4",
-    "location": "San Marino",
-    "company": "",
-    "followers": 2,
-    "publicContributions": 1,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 48,
-    "score": 3,
-    "globalRank": 113725
+    "globalRank": 112830
   },
   {
     "login": "xStaqed",
@@ -730,24 +745,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 49,
-    "score": 2,
-    "globalRank": 113726
-  },
-  {
-    "login": "simonefalcini",
-    "name": "Simone",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1196854?s=72&u=9af41aa2adf647026fc708b9fd38d3974d180394&v=4",
-    "location": "San Marino",
-    "company": "",
-    "followers": 2,
-    "publicContributions": 3,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
     "countryRank": 50,
-    "score": 5,
-    "globalRank": 113727
+    "score": 2,
+    "globalRank": 112831
   },
   {
     "login": "MattiaSemproli",
@@ -762,7 +762,7 @@
     "countryName": "San Marino",
     "countryRank": 51,
     "score": 32,
-    "globalRank": 113728
+    "globalRank": 112832
   },
   {
     "login": "Frikazoid",
@@ -777,7 +777,7 @@
     "countryName": "San Marino",
     "countryRank": 52,
     "score": 2,
-    "globalRank": 113729
+    "globalRank": 112833
   },
   {
     "login": "eliapasqualini",
@@ -792,7 +792,7 @@
     "countryName": "San Marino",
     "countryRank": 53,
     "score": 4,
-    "globalRank": 118491
+    "globalRank": 117561
   },
   {
     "login": "ACE27rsm",
@@ -801,13 +801,13 @@
     "location": "San Marino",
     "company": "3D Print",
     "followers": 1,
-    "publicContributions": 3,
+    "publicContributions": 16,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 54,
-    "score": 4,
-    "globalRank": 118492
+    "score": 17,
+    "globalRank": 117562
   },
   {
     "login": "LucaMulaa",
@@ -816,13 +816,13 @@
     "location": "San Marino",
     "company": "",
     "followers": 1,
-    "publicContributions": 137,
+    "publicContributions": 187,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 55,
-    "score": 138,
-    "globalRank": 118493
+    "score": 188,
+    "globalRank": 117563
   },
   {
     "login": "brunodotgg",
@@ -831,13 +831,13 @@
     "location": "San Marino",
     "company": "",
     "followers": 1,
-    "publicContributions": 15,
-    "privateContributions": 2688,
+    "publicContributions": 27,
+    "privateContributions": 3420,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 56,
-    "score": 2704,
-    "globalRank": 118494
+    "score": 3448,
+    "globalRank": 117564
   },
   {
     "login": "nydronia",
@@ -852,7 +852,7 @@
     "countryName": "San Marino",
     "countryRank": 57,
     "score": 1,
-    "globalRank": 118495
+    "globalRank": 117565
   },
   {
     "login": "Anna-Kostiuk",
@@ -867,7 +867,7 @@
     "countryName": "San Marino",
     "countryRank": 58,
     "score": 1,
-    "globalRank": 118496
+    "globalRank": 117566
   },
   {
     "login": "gennaris",
@@ -877,12 +877,12 @@
     "company": "@prestalia",
     "followers": 1,
     "publicContributions": 2,
-    "privateContributions": 518,
+    "privateContributions": 651,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 59,
-    "score": 521,
-    "globalRank": 118497
+    "score": 654,
+    "globalRank": 117567
   },
   {
     "login": "maxmonterumisi",
@@ -897,7 +897,7 @@
     "countryName": "San Marino",
     "countryRank": 60,
     "score": 2,
-    "globalRank": 118498
+    "globalRank": 117568
   },
   {
     "login": "matteorossi-thespacesm",
@@ -912,22 +912,22 @@
     "countryName": "San Marino",
     "countryRank": 61,
     "score": 1,
-    "globalRank": 118499
+    "globalRank": 117569
   },
   {
-    "login": "informatyca",
-    "name": "Samuele Pinzi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19330201?s=72&u=17cf6fd43ca2b572ec0f2c11e4e1ecf7779a0eb4&v=4",
-    "location": "Falciano, San Marino",
-    "company": "Informatyca s.r.l.",
+    "login": "zet-ka",
+    "name": "Zet Ka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245728386?s=72&u=d757309e1381c7d6de43e89c59cd689a2c7c36fe&v=4",
+    "location": "San Marino",
+    "company": "",
     "followers": 1,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 62,
-    "score": 1,
-    "globalRank": 118500
+    "score": 2,
+    "globalRank": 117570
   },
   {
     "login": "thomasrenzini",
@@ -942,7 +942,22 @@
     "countryName": "San Marino",
     "countryRank": 63,
     "score": 1,
-    "globalRank": 118501
+    "globalRank": 117571
+  },
+  {
+    "login": "informatyca",
+    "name": "Samuele Pinzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19330201?s=72&u=17cf6fd43ca2b572ec0f2c11e4e1ecf7779a0eb4&v=4",
+    "location": "Falciano, San Marino",
+    "company": "Informatyca s.r.l.",
+    "followers": 1,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 64,
+    "score": 1,
+    "globalRank": 117572
   },
   {
     "login": "elenarsm",
@@ -955,9 +970,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 64,
+    "countryRank": 65,
     "score": 1,
-    "globalRank": 118502
+    "globalRank": 117573
   },
   {
     "login": "SaraProseven",
@@ -970,9 +985,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 65,
+    "countryRank": 66,
     "score": 1,
-    "globalRank": 118503
+    "globalRank": 117574
   },
   {
     "login": "pigorg",
@@ -985,9 +1000,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 66,
+    "countryRank": 67,
     "score": 2,
-    "globalRank": 118504
+    "globalRank": 117575
   },
   {
     "login": "aleronci28",
@@ -1000,9 +1015,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 67,
+    "countryRank": 68,
     "score": 1,
-    "globalRank": 118505
+    "globalRank": 117576
   },
   {
     "login": "andreaventuri",
@@ -1015,9 +1030,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 68,
+    "countryRank": 69,
     "score": 1,
-    "globalRank": 118506
+    "globalRank": 117577
   },
   {
     "login": "salugea",
@@ -1030,99 +1045,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 69,
-    "score": 46,
-    "globalRank": 118507
-  },
-  {
-    "login": "Xiangxiang-Li",
-    "name": "Xiangxiang Li",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74171045?s=72&u=eb42fa0398ca04c5fa9441f1a893a929e424d54a&v=4",
-    "location": "San Marino",
-    "company": "",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
     "countryRank": 70,
-    "score": 0,
-    "globalRank": 122695
-  },
-  {
-    "login": "jpattersonHL",
-    "name": "Jean Patterson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39539007?s=72&u=093d4b578c8110fe9b9ddfd20b51f8fa8d7e5968&v=4",
-    "location": "San Marino, CA",
-    "company": "",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 71,
-    "score": 0,
-    "globalRank": 122696
-  },
-  {
-    "login": "luca-mussoni-extera",
-    "name": "Luca Mussoni",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56717120?s=72&u=1892819332485ef6c64d0ab7c8c65f96f3253bea&v=4",
-    "location": "Rovereta, San Marino",
-    "company": "Extera srl",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 72,
-    "score": 0,
-    "globalRank": 122697
-  },
-  {
-    "login": "JosephKyleWong",
-    "name": "Joseph Wong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17346310?s=72&v=4",
-    "location": "San Marino, California",
-    "company": "USC Masters",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 73,
-    "score": 0,
-    "globalRank": 122698
-  },
-  {
-    "login": "danilo-jlggroup-net",
-    "name": "Danilo Ercoli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198727249?s=72&v=4",
-    "location": "San Marino",
-    "company": "JLG-Group-S-r-l",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 74,
-    "score": 0,
-    "globalRank": 122699
-  },
-  {
-    "login": "gh-idb-dev",
-    "name": "IDB Dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267055307?s=72&u=404db8fd4f26d0ca08b3af3966734ad0a7609d73&v=4",
-    "location": "San Marino",
-    "company": "",
-    "followers": 0,
-    "publicContributions": 1,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 75,
-    "score": 1,
-    "globalRank": 122700
+    "score": 46,
+    "globalRank": 117578
   },
   {
     "login": "Gest24FZ",
@@ -1135,39 +1060,129 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 76,
+    "countryRank": 71,
     "score": 0,
-    "globalRank": 122701
+    "globalRank": 121766
   },
   {
-    "login": "elena-sarti",
-    "name": "Elena Sarti",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233401460?s=72&u=472c134dac5076f5b1b741b7a85dabd8e6936830&v=4",
+    "login": "gh-idb-dev",
+    "name": "IDB Dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267055307?s=72&u=404db8fd4f26d0ca08b3af3966734ad0a7609d73&v=4",
     "location": "San Marino",
     "company": "",
     "followers": 0,
-    "publicContributions": 15,
+    "publicContributions": 1,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 77,
-    "score": 15,
-    "globalRank": 122702
+    "countryRank": 72,
+    "score": 1,
+    "globalRank": 121767
   },
   {
-    "login": "madmarco",
-    "name": "Marco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3135434?s=72&v=4",
+    "login": "Xiangxiang-Li",
+    "name": "Xiangxiang Li",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74171045?s=72&u=eb42fa0398ca04c5fa9441f1a893a929e424d54a&v=4",
     "location": "San Marino",
-    "company": "Spectre",
+    "company": "",
     "followers": 0,
     "publicContributions": 0,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 78,
+    "countryRank": 73,
     "score": 0,
-    "globalRank": 122703
+    "globalRank": 121768
+  },
+  {
+    "login": "jpattersonHL",
+    "name": "Jean Patterson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39539007?s=72&u=093d4b578c8110fe9b9ddfd20b51f8fa8d7e5968&v=4",
+    "location": "San Marino, CA",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 74,
+    "score": 0,
+    "globalRank": 121769
+  },
+  {
+    "login": "JosephKyleWong",
+    "name": "Joseph Wong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17346310?s=72&v=4",
+    "location": "San Marino, California",
+    "company": "USC Masters",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 75,
+    "score": 0,
+    "globalRank": 121770
+  },
+  {
+    "login": "luca-mussoni-extera",
+    "name": "Luca Mussoni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56717120?s=72&u=1892819332485ef6c64d0ab7c8c65f96f3253bea&v=4",
+    "location": "Rovereta, San Marino",
+    "company": "Extera srl",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 76,
+    "score": 0,
+    "globalRank": 121771
+  },
+  {
+    "login": "danilo-jlggroup-net",
+    "name": "Danilo Ercoli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198727249?s=72&v=4",
+    "location": "San Marino",
+    "company": "JLG-Group-S-r-l",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 77,
+    "score": 0,
+    "globalRank": 121772
+  },
+  {
+    "login": "AlessandroBenti",
+    "name": "Alessandro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6095166?s=72&v=4",
+    "location": "San Marino",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 20,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 78,
+    "score": 20,
+    "globalRank": 121773
+  },
+  {
+    "login": "elena-sarti",
+    "name": "Elena Sarti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233401460?s=72&u=a7346a58212be99cc7d7c656fa3be3022e567973&v=4",
+    "location": "San Marino",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 24,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 79,
+    "score": 24,
+    "globalRank": 121774
   },
   {
     "login": "gqndalfthewise",
@@ -1180,9 +1195,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 79,
+    "countryRank": 80,
     "score": 0,
-    "globalRank": 122704
+    "globalRank": 121775
+  },
+  {
+    "login": "madmarco",
+    "name": "Marco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3135434?s=72&v=4",
+    "location": "San Marino",
+    "company": "Spectre",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 81,
+    "score": 0,
+    "globalRank": 121776
   },
   {
     "login": "mdb-extera",
@@ -1195,9 +1225,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 80,
+    "countryRank": 82,
     "score": 0,
-    "globalRank": 122705
+    "globalRank": 121777
   },
   {
     "login": "dbagnai",
@@ -1210,24 +1240,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 81,
+    "countryRank": 83,
     "score": 0,
-    "globalRank": 122706
-  },
-  {
-    "login": "Humanz16",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78477160?s=72&u=3c67cbeed798c7e88282b8e5598178211902fc70&v=4",
-    "location": "Via Marino Serenari 28/c",
-    "company": "Italia on Site",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 82,
-    "score": 0,
-    "globalRank": 122707
+    "globalRank": 121778
   },
   {
     "login": "passepartout-spa-sistemi",
@@ -1240,9 +1255,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 83,
+    "countryRank": 84,
     "score": 0,
-    "globalRank": 122708
+    "globalRank": 121779
+  },
+  {
+    "login": "Humanz16",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78477160?s=72&u=3c67cbeed798c7e88282b8e5598178211902fc70&v=4",
+    "location": "Via Marino Serenari 28/c",
+    "company": "Italia on Site",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 85,
+    "score": 0,
+    "globalRank": 121780
   },
   {
     "login": "robertgasperoni",
@@ -1255,39 +1285,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 84,
+    "countryRank": 86,
     "score": 14,
-    "globalRank": 122709
+    "globalRank": 121781
   },
   {
-    "login": "PasswebDev",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72686182?s=72&u=0782ed0ef298a9722c6b645f1b0252778bc980d2&v=4",
-    "location": "San Marino",
-    "company": "Passepartout s.p.a",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 85,
-    "score": 0,
-    "globalRank": 122710
-  },
-  {
-    "login": "simonegiardi",
-    "name": "Simone Giardi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42679948?s=72&u=da03824317249727396d5b78913fcbfcad580be0&v=4",
+    "login": "infinitai-srl",
+    "name": "Infinit AI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278913444?s=72&u=ea653816d3b63235bfd4ce813526f4bb881e0233&v=4",
     "location": "San Marino",
     "company": "",
     "followers": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 86,
-    "score": 0,
-    "globalRank": 122711
+    "countryRank": 87,
+    "score": 1,
+    "globalRank": 121782
   },
   {
     "login": "ematteo84-ux",
@@ -1300,39 +1315,39 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 87,
-    "score": 1,
-    "globalRank": 122712
-  },
-  {
-    "login": "Giuseppe-lo-russo",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258239255?s=72&u=d5a3f71f65a0c53c649fa5e4ffbbb047d7286c54&v=4",
-    "location": "San Marino",
-    "company": "Start To Fly S.r.l. ",
-    "followers": 0,
-    "publicContributions": 1,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
     "countryRank": 88,
     "score": 1,
-    "globalRank": 122713
+    "globalRank": 121783
   },
   {
-    "login": "cardinal76",
-    "name": "Marco Cardinali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2583886?s=72&u=a364945912b2a36ca86b0308422e5c0414e79c97&v=4",
-    "location": "Marino",
-    "company": "Cardinals",
+    "login": "PasswebDev",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72686182?s=72&u=0782ed0ef298a9722c6b645f1b0252778bc980d2&v=4",
+    "location": "San Marino",
+    "company": "Passepartout s.p.a",
     "followers": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 89,
-    "score": 2,
-    "globalRank": 122714
+    "score": 0,
+    "globalRank": 121784
+  },
+  {
+    "login": "simonegiardi",
+    "name": "Simone Giardi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42679948?s=72&u=da03824317249727396d5b78913fcbfcad580be0&v=4",
+    "location": "San Marino",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 90,
+    "score": 0,
+    "globalRank": 121785
   },
   {
     "login": "Uff182",
@@ -1345,54 +1360,39 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 90,
-    "score": 0,
-    "globalRank": 122715
-  },
-  {
-    "login": "sviluppo-adp",
-    "name": "Sviluppo Adp",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109157776?s=72&u=2d05c247742a40321b3ae2d5c1d711514e600e4c&v=4",
-    "location": "Repubblica di San Marino",
-    "company": "Passepartout S.p.a",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
     "countryRank": 91,
     "score": 0,
-    "globalRank": 122716
+    "globalRank": 121786
   },
   {
-    "login": "davideonestini",
-    "name": "Davide Onestini",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26150958?s=72&v=4",
-    "location": "Città di San Marino, San Marino",
-    "company": "",
+    "login": "cardinal76",
+    "name": "Marco Cardinali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2583886?s=72&u=a364945912b2a36ca86b0308422e5c0414e79c97&v=4",
+    "location": "Marino",
+    "company": "Cardinals",
     "followers": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 92,
-    "score": 0,
-    "globalRank": 122717
+    "score": 2,
+    "globalRank": 121787
   },
   {
-    "login": "jacquelinaWatson",
-    "name": "Jackie Watson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35842196?s=72&u=b84047e662af6c012886f9bcf3b7bc2a649c0ec6&v=4",
+    "login": "Giuseppe-lo-russo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258239255?s=72&u=d5a3f71f65a0c53c649fa5e4ffbbb047d7286c54&v=4",
     "location": "San Marino",
-    "company": "",
+    "company": "Start To Fly S.r.l. ",
     "followers": 0,
-    "publicContributions": 35,
+    "publicContributions": 1,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
     "countryRank": 93,
-    "score": 35,
-    "globalRank": 122718
+    "score": 1,
+    "globalRank": 121788
   },
   {
     "login": "dennistiboni-extera",
@@ -1407,7 +1407,37 @@
     "countryName": "San Marino",
     "countryRank": 94,
     "score": 0,
-    "globalRank": 122719
+    "globalRank": 121789
+  },
+  {
+    "login": "sviluppo-adp",
+    "name": "Sviluppo Adp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109157776?s=72&u=2d05c247742a40321b3ae2d5c1d711514e600e4c&v=4",
+    "location": "Repubblica di San Marino",
+    "company": "Passepartout S.p.a",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 95,
+    "score": 0,
+    "globalRank": 121790
+  },
+  {
+    "login": "davideonestini",
+    "name": "Davide Onestini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26150958?s=72&v=4",
+    "location": "Città di San Marino, San Marino",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 96,
+    "score": 0,
+    "globalRank": 121791
   },
   {
     "login": "GioeEng",
@@ -1416,13 +1446,28 @@
     "location": "Republic of San Marino",
     "company": "",
     "followers": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 95,
-    "score": 5,
-    "globalRank": 122720
+    "countryRank": 97,
+    "score": 4,
+    "globalRank": 121792
+  },
+  {
+    "login": "jacquelinaWatson",
+    "name": "Jackie Watson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35842196?s=72&u=b84047e662af6c012886f9bcf3b7bc2a649c0ec6&v=4",
+    "location": "San Marino",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 35,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 98,
+    "score": 35,
+    "globalRank": 121793
   },
   {
     "login": "mirconardini",
@@ -1435,9 +1480,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 96,
+    "countryRank": 99,
     "score": 0,
-    "globalRank": 122721
+    "globalRank": 121794
   },
   {
     "login": "clagenna",
@@ -1446,13 +1491,13 @@
     "location": "san marino",
     "company": "",
     "followers": 0,
-    "publicContributions": 36,
+    "publicContributions": 32,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 97,
-    "score": 36,
-    "globalRank": 122722
+    "countryRank": 100,
+    "score": 32,
+    "globalRank": 121795
   },
   {
     "login": "Netgenetic",
@@ -1465,9 +1510,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 98,
+    "countryRank": 101,
     "score": 0,
-    "globalRank": 122723
+    "globalRank": 121796
   },
   {
     "login": "D4nny-k",
@@ -1480,9 +1525,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 99,
+    "countryRank": 102,
     "score": 0,
-    "globalRank": 122724
+    "globalRank": 121797
   },
   {
     "login": "Zelinotti",
@@ -1495,24 +1540,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 100,
+    "countryRank": 103,
     "score": 0,
-    "globalRank": 122725
-  },
-  {
-    "login": "Cetrapay",
-    "name": "CetraPay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92855892?s=72&u=2929880efd0020eb9eed856df7ae27a1d4578ab7&v=4",
-    "location": "San-Marino",
-    "company": "CetraPay S.p.a.",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 101,
-    "score": 0,
-    "globalRank": 122726
+    "globalRank": 121798
   },
   {
     "login": "imconsulting",
@@ -1525,9 +1555,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 102,
+    "countryRank": 104,
     "score": 0,
-    "globalRank": 122727
+    "globalRank": 121799
+  },
+  {
+    "login": "Cetrapay",
+    "name": "CetraPay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92855892?s=72&u=2929880efd0020eb9eed856df7ae27a1d4578ab7&v=4",
+    "location": "San-Marino",
+    "company": "CetraPay S.p.a.",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 105,
+    "score": 0,
+    "globalRank": 121800
   },
   {
     "login": "NiykeeMoore",
@@ -1536,13 +1581,13 @@
     "location": "San-Marino",
     "company": "",
     "followers": 0,
-    "publicContributions": 15,
-    "privateContributions": 24,
+    "publicContributions": 0,
+    "privateContributions": 11,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 103,
-    "score": 39,
-    "globalRank": 122728
+    "countryRank": 106,
+    "score": 11,
+    "globalRank": 121801
   },
   {
     "login": "tfusion666",
@@ -1555,24 +1600,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 104,
+    "countryRank": 107,
     "score": 0,
-    "globalRank": 122729
-  },
-  {
-    "login": "FIAMMAORO",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56072308?s=72&u=ae43ecfe486d0c93007c3e8f7a353e9a5aaac0d6&v=4",
-    "location": "Repubblica di San Marino",
-    "company": "",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 105,
-    "score": 0,
-    "globalRank": 122730
+    "globalRank": 121802
   },
   {
     "login": "MarcoBinazzini",
@@ -1585,9 +1615,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 106,
+    "countryRank": 108,
     "score": 0,
-    "globalRank": 122731
+    "globalRank": 121803
+  },
+  {
+    "login": "FIAMMAORO",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56072308?s=72&u=ae43ecfe486d0c93007c3e8f7a353e9a5aaac0d6&v=4",
+    "location": "Repubblica di San Marino",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 109,
+    "score": 0,
+    "globalRank": 121804
   },
   {
     "login": "sandroragazzo",
@@ -1600,9 +1645,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 107,
+    "countryRank": 110,
     "score": 0,
-    "globalRank": 122732
+    "globalRank": 121805
   },
   {
     "login": "Matt2309",
@@ -1611,13 +1656,13 @@
     "location": "San Marino",
     "company": "",
     "followers": 0,
-    "publicContributions": 33,
-    "privateContributions": 1,
+    "publicContributions": 119,
+    "privateContributions": 18,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 108,
-    "score": 34,
-    "globalRank": 122733
+    "countryRank": 111,
+    "score": 137,
+    "globalRank": 121806
   },
   {
     "login": "tailerilluminator",
@@ -1630,24 +1675,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 109,
+    "countryRank": 112,
     "score": 0,
-    "globalRank": 122734
-  },
-  {
-    "login": "FabioMassimoD",
-    "name": "Fabio Massimo D'Ambrosio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110158592?s=72&u=b7f1b0230a6937b4544193dded22630d1c8a3a3d&v=4",
-    "location": "Marino, Italy",
-    "company": "",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 110,
-    "score": 0,
-    "globalRank": 122735
+    "globalRank": 121807
   },
   {
     "login": "dribelab",
@@ -1660,9 +1690,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 111,
+    "countryRank": 113,
     "score": 0,
-    "globalRank": 122736
+    "globalRank": 121808
+  },
+  {
+    "login": "FabioMassimoD",
+    "name": "Fabio Massimo D'Ambrosio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110158592?s=72&u=b7f1b0230a6937b4544193dded22630d1c8a3a3d&v=4",
+    "location": "Marino, Italy",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 114,
+    "score": 0,
+    "globalRank": 121809
   },
   {
     "login": "PyDevWiz",
@@ -1675,9 +1720,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 112,
+    "countryRank": 115,
     "score": 0,
-    "globalRank": 122737
+    "globalRank": 121810
   },
   {
     "login": "Goddari",
@@ -1690,9 +1735,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 113,
+    "countryRank": 116,
     "score": 8,
-    "globalRank": 122738
+    "globalRank": 121811
   },
   {
     "login": "Ecreditloan",
@@ -1705,9 +1750,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 114,
+    "countryRank": 117,
     "score": 0,
-    "globalRank": 122739
+    "globalRank": 121812
   },
   {
     "login": "pier-zano",
@@ -1720,24 +1765,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 115,
+    "countryRank": 118,
     "score": 0,
-    "globalRank": 122740
-  },
-  {
-    "login": "SergioBartsovski",
-    "name": "SERHII LISIEIENKOV",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227632966?s=72&u=6f5e7ac6ce386ccf08a49847107e000b5de67964&v=4",
-    "location": "San Marino",
-    "company": "Ukrainian Ethno Dump",
-    "followers": 0,
-    "publicContributions": 41,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 116,
-    "score": 41,
-    "globalRank": 122741
+    "globalRank": 121813
   },
   {
     "login": "rquarta-extera",
@@ -1750,9 +1780,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 117,
+    "countryRank": 119,
     "score": 0,
-    "globalRank": 122742
+    "globalRank": 121814
+  },
+  {
+    "login": "SergioBartsovski",
+    "name": "SERHII LISIEIENKOV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227632966?s=72&u=6f5e7ac6ce386ccf08a49847107e000b5de67964&v=4",
+    "location": "San Marino",
+    "company": "Ukrainian Ethno Dump",
+    "followers": 0,
+    "publicContributions": 41,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 120,
+    "score": 41,
+    "globalRank": 121815
   },
   {
     "login": "lorenzobob0",
@@ -1765,39 +1810,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 118,
+    "countryRank": 121,
     "score": 0,
-    "globalRank": 122743
-  },
-  {
-    "login": "MindClock",
-    "name": "MindClock",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33698326?s=72&u=f9ff152dd0419d3e484adf4cb1c441ed2808a4f5&v=4",
-    "location": "San Marino",
-    "company": "",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 119,
-    "score": 0,
-    "globalRank": 122744
-  },
-  {
-    "login": "Rimini",
-    "name": "Luca",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3509305?s=72&v=4",
-    "location": "San Marino",
-    "company": "Mera Srl",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 120,
-    "score": 0,
-    "globalRank": 122745
+    "globalRank": 121816
   },
   {
     "login": "Undefinetiv",
@@ -1810,30 +1825,15 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 121,
-    "score": 0,
-    "globalRank": 122746
-  },
-  {
-    "login": "marcomacari",
-    "name": "Marco Macari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8246070?s=72&v=4",
-    "location": "San Marino",
-    "company": "ITTweb SRL",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
     "countryRank": 122,
     "score": 0,
-    "globalRank": 122747
+    "globalRank": 121817
   },
   {
-    "login": "Kurtjz61",
-    "name": "AsmoDeuz007",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35420396?s=72&u=ccfe97d7d6ec8d829bcedc7f875e13e0345619c5&v=4",
-    "location": "San Marino,CA",
+    "login": "MindClock",
+    "name": "MindClock",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33698326?s=72&u=f9ff152dd0419d3e484adf4cb1c441ed2808a4f5&v=4",
+    "location": "San Marino",
     "company": "",
     "followers": 0,
     "publicContributions": 0,
@@ -1842,7 +1842,7 @@
     "countryName": "San Marino",
     "countryRank": 123,
     "score": 0,
-    "globalRank": 122748
+    "globalRank": 121818
   },
   {
     "login": "orione1974",
@@ -1857,7 +1857,37 @@
     "countryName": "San Marino",
     "countryRank": 124,
     "score": 0,
-    "globalRank": 122749
+    "globalRank": 121819
+  },
+  {
+    "login": "Rimini",
+    "name": "Luca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3509305?s=72&v=4",
+    "location": "San Marino",
+    "company": "Mera Srl",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 125,
+    "score": 0,
+    "globalRank": 121820
+  },
+  {
+    "login": "marcomacari",
+    "name": "Marco Macari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8246070?s=72&v=4",
+    "location": "San Marino",
+    "company": "ITTweb SRL",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 126,
+    "score": 0,
+    "globalRank": 121821
   },
   {
     "login": "pro-free-dev",
@@ -1870,9 +1900,39 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 125,
+    "countryRank": 127,
     "score": 0,
-    "globalRank": 122750
+    "globalRank": 121822
+  },
+  {
+    "login": "Kurtjz61",
+    "name": "AsmoDeuz007",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35420396?s=72&u=ccfe97d7d6ec8d829bcedc7f875e13e0345619c5&v=4",
+    "location": "San Marino,CA",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 128,
+    "score": 0,
+    "globalRank": 121823
+  },
+  {
+    "login": "sarpatil",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296710475?s=72&v=4",
+    "location": "San Marino",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 4,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 129,
+    "score": 4,
+    "globalRank": 121824
   },
   {
     "login": "Mozzardella",
@@ -1885,9 +1945,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 126,
+    "countryRank": 130,
     "score": 0,
-    "globalRank": 122751
+    "globalRank": 121825
   },
   {
     "login": "bio71",
@@ -1896,43 +1956,13 @@
     "location": "San Marino",
     "company": "PODOS3D",
     "followers": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 127,
-    "score": 2,
-    "globalRank": 122752
-  },
-  {
-    "login": "oleceabeaute",
-    "name": "Olecea Beaute",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182948950?s=72&v=4",
-    "location": "2260 Huntington Dr, San Marino, CA 91108 USA",
-    "company": "Olecea Beaute",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 128,
-    "score": 0,
-    "globalRank": 122753
-  },
-  {
-    "login": "deansoribminster",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183323208?s=72&u=3ad6cfccdf7d3134cfd858c87a65f040f4867dce&v=4",
-    "location": "San Marino (SM)",
-    "company": "",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 129,
-    "score": 0,
-    "globalRank": 122754
+    "countryRank": 131,
+    "score": 4,
+    "globalRank": 121826
   },
   {
     "login": "LucaExtera",
@@ -1945,9 +1975,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 130,
+    "countryRank": 132,
     "score": 0,
-    "globalRank": 122755
+    "globalRank": 121827
   },
   {
     "login": "ecasadei",
@@ -1960,24 +1990,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 131,
+    "countryRank": 133,
     "score": 0,
-    "globalRank": 122756
-  },
-  {
-    "login": "christian-ratiozero",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/240969336?s=72&u=7720aad26b699fc1f88d6a7caee62690828da2e5&v=4",
-    "location": "San Marino",
-    "company": "Varionova",
-    "followers": 0,
-    "publicContributions": 1,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 132,
-    "score": 1,
-    "globalRank": 122757
+    "globalRank": 121828
   },
   {
     "login": "TaraNico",
@@ -1990,24 +2005,54 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 133,
+    "countryRank": 134,
     "score": 1,
-    "globalRank": 122758
+    "globalRank": 121829
   },
   {
-    "login": "massimo-venturini",
-    "name": "Massimo Venturini",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76160773?s=72&v=4",
-    "location": "San Marino",
-    "company": "PolyD srl",
+    "login": "deansoribminster",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183323208?s=72&u=3ad6cfccdf7d3134cfd858c87a65f040f4867dce&v=4",
+    "location": "San Marino (SM)",
+    "company": "",
     "followers": 0,
     "publicContributions": 0,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 134,
+    "countryRank": 135,
     "score": 0,
-    "globalRank": 122759
+    "globalRank": 121830
+  },
+  {
+    "login": "oleceabeaute",
+    "name": "Olecea Beaute",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182948950?s=72&v=4",
+    "location": "2260 Huntington Dr, San Marino, CA 91108 USA",
+    "company": "Olecea Beaute",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 136,
+    "score": 0,
+    "globalRank": 121831
+  },
+  {
+    "login": "christian-ratiozero",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240969336?s=72&u=7720aad26b699fc1f88d6a7caee62690828da2e5&v=4",
+    "location": "San Marino",
+    "company": "Varionova",
+    "followers": 0,
+    "publicContributions": 1,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 137,
+    "score": 1,
+    "globalRank": 121832
   },
   {
     "login": "ewb-kmok",
@@ -2020,9 +2065,24 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 135,
+    "countryRank": 138,
     "score": 3,
-    "globalRank": 122760
+    "globalRank": 121833
+  },
+  {
+    "login": "massimo-venturini",
+    "name": "Massimo Venturini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76160773?s=72&v=4",
+    "location": "San Marino",
+    "company": "PolyD srl",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 139,
+    "score": 0,
+    "globalRank": 121834
   },
   {
     "login": "eneaextera",
@@ -2031,43 +2091,13 @@
     "location": "San Marino",
     "company": "Extera - make it web",
     "followers": 0,
-    "publicContributions": 2,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 136,
-    "score": 2,
-    "globalRank": 122761
-  },
-  {
-    "login": "chorizoyammee",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182436311?s=72&v=4",
-    "location": "San Marino (SM)",
-    "company": "",
-    "followers": 0,
     "publicContributions": 0,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 137,
+    "countryRank": 140,
     "score": 0,
-    "globalRank": 122762
-  },
-  {
-    "login": "smartecons",
-    "name": "Luca",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38994142?s=72&v=4",
-    "location": "San Marino",
-    "company": "Smartconsulting",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 138,
-    "score": 0,
-    "globalRank": 122763
+    "globalRank": 121835
   },
   {
     "login": "stefanoRSM",
@@ -2080,9 +2110,39 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 139,
+    "countryRank": 141,
     "score": 0,
-    "globalRank": 122764
+    "globalRank": 121836
+  },
+  {
+    "login": "chorizoyammee",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182436311?s=72&v=4",
+    "location": "San Marino (SM)",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 142,
+    "score": 0,
+    "globalRank": 121837
+  },
+  {
+    "login": "smartecons",
+    "name": "Luca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38994142?s=72&v=4",
+    "location": "San Marino",
+    "company": "Smartconsulting",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 143,
+    "score": 0,
+    "globalRank": 121838
   },
   {
     "login": "MBWIRYPAY",
@@ -2095,9 +2155,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 140,
+    "countryRank": 144,
     "score": 0,
-    "globalRank": 122765
+    "globalRank": 121839
   },
   {
     "login": "BargelliSamuel",
@@ -2110,39 +2170,9 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 141,
+    "countryRank": 145,
     "score": 0,
-    "globalRank": 122766
-  },
-  {
-    "login": "rbianchi-ittweb",
-    "name": "Roberto Bianchi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61662860?s=72&u=e08cdcc752f30f3950a3008d68b727f4dd9266ef&v=4",
-    "location": "San Marino",
-    "company": "ITTweb SRL",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 142,
-    "score": 0,
-    "globalRank": 122767
-  },
-  {
-    "login": "agentadept",
-    "name": "Agent Adept",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63367873?s=72&u=409c7ade6281bb76fd5be49f15b53ce1a71146ac&v=4",
-    "location": "San Marino",
-    "company": "",
-    "followers": 0,
-    "publicContributions": 0,
-    "privateContributions": 0,
-    "country": "san marino",
-    "countryName": "San Marino",
-    "countryRank": 143,
-    "score": 0,
-    "globalRank": 122768
+    "globalRank": 121840
   },
   {
     "login": "willysm",
@@ -2155,24 +2185,39 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 144,
+    "countryRank": 146,
     "score": 0,
-    "globalRank": 122769
+    "globalRank": 121841
   },
   {
-    "login": "dercoli-robopac",
-    "name": "Dercoli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263945621?s=72&u=3f4a91bb534b3d1f06572f096062f4ad4154575e&v=4",
+    "login": "rbianchi-ittweb",
+    "name": "Roberto Bianchi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61662860?s=72&u=e08cdcc752f30f3950a3008d68b727f4dd9266ef&v=4",
     "location": "San Marino",
-    "company": "Robopac Spa",
+    "company": "ITTweb SRL",
     "followers": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 145,
-    "score": 1,
-    "globalRank": 122770
+    "countryRank": 147,
+    "score": 0,
+    "globalRank": 121842
+  },
+  {
+    "login": "agentadept",
+    "name": "Agent Adept",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63367873?s=72&u=409c7ade6281bb76fd5be49f15b53ce1a71146ac&v=4",
+    "location": "San Marino",
+    "company": "",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 148,
+    "score": 0,
+    "globalRank": 121843
   },
   {
     "login": "lorenzo0994",
@@ -2185,8 +2230,23 @@
     "privateContributions": 0,
     "country": "san marino",
     "countryName": "San Marino",
-    "countryRank": 146,
+    "countryRank": 149,
     "score": 0,
-    "globalRank": 122771
+    "globalRank": 121844
+  },
+  {
+    "login": "dercoli-robopac",
+    "name": "Dercoli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263945621?s=72&u=3f4a91bb534b3d1f06572f096062f4ad4154575e&v=4",
+    "location": "San Marino",
+    "company": "Robopac Spa",
+    "followers": 0,
+    "publicContributions": 0,
+    "privateContributions": 0,
+    "country": "san marino",
+    "countryName": "San Marino",
+    "countryRank": 150,
+    "score": 0,
+    "globalRank": 121845
   }
 ]

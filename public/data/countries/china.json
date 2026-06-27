@@ -11,7 +11,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 1,
-    "score": 86690
+    "score": 86690,
+    "globalRank": 3
   },
   {
     "login": "ruanyf",
@@ -25,7 +26,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 2,
-    "score": 86925
+    "score": 86925,
+    "globalRank": 4
   },
   {
     "login": "michaelliao",
@@ -39,7 +41,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 3,
-    "score": 39247
+    "score": 39247,
+    "globalRank": 10
   },
   {
     "login": "daimajia",
@@ -53,7 +56,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 4,
-    "score": 26179
+    "score": 26179,
+    "globalRank": 26
   },
   {
     "login": "liyupi",
@@ -67,7 +71,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 5,
-    "score": 23570
+    "score": 23570,
+    "globalRank": 34
   },
   {
     "login": "programthink",
@@ -81,7 +86,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 6,
-    "score": 22500
+    "score": 22500,
+    "globalRank": 35
   },
   {
     "login": "xiaolai",
@@ -95,7 +101,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 7,
-    "score": 42378
+    "score": 42378,
+    "globalRank": 37
   },
   {
     "login": "cloudwu",
@@ -109,7 +116,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 8,
-    "score": 22320
+    "score": 22320,
+    "globalRank": 38
   },
   {
     "login": "JacksonTian",
@@ -123,7 +131,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 9,
-    "score": 21457
+    "score": 21457,
+    "globalRank": 40
   },
   {
     "login": "halfrost",
@@ -137,7 +146,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 10,
-    "score": 17496
+    "score": 17496,
+    "globalRank": 54
   },
   {
     "login": "jackfrued",
@@ -151,7 +161,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 11,
-    "score": 17257
+    "score": 17257,
+    "globalRank": 57
   },
   {
     "login": "justjavac",
@@ -165,7 +176,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 12,
-    "score": 18735
+    "score": 18735,
+    "globalRank": 58
   },
   {
     "login": "Ovilia",
@@ -179,7 +191,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 13,
-    "score": 16592
+    "score": 16592,
+    "globalRank": 65
   },
   {
     "login": "stormzhang",
@@ -193,7 +206,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 14,
-    "score": 15984
+    "score": 15984,
+    "globalRank": 66
   },
   {
     "login": "lifesinger",
@@ -207,7 +221,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 15,
-    "score": 15889
+    "score": 15889,
+    "globalRank": 67
   },
   {
     "login": "onevcat",
@@ -221,7 +236,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 16,
-    "score": 20292
+    "score": 20292,
+    "globalRank": 69
   },
   {
     "login": "astaxie",
@@ -235,7 +251,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 17,
-    "score": 15134
+    "score": 15134,
+    "globalRank": 76
   },
   {
     "login": "eust-w",
@@ -249,7 +266,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 18,
-    "score": 14932
+    "score": 14932,
+    "globalRank": 78
   },
   {
     "login": "RubyLouvre",
@@ -263,7 +281,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 19,
-    "score": 14756
+    "score": 14756,
+    "globalRank": 79
   },
   {
     "login": "sorrycc",
@@ -277,7 +296,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 20,
-    "score": 19706
+    "score": 19706,
+    "globalRank": 80
   },
   {
     "login": "CyC2018",
@@ -291,7 +311,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 21,
-    "score": 14728
+    "score": 14728,
+    "globalRank": 81
   },
   {
     "login": "fengdu78",
@@ -305,7 +326,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 22,
-    "score": 13793
+    "score": 13793,
+    "globalRank": 90
   },
   {
     "login": "bailicangdu",
@@ -319,7 +341,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 23,
-    "score": 13972
+    "score": 13972,
+    "globalRank": 92
   },
   {
     "login": "PanJiaChen",
@@ -333,7 +356,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 24,
-    "score": 13417
+    "score": 13417,
+    "globalRank": 97
   },
   {
     "login": "egoist",
@@ -347,7 +371,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 25,
-    "score": 16111
+    "score": 16111,
+    "globalRank": 101
   },
   {
     "login": "draveness",
@@ -361,7 +386,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 26,
-    "score": 13188
+    "score": 13188,
+    "globalRank": 104
   },
   {
     "login": "breakwa11",
@@ -375,7 +401,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 27,
-    "score": 13176
+    "score": 13176,
+    "globalRank": 105
   },
   {
     "login": "hongyangAndroid",
@@ -389,7 +416,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 28,
-    "score": 13008
+    "score": 13008,
+    "globalRank": 109
   },
   {
     "login": "haoel",
@@ -403,7 +431,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 29,
-    "score": 12723
+    "score": 12723,
+    "globalRank": 113
   },
   {
     "login": "YunaiV",
@@ -417,7 +446,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 30,
-    "score": 18396
+    "score": 18396,
+    "globalRank": 117
   },
   {
     "login": "521xueweihan",
@@ -431,7 +461,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 31,
-    "score": 12736
+    "score": 12736,
+    "globalRank": 119
   },
   {
     "login": "easychen",
@@ -445,7 +476,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 32,
-    "score": 12812
+    "score": 12812,
+    "globalRank": 123
   },
   {
     "login": "mqyqingfeng",
@@ -459,7 +491,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 33,
-    "score": 11679
+    "score": 11679,
+    "globalRank": 131
   },
   {
     "login": "QianMo",
@@ -473,7 +506,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 34,
-    "score": 11463
+    "score": 11463,
+    "globalRank": 134
   },
   {
     "login": "fouber",
@@ -487,7 +521,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 35,
-    "score": 11574
+    "score": 11574,
+    "globalRank": 138
   },
   {
     "login": "sungeer",
@@ -501,7 +536,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 36,
-    "score": 10942
+    "score": 10942,
+    "globalRank": 151
   },
   {
     "login": "miloyip",
@@ -515,7 +551,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 37,
-    "score": 10759
+    "score": 10759,
+    "globalRank": 152
   },
   {
     "login": "sofish",
@@ -529,7 +566,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 38,
-    "score": 14318
+    "score": 14318,
+    "globalRank": 160
   },
   {
     "login": "wizardforcel",
@@ -543,7 +581,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 39,
-    "score": 64849
+    "score": 64849,
+    "globalRank": 163
   },
   {
     "login": "PKUFlyingPig",
@@ -557,7 +596,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 40,
-    "score": 10002
+    "score": 10002,
+    "globalRank": 170
   },
   {
     "login": "CoderMJLee",
@@ -571,7 +611,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 41,
-    "score": 9850
+    "score": 9850,
+    "globalRank": 172
   },
   {
     "login": "Jack-Cherish",
@@ -585,7 +626,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 42,
-    "score": 9779
+    "score": 9779,
+    "globalRank": 174
   },
   {
     "login": "ustbhuangyi",
@@ -599,7 +641,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 43,
-    "score": 9664
+    "score": 9664,
+    "globalRank": 179
   },
   {
     "login": "macrozheng",
@@ -613,7 +656,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 44,
-    "score": 9442
+    "score": 9442,
+    "globalRank": 187
   },
   {
     "login": "wintercn",
@@ -627,7 +671,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 45,
-    "score": 9279
+    "score": 9279,
+    "globalRank": 189
   },
   {
     "login": "youngyangyang04",
@@ -641,7 +686,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 46,
-    "score": 9456
+    "score": 9456,
+    "globalRank": 194
   },
   {
     "login": "i5ting",
@@ -655,7 +701,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 47,
-    "score": 9253
+    "score": 9253,
+    "globalRank": 196
   },
   {
     "login": "jaywcjlove",
@@ -669,7 +716,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 48,
-    "score": 16753
+    "score": 16753,
+    "globalRank": 198
   },
   {
     "login": "dyc87112",
@@ -683,7 +731,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 49,
-    "score": 14900
+    "score": 14900,
+    "globalRank": 200
   },
   {
     "login": "MisterBooo",
@@ -697,7 +746,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 50,
-    "score": 8863
+    "score": 8863,
+    "globalRank": 209
   },
   {
     "login": "ityouknow",
@@ -711,7 +761,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 51,
-    "score": 8808
+    "score": 8808,
+    "globalRank": 213
   },
   {
     "login": "Fndroid",
@@ -725,7 +776,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 52,
-    "score": 8601
+    "score": 8601,
+    "globalRank": 220
   },
   {
     "login": "chokcoco",
@@ -739,7 +791,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 53,
-    "score": 8455
+    "score": 8455,
+    "globalRank": 227
   },
   {
     "login": "fengmk2",
@@ -753,7 +806,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 54,
-    "score": 13150
+    "score": 13150,
+    "globalRank": 229
   },
   {
     "login": "skyzh",
@@ -767,7 +821,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 55,
-    "score": 8937
+    "score": 8937,
+    "globalRank": 232
   },
   {
     "login": "nihui",
@@ -781,7 +836,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 56,
-    "score": 9057
+    "score": 9057,
+    "globalRank": 238
   },
   {
     "login": "bigtreetech",
@@ -795,7 +851,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 57,
-    "score": 8933
+    "score": 8933,
+    "globalRank": 241
   },
   {
     "login": "mercyblitz",
@@ -809,7 +866,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 58,
-    "score": 14792
+    "score": 14792,
+    "globalRank": 242
   },
   {
     "login": "rengwuxian",
@@ -823,7 +881,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 59,
-    "score": 8049
+    "score": 8049,
+    "globalRank": 247
   },
   {
     "login": "Huxpro",
@@ -837,7 +896,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 60,
-    "score": 9159
+    "score": 9159,
+    "globalRank": 255
   },
   {
     "login": "yetone",
@@ -851,7 +911,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 61,
-    "score": 14964
+    "score": 14964,
+    "globalRank": 256
   },
   {
     "login": "liuyubobobo",
@@ -865,7 +926,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 62,
-    "score": 7643
+    "score": 7643,
+    "globalRank": 264
   },
   {
     "login": "hehonghui",
@@ -879,7 +941,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 63,
-    "score": 7715
+    "score": 7715,
+    "globalRank": 268
   },
   {
     "login": "amusi",
@@ -893,7 +956,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 64,
-    "score": 7544
+    "score": 7544,
+    "globalRank": 270
   },
   {
     "login": "shengxinjing",
@@ -907,7 +971,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 65,
-    "score": 7587
+    "score": 7587,
+    "globalRank": 280
   },
   {
     "login": "singwhatiwanna",
@@ -921,7 +986,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 66,
-    "score": 7348
+    "score": 7348,
+    "globalRank": 281
   },
   {
     "login": "afc163",
@@ -935,7 +1001,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 67,
-    "score": 9808
+    "score": 9808,
+    "globalRank": 282
   },
   {
     "login": "TommyZihao",
@@ -949,7 +1016,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 68,
-    "score": 7344
+    "score": 7344,
+    "globalRank": 286
   },
   {
     "login": "overtrue",
@@ -963,7 +1031,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 69,
-    "score": 10319
+    "score": 10319,
+    "globalRank": 288
   },
   {
     "login": "tangqiaoboy",
@@ -977,7 +1046,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 70,
-    "score": 7329
+    "score": 7329,
+    "globalRank": 296
   },
   {
     "login": "oldratlee",
@@ -991,7 +1061,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 71,
-    "score": 7596
+    "score": 7596,
+    "globalRank": 298
   },
   {
     "login": "gaoxiang12",
@@ -1005,7 +1076,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 72,
-    "score": 6959
+    "score": 6959,
+    "globalRank": 312
   },
   {
     "login": "xufei",
@@ -1019,7 +1091,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 73,
-    "score": 48111
+    "score": 48111,
+    "globalRank": 314
   },
   {
     "login": "yihong0618",
@@ -1033,7 +1106,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 74,
-    "score": 9473
+    "score": 9473,
+    "globalRank": 336
   },
   {
     "login": "coderwhy",
@@ -1047,7 +1121,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 75,
-    "score": 6445
+    "score": 6445,
+    "globalRank": 337
   },
   {
     "login": "hiyouga",
@@ -1061,7 +1136,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 76,
-    "score": 8496
+    "score": 8496,
+    "globalRank": 344
   },
   {
     "login": "liuhuanyong",
@@ -1075,7 +1151,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 77,
-    "score": 6306
+    "score": 6306,
+    "globalRank": 351
   },
   {
     "login": "EndlessCheng",
@@ -1089,7 +1166,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 78,
-    "score": 9319
+    "score": 9319,
+    "globalRank": 358
   },
   {
     "login": "guolindev",
@@ -1103,7 +1181,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 79,
-    "score": 5938
+    "score": 5938,
+    "globalRank": 374
   },
   {
     "login": "xuxueli",
@@ -1117,7 +1196,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 80,
-    "score": 7334
+    "score": 7334,
+    "globalRank": 376
   },
   {
     "login": "fenixsoft",
@@ -1131,7 +1211,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 81,
-    "score": 5887
+    "score": 5887,
+    "globalRank": 377
   },
   {
     "login": "qiwsir",
@@ -1145,7 +1226,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 82,
-    "score": 5848
+    "score": 5848,
+    "globalRank": 380
   },
   {
     "login": "crossoverJie",
@@ -1159,7 +1241,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 83,
-    "score": 7800
+    "score": 7800,
+    "globalRank": 390
   },
   {
     "login": "jinzhu",
@@ -1173,7 +1256,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 84,
-    "score": 6166
+    "score": 6166,
+    "globalRank": 396
   },
   {
     "login": "yanhaijing",
@@ -1187,7 +1271,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 85,
-    "score": 5537
+    "score": 5537,
+    "globalRank": 407
   },
   {
     "login": "Yidadaa",
@@ -1201,7 +1286,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 86,
-    "score": 6812
+    "score": 6812,
+    "globalRank": 420
   },
   {
     "login": "vinceliuice",
@@ -1215,7 +1301,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 87,
-    "score": 6107
+    "score": 6107,
+    "globalRank": 422
   },
   {
     "login": "yegor256",
@@ -1229,7 +1316,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 88,
-    "score": 66631
+    "score": 66631,
+    "globalRank": 424
   },
   {
     "login": "wx-chevalier",
@@ -1243,7 +1331,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 89,
-    "score": 7117
+    "score": 7117,
+    "globalRank": 425
   },
   {
     "login": "jindongwang",
@@ -1257,7 +1346,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 90,
-    "score": 5496
+    "score": 5496,
+    "globalRank": 431
   },
   {
     "login": "nswbmw",
@@ -1271,7 +1361,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 91,
-    "score": 7667
+    "score": 7667,
+    "globalRank": 432
   },
   {
     "login": "tshemsedinov",
@@ -1285,7 +1376,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 92,
-    "score": 7084
+    "score": 7084,
+    "globalRank": 438
   },
   {
     "login": "HcySunYang",
@@ -1299,7 +1391,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 93,
-    "score": 5401
+    "score": 5401,
+    "globalRank": 441
   },
   {
     "login": "alsotang",
@@ -1313,7 +1406,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 94,
-    "score": 5259
+    "score": 5259,
+    "globalRank": 446
   },
   {
     "login": "hellokaton",
@@ -1327,7 +1421,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 95,
-    "score": 8149
+    "score": 8149,
+    "globalRank": 456
   },
   {
     "login": "huangzworks",
@@ -1341,7 +1436,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 96,
-    "score": 5741
+    "score": 5741,
+    "globalRank": 457
   },
   {
     "login": "julycoding",
@@ -1355,7 +1451,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 97,
-    "score": 5151
+    "score": 5151,
+    "globalRank": 462
   },
   {
     "login": "rfyiamcool",
@@ -1369,7 +1466,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 98,
-    "score": 5098
+    "score": 5098,
+    "globalRank": 469
   },
   {
     "login": "YunYouJun",
@@ -1383,7 +1481,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 99,
-    "score": 6415
+    "score": 6415,
+    "globalRank": 471
   },
   {
     "login": "Dreamacro",
@@ -1397,7 +1496,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 100,
-    "score": 5287
+    "score": 5287,
+    "globalRank": 472
   },
   {
     "login": "teddysun",
@@ -1411,7 +1511,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 101,
-    "score": 5178
+    "score": 5178,
+    "globalRank": 479
   },
   {
     "login": "smallnest",
@@ -1425,7 +1526,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 102,
-    "score": 9239
+    "score": 9239,
+    "globalRank": 487
   },
   {
     "login": "zdaxie",
@@ -1439,7 +1541,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 103,
-    "score": 4974
+    "score": 4974,
+    "globalRank": 491
   },
   {
     "login": "wepe",
@@ -1453,7 +1556,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 104,
-    "score": 4934
+    "score": 4934,
+    "globalRank": 497
   },
   {
     "login": "madeye",
@@ -1467,7 +1571,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 105,
-    "score": 6792
+    "score": 6792,
+    "globalRank": 498
   },
   {
     "login": "atian25",
@@ -1481,7 +1586,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 106,
-    "score": 5042
+    "score": 5042,
+    "globalRank": 500
   },
   {
     "login": "lencx",
@@ -1495,7 +1601,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 107,
-    "score": 5444
+    "score": 5444,
+    "globalRank": 509
   },
   {
     "login": "xpqiu",
@@ -1509,7 +1616,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 108,
-    "score": 4862
+    "score": 4862,
+    "globalRank": 512
   },
   {
     "login": "oschina",
@@ -1523,7 +1631,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 109,
-    "score": 4787
+    "score": 4787,
+    "globalRank": 519
   },
   {
     "login": "pissang",
@@ -1537,7 +1646,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 110,
-    "score": 4746
+    "score": 4746,
+    "globalRank": 523
   },
   {
     "login": "hax",
@@ -1551,7 +1661,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 111,
-    "score": 4971
+    "score": 4971,
+    "globalRank": 526
   },
   {
     "login": "azl397985856",
@@ -1565,7 +1676,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 112,
-    "score": 4806
+    "score": 4806,
+    "globalRank": 530
   },
   {
     "login": "doodlewind",
@@ -1579,7 +1691,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 113,
-    "score": 4841
+    "score": 4841,
+    "globalRank": 535
   },
   {
     "login": "barretlee",
@@ -1593,7 +1706,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 114,
-    "score": 4716
+    "score": 4716,
+    "globalRank": 536
   },
   {
     "login": "getActivity",
@@ -1607,7 +1721,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 115,
-    "score": 5646
+    "score": 5646,
+    "globalRank": 547
   },
   {
     "login": "Terry-Mao",
@@ -1621,7 +1736,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 116,
-    "score": 4679
+    "score": 4679,
+    "globalRank": 562
   },
   {
     "login": "leixiaohua1020",
@@ -1635,7 +1751,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 117,
-    "score": 4466
+    "score": 4466,
+    "globalRank": 563
   },
   {
     "login": "hustcc",
@@ -1649,7 +1766,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 118,
-    "score": 5897
+    "score": 5897,
+    "globalRank": 566
   },
   {
     "login": "answershuto",
@@ -1663,7 +1781,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 119,
-    "score": 4414
+    "score": 4414,
+    "globalRank": 571
   },
   {
     "login": "dead-horse",
@@ -1677,7 +1796,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 120,
-    "score": 4399
+    "score": 4399,
+    "globalRank": 576
   },
   {
     "login": "chyyuu",
@@ -1691,7 +1811,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 121,
-    "score": 4669
+    "score": 4669,
+    "globalRank": 579
   },
   {
     "login": "kesenhoo",
@@ -1705,7 +1826,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 122,
-    "score": 4340
+    "score": 4340,
+    "globalRank": 582
   },
   {
     "login": "biaochenxuying",
@@ -1719,7 +1841,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 123,
-    "score": 4302
+    "score": 4302,
+    "globalRank": 593
   },
   {
     "login": "JeffLi1993",
@@ -1733,7 +1856,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 124,
-    "score": 4702
+    "score": 4702,
+    "globalRank": 597
   },
   {
     "login": "JessYanCoding",
@@ -1747,7 +1871,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 125,
-    "score": 4183
+    "score": 4183,
+    "globalRank": 611
   },
   {
     "login": "jmzeng1314",
@@ -1761,7 +1886,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 126,
-    "score": 4138
+    "score": 4138,
+    "globalRank": 617
   },
   {
     "login": "ring04h",
@@ -1775,7 +1901,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 127,
-    "score": 4117
+    "score": 4117,
+    "globalRank": 620
   },
   {
     "login": "SukkaW",
@@ -1789,7 +1916,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 128,
-    "score": 10432
+    "score": 10432,
+    "globalRank": 623
   },
   {
     "login": "rootsongjc",
@@ -1803,7 +1931,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 129,
-    "score": 10146
+    "score": 10146,
+    "globalRank": 632
   },
   {
     "login": "xcatliu",
@@ -1817,7 +1946,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 130,
-    "score": 4068
+    "score": 4068,
+    "globalRank": 633
   },
   {
     "login": "xinntao",
@@ -1831,7 +1961,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 131,
-    "score": 4108
+    "score": 4108,
+    "globalRank": 638
   },
   {
     "login": "ventoy",
@@ -1845,7 +1976,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 132,
-    "score": 4027
+    "score": 4027,
+    "globalRank": 651
   },
   {
     "login": "666ghj",
@@ -1859,7 +1991,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 133,
-    "score": 4729
+    "score": 4729,
+    "globalRank": 654
   },
   {
     "login": "bingoogolapple",
@@ -1873,7 +2006,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 134,
-    "score": 4012
+    "score": 4012,
+    "globalRank": 658
   },
   {
     "login": "XadillaX",
@@ -1887,7 +2021,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 135,
-    "score": 3996
+    "score": 3996,
+    "globalRank": 667
   },
   {
     "login": "wenshao",
@@ -1901,7 +2036,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 136,
-    "score": 9013
+    "score": 9013,
+    "globalRank": 669
   },
   {
     "login": "ascoders",
@@ -1915,7 +2051,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 137,
-    "score": 3903
+    "score": 3903,
+    "globalRank": 672
   },
   {
     "login": "jawil",
@@ -1929,7 +2066,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 138,
-    "score": 3904
+    "score": 3904,
+    "globalRank": 673
   },
   {
     "login": "yangyangwithgnu",
@@ -1943,7 +2081,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 139,
-    "score": 3901
+    "score": 3901,
+    "globalRank": 674
   },
   {
     "login": "lexrus",
@@ -1957,7 +2096,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 140,
-    "score": 5863
+    "score": 5863,
+    "globalRank": 691
   },
   {
     "login": "yiminghe",
@@ -1971,7 +2111,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 141,
-    "score": 3948
+    "score": 3948,
+    "globalRank": 693
   },
   {
     "login": "berwin",
@@ -1985,7 +2126,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 142,
-    "score": 3826
+    "score": 3826,
+    "globalRank": 694
   },
   {
     "login": "TideSec",
@@ -1999,7 +2141,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 143,
-    "score": 3919
+    "score": 3919,
+    "globalRank": 695
   },
   {
     "login": "code4craft",
@@ -2013,7 +2156,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 144,
-    "score": 3798
+    "score": 3798,
+    "globalRank": 698
   },
   {
     "login": "wangshub",
@@ -2027,7 +2171,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 145,
-    "score": 5938
+    "score": 5938,
+    "globalRank": 703
   },
   {
     "login": "casatwy",
@@ -2041,7 +2186,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 146,
-    "score": 6787
+    "score": 6787,
+    "globalRank": 705
   },
   {
     "login": "vnpy",
@@ -2055,7 +2201,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 147,
-    "score": 5877
+    "score": 5877,
+    "globalRank": 707
   },
   {
     "login": "ymcui",
@@ -2069,7 +2216,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 148,
-    "score": 3856
+    "score": 3856,
+    "globalRank": 709
   },
   {
     "login": "candycat1992",
@@ -2083,7 +2231,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 149,
-    "score": 3706
+    "score": 3706,
+    "globalRank": 714
   },
   {
     "login": "codefollower",
@@ -2097,7 +2246,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 150,
-    "score": 4065
+    "score": 4065,
+    "globalRank": 718
   },
   {
     "login": "youkaichao",
@@ -2111,7 +2261,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 151,
-    "score": 5969
+    "score": 5969,
+    "globalRank": 719
   },
   {
     "login": "cssmagic",
@@ -2125,7 +2276,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 152,
-    "score": 5294
+    "score": 5294,
+    "globalRank": 722
   },
   {
     "login": "xtaci",
@@ -2139,7 +2291,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 153,
-    "score": 4354
+    "score": 4354,
+    "globalRank": 723
   },
   {
     "login": "markzhai",
@@ -2153,7 +2306,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 154,
-    "score": 3554
+    "score": 3554,
+    "globalRank": 746
   },
   {
     "login": "brightmart",
@@ -2167,7 +2321,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 155,
-    "score": 3548
+    "score": 3548,
+    "globalRank": 753
   },
   {
     "login": "matyhtf",
@@ -2181,7 +2336,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 156,
-    "score": 4322
+    "score": 4322,
+    "globalRank": 755
   },
   {
     "login": "Justineo",
@@ -2195,7 +2351,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 157,
-    "score": 5940
+    "score": 5940,
+    "globalRank": 760
   },
   {
     "login": "binjie09",
@@ -2209,7 +2366,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 158,
-    "score": 3707
+    "score": 3707,
+    "globalRank": 762
   },
   {
     "login": "daliansky",
@@ -2223,7 +2381,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 159,
-    "score": 3535
+    "score": 3535,
+    "globalRank": 763
   },
   {
     "login": "shenweichen",
@@ -2237,7 +2396,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 160,
-    "score": 3497
+    "score": 3497,
+    "globalRank": 768
   },
   {
     "login": "windiest",
@@ -2251,7 +2411,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 161,
-    "score": 3466
+    "score": 3466,
+    "globalRank": 771
   },
   {
     "login": "ZHO-ZHO-ZHO",
@@ -2265,7 +2426,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 162,
-    "score": 3544
+    "score": 3544,
+    "globalRank": 773
   },
   {
     "login": "binarywang",
@@ -2279,7 +2441,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 163,
-    "score": 50413
+    "score": 50413,
+    "globalRank": 776
   },
   {
     "login": "dongweiming",
@@ -2293,7 +2456,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 164,
-    "score": 3375
+    "score": 3375,
+    "globalRank": 795
   },
   {
     "login": "zce",
@@ -2307,7 +2471,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 165,
-    "score": 5672
+    "score": 5672,
+    "globalRank": 799
   },
   {
     "login": "gsdios",
@@ -2321,7 +2486,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 166,
-    "score": 3348
+    "score": 3348,
+    "globalRank": 801
   },
   {
     "login": "wu-sheng",
@@ -2335,7 +2501,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 167,
-    "score": 4802
+    "score": 4802,
+    "globalRank": 802
   },
   {
     "login": "qianguyihao",
@@ -2349,7 +2516,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 168,
-    "score": 3437
+    "score": 3437,
+    "globalRank": 810
   },
   {
     "login": "felixonmars",
@@ -2363,7 +2531,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 169,
-    "score": 285983
+    "score": 285983,
+    "globalRank": 812
   },
   {
     "login": "sentsim",
@@ -2377,7 +2546,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 170,
-    "score": 3516
+    "score": 3516,
+    "globalRank": 819
   },
   {
     "login": "Mr-xn",
@@ -2391,7 +2561,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 171,
-    "score": 3984
+    "score": 3984,
+    "globalRank": 821
   },
   {
     "login": "sunnyxx",
@@ -2405,7 +2576,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 172,
-    "score": 3293
+    "score": 3293,
+    "globalRank": 823
   },
   {
     "login": "GcsSloop",
@@ -2419,7 +2591,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 173,
-    "score": 3895
+    "score": 3895,
+    "globalRank": 830
   },
   {
     "login": "chloerei",
@@ -2433,7 +2606,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 174,
-    "score": 3586
+    "score": 3586,
+    "globalRank": 831
   },
   {
     "login": "Ewenwan",
@@ -2447,7 +2621,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 175,
-    "score": 3267
+    "score": 3267,
+    "globalRank": 839
   },
   {
     "login": "digoal",
@@ -2461,7 +2636,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 176,
-    "score": 5356
+    "score": 5356,
+    "globalRank": 843
   },
   {
     "login": "cuixiaorui",
@@ -2475,7 +2651,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 177,
-    "score": 3250
+    "score": 3250,
+    "globalRank": 848
   },
   {
     "login": "wangfupeng1988",
@@ -2489,7 +2666,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 178,
-    "score": 3400
+    "score": 3400,
+    "globalRank": 855
   },
   {
     "login": "FeeiCN",
@@ -2503,7 +2681,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 179,
-    "score": 3849
+    "score": 3849,
+    "globalRank": 871
   },
   {
     "login": "makerbase-mks",
@@ -2517,7 +2696,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 180,
-    "score": 3153
+    "score": 3153,
+    "globalRank": 882
   },
   {
     "login": "extreme-assistant",
@@ -2531,7 +2711,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 181,
-    "score": 3138
+    "score": 3138,
+    "globalRank": 898
   },
   {
     "login": "FrankFang",
@@ -2545,7 +2726,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 182,
-    "score": 5681
+    "score": 5681,
+    "globalRank": 901
   },
   {
     "login": "CHYbeta",
@@ -2559,7 +2741,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 183,
-    "score": 3350
+    "score": 3350,
+    "globalRank": 903
   },
   {
     "login": "manateelazycat",
@@ -2573,7 +2756,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 184,
-    "score": 4990
+    "score": 4990,
+    "globalRank": 904
   },
   {
     "login": "GuangchuangYu",
@@ -2587,7 +2771,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 185,
-    "score": 5316
+    "score": 5316,
+    "globalRank": 913
   },
   {
     "login": "airen",
@@ -2601,7 +2786,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 186,
-    "score": 3110
+    "score": 3110,
+    "globalRank": 915
   },
   {
     "login": "djyde",
@@ -2615,7 +2801,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 187,
-    "score": 4397
+    "score": 4397,
+    "globalRank": 918
   },
   {
     "login": "kymjs",
@@ -2629,7 +2816,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 188,
-    "score": 3415
+    "score": 3415,
+    "globalRank": 935
   },
   {
     "login": "boy-hack",
@@ -2643,7 +2831,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 189,
-    "score": 3422
+    "score": 3422,
+    "globalRank": 936
   },
   {
     "login": "orangepi-xunlong",
@@ -2657,7 +2846,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 190,
-    "score": 3054
+    "score": 3054,
+    "globalRank": 940
   },
   {
     "login": "lanxuezaipiao",
@@ -2671,7 +2861,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 191,
-    "score": 3035
+    "score": 3035,
+    "globalRank": 945
   },
   {
     "login": "summerblue",
@@ -2685,7 +2876,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 192,
-    "score": 3043
+    "score": 3043,
+    "globalRank": 946
   },
   {
     "login": "aceld",
@@ -2699,7 +2891,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 193,
-    "score": 3021
+    "score": 3021,
+    "globalRank": 960
   },
   {
     "login": "gh0stkey",
@@ -2713,7 +2906,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 194,
-    "score": 3790
+    "score": 3790,
+    "globalRank": 962
   },
   {
     "login": "chenzomi12",
@@ -2727,7 +2921,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 195,
-    "score": 3630
+    "score": 3630,
+    "globalRank": 966
   },
   {
     "login": "johnlui",
@@ -2741,7 +2936,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 196,
-    "score": 2998
+    "score": 2998,
+    "globalRank": 967
   },
   {
     "login": "aui",
@@ -2755,7 +2951,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 197,
-    "score": 3178
+    "score": 3178,
+    "globalRank": 968
   },
   {
     "login": "formulahendry",
@@ -2769,7 +2966,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 198,
-    "score": 3730
+    "score": 3730,
+    "globalRank": 971
   },
   {
     "login": "sl1673495",
@@ -2783,7 +2981,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 199,
-    "score": 2978
+    "score": 2978,
+    "globalRank": 976
   },
   {
     "login": "lilydjwg",
@@ -2797,7 +2996,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 200,
-    "score": 3671
+    "score": 3671,
+    "globalRank": 982
   },
   {
     "login": "Perfare",
@@ -2811,7 +3011,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 201,
-    "score": 2921
+    "score": 2921,
+    "globalRank": 993
   },
   {
     "login": "small-tou",
@@ -2825,7 +3026,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 202,
-    "score": 2912
+    "score": 2912,
+    "globalRank": 1004
   },
   {
     "login": "AloneMonkey",
@@ -2839,7 +3041,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 203,
-    "score": 2870
+    "score": 2870,
+    "globalRank": 1007
   },
   {
     "login": "GrowingGit",
@@ -2853,7 +3056,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 204,
-    "score": 2865
+    "score": 2865,
+    "globalRank": 1011
   },
   {
     "login": "Wscats",
@@ -2867,7 +3071,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 205,
-    "score": 3887
+    "score": 3887,
+    "globalRank": 1016
   },
   {
     "login": "woai3c",
@@ -2881,7 +3086,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 206,
-    "score": 3139
+    "score": 3139,
+    "globalRank": 1043
   },
   {
     "login": "tiye",
@@ -2895,7 +3101,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 207,
-    "score": 5635
+    "score": 5635,
+    "globalRank": 1049
   },
   {
     "login": "tencent-wechat",
@@ -2909,7 +3116,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 208,
-    "score": 2765
+    "score": 2765,
+    "globalRank": 1055
   },
   {
     "login": "Sjj1024",
@@ -2923,7 +3131,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 209,
-    "score": 6048
+    "score": 6048,
+    "globalRank": 1057
   },
   {
     "login": "bang590",
@@ -2937,7 +3146,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 210,
-    "score": 2756
+    "score": 2756,
+    "globalRank": 1059
   },
   {
     "login": "archibate",
@@ -2951,7 +3161,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 211,
-    "score": 5887
+    "score": 5887,
+    "globalRank": 1065
   },
   {
     "login": "ShiqiYu",
@@ -2965,7 +3176,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 212,
-    "score": 2729
+    "score": 2729,
+    "globalRank": 1077
   },
   {
     "login": "chenjiandongx",
@@ -2979,7 +3191,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 213,
-    "score": 3099
+    "score": 3099,
+    "globalRank": 1081
   },
   {
     "login": "DjangoPeng",
@@ -2993,7 +3206,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 214,
-    "score": 2808
+    "score": 2808,
+    "globalRank": 1087
   },
   {
     "login": "wendux",
@@ -3007,7 +3221,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 215,
-    "score": 2685
+    "score": 2685,
+    "globalRank": 1089
   },
   {
     "login": "kujian",
@@ -3021,7 +3236,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 216,
-    "score": 2692
+    "score": 2692,
+    "globalRank": 1090
   },
   {
     "login": "zhengmin1989",
@@ -3035,7 +3251,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 217,
-    "score": 2680
+    "score": 2680,
+    "globalRank": 1092
   },
   {
     "login": "riusksk",
@@ -3049,7 +3266,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 218,
-    "score": 2678
+    "score": 2678,
+    "globalRank": 1093
   },
   {
     "login": "judasn",
@@ -3063,7 +3281,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 219,
-    "score": 2677
+    "score": 2677,
+    "globalRank": 1094
   },
   {
     "login": "abel533",
@@ -3077,7 +3296,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 220,
-    "score": 3255
+    "score": 3255,
+    "globalRank": 1095
   },
   {
     "login": "VincentWong3",
@@ -3091,7 +3311,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 221,
-    "score": 2908
+    "score": 2908,
+    "globalRank": 1096
   },
   {
     "login": "xhzengAIB",
@@ -3105,7 +3326,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 222,
-    "score": 2662
+    "score": 2662,
+    "globalRank": 1101
   },
   {
     "login": "crazycodeboy",
@@ -3119,7 +3341,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 223,
-    "score": 2661
+    "score": 2661,
+    "globalRank": 1102
   },
   {
     "login": "fengyuanchen",
@@ -3133,7 +3356,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 224,
-    "score": 2719
+    "score": 2719,
+    "globalRank": 1104
   },
   {
     "login": "ConardLi",
@@ -3147,7 +3371,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 225,
-    "score": 3432
+    "score": 3432,
+    "globalRank": 1107
   },
   {
     "login": "vczero",
@@ -3161,7 +3386,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 226,
-    "score": 2665
+    "score": 2665,
+    "globalRank": 1109
   },
   {
     "login": "yorkie",
@@ -3175,7 +3401,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 227,
-    "score": 3958
+    "score": 3958,
+    "globalRank": 1125
   },
   {
     "login": "greyli",
@@ -3189,7 +3416,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 228,
-    "score": 2963
+    "score": 2963,
+    "globalRank": 1139
   },
   {
     "login": "xudafeng",
@@ -3203,7 +3431,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 229,
-    "score": 2722
+    "score": 2722,
+    "globalRank": 1140
   },
   {
     "login": "baoyongzhang",
@@ -3217,7 +3446,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 230,
-    "score": 2585
+    "score": 2585,
+    "globalRank": 1141
   },
   {
     "login": "shenghy",
@@ -3231,7 +3461,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 231,
-    "score": 2579
+    "score": 2579,
+    "globalRank": 1149
   },
   {
     "login": "lotem",
@@ -3245,7 +3476,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 232,
-    "score": 3432
+    "score": 3432,
+    "globalRank": 1155
   },
   {
     "login": "wuchong",
@@ -3259,7 +3491,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 233,
-    "score": 3545
+    "score": 3545,
+    "globalRank": 1164
   },
   {
     "login": "geektutu",
@@ -3273,7 +3506,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 234,
-    "score": 2549
+    "score": 2549,
+    "globalRank": 1170
   },
   {
     "login": "ZHENFENG13",
@@ -3287,7 +3521,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 235,
-    "score": 2537
+    "score": 2537,
+    "globalRank": 1173
   },
   {
     "login": "Skykai521",
@@ -3301,7 +3536,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 236,
-    "score": 2942
+    "score": 2942,
+    "globalRank": 1175
   },
   {
     "login": "madawei2699",
@@ -3315,7 +3551,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 237,
-    "score": 5534
+    "score": 5534,
+    "globalRank": 1182
   },
   {
     "login": "wenzhixin",
@@ -3329,7 +3566,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 238,
-    "score": 3493
+    "score": 3493,
+    "globalRank": 1184
   },
   {
     "login": "timqian",
@@ -3343,7 +3581,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 239,
-    "score": 2933
+    "score": 2933,
+    "globalRank": 1187
   },
   {
     "login": "jackwener",
@@ -3357,7 +3596,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 240,
-    "score": 6118
+    "score": 6118,
+    "globalRank": 1188
   },
   {
     "login": "tangly1024",
@@ -3371,7 +3611,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 241,
-    "score": 3002
+    "score": 3002,
+    "globalRank": 1200
   },
   {
     "login": "fool2fish",
@@ -3385,7 +3626,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 242,
-    "score": 2501
+    "score": 2501,
+    "globalRank": 1201
   },
   {
     "login": "polaris1119",
@@ -3399,7 +3641,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 243,
-    "score": 2502
+    "score": 2502,
+    "globalRank": 1203
   },
   {
     "login": "xiaoweiChen",
@@ -3413,7 +3656,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 244,
-    "score": 2707
+    "score": 2707,
+    "globalRank": 1205
   },
   {
     "login": "BBuf",
@@ -3427,7 +3671,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 245,
-    "score": 4108
+    "score": 4108,
+    "globalRank": 1207
   },
   {
     "login": "WangXuan95",
@@ -3441,7 +3686,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 246,
-    "score": 2497
+    "score": 2497,
+    "globalRank": 1218
   },
   {
     "login": "livoras",
@@ -3455,7 +3701,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 247,
-    "score": 2860
+    "score": 2860,
+    "globalRank": 1221
   },
   {
     "login": "soulteary",
@@ -3469,7 +3716,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 248,
-    "score": 4456
+    "score": 4456,
+    "globalRank": 1224
   },
   {
     "login": "lizongying",
@@ -3483,7 +3731,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 249,
-    "score": 2670
+    "score": 2670,
+    "globalRank": 1234
   },
   {
     "login": "QiuChenly",
@@ -3497,7 +3746,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 250,
-    "score": 3576
+    "score": 3576,
+    "globalRank": 1250
   },
   {
     "login": "yisibl",
@@ -3511,7 +3761,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 251,
-    "score": 2638
+    "score": 2638,
+    "globalRank": 1262
   },
   {
     "login": "bennyhuo",
@@ -3525,7 +3776,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 252,
-    "score": 2578
+    "score": 2578,
+    "globalRank": 1271
   },
   {
     "login": "yichengchen",
@@ -3539,7 +3791,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 253,
-    "score": 2442
+    "score": 2442,
+    "globalRank": 1278
   },
   {
     "login": "gias-uddin-swe",
@@ -3553,7 +3806,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 254,
-    "score": 2394
+    "score": 2394,
+    "globalRank": 1280
   },
   {
     "login": "op7418",
@@ -3567,7 +3821,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 255,
-    "score": 2724
+    "score": 2724,
+    "globalRank": 1282
   },
   {
     "login": "android-cjj",
@@ -3581,7 +3836,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 256,
-    "score": 2374
+    "score": 2374,
+    "globalRank": 1289
   },
   {
     "login": "Lucifier129",
@@ -3595,7 +3851,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 257,
-    "score": 2598
+    "score": 2598,
+    "globalRank": 1294
   },
   {
     "login": "yangfuhai",
@@ -3609,7 +3866,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 258,
-    "score": 3716
+    "score": 3716,
+    "globalRank": 1297
   },
   {
     "login": "Richasy",
@@ -3623,7 +3881,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 259,
-    "score": 5175
+    "score": 5175,
+    "globalRank": 1301
   },
   {
     "login": "shibing624",
@@ -3637,7 +3896,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 260,
-    "score": 4006
+    "score": 4006,
+    "globalRank": 1302
   },
   {
     "login": "yanglbme",
@@ -3651,7 +3911,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 261,
-    "score": 4726
+    "score": 4726,
+    "globalRank": 1307
   },
   {
     "login": "lijigang",
@@ -3665,7 +3926,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 262,
-    "score": 2510
+    "score": 2510,
+    "globalRank": 1318
   },
   {
     "login": "DHDAXCW",
@@ -3679,7 +3941,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 263,
-    "score": 2561
+    "score": 2561,
+    "globalRank": 1325
   },
   {
     "login": "davies",
@@ -3693,7 +3956,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 264,
-    "score": 3781
+    "score": 3781,
+    "globalRank": 1336
   },
   {
     "login": "HenJigg",
@@ -3707,7 +3971,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 265,
-    "score": 2306
+    "score": 2306,
+    "globalRank": 1337
   },
   {
     "login": "armink",
@@ -3721,7 +3986,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 266,
-    "score": 2397
+    "score": 2397,
+    "globalRank": 1338
   },
   {
     "login": "lvy010",
@@ -3735,7 +4001,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 267,
-    "score": 3888
+    "score": 3888,
+    "globalRank": 1344
   },
   {
     "login": "ChenglongChen",
@@ -3749,7 +4016,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 268,
-    "score": 2300
+    "score": 2300,
+    "globalRank": 1345
   },
   {
     "login": "guofei9987",
@@ -3763,7 +4031,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 269,
-    "score": 2504
+    "score": 2504,
+    "globalRank": 1353
   },
   {
     "login": "byoungd",
@@ -3777,7 +4046,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 270,
-    "score": 2973
+    "score": 2973,
+    "globalRank": 1356
   },
   {
     "login": "shidenggui",
@@ -3791,7 +4061,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 271,
-    "score": 2283
+    "score": 2283,
+    "globalRank": 1363
   },
   {
     "login": "SpikeKing",
@@ -3805,7 +4076,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 272,
-    "score": 2286
+    "score": 2286,
+    "globalRank": 1364
   },
   {
     "login": "lexburner",
@@ -3819,7 +4091,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 273,
-    "score": 2695
+    "score": 2695,
+    "globalRank": 1373
   },
   {
     "login": "maotoumao",
@@ -3833,7 +4106,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 274,
-    "score": 3709
+    "score": 3709,
+    "globalRank": 1385
   },
   {
     "login": "zzz40500",
@@ -3847,7 +4121,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 275,
-    "score": 2254
+    "score": 2254,
+    "globalRank": 1386
   },
   {
     "login": "ProbiusOfficial",
@@ -3861,7 +4136,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 276,
-    "score": 11200
+    "score": 11200,
+    "globalRank": 1393
   },
   {
     "login": "huiyadanli",
@@ -3875,7 +4151,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 277,
-    "score": 3358
+    "score": 3358,
+    "globalRank": 1400
   },
   {
     "login": "mmin18",
@@ -3889,7 +4166,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 278,
-    "score": 2213
+    "score": 2213,
+    "globalRank": 1417
   },
   {
     "login": "JsAaron",
@@ -3903,7 +4181,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 279,
-    "score": 5730
+    "score": 5730,
+    "globalRank": 1418
   },
   {
     "login": "xiaoyaocz",
@@ -3917,7 +4196,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 280,
-    "score": 2461
+    "score": 2461,
+    "globalRank": 1424
   },
   {
     "login": "canyie",
@@ -3931,7 +4211,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 281,
-    "score": 2265
+    "score": 2265,
+    "globalRank": 1450
   },
   {
     "login": "nilaoda",
@@ -3945,7 +4226,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 282,
-    "score": 2501
+    "score": 2501,
+    "globalRank": 1452
   },
   {
     "login": "litten",
@@ -3959,7 +4241,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 283,
-    "score": 2171
+    "score": 2171,
+    "globalRank": 1458
   },
   {
     "login": "youngwind",
@@ -3973,7 +4256,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 284,
-    "score": 2169
+    "score": 2169,
+    "globalRank": 1461
   },
   {
     "login": "Vamei",
@@ -3987,7 +4271,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 285,
-    "score": 2168
+    "score": 2168,
+    "globalRank": 1463
   },
   {
     "login": "forezp",
@@ -4001,7 +4286,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 286,
-    "score": 2169
+    "score": 2169,
+    "globalRank": 1467
   },
   {
     "login": "taowen",
@@ -4015,7 +4301,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 287,
-    "score": 2703
+    "score": 2703,
+    "globalRank": 1472
   },
   {
     "login": "geffzhang",
@@ -4029,7 +4316,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 288,
-    "score": 2388
+    "score": 2388,
+    "globalRank": 1481
   },
   {
     "login": "leizongmin",
@@ -4043,7 +4331,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 289,
-    "score": 8405
+    "score": 8405,
+    "globalRank": 1484
   },
   {
     "login": "LyricZhao",
@@ -4057,7 +4346,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 290,
-    "score": 3532
+    "score": 3532,
+    "globalRank": 1488
   },
   {
     "login": "MaxwellGengYF",
@@ -4071,7 +4361,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 291,
-    "score": 3755
+    "score": 3755,
+    "globalRank": 1489
   },
   {
     "login": "igrr",
@@ -4085,7 +4376,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 292,
-    "score": 2782
+    "score": 2782,
+    "globalRank": 1507
   },
   {
     "login": "ouyangzhiping",
@@ -4099,7 +4391,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 293,
-    "score": 2116
+    "score": 2116,
+    "globalRank": 1508
   },
   {
     "login": "shwenzhang",
@@ -4113,7 +4406,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 294,
-    "score": 2105
+    "score": 2105,
+    "globalRank": 1514
   },
   {
     "login": "NanmiCoder",
@@ -4127,7 +4421,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 295,
-    "score": 6135
+    "score": 6135,
+    "globalRank": 1515
   },
   {
     "login": "xiaolincoder",
@@ -4141,7 +4436,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 296,
-    "score": 2127
+    "score": 2127,
+    "globalRank": 1526
   },
   {
     "login": "Yixiaohan",
@@ -4155,7 +4451,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 297,
-    "score": 2090
+    "score": 2090,
+    "globalRank": 1528
   },
   {
     "login": "foolwood",
@@ -4169,7 +4466,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 298,
-    "score": 2088
+    "score": 2088,
+    "globalRank": 1530
   },
   {
     "login": "firmianay",
@@ -4183,7 +4481,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 299,
-    "score": 2438
+    "score": 2438,
+    "globalRank": 1541
   },
   {
     "login": "layumi",
@@ -4197,7 +4496,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 300,
-    "score": 2601
+    "score": 2601,
+    "globalRank": 1545
   },
   {
     "login": "sunzsh",
@@ -4211,7 +4511,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 301,
-    "score": 2098
+    "score": 2098,
+    "globalRank": 1547
   },
   {
     "login": "kevwan",
@@ -4225,7 +4526,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 302,
-    "score": 2593
+    "score": 2593,
+    "globalRank": 1549
   },
   {
     "login": "dunwu",
@@ -4239,7 +4541,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 303,
-    "score": 2529
+    "score": 2529,
+    "globalRank": 1552
   },
   {
     "login": "jiangyy",
@@ -4253,7 +4556,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 304,
-    "score": 2074
+    "score": 2074,
+    "globalRank": 1556
   },
   {
     "login": "DefTruth",
@@ -4267,7 +4571,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 305,
-    "score": 4725
+    "score": 4725,
+    "globalRank": 1561
   },
   {
     "login": "88250",
@@ -4281,7 +4586,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 306,
-    "score": 5442
+    "score": 5442,
+    "globalRank": 1565
   },
   {
     "login": "bit4woo",
@@ -4295,7 +4601,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 307,
-    "score": 2995
+    "score": 2995,
+    "globalRank": 1570
   },
   {
     "login": "island205",
@@ -4309,7 +4616,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 308,
-    "score": 2038
+    "score": 2038,
+    "globalRank": 1584
   },
   {
     "login": "Vanessa219",
@@ -4323,7 +4631,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 309,
-    "score": 4342
+    "score": 4342,
+    "globalRank": 1585
   },
   {
     "login": "AabyssZG",
@@ -4337,7 +4646,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 310,
-    "score": 2186
+    "score": 2186,
+    "globalRank": 1586
   },
   {
     "login": "ideawu",
@@ -4351,7 +4661,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 311,
-    "score": 2016
+    "score": 2016,
+    "globalRank": 1601
   },
   {
     "login": "chaoslawful",
@@ -4365,7 +4676,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 312,
-    "score": 2018
+    "score": 2018,
+    "globalRank": 1602
   },
   {
     "login": "su18",
@@ -4379,7 +4691,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 313,
-    "score": 2033
+    "score": 2033,
+    "globalRank": 1604
   },
   {
     "login": "limboy",
@@ -4393,7 +4706,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 314,
-    "score": 5473
+    "score": 5473,
+    "globalRank": 1612
   },
   {
     "login": "li-jia-nan",
@@ -4407,7 +4721,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 315,
-    "score": 3761
+    "score": 3761,
+    "globalRank": 1613
   },
   {
     "login": "L1aoXingyu",
@@ -4421,7 +4736,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 316,
-    "score": 2582
+    "score": 2582,
+    "globalRank": 1619
   },
   {
     "login": "bestswifter",
@@ -4435,7 +4751,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 317,
-    "score": 2004
+    "score": 2004,
+    "globalRank": 1626
   },
   {
     "login": "ljpzzz",
@@ -4449,7 +4766,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 318,
-    "score": 1994
+    "score": 1994,
+    "globalRank": 1628
   },
   {
     "login": "xuyisheng",
@@ -4463,7 +4781,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 319,
-    "score": 1992
+    "score": 1992,
+    "globalRank": 1633
   },
   {
     "login": "iamkun",
@@ -4477,7 +4796,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 320,
-    "score": 2961
+    "score": 2961,
+    "globalRank": 1642
   },
   {
     "login": "JimmyLv",
@@ -4491,7 +4811,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 321,
-    "score": 12625
+    "score": 12625,
+    "globalRank": 1643
   },
   {
     "login": "Menci",
@@ -4505,7 +4826,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 322,
-    "score": 9597
+    "score": 9597,
+    "globalRank": 1661
   },
   {
     "login": "hyper0x",
@@ -4519,7 +4841,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 323,
-    "score": 2219
+    "score": 2219,
+    "globalRank": 1665
   },
   {
     "login": "terrymanu",
@@ -4533,7 +4856,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 324,
-    "score": 14786
+    "score": 14786,
+    "globalRank": 1668
   },
   {
     "login": "hluwa",
@@ -4547,7 +4871,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 325,
-    "score": 1987
+    "score": 1987,
+    "globalRank": 1669
   },
   {
     "login": "OpenGithubs",
@@ -4561,7 +4886,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 326,
-    "score": 2633
+    "score": 2633,
+    "globalRank": 1679
   },
   {
     "login": "JackyAndroid",
@@ -4575,7 +4901,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 327,
-    "score": 1938
+    "score": 1938,
+    "globalRank": 1687
   },
   {
     "login": "Zheaoli",
@@ -4589,7 +4916,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 328,
-    "score": 6851
+    "score": 6851,
+    "globalRank": 1688
   },
   {
     "login": "eacdy",
@@ -4603,7 +4931,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 329,
-    "score": 1925
+    "score": 1925,
+    "globalRank": 1700
   },
   {
     "login": "lin-xin",
@@ -4617,7 +4946,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 330,
-    "score": 1923
+    "score": 1923,
+    "globalRank": 1703
   },
   {
     "login": "ashawkey",
@@ -4631,7 +4961,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 331,
-    "score": 2755
+    "score": 2755,
+    "globalRank": 1708
   },
   {
     "login": "monkeyWie",
@@ -4645,7 +4976,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 332,
-    "score": 2425
+    "score": 2425,
+    "globalRank": 1724
   },
   {
     "login": "yutiansut",
@@ -4659,7 +4991,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 333,
-    "score": 2290
+    "score": 2290,
+    "globalRank": 1727
   },
   {
     "login": "Jannchie",
@@ -4673,7 +5006,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 334,
-    "score": 5367
+    "score": 5367,
+    "globalRank": 1728
   },
   {
     "login": "icarusion",
@@ -4687,7 +5021,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 335,
-    "score": 5090
+    "score": 5090,
+    "globalRank": 1729
   },
   {
     "login": "zangqilong198812",
@@ -4701,7 +5036,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 336,
-    "score": 3632
+    "score": 3632,
+    "globalRank": 1733
   },
   {
     "login": "YongxinLiu",
@@ -4715,7 +5051,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 337,
-    "score": 2014
+    "score": 2014,
+    "globalRank": 1735
   },
   {
     "login": "Molunerfinn",
@@ -4729,7 +5066,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 338,
-    "score": 4137
+    "score": 4137,
+    "globalRank": 1739
   },
   {
     "login": "brickspert",
@@ -4743,7 +5081,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 339,
-    "score": 1902
+    "score": 1902,
+    "globalRank": 1740
   },
   {
     "login": "MartinRGB",
@@ -4757,7 +5096,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 340,
-    "score": 1894
+    "score": 1894,
+    "globalRank": 1742
   },
   {
     "login": "Nealyang",
@@ -4771,7 +5111,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 341,
-    "score": 1889
+    "score": 1889,
+    "globalRank": 1745
   },
   {
     "login": "popomore",
@@ -4785,7 +5126,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 342,
-    "score": 6075
+    "score": 6075,
+    "globalRank": 1749
   },
   {
     "login": "libdriver",
@@ -4799,7 +5141,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 343,
-    "score": 2710
+    "score": 2710,
+    "globalRank": 1753
   },
   {
     "login": "itgoyo",
@@ -4813,7 +5156,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 344,
-    "score": 3113
+    "score": 3113,
+    "globalRank": 1757
   },
   {
     "login": "ikew0ng",
@@ -4827,7 +5171,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 345,
-    "score": 1873
+    "score": 1873,
+    "globalRank": 1763
   },
   {
     "login": "tobegit3hub",
@@ -4841,7 +5186,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 346,
-    "score": 1937
+    "score": 1937,
+    "globalRank": 1764
   },
   {
     "login": "ZhangHanDong",
@@ -4855,7 +5201,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 347,
-    "score": 3660
+    "score": 3660,
+    "globalRank": 1765
   },
   {
     "login": "bigwhite",
@@ -4869,7 +5216,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 348,
-    "score": 2259
+    "score": 2259,
+    "globalRank": 1766
   },
   {
     "login": "eooce",
@@ -4883,7 +5231,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 349,
-    "score": 2805
+    "score": 2805,
+    "globalRank": 1770
   },
   {
     "login": "dsxNiubility",
@@ -4897,7 +5246,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 350,
-    "score": 1865
+    "score": 1865,
+    "globalRank": 1771
   },
   {
     "login": "zhuzilin",
@@ -4911,7 +5261,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 351,
-    "score": 3362
+    "score": 3362,
+    "globalRank": 1772
   },
   {
     "login": "karminski",
@@ -4925,7 +5276,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 352,
-    "score": 2103
+    "score": 2103,
+    "globalRank": 1775
   },
   {
     "login": "MrXujiang",
@@ -4939,7 +5291,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 353,
-    "score": 1936
+    "score": 1936,
+    "globalRank": 1783
   },
   {
     "login": "uknowsec",
@@ -4953,7 +5306,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 354,
-    "score": 1869
+    "score": 1869,
+    "globalRank": 1786
   },
   {
     "login": "zer0yu",
@@ -4967,7 +5321,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 355,
-    "score": 2058
+    "score": 2058,
+    "globalRank": 1790
   },
   {
     "login": "BaiduFE",
@@ -4981,7 +5336,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 356,
-    "score": 1853
+    "score": 1853,
+    "globalRank": 1792
   },
   {
     "login": "JsonChao",
@@ -4995,7 +5351,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 357,
-    "score": 1952
+    "score": 1952,
+    "globalRank": 1793
   },
   {
     "login": "feifeibear",
@@ -5009,7 +5366,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 358,
-    "score": 1983
+    "score": 1983,
+    "globalRank": 1811
   },
   {
     "login": "xiaojue",
@@ -5023,7 +5381,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 359,
-    "score": 1837
+    "score": 1837,
+    "globalRank": 1814
   },
   {
     "login": "jingyaogong",
@@ -5037,7 +5396,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 360,
-    "score": 2047
+    "score": 2047,
+    "globalRank": 1815
   },
   {
     "login": "jayli",
@@ -5051,7 +5411,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 361,
-    "score": 4987
+    "score": 4987,
+    "globalRank": 1816
   },
   {
     "login": "songquanpeng",
@@ -5065,7 +5426,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 362,
-    "score": 1838
+    "score": 1838,
+    "globalRank": 1817
   },
   {
     "login": "Aufree",
@@ -5079,7 +5441,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 363,
-    "score": 1829
+    "score": 1829,
+    "globalRank": 1823
   },
   {
     "login": "CoderJackyHuang",
@@ -5093,7 +5456,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 364,
-    "score": 1825
+    "score": 1825,
+    "globalRank": 1827
   },
   {
     "login": "PegasusWang",
@@ -5107,7 +5471,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 365,
-    "score": 2166
+    "score": 2166,
+    "globalRank": 1828
   },
   {
     "login": "chenjiahan",
@@ -5121,7 +5486,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 366,
-    "score": 11391
+    "score": 11391,
+    "globalRank": 1836
   },
   {
     "login": "shuhuai007",
@@ -5135,7 +5501,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 367,
-    "score": 1820
+    "score": 1820,
+    "globalRank": 1837
   },
   {
     "login": "beupgo",
@@ -5149,7 +5516,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 368,
-    "score": 1843
+    "score": 1843,
+    "globalRank": 1851
   },
   {
     "login": "lichuang",
@@ -5163,7 +5531,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 369,
-    "score": 2728
+    "score": 2728,
+    "globalRank": 1852
   },
   {
     "login": "yanyiwu",
@@ -5177,7 +5546,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 370,
-    "score": 2689
+    "score": 2689,
+    "globalRank": 1854
   },
   {
     "login": "ksky521",
@@ -5191,7 +5561,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 371,
-    "score": 4802
+    "score": 4802,
+    "globalRank": 1859
   },
   {
     "login": "doyoe",
@@ -5205,7 +5576,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 372,
-    "score": 1799
+    "score": 1799,
+    "globalRank": 1864
   },
   {
     "login": "Nightonke",
@@ -5219,7 +5591,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 373,
-    "score": 1913
+    "score": 1913,
+    "globalRank": 1865
   },
   {
     "login": "owenliang",
@@ -5233,7 +5606,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 374,
-    "score": 1939
+    "score": 1939,
+    "globalRank": 1880
   },
   {
     "login": "andeya",
@@ -5247,7 +5621,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 375,
-    "score": 4060
+    "score": 4060,
+    "globalRank": 1893
   },
   {
     "login": "zibuyu",
@@ -5261,7 +5636,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 376,
-    "score": 1772
+    "score": 1772,
+    "globalRank": 1895
   },
   {
     "login": "qiurunze123",
@@ -5275,7 +5651,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 377,
-    "score": 1769
+    "score": 1769,
+    "globalRank": 1896
   },
   {
     "login": "piglei",
@@ -5289,7 +5666,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 378,
-    "score": 1982
+    "score": 1982,
+    "globalRank": 1903
   },
   {
     "login": "inferjay",
@@ -5303,7 +5681,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 379,
-    "score": 2067
+    "score": 2067,
+    "globalRank": 1925
   },
   {
     "login": "kejun",
@@ -5317,7 +5696,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 380,
-    "score": 2130
+    "score": 2130,
+    "globalRank": 1940
   },
   {
     "login": "nanchen2251",
@@ -5331,7 +5711,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 381,
-    "score": 1745
+    "score": 1745,
+    "globalRank": 1941
   },
   {
     "login": "ctiao",
@@ -5345,7 +5726,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 382,
-    "score": 1743
+    "score": 1743,
+    "globalRank": 1944
   },
   {
     "login": "foru17",
@@ -5359,7 +5741,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 383,
-    "score": 2551
+    "score": 2551,
+    "globalRank": 1947
   },
   {
     "login": "yu199195",
@@ -5373,7 +5756,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 384,
-    "score": 1784
+    "score": 1784,
+    "globalRank": 1948
   },
   {
     "login": "lecepin",
@@ -5387,7 +5771,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 385,
-    "score": 1842
+    "score": 1842,
+    "globalRank": 1954
   },
   {
     "login": "JeffreySu",
@@ -5401,7 +5786,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 386,
-    "score": 3254
+    "score": 3254,
+    "globalRank": 1969
   },
   {
     "login": "hua1995116",
@@ -5415,7 +5801,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 387,
-    "score": 8935
+    "score": 8935,
+    "globalRank": 1971
   },
   {
     "login": "su37josephxia",
@@ -5429,7 +5816,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 388,
-    "score": 1724
+    "score": 1724,
+    "globalRank": 1975
   },
   {
     "login": "Charmve",
@@ -5443,7 +5831,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 389,
-    "score": 1737
+    "score": 1737,
+    "globalRank": 1981
   },
   {
     "login": "Lucifer1993",
@@ -5457,7 +5846,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 390,
-    "score": 1716
+    "score": 1716,
+    "globalRank": 1982
   },
   {
     "login": "leeluolee",
@@ -5471,7 +5861,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 391,
-    "score": 1714
+    "score": 1714,
+    "globalRank": 1987
   },
   {
     "login": "QingWei-Li",
@@ -5485,7 +5876,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 392,
-    "score": 4537
+    "score": 4537,
+    "globalRank": 1994
   },
   {
     "login": "begeekmyfriend",
@@ -5499,7 +5891,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 393,
-    "score": 1712
+    "score": 1712,
+    "globalRank": 1997
   },
   {
     "login": "ljianshu",
@@ -5513,7 +5906,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 394,
-    "score": 1702
+    "score": 1702,
+    "globalRank": 2004
   },
   {
     "login": "YouXianMing",
@@ -5527,7 +5921,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 395,
-    "score": 1698
+    "score": 1698,
+    "globalRank": 2008
   },
   {
     "login": "liuxinyu95",
@@ -5541,7 +5936,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 396,
-    "score": 2245
+    "score": 2245,
+    "globalRank": 2014
   },
   {
     "login": "mocheng",
@@ -5555,7 +5951,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 397,
-    "score": 1961
+    "score": 1961,
+    "globalRank": 2015
   },
   {
     "login": "HeYijia",
@@ -5569,7 +5966,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 398,
-    "score": 1685
+    "score": 1685,
+    "globalRank": 2026
   },
   {
     "login": "glzjin",
@@ -5583,7 +5981,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 399,
-    "score": 8448
+    "score": 8448,
+    "globalRank": 2031
   },
   {
     "login": "huanglong-zz",
@@ -5597,7 +5996,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 400,
-    "score": 1678
+    "score": 1678,
+    "globalRank": 2034
   },
   {
     "login": "hollischuang",
@@ -5611,7 +6011,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 401,
-    "score": 1674
+    "score": 1674,
+    "globalRank": 2044
   },
   {
     "login": "yidao620c",
@@ -5625,7 +6026,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 402,
-    "score": 1747
+    "score": 1747,
+    "globalRank": 2045
   },
   {
     "login": "FrozenGene",
@@ -5639,7 +6041,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 403,
-    "score": 1762
+    "score": 1762,
+    "globalRank": 2046
   },
   {
     "login": "L-M-Sherlock",
@@ -5653,7 +6056,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 404,
-    "score": 3835
+    "score": 3835,
+    "globalRank": 2060
   },
   {
     "login": "frostming",
@@ -5667,7 +6071,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 405,
-    "score": 3112
+    "score": 3112,
+    "globalRank": 2062
   },
   {
     "login": "Bypass007",
@@ -5681,7 +6086,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 406,
-    "score": 1659
+    "score": 1659,
+    "globalRank": 2070
   },
   {
     "login": "kyze8439690",
@@ -5695,7 +6101,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 407,
-    "score": 2331
+    "score": 2331,
+    "globalRank": 2076
   },
   {
     "login": "zsdonghao",
@@ -5709,7 +6116,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 408,
-    "score": 1749
+    "score": 1749,
+    "globalRank": 2083
   },
   {
     "login": "Kenshin",
@@ -5723,7 +6131,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 409,
-    "score": 1726
+    "score": 1726,
+    "globalRank": 2093
   },
   {
     "login": "Q1mi",
@@ -5737,7 +6146,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 410,
-    "score": 1664
+    "score": 1664,
+    "globalRank": 2102
   },
   {
     "login": "xingshaocheng",
@@ -5751,7 +6161,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 411,
-    "score": 1631
+    "score": 1631,
+    "globalRank": 2104
   },
   {
     "login": "willard-yuan",
@@ -5765,7 +6176,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 412,
-    "score": 2267
+    "score": 2267,
+    "globalRank": 2110
   },
   {
     "login": "anbgsl1110",
@@ -5779,7 +6191,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 413,
-    "score": 2617
+    "score": 2617,
+    "globalRank": 2111
   },
   {
     "login": "shuzheng",
@@ -5793,7 +6206,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 414,
-    "score": 1733
+    "score": 1733,
+    "globalRank": 2112
   },
   {
     "login": "iosre",
@@ -5807,7 +6221,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 415,
-    "score": 1622
+    "score": 1622,
+    "globalRank": 2121
   },
   {
     "login": "404notf0und",
@@ -5821,7 +6236,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 416,
-    "score": 1620
+    "score": 1620,
+    "globalRank": 2123
   },
   {
     "login": "airuikun",
@@ -5835,7 +6251,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 417,
-    "score": 1617
+    "score": 1617,
+    "globalRank": 2132
   },
   {
     "login": "leichunfeng",
@@ -5849,7 +6266,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 418,
-    "score": 1620
+    "score": 1620,
+    "globalRank": 2141
   },
   {
     "login": "liuchengxu",
@@ -5863,7 +6281,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 419,
-    "score": 1986
+    "score": 1986,
+    "globalRank": 2146
   },
   {
     "login": "Peng-YM",
@@ -5877,7 +6296,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 420,
-    "score": 2185
+    "score": 2185,
+    "globalRank": 2151
   },
   {
     "login": "spencerwooo",
@@ -5891,7 +6311,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 421,
-    "score": 2305
+    "score": 2305,
+    "globalRank": 2166
   },
   {
     "login": "yc9559",
@@ -5905,7 +6326,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 422,
-    "score": 1595
+    "score": 1595,
+    "globalRank": 2168
   },
   {
     "login": "ahangchen",
@@ -5919,7 +6341,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 423,
-    "score": 2178
+    "score": 2178,
+    "globalRank": 2177
   },
   {
     "login": "ShowMeAI-Hub",
@@ -5933,7 +6356,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 424,
-    "score": 1585
+    "score": 1585,
+    "globalRank": 2183
   },
   {
     "login": "FASTSHIFT",
@@ -5947,7 +6371,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 425,
-    "score": 4298
+    "score": 4298,
+    "globalRank": 2186
   },
   {
     "login": "Ubpa",
@@ -5961,7 +6386,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 426,
-    "score": 6120
+    "score": 6120,
+    "globalRank": 2192
   },
   {
     "login": "lcxfs1991",
@@ -5975,7 +6401,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 427,
-    "score": 1692
+    "score": 1692,
+    "globalRank": 2198
   },
   {
     "login": "lcdevelop",
@@ -5989,7 +6416,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 428,
-    "score": 1573
+    "score": 1573,
+    "globalRank": 2201
   },
   {
     "login": "csvwolf",
@@ -6003,7 +6431,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 429,
-    "score": 1575
+    "score": 1575,
+    "globalRank": 2207
   },
   {
     "login": "hotoo",
@@ -6017,7 +6446,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 430,
-    "score": 3511
+    "score": 3511,
+    "globalRank": 2211
   },
   {
     "login": "ericzhang-cn",
@@ -6031,7 +6461,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 431,
-    "score": 1565
+    "score": 1565,
+    "globalRank": 2215
   },
   {
     "login": "qii",
@@ -6045,7 +6476,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 432,
-    "score": 1761
+    "score": 1761,
+    "globalRank": 2216
   },
   {
     "login": "qiyeboy",
@@ -6059,7 +6491,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 433,
-    "score": 1557
+    "score": 1557,
+    "globalRank": 2223
   },
   {
     "login": "looly",
@@ -6073,7 +6506,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 434,
-    "score": 1864
+    "score": 1864,
+    "globalRank": 2225
   },
   {
     "login": "teaey",
@@ -6087,7 +6521,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 435,
-    "score": 1556
+    "score": 1556,
+    "globalRank": 2233
   },
   {
     "login": "youxiachai",
@@ -6101,7 +6536,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 436,
-    "score": 1549
+    "score": 1549,
+    "globalRank": 2237
   },
   {
     "login": "lyhue1991",
@@ -6115,7 +6551,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 437,
-    "score": 1565
+    "score": 1565,
+    "globalRank": 2240
   },
   {
     "login": "ddiu8081",
@@ -6129,7 +6566,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 438,
-    "score": 1797
+    "score": 1797,
+    "globalRank": 2258
   },
   {
     "login": "ShaoqingRen",
@@ -6143,7 +6581,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 439,
-    "score": 1555
+    "score": 1555,
+    "globalRank": 2272
   },
   {
     "login": "yisar",
@@ -6157,7 +6596,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 440,
-    "score": 2568
+    "score": 2568,
+    "globalRank": 2274
   },
   {
     "login": "nuysoft",
@@ -6171,7 +6611,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 441,
-    "score": 1522
+    "score": 1522,
+    "globalRank": 2277
   },
   {
     "login": "tualatrix",
@@ -6185,7 +6626,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 442,
-    "score": 1545
+    "score": 1545,
+    "globalRank": 2283
   },
   {
     "login": "ZigaoWang",
@@ -6199,7 +6641,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 443,
-    "score": 2705
+    "score": 2705,
+    "globalRank": 2286
   },
   {
     "login": "lihengming",
@@ -6213,7 +6656,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 444,
-    "score": 1508
+    "score": 1508,
+    "globalRank": 2292
   },
   {
     "login": "Kingwl",
@@ -6227,7 +6671,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 445,
-    "score": 1753
+    "score": 1753,
+    "globalRank": 2296
   },
   {
     "login": "yangwenmai",
@@ -6241,7 +6686,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 446,
-    "score": 2564
+    "score": 2564,
+    "globalRank": 2298
   },
   {
     "login": "nekocode",
@@ -6255,7 +6701,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 447,
-    "score": 5369
+    "score": 5369,
+    "globalRank": 2302
   },
   {
     "login": "Jacksgong",
@@ -6269,7 +6716,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 448,
-    "score": 1510
+    "score": 1510,
+    "globalRank": 2303
   },
   {
     "login": "bestony",
@@ -6283,7 +6731,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 449,
-    "score": 6116
+    "score": 6116,
+    "globalRank": 2308
   },
   {
     "login": "ruochuan12",
@@ -6297,7 +6746,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 450,
-    "score": 1508
+    "score": 1508,
+    "globalRank": 2311
   },
   {
     "login": "zhiwehu",
@@ -6311,7 +6761,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 451,
-    "score": 1645
+    "score": 1645,
+    "globalRank": 2313
   },
   {
     "login": "codeskyblue",
@@ -6325,7 +6776,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 452,
-    "score": 1851
+    "score": 1851,
+    "globalRank": 2315
   },
   {
     "login": "H07000223",
@@ -6339,7 +6791,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 453,
-    "score": 1791
+    "score": 1791,
+    "globalRank": 2316
   },
   {
     "login": "hongqn",
@@ -6353,7 +6806,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 454,
-    "score": 4789
+    "score": 4789,
+    "globalRank": 2317
   },
   {
     "login": "aylei",
@@ -6367,7 +6821,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 455,
-    "score": 3706
+    "score": 3706,
+    "globalRank": 2332
   },
   {
     "login": "Bin-Huang",
@@ -6381,7 +6836,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 456,
-    "score": 4142
+    "score": 4142,
+    "globalRank": 2339
   },
   {
     "login": "shenwei356",
@@ -6395,7 +6851,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 457,
-    "score": 1960
+    "score": 1960,
+    "globalRank": 2353
   },
   {
     "login": "ZhuChenn",
@@ -6409,7 +6866,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 458,
-    "score": 1562
+    "score": 1562,
+    "globalRank": 2354
   },
   {
     "login": "sunnyyoung",
@@ -6423,7 +6881,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 459,
-    "score": 1655
+    "score": 1655,
+    "globalRank": 2358
   },
   {
     "login": "drmingdrmer",
@@ -6437,7 +6896,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 460,
-    "score": 6195
+    "score": 6195,
+    "globalRank": 2361
   },
   {
     "login": "zhisheng17",
@@ -6451,7 +6911,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 461,
-    "score": 1523
+    "score": 1523,
+    "globalRank": 2368
   },
   {
     "login": "wangrunji0408",
@@ -6465,7 +6926,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 462,
-    "score": 2281
+    "score": 2281,
+    "globalRank": 2369
   },
   {
     "login": "cystanford",
@@ -6479,7 +6941,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 463,
-    "score": 1522
+    "score": 1522,
+    "globalRank": 2370
   },
   {
     "login": "heqin-zhu",
@@ -6493,7 +6956,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 464,
-    "score": 1911
+    "score": 1911,
+    "globalRank": 2386
   },
   {
     "login": "orvice",
@@ -6507,7 +6971,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 465,
-    "score": 2684
+    "score": 2684,
+    "globalRank": 2387
   },
   {
     "login": "brianway",
@@ -6521,7 +6986,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 466,
-    "score": 1461
+    "score": 1461,
+    "globalRank": 2391
   },
   {
     "login": "safe6Sec",
@@ -6535,7 +7001,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 467,
-    "score": 1463
+    "score": 1463,
+    "globalRank": 2392
   },
   {
     "login": "taizilongxu",
@@ -6549,7 +7016,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 468,
-    "score": 1461
+    "score": 1461,
+    "globalRank": 2396
   },
   {
     "login": "crifan",
@@ -6563,7 +7031,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 469,
-    "score": 1792
+    "score": 1792,
+    "globalRank": 2412
   },
   {
     "login": "ethan-li-coding",
@@ -6577,7 +7046,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 470,
-    "score": 1445
+    "score": 1445,
+    "globalRank": 2423
   },
   {
     "login": "damoqiongqiu",
@@ -6591,7 +7061,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 471,
-    "score": 1443
+    "score": 1443,
+    "globalRank": 2429
   },
   {
     "login": "hellock",
@@ -6605,7 +7076,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 472,
-    "score": 1736
+    "score": 1736,
+    "globalRank": 2433
   },
   {
     "login": "mannaandpoem",
@@ -6619,7 +7091,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 473,
-    "score": 1463
+    "score": 1463,
+    "globalRank": 2434
   },
   {
     "login": "XINCGer",
@@ -6633,7 +7106,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 474,
-    "score": 1633
+    "score": 1633,
+    "globalRank": 2437
   },
   {
     "login": "huihut",
@@ -6647,7 +7121,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 475,
-    "score": 1452
+    "score": 1452,
+    "globalRank": 2446
   },
   {
     "login": "ThirtyDegreesRay",
@@ -6661,7 +7136,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 476,
-    "score": 1432
+    "score": 1432,
+    "globalRank": 2448
   },
   {
     "login": "WeActStudio",
@@ -6675,7 +7151,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 477,
-    "score": 1459
+    "score": 1459,
+    "globalRank": 2452
   },
   {
     "login": "hilongjw",
@@ -6689,7 +7166,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 478,
-    "score": 4976
+    "score": 4976,
+    "globalRank": 2453
   },
   {
     "login": "zombieJ",
@@ -6703,7 +7181,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 479,
-    "score": 3292
+    "score": 3292,
+    "globalRank": 2464
   },
   {
     "login": "SharingSource",
@@ -6717,7 +7196,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 480,
-    "score": 1451
+    "score": 1451,
+    "globalRank": 2470
   },
   {
     "login": "miantiao-me",
@@ -6731,7 +7211,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 481,
-    "score": 2042
+    "score": 2042,
+    "globalRank": 2471
   },
   {
     "login": "USTfgaoaa",
@@ -6745,7 +7226,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 482,
-    "score": 1423
+    "score": 1423,
+    "globalRank": 2472
   },
   {
     "login": "daquexian",
@@ -6759,7 +7241,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 483,
-    "score": 3396
+    "score": 3396,
+    "globalRank": 2477
   },
   {
     "login": "huandu",
@@ -6773,7 +7256,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 484,
-    "score": 1868
+    "score": 1868,
+    "globalRank": 2480
   },
   {
     "login": "allencloud",
@@ -6787,7 +7271,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 485,
-    "score": 1420
+    "score": 1420,
+    "globalRank": 2481
   },
   {
     "login": "ycjcl868",
@@ -6801,7 +7286,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 486,
-    "score": 1810
+    "score": 1810,
+    "globalRank": 2483
   },
   {
     "login": "Juude",
@@ -6815,7 +7301,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 487,
-    "score": 1686
+    "score": 1686,
+    "globalRank": 2487
   },
   {
     "login": "lijin-THU",
@@ -6829,7 +7316,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 488,
-    "score": 1416
+    "score": 1416,
+    "globalRank": 2494
   },
   {
     "login": "electech6",
@@ -6843,7 +7331,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 489,
-    "score": 1421
+    "score": 1421,
+    "globalRank": 2501
   },
   {
     "login": "hantsy",
@@ -6857,7 +7346,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 490,
-    "score": 3764
+    "score": 3764,
+    "globalRank": 2508
   },
   {
     "login": "zema1",
@@ -6871,7 +7361,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 491,
-    "score": 2490
+    "score": 2490,
+    "globalRank": 2509
   },
   {
     "login": "coolnameismy",
@@ -6885,7 +7376,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 492,
-    "score": 1410
+    "score": 1410,
+    "globalRank": 2510
   },
   {
     "login": "wklken",
@@ -6899,7 +7391,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 493,
-    "score": 2897
+    "score": 2897,
+    "globalRank": 2519
   },
   {
     "login": "youngsoft",
@@ -6913,7 +7406,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 494,
-    "score": 1411
+    "score": 1411,
+    "globalRank": 2522
   },
   {
     "login": "houbb",
@@ -6927,7 +7421,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 495,
-    "score": 2187
+    "score": 2187,
+    "globalRank": 2526
   },
   {
     "login": "starkwang",
@@ -6941,7 +7436,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 496,
-    "score": 1451
+    "score": 1451,
+    "globalRank": 2531
   },
   {
     "login": "skyao",
@@ -6955,7 +7451,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 497,
-    "score": 1644
+    "score": 1644,
+    "globalRank": 2536
   },
   {
     "login": "ilanyu",
@@ -6969,7 +7466,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 498,
-    "score": 1406
+    "score": 1406,
+    "globalRank": 2544
   },
   {
     "login": "hengyunabc",
@@ -6983,7 +7481,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 499,
-    "score": 1600
+    "score": 1600,
+    "globalRank": 2551
   },
   {
     "login": "HanXiaoyang",
@@ -6997,7 +7496,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 500,
-    "score": 1386
+    "score": 1386,
+    "globalRank": 2562
   },
   {
     "login": "zhanxiaokai",
@@ -7011,7 +7511,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 501,
-    "score": 1384
+    "score": 1384,
+    "globalRank": 2567
   },
   {
     "login": "LilyGO",
@@ -7025,7 +7526,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 502,
-    "score": 1389
+    "score": 1389,
+    "globalRank": 2569
   },
   {
     "login": "netxfly",
@@ -7039,7 +7541,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 503,
-    "score": 1384
+    "score": 1384,
+    "globalRank": 2580
   },
   {
     "login": "visiky",
@@ -7053,7 +7556,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 504,
-    "score": 1378
+    "score": 1378,
+    "globalRank": 2581
   },
   {
     "login": "roseduan",
@@ -7067,7 +7571,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 505,
-    "score": 1665
+    "score": 1665,
+    "globalRank": 2587
   },
   {
     "login": "ConnersHua",
@@ -7081,7 +7586,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 506,
-    "score": 1375
+    "score": 1375,
+    "globalRank": 2588
   },
   {
     "login": "gavinkwoe",
@@ -7095,7 +7601,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 507,
-    "score": 1369
+    "score": 1369,
+    "globalRank": 2614
   },
   {
     "login": "YunYang1994",
@@ -7109,7 +7616,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 508,
-    "score": 1375
+    "score": 1375,
+    "globalRank": 2617
   },
   {
     "login": "lychees",
@@ -7123,7 +7631,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 509,
-    "score": 1491
+    "score": 1491,
+    "globalRank": 2618
   },
   {
     "login": "EspressifApp",
@@ -7137,7 +7646,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 510,
-    "score": 1368
+    "score": 1368,
+    "globalRank": 2621
   },
   {
     "login": "ZhaoKaiQiang",
@@ -7151,7 +7661,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 511,
-    "score": 1356
+    "score": 1356,
+    "globalRank": 2641
   },
   {
     "login": "ByronNote",
@@ -7165,7 +7676,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 512,
-    "score": 1387
+    "score": 1387,
+    "globalRank": 2642
   },
   {
     "login": "zhw2590582",
@@ -7179,7 +7691,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 513,
-    "score": 10939
+    "score": 10939,
+    "globalRank": 2643
   },
   {
     "login": "nwind",
@@ -7193,7 +7706,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 514,
-    "score": 1362
+    "score": 1362,
+    "globalRank": 2651
   },
   {
     "login": "LeoMobileDeveloper",
@@ -7207,7 +7721,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 515,
-    "score": 1351
+    "score": 1351,
+    "globalRank": 2652
   },
   {
     "login": "07akioni",
@@ -7221,7 +7736,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 516,
-    "score": 1613
+    "score": 1613,
+    "globalRank": 2657
   },
   {
     "login": "liangfei0201",
@@ -7235,7 +7751,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 517,
-    "score": 1341
+    "score": 1341,
+    "globalRank": 2677
   },
   {
     "login": "zRzRzRzRzRzRzR",
@@ -7249,7 +7766,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 518,
-    "score": 1919
+    "score": 1919,
+    "globalRank": 2678
   },
   {
     "login": "GoSSIP-SJTU",
@@ -7263,7 +7781,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 519,
-    "score": 1339
+    "score": 1339,
+    "globalRank": 2682
   },
   {
     "login": "pcqpcq",
@@ -7277,7 +7796,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 520,
-    "score": 1329
+    "score": 1329,
+    "globalRank": 2695
   },
   {
     "login": "seisman",
@@ -7291,7 +7811,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 521,
-    "score": 3367
+    "score": 3367,
+    "globalRank": 2708
   },
   {
     "login": "coderyi",
@@ -7305,7 +7826,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 522,
-    "score": 1363
+    "score": 1363,
+    "globalRank": 2711
   },
   {
     "login": "knightliao",
@@ -7319,7 +7841,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 523,
-    "score": 1323
+    "score": 1323,
+    "globalRank": 2716
   },
   {
     "login": "DingXiaoH",
@@ -7333,7 +7856,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 524,
-    "score": 1324
+    "score": 1324,
+    "globalRank": 2722
   },
   {
     "login": "xingrz",
@@ -7347,7 +7871,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 525,
-    "score": 2587
+    "score": 2587,
+    "globalRank": 2723
   },
   {
     "login": "whyour",
@@ -7361,7 +7886,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 526,
-    "score": 1445
+    "score": 1445,
+    "globalRank": 2726
   },
   {
     "login": "czn6",
@@ -7375,7 +7901,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 527,
-    "score": 1341
+    "score": 1341,
+    "globalRank": 2729
   },
   {
     "login": "xiaochenwin",
@@ -7389,7 +7916,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 528,
-    "score": 1487
+    "score": 1487,
+    "globalRank": 2731
   },
   {
     "login": "DoubleLabyrinth",
@@ -7403,7 +7931,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 529,
-    "score": 1317
+    "score": 1317,
+    "globalRank": 2734
   },
   {
     "login": "hexiangnan",
@@ -7417,7 +7946,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 530,
-    "score": 1317
+    "score": 1317,
+    "globalRank": 2735
   },
   {
     "login": "agapple",
@@ -7431,7 +7961,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 531,
-    "score": 1339
+    "score": 1339,
+    "globalRank": 2740
   },
   {
     "login": "scwang90",
@@ -7445,7 +7976,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 532,
-    "score": 1311
+    "score": 1311,
+    "globalRank": 2747
   },
   {
     "login": "xkcoding",
@@ -7459,7 +7991,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 533,
-    "score": 2257
+    "score": 2257,
+    "globalRank": 2751
   },
   {
     "login": "cyndibaby905",
@@ -7473,7 +8006,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 534,
-    "score": 1309
+    "score": 1309,
+    "globalRank": 2754
   },
   {
     "login": "netyouli",
@@ -7487,7 +8021,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 535,
-    "score": 1339
+    "score": 1339,
+    "globalRank": 2775
   },
   {
     "login": "Al1ex",
@@ -7501,7 +8036,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 536,
-    "score": 1311
+    "score": 1311,
+    "globalRank": 2776
   },
   {
     "login": "yaoweibin",
@@ -7515,7 +8051,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 537,
-    "score": 1301
+    "score": 1301,
+    "globalRank": 2783
   },
   {
     "login": "YoKeyword",
@@ -7529,7 +8066,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 538,
-    "score": 1297
+    "score": 1297,
+    "globalRank": 2794
   },
   {
     "login": "JellyBool",
@@ -7543,7 +8081,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 539,
-    "score": 1295
+    "score": 1295,
+    "globalRank": 2798
   },
   {
     "login": "wfnuser",
@@ -7557,7 +8096,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 540,
-    "score": 2006
+    "score": 2006,
+    "globalRank": 2799
   },
   {
     "login": "zxh0",
@@ -7571,7 +8111,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 541,
-    "score": 1347
+    "score": 1347,
+    "globalRank": 2803
   },
   {
     "login": "binghe",
@@ -7585,7 +8126,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 542,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 2809
   },
   {
     "login": "Chanzhaoyu",
@@ -7599,7 +8141,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 543,
-    "score": 1803
+    "score": 1803,
+    "globalRank": 2821
   },
   {
     "login": "P4nda0s",
@@ -7613,7 +8156,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 544,
-    "score": 1594
+    "score": 1594,
+    "globalRank": 2827
   },
   {
     "login": "ZoomQuiet",
@@ -7627,7 +8171,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 545,
-    "score": 4733
+    "score": 4733,
+    "globalRank": 2833
   },
   {
     "login": "hyj1991",
@@ -7641,7 +8186,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 546,
-    "score": 1284
+    "score": 1284,
+    "globalRank": 2848
   },
   {
     "login": "xiaoxian521",
@@ -7655,7 +8201,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 547,
-    "score": 1912
+    "score": 1912,
+    "globalRank": 2854
   },
   {
     "login": "hedengcheng",
@@ -7669,7 +8216,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 548,
-    "score": 1275
+    "score": 1275,
+    "globalRank": 2860
   },
   {
     "login": "danpovey",
@@ -7683,7 +8231,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 549,
-    "score": 1281
+    "score": 1281,
+    "globalRank": 2861
   },
   {
     "login": "FiYHer",
@@ -7697,7 +8246,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 550,
-    "score": 1995
+    "score": 1995,
+    "globalRank": 2882
   },
   {
     "login": "reeze",
@@ -7711,7 +8261,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 551,
-    "score": 1317
+    "score": 1317,
+    "globalRank": 2883
   },
   {
     "login": "agilexrobotics",
@@ -7725,7 +8276,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 552,
-    "score": 1387
+    "score": 1387,
+    "globalRank": 2888
   },
   {
     "login": "lxfater",
@@ -7739,7 +8291,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 553,
-    "score": 1612
+    "score": 1612,
+    "globalRank": 2889
   },
   {
     "login": "journey-ad",
@@ -7753,7 +8306,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 554,
-    "score": 2141
+    "score": 2141,
+    "globalRank": 2891
   },
   {
     "login": "jkpang",
@@ -7767,7 +8321,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 555,
-    "score": 1946
+    "score": 1946,
+    "globalRank": 2897
   },
   {
     "login": "57code",
@@ -7781,7 +8336,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 556,
-    "score": 1264
+    "score": 1264,
+    "globalRank": 2898
   },
   {
     "login": "tao12345666333",
@@ -7795,7 +8351,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 557,
-    "score": 3022
+    "score": 3022,
+    "globalRank": 2903
   },
   {
     "login": "runningcheese",
@@ -7809,7 +8366,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 558,
-    "score": 1316
+    "score": 1316,
+    "globalRank": 2906
   },
   {
     "login": "ExpLangcn",
@@ -7823,7 +8381,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 559,
-    "score": 1258
+    "score": 1258,
+    "globalRank": 2916
   },
   {
     "login": "qier222",
@@ -7837,7 +8396,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 560,
-    "score": 1527
+    "score": 1527,
+    "globalRank": 2917
   },
   {
     "login": "ChenChenJoke",
@@ -7851,7 +8411,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 561,
-    "score": 1256
+    "score": 1256,
+    "globalRank": 2928
   },
   {
     "login": "xuexiangjys",
@@ -7865,7 +8426,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 562,
-    "score": 1256
+    "score": 1256,
+    "globalRank": 2929
   },
   {
     "login": "sunfusheng",
@@ -7879,7 +8441,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 563,
-    "score": 1255
+    "score": 1255,
+    "globalRank": 2934
   },
   {
     "login": "githubwing",
@@ -7893,7 +8456,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 564,
-    "score": 1254
+    "score": 1254,
+    "globalRank": 2935
   },
   {
     "login": "adad184",
@@ -7907,7 +8471,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 565,
-    "score": 2891
+    "score": 2891,
+    "globalRank": 2952
   },
   {
     "login": "neil3d",
@@ -7921,7 +8486,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 566,
-    "score": 1267
+    "score": 1267,
+    "globalRank": 2959
   },
   {
     "login": "sczyh30",
@@ -7935,7 +8501,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 567,
-    "score": 1244
+    "score": 1244,
+    "globalRank": 2962
   },
   {
     "login": "cfc4n",
@@ -7949,7 +8516,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 568,
-    "score": 1632
+    "score": 1632,
+    "globalRank": 2963
   },
   {
     "login": "alibaba-oss",
@@ -7963,7 +8531,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 569,
-    "score": 1469
+    "score": 1469,
+    "globalRank": 2968
   },
   {
     "login": "oldj",
@@ -7977,7 +8546,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 570,
-    "score": 6894
+    "score": 6894,
+    "globalRank": 2986
   },
   {
     "login": "sendya",
@@ -7991,7 +8561,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 571,
-    "score": 1520
+    "score": 1520,
+    "globalRank": 2990
   },
   {
     "login": "h2y",
@@ -8005,7 +8576,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 572,
-    "score": 1254
+    "score": 1254,
+    "globalRank": 2991
   },
   {
     "login": "Jocs",
@@ -8019,7 +8591,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 573,
-    "score": 2233
+    "score": 2233,
+    "globalRank": 2994
   },
   {
     "login": "msnh2012",
@@ -8033,7 +8606,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 574,
-    "score": 1299
+    "score": 1299,
+    "globalRank": 3004
   },
   {
     "login": "lightningMan",
@@ -8047,7 +8621,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 575,
-    "score": 1229
+    "score": 1229,
+    "globalRank": 3008
   },
   {
     "login": "wnzhang",
@@ -8061,7 +8636,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 576,
-    "score": 1228
+    "score": 1228,
+    "globalRank": 3011
   },
   {
     "login": "JustinLin610",
@@ -8075,7 +8651,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 577,
-    "score": 1378
+    "score": 1378,
+    "globalRank": 3012
   },
   {
     "login": "dianqk",
@@ -8089,7 +8666,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 578,
-    "score": 1543
+    "score": 1543,
+    "globalRank": 3019
   },
   {
     "login": "lipengzhou",
@@ -8103,7 +8681,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 579,
-    "score": 1246
+    "score": 1246,
+    "globalRank": 3021
   },
   {
     "login": "mingcheng",
@@ -8117,7 +8696,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 580,
-    "score": 2192
+    "score": 2192,
+    "globalRank": 3022
   },
   {
     "login": "ouuan",
@@ -8131,7 +8711,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 581,
-    "score": 2030
+    "score": 2030,
+    "globalRank": 3028
   },
   {
     "login": "fuergaosi233",
@@ -8145,7 +8726,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 582,
-    "score": 1444
+    "score": 1444,
+    "globalRank": 3037
   },
   {
     "login": "anjoy8",
@@ -8159,7 +8741,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 583,
-    "score": 1221
+    "score": 1221,
+    "globalRank": 3045
   },
   {
     "login": "Sophia-11",
@@ -8173,7 +8756,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 584,
-    "score": 1217
+    "score": 1217,
+    "globalRank": 3054
   },
   {
     "login": "XuehaiPan",
@@ -8187,7 +8771,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 585,
-    "score": 2404
+    "score": 2404,
+    "globalRank": 3065
   },
   {
     "login": "ayangweb",
@@ -8201,7 +8786,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 586,
-    "score": 3755
+    "score": 3755,
+    "globalRank": 3073
   },
   {
     "login": "wangrongding",
@@ -8215,7 +8801,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 587,
-    "score": 1479
+    "score": 1479,
+    "globalRank": 3078
   },
   {
     "login": "MathFoundationRL",
@@ -8229,7 +8816,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 588,
-    "score": 1255
+    "score": 1255,
+    "globalRank": 3089
   },
   {
     "login": "luckyadam",
@@ -8243,7 +8831,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 589,
-    "score": 1217
+    "score": 1217,
+    "globalRank": 3100
   },
   {
     "login": "benjycui",
@@ -8257,7 +8846,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 590,
-    "score": 1201
+    "score": 1201,
+    "globalRank": 3107
   },
   {
     "login": "liu21st",
@@ -8271,7 +8861,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 591,
-    "score": 1362
+    "score": 1362,
+    "globalRank": 3113
   },
   {
     "login": "xmuSistone",
@@ -8285,7 +8876,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 592,
-    "score": 1197
+    "score": 1197,
+    "globalRank": 3114
   },
   {
     "login": "fangjian0423",
@@ -8299,7 +8891,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 593,
-    "score": 1258
+    "score": 1258,
+    "globalRank": 3122
   },
   {
     "login": "huchunxu",
@@ -8313,7 +8906,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 594,
-    "score": 1196
+    "score": 1196,
+    "globalRank": 3128
   },
   {
     "login": "w4lle",
@@ -8327,7 +8921,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 595,
-    "score": 1189
+    "score": 1189,
+    "globalRank": 3133
   },
   {
     "login": "pezy",
@@ -8341,7 +8936,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 596,
-    "score": 2427
+    "score": 2427,
+    "globalRank": 3153
   },
   {
     "login": "h2pl",
@@ -8355,7 +8951,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 597,
-    "score": 1187
+    "score": 1187,
+    "globalRank": 3154
   },
   {
     "login": "imDazui",
@@ -8369,7 +8966,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 598,
-    "score": 3275
+    "score": 3275,
+    "globalRank": 3155
   },
   {
     "login": "Freelander",
@@ -8383,7 +8981,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 599,
-    "score": 4282
+    "score": 4282,
+    "globalRank": 3160
   },
   {
     "login": "liangfeidotme",
@@ -8397,7 +8996,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 600,
-    "score": 1934
+    "score": 1934,
+    "globalRank": 3173
   },
   {
     "login": "weihuoya",
@@ -8411,7 +9011,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 601,
-    "score": 1181
+    "score": 1181,
+    "globalRank": 3185
   },
   {
     "login": "solenovex",
@@ -8425,7 +9026,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 602,
-    "score": 1180
+    "score": 1180,
+    "globalRank": 3188
   },
   {
     "login": "xiaoluoboding",
@@ -8439,7 +9041,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 603,
-    "score": 3130
+    "score": 3130,
+    "globalRank": 3196
   },
   {
     "login": "zensh",
@@ -8453,7 +9056,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 604,
-    "score": 2479
+    "score": 2479,
+    "globalRank": 3200
   },
   {
     "login": "markyun",
@@ -8467,7 +9071,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 605,
-    "score": 1169
+    "score": 1169,
+    "globalRank": 3211
   },
   {
     "login": "huxiaoman7",
@@ -8481,7 +9086,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 606,
-    "score": 1252
+    "score": 1252,
+    "globalRank": 3212
   },
   {
     "login": "xiewenwei",
@@ -8495,7 +9101,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 607,
-    "score": 1163
+    "score": 1163,
+    "globalRank": 3226
   },
   {
     "login": "kasuganosoras",
@@ -8509,7 +9116,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 608,
-    "score": 1233
+    "score": 1233,
+    "globalRank": 3227
   },
   {
     "login": "welefen",
@@ -8523,7 +9131,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 609,
-    "score": 1172
+    "score": 1172,
+    "globalRank": 3231
   },
   {
     "login": "leeight",
@@ -8537,7 +9146,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 610,
-    "score": 1208
+    "score": 1208,
+    "globalRank": 3232
   },
   {
     "login": "jikeytang",
@@ -8551,7 +9161,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 611,
-    "score": 1160
+    "score": 1160,
+    "globalRank": 3239
   },
   {
     "login": "tristaZero",
@@ -8565,7 +9176,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 612,
-    "score": 1328
+    "score": 1328,
+    "globalRank": 3247
   },
   {
     "login": "nobodyiam",
@@ -8579,7 +9191,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 613,
-    "score": 1491
+    "score": 1491,
+    "globalRank": 3251
   },
   {
     "login": "vincent4j",
@@ -8593,7 +9206,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 614,
-    "score": 1202
+    "score": 1202,
+    "globalRank": 3252
   },
   {
     "login": "caesar0301",
@@ -8607,7 +9221,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 615,
-    "score": 3767
+    "score": 3767,
+    "globalRank": 3255
   },
   {
     "login": "wshuyi",
@@ -8621,7 +9236,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 616,
-    "score": 5482
+    "score": 5482,
+    "globalRank": 3262
   },
   {
     "login": "ryan4yin",
@@ -8635,7 +9251,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 617,
-    "score": 4905
+    "score": 4905,
+    "globalRank": 3269
   },
   {
     "login": "aa65535",
@@ -8649,7 +9266,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 618,
-    "score": 1161
+    "score": 1161,
+    "globalRank": 3272
   },
   {
     "login": "yangxue0827",
@@ -8663,7 +9281,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 619,
-    "score": 1398
+    "score": 1398,
+    "globalRank": 3273
   },
   {
     "login": "wulabing",
@@ -8677,7 +9296,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 620,
-    "score": 1181
+    "score": 1181,
+    "globalRank": 3291
   },
   {
     "login": "poetries",
@@ -8691,7 +9311,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 621,
-    "score": 3294
+    "score": 3294,
+    "globalRank": 3297
   },
   {
     "login": "FranzKafkaYu",
@@ -8705,7 +9326,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 622,
-    "score": 1588
+    "score": 1588,
+    "globalRank": 3300
   },
   {
     "login": "TonyCrane",
@@ -8719,7 +9341,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 623,
-    "score": 1592
+    "score": 1592,
+    "globalRank": 3310
   },
   {
     "login": "chemzqm",
@@ -8733,7 +9356,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 624,
-    "score": 1264
+    "score": 1264,
+    "globalRank": 3325
   },
   {
     "login": "wwj718",
@@ -8747,7 +9371,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 625,
-    "score": 1322
+    "score": 1322,
+    "globalRank": 3326
   },
   {
     "login": "cnych",
@@ -8761,7 +9386,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 626,
-    "score": 1864
+    "score": 1864,
+    "globalRank": 3344
   },
   {
     "login": "KeKe-Li",
@@ -8775,7 +9401,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 627,
-    "score": 1628
+    "score": 1628,
+    "globalRank": 3347
   },
   {
     "login": "xmu-xiaoma666",
@@ -8789,7 +9416,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 628,
-    "score": 1131
+    "score": 1131,
+    "globalRank": 3366
   },
   {
     "login": "smartyuge",
@@ -8803,7 +9431,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 629,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 3370
   },
   {
     "login": "xiaye13579",
@@ -8817,7 +9446,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 630,
-    "score": 1120
+    "score": 1120,
+    "globalRank": 3376
   },
   {
     "login": "Urinx",
@@ -8831,7 +9461,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 631,
-    "score": 1119
+    "score": 1119,
+    "globalRank": 3379
   },
   {
     "login": "phobal",
@@ -8845,7 +9476,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 632,
-    "score": 1550
+    "score": 1550,
+    "globalRank": 3381
   },
   {
     "login": "zhuangbiaowei",
@@ -8859,7 +9491,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 633,
-    "score": 1979
+    "score": 1979,
+    "globalRank": 3383
   },
   {
     "login": "fython",
@@ -8873,7 +9506,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 634,
-    "score": 1382
+    "score": 1382,
+    "globalRank": 3384
   },
   {
     "login": "dtysky",
@@ -8887,7 +9521,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 635,
-    "score": 1518
+    "score": 1518,
+    "globalRank": 3385
   },
   {
     "login": "1715173329",
@@ -8901,7 +9536,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 636,
-    "score": 2831
+    "score": 2831,
+    "globalRank": 3389
   },
   {
     "login": "dsh0416",
@@ -8915,7 +9551,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 637,
-    "score": 1980
+    "score": 1980,
+    "globalRank": 3393
   },
   {
     "login": "crimx",
@@ -8929,7 +9566,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 638,
-    "score": 5098
+    "score": 5098,
+    "globalRank": 3394
   },
   {
     "login": "kbengine",
@@ -8943,7 +9581,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 639,
-    "score": 1109
+    "score": 1109,
+    "globalRank": 3422
   },
   {
     "login": "metowolf",
@@ -8957,7 +9596,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 640,
-    "score": 1658
+    "score": 1658,
+    "globalRank": 3423
   },
   {
     "login": "JokerJohn",
@@ -8971,7 +9611,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 641,
-    "score": 7658
+    "score": 7658,
+    "globalRank": 3424
   },
   {
     "login": "fordream",
@@ -8985,7 +9626,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 642,
-    "score": 1108
+    "score": 1108,
+    "globalRank": 3428
   },
   {
     "login": "LyleMi",
@@ -8999,7 +9641,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 643,
-    "score": 1397
+    "score": 1397,
+    "globalRank": 3433
   },
   {
     "login": "wingjay",
@@ -9013,7 +9656,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 644,
-    "score": 1105
+    "score": 1105,
+    "globalRank": 3440
   },
   {
     "login": "ty4z2008",
@@ -9027,7 +9671,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 645,
-    "score": 1109
+    "score": 1109,
+    "globalRank": 3441
   },
   {
     "login": "mcxtzhang",
@@ -9041,7 +9686,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 646,
-    "score": 1105
+    "score": 1105,
+    "globalRank": 3442
   },
   {
     "login": "mumuy",
@@ -9055,7 +9701,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 647,
-    "score": 1673
+    "score": 1673,
+    "globalRank": 3448
   },
   {
     "login": "finscn",
@@ -9069,7 +9716,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 648,
-    "score": 1225
+    "score": 1225,
+    "globalRank": 3452
   },
   {
     "login": "lining0806",
@@ -9083,7 +9731,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 649,
-    "score": 1100
+    "score": 1100,
+    "globalRank": 3469
   },
   {
     "login": "Sky24n",
@@ -9097,7 +9746,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 650,
-    "score": 1098
+    "score": 1098,
+    "globalRank": 3478
   },
   {
     "login": "Creality3DPrinting",
@@ -9111,7 +9761,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 651,
-    "score": 1097
+    "score": 1097,
+    "globalRank": 3480
   },
   {
     "login": "githubhaohao",
@@ -9125,7 +9776,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 652,
-    "score": 1104
+    "score": 1104,
+    "globalRank": 3481
   },
   {
     "login": "LC044",
@@ -9139,7 +9791,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 653,
-    "score": 1799
+    "score": 1799,
+    "globalRank": 3490
   },
   {
     "login": "flyerhzm",
@@ -9153,7 +9806,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 654,
-    "score": 7715
+    "score": 7715,
+    "globalRank": 3503
   },
   {
     "login": "mozillazg",
@@ -9167,7 +9821,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 655,
-    "score": 1360
+    "score": 1360,
+    "globalRank": 3509
   },
   {
     "login": "Becavalier",
@@ -9181,7 +9836,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 656,
-    "score": 1112
+    "score": 1112,
+    "globalRank": 3538
   },
   {
     "login": "KCblama19",
@@ -9195,7 +9851,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 657,
-    "score": 1130
+    "score": 1130,
+    "globalRank": 3539
   },
   {
     "login": "sunng87",
@@ -9209,7 +9866,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 658,
-    "score": 3728
+    "score": 3728,
+    "globalRank": 3545
   },
   {
     "login": "francistao",
@@ -9223,7 +9881,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 659,
-    "score": 1083
+    "score": 1083,
+    "globalRank": 3546
   },
   {
     "login": "HuangCongQing",
@@ -9237,7 +9896,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 660,
-    "score": 1505
+    "score": 1505,
+    "globalRank": 3551
   },
   {
     "login": "hzqst",
@@ -9251,7 +9911,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 661,
-    "score": 4595
+    "score": 4595,
+    "globalRank": 3561
   },
   {
     "login": "bsspirit",
@@ -9265,7 +9926,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 662,
-    "score": 1087
+    "score": 1087,
+    "globalRank": 3571
   },
   {
     "login": "JerryLead",
@@ -9279,7 +9941,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 663,
-    "score": 1077
+    "score": 1077,
+    "globalRank": 3577
   },
   {
     "login": "nicejade",
@@ -9293,7 +9956,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 664,
-    "score": 1951
+    "score": 1951,
+    "globalRank": 3590
   },
   {
     "login": "michuanhaohao",
@@ -9307,7 +9971,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 665,
-    "score": 1069
+    "score": 1069,
+    "globalRank": 3593
   },
   {
     "login": "mxdldev",
@@ -9321,7 +9986,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 666,
-    "score": 1073
+    "score": 1073,
+    "globalRank": 3596
   },
   {
     "login": "cipchk",
@@ -9335,7 +10001,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 667,
-    "score": 1799
+    "score": 1799,
+    "globalRank": 3604
   },
   {
     "login": "hawx1993",
@@ -9349,7 +10016,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 668,
-    "score": 4562
+    "score": 4562,
+    "globalRank": 3610
   },
   {
     "login": "mowentian",
@@ -9363,7 +10031,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 669,
-    "score": 1106
+    "score": 1106,
+    "globalRank": 3628
   },
   {
     "login": "triaquae",
@@ -9377,7 +10046,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 670,
-    "score": 1061
+    "score": 1061,
+    "globalRank": 3629
   },
   {
     "login": "zwxs",
@@ -9391,7 +10061,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 671,
-    "score": 1058
+    "score": 1058,
+    "globalRank": 3638
   },
   {
     "login": "100mango",
@@ -9405,7 +10076,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 672,
-    "score": 1455
+    "score": 1455,
+    "globalRank": 3639
   },
   {
     "login": "Kensuke-Hinata",
@@ -9419,7 +10091,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 673,
-    "score": 1091
+    "score": 1091,
+    "globalRank": 3652
   },
   {
     "login": "iawia002",
@@ -9433,7 +10106,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 674,
-    "score": 1077
+    "score": 1077,
+    "globalRank": 3653
   },
   {
     "login": "mashirozx",
@@ -9447,7 +10121,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 675,
-    "score": 1125
+    "score": 1125,
+    "globalRank": 3654
   },
   {
     "login": "lijiarui",
@@ -9461,7 +10136,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 676,
-    "score": 1069
+    "score": 1069,
+    "globalRank": 3656
   },
   {
     "login": "CarpenterLee",
@@ -9475,7 +10151,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 677,
-    "score": 1051
+    "score": 1051,
+    "globalRank": 3669
   },
   {
     "login": "HotBitmapGG",
@@ -9489,7 +10166,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 678,
-    "score": 1050
+    "score": 1050,
+    "globalRank": 3670
   },
   {
     "login": "henrymorgen",
@@ -9503,7 +10181,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 679,
-    "score": 1049
+    "score": 1049,
+    "globalRank": 3677
   },
   {
     "login": "liguge",
@@ -9517,7 +10196,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 680,
-    "score": 1469
+    "score": 1469,
+    "globalRank": 3683
   },
   {
     "login": "the5fire",
@@ -9531,7 +10211,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 681,
-    "score": 1051
+    "score": 1051,
+    "globalRank": 3684
   },
   {
     "login": "rejwar",
@@ -9545,7 +10226,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 682,
-    "score": 3408
+    "score": 3408,
+    "globalRank": 3697
   },
   {
     "login": "bigeagle",
@@ -9559,7 +10241,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 683,
-    "score": 1288
+    "score": 1288,
+    "globalRank": 3703
   },
   {
     "login": "Spground",
@@ -9573,7 +10256,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 684,
-    "score": 1225
+    "score": 1225,
+    "globalRank": 3726
   },
   {
     "login": "luojia65",
@@ -9587,7 +10271,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 685,
-    "score": 1439
+    "score": 1439,
+    "globalRank": 3727
   },
   {
     "login": "aksnzhy",
@@ -9601,7 +10286,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 686,
-    "score": 1040
+    "score": 1040,
+    "globalRank": 3731
   },
   {
     "login": "linyiqun",
@@ -9615,7 +10301,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 687,
-    "score": 1040
+    "score": 1040,
+    "globalRank": 3732
   },
   {
     "login": "EZLippi",
@@ -9629,7 +10316,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 688,
-    "score": 1079
+    "score": 1079,
+    "globalRank": 3740
   },
   {
     "login": "guobinhit",
@@ -9643,7 +10331,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 689,
-    "score": 1041
+    "score": 1041,
+    "globalRank": 3741
   },
   {
     "login": "al0ne",
@@ -9657,7 +10346,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 690,
-    "score": 1037
+    "score": 1037,
+    "globalRank": 3743
   },
   {
     "login": "chenyukang",
@@ -9671,7 +10361,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 691,
-    "score": 5123
+    "score": 5123,
+    "globalRank": 3744
   },
   {
     "login": "wyzxxz",
@@ -9685,7 +10376,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 692,
-    "score": 1036
+    "score": 1036,
+    "globalRank": 3751
   },
   {
     "login": "r0eXpeR",
@@ -9699,7 +10391,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 693,
-    "score": 1038
+    "score": 1038,
+    "globalRank": 3761
   },
   {
     "login": "wey-gu",
@@ -9713,7 +10406,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 694,
-    "score": 10857
+    "score": 10857,
+    "globalRank": 3770
   },
   {
     "login": "yuanxiaosc",
@@ -9727,7 +10421,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 695,
-    "score": 1032
+    "score": 1032,
+    "globalRank": 3771
   },
   {
     "login": "MegatronKing",
@@ -9741,7 +10436,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 696,
-    "score": 2216
+    "score": 2216,
+    "globalRank": 3778
   },
   {
     "login": "toly1994328",
@@ -9755,7 +10451,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 697,
-    "score": 1202
+    "score": 1202,
+    "globalRank": 3779
   },
   {
     "login": "SocialSisterYi",
@@ -9769,7 +10466,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 698,
-    "score": 1062
+    "score": 1062,
+    "globalRank": 3785
   },
   {
     "login": "bh-lay",
@@ -9783,7 +10481,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 699,
-    "score": 1114
+    "score": 1114,
+    "globalRank": 3787
   },
   {
     "login": "ysc",
@@ -9797,7 +10496,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 700,
-    "score": 1027
+    "score": 1027,
+    "globalRank": 3796
   },
   {
     "login": "BPI-SINOVOIP",
@@ -9811,7 +10511,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 701,
-    "score": 1038
+    "score": 1038,
+    "globalRank": 3802
   },
   {
     "login": "dongyuanxin",
@@ -9825,7 +10526,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 702,
-    "score": 1108
+    "score": 1108,
+    "globalRank": 3806
   },
   {
     "login": "YSGStudyHards",
@@ -9839,7 +10541,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 703,
-    "score": 1494
+    "score": 1494,
+    "globalRank": 3807
   },
   {
     "login": "jolestar",
@@ -9853,7 +10556,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 704,
-    "score": 7643
+    "score": 7643,
+    "globalRank": 3812
   },
   {
     "login": "coocood",
@@ -9867,7 +10571,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 705,
-    "score": 1047
+    "score": 1047,
+    "globalRank": 3827
   },
   {
     "login": "ShusenTang",
@@ -9881,7 +10586,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 706,
-    "score": 1021
+    "score": 1021,
+    "globalRank": 3828
   },
   {
     "login": "unixzii",
@@ -9895,7 +10601,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 707,
-    "score": 1417
+    "score": 1417,
+    "globalRank": 3846
   },
   {
     "login": "EryouHao",
@@ -9909,7 +10616,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 708,
-    "score": 1377
+    "score": 1377,
+    "globalRank": 3860
   },
   {
     "login": "fmz200",
@@ -9923,7 +10631,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 709,
-    "score": 1357
+    "score": 1357,
+    "globalRank": 3877
   },
   {
     "login": "khotyn",
@@ -9937,7 +10646,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 710,
-    "score": 1012
+    "score": 1012,
+    "globalRank": 3892
   },
   {
     "login": "RangiLyu",
@@ -9951,7 +10661,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 711,
-    "score": 1119
+    "score": 1119,
+    "globalRank": 3896
   },
   {
     "login": "D-clock",
@@ -9965,7 +10676,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 712,
-    "score": 1009
+    "score": 1009,
+    "globalRank": 3897
   },
   {
     "login": "EYHN",
@@ -9979,7 +10691,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 713,
-    "score": 2780
+    "score": 2780,
+    "globalRank": 3907
   },
   {
     "login": "johnil",
@@ -9993,7 +10706,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 714,
-    "score": 1083
+    "score": 1083,
+    "globalRank": 3908
   },
   {
     "login": "aozhimin",
@@ -10007,7 +10721,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 715,
-    "score": 1002
+    "score": 1002,
+    "globalRank": 3929
   },
   {
     "login": "zhouguangming",
@@ -10021,7 +10736,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 716,
-    "score": 1002
+    "score": 1002,
+    "globalRank": 3935
   },
   {
     "login": "GeekZooStudio",
@@ -10035,7 +10751,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 717,
-    "score": 1000
+    "score": 1000,
+    "globalRank": 3945
   },
   {
     "login": "yifengyou",
@@ -10049,7 +10766,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 718,
-    "score": 2580
+    "score": 2580,
+    "globalRank": 3954
   },
   {
     "login": "stulzq",
@@ -10063,7 +10781,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 719,
-    "score": 1004
+    "score": 1004,
+    "globalRank": 3957
   },
   {
     "login": "hzy46",
@@ -10077,7 +10796,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 720,
-    "score": 1031
+    "score": 1031,
+    "globalRank": 3961
   },
   {
     "login": "eisneim",
@@ -10091,7 +10811,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 721,
-    "score": 1075
+    "score": 1075,
+    "globalRank": 3965
   },
   {
     "login": "z-song",
@@ -10105,7 +10826,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 722,
-    "score": 994
+    "score": 994,
+    "globalRank": 3966
   },
   {
     "login": "TommyLemon",
@@ -10119,7 +10841,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 723,
-    "score": 1560
+    "score": 1560,
+    "globalRank": 3973
   },
   {
     "login": "halzhang",
@@ -10133,7 +10856,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 724,
-    "score": 993
+    "score": 993,
+    "globalRank": 3983
   },
   {
     "login": "SeuTao",
@@ -10147,7 +10871,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 725,
-    "score": 1038
+    "score": 1038,
+    "globalRank": 3986
   },
   {
     "login": "whxaxes",
@@ -10161,7 +10886,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 726,
-    "score": 1173
+    "score": 1173,
+    "globalRank": 3987
   },
   {
     "login": "EdisonTalk",
@@ -10175,7 +10901,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 727,
-    "score": 994
+    "score": 994,
+    "globalRank": 3988
   },
   {
     "login": "sequencer",
@@ -10189,7 +10916,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 728,
-    "score": 2280
+    "score": 2280,
+    "globalRank": 3994
   },
   {
     "login": "ezshine",
@@ -10203,7 +10931,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 729,
-    "score": 3854
+    "score": 3854,
+    "globalRank": 3995
   },
   {
     "login": "surunzi",
@@ -10217,7 +10946,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 730,
-    "score": 2620
+    "score": 2620,
+    "globalRank": 3996
   },
   {
     "login": "LofiSu",
@@ -10231,7 +10961,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 731,
-    "score": 1364
+    "score": 1364,
+    "globalRank": 4003
   },
   {
     "login": "cloudsec",
@@ -10245,7 +10976,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 732,
-    "score": 986
+    "score": 986,
+    "globalRank": 4011
   },
   {
     "login": "unix",
@@ -10259,7 +10991,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 733,
-    "score": 984
+    "score": 984,
+    "globalRank": 4028
   },
   {
     "login": "LinuxSuRen",
@@ -10273,7 +11006,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 734,
-    "score": 1534
+    "score": 1534,
+    "globalRank": 4033
   },
   {
     "login": "kiral",
@@ -10287,7 +11021,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 735,
-    "score": 983
+    "score": 983,
+    "globalRank": 4034
   },
   {
     "login": "tumobi",
@@ -10301,7 +11036,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 736,
-    "score": 983
+    "score": 983,
+    "globalRank": 4040
   },
   {
     "login": "mzlogin",
@@ -10315,7 +11051,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 737,
-    "score": 2712
+    "score": 2712,
+    "globalRank": 4041
   },
   {
     "login": "wangjiegulu",
@@ -10329,7 +11066,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 738,
-    "score": 1385
+    "score": 1385,
+    "globalRank": 4047
   },
   {
     "login": "kaleai",
@@ -10343,7 +11081,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 739,
-    "score": 980
+    "score": 980,
+    "globalRank": 4048
   },
   {
     "login": "qingmei2",
@@ -10357,7 +11096,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 740,
-    "score": 978
+    "score": 978,
+    "globalRank": 4053
   },
   {
     "login": "hit9",
@@ -10371,7 +11111,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 741,
-    "score": 3564
+    "score": 3564,
+    "globalRank": 4056
   },
   {
     "login": "0x5e",
@@ -10385,7 +11126,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 742,
-    "score": 1376
+    "score": 1376,
+    "globalRank": 4057
   },
   {
     "login": "sun0225SUN",
@@ -10399,7 +11141,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 743,
-    "score": 1794
+    "score": 1794,
+    "globalRank": 4078
   },
   {
     "login": "abop",
@@ -10413,7 +11156,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 744,
-    "score": 996
+    "score": 996,
+    "globalRank": 4079
   },
   {
     "login": "We5ter",
@@ -10427,7 +11171,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 745,
-    "score": 1019
+    "score": 1019,
+    "globalRank": 4080
   },
   {
     "login": "spacewander",
@@ -10441,7 +11186,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 746,
-    "score": 2160
+    "score": 2160,
+    "globalRank": 4081
   },
   {
     "login": "renzifeng",
@@ -10455,7 +11201,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 747,
-    "score": 972
+    "score": 972,
+    "globalRank": 4087
   },
   {
     "login": "LittleSound",
@@ -10469,7 +11216,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 748,
-    "score": 1778
+    "score": 1778,
+    "globalRank": 4088
   },
   {
     "login": "supnate",
@@ -10483,7 +11231,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 749,
-    "score": 1172
+    "score": 1172,
+    "globalRank": 4094
   },
   {
     "login": "idealre",
@@ -10497,7 +11246,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 750,
-    "score": 970
+    "score": 970,
+    "globalRank": 4100
   },
   {
     "login": "otakustay",
@@ -10511,7 +11261,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 751,
-    "score": 1074
+    "score": 1074,
+    "globalRank": 4106
   },
   {
     "login": "nondanee",
@@ -10525,7 +11276,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 752,
-    "score": 1196
+    "score": 1196,
+    "globalRank": 4107
   },
   {
     "login": "DavidCai1111",
@@ -10539,7 +11291,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 753,
-    "score": 969
+    "score": 969,
+    "globalRank": 4108
   },
   {
     "login": "lifa123",
@@ -10553,7 +11306,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 754,
-    "score": 989
+    "score": 989,
+    "globalRank": 4117
   },
   {
     "login": "netcan",
@@ -10567,7 +11321,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 755,
-    "score": 3425
+    "score": 3425,
+    "globalRank": 4118
   },
   {
     "login": "Doraemonzzz",
@@ -10581,7 +11336,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 756,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 4126
   },
   {
     "login": "yipianfengye",
@@ -10595,7 +11351,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 757,
-    "score": 968
+    "score": 968,
+    "globalRank": 4127
   },
   {
     "login": "dathlin",
@@ -10609,7 +11366,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 758,
-    "score": 980
+    "score": 980,
+    "globalRank": 4129
   },
   {
     "login": "qwqdanchun",
@@ -10623,7 +11381,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 759,
-    "score": 1026
+    "score": 1026,
+    "globalRank": 4145
   },
   {
     "login": "haixiangyan",
@@ -10637,7 +11396,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 760,
-    "score": 983
+    "score": 983,
+    "globalRank": 4146
   },
   {
     "login": "the1812",
@@ -10651,7 +11411,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 761,
-    "score": 1269
+    "score": 1269,
+    "globalRank": 4152
   },
   {
     "login": "eyounx",
@@ -10665,7 +11426,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 762,
-    "score": 959
+    "score": 959,
+    "globalRank": 4163
   },
   {
     "login": "manageyp",
@@ -10679,7 +11441,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 763,
-    "score": 961
+    "score": 961,
+    "globalRank": 4164
   },
   {
     "login": "ZhongTaoTian",
@@ -10693,7 +11456,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 764,
-    "score": 958
+    "score": 958,
+    "globalRank": 4172
   },
   {
     "login": "xicilion",
@@ -10707,7 +11471,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 765,
-    "score": 2984
+    "score": 2984,
+    "globalRank": 4179
   },
   {
     "login": "fatbobman",
@@ -10721,7 +11486,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 766,
-    "score": 3343
+    "score": 3343,
+    "globalRank": 4182
   },
   {
     "login": "materliu",
@@ -10735,7 +11501,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 767,
-    "score": 1322
+    "score": 1322,
+    "globalRank": 4183
   },
   {
     "login": "Lienol",
@@ -10749,7 +11516,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 768,
-    "score": 1062
+    "score": 1062,
+    "globalRank": 4191
   },
   {
     "login": "theowenyoung",
@@ -10763,7 +11531,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 769,
-    "score": 3819
+    "score": 3819,
+    "globalRank": 4192
   },
   {
     "login": "pyloque",
@@ -10777,7 +11546,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 770,
-    "score": 951
+    "score": 951,
+    "globalRank": 4205
   },
   {
     "login": "TonnyL",
@@ -10791,7 +11561,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 771,
-    "score": 1036
+    "score": 1036,
+    "globalRank": 4206
   },
   {
     "login": "axetroy",
@@ -10805,7 +11576,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 772,
-    "score": 1293
+    "score": 1293,
+    "globalRank": 4213
   },
   {
     "login": "jdneo",
@@ -10819,7 +11591,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 773,
-    "score": 1364
+    "score": 1364,
+    "globalRank": 4214
   },
   {
     "login": "sfzhang15",
@@ -10833,7 +11606,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 774,
-    "score": 951
+    "score": 951,
+    "globalRank": 4220
   },
   {
     "login": "tanjiti",
@@ -10847,7 +11621,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 775,
-    "score": 1290
+    "score": 1290,
+    "globalRank": 4221
   },
   {
     "login": "EllanJiang",
@@ -10861,7 +11636,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 776,
-    "score": 948
+    "score": 948,
+    "globalRank": 4222
   },
   {
     "login": "JackJiang2011",
@@ -10875,7 +11651,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 777,
-    "score": 987
+    "score": 987,
+    "globalRank": 4239
   },
   {
     "login": "iAmCorey",
@@ -10889,7 +11666,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 778,
-    "score": 3115
+    "score": 3115,
+    "globalRank": 4246
   },
   {
     "login": "allenwong",
@@ -10903,7 +11681,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 779,
-    "score": 943
+    "score": 943,
+    "globalRank": 4247
   },
   {
     "login": "sunner",
@@ -10917,7 +11696,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 780,
-    "score": 1681
+    "score": 1681,
+    "globalRank": 4271
   },
   {
     "login": "ryanhoo",
@@ -10931,7 +11711,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 781,
-    "score": 2291
+    "score": 2291,
+    "globalRank": 4272
   },
   {
     "login": "wuyr",
@@ -10945,7 +11726,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 782,
-    "score": 941
+    "score": 941,
+    "globalRank": 4276
   },
   {
     "login": "xjdrew",
@@ -10959,7 +11741,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 783,
-    "score": 1088
+    "score": 1088,
+    "globalRank": 4294
   },
   {
     "login": "vinson-lee01",
@@ -10973,7 +11756,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 784,
-    "score": 938
+    "score": 938,
+    "globalRank": 4295
   },
   {
     "login": "laiwei",
@@ -10987,7 +11771,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 785,
-    "score": 985
+    "score": 985,
+    "globalRank": 4299
   },
   {
     "login": "linw7",
@@ -11001,7 +11786,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 786,
-    "score": 934
+    "score": 934,
+    "globalRank": 4300
   },
   {
     "login": "lefex",
@@ -11015,7 +11801,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 787,
-    "score": 1104
+    "score": 1104,
+    "globalRank": 4306
   },
   {
     "login": "suceser",
@@ -11029,7 +11816,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 788,
-    "score": 1050
+    "score": 1050,
+    "globalRank": 4325
   },
   {
     "login": "yjhjstz",
@@ -11043,7 +11831,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 789,
-    "score": 2956
+    "score": 2956,
+    "globalRank": 4345
   },
   {
     "login": "pujiaxin33",
@@ -11057,7 +11846,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 790,
-    "score": 929
+    "score": 929,
+    "globalRank": 4346
   },
   {
     "login": "Fallen-Breath",
@@ -11071,7 +11861,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 791,
-    "score": 2566
+    "score": 2566,
+    "globalRank": 4349
   },
   {
     "login": "chyroc",
@@ -11085,7 +11876,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 792,
-    "score": 1609
+    "score": 1609,
+    "globalRank": 4354
   },
   {
     "login": "Simon-He95",
@@ -11099,7 +11891,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 793,
-    "score": 6616
+    "score": 6616,
+    "globalRank": 4355
   },
   {
     "login": "buqiyuan",
@@ -11113,7 +11906,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 794,
-    "score": 940
+    "score": 940,
+    "globalRank": 4356
   },
   {
     "login": "luckybilly",
@@ -11127,7 +11921,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 795,
-    "score": 927
+    "score": 927,
+    "globalRank": 4362
   },
   {
     "login": "septs",
@@ -11141,7 +11936,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 796,
-    "score": 2999
+    "score": 2999,
+    "globalRank": 4363
   },
   {
     "login": "xen0n",
@@ -11155,7 +11951,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 797,
-    "score": 3671
+    "score": 3671,
+    "globalRank": 4366
   },
   {
     "login": "MarchLiu",
@@ -11169,7 +11966,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 798,
-    "score": 1119
+    "score": 1119,
+    "globalRank": 4378
   },
   {
     "login": "lookingstars",
@@ -11183,7 +11981,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 799,
-    "score": 920
+    "score": 920,
+    "globalRank": 4383
   },
   {
     "login": "virjar",
@@ -11197,7 +11996,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 800,
-    "score": 1014
+    "score": 1014,
+    "globalRank": 4384
   },
   {
     "login": "killop",
@@ -11211,7 +12011,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 801,
-    "score": 988
+    "score": 988,
+    "globalRank": 4385
   },
   {
     "login": "qfish",
@@ -11225,7 +12026,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 802,
-    "score": 1145
+    "score": 1145,
+    "globalRank": 4386
   },
   {
     "login": "loody",
@@ -11239,7 +12041,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 803,
-    "score": 920
+    "score": 920,
+    "globalRank": 4397
   },
   {
     "login": "BernardXiong",
@@ -11253,7 +12056,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 804,
-    "score": 1284
+    "score": 1284,
+    "globalRank": 4398
   },
   {
     "login": "2betop",
@@ -11267,7 +12071,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 805,
-    "score": 1486
+    "score": 1486,
+    "globalRank": 4402
   },
   {
     "login": "virusdefender",
@@ -11281,7 +12086,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 806,
-    "score": 942
+    "score": 942,
+    "globalRank": 4409
   },
   {
     "login": "wuhan005",
@@ -11295,7 +12101,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 807,
-    "score": 2106
+    "score": 2106,
+    "globalRank": 4419
   },
   {
     "login": "cooelf",
@@ -11309,7 +12116,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 808,
-    "score": 918
+    "score": 918,
+    "globalRank": 4420
   },
   {
     "login": "huluoyang",
@@ -11323,7 +12131,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 809,
-    "score": 916
+    "score": 916,
+    "globalRank": 4421
   },
   {
     "login": "cymcsg",
@@ -11337,7 +12146,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 810,
-    "score": 969
+    "score": 969,
+    "globalRank": 4437
   },
   {
     "login": "qinix",
@@ -11351,7 +12161,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 811,
-    "score": 2379
+    "score": 2379,
+    "globalRank": 4442
   },
   {
     "login": "Gracker",
@@ -11365,7 +12176,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 812,
-    "score": 2480
+    "score": 2480,
+    "globalRank": 4457
   },
   {
     "login": "qiuyuzhou",
@@ -11379,7 +12191,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 813,
-    "score": 909
+    "score": 909,
+    "globalRank": 4458
   },
   {
     "login": "davyxu",
@@ -11393,7 +12206,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 814,
-    "score": 909
+    "score": 909,
+    "globalRank": 4466
   },
   {
     "login": "bbruceyuan",
@@ -11407,7 +12221,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 815,
-    "score": 1041
+    "score": 1041,
+    "globalRank": 4467
   },
   {
     "login": "ZhuiyiTechnology",
@@ -11421,7 +12236,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 816,
-    "score": 908
+    "score": 908,
+    "globalRank": 4468
   },
   {
     "login": "v5tech",
@@ -11435,7 +12251,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 817,
-    "score": 8882
+    "score": 8882,
+    "globalRank": 4476
   },
   {
     "login": "isnowfy",
@@ -11449,7 +12266,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 818,
-    "score": 905
+    "score": 905,
+    "globalRank": 4484
   },
   {
     "login": "GuoYongfeng",
@@ -11463,7 +12281,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 819,
-    "score": 904
+    "score": 904,
+    "globalRank": 4491
   },
   {
     "login": "iccfish",
@@ -11477,7 +12296,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 820,
-    "score": 905
+    "score": 905,
+    "globalRank": 4495
   },
   {
     "login": "yixuan",
@@ -11491,7 +12311,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 821,
-    "score": 1300
+    "score": 1300,
+    "globalRank": 4500
   },
   {
     "login": "wengkai",
@@ -11505,7 +12326,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 822,
-    "score": 912
+    "score": 912,
+    "globalRank": 4501
   },
   {
     "login": "jiangxin",
@@ -11519,7 +12341,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 823,
-    "score": 1830
+    "score": 1830,
+    "globalRank": 4506
   },
   {
     "login": "yinjihuan",
@@ -11533,7 +12356,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 824,
-    "score": 899
+    "score": 899,
+    "globalRank": 4515
   },
   {
     "login": "naturomics",
@@ -11547,7 +12371,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 825,
-    "score": 1113
+    "score": 1113,
+    "globalRank": 4516
   },
   {
     "login": "lightSky",
@@ -11561,7 +12386,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 826,
-    "score": 897
+    "score": 897,
+    "globalRank": 4522
   },
   {
     "login": "unixhot",
@@ -11575,7 +12401,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 827,
-    "score": 899
+    "score": 899,
+    "globalRank": 4523
   },
   {
     "login": "lawlite19",
@@ -11589,7 +12416,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 828,
-    "score": 899
+    "score": 899,
+    "globalRank": 4524
   },
   {
     "login": "stanzhai",
@@ -11603,7 +12431,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 829,
-    "score": 896
+    "score": 896,
+    "globalRank": 4536
   },
   {
     "login": "jenly1314",
@@ -11617,7 +12446,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 830,
-    "score": 1156
+    "score": 1156,
+    "globalRank": 4537
   },
   {
     "login": "LingyuCoder",
@@ -11631,7 +12461,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 831,
-    "score": 2064
+    "score": 2064,
+    "globalRank": 4543
   },
   {
     "login": "andyzhangx",
@@ -11645,7 +12476,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 832,
-    "score": 5141
+    "score": 5141,
+    "globalRank": 4559
   },
   {
     "login": "wuxianlin",
@@ -11659,7 +12491,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 833,
-    "score": 1010
+    "score": 1010,
+    "globalRank": 4566
   },
   {
     "login": "ma6174",
@@ -11673,7 +12506,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 834,
-    "score": 915
+    "score": 915,
+    "globalRank": 4577
   },
   {
     "login": "guanzhi",
@@ -11687,7 +12521,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 835,
-    "score": 966
+    "score": 966,
+    "globalRank": 4594
   },
   {
     "login": "ShixiangWang",
@@ -11701,7 +12536,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 836,
-    "score": 2987
+    "score": 2987,
+    "globalRank": 4595
   },
   {
     "login": "slievrly",
@@ -11715,7 +12551,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 837,
-    "score": 2007
+    "score": 2007,
+    "globalRank": 4602
   },
   {
     "login": "tsejx",
@@ -11729,7 +12566,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 838,
-    "score": 1220
+    "score": 1220,
+    "globalRank": 4603
   },
   {
     "login": "canisminor1990",
@@ -11743,7 +12581,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 839,
-    "score": 2625
+    "score": 2625,
+    "globalRank": 4604
   },
   {
     "login": "KMnO4-zx",
@@ -11757,7 +12596,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 840,
-    "score": 1754
+    "score": 1754,
+    "globalRank": 4605
   },
   {
     "login": "Dod-o",
@@ -11771,7 +12611,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 841,
-    "score": 892
+    "score": 892,
+    "globalRank": 4612
   },
   {
     "login": "conwnet",
@@ -11785,7 +12626,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 842,
-    "score": 1032
+    "score": 1032,
+    "globalRank": 4613
   },
   {
     "login": "chaozh",
@@ -11799,7 +12641,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 843,
-    "score": 884
+    "score": 884,
+    "globalRank": 4614
   },
   {
     "login": "cpselvis",
@@ -11813,7 +12656,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 844,
-    "score": 898
+    "score": 898,
+    "globalRank": 4631
   },
   {
     "login": "race604",
@@ -11827,7 +12671,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 845,
-    "score": 890
+    "score": 890,
+    "globalRank": 4660
   },
   {
     "login": "yuguo",
@@ -11841,7 +12686,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 846,
-    "score": 877
+    "score": 877,
+    "globalRank": 4661
   },
   {
     "login": "wondertrader",
@@ -11855,7 +12701,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 847,
-    "score": 877
+    "score": 877,
+    "globalRank": 4668
   },
   {
     "login": "kuangliu",
@@ -11869,7 +12716,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 848,
-    "score": 878
+    "score": 878,
+    "globalRank": 4692
   },
   {
     "login": "ginuerzh",
@@ -11883,7 +12731,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 849,
-    "score": 975
+    "score": 975,
+    "globalRank": 4693
   },
   {
     "login": "MuYunyun",
@@ -11897,7 +12746,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 850,
-    "score": 871
+    "score": 871,
+    "globalRank": 4696
   },
   {
     "login": "renkun-ken",
@@ -11911,7 +12761,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 851,
-    "score": 964
+    "score": 964,
+    "globalRank": 4701
   },
   {
     "login": "idealclover",
@@ -11925,7 +12776,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 852,
-    "score": 1089
+    "score": 1089,
+    "globalRank": 4702
   },
   {
     "login": "BeyondVincent",
@@ -11939,7 +12791,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 853,
-    "score": 867
+    "score": 867,
+    "globalRank": 4722
   },
   {
     "login": "jkchao",
@@ -11953,7 +12806,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 854,
-    "score": 956
+    "score": 956,
+    "globalRank": 4723
   },
   {
     "login": "qinyuhang",
@@ -11967,7 +12821,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 855,
-    "score": 1035
+    "score": 1035,
+    "globalRank": 4724
   },
   {
     "login": "taoso",
@@ -11981,7 +12836,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 856,
-    "score": 1139
+    "score": 1139,
+    "globalRank": 4750
   },
   {
     "login": "imarvinle",
@@ -11995,7 +12851,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 857,
-    "score": 5524
+    "score": 5524,
+    "globalRank": 4751
   },
   {
     "login": "lzwjava",
@@ -12009,7 +12866,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 858,
-    "score": 13033
+    "score": 13033,
+    "globalRank": 4764
   },
   {
     "login": "lotabout",
@@ -12023,7 +12881,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 859,
-    "score": 874
+    "score": 874,
+    "globalRank": 4771
   },
   {
     "login": "Leopoldthecoder",
@@ -12037,7 +12896,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 860,
-    "score": 3145
+    "score": 3145,
+    "globalRank": 4782
   },
   {
     "login": "xiaolongzuo",
@@ -12051,7 +12911,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 861,
-    "score": 860
+    "score": 860,
+    "globalRank": 4787
   },
   {
     "login": "lzxb",
@@ -12065,7 +12926,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 862,
-    "score": 1738
+    "score": 1738,
+    "globalRank": 4804
   },
   {
     "login": "snowdream",
@@ -12079,7 +12941,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 863,
-    "score": 12429
+    "score": 12429,
+    "globalRank": 4808
   },
   {
     "login": "Glavo",
@@ -12093,7 +12956,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 864,
-    "score": 6123
+    "score": 6123,
+    "globalRank": 4812
   },
   {
     "login": "ducafecat",
@@ -12107,7 +12971,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 865,
-    "score": 2957
+    "score": 2957,
+    "globalRank": 4813
   },
   {
     "login": "jamesge",
@@ -12121,7 +12986,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 866,
-    "score": 852
+    "score": 852,
+    "globalRank": 4818
   },
   {
     "login": "watashi",
@@ -12135,7 +13001,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 867,
-    "score": 853
+    "score": 853,
+    "globalRank": 4819
   },
   {
     "login": "lonePatient",
@@ -12149,7 +13016,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 868,
-    "score": 4175
+    "score": 4175,
+    "globalRank": 4827
   },
   {
     "login": "maomao1996",
@@ -12163,7 +13031,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 869,
-    "score": 1574
+    "score": 1574,
+    "globalRank": 4838
   },
   {
     "login": "laobie",
@@ -12177,7 +13046,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 870,
-    "score": 880
+    "score": 880,
+    "globalRank": 4843
   },
   {
     "login": "fankes",
@@ -12191,7 +13061,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 871,
-    "score": 3342
+    "score": 3342,
+    "globalRank": 4847
   },
   {
     "login": "ifzhang",
@@ -12205,7 +13076,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 872,
-    "score": 853
+    "score": 853,
+    "globalRank": 4848
   },
   {
     "login": "willin",
@@ -12219,7 +13091,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 873,
-    "score": 1612
+    "score": 1612,
+    "globalRank": 4849
   },
   {
     "login": "xianyi",
@@ -12233,7 +13106,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 874,
-    "score": 847
+    "score": 847,
+    "globalRank": 4852
   },
   {
     "login": "DeveloperLx",
@@ -12247,7 +13121,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 875,
-    "score": 846
+    "score": 846,
+    "globalRank": 4853
   },
   {
     "login": "wandergis",
@@ -12261,7 +13136,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 876,
-    "score": 1303
+    "score": 1303,
+    "globalRank": 4860
   },
   {
     "login": "TurtleZhong",
@@ -12275,7 +13151,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 877,
-    "score": 850
+    "score": 850,
+    "globalRank": 4861
   },
   {
     "login": "chenssy89",
@@ -12289,7 +13166,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 878,
-    "score": 846
+    "score": 846,
+    "globalRank": 4865
   },
   {
     "login": "liguodongiot",
@@ -12303,7 +13181,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 879,
-    "score": 1208
+    "score": 1208,
+    "globalRank": 4866
   },
   {
     "login": "adah1972",
@@ -12317,7 +13196,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 880,
-    "score": 946
+    "score": 946,
+    "globalRank": 4871
   },
   {
     "login": "lietoumai",
@@ -12331,7 +13211,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 881,
-    "score": 857
+    "score": 857,
+    "globalRank": 4877
   },
   {
     "login": "wofeiwo",
@@ -12345,7 +13226,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 882,
-    "score": 866
+    "score": 866,
+    "globalRank": 4887
   },
   {
     "login": "shenzhe",
@@ -12359,7 +13241,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 883,
-    "score": 908
+    "score": 908,
+    "globalRank": 4896
   },
   {
     "login": "dreampiggy",
@@ -12373,7 +13256,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 884,
-    "score": 908
+    "score": 908,
+    "globalRank": 4897
   },
   {
     "login": "kingname",
@@ -12387,7 +13271,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 885,
-    "score": 2133
+    "score": 2133,
+    "globalRank": 4902
   },
   {
     "login": "OrangeX4",
@@ -12401,7 +13286,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 886,
-    "score": 1871
+    "score": 1871,
+    "globalRank": 4903
   },
   {
     "login": "tianyucoder",
@@ -12415,7 +13301,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 887,
-    "score": 839
+    "score": 839,
+    "globalRank": 4904
   },
   {
     "login": "luzexi",
@@ -12429,7 +13316,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 888,
-    "score": 843
+    "score": 843,
+    "globalRank": 4915
   },
   {
     "login": "Sharpiless",
@@ -12443,7 +13331,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 889,
-    "score": 924
+    "score": 924,
+    "globalRank": 4923
   },
   {
     "login": "cinit",
@@ -12457,7 +13346,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 890,
-    "score": 1116
+    "score": 1116,
+    "globalRank": 4937
   },
   {
     "login": "singgel",
@@ -12471,7 +13361,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 891,
-    "score": 849
+    "score": 849,
+    "globalRank": 4945
   },
   {
     "login": "zhuozhiyongde",
@@ -12485,7 +13376,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 892,
-    "score": 1560
+    "score": 1560,
+    "globalRank": 4952
   },
   {
     "login": "TingsongYu",
@@ -12499,7 +13391,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 893,
-    "score": 834
+    "score": 834,
+    "globalRank": 4953
   },
   {
     "login": "zhangguanzhang",
@@ -12513,7 +13406,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 894,
-    "score": 968
+    "score": 968,
+    "globalRank": 4981
   },
   {
     "login": "qiujuer",
@@ -12527,7 +13421,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 895,
-    "score": 830
+    "score": 830,
+    "globalRank": 4988
   },
   {
     "login": "ShenQingchuan",
@@ -12541,7 +13436,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 896,
-    "score": 1910
+    "score": 1910,
+    "globalRank": 4997
   },
   {
     "login": "fate0",
@@ -12555,7 +13451,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 897,
-    "score": 824
+    "score": 824,
+    "globalRank": 5025
   },
   {
     "login": "yzhangcs",
@@ -12569,7 +13466,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 898,
-    "score": 1378
+    "score": 1378,
+    "globalRank": 5026
   },
   {
     "login": "defnngj",
@@ -12583,7 +13481,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 899,
-    "score": 1197
+    "score": 1197,
+    "globalRank": 5027
   },
   {
     "login": "zswang",
@@ -12597,7 +13496,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 900,
-    "score": 823
+    "score": 823,
+    "globalRank": 5039
   },
   {
     "login": "breezewish",
@@ -12611,7 +13511,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 901,
-    "score": 5609
+    "score": 5609,
+    "globalRank": 5040
   },
   {
     "login": "aviraxp",
@@ -12625,7 +13526,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 902,
-    "score": 1997
+    "score": 1997,
+    "globalRank": 5044
   },
   {
     "login": "MiYogurt",
@@ -12639,7 +13541,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 903,
-    "score": 821
+    "score": 821,
+    "globalRank": 5050
   },
   {
     "login": "kener",
@@ -12653,7 +13556,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 904,
-    "score": 820
+    "score": 820,
+    "globalRank": 5056
   },
   {
     "login": "baiwusanyu-c",
@@ -12667,7 +13571,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 905,
-    "score": 1583
+    "score": 1583,
+    "globalRank": 5061
   },
   {
     "login": "leohxj",
@@ -12681,7 +13586,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 906,
-    "score": 828
+    "score": 828,
+    "globalRank": 5097
   },
   {
     "login": "freestylefly",
@@ -12695,7 +13601,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 907,
-    "score": 1072
+    "score": 1072,
+    "globalRank": 5111
   },
   {
     "login": "wangbin579",
@@ -12709,7 +13616,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 908,
-    "score": 820
+    "score": 820,
+    "globalRank": 5120
   },
   {
     "login": "Enter-tainer",
@@ -12723,7 +13631,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 909,
-    "score": 1646
+    "score": 1646,
+    "globalRank": 5121
   },
   {
     "login": "lhmouse",
@@ -12737,7 +13646,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 910,
-    "score": 3528
+    "score": 3528,
+    "globalRank": 5129
   },
   {
     "login": "vivian8725118",
@@ -12751,7 +13661,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 911,
-    "score": 816
+    "score": 816,
+    "globalRank": 5130
   },
   {
     "login": "kainonly",
@@ -12765,7 +13676,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 912,
-    "score": 1388
+    "score": 1388,
+    "globalRank": 5145
   },
   {
     "login": "tonybase",
@@ -12779,7 +13691,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 913,
-    "score": 1525
+    "score": 1525,
+    "globalRank": 5146
   },
   {
     "login": "gatieme",
@@ -12793,7 +13706,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 914,
-    "score": 956
+    "score": 956,
+    "globalRank": 5147
   },
   {
     "login": "Kr1s77",
@@ -12807,7 +13721,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 915,
-    "score": 808
+    "score": 808,
+    "globalRank": 5160
   },
   {
     "login": "ftiasch",
@@ -12821,7 +13736,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 916,
-    "score": 915
+    "score": 915,
+    "globalRank": 5164
   },
   {
     "login": "ipader",
@@ -12835,7 +13751,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 917,
-    "score": 816
+    "score": 816,
+    "globalRank": 5165
   },
   {
     "login": "avwo",
@@ -12849,7 +13766,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 918,
-    "score": 1109
+    "score": 1109,
+    "globalRank": 5166
   },
   {
     "login": "mo-xiaoxi",
@@ -12863,7 +13781,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 919,
-    "score": 8698
+    "score": 8698,
+    "globalRank": 5172
   },
   {
     "login": "hetong007",
@@ -12877,7 +13796,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 920,
-    "score": 809
+    "score": 809,
+    "globalRank": 5173
   },
   {
     "login": "picoxr",
@@ -12891,7 +13811,8 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 921,
-    "score": 807
+    "score": 807,
+    "globalRank": 5174
   },
   {
     "login": "maoruibin",
@@ -12905,6 +13826,7 @@
     "country": "china",
     "countryName": "China",
     "countryRank": 922,
-    "score": 1727
+    "score": 1727,
+    "globalRank": 5191
   }
 ]

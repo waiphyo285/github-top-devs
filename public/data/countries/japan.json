@@ -11,7 +11,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 1,
-    "score": 26386
+    "score": 26386,
+    "globalRank": 31
   },
   {
     "login": "kenjinote",
@@ -25,7 +26,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 2,
-    "score": 22560
+    "score": 22560,
+    "globalRank": 39
   },
   {
     "login": "onevcat",
@@ -39,7 +41,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 3,
-    "score": 20510
+    "score": 20510,
+    "globalRank": 68
   },
   {
     "login": "mattn",
@@ -53,7 +56,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 4,
-    "score": 17523
+    "score": 17523,
+    "globalRank": 99
   },
   {
     "login": "craftzdog",
@@ -67,7 +71,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 5,
-    "score": 12336
+    "score": 12336,
+    "globalRank": 129
   },
   {
     "login": "XiaomingX",
@@ -81,7 +86,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 6,
-    "score": 16934
+    "score": 16934,
+    "globalRank": 136
   },
   {
     "login": "matz",
@@ -95,7 +101,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 7,
-    "score": 14204
+    "score": 14204,
+    "globalRank": 161
   },
   {
     "login": "dennybritz",
@@ -109,7 +116,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 8,
-    "score": 14698
+    "score": 14698,
+    "globalRank": 173
   },
   {
     "login": "wasabeef",
@@ -123,7 +131,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 9,
-    "score": 13863
+    "score": 13863,
+    "globalRank": 180
   },
   {
     "login": "lepture",
@@ -137,7 +146,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 10,
-    "score": 10940
+    "score": 10940,
+    "globalRank": 211
   },
   {
     "login": "dai-shi",
@@ -151,7 +161,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 11,
-    "score": 9850
+    "score": 9850,
+    "globalRank": 240
   },
   {
     "login": "drakeet",
@@ -165,7 +176,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 12,
-    "score": 10800
+    "score": 10800,
+    "globalRank": 246
   },
   {
     "login": "zcbenz",
@@ -179,7 +191,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 13,
-    "score": 8653
+    "score": 8653,
+    "globalRank": 254
   },
   {
     "login": "rui314",
@@ -193,7 +206,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 14,
-    "score": 7954
+    "score": 7954,
+    "globalRank": 321
   },
   {
     "login": "guo-yu",
@@ -207,7 +221,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 15,
-    "score": 11197
+    "score": 11197,
+    "globalRank": 366
   },
   {
     "login": "domenic",
@@ -221,7 +236,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 16,
-    "score": 6905
+    "score": 6905,
+    "globalRank": 398
   },
   {
     "login": "hardmaru",
@@ -235,7 +251,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 17,
-    "score": 5782
+    "score": 5782,
+    "globalRank": 468
   },
   {
     "login": "marcan",
@@ -249,7 +266,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 18,
-    "score": 5156
+    "score": 5156,
+    "globalRank": 473
   },
   {
     "login": "peppy",
@@ -263,7 +281,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 19,
-    "score": 9578
+    "score": 9578,
+    "globalRank": 478
   },
   {
     "login": "cpojer",
@@ -277,7 +296,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 20,
-    "score": 9128
+    "score": 9128,
+    "globalRank": 480
   },
   {
     "login": "Shougo",
@@ -291,7 +311,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 21,
-    "score": 6607
+    "score": 6607,
+    "globalRank": 482
   },
   {
     "login": "AtsushiSakai",
@@ -305,7 +326,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 22,
-    "score": 4830
+    "score": 4830,
+    "globalRank": 516
   },
   {
     "login": "sxzz",
@@ -319,7 +341,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 23,
-    "score": 10526
+    "score": 10526,
+    "globalRank": 520
   },
   {
     "login": "manman4",
@@ -333,7 +356,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 24,
-    "score": 19670
+    "score": 19670,
+    "globalRank": 551
   },
   {
     "login": "kazupon",
@@ -347,7 +371,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 25,
-    "score": 8149
+    "score": 8149,
+    "globalRank": 587
   },
   {
     "login": "neuecc",
@@ -361,7 +386,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 26,
-    "score": 4630
+    "score": 4630,
+    "globalRank": 631
   },
   {
     "login": "blueimp",
@@ -375,7 +401,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 27,
-    "score": 4064
+    "score": 4064,
+    "globalRank": 634
   },
   {
     "login": "privatenumber",
@@ -389,7 +416,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 28,
-    "score": 12596
+    "score": 12596,
+    "globalRank": 676
   },
   {
     "login": "kevinzhow",
@@ -403,7 +431,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 29,
-    "score": 6275
+    "score": 6275,
+    "globalRank": 677
   },
   {
     "login": "yusukebe",
@@ -417,7 +446,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 30,
-    "score": 5845
+    "score": 5845,
+    "globalRank": 688
   },
   {
     "login": "hoshinolina",
@@ -431,7 +461,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 31,
-    "score": 4356
+    "score": 4356,
+    "globalRank": 689
   },
   {
     "login": "unhappychoice",
@@ -445,7 +476,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 32,
-    "score": 23228
+    "score": 23228,
+    "globalRank": 731
   },
   {
     "login": "shu223",
@@ -459,7 +491,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 33,
-    "score": 8498
+    "score": 8498,
+    "globalRank": 758
   },
   {
     "login": "AdiChat",
@@ -473,7 +506,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 34,
-    "score": 3253
+    "score": 3253,
+    "globalRank": 861
   },
   {
     "login": "pilcrowonpaper",
@@ -487,7 +521,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 35,
-    "score": 3696
+    "score": 3696,
+    "globalRank": 926
   },
   {
     "login": "amatsuda",
@@ -501,7 +536,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 36,
-    "score": 6756
+    "score": 6756,
+    "globalRank": 977
   },
   {
     "login": "mame",
@@ -515,7 +551,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 37,
-    "score": 4065
+    "score": 4065,
+    "globalRank": 985
   },
   {
     "login": "kishikawakatsumi",
@@ -529,7 +566,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 38,
-    "score": 44581
+    "score": 44581,
+    "globalRank": 987
   },
   {
     "login": "mob-sakai",
@@ -543,7 +581,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 39,
-    "score": 4700
+    "score": 4700,
+    "globalRank": 1010
   },
   {
     "login": "xqq",
@@ -557,7 +596,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 40,
-    "score": 3176
+    "score": 3176,
+    "globalRank": 1015
   },
   {
     "login": "Sen-Takatsuki",
@@ -571,7 +611,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 41,
-    "score": 2858
+    "score": 2858,
+    "globalRank": 1018
   },
   {
     "login": "azu",
@@ -585,7 +626,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 42,
-    "score": 9720
+    "score": 9720,
+    "globalRank": 1025
   },
   {
     "login": "wkentaro",
@@ -599,7 +641,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 43,
-    "score": 6945
+    "score": 6945,
+    "globalRank": 1174
   },
   {
     "login": "mrwhite4939",
@@ -613,7 +656,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 44,
-    "score": 3042
+    "score": 3042,
+    "globalRank": 1219
   },
   {
     "login": "hajimehoshi",
@@ -627,7 +671,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 45,
-    "score": 7982
+    "score": 7982,
+    "globalRank": 1237
   },
   {
     "login": "mariotaku",
@@ -641,7 +686,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 46,
-    "score": 3704
+    "score": 3704,
+    "globalRank": 1349
   },
   {
     "login": "acgotaku",
@@ -655,7 +701,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 47,
-    "score": 5156
+    "score": 5156,
+    "globalRank": 1371
   },
   {
     "login": "bee-san",
@@ -669,7 +716,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 48,
-    "score": 4682
+    "score": 4682,
+    "globalRank": 1426
   },
   {
     "login": "PINTO0309",
@@ -683,7 +731,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 49,
-    "score": 5871
+    "score": 5871,
+    "globalRank": 1498
   },
   {
     "login": "Bunlong",
@@ -697,7 +746,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 50,
-    "score": 2121
+    "score": 2121,
+    "globalRank": 1505
   },
   {
     "login": "simurai",
@@ -711,7 +761,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 51,
-    "score": 3990
+    "score": 3990,
+    "globalRank": 1532
   },
   {
     "login": "brettwooldridge",
@@ -725,7 +776,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 52,
-    "score": 2053
+    "score": 2053,
+    "globalRank": 1638
   },
   {
     "login": "rhysd",
@@ -739,7 +791,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 53,
-    "score": 3653
+    "score": 3653,
+    "globalRank": 1701
   },
   {
     "login": "Jannchie",
@@ -753,7 +806,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 54,
-    "score": 5769
+    "score": 5769,
+    "globalRank": 1725
   },
   {
     "login": "AchrafReyani",
@@ -767,7 +821,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 55,
-    "score": 2770
+    "score": 2770,
+    "globalRank": 1743
   },
   {
     "login": "koide3",
@@ -781,7 +836,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 56,
-    "score": 2284
+    "score": 2284,
+    "globalRank": 1762
   },
   {
     "login": "mizchi",
@@ -795,7 +851,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 57,
-    "score": 22721
+    "score": 22721,
+    "globalRank": 1819
   },
   {
     "login": "rikusato0",
@@ -809,7 +866,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 58,
-    "score": 6180
+    "score": 6180,
+    "globalRank": 1838
   },
   {
     "login": "fukamachi",
@@ -823,7 +881,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 59,
-    "score": 10724
+    "score": 10724,
+    "globalRank": 1867
   },
   {
     "login": "yaraki",
@@ -837,7 +896,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 60,
-    "score": 2149
+    "score": 2149,
+    "globalRank": 1869
   },
   {
     "login": "nagadomi",
@@ -851,7 +911,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 61,
-    "score": 2562
+    "score": 2562,
+    "globalRank": 1906
   },
   {
     "login": "Santos-Enoque",
@@ -865,7 +926,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 62,
-    "score": 1825
+    "score": 1825,
+    "globalRank": 1930
   },
   {
     "login": "gkjohnson",
@@ -879,7 +941,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 63,
-    "score": 4594
+    "score": 4594,
+    "globalRank": 1937
   },
   {
     "login": "AkihiroSuda",
@@ -893,7 +956,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 64,
-    "score": 6224
+    "score": 6224,
+    "globalRank": 1942
   },
   {
     "login": "trananhtuat",
@@ -907,7 +971,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 65,
-    "score": 1744
+    "score": 1744,
+    "globalRank": 1949
   },
   {
     "login": "r9y9",
@@ -921,7 +986,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 66,
-    "score": 1734
+    "score": 1734,
+    "globalRank": 1959
   },
   {
     "login": "eltociear",
@@ -935,7 +1001,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 67,
-    "score": 4618
+    "score": 4618,
+    "globalRank": 2066
   },
   {
     "login": "ktoso",
@@ -949,7 +1016,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 68,
-    "score": 3280
+    "score": 3280,
+    "globalRank": 2077
   },
   {
     "login": "hsbt",
@@ -963,7 +1031,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 69,
-    "score": 9680
+    "score": 9680,
+    "globalRank": 2095
   },
   {
     "login": "seratch",
@@ -977,7 +1046,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 70,
-    "score": 7077
+    "score": 7077,
+    "globalRank": 2154
   },
   {
     "login": "hrsh7th",
@@ -991,7 +1061,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 71,
-    "score": 4814
+    "score": 4814,
+    "globalRank": 2164
   },
   {
     "login": "kazuho",
@@ -1005,7 +1076,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 72,
-    "score": 3169
+    "score": 3169,
+    "globalRank": 2167
   },
   {
     "login": "chomado",
@@ -1019,7 +1091,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 73,
-    "score": 1651
+    "score": 1651,
+    "globalRank": 2188
   },
   {
     "login": "ikeay",
@@ -1033,7 +1106,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 74,
-    "score": 1756
+    "score": 1756,
+    "globalRank": 2249
   },
   {
     "login": "TimOliver",
@@ -1047,7 +1121,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 75,
-    "score": 5285
+    "score": 5285,
+    "globalRank": 2330
   },
   {
     "login": "JohnTitor",
@@ -1061,7 +1136,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 76,
-    "score": 6462
+    "score": 6462,
+    "globalRank": 2340
   },
   {
     "login": "Hironsan",
@@ -1075,7 +1151,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 77,
-    "score": 1701
+    "score": 1701,
+    "globalRank": 2380
   },
   {
     "login": "TapXWorld",
@@ -1089,7 +1166,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 78,
-    "score": 1565
+    "score": 1565,
+    "globalRank": 2403
   },
   {
     "login": "i-saint",
@@ -1103,7 +1181,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 79,
-    "score": 1723
+    "score": 1723,
+    "globalRank": 2409
   },
   {
     "login": "sapphi-red",
@@ -1117,7 +1196,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 80,
-    "score": 10271
+    "score": 10271,
+    "globalRank": 2425
   },
   {
     "login": "hoochanlon",
@@ -1131,7 +1211,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 81,
-    "score": 4279
+    "score": 4279,
+    "globalRank": 2478
   },
   {
     "login": "mattatz",
@@ -1145,7 +1226,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 82,
-    "score": 7662
+    "score": 7662,
+    "globalRank": 2537
   },
   {
     "login": "twada",
@@ -1159,7 +1241,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 83,
-    "score": 2585
+    "score": 2585,
+    "globalRank": 2571
   },
   {
     "login": "planetchili",
@@ -1173,7 +1256,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 84,
-    "score": 2141
+    "score": 2141,
+    "globalRank": 2612
   },
   {
     "login": "hecomi",
@@ -1187,7 +1271,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 85,
-    "score": 1824
+    "score": 1824,
+    "globalRank": 2645
   },
   {
     "login": "wass08",
@@ -1201,7 +1286,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 86,
-    "score": 2465
+    "score": 2465,
+    "globalRank": 2698
   },
   {
     "login": "baku89",
@@ -1215,7 +1301,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 87,
-    "score": 5206
+    "score": 5206,
+    "globalRank": 2741
   },
   {
     "login": "Desgard",
@@ -1229,7 +1316,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 88,
-    "score": 1313
+    "score": 1313,
+    "globalRank": 2765
   },
   {
     "login": "SachaG",
@@ -1243,7 +1331,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 89,
-    "score": 2105
+    "score": 2105,
+    "globalRank": 2767
   },
   {
     "login": "ykob",
@@ -1257,7 +1346,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 90,
-    "score": 2029
+    "score": 2029,
+    "globalRank": 2772
   },
   {
     "login": "glassesfactory",
@@ -1271,7 +1361,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 91,
-    "score": 4502
+    "score": 4502,
+    "globalRank": 2876
   },
   {
     "login": "thagikura",
@@ -1285,7 +1376,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 92,
-    "score": 3524
+    "score": 3524,
+    "globalRank": 2930
   },
   {
     "login": "mcgoon",
@@ -1299,7 +1391,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 93,
-    "score": 3276
+    "score": 3276,
+    "globalRank": 2937
   },
   {
     "login": "itchyny",
@@ -1313,7 +1406,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 94,
-    "score": 2847
+    "score": 2847,
+    "globalRank": 2940
   },
   {
     "login": "mumoshu",
@@ -1327,7 +1421,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 95,
-    "score": 4163
+    "score": 4163,
+    "globalRank": 2943
   },
   {
     "login": "naoya",
@@ -1341,7 +1436,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 96,
-    "score": 2577
+    "score": 2577,
+    "globalRank": 2970
   },
   {
     "login": "mono0926",
@@ -1355,7 +1451,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 97,
-    "score": 3185
+    "score": 3185,
+    "globalRank": 3034
   },
   {
     "login": "ko1",
@@ -1369,7 +1466,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 98,
-    "score": 5469
+    "score": 5469,
+    "globalRank": 3081
   },
   {
     "login": "tatsuhiro-t",
@@ -1383,7 +1481,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 99,
-    "score": 4125
+    "score": 4125,
+    "globalRank": 3112
   },
   {
     "login": "syuilo",
@@ -1397,7 +1496,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 100,
-    "score": 2961
+    "score": 2961,
+    "globalRank": 3141
   },
   {
     "login": "mysticatea",
@@ -1411,7 +1511,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 101,
-    "score": 1187
+    "score": 1187,
+    "globalRank": 3235
   },
   {
     "login": "Kaixhin",
@@ -1425,7 +1526,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 102,
-    "score": 2415
+    "score": 2415,
+    "globalRank": 3243
   },
   {
     "login": "matchai",
@@ -1439,7 +1541,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 103,
-    "score": 3657
+    "score": 3657,
+    "globalRank": 3253
   },
   {
     "login": "yuk7",
@@ -1453,7 +1556,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 104,
-    "score": 1305
+    "score": 1305,
+    "globalRank": 3268
   },
   {
     "login": "NicolasDorier",
@@ -1467,7 +1571,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 105,
-    "score": 2273
+    "score": 2273,
+    "globalRank": 3333
   },
   {
     "login": "jamesknelson",
@@ -1481,7 +1586,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 106,
-    "score": 1126
+    "score": 1126,
+    "globalRank": 3373
   },
   {
     "login": "dsh0416",
@@ -1495,7 +1601,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 107,
-    "score": 2037
+    "score": 2037,
+    "globalRank": 3401
   },
   {
     "login": "sumimakito",
@@ -1509,7 +1616,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 108,
-    "score": 2679
+    "score": 2679,
+    "globalRank": 3454
   },
   {
     "login": "sureJiang",
@@ -1523,7 +1631,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 109,
-    "score": 1102
+    "score": 1102,
+    "globalRank": 3460
   },
   {
     "login": "ab25cq",
@@ -1537,7 +1646,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 110,
-    "score": 1185
+    "score": 1185,
+    "globalRank": 3497
   },
   {
     "login": "nateberkopec",
@@ -1551,7 +1661,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 111,
-    "score": 8859
+    "score": 8859,
+    "globalRank": 3510
   },
   {
     "login": "jrjohansson",
@@ -1565,7 +1676,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 112,
-    "score": 1079
+    "score": 1079,
+    "globalRank": 3556
   },
   {
     "login": "yoidea",
@@ -1579,7 +1691,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 113,
-    "score": 1115
+    "score": 1115,
+    "globalRank": 3557
   },
   {
     "login": "muukii",
@@ -1593,7 +1706,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 114,
-    "score": 4241
+    "score": 4241,
+    "globalRank": 3574
   },
   {
     "login": "kallydev",
@@ -1607,7 +1721,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 115,
-    "score": 1457
+    "score": 1457,
+    "globalRank": 3578
   },
   {
     "login": "tekezo",
@@ -1621,7 +1736,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 116,
-    "score": 8119
+    "score": 8119,
+    "globalRank": 3619
   },
   {
     "login": "komavideo",
@@ -1635,7 +1751,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 117,
-    "score": 1069
+    "score": 1069,
+    "globalRank": 3662
   },
   {
     "login": "hardfist",
@@ -1649,7 +1766,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 118,
-    "score": 3197
+    "score": 3197,
+    "globalRank": 3693
   },
   {
     "login": "BrambleXu",
@@ -1663,7 +1781,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 119,
-    "score": 1042
+    "score": 1042,
+    "globalRank": 3737
   },
   {
     "login": "nobu",
@@ -1677,7 +1796,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 120,
-    "score": 4422
+    "score": 4422,
+    "globalRank": 3747
   },
   {
     "login": "tokuhirom",
@@ -1691,7 +1811,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 121,
-    "score": 15962
+    "score": 15962,
+    "globalRank": 3753
   },
   {
     "login": "plouc",
@@ -1705,7 +1826,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 122,
-    "score": 1061
+    "score": 1061,
+    "globalRank": 3754
   },
   {
     "login": "gfx",
@@ -1719,7 +1841,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 123,
-    "score": 5005
+    "score": 5005,
+    "globalRank": 3814
   },
   {
     "login": "kt3k",
@@ -1733,7 +1856,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 124,
-    "score": 3015
+    "score": 3015,
+    "globalRank": 3831
   },
   {
     "login": "kana",
@@ -1747,7 +1871,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 125,
-    "score": 1027
+    "score": 1027,
+    "globalRank": 3854
   },
   {
     "login": "Mikubill",
@@ -1761,7 +1886,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 126,
-    "score": 1712
+    "score": 1712,
+    "globalRank": 3855
   },
   {
     "login": "cambecc",
@@ -1775,7 +1901,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 127,
-    "score": 1993
+    "score": 1993,
+    "globalRank": 3868
   },
   {
     "login": "ra1028",
@@ -1789,7 +1916,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 128,
-    "score": 2644
+    "score": 2644,
+    "globalRank": 3872
   },
   {
     "login": "syoyo",
@@ -1803,7 +1931,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 129,
-    "score": 3168
+    "score": 3168,
+    "globalRank": 3937
   },
   {
     "login": "hiroppy",
@@ -1817,7 +1946,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 130,
-    "score": 4464
+    "score": 4464,
+    "globalRank": 3976
   },
   {
     "login": "bokuweb",
@@ -1831,7 +1961,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 131,
-    "score": 12770
+    "score": 12770,
+    "globalRank": 3984
   },
   {
     "login": "catnose99",
@@ -1845,7 +1976,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 132,
-    "score": 6745
+    "score": 6745,
+    "globalRank": 4006
   },
   {
     "login": "sorah",
@@ -1859,7 +1991,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 133,
-    "score": 5319
+    "score": 5319,
+    "globalRank": 4043
   },
   {
     "login": "taiki-e",
@@ -1873,7 +2006,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 134,
-    "score": 8670
+    "score": 8670,
+    "globalRank": 4054
   },
   {
     "login": "takahirom",
@@ -1887,7 +2021,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 135,
-    "score": 8321
+    "score": 8321,
+    "globalRank": 4103
   },
   {
     "login": "ryo-ma",
@@ -1901,7 +2036,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 136,
-    "score": 1234
+    "score": 1234,
+    "globalRank": 4139
   },
   {
     "login": "smorimoto",
@@ -1915,7 +2051,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 137,
-    "score": 4032
+    "score": 4032,
+    "globalRank": 4156
   },
   {
     "login": "Lyche6666",
@@ -1929,7 +2066,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 138,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 4195
   },
   {
     "login": "lestrrat",
@@ -1943,7 +2081,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 139,
-    "score": 6254
+    "score": 6254,
+    "globalRank": 4371
   },
   {
     "login": "haya14busa",
@@ -1957,7 +2096,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 140,
-    "score": 3616
+    "score": 3616,
+    "globalRank": 4487
   },
   {
     "login": "r7kamura",
@@ -1971,7 +2111,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 141,
-    "score": 2789
+    "score": 2789,
+    "globalRank": 4525
   },
   {
     "login": "Phineas",
@@ -1985,7 +2126,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 142,
-    "score": 1649
+    "score": 1649,
+    "globalRank": 4546
   },
   {
     "login": "making",
@@ -1999,7 +2141,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 143,
-    "score": 4045
+    "score": 4045,
+    "globalRank": 4553
   },
   {
     "login": "kiaking",
@@ -2013,7 +2156,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 144,
-    "score": 2831
+    "score": 2831,
+    "globalRank": 4567
   },
   {
     "login": "vvakame",
@@ -2027,7 +2171,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 145,
-    "score": 8353
+    "score": 8353,
+    "globalRank": 4636
   },
   {
     "login": "dnobori",
@@ -2041,7 +2186,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 146,
-    "score": 892
+    "score": 892,
+    "globalRank": 4657
   },
   {
     "login": "nuta",
@@ -2055,7 +2201,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 147,
-    "score": 1442
+    "score": 1442,
+    "globalRank": 4681
   },
   {
     "login": "RobertTLange",
@@ -2069,7 +2216,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 148,
-    "score": 5506
+    "score": 5506,
+    "globalRank": 4734
   },
   {
     "login": "xuwei-k",
@@ -2083,7 +2231,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 149,
-    "score": 9568
+    "score": 9568,
+    "globalRank": 4735
   },
   {
     "login": "franciscop",
@@ -2097,7 +2246,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 150,
-    "score": 1327
+    "score": 1327,
+    "globalRank": 4762
   },
   {
     "login": "ishkawa",
@@ -2111,7 +2261,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 151,
-    "score": 855
+    "score": 855,
+    "globalRank": 4816
   },
   {
     "login": "tatsuyafujisaki",
@@ -2125,7 +2276,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 152,
-    "score": 2177
+    "score": 2177,
+    "globalRank": 4831
   },
   {
     "login": "masuidrive",
@@ -2139,7 +2291,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 153,
-    "score": 5246
+    "score": 5246,
+    "globalRank": 4835
   },
   {
     "login": "ogaclejapan",
@@ -2153,7 +2306,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 154,
-    "score": 6441
+    "score": 6441,
+    "globalRank": 4844
   },
   {
     "login": "pmq20",
@@ -2167,7 +2321,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 155,
-    "score": 4566
+    "score": 4566,
+    "globalRank": 4856
   },
   {
     "login": "kamipo",
@@ -2181,7 +2336,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 156,
-    "score": 3787
+    "score": 3787,
+    "globalRank": 4868
   },
   {
     "login": "veryyoung",
@@ -2195,7 +2351,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 157,
-    "score": 844
+    "score": 844,
+    "globalRank": 4874
   },
   {
     "login": "deepak1556",
@@ -2209,7 +2366,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 158,
-    "score": 2741
+    "score": 2741,
+    "globalRank": 4879
   },
   {
     "login": "takahirox",
@@ -2223,7 +2381,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 159,
-    "score": 1740
+    "score": 1740,
+    "globalRank": 4880
   },
   {
     "login": "yhatt",
@@ -2237,7 +2396,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 160,
-    "score": 4088
+    "score": 4088,
+    "globalRank": 4892
   },
   {
     "login": "agektmr",
@@ -2251,7 +2411,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 161,
-    "score": 1488
+    "score": 1488,
+    "globalRank": 5014
   },
   {
     "login": "breezewish",
@@ -2265,7 +2426,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 162,
-    "score": 5871
+    "score": 5871,
+    "globalRank": 5031
   },
   {
     "login": "lambdalisue",
@@ -2279,7 +2441,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 163,
-    "score": 8983
+    "score": 8983,
+    "globalRank": 5046
   },
   {
     "login": "yugui",
@@ -2293,7 +2456,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 164,
-    "score": 1140
+    "score": 1140,
+    "globalRank": 5066
   },
   {
     "login": "foostan",
@@ -2307,7 +2471,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 165,
-    "score": 1151
+    "score": 1151,
+    "globalRank": 5067
   },
   {
     "login": "Saul-Mirone",
@@ -2321,7 +2486,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 166,
-    "score": 3320
+    "score": 3320,
+    "globalRank": 5078
   },
   {
     "login": "hotchemi",
@@ -2335,7 +2501,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 167,
-    "score": 1452
+    "score": 1452,
+    "globalRank": 5113
   },
   {
     "login": "maekawatoshiki",
@@ -2349,7 +2516,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 168,
-    "score": 1703
+    "score": 1703,
+    "globalRank": 5124
   },
   {
     "login": "minsle",
@@ -2363,7 +2531,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 169,
-    "score": 806
+    "score": 806,
+    "globalRank": 5169
   },
   {
     "login": "sigma7863",
@@ -2377,7 +2546,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 170,
-    "score": 3710
+    "score": 3710,
+    "globalRank": 5210
   },
   {
     "login": "Him188",
@@ -2391,7 +2561,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 171,
-    "score": 5798
+    "score": 5798,
+    "globalRank": 5216
   },
   {
     "login": "mashharuki",
@@ -2405,7 +2576,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 172,
-    "score": 3932
+    "score": 3932,
+    "globalRank": 5223
   },
   {
     "login": "tenntenn",
@@ -2419,7 +2591,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 173,
-    "score": 1961
+    "score": 1961,
+    "globalRank": 5243
   },
   {
     "login": "ferris007",
@@ -2433,7 +2606,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 174,
-    "score": 2264
+    "score": 2264,
+    "globalRank": 5273
   },
   {
     "login": "syohex",
@@ -2447,7 +2621,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 175,
-    "score": 2241
+    "score": 2241,
+    "globalRank": 5285
   },
   {
     "login": "cbracken",
@@ -2461,7 +2636,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 176,
-    "score": 1026
+    "score": 1026,
+    "globalRank": 5293
   },
   {
     "login": "marty-suzuki",
@@ -2475,7 +2651,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 177,
-    "score": 3798
+    "score": 3798,
+    "globalRank": 5294
   },
   {
     "login": "goccy",
@@ -2489,7 +2666,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 178,
-    "score": 2089
+    "score": 2089,
+    "globalRank": 5303
   },
   {
     "login": "miurla",
@@ -2503,7 +2681,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 179,
-    "score": 1815
+    "score": 1815,
+    "globalRank": 5308
   },
   {
     "login": "nagix",
@@ -2517,7 +2696,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 180,
-    "score": 1006
+    "score": 1006,
+    "globalRank": 5309
   },
   {
     "login": "tanaikech",
@@ -2531,7 +2711,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 181,
-    "score": 1855
+    "score": 1855,
+    "globalRank": 5351
   },
   {
     "login": "zchee",
@@ -2545,7 +2726,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 182,
-    "score": 4635
+    "score": 4635,
+    "globalRank": 5409
   },
   {
     "login": "motemen",
@@ -2559,7 +2741,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 183,
-    "score": 3965
+    "score": 3965,
+    "globalRank": 5438
   },
   {
     "login": "sideshowbarker",
@@ -2573,7 +2756,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 184,
-    "score": 2693
+    "score": 2693,
+    "globalRank": 5445
   },
   {
     "login": "Kazuhito00",
@@ -2587,7 +2771,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 185,
-    "score": 3447
+    "score": 3447,
+    "globalRank": 5462
   },
   {
     "login": "tachibanana",
@@ -2601,7 +2786,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 186,
-    "score": 766
+    "score": 766,
+    "globalRank": 5469
   },
   {
     "login": "koute",
@@ -2615,7 +2801,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 187,
-    "score": 1210
+    "score": 1210,
+    "globalRank": 5484
   },
   {
     "login": "yusugomori",
@@ -2629,7 +2816,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 188,
-    "score": 808
+    "score": 808,
+    "globalRank": 5495
   },
   {
     "login": "methane",
@@ -2643,7 +2831,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 189,
-    "score": 978
+    "score": 978,
+    "globalRank": 5496
   },
   {
     "login": "farseerfc",
@@ -2657,7 +2846,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 190,
-    "score": 771
+    "score": 771,
+    "globalRank": 5509
   },
   {
     "login": "ota-meshi",
@@ -2671,7 +2861,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 191,
-    "score": 2618
+    "score": 2618,
+    "globalRank": 5528
   },
   {
     "login": "cocopon",
@@ -2685,7 +2876,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 192,
-    "score": 2322
+    "score": 2322,
+    "globalRank": 5559
   },
   {
     "login": "tcnksm",
@@ -2699,7 +2891,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 193,
-    "score": 983
+    "score": 983,
+    "globalRank": 5604
   },
   {
     "login": "andrewmd5",
@@ -2713,7 +2906,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 194,
-    "score": 1733
+    "score": 1733,
+    "globalRank": 5624
   },
   {
     "login": "watilde",
@@ -2727,7 +2921,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 195,
-    "score": 3322
+    "score": 3322,
+    "globalRank": 5647
   },
   {
     "login": "hewigovens",
@@ -2741,7 +2936,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 196,
-    "score": 1740
+    "score": 1740,
+    "globalRank": 5648
   },
   {
     "login": "ashchan",
@@ -2755,7 +2951,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 197,
-    "score": 1679
+    "score": 1679,
+    "globalRank": 5664
   },
   {
     "login": "satoruhiga",
@@ -2769,7 +2966,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 198,
-    "score": 3376
+    "score": 3376,
+    "globalRank": 5688
   },
   {
     "login": "tomojitakasu",
@@ -2783,7 +2981,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 199,
-    "score": 1005
+    "score": 1005,
+    "globalRank": 5696
   },
   {
     "login": "skanehira",
@@ -2797,7 +2996,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 200,
-    "score": 2595
+    "score": 2595,
+    "globalRank": 5697
   },
   {
     "login": "kitao",
@@ -2811,7 +3011,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 201,
-    "score": 2861
+    "score": 2861,
+    "globalRank": 5710
   },
   {
     "login": "k1LoW",
@@ -2825,7 +3026,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 202,
-    "score": 7469
+    "score": 7469,
+    "globalRank": 5721
   },
   {
     "login": "c-bata",
@@ -2839,7 +3041,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 203,
-    "score": 3725
+    "score": 3725,
+    "globalRank": 5746
   },
   {
     "login": "norbusan",
@@ -2853,7 +3056,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 204,
-    "score": 3601
+    "score": 3601,
+    "globalRank": 5804
   },
   {
     "login": "codeninja819",
@@ -2867,7 +3071,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 205,
-    "score": 729
+    "score": 729,
+    "globalRank": 5805
   },
   {
     "login": "babarot",
@@ -2881,7 +3086,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 206,
-    "score": 14823
+    "score": 14823,
+    "globalRank": 5822
   },
   {
     "login": "shanzi",
@@ -2895,7 +3101,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 207,
-    "score": 733
+    "score": 733,
+    "globalRank": 5832
   },
   {
     "login": "junnplus",
@@ -2909,7 +3116,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 208,
-    "score": 755
+    "score": 755,
+    "globalRank": 5837
   },
   {
     "login": "bytatsu0302",
@@ -2923,7 +3131,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 209,
-    "score": 718
+    "score": 718,
+    "globalRank": 5855
   },
   {
     "login": "humiaozuzu",
@@ -2937,7 +3146,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 210,
-    "score": 712
+    "score": 712,
+    "globalRank": 5915
   },
   {
     "login": "waylandzhang",
@@ -2951,7 +3161,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 211,
-    "score": 6077
+    "score": 6077,
+    "globalRank": 5942
   },
   {
     "login": "whitphx",
@@ -2965,7 +3176,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 212,
-    "score": 3856
+    "score": 3856,
+    "globalRank": 5951
   },
   {
     "login": "archseer",
@@ -2979,7 +3191,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 213,
-    "score": 1259
+    "score": 1259,
+    "globalRank": 5966
   },
   {
     "login": "potato4d",
@@ -2993,7 +3206,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 214,
-    "score": 1894
+    "score": 1894,
+    "globalRank": 5967
   },
   {
     "login": "yuiseki",
@@ -3007,7 +3221,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 215,
-    "score": 21611
+    "score": 21611,
+    "globalRank": 5983
   },
   {
     "login": "Jessidhia",
@@ -3021,7 +3236,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 216,
-    "score": 722
+    "score": 722,
+    "globalRank": 5992
   },
   {
     "login": "lacolaco",
@@ -3035,7 +3251,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 217,
-    "score": 5050
+    "score": 5050,
+    "globalRank": 6029
   },
   {
     "login": "tado",
@@ -3049,7 +3266,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 218,
-    "score": 1366
+    "score": 1366,
+    "globalRank": 6030
   },
   {
     "login": "kittinunf",
@@ -3063,7 +3281,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 219,
-    "score": 1830
+    "score": 1830,
+    "globalRank": 6042
   },
   {
     "login": "xerpi",
@@ -3077,7 +3296,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 220,
-    "score": 2550
+    "score": 2550,
+    "globalRank": 6081
   },
   {
     "login": "mohayonao",
@@ -3091,7 +3311,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 221,
-    "score": 685
+    "score": 685,
+    "globalRank": 6152
   },
   {
     "login": "rmackay9",
@@ -3105,7 +3326,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 222,
-    "score": 1987
+    "score": 1987,
+    "globalRank": 6153
   },
   {
     "login": "mrkn",
@@ -3119,7 +3341,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 223,
-    "score": 1257
+    "score": 1257,
+    "globalRank": 6193
   },
   {
     "login": "junkiyoshi",
@@ -3133,7 +3356,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 224,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 6220
   },
   {
     "login": "gera2ld",
@@ -3147,7 +3371,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 225,
-    "score": 915
+    "score": 915,
+    "globalRank": 6230
   },
   {
     "login": "hez2010",
@@ -3161,7 +3386,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 226,
-    "score": 964
+    "score": 964,
+    "globalRank": 6252
   },
   {
     "login": "croath",
@@ -3175,7 +3401,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 227,
-    "score": 851
+    "score": 851,
+    "globalRank": 6282
   },
   {
     "login": "cjwirth",
@@ -3189,7 +3416,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 228,
-    "score": 984
+    "score": 984,
+    "globalRank": 6322
   },
   {
     "login": "rsasaki0109",
@@ -3203,7 +3431,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 229,
-    "score": 11135
+    "score": 11135,
+    "globalRank": 6362
   },
   {
     "login": "giginet",
@@ -3217,7 +3446,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 230,
-    "score": 2114
+    "score": 2114,
+    "globalRank": 6384
   },
   {
     "login": "fulmicoton",
@@ -3231,7 +3461,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 231,
-    "score": 944
+    "score": 944,
+    "globalRank": 6385
   },
   {
     "login": "koba04",
@@ -3245,7 +3476,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 232,
-    "score": 660
+    "score": 660,
+    "globalRank": 6398
   },
   {
     "login": "yutkat",
@@ -3259,7 +3491,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 233,
-    "score": 3424
+    "score": 3424,
+    "globalRank": 6399
   },
   {
     "login": "leemengtw",
@@ -3273,7 +3506,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 234,
-    "score": 3647
+    "score": 3647,
+    "globalRank": 6413
   },
   {
     "login": "ikesyo",
@@ -3287,7 +3521,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 235,
-    "score": 780
+    "score": 780,
+    "globalRank": 6432
   },
   {
     "login": "sugyan",
@@ -3301,7 +3536,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 236,
-    "score": 2361
+    "score": 2361,
+    "globalRank": 6467
   },
   {
     "login": "houko",
@@ -3315,7 +3551,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 237,
-    "score": 19263
+    "score": 19263,
+    "globalRank": 6476
   },
   {
     "login": "cho45",
@@ -3329,7 +3566,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 238,
-    "score": 2498
+    "score": 2498,
+    "globalRank": 6490
   },
   {
     "login": "yyuu",
@@ -3343,7 +3581,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 239,
-    "score": 2606
+    "score": 2606,
+    "globalRank": 6521
   },
   {
     "login": "mayuki",
@@ -3357,7 +3596,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 240,
-    "score": 3413
+    "score": 3413,
+    "globalRank": 6544
   },
   {
     "login": "tmk",
@@ -3371,7 +3611,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 241,
-    "score": 661
+    "score": 661,
+    "globalRank": 6555
   },
   {
     "login": "Songmu",
@@ -3385,7 +3626,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 242,
-    "score": 18972
+    "score": 18972,
+    "globalRank": 6650
   },
   {
     "login": "omasanori",
@@ -3399,7 +3641,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 243,
-    "score": 1427
+    "score": 1427,
+    "globalRank": 6697
   },
   {
     "login": "cj1128",
@@ -3413,7 +3656,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 244,
-    "score": 635
+    "score": 635,
+    "globalRank": 6748
   },
   {
     "login": "ksoichiro",
@@ -3427,7 +3671,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 245,
-    "score": 4841
+    "score": 4841,
+    "globalRank": 6771
   },
   {
     "login": "yusuke",
@@ -3441,7 +3686,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 246,
-    "score": 1802
+    "score": 1802,
+    "globalRank": 6785
   },
   {
     "login": "uhyo",
@@ -3455,7 +3701,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 247,
-    "score": 1607
+    "score": 1607,
+    "globalRank": 6786
   },
   {
     "login": "peaceiris",
@@ -3469,7 +3716,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 248,
-    "score": 4950
+    "score": 4950,
+    "globalRank": 6856
   },
   {
     "login": "hadashiA",
@@ -3483,7 +3731,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 249,
-    "score": 1558
+    "score": 1558,
+    "globalRank": 6864
   },
   {
     "login": "nghialv",
@@ -3497,7 +3746,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 250,
-    "score": 4027
+    "score": 4027,
+    "globalRank": 6872
   },
   {
     "login": "jfbastien",
@@ -3511,7 +3761,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 251,
-    "score": 5229
+    "score": 5229,
+    "globalRank": 6906
   },
   {
     "login": "baba-s",
@@ -3525,7 +3776,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 252,
-    "score": 23203
+    "score": 23203,
+    "globalRank": 6907
   },
   {
     "login": "84d010m08",
@@ -3539,7 +3791,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 253,
-    "score": 628
+    "score": 628,
+    "globalRank": 6921
   },
   {
     "login": "soda-x",
@@ -3553,7 +3806,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 254,
-    "score": 642
+    "score": 642,
+    "globalRank": 6936
   },
   {
     "login": "mayocream",
@@ -3567,7 +3821,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 255,
-    "score": 2075
+    "score": 2075,
+    "globalRank": 6937
   },
   {
     "login": "kou",
@@ -3581,7 +3836,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 256,
-    "score": 5111
+    "score": 5111,
+    "globalRank": 6949
   },
   {
     "login": "1000ch",
@@ -3595,7 +3851,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 257,
-    "score": 1636
+    "score": 1636,
+    "globalRank": 6966
   },
   {
     "login": "daitomanabe",
@@ -3609,7 +3866,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 258,
-    "score": 3111
+    "score": 3111,
+    "globalRank": 6967
   },
   {
     "login": "evi1m0",
@@ -3623,7 +3881,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 259,
-    "score": 622
+    "score": 622,
+    "globalRank": 6992
   },
   {
     "login": "cournape",
@@ -3637,7 +3896,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 260,
-    "score": 879
+    "score": 879,
+    "globalRank": 7002
   },
   {
     "login": "icoxfog417",
@@ -3651,7 +3911,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 261,
-    "score": 1688
+    "score": 1688,
+    "globalRank": 7021
   },
   {
     "login": "huydx",
@@ -3665,7 +3926,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 262,
-    "score": 1429
+    "score": 1429,
+    "globalRank": 7041
   },
   {
     "login": "lovyan03",
@@ -3679,7 +3941,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 263,
-    "score": 1203
+    "score": 1203,
+    "globalRank": 7054
   },
   {
     "login": "RenaudRohlinger",
@@ -3693,7 +3956,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 264,
-    "score": 2019
+    "score": 2019,
+    "globalRank": 7100
   },
   {
     "login": "mehrankmlf",
@@ -3707,7 +3971,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 265,
-    "score": 597
+    "score": 597,
+    "globalRank": 7101
   },
   {
     "login": "Jxck",
@@ -3721,7 +3986,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 266,
-    "score": 1526
+    "score": 1526,
+    "globalRank": 7157
   },
   {
     "login": "proppy",
@@ -3735,7 +4001,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 267,
-    "score": 849
+    "score": 849,
+    "globalRank": 7191
   },
   {
     "login": "yomotsu",
@@ -3749,7 +4016,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 268,
-    "score": 1872
+    "score": 1872,
+    "globalRank": 7202
   },
   {
     "login": "shaoanlu",
@@ -3763,7 +4031,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 269,
-    "score": 660
+    "score": 660,
+    "globalRank": 7214
   },
   {
     "login": "mizzy",
@@ -3777,7 +4046,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 270,
-    "score": 15129
+    "score": 15129,
+    "globalRank": 7226
   },
   {
     "login": "fosskers",
@@ -3791,7 +4061,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 271,
-    "score": 3001
+    "score": 3001,
+    "globalRank": 7233
   },
   {
     "login": "shirakaba",
@@ -3805,7 +4076,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 272,
-    "score": 3934
+    "score": 3934,
+    "globalRank": 7234
   },
   {
     "login": "kazu-yamamoto",
@@ -3819,7 +4091,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 273,
-    "score": 1637
+    "score": 1637,
+    "globalRank": 7245
   },
   {
     "login": "qingfeng",
@@ -3833,7 +4106,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 274,
-    "score": 2140
+    "score": 2140,
+    "globalRank": 7260
   },
   {
     "login": "kenkoooo",
@@ -3847,7 +4121,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 275,
-    "score": 770
+    "score": 770,
+    "globalRank": 7288
   },
   {
     "login": "AstroLogics",
@@ -3861,7 +4136,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 276,
-    "score": 578
+    "score": 578,
+    "globalRank": 7338
   },
   {
     "login": "suzuki-shunsuke",
@@ -3875,7 +4151,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 277,
-    "score": 12229
+    "score": 12229,
+    "globalRank": 7370
   },
   {
     "login": "yuin",
@@ -3889,7 +4166,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 278,
-    "score": 731
+    "score": 731,
+    "globalRank": 7386
   },
   {
     "login": "nuskey8",
@@ -3903,7 +4181,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 279,
-    "score": 2680
+    "score": 2680,
+    "globalRank": 7387
   },
   {
     "login": "yosuke-furukawa",
@@ -3917,7 +4196,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 280,
-    "score": 1394
+    "score": 1394,
+    "globalRank": 7406
   },
   {
     "login": "k-takeuchi220",
@@ -3931,7 +4211,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 281,
-    "score": 9115
+    "score": 9115,
+    "globalRank": 7434
   },
   {
     "login": "ai03-2725",
@@ -3945,7 +4226,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 282,
-    "score": 788
+    "score": 788,
+    "globalRank": 7464
   },
   {
     "login": "konifar",
@@ -3959,7 +4241,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 283,
-    "score": 1332
+    "score": 1332,
+    "globalRank": 7491
   },
   {
     "login": "tigercosmos",
@@ -3973,7 +4256,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 284,
-    "score": 2548
+    "score": 2548,
+    "globalRank": 7547
   },
   {
     "login": "mpyw",
@@ -3987,7 +4271,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 285,
-    "score": 3913
+    "score": 3913,
+    "globalRank": 7556
   },
   {
     "login": "hiyohiyo",
@@ -4001,7 +4286,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 286,
-    "score": 591
+    "score": 591,
+    "globalRank": 7557
   },
   {
     "login": "BcRikko",
@@ -4015,7 +4301,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 287,
-    "score": 878
+    "score": 878,
+    "globalRank": 7579
   },
   {
     "login": "agibsonccc",
@@ -4029,7 +4316,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 288,
-    "score": 748
+    "score": 748,
+    "globalRank": 7580
   },
   {
     "login": "yuki24",
@@ -4043,7 +4331,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 289,
-    "score": 607
+    "score": 607,
+    "globalRank": 7592
   },
   {
     "login": "koxudaxi",
@@ -4057,7 +4346,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 290,
-    "score": 3700
+    "score": 3700,
+    "globalRank": 7593
   },
   {
     "login": "mio-dokuhaki",
@@ -4071,7 +4361,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 291,
-    "score": 595
+    "score": 595,
+    "globalRank": 7605
   },
   {
     "login": "kakutani",
@@ -4085,7 +4376,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 292,
-    "score": 1294
+    "score": 1294,
+    "globalRank": 7621
   },
   {
     "login": "kenjis",
@@ -4099,7 +4391,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 293,
-    "score": 553
+    "score": 553,
+    "globalRank": 7637
   },
   {
     "login": "toastkidjp",
@@ -4113,7 +4406,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 294,
-    "score": 4262
+    "score": 4262,
+    "globalRank": 7638
   },
   {
     "login": "yutannihilation",
@@ -4127,7 +4421,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 295,
-    "score": 2445
+    "score": 2445,
+    "globalRank": 7639
   },
   {
     "login": "shirou",
@@ -4141,7 +4436,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 296,
-    "score": 2340
+    "score": 2340,
+    "globalRank": 7659
   },
   {
     "login": "TakuSemba",
@@ -4155,7 +4451,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 297,
-    "score": 5489
+    "score": 5489,
+    "globalRank": 7670
   },
   {
     "login": "shimat",
@@ -4169,7 +4466,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 298,
-    "score": 1008
+    "score": 1008,
+    "globalRank": 7686
   },
   {
     "login": "ninoseki",
@@ -4183,7 +4481,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 299,
-    "score": 3232
+    "score": 3232,
+    "globalRank": 7687
   },
   {
     "login": "kentaro",
@@ -4197,7 +4496,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 300,
-    "score": 2557
+    "score": 2557,
+    "globalRank": 7731
   },
   {
     "login": "h6ah4i",
@@ -4211,7 +4511,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 301,
-    "score": 3696
+    "score": 3696,
+    "globalRank": 7732
   },
   {
     "login": "shinh",
@@ -4225,7 +4526,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 302,
-    "score": 18888
+    "score": 18888,
+    "globalRank": 7733
   },
   {
     "login": "repeatedly",
@@ -4239,7 +4541,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 303,
-    "score": 1878
+    "score": 1878,
+    "globalRank": 7759
   },
   {
     "login": "coliff",
@@ -4253,7 +4556,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 304,
-    "score": 11824
+    "score": 11824,
+    "globalRank": 7760
   },
   {
     "login": "13o-bbr-bbq",
@@ -4267,7 +4571,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 305,
-    "score": 751
+    "score": 751,
+    "globalRank": 7784
   },
   {
     "login": "kananinirav",
@@ -4281,7 +4586,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 306,
-    "score": 1015
+    "score": 1015,
+    "globalRank": 7807
   },
   {
     "login": "ibaiGorordo",
@@ -4295,7 +4601,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 307,
-    "score": 1858
+    "score": 1858,
+    "globalRank": 7831
   },
   {
     "login": "Quramy",
@@ -4309,7 +4616,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 308,
-    "score": 1078
+    "score": 1078,
+    "globalRank": 7857
   },
   {
     "login": "hotchpotch",
@@ -4323,7 +4631,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 309,
-    "score": 5078
+    "score": 5078,
+    "globalRank": 7871
   },
   {
     "login": "bobbens",
@@ -4337,7 +4646,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 310,
-    "score": 4725
+    "score": 4725,
+    "globalRank": 7901
   },
   {
     "login": "Hiroshiba",
@@ -4351,7 +4661,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 311,
-    "score": 5761
+    "score": 5761,
+    "globalRank": 7902
   },
   {
     "login": "shuiRong",
@@ -4365,7 +4676,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 312,
-    "score": 3201
+    "score": 3201,
+    "globalRank": 7931
   },
   {
     "login": "try0",
@@ -4379,7 +4691,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 313,
-    "score": 896
+    "score": 896,
+    "globalRank": 7952
   },
   {
     "login": "noborus",
@@ -4393,7 +4706,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 314,
-    "score": 2141
+    "score": 2141,
+    "globalRank": 7976
   },
   {
     "login": "knu",
@@ -4407,7 +4721,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 315,
-    "score": 2923
+    "score": 2923,
+    "globalRank": 7977
   },
   {
     "login": "tyru",
@@ -4421,7 +4736,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 316,
-    "score": 1238
+    "score": 1238,
+    "globalRank": 7978
   },
   {
     "login": "penk",
@@ -4435,7 +4751,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 317,
-    "score": 545
+    "score": 545,
+    "globalRank": 7989
   },
   {
     "login": "dreamhunter2333",
@@ -4449,7 +4766,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 318,
-    "score": 1950
+    "score": 1950,
+    "globalRank": 7990
   },
   {
     "login": "sheepla",
@@ -4463,7 +4781,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 319,
-    "score": 667
+    "score": 667,
+    "globalRank": 8021
   },
   {
     "login": "mooz",
@@ -4477,7 +4796,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 320,
-    "score": 552
+    "score": 552,
+    "globalRank": 8065
   },
   {
     "login": "1024jp",
@@ -4491,7 +4811,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 321,
-    "score": 3286
+    "score": 3286,
+    "globalRank": 8081
   },
   {
     "login": "rigaya",
@@ -4505,7 +4826,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 322,
-    "score": 1897
+    "score": 1897,
+    "globalRank": 8131
   },
   {
     "login": "heestand-xyz",
@@ -4519,7 +4841,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 323,
-    "score": 3411
+    "score": 3411,
+    "globalRank": 8185
   },
   {
     "login": "KOBA789",
@@ -4533,7 +4856,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 324,
-    "score": 2785
+    "score": 2785,
+    "globalRank": 8205
   },
   {
     "login": "nakabonne",
@@ -4547,7 +4871,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 325,
-    "score": 2511
+    "score": 2511,
+    "globalRank": 8219
   },
   {
     "login": "kissy24",
@@ -4561,7 +4886,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 326,
-    "score": 1181
+    "score": 1181,
+    "globalRank": 8241
   },
   {
     "login": "kmizu",
@@ -4575,7 +4901,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 327,
-    "score": 3922
+    "score": 3922,
+    "globalRank": 8242
   },
   {
     "login": "j5ik2o",
@@ -4589,7 +4916,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 328,
-    "score": 15955
+    "score": 15955,
+    "globalRank": 8243
   },
   {
     "login": "KotaroNakashima",
@@ -4603,7 +4931,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 329,
-    "score": 522
+    "score": 522,
+    "globalRank": 8262
   },
   {
     "login": "tanakh",
@@ -4617,7 +4946,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 330,
-    "score": 558
+    "score": 558,
+    "globalRank": 8263
   },
   {
     "login": "koic",
@@ -4631,7 +4961,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 331,
-    "score": 2676
+    "score": 2676,
+    "globalRank": 8359
   },
   {
     "login": "asliddinxanov",
@@ -4645,7 +4976,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 332,
-    "score": 524
+    "score": 524,
+    "globalRank": 8374
   },
   {
     "login": "remirobert",
@@ -4659,7 +4991,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 333,
-    "score": 506
+    "score": 506,
+    "globalRank": 8375
   },
   {
     "login": "siketyan",
@@ -4673,7 +5006,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 334,
-    "score": 13594
+    "score": 13594,
+    "globalRank": 8398
   },
   {
     "login": "gugod",
@@ -4687,7 +5021,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 335,
-    "score": 692
+    "score": 692,
+    "globalRank": 8415
   },
   {
     "login": "ryota-murakami",
@@ -4701,7 +5036,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 336,
-    "score": 9131
+    "score": 9131,
+    "globalRank": 8475
   },
   {
     "login": "homuler",
@@ -4715,7 +5051,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 337,
-    "score": 1593
+    "score": 1593,
+    "globalRank": 8513
   },
   {
     "login": "nobnak",
@@ -4729,7 +5066,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 338,
-    "score": 1648
+    "score": 1648,
+    "globalRank": 8514
   },
   {
     "login": "kaityo256",
@@ -4743,7 +5081,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 339,
-    "score": 2115
+    "score": 2115,
+    "globalRank": 8580
   },
   {
     "login": "yuroyoro",
@@ -4757,7 +5096,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 340,
-    "score": 862
+    "score": 862,
+    "globalRank": 8621
   },
   {
     "login": "jsakamoto",
@@ -4771,7 +5111,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 341,
-    "score": 2195
+    "score": 2195,
+    "globalRank": 8638
   },
   {
     "login": "Ohara124c41",
@@ -4785,7 +5126,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 342,
-    "score": 1136
+    "score": 1136,
+    "globalRank": 8639
   },
   {
     "login": "nwtgck",
@@ -4799,7 +5141,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 343,
-    "score": 1846
+    "score": 1846,
+    "globalRank": 8710
   },
   {
     "login": "hiroharu-kato",
@@ -4813,7 +5156,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 344,
-    "score": 1067
+    "score": 1067,
+    "globalRank": 8747
   },
   {
     "login": "KeenS",
@@ -4827,7 +5171,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 345,
-    "score": 519
+    "score": 519,
+    "globalRank": 8748
   },
   {
     "login": "tagomoris",
@@ -4841,7 +5186,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 346,
-    "score": 617
+    "score": 617,
+    "globalRank": 8749
   },
   {
     "login": "E869120",
@@ -4855,7 +5201,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 347,
-    "score": 715
+    "score": 715,
+    "globalRank": 8764
   },
   {
     "login": "junderw",
@@ -4869,7 +5216,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 348,
-    "score": 691
+    "score": 691,
+    "globalRank": 8787
   },
   {
     "login": "kazunori279",
@@ -4883,7 +5231,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 349,
-    "score": 2170
+    "score": 2170,
+    "globalRank": 8788
   },
   {
     "login": "hannoeru",
@@ -4897,7 +5246,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 350,
-    "score": 1159
+    "score": 1159,
+    "globalRank": 8789
   },
   {
     "login": "kyubuns",
@@ -4911,7 +5261,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 351,
-    "score": 5546
+    "score": 5546,
+    "globalRank": 8790
   },
   {
     "login": "saki4510t",
@@ -4925,7 +5276,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 352,
-    "score": 2221
+    "score": 2221,
+    "globalRank": 8803
   },
   {
     "login": "pocke",
@@ -4939,7 +5291,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 353,
-    "score": 3037
+    "score": 3037,
+    "globalRank": 8842
   },
   {
     "login": "JunichiIto",
@@ -4953,7 +5306,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 354,
-    "score": 737
+    "score": 737,
+    "globalRank": 8885
   },
   {
     "login": "shimodateakira",
@@ -4967,7 +5321,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 355,
-    "score": 482
+    "score": 482,
+    "globalRank": 8903
   },
   {
     "login": "utam0k",
@@ -4981,7 +5336,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 356,
-    "score": 876
+    "score": 876,
+    "globalRank": 8923
   },
   {
     "login": "t-matsudate",
@@ -4995,7 +5351,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 357,
-    "score": 562
+    "score": 562,
+    "globalRank": 8945
   },
   {
     "login": "reindex-ot",
@@ -5009,7 +5366,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 358,
-    "score": 1446
+    "score": 1446,
+    "globalRank": 8975
   },
   {
     "login": "ctgk",
@@ -5023,7 +5381,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 359,
-    "score": 816
+    "score": 816,
+    "globalRank": 8976
   },
   {
     "login": "kyamagu",
@@ -5037,7 +5396,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 360,
-    "score": 2139
+    "score": 2139,
+    "globalRank": 8998
   },
   {
     "login": "sksat",
@@ -5051,7 +5411,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 361,
-    "score": 10288
+    "score": 10288,
+    "globalRank": 9015
   },
   {
     "login": "errir503",
@@ -5065,7 +5426,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 362,
-    "score": 466
+    "score": 466,
+    "globalRank": 9033
   },
   {
     "login": "fujitatomoya",
@@ -5079,7 +5441,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 363,
-    "score": 2846
+    "score": 2846,
+    "globalRank": 9034
   },
   {
     "login": "sile",
@@ -5093,7 +5456,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 364,
-    "score": 11608
+    "score": 11608,
+    "globalRank": 9070
   },
   {
     "login": "syumai",
@@ -5107,7 +5471,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 365,
-    "score": 4718
+    "score": 4718,
+    "globalRank": 9071
   },
   {
     "login": "grace2riku",
@@ -5121,7 +5486,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 366,
-    "score": 1994
+    "score": 1994,
+    "globalRank": 9072
   },
   {
     "login": "sugi-cho",
@@ -5135,7 +5501,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 367,
-    "score": 1665
+    "score": 1665,
+    "globalRank": 9073
   },
   {
     "login": "uniwaydev",
@@ -5149,7 +5516,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 368,
-    "score": 464
+    "score": 464,
+    "globalRank": 9074
   },
   {
     "login": "xeodou",
@@ -5163,7 +5531,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 369,
-    "score": 3480
+    "score": 3480,
+    "globalRank": 9075
   },
   {
     "login": "michaelrambeau",
@@ -5177,7 +5546,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 370,
-    "score": 1593
+    "score": 1593,
+    "globalRank": 9098
   },
   {
     "login": "inokawa",
@@ -5191,7 +5561,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 371,
-    "score": 4728
+    "score": 4728,
+    "globalRank": 9115
   },
   {
     "login": "anshumanv",
@@ -5205,7 +5576,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 372,
-    "score": 1689
+    "score": 1689,
+    "globalRank": 9137
   },
   {
     "login": "wynand1004",
@@ -5219,7 +5591,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 373,
-    "score": 493
+    "score": 493,
+    "globalRank": 9153
   },
   {
     "login": "sonots",
@@ -5233,7 +5606,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 374,
-    "score": 847
+    "score": 847,
+    "globalRank": 9169
   },
   {
     "login": "hi-ogawa",
@@ -5247,7 +5621,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 375,
-    "score": 5622
+    "score": 5622,
+    "globalRank": 9219
   },
   {
     "login": "shyouhei",
@@ -5261,7 +5636,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 376,
-    "score": 2732
+    "score": 2732,
+    "globalRank": 9259
   },
   {
     "login": "abalone0204",
@@ -5275,7 +5651,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 377,
-    "score": 626
+    "score": 626,
+    "globalRank": 9260
   },
   {
     "login": "matthew-andrews",
@@ -5289,7 +5666,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 378,
-    "score": 507
+    "score": 507,
+    "globalRank": 9280
   },
   {
     "login": "RINEARN",
@@ -5303,7 +5681,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 379,
-    "score": 663
+    "score": 663,
+    "globalRank": 9303
   },
   {
     "login": "suzana-ilic",
@@ -5317,7 +5696,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 380,
-    "score": 1077
+    "score": 1077,
+    "globalRank": 9304
   },
   {
     "login": "piroor",
@@ -5331,7 +5711,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 381,
-    "score": 1488
+    "score": 1488,
+    "globalRank": 9305
   },
   {
     "login": "ianlewis",
@@ -5345,7 +5726,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 382,
-    "score": 7358
+    "score": 7358,
+    "globalRank": 9354
   },
   {
     "login": "Naturalclar",
@@ -5359,7 +5741,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 383,
-    "score": 3928
+    "score": 3928,
+    "globalRank": 9430
   },
   {
     "login": "neka-nat",
@@ -5373,7 +5756,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 384,
-    "score": 2615
+    "score": 2615,
+    "globalRank": 9450
   },
   {
     "login": "kaguya0107",
@@ -5387,7 +5771,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 385,
-    "score": 1415
+    "score": 1415,
+    "globalRank": 9475
   },
   {
     "login": "naokishibuya",
@@ -5401,7 +5786,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 386,
-    "score": 697
+    "score": 697,
+    "globalRank": 9541
   },
   {
     "login": "higepon",
@@ -5415,7 +5801,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 387,
-    "score": 442
+    "score": 442,
+    "globalRank": 9563
   },
   {
     "login": "yamadashy",
@@ -5429,7 +5816,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 388,
-    "score": 7836
+    "score": 7836,
+    "globalRank": 9595
   },
   {
     "login": "mala",
@@ -5443,7 +5831,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 389,
-    "score": 441
+    "score": 441,
+    "globalRank": 9596
   },
   {
     "login": "ichitaso",
@@ -5457,7 +5846,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 390,
-    "score": 476
+    "score": 476,
+    "globalRank": 9597
   },
   {
     "login": "kyanny",
@@ -5471,7 +5861,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 391,
-    "score": 1891
+    "score": 1891,
+    "globalRank": 9622
   },
   {
     "login": "hokaccha",
@@ -5485,7 +5876,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 392,
-    "score": 653
+    "score": 653,
+    "globalRank": 9639
   },
   {
     "login": "yuru7",
@@ -5499,7 +5891,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 393,
-    "score": 763
+    "score": 763,
+    "globalRank": 9661
   },
   {
     "login": "mitmul",
@@ -5513,7 +5906,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 394,
-    "score": 3363
+    "score": 3363,
+    "globalRank": 9708
   },
   {
     "login": "alfg",
@@ -5527,7 +5921,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 395,
-    "score": 1588
+    "score": 1588,
+    "globalRank": 9734
   },
   {
     "login": "AAkira",
@@ -5541,7 +5936,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 396,
-    "score": 4009
+    "score": 4009,
+    "globalRank": 9735
   },
   {
     "login": "diwu",
@@ -5555,7 +5951,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 397,
-    "score": 433
+    "score": 433,
+    "globalRank": 9763
   },
   {
     "login": "sinsukehlab",
@@ -5569,7 +5966,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 398,
-    "score": 485
+    "score": 485,
+    "globalRank": 9764
   },
   {
     "login": "Haruma-K",
@@ -5583,7 +5981,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 399,
-    "score": 2014
+    "score": 2014,
+    "globalRank": 9784
   },
   {
     "login": "HeyHamachi",
@@ -5597,7 +5996,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 400,
-    "score": 515
+    "score": 515,
+    "globalRank": 9785
   },
   {
     "login": "minaminao",
@@ -5611,7 +6011,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 401,
-    "score": 3678
+    "score": 3678,
+    "globalRank": 9786
   },
   {
     "login": "Grabacr07",
@@ -5625,7 +6026,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 402,
-    "score": 818
+    "score": 818,
+    "globalRank": 9806
   },
   {
     "login": "TaKO8Ki",
@@ -5639,7 +6041,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 403,
-    "score": 1470
+    "score": 1470,
+    "globalRank": 9827
   },
   {
     "login": "MasterCode-V",
@@ -5653,7 +6056,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 404,
-    "score": 529
+    "score": 529,
+    "globalRank": 9853
   },
   {
     "login": "ynagatomo",
@@ -5667,7 +6071,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 405,
-    "score": 669
+    "score": 669,
+    "globalRank": 9854
   },
   {
     "login": "kazeburo",
@@ -5681,7 +6086,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 406,
-    "score": 1148
+    "score": 1148,
+    "globalRank": 9855
   },
   {
     "login": "otiai10",
@@ -5695,7 +6101,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 407,
-    "score": 7299
+    "score": 7299,
+    "globalRank": 9878
   },
   {
     "login": "suguru",
@@ -5709,7 +6116,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 408,
-    "score": 961
+    "score": 961,
+    "globalRank": 9903
   },
   {
     "login": "sikachu",
@@ -5723,7 +6131,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 409,
-    "score": 480
+    "score": 480,
+    "globalRank": 9937
   },
   {
     "login": "SakiTakamachi",
@@ -5737,7 +6146,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 410,
-    "score": 2021
+    "score": 2021,
+    "globalRank": 9959
   },
   {
     "login": "JasonkayZK",
@@ -5751,7 +6161,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 411,
-    "score": 966
+    "score": 966,
+    "globalRank": 9983
   },
   {
     "login": "ryanmcgrath",
@@ -5765,7 +6176,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 412,
-    "score": 449
+    "score": 449,
+    "globalRank": 10012
   },
   {
     "login": "fujiwara",
@@ -5779,7 +6191,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 413,
-    "score": 3987
+    "score": 3987,
+    "globalRank": 10026
   },
   {
     "login": "zlq4863947",
@@ -5793,7 +6206,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 414,
-    "score": 429
+    "score": 429,
+    "globalRank": 10073
   },
   {
     "login": "hashrock",
@@ -5807,7 +6221,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 415,
-    "score": 1459
+    "score": 1459,
+    "globalRank": 10074
   },
   {
     "login": "Code-Hex",
@@ -5821,7 +6236,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 416,
-    "score": 5964
+    "score": 5964,
+    "globalRank": 10075
   },
   {
     "login": "taku910",
@@ -5835,7 +6251,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 417,
-    "score": 654
+    "score": 654,
+    "globalRank": 10076
   },
   {
     "login": "lightsound",
@@ -5849,7 +6266,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 418,
-    "score": 2484
+    "score": 2484,
+    "globalRank": 10106
   },
   {
     "login": "shoheiyokoyama",
@@ -5863,7 +6281,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 419,
-    "score": 2029
+    "score": 2029,
+    "globalRank": 10107
   },
   {
     "login": "ubugeeei",
@@ -5877,7 +6296,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 420,
-    "score": 8679
+    "score": 8679,
+    "globalRank": 10108
   },
   {
     "login": "gfngfn",
@@ -5891,7 +6311,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 421,
-    "score": 2271
+    "score": 2271,
+    "globalRank": 10131
   },
   {
     "login": "kaorun343",
@@ -5905,7 +6326,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 422,
-    "score": 498
+    "score": 498,
+    "globalRank": 10132
   },
   {
     "login": "pafuhana1213",
@@ -5919,7 +6341,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 423,
-    "score": 764
+    "score": 764,
+    "globalRank": 10133
   },
   {
     "login": "aocattleya",
@@ -5933,7 +6356,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 424,
-    "score": 415
+    "score": 415,
+    "globalRank": 10238
   },
   {
     "login": "haoict",
@@ -5947,7 +6371,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 425,
-    "score": 1634
+    "score": 1634,
+    "globalRank": 10239
   },
   {
     "login": "JDDKCN",
@@ -5961,7 +6386,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 426,
-    "score": 583
+    "score": 583,
+    "globalRank": 10240
   },
   {
     "login": "h4ckdepy",
@@ -5975,7 +6401,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 427,
-    "score": 415
+    "score": 415,
+    "globalRank": 10266
   },
   {
     "login": "saudet",
@@ -5989,7 +6416,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 428,
-    "score": 550
+    "score": 550,
+    "globalRank": 10267
   },
   {
     "login": "iwiwi",
@@ -6003,7 +6431,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 429,
-    "score": 869
+    "score": 869,
+    "globalRank": 10297
   },
   {
     "login": "YuriSizuku",
@@ -6017,7 +6446,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 430,
-    "score": 564
+    "score": 564,
+    "globalRank": 10337
   },
   {
     "login": "koki0702",
@@ -6031,7 +6461,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 431,
-    "score": 462
+    "score": 462,
+    "globalRank": 10338
   },
   {
     "login": "dolphin-wood",
@@ -6045,7 +6476,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 432,
-    "score": 3889
+    "score": 3889,
+    "globalRank": 10405
   },
   {
     "login": "Py-Ec",
@@ -6059,7 +6491,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 433,
-    "score": 409
+    "score": 409,
+    "globalRank": 10406
   },
   {
     "login": "john-rocky",
@@ -6073,7 +6506,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 434,
-    "score": 5450
+    "score": 5450,
+    "globalRank": 10427
   },
   {
     "login": "sue445",
@@ -6087,7 +6521,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 435,
-    "score": 9366
+    "score": 9366,
+    "globalRank": 10464
   },
   {
     "login": "Lewuathe",
@@ -6101,7 +6536,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 436,
-    "score": 2072
+    "score": 2072,
+    "globalRank": 10465
   },
   {
     "login": "nkmk",
@@ -6115,7 +6551,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 437,
-    "score": 536
+    "score": 536,
+    "globalRank": 10525
   },
   {
     "login": "dark-flames",
@@ -6129,7 +6566,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 438,
-    "score": 811
+    "score": 811,
+    "globalRank": 10526
   },
   {
     "login": "zonuexe",
@@ -6143,7 +6581,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 439,
-    "score": 3563
+    "score": 3563,
+    "globalRank": 10527
   },
   {
     "login": "hayatoito",
@@ -6157,7 +6596,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 440,
-    "score": 3331
+    "score": 3331,
+    "globalRank": 10563
   },
   {
     "login": "yoavlt",
@@ -6171,7 +6611,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 441,
-    "score": 745
+    "score": 745,
+    "globalRank": 10591
   },
   {
     "login": "Ryo-N7",
@@ -6185,7 +6626,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 442,
-    "score": 425
+    "score": 425,
+    "globalRank": 10619
   },
   {
     "login": "TsudaKageyu",
@@ -6199,7 +6641,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 443,
-    "score": 401
+    "score": 401,
+    "globalRank": 10646
   },
   {
     "login": "at-wat",
@@ -6213,7 +6656,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 444,
-    "score": 2737
+    "score": 2737,
+    "globalRank": 10679
   },
   {
     "login": "dshukertjr",
@@ -6227,7 +6671,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 445,
-    "score": 588
+    "score": 588,
+    "globalRank": 10680
   },
   {
     "login": "miya0001",
@@ -6241,7 +6686,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 446,
-    "score": 4188
+    "score": 4188,
+    "globalRank": 10681
   },
   {
     "login": "yuk1ty",
@@ -6255,7 +6701,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 447,
-    "score": 704
+    "score": 704,
+    "globalRank": 10713
   },
   {
     "login": "wadackel",
@@ -6269,7 +6716,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 448,
-    "score": 8009
+    "score": 8009,
+    "globalRank": 10714
   },
   {
     "login": "cherryljr",
@@ -6283,7 +6731,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 449,
-    "score": 398
+    "score": 398,
+    "globalRank": 10732
   },
   {
     "login": "fakufaku",
@@ -6297,7 +6746,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 450,
-    "score": 466
+    "score": 466,
+    "globalRank": 10782
   },
   {
     "login": "adrianmcli",
@@ -6311,7 +6761,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 451,
-    "score": 406
+    "score": 406,
+    "globalRank": 10783
   },
   {
     "login": "dekatotoro",
@@ -6325,7 +6776,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 452,
-    "score": 2372
+    "score": 2372,
+    "globalRank": 10813
   },
   {
     "login": "nemutas",
@@ -6339,7 +6791,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 453,
-    "score": 397
+    "score": 397,
+    "globalRank": 10814
   },
   {
     "login": "iAJue",
@@ -6353,7 +6806,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 454,
-    "score": 1567
+    "score": 1567,
+    "globalRank": 10861
   },
   {
     "login": "kitasuke",
@@ -6367,7 +6821,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 455,
-    "score": 1903
+    "score": 1903,
+    "globalRank": 10891
   },
   {
     "login": "martinheidegger",
@@ -6381,7 +6836,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 456,
-    "score": 1411
+    "score": 1411,
+    "globalRank": 10892
   },
   {
     "login": "davetang",
@@ -6395,7 +6851,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 457,
-    "score": 3434
+    "score": 3434,
+    "globalRank": 10893
   },
   {
     "login": "biohack5079",
@@ -6409,7 +6866,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 458,
-    "score": 1370
+    "score": 1370,
+    "globalRank": 10932
   },
   {
     "login": "pine",
@@ -6423,7 +6881,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 459,
-    "score": 791
+    "score": 791,
+    "globalRank": 10933
   },
   {
     "login": "uribo",
@@ -6437,7 +6896,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 460,
-    "score": 4829
+    "score": 4829,
+    "globalRank": 10964
   },
   {
     "login": "ysds",
@@ -6451,7 +6911,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 461,
-    "score": 429
+    "score": 429,
+    "globalRank": 10965
   },
   {
     "login": "lihbr",
@@ -6465,7 +6926,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 462,
-    "score": 1368
+    "score": 1368,
+    "globalRank": 10992
   },
   {
     "login": "bcgameProject",
@@ -6479,7 +6941,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 463,
-    "score": 407
+    "score": 407,
+    "globalRank": 10993
   },
   {
     "login": "Cloudef",
@@ -6493,7 +6956,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 464,
-    "score": 1155
+    "score": 1155,
+    "globalRank": 11010
   },
   {
     "login": "atsushieno",
@@ -6507,7 +6971,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 465,
-    "score": 2761
+    "score": 2761,
+    "globalRank": 11011
   },
   {
     "login": "ymotongpoo",
@@ -6521,7 +6986,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 466,
-    "score": 1875
+    "score": 1875,
+    "globalRank": 11012
   },
   {
     "login": "yanex",
@@ -6535,7 +7001,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 467,
-    "score": 1037
+    "score": 1037,
+    "globalRank": 11013
   },
   {
     "login": "sevenc-nanashi",
@@ -6549,7 +7016,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 468,
-    "score": 4559
+    "score": 4559,
+    "globalRank": 11014
   },
   {
     "login": "yasutakatou",
@@ -6563,7 +7031,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 469,
-    "score": 448
+    "score": 448,
+    "globalRank": 11045
   },
   {
     "login": "blivesta",
@@ -6577,7 +7046,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 470,
-    "score": 1199
+    "score": 1199,
+    "globalRank": 11077
   },
   {
     "login": "kmh-no3",
@@ -6591,7 +7061,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 471,
-    "score": 687
+    "score": 687,
+    "globalRank": 11116
   },
   {
     "login": "hideakitai",
@@ -6605,7 +7076,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 472,
-    "score": 5317
+    "score": 5317,
+    "globalRank": 11176
   },
   {
     "login": "naotokui",
@@ -6619,7 +7091,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 473,
-    "score": 389
+    "score": 389,
+    "globalRank": 11177
   },
   {
     "login": "komagata",
@@ -6633,7 +7106,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 474,
-    "score": 4370
+    "score": 4370,
+    "globalRank": 11206
   },
   {
     "login": "lhl",
@@ -6647,7 +7121,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 475,
-    "score": 13293
+    "score": 13293,
+    "globalRank": 11207
   },
   {
     "login": "yuki-koyama",
@@ -6661,7 +7136,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 476,
-    "score": 886
+    "score": 886,
+    "globalRank": 11208
   },
   {
     "login": "hhatto",
@@ -6675,7 +7151,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 477,
-    "score": 6711
+    "score": 6711,
+    "globalRank": 11315
   },
   {
     "login": "fa0311",
@@ -6689,7 +7166,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 478,
-    "score": 3663
+    "score": 3663,
+    "globalRank": 11343
   },
   {
     "login": "soutaro",
@@ -6703,7 +7181,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 479,
-    "score": 1625
+    "score": 1625,
+    "globalRank": 11344
   },
   {
     "login": "yoshiko-pg",
@@ -6717,7 +7196,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 480,
-    "score": 2794
+    "score": 2794,
+    "globalRank": 11368
   },
   {
     "login": "matsumotory",
@@ -6731,7 +7211,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 481,
-    "score": 3812
+    "score": 3812,
+    "globalRank": 11369
   },
   {
     "login": "cordx56",
@@ -6745,7 +7226,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 482,
-    "score": 2368
+    "score": 2368,
+    "globalRank": 11402
   },
   {
     "login": "ikegami-yukino",
@@ -6759,7 +7241,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 483,
-    "score": 567
+    "score": 567,
+    "globalRank": 11403
   },
   {
     "login": "dalance",
@@ -6773,7 +7256,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 484,
-    "score": 3590
+    "score": 3590,
+    "globalRank": 11404
   },
   {
     "login": "Tedko",
@@ -6787,7 +7271,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 485,
-    "score": 378
+    "score": 378,
+    "globalRank": 11405
   },
   {
     "login": "yasulab",
@@ -6801,7 +7286,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 486,
-    "score": 6290
+    "score": 6290,
+    "globalRank": 11406
   },
   {
     "login": "t32k",
@@ -6815,7 +7301,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 487,
-    "score": 886
+    "score": 886,
+    "globalRank": 11442
   },
   {
     "login": "cognitom",
@@ -6829,7 +7316,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 488,
-    "score": 374
+    "score": 374,
+    "globalRank": 11471
   },
   {
     "login": "shogo82148",
@@ -6843,7 +7331,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 489,
-    "score": 8696
+    "score": 8696,
+    "globalRank": 11498
   },
   {
     "login": "iwasaki-kenta",
@@ -6857,7 +7346,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 490,
-    "score": 372
+    "score": 372,
+    "globalRank": 11534
   },
   {
     "login": "xiaofengShi",
@@ -6871,7 +7361,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 491,
-    "score": 835
+    "score": 835,
+    "globalRank": 11535
   },
   {
     "login": "anchan828",
@@ -6885,7 +7376,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 492,
-    "score": 6248
+    "score": 6248,
+    "globalRank": 11536
   },
   {
     "login": "machan1119",
@@ -6899,7 +7391,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 493,
-    "score": 583
+    "score": 583,
+    "globalRank": 11612
   },
   {
     "login": "satoshi0212",
@@ -6913,7 +7406,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 494,
-    "score": 372
+    "score": 372,
+    "globalRank": 11613
   },
   {
     "login": "koron",
@@ -6927,7 +7421,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 495,
-    "score": 2248
+    "score": 2248,
+    "globalRank": 11614
   },
   {
     "login": "magurotuna",
@@ -6941,7 +7436,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 496,
-    "score": 6182
+    "score": 6182,
+    "globalRank": 11615
   },
   {
     "login": "dominhhai",
@@ -6955,7 +7451,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 497,
-    "score": 464
+    "score": 464,
+    "globalRank": 11616
   },
   {
     "login": "chengstone",
@@ -6969,7 +7466,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 498,
-    "score": 368
+    "score": 368,
+    "globalRank": 11680
   },
   {
     "login": "uhooi",
@@ -6983,7 +7481,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 499,
-    "score": 811
+    "score": 811,
+    "globalRank": 11754
   },
   {
     "login": "trust-delta",
@@ -6997,7 +7496,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 500,
-    "score": 4402
+    "score": 4402,
+    "globalRank": 11793
   },
   {
     "login": "jay-kumogata",
@@ -7011,7 +7511,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 501,
-    "score": 538
+    "score": 538,
+    "globalRank": 11794
   },
   {
     "login": "ykzts",
@@ -7025,7 +7526,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 502,
-    "score": 4639
+    "score": 4639,
+    "globalRank": 11837
   },
   {
     "login": "axzxs2001",
@@ -7039,7 +7541,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 503,
-    "score": 867
+    "score": 867,
+    "globalRank": 11838
   },
   {
     "login": "lin-toto",
@@ -7053,7 +7556,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 504,
-    "score": 625
+    "score": 625,
+    "globalRank": 11839
   },
   {
     "login": "TsingJyujing",
@@ -7067,7 +7571,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 505,
-    "score": 515
+    "score": 515,
+    "globalRank": 11873
   },
   {
     "login": "fygar256",
@@ -7081,7 +7586,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 506,
-    "score": 1336
+    "score": 1336,
+    "globalRank": 11874
   },
   {
     "login": "LearningKijo",
@@ -7095,7 +7601,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 507,
-    "score": 369
+    "score": 369,
+    "globalRank": 11875
   },
   {
     "login": "runceel",
@@ -7109,7 +7616,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 508,
-    "score": 1355
+    "score": 1355,
+    "globalRank": 11910
   },
   {
     "login": "DrizzleRisk",
@@ -7123,7 +7631,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 509,
-    "score": 390
+    "score": 390,
+    "globalRank": 11946
   },
   {
     "login": "takuoka",
@@ -7137,7 +7646,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 510,
-    "score": 1259
+    "score": 1259,
+    "globalRank": 11947
   },
   {
     "login": "joker1007",
@@ -7151,7 +7661,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 511,
-    "score": 2282
+    "score": 2282,
+    "globalRank": 11990
   },
   {
     "login": "katchion13",
@@ -7165,7 +7676,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 512,
-    "score": 359
+    "score": 359,
+    "globalRank": 12031
   },
   {
     "login": "polm",
@@ -7179,7 +7691,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 513,
-    "score": 424
+    "score": 424,
+    "globalRank": 12115
   },
   {
     "login": "nineties",
@@ -7193,7 +7706,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 514,
-    "score": 902
+    "score": 902,
+    "globalRank": 12116
   },
   {
     "login": "ChunML",
@@ -7207,7 +7721,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 515,
-    "score": 357
+    "score": 357,
+    "globalRank": 12117
   },
   {
     "login": "ntddk",
@@ -7221,7 +7736,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 516,
-    "score": 1963
+    "score": 1963,
+    "globalRank": 12118
   },
   {
     "login": "satoru-takeuchi",
@@ -7235,7 +7751,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 517,
-    "score": 1608
+    "score": 1608,
+    "globalRank": 12153
   },
   {
     "login": "hamuQonda",
@@ -7249,7 +7766,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 518,
-    "score": 431
+    "score": 431,
+    "globalRank": 12154
   },
   {
     "login": "masuhara",
@@ -7263,7 +7781,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 519,
-    "score": 928
+    "score": 928,
+    "globalRank": 12155
   },
   {
     "login": "yuichiroaoki",
@@ -7277,7 +7796,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 520,
-    "score": 717
+    "score": 717,
+    "globalRank": 12180
   },
   {
     "login": "Chakazul",
@@ -7291,7 +7811,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 521,
-    "score": 526
+    "score": 526,
+    "globalRank": 12206
   },
   {
     "login": "Ryota-Kawamura",
@@ -7305,7 +7826,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 522,
-    "score": 362
+    "score": 362,
+    "globalRank": 12241
   },
   {
     "login": "AungKaung1928",
@@ -7319,7 +7841,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 523,
-    "score": 1293
+    "score": 1293,
+    "globalRank": 12242
   },
   {
     "login": "nov",
@@ -7333,7 +7856,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 524,
-    "score": 4124
+    "score": 4124,
+    "globalRank": 12243
   },
   {
     "login": "uwi",
@@ -7347,7 +7871,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 525,
-    "score": 353
+    "score": 353,
+    "globalRank": 12244
   },
   {
     "login": "eiel",
@@ -7361,7 +7886,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 526,
-    "score": 4859
+    "score": 4859,
+    "globalRank": 12304
   },
   {
     "login": "furkanonder",
@@ -7375,7 +7901,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 527,
-    "score": 815
+    "score": 815,
+    "globalRank": 12305
   },
   {
     "login": "t9md",
@@ -7389,7 +7916,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 528,
-    "score": 351
+    "score": 351,
+    "globalRank": 12306
   },
   {
     "login": "tkoyama010",
@@ -7403,7 +7931,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 529,
-    "score": 7395
+    "score": 7395,
+    "globalRank": 12307
   },
   {
     "login": "Cotton-Tofu",
@@ -7417,7 +7946,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 530,
-    "score": 479
+    "score": 479,
+    "globalRank": 12327
   },
   {
     "login": "shibayan",
@@ -7431,7 +7961,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 531,
-    "score": 1985
+    "score": 1985,
+    "globalRank": 12328
   },
   {
     "login": "ninjinkun",
@@ -7445,7 +7976,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 532,
-    "score": 576
+    "score": 576,
+    "globalRank": 12329
   },
   {
     "login": "sorairolake",
@@ -7459,7 +7991,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 533,
-    "score": 3533
+    "score": 3533,
+    "globalRank": 12355
   },
   {
     "login": "guitarrapc",
@@ -7473,7 +8006,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 534,
-    "score": 10068
+    "score": 10068,
+    "globalRank": 12356
   },
   {
     "login": "MasayukiSuda",
@@ -7487,7 +8021,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 535,
-    "score": 514
+    "score": 514,
+    "globalRank": 12390
   },
   {
     "login": "sgr-ksmt",
@@ -7501,7 +8036,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 536,
-    "score": 4137
+    "score": 4137,
+    "globalRank": 12391
   },
   {
     "login": "GalvinGao",
@@ -7515,7 +8051,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 537,
-    "score": 4658
+    "score": 4658,
+    "globalRank": 12500
   },
   {
     "login": "hutajoullach",
@@ -7529,7 +8066,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 538,
-    "score": 1456
+    "score": 1456,
+    "globalRank": 12501
   },
   {
     "login": "kozo2",
@@ -7543,7 +8081,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 539,
-    "score": 908
+    "score": 908,
+    "globalRank": 12502
   },
   {
     "login": "odashi",
@@ -7557,7 +8096,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 540,
-    "score": 687
+    "score": 687,
+    "globalRank": 12503
   },
   {
     "login": "kawasima",
@@ -7571,7 +8111,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 541,
-    "score": 2045
+    "score": 2045,
+    "globalRank": 12504
   },
   {
     "login": "tuepon",
@@ -7585,7 +8126,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 542,
-    "score": 477
+    "score": 477,
+    "globalRank": 12531
   },
   {
     "login": "uchan-nos",
@@ -7599,7 +8141,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 543,
-    "score": 558
+    "score": 558,
+    "globalRank": 12532
   },
   {
     "login": "Rokt33r",
@@ -7613,7 +8156,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 544,
-    "score": 1748
+    "score": 1748,
+    "globalRank": 12565
   },
   {
     "login": "RKX1209",
@@ -7627,7 +8171,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 545,
-    "score": 396
+    "score": 396,
+    "globalRank": 12566
   },
   {
     "login": "Reputeless",
@@ -7641,7 +8186,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 546,
-    "score": 2477
+    "score": 2477,
+    "globalRank": 12567
   },
   {
     "login": "shuhei",
@@ -7655,7 +8201,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 547,
-    "score": 343
+    "score": 343,
+    "globalRank": 12568
   },
   {
     "login": "rakina",
@@ -7669,7 +8216,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 548,
-    "score": 360
+    "score": 360,
+    "globalRank": 12602
   },
   {
     "login": "EsProgram",
@@ -7683,7 +8231,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 549,
-    "score": 342
+    "score": 342,
+    "globalRank": 12603
   },
   {
     "login": "0918nobita",
@@ -7697,7 +8246,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 550,
-    "score": 647
+    "score": 647,
+    "globalRank": 12604
   },
   {
     "login": "cubicdaiya",
@@ -7711,7 +8261,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 551,
-    "score": 349
+    "score": 349,
+    "globalRank": 12638
   },
   {
     "login": "famasoon",
@@ -7725,7 +8276,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 552,
-    "score": 659
+    "score": 659,
+    "globalRank": 12639
   },
   {
     "login": "myugan",
@@ -7739,7 +8291,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 553,
-    "score": 583
+    "score": 583,
+    "globalRank": 12640
   },
   {
     "login": "upura",
@@ -7753,7 +8306,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 554,
-    "score": 2142
+    "score": 2142,
+    "globalRank": 12684
   },
   {
     "login": "june29",
@@ -7767,7 +8321,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 555,
-    "score": 450
+    "score": 450,
+    "globalRank": 12685
   },
   {
     "login": "yumayanagisawa",
@@ -7781,7 +8336,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 556,
-    "score": 339
+    "score": 339,
+    "globalRank": 12715
   },
   {
     "login": "nhim175",
@@ -7795,7 +8351,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 557,
-    "score": 340
+    "score": 340,
+    "globalRank": 12749
   },
   {
     "login": "aviatesk",
@@ -7809,7 +8366,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 558,
-    "score": 3676
+    "score": 3676,
+    "globalRank": 12791
   },
   {
     "login": "acid-chicken",
@@ -7823,7 +8381,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 559,
-    "score": 1183
+    "score": 1183,
+    "globalRank": 12792
   },
   {
     "login": "ariaghora",
@@ -7837,7 +8396,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 560,
-    "score": 2328
+    "score": 2328,
+    "globalRank": 12823
   },
   {
     "login": "everpeace",
@@ -7851,7 +8411,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 561,
-    "score": 1239
+    "score": 1239,
+    "globalRank": 12861
   },
   {
     "login": "kitasenjudesign",
@@ -7865,7 +8426,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 562,
-    "score": 365
+    "score": 365,
+    "globalRank": 12862
   },
   {
     "login": "wheatup",
@@ -7879,7 +8441,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 563,
-    "score": 354
+    "score": 354,
+    "globalRank": 12863
   },
   {
     "login": "SystemErrorWang",
@@ -7893,7 +8456,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 564,
-    "score": 341
+    "score": 341,
+    "globalRank": 12930
   },
   {
     "login": "UnaNancyOwen",
@@ -7907,7 +8471,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 565,
-    "score": 334
+    "score": 334,
+    "globalRank": 12959
   },
   {
     "login": "lukas-reineke",
@@ -7921,7 +8486,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 566,
-    "score": 3206
+    "score": 3206,
+    "globalRank": 12960
   },
   {
     "login": "cxxxr",
@@ -7935,7 +8501,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 567,
-    "score": 5660
+    "score": 5660,
+    "globalRank": 13059
   },
   {
     "login": "moskomule",
@@ -7949,7 +8516,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 568,
-    "score": 1109
+    "score": 1109,
+    "globalRank": 13060
   },
   {
     "login": "ochyai",
@@ -7963,7 +8531,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 569,
-    "score": 4929
+    "score": 4929,
+    "globalRank": 13093
   },
   {
     "login": "qnighy",
@@ -7977,7 +8546,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 570,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 13094
   },
   {
     "login": "takumi0125",
@@ -7991,7 +8561,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 571,
-    "score": 2009
+    "score": 2009,
+    "globalRank": 13128
   },
   {
     "login": "frandiox",
@@ -8005,7 +8576,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 572,
-    "score": 2177
+    "score": 2177,
+    "globalRank": 13173
   },
   {
     "login": "KyoheiG3",
@@ -8019,7 +8591,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 573,
-    "score": 2404
+    "score": 2404,
+    "globalRank": 13174
   },
   {
     "login": "kaustubhhiware",
@@ -8033,7 +8606,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 574,
-    "score": 747
+    "score": 747,
+    "globalRank": 13175
   },
   {
     "login": "p5aholic",
@@ -8047,7 +8621,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 575,
-    "score": 325
+    "score": 325,
+    "globalRank": 13211
   },
   {
     "login": "egisatoshi",
@@ -8061,7 +8636,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 576,
-    "score": 1095
+    "score": 1095,
+    "globalRank": 13212
   },
   {
     "login": "k-takata",
@@ -8075,7 +8651,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 577,
-    "score": 816
+    "score": 816,
+    "globalRank": 13213
   },
   {
     "login": "takayama-lily",
@@ -8089,7 +8666,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 578,
-    "score": 326
+    "score": 326,
+    "globalRank": 13239
   },
   {
     "login": "marioyc",
@@ -8103,7 +8681,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 579,
-    "score": 334
+    "score": 334,
+    "globalRank": 13240
   },
   {
     "login": "Saqoosha",
@@ -8117,7 +8696,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 580,
-    "score": 6688
+    "score": 6688,
+    "globalRank": 13279
   },
   {
     "login": "amachang",
@@ -8131,7 +8711,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 581,
-    "score": 14242
+    "score": 14242,
+    "globalRank": 13280
   },
   {
     "login": "udzura",
@@ -8145,7 +8726,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 582,
-    "score": 3770
+    "score": 3770,
+    "globalRank": 13315
   },
   {
     "login": "atztogo",
@@ -8159,7 +8741,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 583,
-    "score": 2759
+    "score": 2759,
+    "globalRank": 13316
   },
   {
     "login": "yamahigashi",
@@ -8173,7 +8756,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 584,
-    "score": 791
+    "score": 791,
+    "globalRank": 13362
   },
   {
     "login": "chokkan",
@@ -8187,7 +8771,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 585,
-    "score": 590
+    "score": 590,
+    "globalRank": 13363
   },
   {
     "login": "sachaos",
@@ -8201,7 +8786,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 586,
-    "score": 3011
+    "score": 3011,
+    "globalRank": 13364
   },
   {
     "login": "hak",
@@ -8215,7 +8801,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 587,
-    "score": 879
+    "score": 879,
+    "globalRank": 13365
   },
   {
     "login": "kenn",
@@ -8229,7 +8816,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 588,
-    "score": 7661
+    "score": 7661,
+    "globalRank": 13401
   },
   {
     "login": "pasta-auto",
@@ -8243,7 +8831,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 589,
-    "score": 330
+    "score": 330,
+    "globalRank": 13431
   },
   {
     "login": "kodai100",
@@ -8257,7 +8846,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 590,
-    "score": 1068
+    "score": 1068,
+    "globalRank": 13432
   },
   {
     "login": "hand-dot",
@@ -8271,7 +8861,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 591,
-    "score": 2165
+    "score": 2165,
+    "globalRank": 13478
   },
   {
     "login": "eneim",
@@ -8285,7 +8876,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 592,
-    "score": 998
+    "score": 998,
+    "globalRank": 13516
   },
   {
     "login": "ojii",
@@ -8299,7 +8891,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 593,
-    "score": 1936
+    "score": 1936,
+    "globalRank": 13517
   },
   {
     "login": "Koras02",
@@ -8313,7 +8906,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 594,
-    "score": 958
+    "score": 958,
+    "globalRank": 13518
   },
   {
     "login": "Aixile",
@@ -8327,7 +8921,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 595,
-    "score": 763
+    "score": 763,
+    "globalRank": 13562
   },
   {
     "login": "mv-lab",
@@ -8341,7 +8936,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 596,
-    "score": 380
+    "score": 380,
+    "globalRank": 13563
   },
   {
     "login": "pwim",
@@ -8355,7 +8951,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 597,
-    "score": 1373
+    "score": 1373,
+    "globalRank": 13564
   },
   {
     "login": "mopemope",
@@ -8369,7 +8966,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 598,
-    "score": 2662
+    "score": 2662,
+    "globalRank": 13608
   },
   {
     "login": "yowatanabe",
@@ -8383,7 +8981,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 599,
-    "score": 2716
+    "score": 2716,
+    "globalRank": 13609
   },
   {
     "login": "cdepillabout",
@@ -8397,7 +8996,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 600,
-    "score": 1635
+    "score": 1635,
+    "globalRank": 13610
   },
   {
     "login": "lloydmeta",
@@ -8411,7 +9011,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 601,
-    "score": 2462
+    "score": 2462,
+    "globalRank": 13611
   },
   {
     "login": "summerwind",
@@ -8425,7 +9026,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 602,
-    "score": 3415
+    "score": 3415,
+    "globalRank": 13612
   },
   {
     "login": "bannzai",
@@ -8439,7 +9041,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 603,
-    "score": 99604
+    "score": 99604,
+    "globalRank": 13652
   },
   {
     "login": "hirocaster",
@@ -8453,7 +9056,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 604,
-    "score": 762
+    "score": 762,
+    "globalRank": 13653
   },
   {
     "login": "shokai",
@@ -8467,7 +9071,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 605,
-    "score": 2020
+    "score": 2020,
+    "globalRank": 13654
   },
   {
     "login": "taisukef",
@@ -8481,7 +9086,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 606,
-    "score": 2043
+    "score": 2043,
+    "globalRank": 13655
   },
   {
     "login": "ikwzm",
@@ -8495,7 +9101,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 607,
-    "score": 920
+    "score": 920,
+    "globalRank": 13656
   },
   {
     "login": "yukinaga",
@@ -8509,7 +9116,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 608,
-    "score": 407
+    "score": 407,
+    "globalRank": 13657
   },
   {
     "login": "terasakisatoshi",
@@ -8523,7 +9131,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 609,
-    "score": 18707
+    "score": 18707,
+    "globalRank": 13658
   },
   {
     "login": "hanachin",
@@ -8537,7 +9146,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 610,
-    "score": 2036
+    "score": 2036,
+    "globalRank": 13696
   },
   {
     "login": "sanographix",
@@ -8551,7 +9161,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 611,
-    "score": 1716
+    "score": 1716,
+    "globalRank": 13697
   },
   {
     "login": "saltyshiomix",
@@ -8565,7 +9176,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 612,
-    "score": 12192
+    "score": 12192,
+    "globalRank": 13698
   },
   {
     "login": "dav009",
@@ -8579,7 +9191,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 613,
-    "score": 1882
+    "score": 1882,
+    "globalRank": 13699
   },
   {
     "login": "alfonsogarciacaro",
@@ -8593,7 +9206,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 614,
-    "score": 437
+    "score": 437,
+    "globalRank": 13700
   },
   {
     "login": "knmts",
@@ -8607,7 +9221,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 615,
-    "score": 645
+    "score": 645,
+    "globalRank": 13701
   },
   {
     "login": "hatoo",
@@ -8621,7 +9236,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 616,
-    "score": 1877
+    "score": 1877,
+    "globalRank": 13702
   },
   {
     "login": "nakasyou",
@@ -8635,7 +9251,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 617,
-    "score": 2159
+    "score": 2159,
+    "globalRank": 13703
   },
   {
     "login": "kazuki43zoo",
@@ -8649,7 +9266,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 618,
-    "score": 379
+    "score": 379,
+    "globalRank": 13734
   },
   {
     "login": "osqzss",
@@ -8663,7 +9281,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 619,
-    "score": 432
+    "score": 432,
+    "globalRank": 13735
   },
   {
     "login": "1amageek",
@@ -8677,7 +9296,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 620,
-    "score": 6327
+    "score": 6327,
+    "globalRank": 13736
   },
   {
     "login": "Pitu",
@@ -8691,7 +9311,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 621,
-    "score": 1123
+    "score": 1123,
+    "globalRank": 13737
   },
   {
     "login": "karlcow",
@@ -8705,7 +9326,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 622,
-    "score": 819
+    "score": 819,
+    "globalRank": 13738
   },
   {
     "login": "ngs",
@@ -8719,7 +9341,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 623,
-    "score": 5891
+    "score": 5891,
+    "globalRank": 13777
   },
   {
     "login": "toma-work125",
@@ -8733,7 +9356,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 624,
-    "score": 841
+    "score": 841,
+    "globalRank": 13778
   },
   {
     "login": "AstroProfundis",
@@ -8747,7 +9371,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 625,
-    "score": 347
+    "score": 347,
+    "globalRank": 13779
   },
   {
     "login": "gedeagas",
@@ -8761,7 +9386,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 626,
-    "score": 1862
+    "score": 1862,
+    "globalRank": 13884
   },
   {
     "login": "conao3",
@@ -8775,7 +9401,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 627,
-    "score": 5346
+    "score": 5346,
+    "globalRank": 13885
   },
   {
     "login": "spinute",
@@ -8789,7 +9416,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 628,
-    "score": 10132
+    "score": 10132,
+    "globalRank": 13912
   },
   {
     "login": "authorNari",
@@ -8803,7 +9431,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 629,
-    "score": 307
+    "score": 307,
+    "globalRank": 13913
   },
   {
     "login": "toptal0212",
@@ -8817,7 +9446,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 630,
-    "score": 645
+    "score": 645,
+    "globalRank": 13958
   },
   {
     "login": "miyosuda",
@@ -8831,7 +9461,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 631,
-    "score": 2135
+    "score": 2135,
+    "globalRank": 13959
   },
   {
     "login": "mactkg",
@@ -8845,7 +9476,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 632,
-    "score": 1922
+    "score": 1922,
+    "globalRank": 13960
   },
   {
     "login": "EdamAme-x",
@@ -8859,7 +9491,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 633,
-    "score": 6477
+    "score": 6477,
+    "globalRank": 13961
   },
   {
     "login": "monochromegane",
@@ -8873,7 +9506,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 634,
-    "score": 614
+    "score": 614,
+    "globalRank": 13962
   },
   {
     "login": "avie-dev",
@@ -8887,7 +9521,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 635,
-    "score": 319
+    "score": 319,
+    "globalRank": 14002
   },
   {
     "login": "256-daisuki",
@@ -8901,7 +9536,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 636,
-    "score": 337
+    "score": 337,
+    "globalRank": 14003
   },
   {
     "login": "eagletmt",
@@ -8915,7 +9551,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 637,
-    "score": 425
+    "score": 425,
+    "globalRank": 14031
   },
   {
     "login": "moznion",
@@ -8929,7 +9566,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 638,
-    "score": 3176
+    "score": 3176,
+    "globalRank": 14032
   },
   {
     "login": "matsui528",
@@ -8943,7 +9581,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 639,
-    "score": 1432
+    "score": 1432,
+    "globalRank": 14082
   },
   {
     "login": "yorkxin",
@@ -8957,7 +9596,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 640,
-    "score": 510
+    "score": 510,
+    "globalRank": 14083
   },
   {
     "login": "YutaroOgawa",
@@ -8971,7 +9611,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 641,
-    "score": 303
+    "score": 303,
+    "globalRank": 14084
   },
   {
     "login": "tkmru",
@@ -8985,7 +9626,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 642,
-    "score": 962
+    "score": 962,
+    "globalRank": 14085
   },
   {
     "login": "natronics",
@@ -8999,7 +9641,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 643,
-    "score": 1055
+    "score": 1055,
+    "globalRank": 14131
   },
   {
     "login": "nwiizo",
@@ -9013,7 +9656,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 644,
-    "score": 4549
+    "score": 4549,
+    "globalRank": 14172
   },
   {
     "login": "freedomofkeima",
@@ -9027,7 +9671,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 645,
-    "score": 2000
+    "score": 2000,
+    "globalRank": 14173
   },
   {
     "login": "sonsongithub",
@@ -9041,7 +9686,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 646,
-    "score": 375
+    "score": 375,
+    "globalRank": 14174
   },
   {
     "login": "zenkairyu5555",
@@ -9055,7 +9701,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 647,
-    "score": 357
+    "score": 357,
+    "globalRank": 14230
   },
   {
     "login": "rinsuki",
@@ -9069,7 +9716,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 648,
-    "score": 2513
+    "score": 2513,
+    "globalRank": 14231
   },
   {
     "login": "lab8-tomofi",
@@ -9083,7 +9731,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 649,
-    "score": 299
+    "score": 299,
+    "globalRank": 14273
   },
   {
     "login": "Layzie",
@@ -9097,7 +9746,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 650,
-    "score": 3104
+    "score": 3104,
+    "globalRank": 14308
   },
   {
     "login": "triacontane",
@@ -9111,7 +9761,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 651,
-    "score": 401
+    "score": 401,
+    "globalRank": 14309
   },
   {
     "login": "edandersen",
@@ -9125,7 +9776,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 652,
-    "score": 332
+    "score": 332,
+    "globalRank": 14310
   },
   {
     "login": "marocchino",
@@ -9139,7 +9791,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 653,
-    "score": 507
+    "score": 507,
+    "globalRank": 14311
   },
   {
     "login": "masarakki",
@@ -9153,7 +9806,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 654,
-    "score": 2707
+    "score": 2707,
+    "globalRank": 14350
   },
   {
     "login": "horike37",
@@ -9167,7 +9821,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 655,
-    "score": 482
+    "score": 482,
+    "globalRank": 14351
   },
   {
     "login": "unchama",
@@ -9181,7 +9836,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 656,
-    "score": 796
+    "score": 796,
+    "globalRank": 14352
   },
   {
     "login": "IshmamAbir",
@@ -9195,7 +9851,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 657,
-    "score": 571
+    "score": 571,
+    "globalRank": 14400
   },
   {
     "login": "predominant",
@@ -9209,7 +9866,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 658,
-    "score": 1890
+    "score": 1890,
+    "globalRank": 14401
   },
   {
     "login": "msakai",
@@ -9223,7 +9881,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 659,
-    "score": 2060
+    "score": 2060,
+    "globalRank": 14402
   },
   {
     "login": "takano32",
@@ -9237,7 +9896,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 660,
-    "score": 807
+    "score": 807,
+    "globalRank": 14403
   },
   {
     "login": "aliceinwire",
@@ -9251,7 +9911,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 661,
-    "score": 1249
+    "score": 1249,
+    "globalRank": 14449
   },
   {
     "login": "hiroyuki-kasai",
@@ -9265,7 +9926,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 662,
-    "score": 295
+    "score": 295,
+    "globalRank": 14450
   },
   {
     "login": "moriyoshi",
@@ -9279,7 +9941,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 663,
-    "score": 1137
+    "score": 1137,
+    "globalRank": 14451
   },
   {
     "login": "rdiankov",
@@ -9293,7 +9956,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 664,
-    "score": 298
+    "score": 298,
+    "globalRank": 14485
   },
   {
     "login": "ryohey",
@@ -9307,7 +9971,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 665,
-    "score": 3163
+    "score": 3163,
+    "globalRank": 14486
   },
   {
     "login": "matanki-saito",
@@ -9321,7 +9986,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 666,
-    "score": 1008
+    "score": 1008,
+    "globalRank": 14487
   },
   {
     "login": "nyanp",
@@ -9335,7 +10001,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 667,
-    "score": 370
+    "score": 370,
+    "globalRank": 14488
   },
   {
     "login": "Kei18",
@@ -9349,7 +10016,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 668,
-    "score": 3216
+    "score": 3216,
+    "globalRank": 14533
   },
   {
     "login": "takefumi-yoshii",
@@ -9363,7 +10031,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 669,
-    "score": 292
+    "score": 292,
+    "globalRank": 14599
   },
   {
     "login": "the0cp",
@@ -9377,7 +10046,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 670,
-    "score": 752
+    "score": 752,
+    "globalRank": 14600
   },
   {
     "login": "lotz84",
@@ -9391,7 +10061,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 671,
-    "score": 362
+    "score": 362,
+    "globalRank": 14658
   },
   {
     "login": "akameco",
@@ -9405,7 +10076,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 672,
-    "score": 5288
+    "score": 5288,
+    "globalRank": 14659
   },
   {
     "login": "norio-nomura",
@@ -9419,7 +10091,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 673,
-    "score": 589
+    "score": 589,
+    "globalRank": 14660
   },
   {
     "login": "sotarok",
@@ -9433,7 +10106,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 674,
-    "score": 6176
+    "score": 6176,
+    "globalRank": 14661
   },
   {
     "login": "BBleae",
@@ -9447,7 +10121,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 675,
-    "score": 860
+    "score": 860,
+    "globalRank": 14662
   },
   {
     "login": "masui",
@@ -9461,7 +10136,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 676,
-    "score": 1055
+    "score": 1055,
+    "globalRank": 14663
   },
   {
     "login": "akinomyoga",
@@ -9475,7 +10151,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 677,
-    "score": 1686
+    "score": 1686,
+    "globalRank": 14664
   },
   {
     "login": "stomita",
@@ -9489,7 +10166,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 678,
-    "score": 914
+    "score": 914,
+    "globalRank": 14665
   },
   {
     "login": "orisano",
@@ -9503,7 +10181,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 679,
-    "score": 848
+    "score": 848,
+    "globalRank": 14713
   },
   {
     "login": "akatsuki105",
@@ -9517,7 +10196,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 680,
-    "score": 1759
+    "score": 1759,
+    "globalRank": 14714
   },
   {
     "login": "Kamesuta",
@@ -9531,7 +10211,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 681,
-    "score": 1360
+    "score": 1360,
+    "globalRank": 14768
   },
   {
     "login": "hnakamur",
@@ -9545,7 +10226,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 682,
-    "score": 785
+    "score": 785,
+    "globalRank": 14769
   },
   {
     "login": "nobuyuki83",
@@ -9559,7 +10241,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 683,
-    "score": 1166
+    "score": 1166,
+    "globalRank": 14770
   },
   {
     "login": "k-okada",
@@ -9573,7 +10256,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 684,
-    "score": 429
+    "score": 429,
+    "globalRank": 14771
   },
   {
     "login": "ShisatoYano",
@@ -9587,7 +10271,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 685,
-    "score": 360
+    "score": 360,
+    "globalRank": 14772
   },
   {
     "login": "nicolas-raoul",
@@ -9601,7 +10286,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 686,
-    "score": 1069
+    "score": 1069,
+    "globalRank": 14773
   },
   {
     "login": "tricknotes",
@@ -9615,7 +10301,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 687,
-    "score": 454
+    "score": 454,
+    "globalRank": 14808
   },
   {
     "login": "dev-yakuza",
@@ -9629,7 +10316,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 688,
-    "score": 17129
+    "score": 17129,
+    "globalRank": 14809
   },
   {
     "login": "45288",
@@ -9643,7 +10331,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 689,
-    "score": 289
+    "score": 289,
+    "globalRank": 14810
   },
   {
     "login": "GOROman",
@@ -9657,7 +10346,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 690,
-    "score": 454
+    "score": 454,
+    "globalRank": 14811
   },
   {
     "login": "4416km",
@@ -9671,7 +10361,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 691,
-    "score": 298
+    "score": 298,
+    "globalRank": 14852
   },
   {
     "login": "bakura10",
@@ -9685,7 +10376,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 692,
-    "score": 1798
+    "score": 1798,
+    "globalRank": 14853
   },
   {
     "login": "saitoha",
@@ -9699,7 +10391,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 693,
-    "score": 610
+    "score": 610,
+    "globalRank": 14854
   },
   {
     "login": "motikan2010",
@@ -9713,7 +10406,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 694,
-    "score": 997
+    "score": 997,
+    "globalRank": 14855
   },
   {
     "login": "kboy-silvergym",
@@ -9727,7 +10421,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 695,
-    "score": 2952
+    "score": 2952,
+    "globalRank": 14856
   },
   {
     "login": "yanorei32",
@@ -9741,7 +10436,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 696,
-    "score": 8393
+    "score": 8393,
+    "globalRank": 14907
   },
   {
     "login": "termoshtt",
@@ -9755,7 +10451,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 697,
-    "score": 2400
+    "score": 2400,
+    "globalRank": 14942
   },
   {
     "login": "hiloki",
@@ -9769,7 +10466,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 698,
-    "score": 292
+    "score": 292,
+    "globalRank": 14943
   },
   {
     "login": "fumieval",
@@ -9783,7 +10481,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 699,
-    "score": 566
+    "score": 566,
+    "globalRank": 14944
   },
   {
     "login": "aajisaka",
@@ -9797,7 +10496,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 700,
-    "score": 376
+    "score": 376,
+    "globalRank": 14945
   },
   {
     "login": "tuian",
@@ -9811,7 +10511,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 701,
-    "score": 285
+    "score": 285,
+    "globalRank": 14946
   },
   {
     "login": "YumNumm",
@@ -9825,7 +10526,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 702,
-    "score": 10740
+    "score": 10740,
+    "globalRank": 14989
   },
   {
     "login": "ktr0731",
@@ -9839,7 +10541,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 703,
-    "score": 2130
+    "score": 2130,
+    "globalRank": 14990
   },
   {
     "login": "usualoma",
@@ -9853,7 +10556,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 704,
-    "score": 1427
+    "score": 1427,
+    "globalRank": 14991
   },
   {
     "login": "15923-ORIX",
@@ -9867,7 +10571,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 705,
-    "score": 292
+    "score": 292,
+    "globalRank": 15041
   },
   {
     "login": "ahomu",
@@ -9881,7 +10586,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 706,
-    "score": 302
+    "score": 302,
+    "globalRank": 15042
   },
   {
     "login": "ptr-yudai",
@@ -9895,7 +10601,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 707,
-    "score": 759
+    "score": 759,
+    "globalRank": 15086
   },
   {
     "login": "viasnake",
@@ -9909,7 +10616,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 708,
-    "score": 1356
+    "score": 1356,
+    "globalRank": 15087
   },
   {
     "login": "int128",
@@ -9923,7 +10631,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 709,
-    "score": 1942
+    "score": 1942,
+    "globalRank": 15088
   },
   {
     "login": "tccpro",
@@ -9937,7 +10646,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 710,
-    "score": 282
+    "score": 282,
+    "globalRank": 15089
   },
   {
     "login": "OvidijusParsiunas",
@@ -9951,7 +10661,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 711,
-    "score": 835
+    "score": 835,
+    "globalRank": 15090
   },
   {
     "login": "dvcrn",
@@ -9965,7 +10676,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 712,
-    "score": 6509
+    "score": 6509,
+    "globalRank": 15127
   },
   {
     "login": "karupanerura",
@@ -9979,7 +10691,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 713,
-    "score": 399
+    "score": 399,
+    "globalRank": 15128
   },
   {
     "login": "tatsuyah",
@@ -9993,7 +10706,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 714,
-    "score": 860
+    "score": 860,
+    "globalRank": 15129
   },
   {
     "login": "kiwanami",
@@ -10007,7 +10721,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 715,
-    "score": 280
+    "score": 280,
+    "globalRank": 15170
   },
   {
     "login": "DayuanJiang",
@@ -10021,7 +10736,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 716,
-    "score": 1330
+    "score": 1330,
+    "globalRank": 15171
   },
   {
     "login": "g200kg",
@@ -10035,7 +10751,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 717,
-    "score": 324
+    "score": 324,
+    "globalRank": 15172
   },
   {
     "login": "shinobi8894",
@@ -10049,7 +10766,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 718,
-    "score": 996
+    "score": 996,
+    "globalRank": 15173
   },
   {
     "login": "sanposhiho",
@@ -10063,7 +10781,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 719,
-    "score": 2793
+    "score": 2793,
+    "globalRank": 15232
   },
   {
     "login": "willnet",
@@ -10077,7 +10796,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 720,
-    "score": 1327
+    "score": 1327,
+    "globalRank": 15233
   },
   {
     "login": "miyako",
@@ -10091,7 +10811,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 721,
-    "score": 7415
+    "score": 7415,
+    "globalRank": 15287
   },
   {
     "login": "hibariya",
@@ -10105,7 +10826,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 722,
-    "score": 302
+    "score": 302,
+    "globalRank": 15288
   },
   {
     "login": "komietty",
@@ -10119,7 +10841,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 723,
-    "score": 1100
+    "score": 1100,
+    "globalRank": 15289
   },
   {
     "login": "harupy",
@@ -10133,7 +10856,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 724,
-    "score": 13321
+    "score": 13321,
+    "globalRank": 15290
   },
   {
     "login": "sobri909",
@@ -10147,7 +10871,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 725,
-    "score": 6583
+    "score": 6583,
+    "globalRank": 15335
   },
   {
     "login": "namusyaka",
@@ -10161,7 +10886,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 726,
-    "score": 312
+    "score": 312,
+    "globalRank": 15336
   },
   {
     "login": "okuramasafumi",
@@ -10175,7 +10901,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 727,
-    "score": 726
+    "score": 726,
+    "globalRank": 15337
   },
   {
     "login": "ypresto",
@@ -10189,7 +10916,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 728,
-    "score": 564
+    "score": 564,
+    "globalRank": 15338
   },
   {
     "login": "yvt",
@@ -10203,7 +10931,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 729,
-    "score": 346
+    "score": 346,
+    "globalRank": 15389
   },
   {
     "login": "yuichiroharai",
@@ -10217,7 +10946,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 730,
-    "score": 562
+    "score": 562,
+    "globalRank": 15390
   },
   {
     "login": "sureshmurali",
@@ -10231,7 +10961,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 731,
-    "score": 785
+    "score": 785,
+    "globalRank": 15391
   },
   {
     "login": "MizuhoAOKI",
@@ -10245,7 +10976,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 732,
-    "score": 701
+    "score": 701,
+    "globalRank": 15392
   },
   {
     "login": "Watson1978",
@@ -10259,7 +10991,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 733,
-    "score": 2913
+    "score": 2913,
+    "globalRank": 15393
   },
   {
     "login": "momeemt",
@@ -10273,7 +11006,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 734,
-    "score": 1698
+    "score": 1698,
+    "globalRank": 15394
   },
   {
     "login": "HidenoriMatsubayashi",
@@ -10287,7 +11021,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 735,
-    "score": 645
+    "score": 645,
+    "globalRank": 15439
   },
   {
     "login": "aitikgupta",
@@ -10301,7 +11036,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 736,
-    "score": 2113
+    "score": 2113,
+    "globalRank": 15440
   },
   {
     "login": "euske",
@@ -10315,7 +11051,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 737,
-    "score": 296
+    "score": 296,
+    "globalRank": 15441
   },
   {
     "login": "GitHub30",
@@ -10329,7 +11066,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 738,
-    "score": 1166
+    "score": 1166,
+    "globalRank": 15442
   },
   {
     "login": "rayston92",
@@ -10343,7 +11081,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 739,
-    "score": 561
+    "score": 561,
+    "globalRank": 15483
   },
   {
     "login": "kaizen-nagoya",
@@ -10357,7 +11096,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 740,
-    "score": 708
+    "score": 708,
+    "globalRank": 15484
   },
   {
     "login": "takuma104",
@@ -10371,7 +11111,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 741,
-    "score": 827
+    "score": 827,
+    "globalRank": 15485
   },
   {
     "login": "miyabi",
@@ -10385,7 +11126,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 742,
-    "score": 410
+    "score": 410,
+    "globalRank": 15524
   },
   {
     "login": "shspage",
@@ -10399,7 +11141,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 743,
-    "score": 274
+    "score": 274,
+    "globalRank": 15525
   },
   {
     "login": "kjur",
@@ -10413,7 +11156,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 744,
-    "score": 372
+    "score": 372,
+    "globalRank": 15576
   },
   {
     "login": "cessen",
@@ -10427,7 +11171,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 745,
-    "score": 794
+    "score": 794,
+    "globalRank": 15577
   },
   {
     "login": "maropu",
@@ -10441,7 +11186,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 746,
-    "score": 737
+    "score": 737,
+    "globalRank": 15578
   },
   {
     "login": "melpon",
@@ -10455,7 +11201,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 747,
-    "score": 1281
+    "score": 1281,
+    "globalRank": 15579
   },
   {
     "login": "shigeki",
@@ -10469,7 +11216,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 748,
-    "score": 271
+    "score": 271,
+    "globalRank": 15628
   },
   {
     "login": "LaoshuBaby",
@@ -10483,7 +11231,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 749,
-    "score": 577
+    "score": 577,
+    "globalRank": 15629
   },
   {
     "login": "teppeis",
@@ -10497,7 +11246,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 750,
-    "score": 520
+    "score": 520,
+    "globalRank": 15676
   },
   {
     "login": "forehalo",
@@ -10511,7 +11261,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 751,
-    "score": 1423
+    "score": 1423,
+    "globalRank": 15677
   },
   {
     "login": "MagicalTux",
@@ -10525,7 +11276,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 752,
-    "score": 16802
+    "score": 16802,
+    "globalRank": 15678
   },
   {
     "login": "shogo4405",
@@ -10539,7 +11291,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 753,
-    "score": 1984
+    "score": 1984,
+    "globalRank": 15679
   },
   {
     "login": "fladdict",
@@ -10553,7 +11306,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 754,
-    "score": 300
+    "score": 300,
+    "globalRank": 15737
   },
   {
     "login": "naruhitotakei",
@@ -10567,7 +11321,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 755,
-    "score": 269
+    "score": 269,
+    "globalRank": 15738
   },
   {
     "login": "SoraSuegami",
@@ -10581,7 +11336,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 756,
-    "score": 1059
+    "score": 1059,
+    "globalRank": 15739
   },
   {
     "login": "adarshaj",
@@ -10595,7 +11351,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 757,
-    "score": 357
+    "score": 357,
+    "globalRank": 15740
   },
   {
     "login": "Makio64",
@@ -10609,7 +11366,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 758,
-    "score": 1100
+    "score": 1100,
+    "globalRank": 15786
   },
   {
     "login": "mitchan0321",
@@ -10623,7 +11381,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 759,
-    "score": 376
+    "score": 376,
+    "globalRank": 15832
   },
   {
     "login": "shiraji",
@@ -10637,7 +11396,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 760,
-    "score": 278
+    "score": 278,
+    "globalRank": 15894
   },
   {
     "login": "mzyy94",
@@ -10651,7 +11411,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 761,
-    "score": 2568
+    "score": 2568,
+    "globalRank": 15895
   },
   {
     "login": "nyoki-mtl",
@@ -10665,7 +11426,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 762,
-    "score": 287
+    "score": 287,
+    "globalRank": 15896
   },
   {
     "login": "studiomohawk",
@@ -10679,7 +11441,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 763,
-    "score": 544
+    "score": 544,
+    "globalRank": 15897
   },
   {
     "login": "dai",
@@ -10693,7 +11456,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 764,
-    "score": 1173
+    "score": 1173,
+    "globalRank": 15898
   },
   {
     "login": "suin",
@@ -10707,7 +11471,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 765,
-    "score": 2760
+    "score": 2760,
+    "globalRank": 15899
   },
   {
     "login": "matschaffer",
@@ -10721,7 +11486,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 766,
-    "score": 276
+    "score": 276,
+    "globalRank": 15900
   },
   {
     "login": "halogenandtoast",
@@ -10735,7 +11501,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 767,
-    "score": 4540
+    "score": 4540,
+    "globalRank": 15951
   },
   {
     "login": "nullpo-head",
@@ -10749,7 +11516,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 768,
-    "score": 427
+    "score": 427,
+    "globalRank": 15952
   },
   {
     "login": "linxGnu",
@@ -10763,7 +11531,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 769,
-    "score": 316
+    "score": 316,
+    "globalRank": 15953
   },
   {
     "login": "andriiginting",
@@ -10777,7 +11546,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 770,
-    "score": 981
+    "score": 981,
+    "globalRank": 16006
   },
   {
     "login": "michaelpq",
@@ -10791,7 +11561,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 771,
-    "score": 776
+    "score": 776,
+    "globalRank": 16055
   },
   {
     "login": "mapconcierge",
@@ -10805,7 +11576,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 772,
-    "score": 877
+    "score": 877,
+    "globalRank": 16056
   },
   {
     "login": "rosylilly",
@@ -10819,7 +11591,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 773,
-    "score": 5580
+    "score": 5580,
+    "globalRank": 16057
   },
   {
     "login": "rejasupotaro",
@@ -10833,7 +11606,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 774,
-    "score": 1215
+    "score": 1215,
+    "globalRank": 16058
   },
   {
     "login": "bb-qq",
@@ -10847,7 +11621,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 775,
-    "score": 278
+    "score": 278,
+    "globalRank": 16059
   },
   {
     "login": "seanchas116",
@@ -10861,7 +11636,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 776,
-    "score": 9094
+    "score": 9094,
+    "globalRank": 16060
   },
   {
     "login": "tinyzqh",
@@ -10875,7 +11651,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 777,
-    "score": 613
+    "score": 613,
+    "globalRank": 16061
   },
   {
     "login": "yoshiori",
@@ -10889,7 +11666,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 778,
-    "score": 2336
+    "score": 2336,
+    "globalRank": 16062
   },
   {
     "login": "securas",
@@ -10903,7 +11681,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 779,
-    "score": 267
+    "score": 267,
+    "globalRank": 16063
   },
   {
     "login": "r-plus",
@@ -10917,7 +11696,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 780,
-    "score": 5428
+    "score": 5428,
+    "globalRank": 16064
   },
   {
     "login": "fukayatsu",
@@ -10931,7 +11711,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 781,
-    "score": 7469
+    "score": 7469,
+    "globalRank": 16116
   },
   {
     "login": "vaaaaanquish",
@@ -10945,7 +11726,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 782,
-    "score": 2337
+    "score": 2337,
+    "globalRank": 16117
   },
   {
     "login": "hirak",
@@ -10959,7 +11741,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 783,
-    "score": 2349
+    "score": 2349,
+    "globalRank": 16118
   },
   {
     "login": "tahafkh",
@@ -10973,7 +11756,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 784,
-    "score": 410
+    "score": 410,
+    "globalRank": 16119
   },
   {
     "login": "guregu",
@@ -10987,7 +11771,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 785,
-    "score": 396
+    "score": 396,
+    "globalRank": 16158
   },
   {
     "login": "ikeike443",
@@ -11001,7 +11786,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 786,
-    "score": 263
+    "score": 263,
+    "globalRank": 16159
   },
   {
     "login": "alphaKAI",
@@ -11015,7 +11801,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 787,
-    "score": 658
+    "score": 658,
+    "globalRank": 16210
   },
   {
     "login": "liyishuai",
@@ -11029,7 +11816,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 788,
-    "score": 688
+    "score": 688,
+    "globalRank": 16211
   },
   {
     "login": "sienori",
@@ -11043,7 +11831,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 789,
-    "score": 314
+    "score": 314,
+    "globalRank": 16212
   },
   {
     "login": "takuya-takeuchi",
@@ -11057,7 +11846,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 790,
-    "score": 409
+    "score": 409,
+    "globalRank": 16213
   },
   {
     "login": "Fuuzetsu",
@@ -11071,7 +11861,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 791,
-    "score": 278
+    "score": 278,
+    "globalRank": 16214
   },
   {
     "login": "koriym",
@@ -11085,7 +11876,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 792,
-    "score": 7412
+    "score": 7412,
+    "globalRank": 16275
   },
   {
     "login": "harawata",
@@ -11099,7 +11891,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 793,
-    "score": 319
+    "score": 319,
+    "globalRank": 16276
   },
   {
     "login": "taichi",
@@ -11113,7 +11906,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 794,
-    "score": 260
+    "score": 260,
+    "globalRank": 16277
   },
   {
     "login": "fumiyasac",
@@ -11127,7 +11921,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 795,
-    "score": 1531
+    "score": 1531,
+    "globalRank": 16278
   },
   {
     "login": "yhara",
@@ -11141,7 +11936,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 796,
-    "score": 806
+    "score": 806,
+    "globalRank": 16279
   },
   {
     "login": "LanceMoe",
@@ -11155,7 +11951,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 797,
-    "score": 971
+    "score": 971,
+    "globalRank": 16280
   },
   {
     "login": "dtan4",
@@ -11169,7 +11966,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 798,
-    "score": 269
+    "score": 269,
+    "globalRank": 16335
   },
   {
     "login": "swdyh",
@@ -11183,7 +11981,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 799,
-    "score": 258
+    "score": 258,
+    "globalRank": 16336
   },
   {
     "login": "uiryuu",
@@ -11197,7 +11996,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 800,
-    "score": 444
+    "score": 444,
+    "globalRank": 16337
   },
   {
     "login": "IloveNooodles",
@@ -11211,7 +12011,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 801,
-    "score": 4395
+    "score": 4395,
+    "globalRank": 16338
   },
   {
     "login": "kuy",
@@ -11225,7 +12026,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 802,
-    "score": 755
+    "score": 755,
+    "globalRank": 16339
   },
   {
     "login": "cmod",
@@ -11239,7 +12041,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 803,
-    "score": 298
+    "score": 298,
+    "globalRank": 16388
   },
   {
     "login": "anuraaga",
@@ -11253,7 +12056,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 804,
-    "score": 1509
+    "score": 1509,
+    "globalRank": 16389
   },
   {
     "login": "hamukazu",
@@ -11267,7 +12071,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 805,
-    "score": 644
+    "score": 644,
+    "globalRank": 16390
   },
   {
     "login": "aki-ph-chem",
@@ -11281,7 +12086,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 806,
-    "score": 2365
+    "score": 2365,
+    "globalRank": 16438
   },
   {
     "login": "Richard-Burns",
@@ -11295,7 +12101,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 807,
-    "score": 262
+    "score": 262,
+    "globalRank": 16439
   },
   {
     "login": "mi8bi",
@@ -11309,7 +12116,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 808,
-    "score": 556
+    "score": 556,
+    "globalRank": 16440
   },
   {
     "login": "yutopp",
@@ -11323,7 +12131,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 809,
-    "score": 256
+    "score": 256,
+    "globalRank": 16441
   },
   {
     "login": "patio11",
@@ -11337,7 +12146,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 810,
-    "score": 256
+    "score": 256,
+    "globalRank": 16442
   },
   {
     "login": "macocci7",
@@ -11351,7 +12161,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 811,
-    "score": 1491
+    "score": 1491,
+    "globalRank": 16489
   },
   {
     "login": "luadebug",
@@ -11365,7 +12176,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 812,
-    "score": 2317
+    "score": 2317,
+    "globalRank": 16490
   },
   {
     "login": "supermomonga",
@@ -11379,7 +12191,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 813,
-    "score": 2333
+    "score": 2333,
+    "globalRank": 16491
   },
   {
     "login": "arubdesu",
@@ -11393,7 +12206,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 814,
-    "score": 294
+    "score": 294,
+    "globalRank": 16492
   },
   {
     "login": "fumiya-kume",
@@ -11407,7 +12221,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 815,
-    "score": 16021
+    "score": 16021,
+    "globalRank": 16493
   },
   {
     "login": "abeake",
@@ -11421,7 +12236,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 816,
-    "score": 255
+    "score": 255,
+    "globalRank": 16494
   },
   {
     "login": "fqj1994",
@@ -11435,7 +12251,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 817,
-    "score": 458
+    "score": 458,
+    "globalRank": 16495
   },
   {
     "login": "3UR",
@@ -11449,7 +12266,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 818,
-    "score": 925
+    "score": 925,
+    "globalRank": 16496
   },
   {
     "login": "Malicieuse",
@@ -11463,7 +12281,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 819,
-    "score": 255
+    "score": 255,
+    "globalRank": 16497
   },
   {
     "login": "zaq1tomo",
@@ -11477,7 +12296,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 820,
-    "score": 461
+    "score": 461,
+    "globalRank": 16498
   },
   {
     "login": "uzulla",
@@ -11491,7 +12311,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 821,
-    "score": 2942
+    "score": 2942,
+    "globalRank": 16499
   },
   {
     "login": "coord-e",
@@ -11505,7 +12326,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 822,
-    "score": 2395
+    "score": 2395,
+    "globalRank": 16500
   },
   {
     "login": "rjyo",
@@ -11519,7 +12341,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 823,
-    "score": 6708
+    "score": 6708,
+    "globalRank": 16538
   },
   {
     "login": "ufcpp",
@@ -11533,7 +12356,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 824,
-    "score": 862
+    "score": 862,
+    "globalRank": 16539
   },
   {
     "login": "ryo8000",
@@ -11547,7 +12371,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 825,
-    "score": 1487
+    "score": 1487,
+    "globalRank": 16540
   },
   {
     "login": "tokoik",
@@ -11561,7 +12386,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 826,
-    "score": 1965
+    "score": 1965,
+    "globalRank": 16541
   },
   {
     "login": "sinhrks",
@@ -11575,7 +12401,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 827,
-    "score": 253
+    "score": 253,
+    "globalRank": 16599
   },
   {
     "login": "zhangysh1995",
@@ -11589,7 +12416,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 828,
-    "score": 270
+    "score": 270,
+    "globalRank": 16600
   },
   {
     "login": "hppRC",
@@ -11603,7 +12431,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 829,
-    "score": 774
+    "score": 774,
+    "globalRank": 16601
   },
   {
     "login": "NalaGinrut",
@@ -11617,7 +12446,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 830,
-    "score": 762
+    "score": 762,
+    "globalRank": 16644
   },
   {
     "login": "miyakogi",
@@ -11631,7 +12461,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 831,
-    "score": 951
+    "score": 951,
+    "globalRank": 16688
   },
   {
     "login": "peterzhu2118",
@@ -11645,7 +12476,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 832,
-    "score": 1502
+    "score": 1502,
+    "globalRank": 16689
   },
   {
     "login": "take-cheeze",
@@ -11659,7 +12491,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 833,
-    "score": 701
+    "score": 701,
+    "globalRank": 16690
   },
   {
     "login": "yoichiro",
@@ -11673,7 +12506,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 834,
-    "score": 2509
+    "score": 2509,
+    "globalRank": 16691
   },
   {
     "login": "megabitsenmzq",
@@ -11687,7 +12521,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 835,
-    "score": 1905
+    "score": 1905,
+    "globalRank": 16692
   },
   {
     "login": "bluele",
@@ -11701,7 +12536,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 836,
-    "score": 425
+    "score": 425,
+    "globalRank": 16734
   },
   {
     "login": "dahatake",
@@ -11715,7 +12551,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 837,
-    "score": 4436
+    "score": 4436,
+    "globalRank": 16735
   },
   {
     "login": "kurone-kito",
@@ -11729,7 +12566,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 838,
-    "score": 7483
+    "score": 7483,
+    "globalRank": 16736
   },
   {
     "login": "walf443",
@@ -11743,7 +12581,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 839,
-    "score": 2488
+    "score": 2488,
+    "globalRank": 16737
   },
   {
     "login": "konn",
@@ -11757,7 +12596,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 840,
-    "score": 2846
+    "score": 2846,
+    "globalRank": 16780
   },
   {
     "login": "ErosMLima",
@@ -11771,7 +12611,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 841,
-    "score": 252
+    "score": 252,
+    "globalRank": 16781
   },
   {
     "login": "yug1224",
@@ -11785,7 +12626,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 842,
-    "score": 7072
+    "score": 7072,
+    "globalRank": 16835
   },
   {
     "login": "norotime",
@@ -11799,7 +12641,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 843,
-    "score": 249
+    "score": 249,
+    "globalRank": 16836
   },
   {
     "login": "idawnlight",
@@ -11813,7 +12656,8 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 844,
-    "score": 1059
+    "score": 1059,
+    "globalRank": 16892
   },
   {
     "login": "takahashim",
@@ -11827,6 +12671,7 @@
     "country": "japan",
     "countryName": "Japan",
     "countryRank": 845,
-    "score": 2052
+    "score": 2052,
+    "globalRank": 16893
   }
 ]

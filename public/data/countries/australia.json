@@ -11,7 +11,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 1,
-    "score": 13282
+    "score": 13282,
+    "globalRank": 107
   },
   {
     "login": "TheCherno",
@@ -25,7 +26,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 2,
-    "score": 12826
+    "score": 12826,
+    "globalRank": 112
   },
   {
     "login": "0vm",
@@ -39,7 +41,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 3,
-    "score": 10235
+    "score": 10235,
+    "globalRank": 165
   },
   {
     "login": "haileys",
@@ -53,7 +56,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 4,
-    "score": 9519
+    "score": 9519,
+    "globalRank": 185
   },
   {
     "login": "brendangregg",
@@ -67,7 +71,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 5,
-    "score": 8744
+    "score": 8744,
+    "globalRank": 215
   },
   {
     "login": "jph00",
@@ -81,7 +86,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 6,
-    "score": 11972
+    "score": 11972,
+    "globalRank": 278
   },
   {
     "login": "davecheney",
@@ -95,7 +101,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 7,
-    "score": 10869
+    "score": 10869,
+    "globalRank": 316
   },
   {
     "login": "cornflourblue",
@@ -109,7 +116,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 8,
-    "score": 6713
+    "score": 6713,
+    "globalRank": 317
   },
   {
     "login": "rstacruz",
@@ -123,7 +131,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 9,
-    "score": 10667
+    "score": 10667,
+    "globalRank": 322
   },
   {
     "login": "jesseduffield",
@@ -137,7 +146,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 10,
-    "score": 10979
+    "score": 10979,
+    "globalRank": 326
   },
   {
     "login": "jasontaylordev",
@@ -151,7 +161,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 11,
-    "score": 7457
+    "score": 7457,
+    "globalRank": 328
   },
   {
     "login": "acantril",
@@ -165,7 +176,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 12,
-    "score": 5153
+    "score": 5153,
+    "globalRank": 461
   },
   {
     "login": "JedWatson",
@@ -179,7 +191,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 13,
-    "score": 5036
+    "score": 5036,
+    "globalRank": 532
   },
   {
     "login": "basarat",
@@ -193,7 +206,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 14,
-    "score": 4379
+    "score": 4379,
+    "globalRank": 619
   },
   {
     "login": "codingo",
@@ -207,7 +221,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 15,
-    "score": 3684
+    "score": 3684,
+    "globalRank": 759
   },
   {
     "login": "hakluke",
@@ -221,7 +236,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 16,
-    "score": 3455
+    "score": 3455,
+    "globalRank": 786
   },
   {
     "login": "markdalgleish",
@@ -235,7 +251,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 17,
-    "score": 3841
+    "score": 3841,
+    "globalRank": 828
   },
   {
     "login": "Endermanch",
@@ -249,7 +266,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 18,
-    "score": 3269
+    "score": 3269,
+    "globalRank": 836
   },
   {
     "login": "carlcastanas",
@@ -263,7 +281,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 19,
-    "score": 4197
+    "score": 4197,
+    "globalRank": 894
   },
   {
     "login": "dragen1860",
@@ -277,7 +296,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 20,
-    "score": 3110
+    "score": 3110,
+    "globalRank": 914
   },
   {
     "login": "robjhyndman",
@@ -291,7 +311,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 21,
-    "score": 7691
+    "score": 7691,
+    "globalRank": 921
   },
   {
     "login": "sahandghavidel",
@@ -305,7 +326,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 22,
-    "score": 4455
+    "score": 4455,
+    "globalRank": 929
   },
   {
     "login": "ghuntley",
@@ -319,7 +341,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 23,
-    "score": 9570
+    "score": 9570,
+    "globalRank": 1075
   },
   {
     "login": "JakeLin",
@@ -333,7 +356,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 24,
-    "score": 5128
+    "score": 5128,
+    "globalRank": 1088
   },
   {
     "login": "thombergs",
@@ -347,7 +371,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 25,
-    "score": 2640
+    "score": 2640,
+    "globalRank": 1132
   },
   {
     "login": "rvagg",
@@ -361,7 +386,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 26,
-    "score": 6179
+    "score": 6179,
+    "globalRank": 1144
   },
   {
     "login": "atomiks",
@@ -375,7 +401,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 27,
-    "score": 4427
+    "score": 4427,
+    "globalRank": 1172
   },
   {
     "login": "DmitryBaranovskiy",
@@ -389,7 +416,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 28,
-    "score": 2511
+    "score": 2511,
+    "globalRank": 1197
   },
   {
     "login": "sanjay-kv",
@@ -403,7 +431,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 29,
-    "score": 4705
+    "score": 4705,
+    "globalRank": 1269
   },
   {
     "login": "tonybaloney",
@@ -417,7 +446,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 30,
-    "score": 3433
+    "score": 3433,
+    "globalRank": 1350
   },
   {
     "login": "redguardtoo",
@@ -431,7 +461,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 31,
-    "score": 2447
+    "score": 2447,
+    "globalRank": 1365
   },
   {
     "login": "racheltho",
@@ -445,7 +476,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 32,
-    "score": 2275
+    "score": 2275,
+    "globalRank": 1413
   },
   {
     "login": "radar",
@@ -459,7 +491,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 33,
-    "score": 2474
+    "score": 2474,
+    "globalRank": 1476
   },
   {
     "login": "petercorke",
@@ -473,7 +506,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 34,
-    "score": 2391
+    "score": 2391,
+    "globalRank": 1501
   },
   {
     "login": "DonJayamanne",
@@ -487,7 +521,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 35,
-    "score": 6510
+    "score": 6510,
+    "globalRank": 1503
   },
   {
     "login": "mishmanners",
@@ -501,7 +536,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 36,
-    "score": 4251
+    "score": 4251,
+    "globalRank": 1605
   },
   {
     "login": "livinamuk",
@@ -515,7 +551,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 37,
-    "score": 2187
+    "score": 2187,
+    "globalRank": 1615
   },
   {
     "login": "jessarcher",
@@ -529,7 +566,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 38,
-    "score": 4165
+    "score": 4165,
+    "globalRank": 1648
   },
   {
     "login": "tonymorris",
@@ -543,7 +581,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 39,
-    "score": 2012
+    "score": 2012,
+    "globalRank": 1653
   },
   {
     "login": "foyzulkarim",
@@ -557,7 +596,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 40,
-    "score": 2746
+    "score": 2746,
+    "globalRank": 1678
   },
   {
     "login": "freakboy3742",
@@ -571,7 +611,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 41,
-    "score": 5189
+    "score": 5189,
+    "globalRank": 1680
   },
   {
     "login": "orhanobut",
@@ -585,7 +626,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 42,
-    "score": 4157
+    "score": 4157,
+    "globalRank": 1744
   },
   {
     "login": "infosec-au",
@@ -599,7 +641,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 43,
-    "score": 4667
+    "score": 4667,
+    "globalRank": 1800
   },
   {
     "login": "drnic",
@@ -613,7 +656,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 44,
-    "score": 5086
+    "score": 5086,
+    "globalRank": 1810
   },
   {
     "login": "BrodieRobertson",
@@ -627,7 +671,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 45,
-    "score": 1864
+    "score": 1864,
+    "globalRank": 1820
   },
   {
     "login": "dmytrodanylyk",
@@ -641,7 +686,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 46,
-    "score": 1957
+    "score": 1957,
+    "globalRank": 1840
   },
   {
     "login": "dae",
@@ -655,7 +701,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 47,
-    "score": 2226
+    "score": 2226,
+    "globalRank": 1850
   },
   {
     "login": "jpillora",
@@ -669,7 +716,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 48,
-    "score": 4990
+    "score": 4990,
+    "globalRank": 1965
   },
   {
     "login": "MaryamAustralia",
@@ -683,7 +731,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 49,
-    "score": 1711
+    "score": 1711,
+    "globalRank": 1988
   },
   {
     "login": "yesmeck",
@@ -697,7 +746,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 50,
-    "score": 2422
+    "score": 2422,
+    "globalRank": 1995
   },
   {
     "login": "timacdonald",
@@ -711,7 +761,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 51,
-    "score": 4078
+    "score": 4078,
+    "globalRank": 2042
   },
   {
     "login": "haskellcamargo",
@@ -725,7 +776,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 52,
-    "score": 2331
+    "score": 2331,
+    "globalRank": 2129
   },
   {
     "login": "kimman8",
@@ -739,7 +791,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 53,
-    "score": 1726
+    "score": 1726,
+    "globalRank": 2182
   },
   {
     "login": "sophiajt",
@@ -753,7 +806,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 54,
-    "score": 1625
+    "score": 1625,
+    "globalRank": 2195
   },
   {
     "login": "joshuamorony",
@@ -767,7 +821,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 55,
-    "score": 1615
+    "score": 1615,
+    "globalRank": 2275
   },
   {
     "login": "geelen",
@@ -781,7 +836,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 56,
-    "score": 2370
+    "score": 2370,
+    "globalRank": 2282
   },
   {
     "login": "adg",
@@ -795,7 +851,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 57,
-    "score": 1493
+    "score": 1493,
+    "globalRank": 2321
   },
   {
     "login": "TimOliver",
@@ -809,7 +866,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 58,
-    "score": 3741
+    "score": 3741,
+    "globalRank": 2344
   },
   {
     "login": "OJ",
@@ -823,7 +881,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 59,
-    "score": 1479
+    "score": 1479,
+    "globalRank": 2366
   },
   {
     "login": "SamSaffron",
@@ -837,7 +896,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 60,
-    "score": 3565
+    "score": 3565,
+    "globalRank": 2384
   },
   {
     "login": "thomasdavis",
@@ -851,7 +911,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 61,
-    "score": 9516
+    "score": 9516,
+    "globalRank": 2388
   },
   {
     "login": "alecthomas",
@@ -865,7 +926,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 62,
-    "score": 4136
+    "score": 4136,
+    "globalRank": 2476
   },
   {
     "login": "troyhunt",
@@ -879,7 +941,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 63,
-    "score": 2645
+    "score": 2645,
+    "globalRank": 2505
   },
   {
     "login": "aaronpowell",
@@ -893,7 +956,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 64,
-    "score": 4090
+    "score": 4090,
+    "globalRank": 2518
   },
   {
     "login": "fredwu",
@@ -907,7 +971,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 65,
-    "score": 2966
+    "score": 2966,
+    "globalRank": 2543
   },
   {
     "login": "md-5",
@@ -921,7 +986,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 66,
-    "score": 1485
+    "score": 1485,
+    "globalRank": 2553
   },
   {
     "login": "adriantwarog",
@@ -935,7 +1001,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 67,
-    "score": 1665
+    "score": 1665,
+    "globalRank": 2583
   },
   {
     "login": "Taiga74164",
@@ -949,7 +1016,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 68,
-    "score": 2193
+    "score": 2193,
+    "globalRank": 2627
   },
   {
     "login": "TuPayChain",
@@ -963,7 +1031,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 69,
-    "score": 1361
+    "score": 1361,
+    "globalRank": 2628
   },
   {
     "login": "lmiller1990",
@@ -977,7 +1046,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 70,
-    "score": 1773
+    "score": 1773,
+    "globalRank": 2688
   },
   {
     "login": "tseemann",
@@ -991,7 +1061,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 71,
-    "score": 2513
+    "score": 2513,
+    "globalRank": 2689
   },
   {
     "login": "MKSG-MugunthKumar",
@@ -1005,7 +1076,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 72,
-    "score": 3444
+    "score": 3444,
+    "globalRank": 2771
   },
   {
     "login": "JayZeeDesign",
@@ -1019,7 +1091,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 73,
-    "score": 4650
+    "score": 4650,
+    "globalRank": 2791
   },
   {
     "login": "tridge",
@@ -1033,7 +1106,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 74,
-    "score": 3138
+    "score": 3138,
+    "globalRank": 2808
   },
   {
     "login": "johndpope",
@@ -1047,7 +1121,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 75,
-    "score": 2077
+    "score": 2077,
+    "globalRank": 2817
   },
   {
     "login": "puffnfresh",
@@ -1061,7 +1136,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 76,
-    "score": 1699
+    "score": 1699,
+    "globalRank": 2844
   },
   {
     "login": "mnot",
@@ -1075,7 +1151,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 77,
-    "score": 3862
+    "score": 3862,
+    "globalRank": 2851
   },
   {
     "login": "jxom",
@@ -1089,7 +1166,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 78,
-    "score": 8989
+    "score": 8989,
+    "globalRank": 3104
   },
   {
     "login": "djnavarro",
@@ -1103,7 +1181,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 79,
-    "score": 2724
+    "score": 2724,
+    "globalRank": 3146
   },
   {
     "login": "aussieBIMguru",
@@ -1117,7 +1196,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 80,
-    "score": 1220
+    "score": 1220,
+    "globalRank": 3177
   },
   {
     "login": "nicbarker",
@@ -1131,7 +1211,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 81,
-    "score": 1534
+    "score": 1534,
+    "globalRank": 3184
   },
   {
     "login": "rrwick",
@@ -1145,7 +1226,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 82,
-    "score": 1950
+    "score": 1950,
+    "globalRank": 3186
   },
   {
     "login": "loftwah",
@@ -1159,7 +1241,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 83,
-    "score": 3176
+    "score": 3176,
+    "globalRank": 3221
   },
   {
     "login": "defaultnamehere",
@@ -1173,7 +1256,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 84,
-    "score": 1152
+    "score": 1152,
+    "globalRank": 3320
   },
   {
     "login": "harlan-zw",
@@ -1187,7 +1271,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 85,
-    "score": 7834
+    "score": 7834,
+    "globalRank": 3354
   },
   {
     "login": "rogerclarkmelbourne",
@@ -1201,7 +1286,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 86,
-    "score": 1145
+    "score": 1145,
+    "globalRank": 3388
   },
   {
     "login": "joshnewans",
@@ -1215,7 +1301,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 87,
-    "score": 1119
+    "score": 1119,
+    "globalRank": 3415
   },
   {
     "login": "tamim",
@@ -1229,7 +1316,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 88,
-    "score": 1138
+    "score": 1138,
+    "globalRank": 3416
   },
   {
     "login": "SimonCropp",
@@ -1243,7 +1331,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 89,
-    "score": 24238
+    "score": 24238,
+    "globalRank": 3437
   },
   {
     "login": "007revad",
@@ -1257,7 +1346,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 90,
-    "score": 3747
+    "score": 3747,
+    "globalRank": 3447
   },
   {
     "login": "jarrodwatts",
@@ -1271,7 +1361,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 91,
-    "score": 2225
+    "score": 2225,
+    "globalRank": 3514
   },
   {
     "login": "domesticmouse",
@@ -1285,7 +1376,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 92,
-    "score": 1707
+    "score": 1707,
+    "globalRank": 3524
   },
   {
     "login": "stenzek",
@@ -1299,7 +1391,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 93,
-    "score": 3466
+    "score": 3466,
+    "globalRank": 3569
   },
   {
     "login": "abruzzi",
@@ -1313,7 +1406,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 94,
-    "score": 1311
+    "score": 1311,
+    "globalRank": 3603
   },
   {
     "login": "hugobowne",
@@ -1327,7 +1421,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 95,
-    "score": 1316
+    "score": 1316,
+    "globalRank": 3634
   },
   {
     "login": "philnash",
@@ -1341,7 +1436,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 96,
-    "score": 1597
+    "score": 1597,
+    "globalRank": 3763
   },
   {
     "login": "stevemao",
@@ -1355,7 +1451,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 97,
-    "score": 1328
+    "score": 1328,
+    "globalRank": 3775
   },
   {
     "login": "yonaskolb",
@@ -1369,7 +1466,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 98,
-    "score": 2930
+    "score": 2930,
+    "globalRank": 3822
   },
   {
     "login": "durgeshsamariya",
@@ -1383,7 +1481,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 99,
-    "score": 1294
+    "score": 1294,
+    "globalRank": 3838
   },
   {
     "login": "kitsonk",
@@ -1397,7 +1496,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 100,
-    "score": 1396
+    "score": 1396,
+    "globalRank": 3874
   },
   {
     "login": "nnethercote",
@@ -1411,7 +1511,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 101,
-    "score": 2654
+    "score": 2654,
+    "globalRank": 3881
   },
   {
     "login": "dformoso",
@@ -1425,7 +1526,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 102,
-    "score": 1079
+    "score": 1079,
+    "globalRank": 3906
   },
   {
     "login": "insin",
@@ -1439,7 +1541,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 103,
-    "score": 1667
+    "score": 1667,
+    "globalRank": 3932
   },
   {
     "login": "Ralim",
@@ -1453,7 +1556,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 104,
-    "score": 2519
+    "score": 2519,
+    "globalRank": 3943
   },
   {
     "login": "eudoxia0",
@@ -1467,7 +1571,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 105,
-    "score": 6863
+    "score": 6863,
+    "globalRank": 3972
   },
   {
     "login": "Viralmaniar",
@@ -1481,7 +1586,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 106,
-    "score": 1119
+    "score": 1119,
+    "globalRank": 3980
   },
   {
     "login": "sidorares",
@@ -1495,7 +1601,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 107,
-    "score": 1390
+    "score": 1390,
+    "globalRank": 4072
   },
   {
     "login": "iann0036",
@@ -1509,7 +1616,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 108,
-    "score": 2758
+    "score": 2758,
+    "globalRank": 4104
   },
   {
     "login": "pixegami",
@@ -1523,7 +1631,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 109,
-    "score": 1016
+    "score": 1016,
+    "globalRank": 4124
   },
   {
     "login": "mattgallagher",
@@ -1537,7 +1646,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 110,
-    "score": 1026
+    "score": 1026,
+    "globalRank": 4150
   },
   {
     "login": "mithro",
@@ -1551,7 +1661,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 111,
-    "score": 9371
+    "score": 9371,
+    "globalRank": 4218
   },
   {
     "login": "ndleah",
@@ -1565,7 +1676,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 112,
-    "score": 2304
+    "score": 2304,
+    "globalRank": 4228
   },
   {
     "login": "benschwarz",
@@ -1579,7 +1691,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 113,
-    "score": 4433
+    "score": 4433,
+    "globalRank": 4237
   },
   {
     "login": "simonswiss",
@@ -1593,7 +1706,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 114,
-    "score": 1329
+    "score": 1329,
+    "globalRank": 4269
   },
   {
     "login": "iancoleman",
@@ -1607,7 +1721,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 115,
-    "score": 931
+    "score": 931,
+    "globalRank": 4316
   },
   {
     "login": "kaloraat",
@@ -1621,7 +1736,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 116,
-    "score": 923
+    "score": 923,
+    "globalRank": 4364
   },
   {
     "login": "torifat",
@@ -1635,7 +1751,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 117,
-    "score": 1390
+    "score": 1390,
+    "globalRank": 4377
   },
   {
     "login": "heidi-dang",
@@ -1649,7 +1766,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 118,
-    "score": 2486
+    "score": 2486,
+    "globalRank": 4574
   },
   {
     "login": "MaikuB",
@@ -1663,7 +1781,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 119,
-    "score": 1009
+    "score": 1009,
+    "globalRank": 4575
   },
   {
     "login": "cironunes",
@@ -1677,7 +1796,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 120,
-    "score": 901
+    "score": 901,
+    "globalRank": 4592
   },
   {
     "login": "matthewpalmer",
@@ -1691,7 +1811,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 121,
-    "score": 1858
+    "score": 1858,
+    "globalRank": 4705
   },
   {
     "login": "brendanzab",
@@ -1705,7 +1826,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 122,
-    "score": 1733
+    "score": 1733,
+    "globalRank": 4826
   },
   {
     "login": "dsymonds",
@@ -1719,7 +1841,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 123,
-    "score": 909
+    "score": 909,
+    "globalRank": 4900
   },
   {
     "login": "qinlili23333",
@@ -1733,7 +1856,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 124,
-    "score": 1503
+    "score": 1503,
+    "globalRank": 4944
   },
   {
     "login": "unruledboy",
@@ -1747,7 +1871,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 125,
-    "score": 832
+    "score": 832,
+    "globalRank": 4985
   },
   {
     "login": "mhart",
@@ -1761,7 +1886,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 126,
-    "score": 960
+    "score": 960,
+    "globalRank": 5016
   },
   {
     "login": "bokkypoobah",
@@ -1775,7 +1901,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 127,
-    "score": 2822
+    "score": 2822,
+    "globalRank": 5022
   },
   {
     "login": "kivikakk",
@@ -1789,7 +1916,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 128,
-    "score": 1645
+    "score": 1645,
+    "globalRank": 5036
   },
   {
     "login": "merill",
@@ -1803,7 +1931,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 129,
-    "score": 7935
+    "score": 7935,
+    "globalRank": 5037
   },
   {
     "login": "pybites",
@@ -1817,7 +1946,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 130,
-    "score": 823
+    "score": 823,
+    "globalRank": 5043
   },
   {
     "login": "sammchardy",
@@ -1831,7 +1961,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 131,
-    "score": 795
+    "score": 795,
+    "globalRank": 5234
   },
   {
     "login": "dpgeorge",
@@ -1845,7 +1976,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 132,
-    "score": 2088
+    "score": 2088,
+    "globalRank": 5259
   },
   {
     "login": "markmcd",
@@ -1859,7 +1991,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 133,
-    "score": 1341
+    "score": 1341,
+    "globalRank": 5318
   },
   {
     "login": "geshan",
@@ -1873,7 +2006,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 134,
-    "score": 1803
+    "score": 1803,
+    "globalRank": 5452
   },
   {
     "login": "harrism",
@@ -1887,7 +2021,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 135,
-    "score": 1892
+    "score": 1892,
+    "globalRank": 5453
   },
   {
     "login": "luispedro",
@@ -1901,7 +2036,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 136,
-    "score": 2154
+    "score": 2154,
+    "globalRank": 5551
   },
   {
     "login": "initstring",
@@ -1915,7 +2051,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 137,
-    "score": 928
+    "score": 928,
+    "globalRank": 5552
   },
   {
     "login": "leaanthony",
@@ -1929,7 +2066,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 138,
-    "score": 2433
+    "score": 2433,
+    "globalRank": 5587
   },
   {
     "login": "tmeasday",
@@ -1943,7 +2081,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 139,
-    "score": 868
+    "score": 868,
+    "globalRank": 5616
   },
   {
     "login": "huonw",
@@ -1957,7 +2096,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 140,
-    "score": 3341
+    "score": 3341,
+    "globalRank": 5626
   },
   {
     "login": "jstac",
@@ -1971,7 +2111,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 141,
-    "score": 2418
+    "score": 2418,
+    "globalRank": 5642
   },
   {
     "login": "irfanICMLL",
@@ -1985,7 +2126,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 142,
-    "score": 741
+    "score": 741,
+    "globalRank": 5668
   },
   {
     "login": "AliasIO",
@@ -1999,7 +2141,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 143,
-    "score": 7454
+    "score": 7454,
+    "globalRank": 5676
   },
   {
     "login": "theKashey",
@@ -2013,7 +2156,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 144,
-    "score": 2354
+    "score": 2354,
+    "globalRank": 5702
   },
   {
     "login": "boyter",
@@ -2027,7 +2171,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 145,
-    "score": 2258
+    "score": 2258,
+    "globalRank": 5734
   },
   {
     "login": "adamlyttleapps",
@@ -2041,7 +2186,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 146,
-    "score": 765
+    "score": 765,
+    "globalRank": 5774
   },
   {
     "login": "gregdavill",
@@ -2055,7 +2201,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 147,
-    "score": 1090
+    "score": 1090,
+    "globalRank": 5939
   },
   {
     "login": "jcouyang",
@@ -2069,7 +2216,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 148,
-    "score": 1766
+    "score": 1766,
+    "globalRank": 5959
   },
   {
     "login": "kirb",
@@ -2083,7 +2231,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 149,
-    "score": 2812
+    "score": 2812,
+    "globalRank": 5996
   },
   {
     "login": "samthor",
@@ -2097,7 +2246,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 150,
-    "score": 2203
+    "score": 2203,
+    "globalRank": 6054
   },
   {
     "login": "futureshocked",
@@ -2111,7 +2261,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 151,
-    "score": 897
+    "score": 897,
+    "globalRank": 6087
   },
   {
     "login": "datawithdanny",
@@ -2125,7 +2276,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 152,
-    "score": 770
+    "score": 770,
+    "globalRank": 6095
   },
   {
     "login": "jaydenseric",
@@ -2139,7 +2291,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 153,
-    "score": 1042
+    "score": 1042,
+    "globalRank": 6106
   },
   {
     "login": "ethicalhackingplayground",
@@ -2153,7 +2306,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 154,
-    "score": 734
+    "score": 734,
+    "globalRank": 6150
   },
   {
     "login": "GrahamDumpleton",
@@ -2167,7 +2321,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 155,
-    "score": 3004
+    "score": 3004,
+    "globalRank": 6159
   },
   {
     "login": "Re4son",
@@ -2181,7 +2336,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 156,
-    "score": 679
+    "score": 679,
+    "globalRank": 6213
   },
   {
     "login": "ryanseddon",
@@ -2195,7 +2351,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 157,
-    "score": 1576
+    "score": 1576,
+    "globalRank": 6253
   },
   {
     "login": "upsuper",
@@ -2209,7 +2366,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 158,
-    "score": 838
+    "score": 838,
+    "globalRank": 6259
   },
   {
     "login": "wizardofozzie",
@@ -2223,7 +2381,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 159,
-    "score": 675
+    "score": 675,
+    "globalRank": 6267
   },
   {
     "login": "alexdolbun",
@@ -2237,7 +2396,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 160,
-    "score": 841
+    "score": 841,
+    "globalRank": 6278
   },
   {
     "login": "glasnt",
@@ -2251,7 +2411,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 161,
-    "score": 2086
+    "score": 2086,
+    "globalRank": 6374
   },
   {
     "login": "prologic",
@@ -2265,7 +2426,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 162,
-    "score": 1127
+    "score": 1127,
+    "globalRank": 6470
   },
   {
     "login": "bardiharborow",
@@ -2279,7 +2441,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 163,
-    "score": 1676
+    "score": 1676,
+    "globalRank": 6482
   },
   {
     "login": "sampotts",
@@ -2293,7 +2456,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 164,
-    "score": 1511
+    "score": 1511,
+    "globalRank": 6604
   },
   {
     "login": "jarrodnorwell",
@@ -2307,7 +2471,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 165,
-    "score": 870
+    "score": 870,
+    "globalRank": 6624
   },
   {
     "login": "Brendonovich",
@@ -2321,7 +2486,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 166,
-    "score": 2112
+    "score": 2112,
+    "globalRank": 6667
   },
   {
     "login": "Karolyna84",
@@ -2335,7 +2501,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 167,
-    "score": 632
+    "score": 632,
+    "globalRank": 6712
   },
   {
     "login": "priseborough",
@@ -2349,7 +2516,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 168,
-    "score": 735
+    "score": 735,
+    "globalRank": 6743
   },
   {
     "login": "xaviershay",
@@ -2363,7 +2531,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 169,
-    "score": 670
+    "score": 670,
+    "globalRank": 6744
   },
   {
     "login": "HamishMW",
@@ -2377,7 +2546,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 170,
-    "score": 873
+    "score": 873,
+    "globalRank": 6847
   },
   {
     "login": "jc21",
@@ -2391,7 +2561,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 171,
-    "score": 1391
+    "score": 1391,
+    "globalRank": 6890
   },
   {
     "login": "dicook",
@@ -2405,7 +2576,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 172,
-    "score": 1438
+    "score": 1438,
+    "globalRank": 6940
   },
   {
     "login": "hugomd",
@@ -2419,7 +2591,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 173,
-    "score": 50187
+    "score": 50187,
+    "globalRank": 6957
   },
   {
     "login": "lanjelot",
@@ -2433,7 +2606,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 174,
-    "score": 613
+    "score": 613,
+    "globalRank": 6983
   },
   {
     "login": "matthewd",
@@ -2447,7 +2621,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 175,
-    "score": 703
+    "score": 703,
+    "globalRank": 7027
   },
   {
     "login": "cartant",
@@ -2461,7 +2636,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 176,
-    "score": 661
+    "score": 661,
+    "globalRank": 7044
   },
   {
     "login": "thomaseizinger",
@@ -2475,7 +2651,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 177,
-    "score": 3986
+    "score": 3986,
+    "globalRank": 7045
   },
   {
     "login": "mdsumner",
@@ -2489,7 +2666,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 178,
-    "score": 4444
+    "score": 4444,
+    "globalRank": 7059
   },
   {
     "login": "rickdavidson",
@@ -2503,7 +2681,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 179,
-    "score": 599
+    "score": 599,
+    "globalRank": 7071
   },
   {
     "login": "hendrikswan",
@@ -2517,7 +2696,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 180,
-    "score": 757
+    "score": 757,
+    "globalRank": 7092
   },
   {
     "login": "joshnh",
@@ -2531,7 +2711,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 181,
-    "score": 597
+    "score": 597,
+    "globalRank": 7093
   },
   {
     "login": "jayvdb",
@@ -2545,7 +2726,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 182,
-    "score": 3186
+    "score": 3186,
+    "globalRank": 7149
   },
   {
     "login": "0xdevalias",
@@ -2559,7 +2741,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 183,
-    "score": 844
+    "score": 844,
+    "globalRank": 7150
   },
   {
     "login": "cunninghamp",
@@ -2573,7 +2756,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 184,
-    "score": 613
+    "score": 613,
+    "globalRank": 7162
   },
   {
     "login": "drewnoakes",
@@ -2587,7 +2771,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 185,
-    "score": 1780
+    "score": 1780,
+    "globalRank": 7172
   },
   {
     "login": "retronym",
@@ -2601,7 +2786,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 186,
-    "score": 708
+    "score": 708,
+    "globalRank": 7173
   },
   {
     "login": "timriley",
@@ -2615,7 +2801,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 187,
-    "score": 2127
+    "score": 2127,
+    "globalRank": 7183
   },
   {
     "login": "MilesMcBain",
@@ -2629,7 +2816,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 188,
-    "score": 646
+    "score": 646,
+    "globalRank": 7205
   },
   {
     "login": "jshwi",
@@ -2643,7 +2831,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 189,
-    "score": 1652
+    "score": 1652,
+    "globalRank": 7206
   },
   {
     "login": "BastiaanOlij",
@@ -2657,7 +2846,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 190,
-    "score": 988
+    "score": 988,
+    "globalRank": 7265
   },
   {
     "login": "SaitoWu",
@@ -2671,7 +2861,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 191,
-    "score": 590
+    "score": 590,
+    "globalRank": 7281
   },
   {
     "login": "Raathigesh",
@@ -2685,7 +2876,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 192,
-    "score": 911
+    "score": 911,
+    "globalRank": 7309
   },
   {
     "login": "elliotcondon",
@@ -2699,7 +2891,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 193,
-    "score": 577
+    "score": 577,
+    "globalRank": 7331
   },
   {
     "login": "hamishwillee",
@@ -2713,7 +2906,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 194,
-    "score": 3177
+    "score": 3177,
+    "globalRank": 7481
   },
   {
     "login": "nathanhoad",
@@ -2727,7 +2921,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 195,
-    "score": 1411
+    "score": 1411,
+    "globalRank": 7494
   },
   {
     "login": "SchrodingersGat",
@@ -2741,7 +2936,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 196,
-    "score": 4012
+    "score": 4012,
+    "globalRank": 7522
   },
   {
     "login": "timburgan",
@@ -2755,7 +2951,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 197,
-    "score": 1245
+    "score": 1245,
+    "globalRank": 7523
   },
   {
     "login": "wahyd4",
@@ -2769,7 +2966,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 198,
-    "score": 1376
+    "score": 1376,
+    "globalRank": 7542
   },
   {
     "login": "tiagomatosweb",
@@ -2783,7 +2981,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 199,
-    "score": 744
+    "score": 744,
+    "globalRank": 7552
   },
   {
     "login": "martinthomson",
@@ -2797,7 +2996,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 200,
-    "score": 3178
+    "score": 3178,
+    "globalRank": 7599
   },
   {
     "login": "jhy",
@@ -2811,7 +3011,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 201,
-    "score": 2350
+    "score": 2350,
+    "globalRank": 7646
   },
   {
     "login": "ginsudev",
@@ -2825,7 +3026,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 202,
-    "score": 809
+    "score": 809,
+    "globalRank": 7647
   },
   {
     "login": "ncoghlan",
@@ -2839,7 +3041,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 203,
-    "score": 1624
+    "score": 1624,
+    "globalRank": 7667
   },
   {
     "login": "daftspunk",
@@ -2853,7 +3056,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 204,
-    "score": 7052
+    "score": 7052,
+    "globalRank": 7675
   },
   {
     "login": "jborean93",
@@ -2867,7 +3071,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 205,
-    "score": 1424
+    "score": 1424,
+    "globalRank": 7694
   },
   {
     "login": "pksjce",
@@ -2881,7 +3086,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 206,
-    "score": 769
+    "score": 769,
+    "globalRank": 7721
   },
   {
     "login": "emitanaka",
@@ -2895,7 +3101,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 207,
-    "score": 2972
+    "score": 2972,
+    "globalRank": 7763
   },
   {
     "login": "avneesh0612",
@@ -2909,7 +3116,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 208,
-    "score": 1281
+    "score": 1281,
+    "globalRank": 7789
   },
   {
     "login": "jasonlewis",
@@ -2923,7 +3131,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 209,
-    "score": 548
+    "score": 548,
+    "globalRank": 7815
   },
   {
     "login": "davidgilbertson",
@@ -2937,7 +3146,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 210,
-    "score": 972
+    "score": 972,
+    "globalRank": 7839
   },
   {
     "login": "thrasher-",
@@ -2951,7 +3161,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 211,
-    "score": 1205
+    "score": 1205,
+    "globalRank": 7943
   },
   {
     "login": "dissimulate",
@@ -2965,7 +3176,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 212,
-    "score": 4708
+    "score": 4708,
+    "globalRank": 7955
   },
   {
     "login": "inflex",
@@ -2979,7 +3191,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 213,
-    "score": 534
+    "score": 534,
+    "globalRank": 7956
   },
   {
     "login": "michaelneale",
@@ -2993,7 +3206,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 214,
-    "score": 4637
+    "score": 4637,
+    "globalRank": 7971
   },
   {
     "login": "soyelmnd",
@@ -3007,7 +3221,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 215,
-    "score": 1308
+    "score": 1308,
+    "globalRank": 7980
   },
   {
     "login": "shimmyshimmer",
@@ -3021,7 +3236,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 216,
-    "score": 2148
+    "score": 2148,
+    "globalRank": 7981
   },
   {
     "login": "scrrlt",
@@ -3035,7 +3251,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 217,
-    "score": 709
+    "score": 709,
+    "globalRank": 8012
   },
   {
     "login": "jnothman",
@@ -3049,7 +3266,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 218,
-    "score": 525
+    "score": 525,
+    "globalRank": 8030
   },
   {
     "login": "soarcn",
@@ -3063,7 +3281,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 219,
-    "score": 523
+    "score": 523,
+    "globalRank": 8051
   },
   {
     "login": "davidmoten",
@@ -3077,7 +3296,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 220,
-    "score": 1094
+    "score": 1094,
+    "globalRank": 8052
   },
   {
     "login": "jossmac",
@@ -3091,7 +3311,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 221,
-    "score": 576
+    "score": 576,
+    "globalRank": 8053
   },
   {
     "login": "pat",
@@ -3105,7 +3326,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 222,
-    "score": 1981
+    "score": 1981,
+    "globalRank": 8054
   },
   {
     "login": "bradzacher",
@@ -3119,7 +3341,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 223,
-    "score": 3787
+    "score": 3787,
+    "globalRank": 8055
   },
   {
     "login": "Aria-Dolatabadian",
@@ -3133,7 +3356,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 224,
-    "score": 596
+    "score": 596,
+    "globalRank": 8147
   },
   {
     "login": "abolkog",
@@ -3147,7 +3371,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 225,
-    "score": 639
+    "score": 639,
+    "globalRank": 8190
   },
   {
     "login": "Hujjat",
@@ -3161,7 +3386,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 226,
-    "score": 3458
+    "score": 3458,
+    "globalRank": 8191
   },
   {
     "login": "rachsmithcodes",
@@ -3175,7 +3401,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 227,
-    "score": 1196
+    "score": 1196,
+    "globalRank": 8251
   },
   {
     "login": "ben-rogerson",
@@ -3189,7 +3416,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 228,
-    "score": 1088
+    "score": 1088,
+    "globalRank": 8302
   },
   {
     "login": "mitchelloharawild",
@@ -3203,7 +3431,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 229,
-    "score": 3417
+    "score": 3417,
+    "globalRank": 8331
   },
   {
     "login": "GHOST-IKARUS",
@@ -3217,7 +3446,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 230,
-    "score": 503
+    "score": 503,
+    "globalRank": 8366
   },
   {
     "login": "oznu",
@@ -3231,7 +3461,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 231,
-    "score": 506
+    "score": 506,
+    "globalRank": 8386
   },
   {
     "login": "erikaduan",
@@ -3245,7 +3476,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 232,
-    "score": 534
+    "score": 534,
+    "globalRank": 8440
   },
   {
     "login": "nyalldawson",
@@ -3259,7 +3491,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 233,
-    "score": 4636
+    "score": 4636,
+    "globalRank": 8460
   },
   {
     "login": "joshhanley",
@@ -3273,7 +3506,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 234,
-    "score": 3247
+    "score": 3247,
+    "globalRank": 8461
   },
   {
     "login": "rodjek",
@@ -3287,7 +3521,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 235,
-    "score": 496
+    "score": 496,
+    "globalRank": 8522
   },
   {
     "login": "radekosmulski",
@@ -3301,7 +3536,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 236,
-    "score": 593
+    "score": 593,
+    "globalRank": 8553
   },
   {
     "login": "mitchmindtree",
@@ -3315,7 +3551,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 237,
-    "score": 1795
+    "score": 1795,
+    "globalRank": 8554
   },
   {
     "login": "mokagio",
@@ -3329,7 +3566,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 238,
-    "score": 5351
+    "score": 5351,
+    "globalRank": 8611
   },
   {
     "login": "UnexpectedMaker",
@@ -3343,7 +3581,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 239,
-    "score": 624
+    "score": 624,
+    "globalRank": 8630
   },
   {
     "login": "joho",
@@ -3357,7 +3596,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 240,
-    "score": 609
+    "score": 609,
+    "globalRank": 8655
   },
   {
     "login": "toolmantim",
@@ -3371,7 +3611,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 241,
-    "score": 2844
+    "score": 2844,
+    "globalRank": 8675
   },
   {
     "login": "kim-em",
@@ -3385,7 +3626,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 242,
-    "score": 25917
+    "score": 25917,
+    "globalRank": 8704
   },
   {
     "login": "trevorstephens",
@@ -3399,7 +3641,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 243,
-    "score": 499
+    "score": 499,
+    "globalRank": 8720
   },
   {
     "login": "Malinskiy",
@@ -3413,7 +3656,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 244,
-    "score": 1065
+    "score": 1065,
+    "globalRank": 8736
   },
   {
     "login": "LTLA",
@@ -3427,7 +3671,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 245,
-    "score": 4163
+    "score": 4163,
+    "globalRank": 8755
   },
   {
     "login": "DelphiWorlds",
@@ -3441,7 +3686,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 246,
-    "score": 542
+    "score": 542,
+    "globalRank": 8773
   },
   {
     "login": "steshaw",
@@ -3455,7 +3701,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 247,
-    "score": 1325
+    "score": 1325,
+    "globalRank": 8809
   },
   {
     "login": "fraserxu",
@@ -3469,7 +3716,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 248,
-    "score": 2883
+    "score": 2883,
+    "globalRank": 8810
   },
   {
     "login": "pentestfunctions",
@@ -3483,7 +3731,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 249,
-    "score": 759
+    "score": 759,
+    "globalRank": 8833
   },
   {
     "login": "davidlattimore",
@@ -3497,7 +3746,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 250,
-    "score": 1966
+    "score": 1966,
+    "globalRank": 8846
   },
   {
     "login": "Eric-Guo",
@@ -3511,7 +3761,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 251,
-    "score": 2667
+    "score": 2667,
+    "globalRank": 8847
   },
   {
     "login": "tonyarnold",
@@ -3525,7 +3776,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 252,
-    "score": 2477
+    "score": 2477,
+    "globalRank": 8870
   },
   {
     "login": "datanerd",
@@ -3539,7 +3791,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 253,
-    "score": 811
+    "score": 811,
+    "globalRank": 8913
   },
   {
     "login": "wezm",
@@ -3553,7 +3806,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 254,
-    "score": 1001
+    "score": 1001,
+    "globalRank": 8914
   },
   {
     "login": "runlevel5",
@@ -3567,7 +3821,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 255,
-    "score": 5259
+    "score": 5259,
+    "globalRank": 8915
   },
   {
     "login": "muhammadtalhasultan",
@@ -3581,7 +3836,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 256,
-    "score": 4202
+    "score": 4202,
+    "globalRank": 8933
   },
   {
     "login": "michaeldyrynda",
@@ -3595,7 +3851,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 257,
-    "score": 3132
+    "score": 3132,
+    "globalRank": 9082
   },
   {
     "login": "dijonmusters",
@@ -3609,7 +3866,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 258,
-    "score": 499
+    "score": 499,
+    "globalRank": 9105
   },
   {
     "login": "NiREvil",
@@ -3623,7 +3881,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 259,
-    "score": 497
+    "score": 497,
+    "globalRank": 9161
   },
   {
     "login": "amanda08",
@@ -3637,7 +3896,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 260,
-    "score": 673
+    "score": 673,
+    "globalRank": 9181
   },
   {
     "login": "dcousens",
@@ -3651,7 +3911,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 261,
-    "score": 619
+    "score": 619,
+    "globalRank": 9229
   },
   {
     "login": "malcolmt",
@@ -3665,7 +3926,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 262,
-    "score": 454
+    "score": 454,
+    "globalRank": 9267
   },
   {
     "login": "elijahgummer",
@@ -3679,7 +3941,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 263,
-    "score": 688
+    "score": 688,
+    "globalRank": 9315
   },
   {
     "login": "bjtu-lucas-nlp",
@@ -3693,7 +3956,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 264,
-    "score": 515
+    "score": 515,
+    "globalRank": 9316
   },
   {
     "login": "thelindat",
@@ -3707,7 +3971,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 265,
-    "score": 620
+    "score": 620,
+    "globalRank": 9317
   },
   {
     "login": "0x25bit",
@@ -3721,7 +3986,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 266,
-    "score": 470
+    "score": 470,
+    "globalRank": 9318
   },
   {
     "login": "jagregory",
@@ -3735,7 +4001,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 267,
-    "score": 583
+    "score": 583,
+    "globalRank": 9364
   },
   {
     "login": "Benjamin-Dobell",
@@ -3749,7 +4016,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 268,
-    "score": 2483
+    "score": 2483,
+    "globalRank": 9417
   },
   {
     "login": "futantan",
@@ -3763,7 +4031,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 269,
-    "score": 1361
+    "score": 1361,
+    "globalRank": 9483
   },
   {
     "login": "mcauser",
@@ -3777,7 +4046,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 270,
-    "score": 1785
+    "score": 1785,
+    "globalRank": 9552
   },
   {
     "login": "kolber",
@@ -3791,7 +4061,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 271,
-    "score": 441
+    "score": 441,
+    "globalRank": 9578
   },
   {
     "login": "kevin-lee",
@@ -3805,7 +4076,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 272,
-    "score": 5727
+    "score": 5727,
+    "globalRank": 9650
   },
   {
     "login": "sachinruk",
@@ -3819,7 +4091,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 273,
-    "score": 1292
+    "score": 1292,
+    "globalRank": 9651
   },
   {
     "login": "MewX",
@@ -3833,7 +4106,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 274,
-    "score": 887
+    "score": 887,
+    "globalRank": 9679
   },
   {
     "login": "tobyzerner",
@@ -3847,7 +4121,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 275,
-    "score": 750
+    "score": 750,
+    "globalRank": 9720
   },
   {
     "login": "jonleighton",
@@ -3861,7 +4136,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 276,
-    "score": 437
+    "score": 437,
+    "globalRank": 9742
   },
   {
     "login": "huxingyi",
@@ -3875,7 +4151,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 277,
-    "score": 1010
+    "score": 1010,
+    "globalRank": 9743
   },
   {
     "login": "jbampton",
@@ -3889,7 +4166,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 278,
-    "score": 6173
+    "score": 6173,
+    "globalRank": 9774
   },
   {
     "login": "psviderski",
@@ -3903,7 +4181,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 279,
-    "score": 1249
+    "score": 1249,
+    "globalRank": 9775
   },
   {
     "login": "oxinabox",
@@ -3917,7 +4196,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 280,
-    "score": 2083
+    "score": 2083,
+    "globalRank": 9776
   },
   {
     "login": "MajicDesigns",
@@ -3931,7 +4211,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 281,
-    "score": 442
+    "score": 442,
+    "globalRank": 9793
   },
   {
     "login": "ryanheise",
@@ -3945,7 +4226,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 282,
-    "score": 487
+    "score": 487,
+    "globalRank": 9794
   },
   {
     "login": "davkean",
@@ -3959,7 +4241,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 283,
-    "score": 482
+    "score": 482,
+    "globalRank": 9816
   },
   {
     "login": "sammcj",
@@ -3973,7 +4256,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 284,
-    "score": 4136
+    "score": 4136,
+    "globalRank": 9817
   },
   {
     "login": "moroshko",
@@ -3987,7 +4271,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 285,
-    "score": 504
+    "score": 504,
+    "globalRank": 9865
   },
   {
     "login": "SashenJayathilaka",
@@ -4001,7 +4286,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 286,
-    "score": 1353
+    "score": 1353,
+    "globalRank": 9945
   },
   {
     "login": "ashleydavis",
@@ -4015,7 +4301,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 287,
-    "score": 6772
+    "score": 6772,
+    "globalRank": 9970
   },
   {
     "login": "robin-dela",
@@ -4029,7 +4316,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 288,
-    "score": 565
+    "score": 565,
+    "globalRank": 9971
   },
   {
     "login": "maraisr",
@@ -4043,7 +4331,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 289,
-    "score": 3174
+    "score": 3174,
+    "globalRank": 9993
   },
   {
     "login": "owenlamont",
@@ -4057,7 +4346,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 290,
-    "score": 1185
+    "score": 1185,
+    "globalRank": 10036
   },
   {
     "login": "Z-Shang",
@@ -4071,7 +4361,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 291,
-    "score": 440
+    "score": 440,
+    "globalRank": 10086
   },
   {
     "login": "RManLuo",
@@ -4085,7 +4376,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 292,
-    "score": 778
+    "score": 778,
+    "globalRank": 10087
   },
   {
     "login": "edhinrichsen",
@@ -4099,7 +4391,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 293,
-    "score": 2400
+    "score": 2400,
+    "globalRank": 10088
   },
   {
     "login": "FedericoTartarini",
@@ -4113,7 +4406,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 294,
-    "score": 2364
+    "score": 2364,
+    "globalRank": 10119
   },
   {
     "login": "m3yevn",
@@ -4127,7 +4421,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 295,
-    "score": 811
+    "score": 811,
+    "globalRank": 10120
   },
   {
     "login": "hasibaust13",
@@ -4141,7 +4436,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 296,
-    "score": 545
+    "score": 545,
+    "globalRank": 10145
   },
   {
     "login": "ideasman42",
@@ -4155,7 +4451,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 297,
-    "score": 558
+    "score": 558,
+    "globalRank": 10146
   },
   {
     "login": "alessandrod",
@@ -4169,7 +4466,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 298,
-    "score": 898
+    "score": 898,
+    "globalRank": 10169
   },
   {
     "login": "chewxy",
@@ -4183,7 +4481,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 299,
-    "score": 427
+    "score": 427,
+    "globalRank": 10187
   },
   {
     "login": "mohammadKarimi",
@@ -4197,7 +4496,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 300,
-    "score": 3467
+    "score": 3467,
+    "globalRank": 10216
   },
   {
     "login": "vaibhavsagar",
@@ -4211,7 +4511,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 301,
-    "score": 607
+    "score": 607,
+    "globalRank": 10247
   },
   {
     "login": "aaronparker",
@@ -4225,7 +4526,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 302,
-    "score": 5005
+    "score": 5005,
+    "globalRank": 10305
   },
   {
     "login": "chendo",
@@ -4239,7 +4541,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 303,
-    "score": 1769
+    "score": 1769,
+    "globalRank": 10306
   },
   {
     "login": "OmgImAlexis",
@@ -4253,7 +4556,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 304,
-    "score": 412
+    "score": 412,
+    "globalRank": 10307
   },
   {
     "login": "liamzebedee",
@@ -4267,7 +4571,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 305,
-    "score": 771
+    "score": 771,
+    "globalRank": 10439
   },
   {
     "login": "jni",
@@ -4281,7 +4586,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 306,
-    "score": 1187
+    "score": 1187,
+    "globalRank": 10505
   },
   {
     "login": "DamonOehlman",
@@ -4295,7 +4601,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 307,
-    "score": 1795
+    "score": 1795,
+    "globalRank": 10544
   },
   {
     "login": "linsalrob",
@@ -4309,7 +4616,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 308,
-    "score": 2745
+    "score": 2745,
+    "globalRank": 10573
   },
   {
     "login": "lvarayut",
@@ -4323,7 +4631,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 309,
-    "score": 404
+    "score": 404,
+    "globalRank": 10574
   },
   {
     "login": "oscartbeaumont",
@@ -4337,7 +4646,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 310,
-    "score": 2932
+    "score": 2932,
+    "globalRank": 10658
   },
   {
     "login": "chrisleekr",
@@ -4351,7 +4661,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 311,
-    "score": 6006
+    "score": 6006,
+    "globalRank": 10743
   },
   {
     "login": "Krutie",
@@ -4365,7 +4676,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 312,
-    "score": 834
+    "score": 834,
+    "globalRank": 10766
   },
   {
     "login": "adamrehn",
@@ -4379,7 +4691,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 313,
-    "score": 478
+    "score": 478,
+    "globalRank": 10767
   },
   {
     "login": "justinsteven",
@@ -4393,7 +4706,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 314,
-    "score": 671
+    "score": 671,
+    "globalRank": 10821
   },
   {
     "login": "but0n",
@@ -4407,7 +4721,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 315,
-    "score": 408
+    "score": 408,
+    "globalRank": 10872
   },
   {
     "login": "michaelsproul",
@@ -4421,7 +4736,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 316,
-    "score": 1744
+    "score": 1744,
+    "globalRank": 10873
   },
   {
     "login": "1hakr",
@@ -4435,7 +4751,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 317,
-    "score": 1560
+    "score": 1560,
+    "globalRank": 10909
   },
   {
     "login": "dcode-youtube",
@@ -4449,7 +4766,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 318,
-    "score": 391
+    "score": 391,
+    "globalRank": 10910
   },
   {
     "login": "erikd",
@@ -4463,7 +4781,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 319,
-    "score": 1067
+    "score": 1067,
+    "globalRank": 10911
   },
   {
     "login": "Michael-F-Bryan",
@@ -4477,7 +4796,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 320,
-    "score": 1820
+    "score": 1820,
+    "globalRank": 10945
   },
   {
     "login": "mon",
@@ -4491,7 +4811,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 321,
-    "score": 675
+    "score": 675,
+    "globalRank": 10997
   },
   {
     "login": "waferbaby",
@@ -4505,7 +4826,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 322,
-    "score": 2740
+    "score": 2740,
+    "globalRank": 11026
   },
   {
     "login": "anthonygore",
@@ -4519,7 +4841,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 323,
-    "score": 611
+    "score": 611,
+    "globalRank": 11027
   },
   {
     "login": "evgenyneu",
@@ -4533,7 +4856,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 324,
-    "score": 1720
+    "score": 1720,
+    "globalRank": 11060
   },
   {
     "login": "leotrieu",
@@ -4547,7 +4871,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 325,
-    "score": 396
+    "score": 396,
+    "globalRank": 11061
   },
   {
     "login": "ray-x",
@@ -4561,7 +4886,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 326,
-    "score": 749
+    "score": 749,
+    "globalRank": 11062
   },
   {
     "login": "Mause",
@@ -4575,7 +4901,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 327,
-    "score": 8783
+    "score": 8783,
+    "globalRank": 11063
   },
   {
     "login": "nickgammon",
@@ -4589,7 +4916,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 328,
-    "score": 415
+    "score": 415,
+    "globalRank": 11094
   },
   {
     "login": "olebedev",
@@ -4603,7 +4931,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 329,
-    "score": 938
+    "score": 938,
+    "globalRank": 11153
   },
   {
     "login": "mrjahsan",
@@ -4617,7 +4946,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 330,
-    "score": 1098
+    "score": 1098,
+    "globalRank": 11154
   },
   {
     "login": "alexhude",
@@ -4631,7 +4961,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 331,
-    "score": 386
+    "score": 386,
+    "globalRank": 11155
   },
   {
     "login": "Damovisa",
@@ -4645,7 +4976,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 332,
-    "score": 662
+    "score": 662,
+    "globalRank": 11156
   },
   {
     "login": "pszklarska",
@@ -4659,7 +4991,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 333,
-    "score": 382
+    "score": 382,
+    "globalRank": 11189
   },
   {
     "login": "LaloCo",
@@ -4673,7 +5006,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 334,
-    "score": 851
+    "score": 851,
+    "globalRank": 11190
   },
   {
     "login": "gloveboxes",
@@ -4687,7 +5021,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 335,
-    "score": 2207
+    "score": 2207,
+    "globalRank": 11221
   },
   {
     "login": "C-Sto",
@@ -4701,7 +5036,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 336,
-    "score": 382
+    "score": 382,
+    "globalRank": 11222
   },
   {
     "login": "twang2218",
@@ -4715,7 +5051,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 337,
-    "score": 379
+    "score": 379,
+    "globalRank": 11297
   },
   {
     "login": "SathyaBhat",
@@ -4729,7 +5066,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 338,
-    "score": 666
+    "score": 666,
+    "globalRank": 11328
   },
   {
     "login": "Sutto",
@@ -4743,7 +5081,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 339,
-    "score": 374
+    "score": 374,
+    "globalRank": 11478
   },
   {
     "login": "azz",
@@ -4757,7 +5096,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 340,
-    "score": 2067
+    "score": 2067,
+    "globalRank": 11549
   },
   {
     "login": "mitchivin",
@@ -4771,7 +5111,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 341,
-    "score": 821
+    "score": 821,
+    "globalRank": 11632
   },
   {
     "login": "sj26",
@@ -4785,7 +5126,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 342,
-    "score": 997
+    "score": 997,
+    "globalRank": 11633
   },
   {
     "login": "hyperionstudios",
@@ -4799,7 +5141,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 343,
-    "score": 368
+    "score": 368,
+    "globalRank": 11658
   },
   {
     "login": "psifertex",
@@ -4813,7 +5156,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 344,
-    "score": 1285
+    "score": 1285,
+    "globalRank": 11694
   },
   {
     "login": "affrae",
@@ -4827,7 +5171,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 345,
-    "score": 409
+    "score": 409,
+    "globalRank": 11727
   },
   {
     "login": "ninxsoft",
@@ -4841,7 +5186,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 346,
-    "score": 3603
+    "score": 3603,
+    "globalRank": 11769
   },
   {
     "login": "ngot",
@@ -4855,7 +5201,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 347,
-    "score": 601
+    "score": 601,
+    "globalRank": 11806
   },
   {
     "login": "taitems",
@@ -4869,7 +5216,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 348,
-    "score": 1318
+    "score": 1318,
+    "globalRank": 11850
   },
   {
     "login": "jernejk",
@@ -4883,7 +5231,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 349,
-    "score": 1222
+    "score": 1222,
+    "globalRank": 11967
   },
   {
     "login": "itsdouges",
@@ -4897,7 +5246,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 350,
-    "score": 2116
+    "score": 2116,
+    "globalRank": 11968
   },
   {
     "login": "aershov24",
@@ -4911,7 +5261,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 351,
-    "score": 361
+    "score": 361,
+    "globalRank": 11969
   },
   {
     "login": "aidansteele",
@@ -4925,7 +5276,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 352,
-    "score": 2998
+    "score": 2998,
+    "globalRank": 12053
   },
   {
     "login": "gnif",
@@ -4939,7 +5291,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 353,
-    "score": 643
+    "score": 643,
+    "globalRank": 12092
   },
   {
     "login": "Coder-Yu",
@@ -4953,7 +5306,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 354,
-    "score": 365
+    "score": 365,
+    "globalRank": 12093
   },
   {
     "login": "davidar",
@@ -4967,7 +5321,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 355,
-    "score": 1430
+    "score": 1430,
+    "globalRank": 12094
   },
   {
     "login": "tomanagle",
@@ -4981,7 +5336,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 356,
-    "score": 3007
+    "score": 3007,
+    "globalRank": 12131
   },
   {
     "login": "Showfom",
@@ -4995,7 +5351,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 357,
-    "score": 1343
+    "score": 1343,
+    "globalRank": 12132
   },
   {
     "login": "adamhsparks",
@@ -5009,7 +5366,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 358,
-    "score": 2265
+    "score": 2265,
+    "globalRank": 12164
   },
   {
     "login": "Hona",
@@ -5023,7 +5381,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 359,
-    "score": 1229
+    "score": 1229,
+    "globalRank": 12189
   },
   {
     "login": "TheCSharpAcademy",
@@ -5037,7 +5396,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 360,
-    "score": 1361
+    "score": 1361,
+    "globalRank": 12190
   },
   {
     "login": "manoj9788",
@@ -5051,7 +5411,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 361,
-    "score": 392
+    "score": 392,
+    "globalRank": 12191
   },
   {
     "login": "wwood",
@@ -5065,7 +5426,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 362,
-    "score": 1227
+    "score": 1227,
+    "globalRank": 12192
   },
   {
     "login": "justinfrench",
@@ -5079,7 +5441,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 363,
-    "score": 453
+    "score": 453,
+    "globalRank": 12253
   },
   {
     "login": "wolfeidau",
@@ -5093,7 +5456,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 364,
-    "score": 3371
+    "score": 3371,
+    "globalRank": 12283
   },
   {
     "login": "dmex",
@@ -5107,7 +5471,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 365,
-    "score": 1763
+    "score": 1763,
+    "globalRank": 12284
   },
   {
     "login": "nshalabi",
@@ -5121,7 +5486,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 366,
-    "score": 423
+    "score": 423,
+    "globalRank": 12414
   },
   {
     "login": "friendica",
@@ -5135,7 +5501,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 367,
-    "score": 346
+    "score": 346,
+    "globalRank": 12452
   },
   {
     "login": "tim-buchalka",
@@ -5149,7 +5516,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 368,
-    "score": 346
+    "score": 346,
+    "globalRank": 12453
   },
   {
     "login": "viraptor",
@@ -5163,7 +5531,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 369,
-    "score": 1700
+    "score": 1700,
+    "globalRank": 12484
   },
   {
     "login": "risetothetop2127",
@@ -5177,7 +5546,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 370,
-    "score": 344
+    "score": 344,
+    "globalRank": 12519
   },
   {
     "login": "vektah",
@@ -5191,7 +5561,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 371,
-    "score": 1101
+    "score": 1101,
+    "globalRank": 12547
   },
   {
     "login": "jacqui",
@@ -5205,7 +5576,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 372,
-    "score": 357
+    "score": 357,
+    "globalRank": 12582
   },
   {
     "login": "Vercidium",
@@ -5219,7 +5591,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 373,
-    "score": 508
+    "score": 508,
+    "globalRank": 12583
   },
   {
     "login": "wassname",
@@ -5233,7 +5606,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 374,
-    "score": 2438
+    "score": 2438,
+    "globalRank": 12584
   },
   {
     "login": "wdhdev",
@@ -5247,7 +5621,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 375,
-    "score": 2864
+    "score": 2864,
+    "globalRank": 12621
   },
   {
     "login": "thushv89",
@@ -5261,7 +5636,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 376,
-    "score": 341
+    "score": 341,
+    "globalRank": 12622
   },
   {
     "login": "danieldelcore",
@@ -5275,7 +5651,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 377,
-    "score": 872
+    "score": 872,
+    "globalRank": 12663
   },
   {
     "login": "AaronDinnage",
@@ -5289,7 +5666,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 378,
-    "score": 340
+    "score": 340,
+    "globalRank": 12664
   },
   {
     "login": "FagnerMartinsBrack",
@@ -5303,7 +5681,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 379,
-    "score": 3284
+    "score": 3284,
+    "globalRank": 12694
   },
   {
     "login": "mrmckeb",
@@ -5317,7 +5696,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 380,
-    "score": 1483
+    "score": 1483,
+    "globalRank": 12737
   },
   {
     "login": "rikka0w0",
@@ -5331,7 +5711,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 381,
-    "score": 400
+    "score": 400,
+    "globalRank": 12767
   },
   {
     "login": "Avangelista",
@@ -5345,7 +5726,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 382,
-    "score": 353
+    "score": 353,
+    "globalRank": 12768
   },
   {
     "login": "nosir",
@@ -5359,7 +5741,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 383,
-    "score": 337
+    "score": 337,
+    "globalRank": 12769
   },
   {
     "login": "stuartwdouglas",
@@ -5373,7 +5756,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 384,
-    "score": 698
+    "score": 698,
+    "globalRank": 12805
   },
   {
     "login": "Moult",
@@ -5387,7 +5771,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 385,
-    "score": 1030
+    "score": 1030,
+    "globalRank": 12806
   },
   {
     "login": "deoxxa",
@@ -5401,7 +5786,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 386,
-    "score": 336
+    "score": 336,
+    "globalRank": 12807
   },
   {
     "login": "deathau",
@@ -5415,7 +5801,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 387,
-    "score": 467
+    "score": 467,
+    "globalRank": 12808
   },
   {
     "login": "Rosuav",
@@ -5429,7 +5816,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 388,
-    "score": 2280
+    "score": 2280,
+    "globalRank": 12842
   },
   {
     "login": "adamped",
@@ -5443,7 +5831,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 389,
-    "score": 334
+    "score": 334,
+    "globalRank": 12880
   },
   {
     "login": "jesstelford",
@@ -5457,7 +5846,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 390,
-    "score": 1551
+    "score": 1551,
+    "globalRank": 12913
   },
   {
     "login": "lebinh",
@@ -5471,7 +5861,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 391,
-    "score": 338
+    "score": 338,
+    "globalRank": 12914
   },
   {
     "login": "ArjunAranetaCodes",
@@ -5485,7 +5876,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 392,
-    "score": 2533
+    "score": 2533,
+    "globalRank": 12944
   },
   {
     "login": "RichardScottOZ",
@@ -5499,7 +5891,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 393,
-    "score": 2723
+    "score": 2723,
+    "globalRank": 12972
   },
   {
     "login": "oleg-shilo",
@@ -5513,7 +5906,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 394,
-    "score": 1050
+    "score": 1050,
+    "globalRank": 12973
   },
   {
     "login": "bradwoods",
@@ -5527,7 +5921,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 395,
-    "score": 1431
+    "score": 1431,
+    "globalRank": 12974
   },
   {
     "login": "ydkhatri",
@@ -5541,7 +5936,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 396,
-    "score": 462
+    "score": 462,
+    "globalRank": 13078
   },
   {
     "login": "Ryzee119",
@@ -5555,7 +5951,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 397,
-    "score": 614
+    "score": 614,
+    "globalRank": 13110
   },
   {
     "login": "kortschak",
@@ -5569,7 +5966,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 398,
-    "score": 511
+    "score": 511,
+    "globalRank": 13111
   },
   {
     "login": "kaievns",
@@ -5583,7 +5981,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 399,
-    "score": 639
+    "score": 639,
+    "globalRank": 13189
   },
   {
     "login": "yamadapc",
@@ -5597,7 +5996,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 400,
-    "score": 773
+    "score": 773,
+    "globalRank": 13190
   },
   {
     "login": "peterbarker",
@@ -5611,7 +6011,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 401,
-    "score": 4037
+    "score": 4037,
+    "globalRank": 13226
   },
   {
     "login": "6mile",
@@ -5625,7 +6026,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 402,
-    "score": 620
+    "score": 620,
+    "globalRank": 13227
   },
   {
     "login": "wbowling",
@@ -5639,7 +6041,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 403,
-    "score": 379
+    "score": 379,
+    "globalRank": 13255
   },
   {
     "login": "KaelWD",
@@ -5653,7 +6056,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 404,
-    "score": 1225
+    "score": 1225,
+    "globalRank": 13256
   },
   {
     "login": "JakeGinnivan",
@@ -5667,7 +6071,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 405,
-    "score": 1372
+    "score": 1372,
+    "globalRank": 13257
   },
   {
     "login": "voidtools",
@@ -5681,7 +6086,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 406,
-    "score": 779
+    "score": 779,
+    "globalRank": 13295
   },
   {
     "login": "ajsutton",
@@ -5695,7 +6101,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 407,
-    "score": 5680
+    "score": 5680,
+    "globalRank": 13344
   },
   {
     "login": "edisonyls",
@@ -5709,7 +6116,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 408,
-    "score": 1843
+    "score": 1843,
+    "globalRank": 13345
   },
   {
     "login": "Firstyear",
@@ -5723,7 +6131,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 409,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 13346
   },
   {
     "login": "gavanlamb",
@@ -5737,7 +6146,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 410,
-    "score": 486
+    "score": 486,
+    "globalRank": 13380
   },
   {
     "login": "SimonBiggs",
@@ -5751,7 +6161,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 411,
-    "score": 367
+    "score": 367,
+    "globalRank": 13381
   },
   {
     "login": "DrSleep",
@@ -5765,7 +6176,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 412,
-    "score": 321
+    "score": 321,
+    "globalRank": 13413
   },
   {
     "login": "MelbourneDeveloper",
@@ -5779,7 +6191,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 413,
-    "score": 3885
+    "score": 3885,
+    "globalRank": 13494
   },
   {
     "login": "josephj",
@@ -5793,7 +6206,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 414,
-    "score": 3030
+    "score": 3030,
+    "globalRank": 13495
   },
   {
     "login": "rfk",
@@ -5807,7 +6221,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 415,
-    "score": 362
+    "score": 362,
+    "globalRank": 13496
   },
   {
     "login": "aravindvnair99",
@@ -5821,7 +6236,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 416,
-    "score": 446
+    "score": 446,
+    "globalRank": 13536
   },
   {
     "login": "NeatGuyCoding",
@@ -5835,7 +6251,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 417,
-    "score": 1817
+    "score": 1817,
+    "globalRank": 13537
   },
   {
     "login": "jess-hammer",
@@ -5849,7 +6266,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 418,
-    "score": 1357
+    "score": 1357,
+    "globalRank": 13538
   },
   {
     "login": "SvenDowideit",
@@ -5863,7 +6281,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 419,
-    "score": 991
+    "score": 991,
+    "globalRank": 13539
   },
   {
     "login": "apkelly",
@@ -5877,7 +6296,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 420,
-    "score": 667
+    "score": 667,
+    "globalRank": 13582
   },
   {
     "login": "Jason2Brownlee",
@@ -5891,7 +6311,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 421,
-    "score": 1385
+    "score": 1385,
+    "globalRank": 13583
   },
   {
     "login": "stevenbird",
@@ -5905,7 +6326,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 422,
-    "score": 392
+    "score": 392,
+    "globalRank": 13584
   },
   {
     "login": "JasonXuDeveloper",
@@ -5919,7 +6341,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 423,
-    "score": 2754
+    "score": 2754,
+    "globalRank": 13585
   },
   {
     "login": "mvandermeulen",
@@ -5933,7 +6356,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 424,
-    "score": 9037
+    "score": 9037,
+    "globalRank": 13586
   },
   {
     "login": "keithpitt",
@@ -5947,7 +6371,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 425,
-    "score": 4203
+    "score": 4203,
+    "globalRank": 13587
   },
   {
     "login": "jasperblues",
@@ -5961,7 +6386,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 426,
-    "score": 920
+    "score": 920,
+    "globalRank": 13588
   },
   {
     "login": "epoch",
@@ -5975,7 +6401,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 427,
-    "score": 315
+    "score": 315,
+    "globalRank": 13628
   },
   {
     "login": "federicobond",
@@ -5989,7 +6416,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 428,
-    "score": 3054
+    "score": 3054,
+    "globalRank": 13678
   },
   {
     "login": "ihadeed",
@@ -6003,7 +6431,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 429,
-    "score": 311
+    "score": 311,
+    "globalRank": 13794
   },
   {
     "login": "lukakerr",
@@ -6017,7 +6446,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 430,
-    "score": 1608
+    "score": 1608,
+    "globalRank": 13795
   },
   {
     "login": "scudette",
@@ -6031,7 +6461,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 431,
-    "score": 1837
+    "score": 1837,
+    "globalRank": 13864
   },
   {
     "login": "amaarora",
@@ -6045,7 +6476,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 432,
-    "score": 865
+    "score": 865,
+    "globalRank": 13865
   },
   {
     "login": "AlexStormwood",
@@ -6059,7 +6491,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 433,
-    "score": 1118
+    "score": 1118,
+    "globalRank": 13934
   },
   {
     "login": "duncanhunter",
@@ -6073,7 +6506,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 434,
-    "score": 347
+    "score": 347,
+    "globalRank": 13935
   },
   {
     "login": "bentrengrove",
@@ -6087,7 +6521,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 435,
-    "score": 370
+    "score": 370,
+    "globalRank": 13936
   },
   {
     "login": "tobyilee",
@@ -6101,7 +6536,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 436,
-    "score": 1452
+    "score": 1452,
+    "globalRank": 13983
   },
   {
     "login": "alanjrogers",
@@ -6115,7 +6551,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 437,
-    "score": 686
+    "score": 686,
+    "globalRank": 14057
   },
   {
     "login": "chris-horner",
@@ -6129,7 +6566,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 438,
-    "score": 1590
+    "score": 1590,
+    "globalRank": 14058
   },
   {
     "login": "devgeeks",
@@ -6143,7 +6581,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 439,
-    "score": 303
+    "score": 303,
+    "globalRank": 14059
   },
   {
     "login": "emukidid",
@@ -6157,7 +6596,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 440,
-    "score": 347
+    "score": 347,
+    "globalRank": 14060
   },
   {
     "login": "dekz",
@@ -6171,7 +6611,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 441,
-    "score": 631
+    "score": 631,
+    "globalRank": 14153
   },
   {
     "login": "AndiiCodes",
@@ -6185,7 +6626,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 442,
-    "score": 727
+    "score": 727,
+    "globalRank": 14204
   },
   {
     "login": "valorin",
@@ -6199,7 +6641,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 443,
-    "score": 927
+    "score": 927,
+    "globalRank": 14205
   },
   {
     "login": "jthegedus",
@@ -6213,7 +6656,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 444,
-    "score": 434
+    "score": 434,
+    "globalRank": 14206
   },
   {
     "login": "gustavohenke",
@@ -6227,7 +6671,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 445,
-    "score": 2060
+    "score": 2060,
+    "globalRank": 14207
   },
   {
     "login": "lox",
@@ -6241,7 +6686,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 446,
-    "score": 4120
+    "score": 4120,
+    "globalRank": 14248
   },
   {
     "login": "debajyotikarmaker",
@@ -6255,7 +6701,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 447,
-    "score": 300
+    "score": 300,
+    "globalRank": 14249
   },
   {
     "login": "thepowersgang",
@@ -6269,7 +6716,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 448,
-    "score": 992
+    "score": 992,
+    "globalRank": 14333
   },
   {
     "login": "Alhadis",
@@ -6283,7 +6731,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 449,
-    "score": 756
+    "score": 756,
+    "globalRank": 14334
   },
   {
     "login": "mbhall88",
@@ -6297,7 +6746,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 450,
-    "score": 728
+    "score": 728,
+    "globalRank": 14335
   },
   {
     "login": "mike42",
@@ -6311,7 +6761,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 451,
-    "score": 318
+    "score": 318,
+    "globalRank": 14336
   },
   {
     "login": "arttnba3",
@@ -6325,7 +6776,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 452,
-    "score": 399
+    "score": 399,
+    "globalRank": 14377
   },
   {
     "login": "srikat",
@@ -6339,7 +6791,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 453,
-    "score": 356
+    "score": 356,
+    "globalRank": 14378
   },
   {
     "login": "JohnClema",
@@ -6353,7 +6806,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 454,
-    "score": 319
+    "score": 319,
+    "globalRank": 14379
   },
   {
     "login": "mrvautin",
@@ -6367,7 +6821,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 455,
-    "score": 827
+    "score": 827,
+    "globalRank": 14380
   },
   {
     "login": "nullobject",
@@ -6381,7 +6836,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 456,
-    "score": 2288
+    "score": 2288,
+    "globalRank": 14426
   },
   {
     "login": "LucasGarcez",
@@ -6395,7 +6851,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 457,
-    "score": 806
+    "score": 806,
+    "globalRank": 14467
   },
   {
     "login": "lpredrum136",
@@ -6409,7 +6866,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 458,
-    "score": 295
+    "score": 295,
+    "globalRank": 14515
   },
   {
     "login": "andyyhope",
@@ -6423,7 +6881,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 459,
-    "score": 1481
+    "score": 1481,
+    "globalRank": 14563
   },
   {
     "login": "h4m5t",
@@ -6437,7 +6896,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 460,
-    "score": 371
+    "score": 371,
+    "globalRank": 14564
   },
   {
     "login": "KodrAus",
@@ -6451,7 +6911,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 461,
-    "score": 3019
+    "score": 3019,
+    "globalRank": 14565
   },
   {
     "login": "alphamu",
@@ -6465,7 +6926,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 462,
-    "score": 1003
+    "score": 1003,
+    "globalRank": 14566
   },
   {
     "login": "aaguilerav",
@@ -6479,7 +6941,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 463,
-    "score": 524
+    "score": 524,
+    "globalRank": 14567
   },
   {
     "login": "t04glovern",
@@ -6493,7 +6956,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 464,
-    "score": 2234
+    "score": 2234,
+    "globalRank": 14634
   },
   {
     "login": "bjeanes",
@@ -6507,7 +6971,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 465,
-    "score": 1968
+    "score": 1968,
+    "globalRank": 14635
   },
   {
     "login": "kuz",
@@ -6521,7 +6986,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 466,
-    "score": 497
+    "score": 497,
+    "globalRank": 14689
   },
   {
     "login": "randomaccess3",
@@ -6535,7 +7001,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 467,
-    "score": 411
+    "score": 411,
+    "globalRank": 14690
   },
   {
     "login": "atymic",
@@ -6549,7 +7016,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 468,
-    "score": 2091
+    "score": 2091,
+    "globalRank": 14789
   },
   {
     "login": "mikel",
@@ -6563,7 +7031,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 469,
-    "score": 1392
+    "score": 1392,
+    "globalRank": 14836
   },
   {
     "login": "abcminiuser",
@@ -6577,7 +7046,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 470,
-    "score": 320
+    "score": 320,
+    "globalRank": 14881
   },
   {
     "login": "robmorgan",
@@ -6591,7 +7061,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 471,
-    "score": 2943
+    "score": 2943,
+    "globalRank": 14924
   },
   {
     "login": "NathanW2",
@@ -6605,7 +7076,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 472,
-    "score": 304
+    "score": 304,
+    "globalRank": 14925
   },
   {
     "login": "alexgurr",
@@ -6619,7 +7091,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 473,
-    "score": 427
+    "score": 427,
+    "globalRank": 15015
   },
   {
     "login": "nataliethenerd",
@@ -6633,7 +7106,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 474,
-    "score": 575
+    "score": 575,
+    "globalRank": 15064
   },
   {
     "login": "kring",
@@ -6647,7 +7121,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 475,
-    "score": 1501
+    "score": 1501,
+    "globalRank": 15108
   },
   {
     "login": "jonocarroll",
@@ -6661,7 +7136,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 476,
-    "score": 659
+    "score": 659,
+    "globalRank": 15109
   },
   {
     "login": "beeradmoore",
@@ -6675,7 +7151,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 477,
-    "score": 912
+    "score": 912,
+    "globalRank": 15110
   },
   {
     "login": "robbievanleeuwen",
@@ -6689,7 +7166,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 478,
-    "score": 521
+    "score": 521,
+    "globalRank": 15151
   },
   {
     "login": "codess-aus",
@@ -6703,7 +7181,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 479,
-    "score": 2401
+    "score": 2401,
+    "globalRank": 15152
   },
   {
     "login": "dd32",
@@ -6717,7 +7196,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 480,
-    "score": 2181
+    "score": 2181,
+    "globalRank": 15153
   },
   {
     "login": "Tobias-Fischer",
@@ -6731,7 +7211,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 481,
-    "score": 2064
+    "score": 2064,
+    "globalRank": 15202
   },
   {
     "login": "Neo42",
@@ -6745,7 +7226,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 482,
-    "score": 322
+    "score": 322,
+    "globalRank": 15203
   },
   {
     "login": "ntwb",
@@ -6759,7 +7241,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 483,
-    "score": 1098
+    "score": 1098,
+    "globalRank": 15319
   },
   {
     "login": "centminmod",
@@ -6773,7 +7256,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 484,
-    "score": 6129
+    "score": 6129,
+    "globalRank": 15363
   },
   {
     "login": "jonoxer",
@@ -6787,7 +7271,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 485,
-    "score": 449
+    "score": 449,
+    "globalRank": 15364
   },
   {
     "login": "sbarski",
@@ -6801,7 +7286,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 486,
-    "score": 544
+    "score": 544,
+    "globalRank": 15414
   },
   {
     "login": "timusus",
@@ -6815,7 +7301,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 487,
-    "score": 3228
+    "score": 3228,
+    "globalRank": 15415
   },
   {
     "login": "vanderaj",
@@ -6829,7 +7316,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 488,
-    "score": 567
+    "score": 567,
+    "globalRank": 15469
   },
   {
     "login": "Shazisaremi",
@@ -6843,7 +7331,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 489,
-    "score": 274
+    "score": 274,
+    "globalRank": 15470
   },
   {
     "login": "siliconjungle",
@@ -6857,7 +7346,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 490,
-    "score": 2727
+    "score": 2727,
+    "globalRank": 15505
   },
   {
     "login": "LuaxY",
@@ -6871,7 +7361,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 491,
-    "score": 1130
+    "score": 1130,
+    "globalRank": 15506
   },
   {
     "login": "lunacookies",
@@ -6885,7 +7376,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 492,
-    "score": 2481
+    "score": 2481,
+    "globalRank": 15556
   },
   {
     "login": "daryl",
@@ -6899,7 +7391,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 493,
-    "score": 271
+    "score": 271,
+    "globalRank": 15607
   },
   {
     "login": "pento",
@@ -6913,7 +7406,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 494,
-    "score": 1621
+    "score": 1621,
+    "globalRank": 15608
   },
   {
     "login": "Quackster",
@@ -6927,7 +7421,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 495,
-    "score": 2564
+    "score": 2564,
+    "globalRank": 15651
   },
   {
     "login": "stowball",
@@ -6941,7 +7436,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 496,
-    "score": 658
+    "score": 658,
+    "globalRank": 15652
   },
   {
     "login": "navidcy",
@@ -6955,7 +7451,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 497,
-    "score": 2692
+    "score": 2692,
+    "globalRank": 15710
   },
   {
     "login": "royalicing",
@@ -6969,7 +7466,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 498,
-    "score": 948
+    "score": 948,
+    "globalRank": 15711
   },
   {
     "login": "dmcke5",
@@ -6983,7 +7481,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 499,
-    "score": 403
+    "score": 403,
+    "globalRank": 15712
   },
   {
     "login": "directorcia",
@@ -6997,7 +7496,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 500,
-    "score": 569
+    "score": 569,
+    "globalRank": 15765
   },
   {
     "login": "benhoskings",
@@ -7011,7 +7511,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 501,
-    "score": 269
+    "score": 269,
+    "globalRank": 15766
   },
   {
     "login": "JizhiziLi",
@@ -7025,7 +7526,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 502,
-    "score": 647
+    "score": 647,
+    "globalRank": 15767
   },
   {
     "login": "revodavid",
@@ -7039,7 +7541,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 503,
-    "score": 787
+    "score": 787,
+    "globalRank": 15810
   },
   {
     "login": "tcharding",
@@ -7053,7 +7556,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 504,
-    "score": 3460
+    "score": 3460,
+    "globalRank": 15811
   },
   {
     "login": "donsbot",
@@ -7067,7 +7571,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 505,
-    "score": 267
+    "score": 267,
+    "globalRank": 15812
   },
   {
     "login": "eliocamp",
@@ -7081,7 +7586,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 506,
-    "score": 1114
+    "score": 1114,
+    "globalRank": 15867
   },
   {
     "login": "laktek",
@@ -7095,7 +7601,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 507,
-    "score": 1573
+    "score": 1573,
+    "globalRank": 15868
   },
   {
     "login": "nelix",
@@ -7109,7 +7616,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 508,
-    "score": 265
+    "score": 265,
+    "globalRank": 15925
   },
   {
     "login": "phillip-kruger",
@@ -7123,7 +7631,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 509,
-    "score": 11660
+    "score": 11660,
+    "globalRank": 15982
   },
   {
     "login": "mattray",
@@ -7137,7 +7646,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 510,
-    "score": 266
+    "score": 266,
+    "globalRank": 15983
   },
   {
     "login": "sdeering",
@@ -7151,7 +7661,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 511,
-    "score": 409
+    "score": 409,
+    "globalRank": 16031
   },
   {
     "login": "MegaManSec",
@@ -7165,7 +7676,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 512,
-    "score": 1142
+    "score": 1142,
+    "globalRank": 16032
   },
   {
     "login": "AussieDigitalio",
@@ -7179,7 +7691,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 513,
-    "score": 263
+    "score": 263,
+    "globalRank": 16033
   },
   {
     "login": "stackotter",
@@ -7193,7 +7706,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 514,
-    "score": 1317
+    "score": 1317,
+    "globalRank": 16034
   },
   {
     "login": "hawkowl",
@@ -7207,7 +7721,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 515,
-    "score": 728
+    "score": 728,
+    "globalRank": 16092
   },
   {
     "login": "stanleyhuangyc",
@@ -7221,7 +7736,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 516,
-    "score": 268
+    "score": 268,
+    "globalRank": 16093
   },
   {
     "login": "ocavue",
@@ -7235,7 +7751,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 517,
-    "score": 4654
+    "score": 4654,
+    "globalRank": 16094
   },
   {
     "login": "adevnadia",
@@ -7249,7 +7766,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 518,
-    "score": 4138
+    "score": 4138,
+    "globalRank": 16095
   },
   {
     "login": "JoshuaBatty",
@@ -7263,7 +7781,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 519,
-    "score": 1373
+    "score": 1373,
+    "globalRank": 16096
   },
   {
     "login": "PaulStovell",
@@ -7277,7 +7796,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 520,
-    "score": 288
+    "score": 288,
+    "globalRank": 16097
   },
   {
     "login": "KimMeen",
@@ -7291,7 +7811,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 521,
-    "score": 267
+    "score": 267,
+    "globalRank": 16140
   },
   {
     "login": "kyleneideck",
@@ -7305,7 +7826,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 522,
-    "score": 274
+    "score": 274,
+    "globalRank": 16181
   },
   {
     "login": "abcoathup",
@@ -7319,7 +7841,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 523,
-    "score": 925
+    "score": 925,
+    "globalRank": 16182
   },
   {
     "login": "jclulow",
@@ -7333,7 +7856,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 524,
-    "score": 789
+    "score": 789,
+    "globalRank": 16183
   },
   {
     "login": "jsun969",
@@ -7347,7 +7871,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 525,
-    "score": 591
+    "score": 591,
+    "globalRank": 16184
   },
   {
     "login": "japgolly",
@@ -7361,7 +7886,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 526,
-    "score": 1568
+    "score": 1568,
+    "globalRank": 16243
   },
   {
     "login": "isaac-mason",
@@ -7375,7 +7901,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 527,
-    "score": 4315
+    "score": 4315,
+    "globalRank": 16244
   },
   {
     "login": "stuartcarnie",
@@ -7389,7 +7916,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 528,
-    "score": 1197
+    "score": 1197,
+    "globalRank": 16245
   },
   {
     "login": "SebastianElvis",
@@ -7403,7 +7931,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 529,
-    "score": 2777
+    "score": 2777,
+    "globalRank": 16307
   },
   {
     "login": "mikefarah",
@@ -7417,7 +7946,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 530,
-    "score": 780
+    "score": 780,
+    "globalRank": 16308
   },
   {
     "login": "jondubois",
@@ -7431,7 +7961,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 531,
-    "score": 533
+    "score": 533,
+    "globalRank": 16309
   },
   {
     "login": "LesleyLai",
@@ -7445,7 +7976,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 532,
-    "score": 640
+    "score": 640,
+    "globalRank": 16310
   },
   {
     "login": "a1studmuffin",
@@ -7459,7 +7991,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 533,
-    "score": 257
+    "score": 257,
+    "globalRank": 16372
   },
   {
     "login": "nickvsnetworking",
@@ -7473,7 +8006,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 534,
-    "score": 5183
+    "score": 5183,
+    "globalRank": 16419
   },
   {
     "login": "amysimmons",
@@ -7487,7 +8021,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 535,
-    "score": 256
+    "score": 256,
+    "globalRank": 16420
   },
   {
     "login": "alexbrainman",
@@ -7501,7 +8036,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 536,
-    "score": 467
+    "score": 467,
+    "globalRank": 16421
   },
   {
     "login": "ComponentFactory",
@@ -7515,7 +8051,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 537,
-    "score": 257
+    "score": 257,
+    "globalRank": 16422
   },
   {
     "login": "marcusvolz",
@@ -7529,7 +8066,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 538,
-    "score": 256
+    "score": 256,
+    "globalRank": 16423
   },
   {
     "login": "adamhannigan",
@@ -7543,7 +8081,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 539,
-    "score": 1300
+    "score": 1300,
+    "globalRank": 16424
   },
   {
     "login": "camjackson",
@@ -7557,7 +8096,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 540,
-    "score": 288
+    "score": 288,
+    "globalRank": 16473
   },
   {
     "login": "kipcole9",
@@ -7571,7 +8111,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 541,
-    "score": 2079
+    "score": 2079,
+    "globalRank": 16474
   },
   {
     "login": "alex-page",
@@ -7585,7 +8126,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 542,
-    "score": 2230
+    "score": 2230,
+    "globalRank": 16572
   },
   {
     "login": "dominikwilkowski",
@@ -7599,7 +8141,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 543,
-    "score": 1037
+    "score": 1037,
+    "globalRank": 16573
   },
   {
     "login": "EEVblog",
@@ -7613,7 +8156,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 544,
-    "score": 253
+    "score": 253,
+    "globalRank": 16574
   },
   {
     "login": "meee1",
@@ -7627,7 +8171,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 545,
-    "score": 360
+    "score": 360,
+    "globalRank": 16575
   },
   {
     "login": "liminalpurr",
@@ -7641,7 +8186,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 546,
-    "score": 328
+    "score": 328,
+    "globalRank": 16621
   },
   {
     "login": "cht8687",
@@ -7655,7 +8201,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 547,
-    "score": 5654
+    "score": 5654,
+    "globalRank": 16622
   },
   {
     "login": "bennetthardwick",
@@ -7669,7 +8216,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 548,
-    "score": 1806
+    "score": 1806,
+    "globalRank": 16623
   },
   {
     "login": "adrianherrera",
@@ -7683,7 +8231,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 549,
-    "score": 457
+    "score": 457,
+    "globalRank": 16624
   },
   {
     "login": "AgeManning",
@@ -7697,7 +8246,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 550,
-    "score": 592
+    "score": 592,
+    "globalRank": 16668
   },
   {
     "login": "tomquirk",
@@ -7711,7 +8261,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 551,
-    "score": 269
+    "score": 269,
+    "globalRank": 16721
   },
   {
     "login": "AngusJohnson",
@@ -7725,7 +8276,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 552,
-    "score": 364
+    "score": 364,
+    "globalRank": 16722
   },
   {
     "login": "ajtowns",
@@ -7739,7 +8291,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 553,
-    "score": 630
+    "score": 630,
+    "globalRank": 16758
   },
   {
     "login": "c42f",
@@ -7753,7 +8306,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 554,
-    "score": 460
+    "score": 460,
+    "globalRank": 16759
   },
   {
     "login": "paulhauner",
@@ -7767,7 +8321,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 555,
-    "score": 868
+    "score": 868,
+    "globalRank": 16807
   },
   {
     "login": "abrasive",
@@ -7781,7 +8336,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 556,
-    "score": 253
+    "score": 253,
+    "globalRank": 16808
   },
   {
     "login": "fediskhakov",
@@ -7795,7 +8351,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 557,
-    "score": 874
+    "score": 874,
+    "globalRank": 16809
   },
   {
     "login": "djmdjm",
@@ -7809,7 +8366,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 558,
-    "score": 1678
+    "score": 1678,
+    "globalRank": 16867
   },
   {
     "login": "jonowilliams26",
@@ -7823,7 +8381,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 559,
-    "score": 2463
+    "score": 2463,
+    "globalRank": 16868
   },
   {
     "login": "Irev-Dev",
@@ -7837,7 +8396,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 560,
-    "score": 902
+    "score": 902,
+    "globalRank": 16924
   },
   {
     "login": "TokenScript",
@@ -7851,7 +8411,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 561,
-    "score": 246
+    "score": 246,
+    "globalRank": 16925
   },
   {
     "login": "hazzik",
@@ -7865,7 +8426,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 562,
-    "score": 1963
+    "score": 1963,
+    "globalRank": 17018
   },
   {
     "login": "mihar-22",
@@ -7879,7 +8441,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 563,
-    "score": 1645
+    "score": 1645,
+    "globalRank": 17019
   },
   {
     "login": "BeauNouvelle",
@@ -7893,7 +8456,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 564,
-    "score": 1165
+    "score": 1165,
+    "globalRank": 17020
   },
   {
     "login": "chrishulbert",
@@ -7907,7 +8471,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 565,
-    "score": 512
+    "score": 512,
+    "globalRank": 17021
   },
   {
     "login": "laurencei",
@@ -7921,7 +8486,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 566,
-    "score": 311
+    "score": 311,
+    "globalRank": 17022
   },
   {
     "login": "sporto",
@@ -7935,7 +8501,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 567,
-    "score": 466
+    "score": 466,
+    "globalRank": 17023
   },
   {
     "login": "anguslees",
@@ -7949,7 +8516,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 568,
-    "score": 447
+    "score": 447,
+    "globalRank": 17065
   },
   {
     "login": "tysoncung",
@@ -7963,7 +8531,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 569,
-    "score": 2092
+    "score": 2092,
+    "globalRank": 17066
   },
   {
     "login": "colingourlay",
@@ -7977,7 +8546,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 570,
-    "score": 967
+    "score": 967,
+    "globalRank": 17067
   },
   {
     "login": "liammclennan",
@@ -7991,7 +8561,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 571,
-    "score": 1702
+    "score": 1702,
+    "globalRank": 17105
   },
   {
     "login": "drsimonj",
@@ -8005,7 +8576,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 572,
-    "score": 242
+    "score": 242,
+    "globalRank": 17106
   },
   {
     "login": "TomasBeuzen",
@@ -8019,7 +8591,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 573,
-    "score": 261
+    "score": 261,
+    "globalRank": 17157
   },
   {
     "login": "MrChrisW",
@@ -8033,7 +8606,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 574,
-    "score": 4373
+    "score": 4373,
+    "globalRank": 17158
   },
   {
     "login": "madhavajay",
@@ -8047,7 +8621,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 575,
-    "score": 5086
+    "score": 5086,
+    "globalRank": 17276
   },
   {
     "login": "farazsth98",
@@ -8061,7 +8636,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 576,
-    "score": 256
+    "score": 256,
+    "globalRank": 17277
   },
   {
     "login": "notahat",
@@ -8075,7 +8651,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 577,
-    "score": 994
+    "score": 994,
+    "globalRank": 17278
   },
   {
     "login": "stemangiola",
@@ -8089,7 +8666,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 578,
-    "score": 1522
+    "score": 1522,
+    "globalRank": 17279
   },
   {
     "login": "alphadl",
@@ -8103,7 +8681,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 579,
-    "score": 980
+    "score": 980,
+    "globalRank": 17336
   },
   {
     "login": "whatnick",
@@ -8117,7 +8696,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 580,
-    "score": 1992
+    "score": 1992,
+    "globalRank": 17387
   },
   {
     "login": "AlexDBlack",
@@ -8131,7 +8711,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 581,
-    "score": 656
+    "score": 656,
+    "globalRank": 17388
   },
   {
     "login": "abstractspoon",
@@ -8145,7 +8726,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 582,
-    "score": 4231
+    "score": 4231,
+    "globalRank": 17389
   },
   {
     "login": "aussiearef",
@@ -8159,7 +8741,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 583,
-    "score": 382
+    "score": 382,
+    "globalRank": 17390
   },
   {
     "login": "cjheath",
@@ -8173,7 +8756,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 584,
-    "score": 877
+    "score": 877,
+    "globalRank": 17391
   },
   {
     "login": "karkranikhil",
@@ -8187,7 +8771,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 585,
-    "score": 506
+    "score": 506,
+    "globalRank": 17392
   },
   {
     "login": "CMCDragonkai",
@@ -8201,7 +8786,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 586,
-    "score": 1020
+    "score": 1020,
+    "globalRank": 17454
   },
   {
     "login": "iampedii",
@@ -8215,7 +8801,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 587,
-    "score": 279
+    "score": 279,
+    "globalRank": 17501
   },
   {
     "login": "mrcraigo",
@@ -8229,7 +8816,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 588,
-    "score": 255
+    "score": 255,
+    "globalRank": 17502
   },
   {
     "login": "grahamegrieve",
@@ -8243,7 +8831,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 589,
-    "score": 2588
+    "score": 2588,
+    "globalRank": 17503
   },
   {
     "login": "leadedge",
@@ -8257,7 +8846,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 590,
-    "score": 413
+    "score": 413,
+    "globalRank": 17504
   },
   {
     "login": "hjc4869",
@@ -8271,7 +8861,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 591,
-    "score": 257
+    "score": 257,
+    "globalRank": 17568
   },
   {
     "login": "jakka351",
@@ -8285,7 +8876,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 592,
-    "score": 1180
+    "score": 1180,
+    "globalRank": 17621
   },
   {
     "login": "willvelida",
@@ -8299,7 +8891,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 593,
-    "score": 1826
+    "score": 1826,
+    "globalRank": 17622
   },
   {
     "login": "bennyxguo",
@@ -8313,7 +8906,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 594,
-    "score": 838
+    "score": 838,
+    "globalRank": 17679
   },
   {
     "login": "fwouts",
@@ -8327,7 +8921,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 595,
-    "score": 1813
+    "score": 1813,
+    "globalRank": 17680
   },
   {
     "login": "jasonmorrissey",
@@ -8341,7 +8936,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 596,
-    "score": 232
+    "score": 232,
+    "globalRank": 17681
   },
   {
     "login": "tmcgilchrist",
@@ -8355,7 +8951,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 597,
-    "score": 1158
+    "score": 1158,
+    "globalRank": 17682
   },
   {
     "login": "yob",
@@ -8369,7 +8966,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 598,
-    "score": 3211
+    "score": 3211,
+    "globalRank": 17737
   },
   {
     "login": "willthames",
@@ -8383,7 +8981,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 599,
-    "score": 6081
+    "score": 6081,
+    "globalRank": 17738
   },
   {
     "login": "mzbac",
@@ -8397,7 +8996,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 600,
-    "score": 1059
+    "score": 1059,
+    "globalRank": 17739
   },
   {
     "login": "simsaens",
@@ -8411,7 +9011,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 601,
-    "score": 350
+    "score": 350,
+    "globalRank": 17740
   },
   {
     "login": "slavaim",
@@ -8425,7 +9026,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 602,
-    "score": 231
+    "score": 231,
+    "globalRank": 17741
   },
   {
     "login": "benfulcher",
@@ -8439,7 +9041,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 603,
-    "score": 247
+    "score": 247,
+    "globalRank": 17890
   },
   {
     "login": "wileam",
@@ -8453,7 +9056,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 604,
-    "score": 280
+    "score": 280,
+    "globalRank": 17891
   },
   {
     "login": "nigels-com",
@@ -8467,7 +9071,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 605,
-    "score": 413
+    "score": 413,
+    "globalRank": 17892
   },
   {
     "login": "mitchemmc",
@@ -8481,7 +9086,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 606,
-    "score": 1219
+    "score": 1219,
+    "globalRank": 17893
   },
   {
     "login": "andimarek",
@@ -8495,7 +9101,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 607,
-    "score": 2500
+    "score": 2500,
+    "globalRank": 17894
   },
   {
     "login": "abraunegg",
@@ -8509,7 +9116,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 608,
-    "score": 704
+    "score": 704,
+    "globalRank": 17895
   },
   {
     "login": "Mair",
@@ -8523,7 +9131,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 609,
-    "score": 227
+    "score": 227,
+    "globalRank": 17943
   },
   {
     "login": "albertstill",
@@ -8537,7 +9146,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 610,
-    "score": 235
+    "score": 235,
+    "globalRank": 17944
   },
   {
     "login": "dipjyotimetia",
@@ -8551,7 +9161,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 611,
-    "score": 2492
+    "score": 2492,
+    "globalRank": 17945
   },
   {
     "login": "dwightwatson",
@@ -8565,7 +9176,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 612,
-    "score": 7378
+    "score": 7378,
+    "globalRank": 18002
   },
   {
     "login": "goldingn",
@@ -8579,7 +9191,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 613,
-    "score": 476
+    "score": 476,
+    "globalRank": 18003
   },
   {
     "login": "davidwengier",
@@ -8593,7 +9206,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 614,
-    "score": 3357
+    "score": 3357,
+    "globalRank": 18056
   },
   {
     "login": "Aoik225",
@@ -8607,7 +9221,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 615,
-    "score": 225
+    "score": 225,
+    "globalRank": 18057
   },
   {
     "login": "rogchap",
@@ -8621,7 +9236,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 616,
-    "score": 234
+    "score": 234,
+    "globalRank": 18058
   },
   {
     "login": "settermjd",
@@ -8635,7 +9251,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 617,
-    "score": 1260
+    "score": 1260,
+    "globalRank": 18059
   },
   {
     "login": "mblode",
@@ -8649,7 +9266,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 618,
-    "score": 5214
+    "score": 5214,
+    "globalRank": 18113
   },
   {
     "login": "mitchdenny",
@@ -8663,7 +9281,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 619,
-    "score": 2715
+    "score": 2715,
+    "globalRank": 18114
   },
   {
     "login": "TomsMater",
@@ -8677,7 +9296,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 620,
-    "score": 228
+    "score": 228,
+    "globalRank": 18115
   },
   {
     "login": "sampage",
@@ -8691,7 +9311,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 621,
-    "score": 222
+    "score": 222,
+    "globalRank": 18213
   },
   {
     "login": "xiaoronglv",
@@ -8705,7 +9326,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 622,
-    "score": 368
+    "score": 368,
+    "globalRank": 18214
   },
   {
     "login": "tvytlx",
@@ -8719,7 +9341,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 623,
-    "score": 260
+    "score": 260,
+    "globalRank": 18265
   },
   {
     "login": "jordwest",
@@ -8733,7 +9356,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 624,
-    "score": 1253
+    "score": 1253,
+    "globalRank": 18266
   },
   {
     "login": "adammurdoch",
@@ -8747,7 +9371,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 625,
-    "score": 609
+    "score": 609,
+    "globalRank": 18327
   },
   {
     "login": "maks",
@@ -8761,7 +9386,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 626,
-    "score": 2703
+    "score": 2703,
+    "globalRank": 18328
   },
   {
     "login": "lifeparticle",
@@ -8775,7 +9401,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 627,
-    "score": 3275
+    "score": 3275,
+    "globalRank": 18396
   },
   {
     "login": "LightAndLight",
@@ -8789,7 +9416,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 628,
-    "score": 757
+    "score": 757,
+    "globalRank": 18397
   },
   {
     "login": "jimjam-slam",
@@ -8803,7 +9431,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 629,
-    "score": 1539
+    "score": 1539,
+    "globalRank": 18398
   },
   {
     "login": "yuleisui",
@@ -8817,7 +9446,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 630,
-    "score": 1454
+    "score": 1454,
+    "globalRank": 18460
   },
   {
     "login": "pathtofile",
@@ -8831,7 +9461,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 631,
-    "score": 358
+    "score": 358,
+    "globalRank": 18461
   },
   {
     "login": "ychescale9",
@@ -8845,7 +9476,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 632,
-    "score": 1511
+    "score": 1511,
+    "globalRank": 18462
   },
   {
     "login": "bensonruan",
@@ -8859,7 +9491,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 633,
-    "score": 218
+    "score": 218,
+    "globalRank": 18515
   },
   {
     "login": "bberak",
@@ -8873,7 +9506,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 634,
-    "score": 990
+    "score": 990,
+    "globalRank": 18516
   },
   {
     "login": "tanzirmehedi",
@@ -8887,7 +9521,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 635,
-    "score": 537
+    "score": 537,
+    "globalRank": 18517
   },
   {
     "login": "pda",
@@ -8901,7 +9536,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 636,
-    "score": 2153
+    "score": 2153,
+    "globalRank": 18518
   },
   {
     "login": "dhotson",
@@ -8915,7 +9551,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 637,
-    "score": 788
+    "score": 788,
+    "globalRank": 18577
   },
   {
     "login": "jmirtsch",
@@ -8929,7 +9566,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 638,
-    "score": 257
+    "score": 257,
+    "globalRank": 18578
   },
   {
     "login": "Donchitos",
@@ -8943,7 +9581,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 639,
-    "score": 281
+    "score": 281,
+    "globalRank": 18641
   },
   {
     "login": "d3ndr1t30x",
@@ -8957,7 +9596,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 640,
-    "score": 633
+    "score": 633,
+    "globalRank": 18642
   },
   {
     "login": "modenaxe",
@@ -8971,7 +9611,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 641,
-    "score": 432
+    "score": 432,
+    "globalRank": 18643
   },
   {
     "login": "MehdiK",
@@ -8985,7 +9626,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 642,
-    "score": 215
+    "score": 215,
+    "globalRank": 18644
   },
   {
     "login": "philippbayer",
@@ -8999,7 +9641,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 643,
-    "score": 1136
+    "score": 1136,
+    "globalRank": 18645
   },
   {
     "login": "julapy",
@@ -9013,7 +9656,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 644,
-    "score": 219
+    "score": 219,
+    "globalRank": 18646
   },
   {
     "login": "stephenbradshaw",
@@ -9027,7 +9671,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 645,
-    "score": 689
+    "score": 689,
+    "globalRank": 18647
   },
   {
     "login": "chengzhag",
@@ -9041,7 +9686,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 646,
-    "score": 285
+    "score": 285,
+    "globalRank": 18648
   },
   {
     "login": "mxswd",
@@ -9055,7 +9701,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 647,
-    "score": 2312
+    "score": 2312,
+    "globalRank": 18699
   },
   {
     "login": "crafterm",
@@ -9069,7 +9716,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 648,
-    "score": 1732
+    "score": 1732,
+    "globalRank": 18700
   },
   {
     "login": "0neSe7en",
@@ -9083,7 +9731,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 649,
-    "score": 1273
+    "score": 1273,
+    "globalRank": 18701
   },
   {
     "login": "jmcph4",
@@ -9097,7 +9746,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 650,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 18770
   },
   {
     "login": "Maikuolan",
@@ -9111,7 +9761,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 651,
-    "score": 1077
+    "score": 1077,
+    "globalRank": 18771
   },
   {
     "login": "Meligy",
@@ -9125,7 +9776,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 652,
-    "score": 232
+    "score": 232,
+    "globalRank": 18772
   },
   {
     "login": "walissoncom",
@@ -9139,7 +9791,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 653,
-    "score": 338
+    "score": 338,
+    "globalRank": 18773
   },
   {
     "login": "timgates42",
@@ -9153,7 +9806,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 654,
-    "score": 13507
+    "score": 13507,
+    "globalRank": 18774
   },
   {
     "login": "mandymichael",
@@ -9167,7 +9821,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 655,
-    "score": 743
+    "score": 743,
+    "globalRank": 18775
   },
   {
     "login": "vortexau",
@@ -9181,7 +9836,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 656,
-    "score": 215
+    "score": 215,
+    "globalRank": 18824
   },
   {
     "login": "JaciBrunning",
@@ -9195,7 +9851,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 657,
-    "score": 271
+    "score": 271,
+    "globalRank": 18825
   },
   {
     "login": "cxong",
@@ -9209,7 +9866,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 658,
-    "score": 5796
+    "score": 5796,
+    "globalRank": 18826
   },
   {
     "login": "scotty-c",
@@ -9223,7 +9881,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 659,
-    "score": 327
+    "score": 327,
+    "globalRank": 18827
   },
   {
     "login": "robn",
@@ -9237,7 +9896,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 660,
-    "score": 1664
+    "score": 1664,
+    "globalRank": 18828
   },
   {
     "login": "Falconerd",
@@ -9251,7 +9911,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 661,
-    "score": 1013
+    "score": 1013,
+    "globalRank": 18829
   },
   {
     "login": "lukencode",
@@ -9265,7 +9926,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 662,
-    "score": 211
+    "score": 211,
+    "globalRank": 18900
   },
   {
     "login": "rid00z",
@@ -9279,7 +9941,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 663,
-    "score": 1286
+    "score": 1286,
+    "globalRank": 18901
   },
   {
     "login": "naddison36",
@@ -9293,7 +9956,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 664,
-    "score": 708
+    "score": 708,
+    "globalRank": 18902
   },
   {
     "login": "dragonwocky",
@@ -9307,7 +9971,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 665,
-    "score": 636
+    "score": 636,
+    "globalRank": 18903
   },
   {
     "login": "tqwewe",
@@ -9321,7 +9986,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 666,
-    "score": 1371
+    "score": 1371,
+    "globalRank": 18904
   },
   {
     "login": "stevage",
@@ -9335,7 +10001,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 667,
-    "score": 354
+    "score": 354,
+    "globalRank": 18905
   },
   {
     "login": "bcm-id-au",
@@ -9349,7 +10016,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 668,
-    "score": 1685
+    "score": 1685,
+    "globalRank": 18906
   },
   {
     "login": "trozware",
@@ -9363,7 +10031,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 669,
-    "score": 408
+    "score": 408,
+    "globalRank": 18972
   },
   {
     "login": "shsingh",
@@ -9377,7 +10046,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 670,
-    "score": 215
+    "score": 215,
+    "globalRank": 18973
   },
   {
     "login": "samcm",
@@ -9391,7 +10061,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 671,
-    "score": 6039
+    "score": 6039,
+    "globalRank": 18974
   },
   {
     "login": "eggins",
@@ -9405,7 +10076,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 672,
-    "score": 1729
+    "score": 1729,
+    "globalRank": 19028
   },
   {
     "login": "justinmclean",
@@ -9419,7 +10091,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 673,
-    "score": 1700
+    "score": 1700,
+    "globalRank": 19029
   },
   {
     "login": "axw",
@@ -9433,7 +10106,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 674,
-    "score": 2116
+    "score": 2116,
+    "globalRank": 19093
   },
   {
     "login": "vinhphunguyen",
@@ -9447,7 +10121,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 675,
-    "score": 415
+    "score": 415,
+    "globalRank": 19161
   },
   {
     "login": "paulfioravanti",
@@ -9461,7 +10136,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 676,
-    "score": 207
+    "score": 207,
+    "globalRank": 19162
   },
   {
     "login": "he-y",
@@ -9475,7 +10151,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 677,
-    "score": 277
+    "score": 277,
+    "globalRank": 19230
   },
   {
     "login": "liamoc",
@@ -9489,7 +10166,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 678,
-    "score": 521
+    "score": 521,
+    "globalRank": 19309
   },
   {
     "login": "Anthropic",
@@ -9503,7 +10181,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 679,
-    "score": 218
+    "score": 218,
+    "globalRank": 19310
   },
   {
     "login": "jason-roberts",
@@ -9517,7 +10196,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 680,
-    "score": 204
+    "score": 204,
+    "globalRank": 19396
   },
   {
     "login": "dbr",
@@ -9531,7 +10211,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 681,
-    "score": 209
+    "score": 209,
+    "globalRank": 19397
   },
   {
     "login": "RomaTeng",
@@ -9545,7 +10226,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 682,
-    "score": 204
+    "score": 204,
+    "globalRank": 19398
   },
   {
     "login": "mgreen27",
@@ -9559,7 +10241,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 683,
-    "score": 889
+    "score": 889,
+    "globalRank": 19399
   },
   {
     "login": "TabishB",
@@ -9573,7 +10256,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 684,
-    "score": 1464
+    "score": 1464,
+    "globalRank": 19400
   },
   {
     "login": "xiaodaigh",
@@ -9587,7 +10271,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 685,
-    "score": 220
+    "score": 220,
+    "globalRank": 19474
   },
   {
     "login": "greenlaw110",
@@ -9601,7 +10286,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 686,
-    "score": 206
+    "score": 206,
+    "globalRank": 19475
   },
   {
     "login": "RussKie",
@@ -9615,7 +10301,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 687,
-    "score": 537
+    "score": 537,
+    "globalRank": 19540
   },
   {
     "login": "DanielOaks",
@@ -9629,7 +10316,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 688,
-    "score": 230
+    "score": 230,
+    "globalRank": 19541
   },
   {
     "login": "DWilliames",
@@ -9643,7 +10331,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 689,
-    "score": 694
+    "score": 694,
+    "globalRank": 19617
   },
   {
     "login": "bitcoinbrisbane",
@@ -9657,7 +10346,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 690,
-    "score": 1090
+    "score": 1090,
+    "globalRank": 19677
   },
   {
     "login": "jimmo",
@@ -9671,7 +10361,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 691,
-    "score": 572
+    "score": 572,
+    "globalRank": 19678
   },
   {
     "login": "gbouras13",
@@ -9685,7 +10376,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 692,
-    "score": 1243
+    "score": 1243,
+    "globalRank": 19679
   },
   {
     "login": "bethesque",
@@ -9699,7 +10391,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 693,
-    "score": 290
+    "score": 290,
+    "globalRank": 19757
   },
   {
     "login": "hoebat",
@@ -9713,7 +10406,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 694,
-    "score": 1935
+    "score": 1935,
+    "globalRank": 19758
   },
   {
     "login": "Japh",
@@ -9727,7 +10421,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 695,
-    "score": 929
+    "score": 929,
+    "globalRank": 19759
   },
   {
     "login": "liweiyi88",
@@ -9741,7 +10436,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 696,
-    "score": 908
+    "score": 908,
+    "globalRank": 19760
   },
   {
     "login": "dcgithub",
@@ -9755,7 +10451,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 697,
-    "score": 198
+    "score": 198,
+    "globalRank": 19827
   },
   {
     "login": "physwizz",
@@ -9769,7 +10466,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 698,
-    "score": 699
+    "score": 699,
+    "globalRank": 19828
   },
   {
     "login": "FAXES",
@@ -9783,7 +10481,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 699,
-    "score": 1137
+    "score": 1137,
+    "globalRank": 19829
   },
   {
     "login": "auxesis",
@@ -9797,7 +10496,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 700,
-    "score": 1314
+    "score": 1314,
+    "globalRank": 19830
   },
   {
     "login": "proficnc",
@@ -9811,7 +10511,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 701,
-    "score": 246
+    "score": 246,
+    "globalRank": 19831
   },
   {
     "login": "treffynnon",
@@ -9825,7 +10526,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 702,
-    "score": 719
+    "score": 719,
+    "globalRank": 19907
   },
   {
     "login": "vnik5287",
@@ -9839,7 +10541,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 703,
-    "score": 197
+    "score": 197,
+    "globalRank": 19908
   },
   {
     "login": "DamienIrving",
@@ -9853,7 +10556,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 704,
-    "score": 223
+    "score": 223,
+    "globalRank": 19909
   },
   {
     "login": "nutboltu",
@@ -9867,7 +10571,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 705,
-    "score": 217
+    "score": 217,
+    "globalRank": 19983
   },
   {
     "login": "kurobeats",
@@ -9881,7 +10586,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 706,
-    "score": 382
+    "score": 382,
+    "globalRank": 19984
   },
   {
     "login": "metasal1",
@@ -9895,7 +10601,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 707,
-    "score": 1986
+    "score": 1986,
+    "globalRank": 20049
   },
   {
     "login": "alexgleith",
@@ -9909,7 +10616,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 708,
-    "score": 1334
+    "score": 1334,
+    "globalRank": 20050
   },
   {
     "login": "zaferatakli",
@@ -9923,7 +10631,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 709,
-    "score": 576
+    "score": 576,
+    "globalRank": 20051
   },
   {
     "login": "mattnotmax",
@@ -9937,7 +10646,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 710,
-    "score": 194
+    "score": 194,
+    "globalRank": 20121
   },
   {
     "login": "duxuhao",
@@ -9951,7 +10661,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 711,
-    "score": 194
+    "score": 194,
+    "globalRank": 20122
   },
   {
     "login": "shenki",
@@ -9965,7 +10676,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 712,
-    "score": 517
+    "score": 517,
+    "globalRank": 20123
   },
   {
     "login": "EvieePy",
@@ -9979,7 +10691,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 713,
-    "score": 683
+    "score": 683,
+    "globalRank": 20124
   },
   {
     "login": "paulk-asert",
@@ -9993,7 +10706,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 714,
-    "score": 1565
+    "score": 1565,
+    "globalRank": 20186
   },
   {
     "login": "ian",
@@ -10007,7 +10721,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 715,
-    "score": 4747
+    "score": 4747,
+    "globalRank": 20187
   },
   {
     "login": "jarshwah",
@@ -10021,7 +10736,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 716,
-    "score": 754
+    "score": 754,
+    "globalRank": 20188
   },
   {
     "login": "mcnamee",
@@ -10035,7 +10751,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 717,
-    "score": 10091
+    "score": 10091,
+    "globalRank": 20189
   },
   {
     "login": "JackMcKew",
@@ -10049,7 +10766,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 718,
-    "score": 230
+    "score": 230,
+    "globalRank": 20190
   },
   {
     "login": "matt-goldman",
@@ -10063,7 +10781,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 719,
-    "score": 4221
+    "score": 4221,
+    "globalRank": 20191
   },
   {
     "login": "b2developer",
@@ -10077,7 +10796,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 720,
-    "score": 195
+    "score": 195,
+    "globalRank": 20192
   },
   {
     "login": "IdrisDose",
@@ -10091,7 +10811,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 721,
-    "score": 197
+    "score": 197,
+    "globalRank": 20262
   },
   {
     "login": "tomdalling",
@@ -10105,7 +10826,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 722,
-    "score": 462
+    "score": 462,
+    "globalRank": 20263
   },
   {
     "login": "Ifera",
@@ -10119,7 +10841,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 723,
-    "score": 485
+    "score": 485,
+    "globalRank": 20264
   },
   {
     "login": "zmdominguez",
@@ -10133,7 +10856,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 724,
-    "score": 263
+    "score": 263,
+    "globalRank": 20265
   },
   {
     "login": "tuanvnguyen",
@@ -10147,7 +10871,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 725,
-    "score": 191
+    "score": 191,
+    "globalRank": 20329
   },
   {
     "login": "PinkyJie",
@@ -10161,7 +10886,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 726,
-    "score": 257
+    "score": 257,
+    "globalRank": 20330
   },
   {
     "login": "secretGeek",
@@ -10175,7 +10901,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 727,
-    "score": 404
+    "score": 404,
+    "globalRank": 20331
   },
   {
     "login": "ispysoftware",
@@ -10189,7 +10916,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 728,
-    "score": 1031
+    "score": 1031,
+    "globalRank": 20332
   },
   {
     "login": "IbraheemOsama",
@@ -10203,7 +10931,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 729,
-    "score": 190
+    "score": 190,
+    "globalRank": 20399
   },
   {
     "login": "HorridHanu",
@@ -10217,7 +10946,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 730,
-    "score": 190
+    "score": 190,
+    "globalRank": 20400
   },
   {
     "login": "enzyme69",
@@ -10231,7 +10961,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 731,
-    "score": 195
+    "score": 195,
+    "globalRank": 20401
   },
   {
     "login": "rdahis",
@@ -10245,7 +10976,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 732,
-    "score": 418
+    "score": 418,
+    "globalRank": 20473
   },
   {
     "login": "magnetikonline",
@@ -10259,7 +10991,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 733,
-    "score": 317
+    "score": 317,
+    "globalRank": 20474
   },
   {
     "login": "btnguyen2k",
@@ -10273,7 +11006,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 734,
-    "score": 921
+    "score": 921,
+    "globalRank": 20475
   },
   {
     "login": "awaismirza",
@@ -10287,7 +11021,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 735,
-    "score": 877
+    "score": 877,
+    "globalRank": 20476
   },
   {
     "login": "Turnerj",
@@ -10301,7 +11036,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 736,
-    "score": 202
+    "score": 202,
+    "globalRank": 20477
   },
   {
     "login": "bmewburn",
@@ -10315,7 +11051,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 737,
-    "score": 298
+    "score": 298,
+    "globalRank": 20560
   },
   {
     "login": "DrMeers",
@@ -10329,7 +11066,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 738,
-    "score": 4885
+    "score": 4885,
+    "globalRank": 20561
   },
   {
     "login": "buymeasoda",
@@ -10343,7 +11081,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 739,
-    "score": 394
+    "score": 394,
+    "globalRank": 20562
   },
   {
     "login": "WaLLy3K",
@@ -10357,7 +11096,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 740,
-    "score": 196
+    "score": 196,
+    "globalRank": 20636
   },
   {
     "login": "gridbugs",
@@ -10371,7 +11111,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 741,
-    "score": 2026
+    "score": 2026,
+    "globalRank": 20637
   },
   {
     "login": "rowanwins",
@@ -10385,7 +11126,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 742,
-    "score": 197
+    "score": 197,
+    "globalRank": 20638
   },
   {
     "login": "mkj",
@@ -10399,7 +11141,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 743,
-    "score": 1383
+    "score": 1383,
+    "globalRank": 20639
   },
   {
     "login": "amitsaha",
@@ -10413,7 +11156,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 744,
-    "score": 334
+    "score": 334,
+    "globalRank": 20719
   },
   {
     "login": "klepas",
@@ -10427,7 +11171,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 745,
-    "score": 763
+    "score": 763,
+    "globalRank": 20720
   },
   {
     "login": "skittles9823",
@@ -10441,7 +11186,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 746,
-    "score": 189
+    "score": 189,
+    "globalRank": 20791
   },
   {
     "login": "matthaywardwebdesign",
@@ -10455,7 +11201,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 747,
-    "score": 3283
+    "score": 3283,
+    "globalRank": 20792
   },
   {
     "login": "Gomah",
@@ -10469,7 +11216,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 748,
-    "score": 1070
+    "score": 1070,
+    "globalRank": 20793
   },
   {
     "login": "neekey",
@@ -10483,7 +11231,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 749,
-    "score": 2469
+    "score": 2469,
+    "globalRank": 20794
   },
   {
     "login": "MattCowgill",
@@ -10497,7 +11246,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 750,
-    "score": 270
+    "score": 270,
+    "globalRank": 20883
   },
   {
     "login": "KathyReid",
@@ -10511,7 +11261,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 751,
-    "score": 266
+    "score": 266,
+    "globalRank": 20884
   },
   {
     "login": "thien94",
@@ -10525,7 +11276,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 752,
-    "score": 237
+    "score": 237,
+    "globalRank": 20885
   },
   {
     "login": "vicr123",
@@ -10539,7 +11291,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 753,
-    "score": 1089
+    "score": 1089,
+    "globalRank": 20886
   },
   {
     "login": "kfish",
@@ -10553,7 +11306,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 754,
-    "score": 184
+    "score": 184,
+    "globalRank": 20887
   },
   {
     "login": "russmaxdesign",
@@ -10567,7 +11321,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 755,
-    "score": 961
+    "score": 961,
+    "globalRank": 20888
   },
   {
     "login": "SerCeMan",
@@ -10581,7 +11336,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 756,
-    "score": 3682
+    "score": 3682,
+    "globalRank": 20988
   },
   {
     "login": "airlied",
@@ -10595,7 +11351,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 757,
-    "score": 502
+    "score": 502,
+    "globalRank": 20989
   },
   {
     "login": "defi-vandelay",
@@ -10609,7 +11366,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 758,
-    "score": 337
+    "score": 337,
+    "globalRank": 20990
   },
   {
     "login": "KelvinJin",
@@ -10623,7 +11381,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 759,
-    "score": 203
+    "score": 203,
+    "globalRank": 20991
   },
   {
     "login": "jeromyanglim",
@@ -10637,7 +11396,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 760,
-    "score": 184
+    "score": 184,
+    "globalRank": 21080
   },
   {
     "login": "cra0kalo",
@@ -10651,7 +11411,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 761,
-    "score": 182
+    "score": 182,
+    "globalRank": 21081
   },
   {
     "login": "Djelibeybi",
@@ -10665,7 +11426,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 762,
-    "score": 5095
+    "score": 5095,
+    "globalRank": 21082
   },
   {
     "login": "donnaskiez",
@@ -10679,7 +11441,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 763,
-    "score": 202
+    "score": 202,
+    "globalRank": 21083
   },
   {
     "login": "yoninazarathy",
@@ -10693,7 +11456,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 764,
-    "score": 558
+    "score": 558,
+    "globalRank": 21084
   },
   {
     "login": "freakdesign",
@@ -10707,7 +11471,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 765,
-    "score": 382
+    "score": 382,
+    "globalRank": 21085
   },
   {
     "login": "joshprice",
@@ -10721,7 +11486,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 766,
-    "score": 566
+    "score": 566,
+    "globalRank": 21086
   },
   {
     "login": "varund7726",
@@ -10735,7 +11501,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 767,
-    "score": 181
+    "score": 181,
+    "globalRank": 21167
   },
   {
     "login": "Booligoosh",
@@ -10749,7 +11516,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 768,
-    "score": 1178
+    "score": 1178,
+    "globalRank": 21168
   },
   {
     "login": "djouallah",
@@ -10763,7 +11531,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 769,
-    "score": 6828
+    "score": 6828,
+    "globalRank": 21169
   },
   {
     "login": "kdm9",
@@ -10777,7 +11546,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 770,
-    "score": 766
+    "score": 766,
+    "globalRank": 21170
   },
   {
     "login": "MattParkerDev",
@@ -10791,7 +11561,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 771,
-    "score": 4248
+    "score": 4248,
+    "globalRank": 21171
   },
   {
     "login": "huntc",
@@ -10805,7 +11576,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 772,
-    "score": 277
+    "score": 277,
+    "globalRank": 21263
   },
   {
     "login": "amaitland",
@@ -10819,7 +11591,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 773,
-    "score": 314
+    "score": 314,
+    "globalRank": 21264
   },
   {
     "login": "glennawatson",
@@ -10833,7 +11606,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 774,
-    "score": 1388
+    "score": 1388,
+    "globalRank": 21265
   },
   {
     "login": "gourab98",
@@ -10847,7 +11621,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 775,
-    "score": 200
+    "score": 200,
+    "globalRank": 21266
   },
   {
     "login": "xxfast",
@@ -10861,7 +11636,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 776,
-    "score": 471
+    "score": 471,
+    "globalRank": 21267
   },
   {
     "login": "Sibras",
@@ -10875,7 +11651,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 777,
-    "score": 286
+    "score": 286,
+    "globalRank": 21268
   },
   {
     "login": "jtblin",
@@ -10889,7 +11666,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 778,
-    "score": 300
+    "score": 300,
+    "globalRank": 21345
   },
   {
     "login": "benbarsdell",
@@ -10903,7 +11681,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 779,
-    "score": 194
+    "score": 194,
+    "globalRank": 21346
   },
   {
     "login": "jcponce",
@@ -10917,7 +11696,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 780,
-    "score": 3223
+    "score": 3223,
+    "globalRank": 21347
   },
   {
     "login": "TrudAX",
@@ -10931,7 +11711,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 781,
-    "score": 375
+    "score": 375,
+    "globalRank": 21348
   },
   {
     "login": "fourkbomb",
@@ -10945,7 +11726,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 782,
-    "score": 179
+    "score": 179,
+    "globalRank": 21349
   },
   {
     "login": "theojulienne",
@@ -10959,7 +11741,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 783,
-    "score": 187
+    "score": 187,
+    "globalRank": 21350
   },
   {
     "login": "nickw444",
@@ -10973,7 +11756,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 784,
-    "score": 4742
+    "score": 4742,
+    "globalRank": 21351
   },
   {
     "login": "rizsotto",
@@ -10987,7 +11771,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 785,
-    "score": 596
+    "score": 596,
+    "globalRank": 21352
   },
   {
     "login": "mike-thompson-day8",
@@ -11001,7 +11786,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 786,
-    "score": 679
+    "score": 679,
+    "globalRank": 21437
   },
   {
     "login": "Psy-Fer",
@@ -11015,7 +11801,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 787,
-    "score": 1140
+    "score": 1140,
+    "globalRank": 21438
   },
   {
     "login": "gwils",
@@ -11029,7 +11816,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 788,
-    "score": 185
+    "score": 185,
+    "globalRank": 21523
   },
   {
     "login": "xzyfer",
@@ -11043,7 +11831,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 789,
-    "score": 1559
+    "score": 1559,
+    "globalRank": 21524
   },
   {
     "login": "davidbr4gg",
@@ -11057,7 +11846,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 790,
-    "score": 196
+    "score": 196,
+    "globalRank": 21525
   },
   {
     "login": "pprevos",
@@ -11071,7 +11861,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 791,
-    "score": 368
+    "score": 368,
+    "globalRank": 21605
   },
   {
     "login": "robbibt",
@@ -11085,7 +11876,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 792,
-    "score": 720
+    "score": 720,
+    "globalRank": 21606
   },
   {
     "login": "hlashbrooke",
@@ -11099,7 +11891,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 793,
-    "score": 407
+    "score": 407,
+    "globalRank": 21607
   },
   {
     "login": "ericjiang97",
@@ -11113,7 +11906,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 794,
-    "score": 221
+    "score": 221,
+    "globalRank": 21608
   },
   {
     "login": "buddhikajay",
@@ -11127,7 +11921,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 795,
-    "score": 232
+    "score": 232,
+    "globalRank": 21700
   },
   {
     "login": "sarahmaddox",
@@ -11141,7 +11936,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 796,
-    "score": 175
+    "score": 175,
+    "globalRank": 21701
   },
   {
     "login": "auscompgeek",
@@ -11155,7 +11951,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 797,
-    "score": 932
+    "score": 932,
+    "globalRank": 21702
   },
   {
     "login": "stennie",
@@ -11169,7 +11966,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 798,
-    "score": 517
+    "score": 517,
+    "globalRank": 21703
   },
   {
     "login": "fredimachado",
@@ -11183,7 +11981,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 799,
-    "score": 2310
+    "score": 2310,
+    "globalRank": 21804
   },
   {
     "login": "gtramontina",
@@ -11197,7 +11996,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 800,
-    "score": 1067
+    "score": 1067,
+    "globalRank": 21805
   },
   {
     "login": "rajyraman",
@@ -11211,7 +12011,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 801,
-    "score": 303
+    "score": 303,
+    "globalRank": 21806
   },
   {
     "login": "JackNoordhuis",
@@ -11225,7 +12026,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 802,
-    "score": 221
+    "score": 221,
+    "globalRank": 21807
   },
   {
     "login": "andrewharvey",
@@ -11239,7 +12041,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 803,
-    "score": 547
+    "score": 547,
+    "globalRank": 21808
   },
   {
     "login": "r-martins",
@@ -11253,7 +12056,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 804,
-    "score": 841
+    "score": 841,
+    "globalRank": 21900
   },
   {
     "login": "benswift",
@@ -11267,7 +12071,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 805,
-    "score": 10443
+    "score": 10443,
+    "globalRank": 21901
   },
   {
     "login": "ldiebold",
@@ -11281,7 +12086,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 806,
-    "score": 213
+    "score": 213,
+    "globalRank": 21902
   },
   {
     "login": "kkozmic",
@@ -11295,7 +12101,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 807,
-    "score": 173
+    "score": 173,
+    "globalRank": 21903
   },
   {
     "login": "cjbj",
@@ -11309,7 +12116,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 808,
-    "score": 214
+    "score": 214,
+    "globalRank": 21904
   },
   {
     "login": "ScriptSmith",
@@ -11323,7 +12131,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 809,
-    "score": 2004
+    "score": 2004,
+    "globalRank": 21905
   },
   {
     "login": "nathanielw",
@@ -11337,7 +12146,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 810,
-    "score": 1595
+    "score": 1595,
+    "globalRank": 21906
   },
   {
     "login": "JaseZiv",
@@ -11351,7 +12161,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 811,
-    "score": 205
+    "score": 205,
+    "globalRank": 21907
   },
   {
     "login": "eigenbom",
@@ -11365,7 +12176,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 812,
-    "score": 173
+    "score": 173,
+    "globalRank": 21908
   },
   {
     "login": "jamesray1",
@@ -11379,7 +12191,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 813,
-    "score": 172
+    "score": 172,
+    "globalRank": 22011
   },
   {
     "login": "DavidMGilbert",
@@ -11393,7 +12206,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 814,
-    "score": 177
+    "score": 177,
+    "globalRank": 22012
   },
   {
     "login": "twalve",
@@ -11407,7 +12221,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 815,
-    "score": 172
+    "score": 172,
+    "globalRank": 22013
   },
   {
     "login": "kentcb",
@@ -11421,7 +12236,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 816,
-    "score": 181
+    "score": 181,
+    "globalRank": 22126
   },
   {
     "login": "igas",
@@ -11435,7 +12251,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 817,
-    "score": 449
+    "score": 449,
+    "globalRank": 22127
   },
   {
     "login": "ashquarky",
@@ -11449,7 +12266,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 818,
-    "score": 1003
+    "score": 1003,
+    "globalRank": 22128
   },
   {
     "login": "Edesem",
@@ -11463,7 +12281,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 819,
-    "score": 672
+    "score": 672,
+    "globalRank": 22129
   },
   {
     "login": "rahulkapoor90",
@@ -11477,7 +12296,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 820,
-    "score": 171
+    "score": 171,
+    "globalRank": 22130
   },
   {
     "login": "andrewpollock",
@@ -11491,7 +12311,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 821,
-    "score": 222
+    "score": 222,
+    "globalRank": 22131
   },
   {
     "login": "bensmithett",
@@ -11505,7 +12326,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 822,
-    "score": 172
+    "score": 172,
+    "globalRank": 22132
   },
   {
     "login": "AshKyd",
@@ -11519,7 +12341,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 823,
-    "score": 3132
+    "score": 3132,
+    "globalRank": 22133
   },
   {
     "login": "HesamAsad",
@@ -11533,7 +12356,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 824,
-    "score": 641
+    "score": 641,
+    "globalRank": 22134
   },
   {
     "login": "ali7amdi",
@@ -11547,7 +12371,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 825,
-    "score": 195
+    "score": 195,
+    "globalRank": 22135
   },
   {
     "login": "ash47",
@@ -11561,7 +12386,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 826,
-    "score": 1342
+    "score": 1342,
+    "globalRank": 22250
   },
   {
     "login": "ajfisher",
@@ -11575,7 +12401,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 827,
-    "score": 1249
+    "score": 1249,
+    "globalRank": 22251
   },
   {
     "login": "leonyuhanov",
@@ -11589,7 +12416,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 828,
-    "score": 174
+    "score": 174,
+    "globalRank": 22252
   },
   {
     "login": "pl4nty",
@@ -11603,7 +12431,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 829,
-    "score": 2661
+    "score": 2661,
+    "globalRank": 22373
   },
   {
     "login": "rohitash-chandra",
@@ -11617,7 +12446,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 830,
-    "score": 205
+    "score": 205,
+    "globalRank": 22374
   },
   {
     "login": "thaytan",
@@ -11631,7 +12461,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 831,
-    "score": 215
+    "score": 215,
+    "globalRank": 22375
   },
   {
     "login": "justinstenning",
@@ -11645,7 +12476,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 832,
-    "score": 473
+    "score": 473,
+    "globalRank": 22376
   },
   {
     "login": "ianw",
@@ -11659,7 +12491,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 833,
-    "score": 212
+    "score": 212,
+    "globalRank": 22377
   },
   {
     "login": "taybenlor",
@@ -11673,7 +12506,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 834,
-    "score": 1250
+    "score": 1250,
+    "globalRank": 22481
   },
   {
     "login": "malcolmgroves",
@@ -11687,7 +12521,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 835,
-    "score": 176
+    "score": 176,
+    "globalRank": 22482
   },
   {
     "login": "gtonkinhill",
@@ -11701,7 +12536,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 836,
-    "score": 262
+    "score": 262,
+    "globalRank": 22483
   },
   {
     "login": "w0ng",
@@ -11715,7 +12551,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 837,
-    "score": 956
+    "score": 956,
+    "globalRank": 22484
   },
   {
     "login": "JosephusPaye",
@@ -11729,7 +12566,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 838,
-    "score": 1276
+    "score": 1276,
+    "globalRank": 22485
   },
   {
     "login": "JosephShenton",
@@ -11743,7 +12581,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 839,
-    "score": 167
+    "score": 167,
+    "globalRank": 22586
   },
   {
     "login": "drwasho",
@@ -11757,7 +12596,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 840,
-    "score": 293
+    "score": 293,
+    "globalRank": 22587
   },
   {
     "login": "emilytrau",
@@ -11771,7 +12611,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 841,
-    "score": 227
+    "score": 227,
+    "globalRank": 22588
   },
   {
     "login": "wspr",
@@ -11785,7 +12626,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 842,
-    "score": 708
+    "score": 708,
+    "globalRank": 22589
   },
   {
     "login": "mukul500",
@@ -11799,7 +12641,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 843,
-    "score": 173
+    "score": 173,
+    "globalRank": 22590
   },
   {
     "login": "mzhaoshuai",
@@ -11813,7 +12656,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 844,
-    "score": 206
+    "score": 206,
+    "globalRank": 22712
   },
   {
     "login": "CassiusPacheco",
@@ -11827,7 +12671,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 845,
-    "score": 166
+    "score": 166,
+    "globalRank": 22713
   },
   {
     "login": "GenevieveBuckley",
@@ -11841,7 +12686,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 846,
-    "score": 878
+    "score": 878,
+    "globalRank": 22714
   },
   {
     "login": "cpmech",
@@ -11855,7 +12701,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 847,
-    "score": 898
+    "score": 898,
+    "globalRank": 22715
   },
   {
     "login": "danoli3",
@@ -11869,7 +12716,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 848,
-    "score": 336
+    "score": 336,
+    "globalRank": 22716
   },
   {
     "login": "leocaseiro",
@@ -11883,7 +12731,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 849,
-    "score": 2864
+    "score": 2864,
+    "globalRank": 22717
   },
   {
     "login": "danilodelucio",
@@ -11897,7 +12746,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 850,
-    "score": 274
+    "score": 274,
+    "globalRank": 22718
   },
   {
     "login": "markhibberd",
@@ -11911,7 +12761,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 851,
-    "score": 4235
+    "score": 4235,
+    "globalRank": 22719
   },
   {
     "login": "shengyufan",
@@ -11925,7 +12776,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 852,
-    "score": 239
+    "score": 239,
+    "globalRank": 22812
   },
   {
     "login": "josephsurin",
@@ -11939,7 +12791,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 853,
-    "score": 898
+    "score": 898,
+    "globalRank": 22813
   },
   {
     "login": "kmkurn",
@@ -11953,7 +12806,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 854,
-    "score": 179
+    "score": 179,
+    "globalRank": 22814
   },
   {
     "login": "sync",
@@ -11967,7 +12821,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 855,
-    "score": 1318
+    "score": 1318,
+    "globalRank": 22815
   },
   {
     "login": "Tarang74",
@@ -11981,7 +12836,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 856,
-    "score": 931
+    "score": 931,
+    "globalRank": 22816
   },
   {
     "login": "hunto",
@@ -11995,7 +12851,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 857,
-    "score": 229
+    "score": 229,
+    "globalRank": 22817
   },
   {
     "login": "dagronf",
@@ -12009,7 +12866,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 858,
-    "score": 355
+    "score": 355,
+    "globalRank": 22818
   },
   {
     "login": "ronrest",
@@ -12023,7 +12881,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 859,
-    "score": 704
+    "score": 704,
+    "globalRank": 22932
   },
   {
     "login": "theleoborges",
@@ -12037,7 +12896,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 860,
-    "score": 899
+    "score": 899,
+    "globalRank": 22933
   },
   {
     "login": "MightyMoud",
@@ -12051,7 +12911,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 861,
-    "score": 342
+    "score": 342,
+    "globalRank": 22934
   },
   {
     "login": "BronsonQuick",
@@ -12065,7 +12926,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 862,
-    "score": 214
+    "score": 214,
+    "globalRank": 22935
   },
   {
     "login": "benkaiser",
@@ -12079,7 +12941,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 863,
-    "score": 910
+    "score": 910,
+    "globalRank": 22936
   },
   {
     "login": "jamesb93",
@@ -12093,7 +12956,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 864,
-    "score": 466
+    "score": 466,
+    "globalRank": 22937
   },
   {
     "login": "prodigysml",
@@ -12107,7 +12971,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 865,
-    "score": 831
+    "score": 831,
+    "globalRank": 23053
   },
   {
     "login": "DanielThomas",
@@ -12121,7 +12986,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 866,
-    "score": 253
+    "score": 253,
+    "globalRank": 23054
   },
   {
     "login": "1runeberg",
@@ -12135,7 +13001,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 867,
-    "score": 180
+    "score": 180,
+    "globalRank": 23055
   },
   {
     "login": "0arm",
@@ -12149,7 +13016,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 868,
-    "score": 633
+    "score": 633,
+    "globalRank": 23056
   },
   {
     "login": "geekscape",
@@ -12163,7 +13031,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 869,
-    "score": 319
+    "score": 319,
+    "globalRank": 23057
   },
   {
     "login": "tinkle-community",
@@ -12177,7 +13046,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 870,
-    "score": 1364
+    "score": 1364,
+    "globalRank": 23058
   },
   {
     "login": "d11wtq",
@@ -12191,7 +13061,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 871,
-    "score": 723
+    "score": 723,
+    "globalRank": 23059
   },
   {
     "login": "floraCodes",
@@ -12205,7 +13076,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 872,
-    "score": 166
+    "score": 166,
+    "globalRank": 23191
   },
   {
     "login": "DungLai",
@@ -12219,7 +13091,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 873,
-    "score": 477
+    "score": 477,
+    "globalRank": 23192
   },
   {
     "login": "timchurches",
@@ -12233,7 +13106,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 874,
-    "score": 310
+    "score": 310,
+    "globalRank": 23193
   },
   {
     "login": "peterfinlan",
@@ -12247,7 +13121,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 875,
-    "score": 162
+    "score": 162,
+    "globalRank": 23194
   },
   {
     "login": "loklaan",
@@ -12261,7 +13136,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 876,
-    "score": 2219
+    "score": 2219,
+    "globalRank": 23195
   },
   {
     "login": "martinbjeldbak",
@@ -12275,7 +13151,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 877,
-    "score": 2400
+    "score": 2400,
+    "globalRank": 23196
   },
   {
     "login": "tfpk",
@@ -12289,7 +13166,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 878,
-    "score": 197
+    "score": 197,
+    "globalRank": 23197
   },
   {
     "login": "timbertson",
@@ -12303,7 +13181,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 879,
-    "score": 289
+    "score": 289,
+    "globalRank": 23303
   },
   {
     "login": "Anyesh",
@@ -12317,7 +13196,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 880,
-    "score": 4070
+    "score": 4070,
+    "globalRank": 23304
   },
   {
     "login": "geeknam",
@@ -12331,7 +13211,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 881,
-    "score": 313
+    "score": 313,
+    "globalRank": 23305
   },
   {
     "login": "yaakov-h",
@@ -12345,7 +13226,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 882,
-    "score": 1917
+    "score": 1917,
+    "globalRank": 23306
   },
   {
     "login": "auscaster",
@@ -12359,7 +13241,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 883,
-    "score": 1345
+    "score": 1345,
+    "globalRank": 23307
   },
   {
     "login": "ryan-allen",
@@ -12373,7 +13256,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 884,
-    "score": 260
+    "score": 260,
+    "globalRank": 23308
   },
   {
     "login": "bfollington",
@@ -12387,7 +13271,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 885,
-    "score": 3083
+    "score": 3083,
+    "globalRank": 23309
   },
   {
     "login": "BernieWhite",
@@ -12401,7 +13286,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 886,
-    "score": 1158
+    "score": 1158,
+    "globalRank": 23428
   },
   {
     "login": "barrystyle",
@@ -12415,7 +13301,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 887,
-    "score": 419
+    "score": 419,
+    "globalRank": 23429
   },
   {
     "login": "beauwilliams",
@@ -12429,7 +13316,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 888,
-    "score": 3134
+    "score": 3134,
+    "globalRank": 23430
   },
   {
     "login": "jokeyrhyme",
@@ -12443,7 +13331,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 889,
-    "score": 221
+    "score": 221,
+    "globalRank": 23431
   },
   {
     "login": "NullTerminatorr",
@@ -12457,7 +13346,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 890,
-    "score": 162
+    "score": 162,
+    "globalRank": 23541
   },
   {
     "login": "ArtemGovorov",
@@ -12471,7 +13361,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 891,
-    "score": 164
+    "score": 164,
+    "globalRank": 23542
   },
   {
     "login": "JasonShin",
@@ -12485,7 +13376,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 892,
-    "score": 2001
+    "score": 2001,
+    "globalRank": 23543
   },
   {
     "login": "Alireza-Malekzadeh",
@@ -12499,7 +13391,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 893,
-    "score": 171
+    "score": 171,
+    "globalRank": 23544
   },
   {
     "login": "no-defun-allowed",
@@ -12513,7 +13406,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 894,
-    "score": 179
+    "score": 179,
+    "globalRank": 23545
   },
   {
     "login": "nickfarrow",
@@ -12527,7 +13421,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 895,
-    "score": 908
+    "score": 908,
+    "globalRank": 23546
   },
   {
     "login": "McoreD",
@@ -12541,7 +13436,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 896,
-    "score": 5596
+    "score": 5596,
+    "globalRank": 23547
   },
   {
     "login": "MysteryPancake",
@@ -12555,7 +13451,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 897,
-    "score": 1526
+    "score": 1526,
+    "globalRank": 23548
   },
   {
     "login": "bizzycola",
@@ -12569,7 +13466,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 898,
-    "score": 378
+    "score": 378,
+    "globalRank": 23549
   },
   {
     "login": "Interkarma",
@@ -12583,7 +13481,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 899,
-    "score": 160
+    "score": 160,
+    "globalRank": 23550
   },
   {
     "login": "adriangranados",
@@ -12597,7 +13496,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 900,
-    "score": 166
+    "score": 166,
+    "globalRank": 23668
   },
   {
     "login": "gsklee",
@@ -12611,7 +13511,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 901,
-    "score": 363
+    "score": 363,
+    "globalRank": 23669
   },
   {
     "login": "sjpiper145",
@@ -12625,7 +13526,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 902,
-    "score": 307
+    "score": 307,
+    "globalRank": 23670
   },
   {
     "login": "visrealm",
@@ -12639,7 +13541,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 903,
-    "score": 1180
+    "score": 1180,
+    "globalRank": 23671
   },
   {
     "login": "vardius",
@@ -12653,7 +13556,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 904,
-    "score": 5864
+    "score": 5864,
+    "globalRank": 23672
   },
   {
     "login": "rossy",
@@ -12667,7 +13571,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 905,
-    "score": 158
+    "score": 158,
+    "globalRank": 23673
   },
   {
     "login": "arobenko",
@@ -12681,7 +13586,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 906,
-    "score": 888
+    "score": 888,
+    "globalRank": 23802
   },
   {
     "login": "henare",
@@ -12695,7 +13601,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 907,
-    "score": 3243
+    "score": 3243,
+    "globalRank": 23803
   },
   {
     "login": "GewelsJI",
@@ -12709,7 +13616,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 908,
-    "score": 432
+    "score": 432,
+    "globalRank": 23804
   },
   {
     "login": "vertxxyz",
@@ -12723,7 +13631,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 909,
-    "score": 3237
+    "score": 3237,
+    "globalRank": 23805
   },
   {
     "login": "JiashuWu",
@@ -12737,7 +13646,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 910,
-    "score": 158
+    "score": 158,
+    "globalRank": 23946
   },
   {
     "login": "tristan-salles",
@@ -12751,7 +13661,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 911,
-    "score": 180
+    "score": 180,
+    "globalRank": 23947
   },
   {
     "login": "arcwhite",
@@ -12765,7 +13676,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 912,
-    "score": 1231
+    "score": 1231,
+    "globalRank": 23948
   },
   {
     "login": "plasticine",
@@ -12779,7 +13691,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 913,
-    "score": 1532
+    "score": 1532,
+    "globalRank": 23949
   },
   {
     "login": "cigrainger",
@@ -12793,7 +13706,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 914,
-    "score": 12253
+    "score": 12253,
+    "globalRank": 23950
   },
   {
     "login": "davmac314",
@@ -12807,7 +13721,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 915,
-    "score": 473
+    "score": 473,
+    "globalRank": 23951
   },
   {
     "login": "honglytech",
@@ -12821,7 +13736,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 916,
-    "score": 302
+    "score": 302,
+    "globalRank": 23952
   },
   {
     "login": "jasonsreid",
@@ -12835,7 +13751,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 917,
-    "score": 156
+    "score": 156,
+    "globalRank": 23953
   },
   {
     "login": "phocks",
@@ -12849,7 +13766,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 918,
-    "score": 1924
+    "score": 1924,
+    "globalRank": 24073
   },
   {
     "login": "sushil79g",
@@ -12863,7 +13781,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 919,
-    "score": 157
+    "score": 157,
+    "globalRank": 24074
   },
   {
     "login": "jvlmdr",
@@ -12877,7 +13796,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 920,
-    "score": 2068
+    "score": 2068,
+    "globalRank": 24075
   },
   {
     "login": "KieraDOG",
@@ -12891,7 +13811,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 921,
-    "score": 1739
+    "score": 1739,
+    "globalRank": 24076
   },
   {
     "login": "k4y4k",
@@ -12905,7 +13826,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 922,
-    "score": 155
+    "score": 155,
+    "globalRank": 24077
   },
   {
     "login": "johnyxu",
@@ -12919,7 +13841,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 923,
-    "score": 175
+    "score": 175,
+    "globalRank": 24078
   },
   {
     "login": "simontime",
@@ -12933,7 +13856,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 924,
-    "score": 191
+    "score": 191,
+    "globalRank": 24079
   },
   {
     "login": "devraj",
@@ -12947,7 +13871,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 925,
-    "score": 2203
+    "score": 2203,
+    "globalRank": 24202
   },
   {
     "login": "devlace",
@@ -12961,7 +13886,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 926,
-    "score": 197
+    "score": 197,
+    "globalRank": 24203
   },
   {
     "login": "meatpiHQ",
@@ -12975,7 +13901,8 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 927,
-    "score": 398
+    "score": 398,
+    "globalRank": 24204
   },
   {
     "login": "davidobrien1985",
@@ -12989,6 +13916,7 @@
     "country": "australia",
     "countryName": "Australia",
     "countryRank": 928,
-    "score": 754
+    "score": 754,
+    "globalRank": 24205
   }
 ]

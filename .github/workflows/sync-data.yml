@@ -29,7 +29,7 @@ jobs:
         run: npm ci
 
       - name: Fetch and Sync Data
-        run: npm run sync
+        run: npm run sync -- --force
         env:
           NODE_ENV: production
 

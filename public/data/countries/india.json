@@ -11,7 +11,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 1,
-    "score": 59839
+    "score": 59839,
+    "globalRank": 5
   },
   {
     "login": "iam-veeramalla",
@@ -25,7 +26,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 2,
-    "score": 31993
+    "score": 31993,
+    "globalRank": 18
   },
   {
     "login": "gopinav",
@@ -39,7 +41,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 3,
-    "score": 17029
+    "score": 17029,
+    "globalRank": 72
   },
   {
     "login": "in28minutes",
@@ -53,7 +56,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 4,
-    "score": 15366
+    "score": 15366,
+    "globalRank": 75
   },
   {
     "login": "anuraghazra",
@@ -67,7 +71,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 5,
-    "score": 15214
+    "score": 15214,
+    "globalRank": 77
   },
   {
     "login": "knadh",
@@ -81,7 +86,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 6,
-    "score": 14617
+    "score": 14617,
+    "globalRank": 96
   },
   {
     "login": "ishandutta2007",
@@ -95,7 +101,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 7,
-    "score": 16202
+    "score": 16202,
+    "globalRank": 100
   },
   {
     "login": "campusx-official",
@@ -109,7 +116,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 8,
-    "score": 12293
+    "score": 12293,
+    "globalRank": 124
   },
   {
     "login": "shradha-khapra",
@@ -123,7 +131,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 9,
-    "score": 11916
+    "score": 11916,
+    "globalRank": 125
   },
   {
     "login": "ashishpatel26",
@@ -137,7 +146,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 10,
-    "score": 11826
+    "score": 11826,
+    "globalRank": 130
   },
   {
     "login": "iampawan",
@@ -151,7 +161,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 11,
-    "score": 12952
+    "score": 12952,
+    "globalRank": 132
   },
   {
     "login": "noob-hackers",
@@ -165,7 +176,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 12,
-    "score": 11198
+    "score": 11198,
+    "globalRank": 143
   },
   {
     "login": "abressiddique",
@@ -179,7 +191,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 13,
-    "score": 11181
+    "score": 11181,
+    "globalRank": 150
   },
   {
     "login": "samarjitsahoo",
@@ -193,7 +206,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 14,
-    "score": 15270
+    "score": 15270,
+    "globalRank": 157
   },
   {
     "login": "s0md3v",
@@ -207,7 +221,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 15,
-    "score": 11200
+    "score": 11200,
+    "globalRank": 168
   },
   {
     "login": "LondheShubham153",
@@ -221,7 +236,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 16,
-    "score": 10254
+    "score": 10254,
+    "globalRank": 176
   },
   {
     "login": "amitshekhariitbhu",
@@ -235,7 +251,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 17,
-    "score": 15106
+    "score": 15106,
+    "globalRank": 225
   },
   {
     "login": "loveBabbar",
@@ -249,7 +266,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 18,
-    "score": 7413
+    "score": 7413,
+    "globalRank": 276
   },
   {
     "login": "Nakshatra05",
@@ -263,7 +281,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 19,
-    "score": 7356
+    "score": 7356,
+    "globalRank": 297
   },
   {
     "login": "vivekweb2013",
@@ -277,7 +296,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 20,
-    "score": 6101
+    "score": 6101,
+    "globalRank": 363
   },
   {
     "login": "piyushgarg-dev",
@@ -291,7 +311,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 21,
-    "score": 7473
+    "score": 7473,
+    "globalRank": 375
   },
   {
     "login": "Ignitetechnologies",
@@ -305,7 +326,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 22,
-    "score": 5694
+    "score": 5694,
+    "globalRank": 399
   },
   {
     "login": "kovidgoyal",
@@ -319,7 +341,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 23,
-    "score": 10269
+    "score": 10269,
+    "globalRank": 408
   },
   {
     "login": "riti2409",
@@ -333,7 +356,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 24,
-    "score": 5303
+    "score": 5303,
+    "globalRank": 434
   },
   {
     "login": "RameshMF",
@@ -347,7 +371,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 25,
-    "score": 5240
+    "score": 5240,
+    "globalRank": 452
   },
   {
     "login": "Anuj-Kumar-Sharma",
@@ -361,7 +386,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 26,
-    "score": 5983
+    "score": 5983,
+    "globalRank": 460
   },
   {
     "login": "ValentineFernandes",
@@ -375,7 +401,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 27,
-    "score": 5151
+    "score": 5151,
+    "globalRank": 463
   },
   {
     "login": "singhsanket143",
@@ -389,7 +416,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 28,
-    "score": 5279
+    "score": 5279,
+    "globalRank": 490
   },
   {
     "login": "manjunath5496",
@@ -403,7 +431,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 29,
-    "score": 4898
+    "score": 4898,
+    "globalRank": 503
   },
   {
     "login": "developerrahulofficial",
@@ -417,7 +446,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 30,
-    "score": 4741
+    "score": 4741,
+    "globalRank": 539
   },
   {
     "login": "akshaymarch7",
@@ -431,7 +461,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 31,
-    "score": 4814
+    "score": 4814,
+    "globalRank": 550
   },
   {
     "login": "Aakashdeveloper",
@@ -445,7 +476,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 32,
-    "score": 5016
+    "score": 5016,
+    "globalRank": 559
   },
   {
     "login": "Z4nzu",
@@ -459,7 +491,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 33,
-    "score": 4713
+    "score": 4713,
+    "globalRank": 614
   },
   {
     "login": "stacksimplify",
@@ -473,7 +506,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 34,
-    "score": 4100
+    "score": 4100,
+    "globalRank": 650
   },
   {
     "login": "liyasthomas",
@@ -487,7 +521,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 35,
-    "score": 4059
+    "score": 4059,
+    "globalRank": 740
   },
   {
     "login": "adi1090x",
@@ -501,7 +536,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 36,
-    "score": 3635
+    "score": 3635,
+    "globalRank": 772
   },
   {
     "login": "techchipnet",
@@ -515,7 +551,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 37,
-    "score": 3320
+    "score": 3320,
+    "globalRank": 826
   },
   {
     "login": "vimal0156",
@@ -529,7 +566,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 38,
-    "score": 3379
+    "score": 3379,
+    "globalRank": 832
   },
   {
     "login": "sayakpaul",
@@ -543,7 +581,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 39,
-    "score": 5685
+    "score": 5685,
+    "globalRank": 846
   },
   {
     "login": "AdiChat",
@@ -557,7 +596,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 40,
-    "score": 3255
+    "score": 3255,
+    "globalRank": 860
   },
   {
     "login": "slidenerd",
@@ -571,7 +611,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 41,
-    "score": 3191
+    "score": 3191,
+    "globalRank": 878
   },
   {
     "login": "rajkumardusad",
@@ -585,7 +626,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 42,
-    "score": 3187
+    "score": 3187,
+    "globalRank": 908
   },
   {
     "login": "sadanandpai",
@@ -599,7 +641,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 43,
-    "score": 3405
+    "score": 3405,
+    "globalRank": 910
   },
   {
     "login": "chandansgowda",
@@ -613,7 +656,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 44,
-    "score": 4020
+    "score": 4020,
+    "globalRank": 911
   },
   {
     "login": "tanaypratap",
@@ -627,7 +671,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 45,
-    "score": 9592
+    "score": 9592,
+    "globalRank": 942
   },
   {
     "login": "coding-parrot",
@@ -641,7 +686,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 46,
-    "score": 3432
+    "score": 3432,
+    "globalRank": 948
   },
   {
     "login": "jayDevCodes",
@@ -655,7 +701,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 47,
-    "score": 3868
+    "score": 3868,
+    "globalRank": 959
   },
   {
     "login": "TheAppWizard",
@@ -669,7 +716,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 48,
-    "score": 3004
+    "score": 3004,
+    "globalRank": 963
   },
   {
     "login": "abhisheknaiidu",
@@ -683,7 +731,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 49,
-    "score": 5979
+    "score": 5979,
+    "globalRank": 964
   },
   {
     "login": "NotHarshhaa",
@@ -697,7 +746,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 50,
-    "score": 6899
+    "score": 6899,
+    "globalRank": 981
   },
   {
     "login": "AkshatRastogi-1nC0re",
@@ -711,7 +761,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 51,
-    "score": 2942
+    "score": 2942,
+    "globalRank": 1012
   },
   {
     "login": "arjuncvinod",
@@ -725,7 +776,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 52,
-    "score": 3283
+    "score": 3283,
+    "globalRank": 1027
   },
   {
     "login": "MAZHARMIK",
@@ -739,7 +791,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 53,
-    "score": 3740
+    "score": 3740,
+    "globalRank": 1042
   },
   {
     "login": "ankitaaryal",
@@ -753,7 +806,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 54,
-    "score": 3091
+    "score": 3091,
+    "globalRank": 1051
   },
   {
     "login": "aryashah2k",
@@ -767,7 +821,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 55,
-    "score": 2920
+    "score": 2920,
+    "globalRank": 1061
   },
   {
     "login": "Hax4us",
@@ -781,7 +836,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 56,
-    "score": 3092
+    "score": 3092,
+    "globalRank": 1062
   },
   {
     "login": "rahuldkjain",
@@ -795,7 +851,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 57,
-    "score": 2926
+    "score": 2926,
+    "globalRank": 1084
   },
   {
     "login": "learning-zone",
@@ -809,7 +866,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 58,
-    "score": 2927
+    "score": 2927,
+    "globalRank": 1118
   },
   {
     "login": "thetutlage",
@@ -823,7 +881,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 59,
-    "score": 5744
+    "score": 5744,
+    "globalRank": 1122
   },
   {
     "login": "vinitshahdeo",
@@ -837,7 +896,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 60,
-    "score": 3200
+    "score": 3200,
+    "globalRank": 1165
   },
   {
     "login": "ritwickdey",
@@ -851,7 +911,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 61,
-    "score": 5600
+    "score": 5600,
+    "globalRank": 1168
   },
   {
     "login": "PatilShreyas",
@@ -865,7 +926,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 62,
-    "score": 5091
+    "score": 5091,
+    "globalRank": 1169
   },
   {
     "login": "Ayushi0214",
@@ -879,7 +941,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 63,
-    "score": 2564
+    "score": 2564,
+    "globalRank": 1204
   },
   {
     "login": "callicoder",
@@ -893,7 +956,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 64,
-    "score": 3693
+    "score": 3693,
+    "globalRank": 1223
   },
   {
     "login": "AnubhavChaturvedi-GitHub",
@@ -907,7 +971,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 65,
-    "score": 2592
+    "score": 2592,
+    "globalRank": 1230
   },
   {
     "login": "farhan7reza7",
@@ -921,7 +986,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 66,
-    "score": 508140
+    "score": 508140,
+    "globalRank": 1235
   },
   {
     "login": "akashyap2013",
@@ -935,7 +1001,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 67,
-    "score": 2457
+    "score": 2457,
+    "globalRank": 1236
   },
   {
     "login": "krishnadey30",
@@ -949,7 +1016,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 68,
-    "score": 3808
+    "score": 3808,
+    "globalRank": 1251
   },
   {
     "login": "bhattbhavesh91",
@@ -963,7 +1031,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 69,
-    "score": 2440
+    "score": 2440,
+    "globalRank": 1277
   },
   {
     "login": "gautamkrishnar",
@@ -977,7 +1046,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 70,
-    "score": 3613
+    "score": 3613,
+    "globalRank": 1312
   },
   {
     "login": "AIAnytime",
@@ -991,7 +1061,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 71,
-    "score": 2740
+    "score": 2740,
+    "globalRank": 1321
   },
   {
     "login": "mukeshlilawat1",
@@ -1005,7 +1076,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 72,
-    "score": 3113
+    "score": 3113,
+    "globalRank": 1322
   },
   {
     "login": "haris989",
@@ -1019,7 +1091,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 73,
-    "score": 2315
+    "score": 2315,
+    "globalRank": 1331
   },
   {
     "login": "itzpradip",
@@ -1033,7 +1106,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 74,
-    "score": 2349
+    "score": 2349,
+    "globalRank": 1333
   },
   {
     "login": "ravi8x",
@@ -1047,7 +1121,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 75,
-    "score": 3202
+    "score": 3202,
+    "globalRank": 1375
   },
   {
     "login": "hemansnation",
@@ -1061,7 +1136,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 76,
-    "score": 2455
+    "score": 2455,
+    "globalRank": 1378
   },
   {
     "login": "janishar",
@@ -1075,7 +1151,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 77,
-    "score": 2911
+    "score": 2911,
+    "globalRank": 1387
   },
   {
     "login": "ayushi7rawat",
@@ -1089,7 +1166,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 78,
-    "score": 2239
+    "score": 2239,
+    "globalRank": 1397
   },
   {
     "login": "gkcs",
@@ -1103,7 +1181,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 79,
-    "score": 2234
+    "score": 2234,
+    "globalRank": 1401
   },
   {
     "login": "ashokitschool",
@@ -1117,7 +1196,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 80,
-    "score": 2602
+    "score": 2602,
+    "globalRank": 1411
   },
   {
     "login": "kartik-v",
@@ -1131,7 +1211,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 81,
-    "score": 2224
+    "score": 2224,
+    "globalRank": 1412
   },
   {
     "login": "akash-tk",
@@ -1145,7 +1226,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 82,
-    "score": 2222
+    "score": 2222,
+    "globalRank": 1416
   },
   {
     "login": "PoojaB26",
@@ -1159,7 +1241,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 83,
-    "score": 3147
+    "score": 3147,
+    "globalRank": 1420
   },
   {
     "login": "TheAlphamerc",
@@ -1173,7 +1256,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 84,
-    "score": 2206
+    "score": 2206,
+    "globalRank": 1438
   },
   {
     "login": "thenaveensaggam",
@@ -1187,7 +1271,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 85,
-    "score": 2196
+    "score": 2196,
+    "globalRank": 1448
   },
   {
     "login": "codewithdhruba01",
@@ -1201,7 +1286,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 86,
-    "score": 4925
+    "score": 4925,
+    "globalRank": 1456
   },
   {
     "login": "codewithMUHILAN",
@@ -1215,7 +1301,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 87,
-    "score": 3995
+    "score": 3995,
+    "globalRank": 1492
   },
   {
     "login": "shekhargulati",
@@ -1229,7 +1316,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 88,
-    "score": 2608
+    "score": 2608,
+    "globalRank": 1499
   },
   {
     "login": "ijagjeet",
@@ -1243,7 +1331,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 89,
-    "score": 3976
+    "score": 3976,
+    "globalRank": 1500
   },
   {
     "login": "Premalatha-success",
@@ -1257,7 +1346,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 90,
-    "score": 2520
+    "score": 2520,
+    "globalRank": 1529
   },
   {
     "login": "aritraroy",
@@ -1271,7 +1361,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 91,
-    "score": 5036
+    "score": 5036,
+    "globalRank": 1531
   },
   {
     "login": "rahuloraj",
@@ -1285,7 +1376,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 92,
-    "score": 2556
+    "score": 2556,
+    "globalRank": 1548
   },
   {
     "login": "nikhita",
@@ -1299,7 +1391,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 93,
-    "score": 2046
+    "score": 2046,
+    "globalRank": 1577
   },
   {
     "login": "PeetlaMahesh123",
@@ -1313,7 +1406,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 94,
-    "score": 3078
+    "score": 3078,
+    "globalRank": 1579
   },
   {
     "login": "darshilparmar",
@@ -1327,7 +1421,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 95,
-    "score": 2224
+    "score": 2224,
+    "globalRank": 1583
   },
   {
     "login": "saurabhdaware",
@@ -1341,7 +1436,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 96,
-    "score": 2579
+    "score": 2579,
+    "globalRank": 1593
   },
   {
     "login": "Ishan7390",
@@ -1355,7 +1451,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 97,
-    "score": 2028
+    "score": 2028,
+    "globalRank": 1596
   },
   {
     "login": "saviomartin",
@@ -1369,7 +1466,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 98,
-    "score": 3371
+    "score": 3371,
+    "globalRank": 1620
   },
   {
     "login": "anitaa1990",
@@ -1383,7 +1481,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 99,
-    "score": 2784
+    "score": 2784,
+    "globalRank": 1621
   },
   {
     "login": "Amanc77",
@@ -1397,7 +1496,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 100,
-    "score": 2390
+    "score": 2390,
+    "globalRank": 1666
   },
   {
     "login": "devanshbatham",
@@ -1411,7 +1511,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 101,
-    "score": 2128
+    "score": 2128,
+    "globalRank": 1674
   },
   {
     "login": "laxmimerit",
@@ -1425,7 +1526,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 102,
-    "score": 3251
+    "score": 3251,
+    "globalRank": 1675
   },
   {
     "login": "akshaynarisetti",
@@ -1439,7 +1541,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 103,
-    "score": 1945
+    "score": 1945,
+    "globalRank": 1691
   },
   {
     "login": "theindianappguy",
@@ -1453,7 +1556,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 104,
-    "score": 4847
+    "score": 4847,
+    "globalRank": 1716
   },
   {
     "login": "Pradumnasaraf",
@@ -1467,7 +1571,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 105,
-    "score": 3249
+    "score": 3249,
+    "globalRank": 1720
   },
   {
     "login": "shivaylamba",
@@ -1481,7 +1586,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 106,
-    "score": 2547
+    "score": 2547,
+    "globalRank": 1721
   },
   {
     "login": "mr-karan",
@@ -1495,7 +1601,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 107,
-    "score": 2929
+    "score": 2929,
+    "globalRank": 1737
   },
   {
     "login": "codegridweb",
@@ -1509,7 +1616,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 108,
-    "score": 1888
+    "score": 1888,
+    "globalRank": 1746
   },
   {
     "login": "chandrikadeb7",
@@ -1523,7 +1631,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 109,
-    "score": 1889
+    "score": 1889,
+    "globalRank": 1755
   },
   {
     "login": "ehsandeep",
@@ -1537,7 +1646,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 110,
-    "score": 7537
+    "score": 7537,
+    "globalRank": 1761
   },
   {
     "login": "sivaprasadreddy",
@@ -1551,7 +1661,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 111,
-    "score": 2884
+    "score": 2884,
+    "globalRank": 1769
   },
   {
     "login": "sygops",
@@ -1565,7 +1676,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 112,
-    "score": 1865
+    "score": 1865,
+    "globalRank": 1773
   },
   {
     "login": "collabnix",
@@ -1579,7 +1691,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 113,
-    "score": 2024
+    "score": 2024,
+    "globalRank": 1774
   },
   {
     "login": "eazybytes",
@@ -1593,7 +1706,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 114,
-    "score": 2060
+    "score": 2060,
+    "globalRank": 1802
   },
   {
     "login": "DeekshithSN",
@@ -1607,7 +1721,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 115,
-    "score": 1906
+    "score": 1906,
+    "globalRank": 1855
   },
   {
     "login": "labnol",
@@ -1621,7 +1736,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 116,
-    "score": 2638
+    "score": 2638,
+    "globalRank": 1881
   },
   {
     "login": "rocksdanister",
@@ -1635,7 +1751,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 117,
-    "score": 2047
+    "score": 2047,
+    "globalRank": 1897
   },
   {
     "login": "smartherd",
@@ -1649,7 +1766,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 118,
-    "score": 1773
+    "score": 1773,
+    "globalRank": 1911
   },
   {
     "login": "hareesh-r",
@@ -1663,7 +1781,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 119,
-    "score": 1841
+    "score": 1841,
+    "globalRank": 1927
   },
   {
     "login": "PramodDutta",
@@ -1677,7 +1796,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 120,
-    "score": 2464
+    "score": 2464,
+    "globalRank": 1933
   },
   {
     "login": "soumyajit4419",
@@ -1691,7 +1811,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 121,
-    "score": 1856
+    "score": 1856,
+    "globalRank": 1964
   },
   {
     "login": "parthwebdev",
@@ -1705,7 +1826,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 122,
-    "score": 2272
+    "score": 2272,
+    "globalRank": 1966
   },
   {
     "login": "blueedgetechno",
@@ -1719,7 +1841,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 123,
-    "score": 2352
+    "score": 2352,
+    "globalRank": 2006
   },
   {
     "login": "aniketdobriyal",
@@ -1733,7 +1856,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 124,
-    "score": 1731
+    "score": 1731,
+    "globalRank": 2013
   },
   {
     "login": "rishavchanda",
@@ -1747,7 +1871,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 125,
-    "score": 1695
+    "score": 1695,
+    "globalRank": 2021
   },
   {
     "login": "savanihd",
@@ -1761,7 +1886,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 126,
-    "score": 3098
+    "score": 3098,
+    "globalRank": 2027
   },
   {
     "login": "ishikkkkaaaa",
@@ -1775,7 +1901,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 127,
-    "score": 1687
+    "score": 1687,
+    "globalRank": 2038
   },
   {
     "login": "probelalkhan",
@@ -1789,7 +1916,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 128,
-    "score": 1827
+    "score": 1827,
+    "globalRank": 2084
   },
   {
     "login": "naman14",
@@ -1803,7 +1931,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 129,
-    "score": 2523
+    "score": 2523,
+    "globalRank": 2090
   },
   {
     "login": "priya42bagde",
@@ -1817,7 +1946,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 130,
-    "score": 1664
+    "score": 1664,
+    "globalRank": 2126
   },
   {
     "login": "LearnCodeWithDurgesh",
@@ -1831,7 +1961,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 131,
-    "score": 1623
+    "score": 1623,
+    "globalRank": 2152
   },
   {
     "login": "MadhavBahl",
@@ -1845,7 +1976,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 132,
-    "score": 1833
+    "score": 1833,
+    "globalRank": 2170
   },
   {
     "login": "sameersbn",
@@ -1859,7 +1991,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 133,
-    "score": 1586
+    "score": 1586,
+    "globalRank": 2180
   },
   {
     "login": "tech-ramakant",
@@ -1873,7 +2006,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 134,
-    "score": 1646
+    "score": 1646,
+    "globalRank": 2181
   },
   {
     "login": "amark720",
@@ -1887,7 +2021,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 135,
-    "score": 4775
+    "score": 4775,
+    "globalRank": 2197
   },
   {
     "login": "Shubham0812",
@@ -1901,7 +2036,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 136,
-    "score": 2755
+    "score": 2755,
+    "globalRank": 2217
   },
   {
     "login": "KushalVijay",
@@ -1915,7 +2051,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 137,
-    "score": 1564
+    "score": 1564,
+    "globalRank": 2247
   },
   {
     "login": "Shubh2-0",
@@ -1929,7 +2066,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 138,
-    "score": 2554
+    "score": 2554,
+    "globalRank": 2254
   },
   {
     "login": "0xInfection",
@@ -1943,7 +2081,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 139,
-    "score": 3242
+    "score": 3242,
+    "globalRank": 2255
   },
   {
     "login": "amankharwal",
@@ -1957,7 +2096,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 140,
-    "score": 1535
+    "score": 1535,
+    "globalRank": 2263
   },
   {
     "login": "nikhilkilivayil",
@@ -1971,7 +2111,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 141,
-    "score": 1507
+    "score": 1507,
+    "globalRank": 2301
   },
   {
     "login": "KathanP19",
@@ -1985,7 +2126,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 142,
-    "score": 1502
+    "score": 1502,
+    "globalRank": 2304
   },
   {
     "login": "thehackingsage",
@@ -1999,7 +2141,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 143,
-    "score": 1468
+    "score": 1468,
+    "globalRank": 2379
   },
   {
     "login": "voidChetan",
@@ -2013,7 +2156,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 144,
-    "score": 1459
+    "score": 1459,
+    "globalRank": 2399
   },
   {
     "login": "raisedadead",
@@ -2027,7 +2171,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 145,
-    "score": 6891
+    "score": 6891,
+    "globalRank": 2413
   },
   {
     "login": "soumyadip007",
@@ -2041,7 +2186,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 146,
-    "score": 2637
+    "score": 2637,
+    "globalRank": 2438
   },
   {
     "login": "Priyansh19077",
@@ -2055,7 +2201,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 147,
-    "score": 1479
+    "score": 1479,
+    "globalRank": 2443
   },
   {
     "login": "avinassh",
@@ -2069,7 +2216,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 148,
-    "score": 2937
+    "score": 2937,
+    "globalRank": 2462
   },
   {
     "login": "saumya1singh",
@@ -2083,7 +2231,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 149,
-    "score": 1610
+    "score": 1610,
+    "globalRank": 2463
   },
   {
     "login": "aviaryan",
@@ -2097,7 +2246,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 150,
-    "score": 1931
+    "score": 1931,
+    "globalRank": 2495
   },
   {
     "login": "Kushal334",
@@ -2111,7 +2261,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 151,
-    "score": 1413
+    "score": 1413,
+    "globalRank": 2497
   },
   {
     "login": "uchiha-suraj",
@@ -2125,7 +2276,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 152,
-    "score": 1412
+    "score": 1412,
+    "globalRank": 2511
   },
   {
     "login": "CrazyIndianDeveloper",
@@ -2139,7 +2291,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 153,
-    "score": 1434
+    "score": 1434,
+    "globalRank": 2516
   },
   {
     "login": "bansalkanav",
@@ -2153,7 +2306,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 154,
-    "score": 1826
+    "score": 1826,
+    "globalRank": 2540
   },
   {
     "login": "Spikeysanju",
@@ -2167,7 +2321,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 155,
-    "score": 3882
+    "score": 3882,
+    "globalRank": 2570
   },
   {
     "login": "Sumersingpatil2694",
@@ -2181,7 +2336,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 156,
-    "score": 1650
+    "score": 1650,
+    "globalRank": 2594
   },
   {
     "login": "Shashank02051997",
@@ -2195,7 +2351,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 157,
-    "score": 2756
+    "score": 2756,
+    "globalRank": 2611
   },
   {
     "login": "swapagarwal",
@@ -2209,7 +2366,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 158,
-    "score": 1655
+    "score": 1655,
+    "globalRank": 2631
   },
   {
     "login": "bugswriter",
@@ -2223,7 +2381,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 159,
-    "score": 2456
+    "score": 2456,
+    "globalRank": 2637
   },
   {
     "login": "anshuopinion",
@@ -2237,7 +2396,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 160,
-    "score": 2227
+    "score": 2227,
+    "globalRank": 2653
   },
   {
     "login": "verma-kunal",
@@ -2251,7 +2411,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 161,
-    "score": 1391
+    "score": 1391,
+    "globalRank": 2658
   },
   {
     "login": "SamirPaulb",
@@ -2265,7 +2426,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 162,
-    "score": 2351
+    "score": 2351,
+    "globalRank": 2662
   },
   {
     "login": "kaiwalyakoparkar",
@@ -2279,7 +2441,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 163,
-    "score": 1692
+    "score": 1692,
+    "globalRank": 2687
   },
   {
     "login": "N4si",
@@ -2293,7 +2456,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 164,
-    "score": 1362
+    "score": 1362,
+    "globalRank": 2696
   },
   {
     "login": "VishwaGauravIn",
@@ -2307,7 +2471,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 165,
-    "score": 1491
+    "score": 1491,
+    "globalRank": 2697
   },
   {
     "login": "chmpX",
@@ -2321,7 +2486,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 166,
-    "score": 1409
+    "score": 1409,
+    "globalRank": 2705
   },
   {
     "login": "parulnith",
@@ -2335,7 +2501,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 167,
-    "score": 1662
+    "score": 1662,
+    "globalRank": 2732
   },
   {
     "login": "the-dagger",
@@ -2349,7 +2516,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 168,
-    "score": 1303
+    "score": 1303,
+    "globalRank": 2778
   },
   {
     "login": "jamesgeorge007",
@@ -2363,7 +2531,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 169,
-    "score": 3415
+    "score": 3415,
+    "globalRank": 2795
   },
   {
     "login": "garimasingh128",
@@ -2377,7 +2546,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 170,
-    "score": 1295
+    "score": 1295,
+    "globalRank": 2804
   },
   {
     "login": "tilakjain123",
@@ -2391,7 +2561,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 171,
-    "score": 1294
+    "score": 1294,
+    "globalRank": 2811
   },
   {
     "login": "kunaltyagi9",
@@ -2405,7 +2576,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 172,
-    "score": 1290
+    "score": 1290,
+    "globalRank": 2819
   },
   {
     "login": "sumitkumar1503",
@@ -2419,7 +2591,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 173,
-    "score": 1993
+    "score": 1993,
+    "globalRank": 2822
   },
   {
     "login": "codeperfectplus",
@@ -2433,7 +2606,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 174,
-    "score": 1869
+    "score": 1869,
+    "globalRank": 2826
   },
   {
     "login": "agnivade",
@@ -2447,7 +2621,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 175,
-    "score": 1457
+    "score": 1457,
+    "globalRank": 2841
   },
   {
     "login": "vikashishere",
@@ -2461,7 +2636,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 176,
-    "score": 1289
+    "score": 1289,
+    "globalRank": 2863
   },
   {
     "login": "Shahzaib-D-Memon",
@@ -2475,7 +2651,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 177,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 2864
   },
   {
     "login": "rajsolodev",
@@ -2489,7 +2666,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 178,
-    "score": 1530
+    "score": 1530,
+    "globalRank": 2873
   },
   {
     "login": "shantunparmar",
@@ -2503,7 +2681,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 179,
-    "score": 1271
+    "score": 1271,
+    "globalRank": 2900
   },
   {
     "login": "sabeerbikba",
@@ -2517,7 +2696,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 180,
-    "score": 1522
+    "score": 1522,
+    "globalRank": 2904
   },
   {
     "login": "tanyarajhans",
@@ -2531,7 +2711,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 181,
-    "score": 1299
+    "score": 1299,
+    "globalRank": 2913
   },
   {
     "login": "PrasoonPratham",
@@ -2545,7 +2726,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 182,
-    "score": 2074
+    "score": 2074,
+    "globalRank": 2914
   },
   {
     "login": "saiyam1814",
@@ -2559,7 +2741,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 183,
-    "score": 2062
+    "score": 2062,
+    "globalRank": 2948
   },
   {
     "login": "ritz078",
@@ -2573,7 +2756,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 184,
-    "score": 2741
+    "score": 2741,
+    "globalRank": 2949
   },
   {
     "login": "cneuralnetwork",
@@ -2587,7 +2771,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 185,
-    "score": 2183
+    "score": 2183,
+    "globalRank": 2983
   },
   {
     "login": "jigar-sable",
@@ -2601,7 +2786,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 186,
-    "score": 1498
+    "score": 1498,
+    "globalRank": 2988
   },
   {
     "login": "itswadesh",
@@ -2615,7 +2801,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 187,
-    "score": 4011
+    "score": 4011,
+    "globalRank": 3000
   },
   {
     "login": "chinchang",
@@ -2629,7 +2816,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 188,
-    "score": 2697
+    "score": 2697,
+    "globalRank": 3040
   },
   {
     "login": "Sabyasachi-Seal",
@@ -2643,7 +2831,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 189,
-    "score": 5077
+    "score": 5077,
+    "globalRank": 3041
   },
   {
     "login": "snitin315",
@@ -2657,7 +2846,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 190,
-    "score": 1594
+    "score": 1594,
+    "globalRank": 3086
   },
   {
     "login": "kmrchandan006",
@@ -2671,7 +2861,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 191,
-    "score": 1205
+    "score": 1205,
+    "globalRank": 3090
   },
   {
     "login": "khemssharma",
@@ -2685,7 +2876,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 192,
-    "score": 1787
+    "score": 1787,
+    "globalRank": 3108
   },
   {
     "login": "LakshyaDuhoonISU",
@@ -2699,7 +2891,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 193,
-    "score": 1579
+    "score": 1579,
+    "globalRank": 3115
   },
   {
     "login": "ruppysuppy",
@@ -2713,7 +2906,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 194,
-    "score": 2525
+    "score": 2525,
+    "globalRank": 3131
   },
   {
     "login": "JayantGoel001",
@@ -2727,7 +2921,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 195,
-    "score": 2990
+    "score": 2990,
+    "globalRank": 3174
   },
   {
     "login": "sahils0",
@@ -2741,7 +2936,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 196,
-    "score": 1299
+    "score": 1299,
+    "globalRank": 3203
   },
   {
     "login": "shivammathur",
@@ -2755,7 +2951,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 197,
-    "score": 6368
+    "score": 6368,
+    "globalRank": 3207
   },
   {
     "login": "gurveeer",
@@ -2769,7 +2966,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 198,
-    "score": 1561
+    "score": 1561,
+    "globalRank": 3276
   },
   {
     "login": "techiesms",
@@ -2783,7 +2981,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 199,
-    "score": 1230
+    "score": 1230,
+    "globalRank": 3295
   },
   {
     "login": "hi-manshu",
@@ -2797,7 +2996,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 200,
-    "score": 1867
+    "score": 1867,
+    "globalRank": 3341
   },
   {
     "login": "amanvermai30",
@@ -2811,7 +3011,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 201,
-    "score": 1117
+    "score": 1117,
+    "globalRank": 3386
   },
   {
     "login": "smaranjitghose",
@@ -2825,7 +3026,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 202,
-    "score": 1416
+    "score": 1416,
+    "globalRank": 3390
   },
   {
     "login": "dipakkr",
@@ -2839,7 +3041,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 203,
-    "score": 2029
+    "score": 2029,
+    "globalRank": 3400
   },
   {
     "login": "rmehta",
@@ -2853,7 +3056,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 204,
-    "score": 1271
+    "score": 1271,
+    "globalRank": 3404
   },
   {
     "login": "sbis04",
@@ -2867,7 +3071,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 205,
-    "score": 2788
+    "score": 2788,
+    "globalRank": 3443
   },
   {
     "login": "mitesh77",
@@ -2881,7 +3086,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 206,
-    "score": 1111
+    "score": 1111,
+    "globalRank": 3459
   },
   {
     "login": "Sachin2815",
@@ -2895,7 +3101,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 207,
-    "score": 1108
+    "score": 1108,
+    "globalRank": 3471
   },
   {
     "login": "KalyanM45",
@@ -2909,7 +3116,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 208,
-    "score": 1255
+    "score": 1255,
+    "globalRank": 3483
   },
   {
     "login": "karthik558",
@@ -2923,7 +3131,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 209,
-    "score": 2721
+    "score": 2721,
+    "globalRank": 3486
   },
   {
     "login": "nishantwrp",
@@ -2937,7 +3146,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 210,
-    "score": 1307
+    "score": 1307,
+    "globalRank": 3492
   },
   {
     "login": "hicodersofficial",
@@ -2951,7 +3161,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 211,
-    "score": 1107
+    "score": 1107,
+    "globalRank": 3495
   },
   {
     "login": "ShreyaPrasad1209",
@@ -2965,7 +3176,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 212,
-    "score": 1112
+    "score": 1112,
+    "globalRank": 3504
   },
   {
     "login": "vopani",
@@ -2979,7 +3191,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 213,
-    "score": 1089
+    "score": 1089,
+    "globalRank": 3515
   },
   {
     "login": "antonfrancisjeejo",
@@ -2993,7 +3206,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 214,
-    "score": 2034
+    "score": 2034,
+    "globalRank": 3527
   },
   {
     "login": "kinghacker0",
@@ -3007,7 +3221,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 215,
-    "score": 1288
+    "score": 1288,
+    "globalRank": 3534
   },
   {
     "login": "farizrahman4u",
@@ -3021,7 +3236,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 216,
-    "score": 1197
+    "score": 1197,
+    "globalRank": 3547
   },
   {
     "login": "OmkarPathak",
@@ -3035,7 +3251,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 217,
-    "score": 1899
+    "score": 1899,
+    "globalRank": 3585
   },
   {
     "login": "sarthaksavvy",
@@ -3049,7 +3266,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 218,
-    "score": 2840
+    "score": 2840,
+    "globalRank": 3591
   },
   {
     "login": "karma9874",
@@ -3063,7 +3281,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 219,
-    "score": 1067
+    "score": 1067,
+    "globalRank": 3614
   },
   {
     "login": "aniketsingh0104",
@@ -3077,7 +3296,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 220,
-    "score": 1064
+    "score": 1064,
+    "globalRank": 3618
   },
   {
     "login": "bpbpublications",
@@ -3091,7 +3311,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 221,
-    "score": 1715
+    "score": 1715,
+    "globalRank": 3635
   },
   {
     "login": "Shabinder",
@@ -3105,7 +3326,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 222,
-    "score": 2824
+    "score": 2824,
+    "globalRank": 3648
   },
   {
     "login": "hackiftekhar",
@@ -3119,7 +3341,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 223,
-    "score": 1167
+    "score": 1167,
+    "globalRank": 3649
   },
   {
     "login": "SpEcHiDe",
@@ -3133,7 +3356,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 224,
-    "score": 1467
+    "score": 1467,
+    "globalRank": 3650
   },
   {
     "login": "Siddhant-K-code",
@@ -3147,7 +3371,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 225,
-    "score": 5377
+    "score": 5377,
+    "globalRank": 3659
   },
   {
     "login": "Ayushparikh-code",
@@ -3161,7 +3386,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 226,
-    "score": 1049
+    "score": 1049,
+    "globalRank": 3678
   },
   {
     "login": "UltronTheAI",
@@ -3175,7 +3401,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 227,
-    "score": 1715
+    "score": 1715,
+    "globalRank": 3679
   },
   {
     "login": "suriyadeepan",
@@ -3189,7 +3416,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 228,
-    "score": 1214
+    "score": 1214,
+    "globalRank": 3686
   },
   {
     "login": "fenrir2608",
@@ -3203,7 +3431,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 229,
-    "score": 1129
+    "score": 1129,
+    "globalRank": 3687
   },
   {
     "login": "AkashSingh3031",
@@ -3217,7 +3446,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 230,
-    "score": 1127
+    "score": 1127,
+    "globalRank": 3699
   },
   {
     "login": "niharika2810",
@@ -3231,7 +3461,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 231,
-    "score": 1084
+    "score": 1084,
+    "globalRank": 3706
   },
   {
     "login": "TechieBlossom",
@@ -3245,7 +3476,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 232,
-    "score": 1132
+    "score": 1132,
+    "globalRank": 3713
   },
   {
     "login": "tkssharma",
@@ -3259,7 +3491,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 233,
-    "score": 1155
+    "score": 1155,
+    "globalRank": 3720
   },
   {
     "login": "deadlyjack",
@@ -3273,7 +3506,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 234,
-    "score": 1611
+    "score": 1611,
+    "globalRank": 3736
   },
   {
     "login": "genieincodebottle",
@@ -3287,7 +3521,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 235,
-    "score": 4559
+    "score": 4559,
+    "globalRank": 3752
   },
   {
     "login": "Spidy20",
@@ -3301,7 +3536,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 236,
-    "score": 1100
+    "score": 1100,
+    "globalRank": 3758
   },
   {
     "login": "Swati4star",
@@ -3315,7 +3551,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 237,
-    "score": 1037
+    "score": 1037,
+    "globalRank": 3773
   },
   {
     "login": "OrkoHunter",
@@ -3329,7 +3566,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 238,
-    "score": 2625
+    "score": 2625,
+    "globalRank": 3813
   },
   {
     "login": "patil-suraj",
@@ -3343,7 +3581,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 239,
-    "score": 1485
+    "score": 1485,
+    "globalRank": 3820
   },
   {
     "login": "shumbul",
@@ -3357,7 +3596,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 240,
-    "score": 1200
+    "score": 1200,
+    "globalRank": 3829
   },
   {
     "login": "SnippetCoders",
@@ -3371,7 +3611,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 241,
-    "score": 1017
+    "score": 1017,
+    "globalRank": 3861
   },
   {
     "login": "koolkishan",
@@ -3385,7 +3626,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 242,
-    "score": 2429
+    "score": 2429,
+    "globalRank": 3871
   },
   {
     "login": "nathvarun",
@@ -3399,7 +3641,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 243,
-    "score": 1011
+    "score": 1011,
+    "globalRank": 3884
   },
   {
     "login": "Anmol-Baranwal",
@@ -3413,7 +3656,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 244,
-    "score": 1503
+    "score": 1503,
+    "globalRank": 3903
   },
   {
     "login": "0xmainak",
@@ -3427,7 +3671,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 245,
-    "score": 1540
+    "score": 1540,
+    "globalRank": 3912
   },
   {
     "login": "zaidmukaddam",
@@ -3441,7 +3686,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 246,
-    "score": 1570
+    "score": 1570,
+    "globalRank": 3919
   },
   {
     "login": "mrinalxdev",
@@ -3455,7 +3701,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 247,
-    "score": 1528
+    "score": 1528,
+    "globalRank": 3924
   },
   {
     "login": "PuruVJ",
@@ -3469,7 +3716,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 248,
-    "score": 1407
+    "score": 1407,
+    "globalRank": 3999
   },
   {
     "login": "LearningJournal",
@@ -3483,7 +3731,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 249,
-    "score": 1054
+    "score": 1054,
+    "globalRank": 4024
   },
   {
     "login": "abhi-patil20",
@@ -3497,7 +3746,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 250,
-    "score": 999
+    "score": 999,
+    "globalRank": 4030
   },
   {
     "login": "SauravMukherjee44",
@@ -3511,7 +3761,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 251,
-    "score": 2110
+    "score": 2110,
+    "globalRank": 4059
   },
   {
     "login": "s-r-e-e-r-a-j",
@@ -3525,7 +3776,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 252,
-    "score": 3447
+    "score": 3447,
+    "globalRank": 4068
   },
   {
     "login": "ajeetraina",
@@ -3539,7 +3791,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 253,
-    "score": 5876
+    "score": 5876,
+    "globalRank": 4089
   },
   {
     "login": "ChawlaAvi",
@@ -3553,7 +3806,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 254,
-    "score": 1078
+    "score": 1078,
+    "globalRank": 4119
   },
   {
     "login": "nikhilkumarsingh",
@@ -3567,7 +3821,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 255,
-    "score": 953
+    "score": 953,
+    "globalRank": 4200
   },
   {
     "login": "LSUDOKO",
@@ -3581,7 +3836,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 256,
-    "score": 2082
+    "score": 2082,
+    "globalRank": 4211
   },
   {
     "login": "anomaly2104",
@@ -3595,7 +3851,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 257,
-    "score": 963
+    "score": 963,
+    "globalRank": 4230
   },
   {
     "login": "akshitagupta15june",
@@ -3609,7 +3866,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 258,
-    "score": 962
+    "score": 962,
+    "globalRank": 4240
   },
   {
     "login": "thepranaygupta",
@@ -3623,7 +3881,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 259,
-    "score": 2091
+    "score": 2091,
+    "globalRank": 4249
   },
   {
     "login": "ihsavru",
@@ -3637,7 +3896,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 260,
-    "score": 1010
+    "score": 1010,
+    "globalRank": 4283
   },
   {
     "login": "monukumar98",
@@ -3651,7 +3911,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 261,
-    "score": 1371
+    "score": 1371,
+    "globalRank": 4284
   },
   {
     "login": "itsApurba",
@@ -3665,7 +3926,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 262,
-    "score": 1088
+    "score": 1088,
+    "globalRank": 4289
   },
   {
     "login": "mukeshphulwani66",
@@ -3679,7 +3941,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 263,
-    "score": 959
+    "score": 959,
+    "globalRank": 4297
   },
   {
     "login": "anandology",
@@ -3693,7 +3956,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 264,
-    "score": 1225
+    "score": 1225,
+    "globalRank": 4319
   },
   {
     "login": "rhnvrm",
@@ -3707,7 +3971,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 265,
-    "score": 2759
+    "score": 2759,
+    "globalRank": 4320
   },
   {
     "login": "xprilion",
@@ -3721,7 +3986,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 266,
-    "score": 2273
+    "score": 2273,
+    "globalRank": 4327
   },
   {
     "login": "Manvityagi",
@@ -3735,7 +4001,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 267,
-    "score": 928
+    "score": 928,
+    "globalRank": 4339
   },
   {
     "login": "dynamitechetan",
@@ -3749,7 +4016,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 268,
-    "score": 1057
+    "score": 1057,
+    "globalRank": 4391
   },
   {
     "login": "kiranShamsHere",
@@ -3763,7 +4031,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 269,
-    "score": 1066
+    "score": 1066,
+    "globalRank": 4400
   },
   {
     "login": "Naman-Bhalla",
@@ -3777,7 +4046,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 270,
-    "score": 1207
+    "score": 1207,
+    "globalRank": 4404
   },
   {
     "login": "thejeshgn",
@@ -3791,7 +4061,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 271,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 4414
   },
   {
     "login": "IAmNithi",
@@ -3805,7 +4076,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 272,
-    "score": 916
+    "score": 916,
+    "globalRank": 4426
   },
   {
     "login": "AzeemIdrisi",
@@ -3819,7 +4091,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 273,
-    "score": 3562
+    "score": 3562,
+    "globalRank": 4430
   },
   {
     "login": "csjaba",
@@ -3833,7 +4106,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 274,
-    "score": 913
+    "score": 913,
+    "globalRank": 4431
   },
   {
     "login": "nehitha15107",
@@ -3847,7 +4121,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 275,
-    "score": 912
+    "score": 912,
+    "globalRank": 4439
   },
   {
     "login": "rishikksh20",
@@ -3861,7 +4136,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 276,
-    "score": 2007
+    "score": 2007,
+    "globalRank": 4450
   },
   {
     "login": "sujeetcoder",
@@ -3875,7 +4151,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 277,
-    "score": 1057
+    "score": 1057,
+    "globalRank": 4471
   },
   {
     "login": "indrajithc",
@@ -3889,7 +4166,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 278,
-    "score": 2870
+    "score": 2870,
+    "globalRank": 4497
   },
   {
     "login": "javabyraghu",
@@ -3903,7 +4181,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 279,
-    "score": 894
+    "score": 894,
+    "globalRank": 4539
   },
   {
     "login": "LalithaRamanaV",
@@ -3917,7 +4196,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 280,
-    "score": 1191
+    "score": 1191,
+    "globalRank": 4545
   },
   {
     "login": "PrathamKumar14",
@@ -3931,7 +4211,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 281,
-    "score": 898
+    "score": 898,
+    "globalRank": 4618
   },
   {
     "login": "ArchishmanSengupta",
@@ -3945,7 +4226,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 282,
-    "score": 3090
+    "score": 3090,
+    "globalRank": 4624
   },
   {
     "login": "Pankajtanwarbanna",
@@ -3959,7 +4241,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 283,
-    "score": 1938
+    "score": 1938,
+    "globalRank": 4634
   },
   {
     "login": "iamrajee",
@@ -3973,7 +4256,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 284,
-    "score": 946
+    "score": 946,
+    "globalRank": 4650
   },
   {
     "login": "sandipanrakshit34",
@@ -3987,7 +4271,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 285,
-    "score": 1062
+    "score": 1062,
+    "globalRank": 4662
   },
   {
     "login": "dmalvia",
@@ -4001,7 +4286,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 286,
-    "score": 899
+    "score": 899,
+    "globalRank": 4670
   },
   {
     "login": "jaganjavid",
@@ -4015,7 +4301,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 287,
-    "score": 952
+    "score": 952,
+    "globalRank": 4694
   },
   {
     "login": "kailashahirwar",
@@ -4029,7 +4316,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 288,
-    "score": 1147
+    "score": 1147,
+    "globalRank": 4697
   },
   {
     "login": "chetannada",
@@ -4043,7 +4331,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 289,
-    "score": 1463
+    "score": 1463,
+    "globalRank": 4698
   },
   {
     "login": "boxabhi",
@@ -4057,7 +4346,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 290,
-    "score": 1824
+    "score": 1824,
+    "globalRank": 4709
   },
   {
     "login": "mvaibhav131",
@@ -4071,7 +4361,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 291,
-    "score": 1214
+    "score": 1214,
+    "globalRank": 4710
   },
   {
     "login": "mfaisalkhatri",
@@ -4085,7 +4376,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 292,
-    "score": 1891
+    "score": 1891,
+    "globalRank": 4716
   },
   {
     "login": "ishandutta0098",
@@ -4099,7 +4391,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 293,
-    "score": 3010
+    "score": 3010,
+    "globalRank": 4727
   },
   {
     "login": "Arindam200",
@@ -4113,7 +4406,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 294,
-    "score": 1609
+    "score": 1609,
+    "globalRank": 4732
   },
   {
     "login": "dbc2201",
@@ -4127,7 +4421,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 295,
-    "score": 1998
+    "score": 1998,
+    "globalRank": 4743
   },
   {
     "login": "jassics",
@@ -4141,7 +4436,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 296,
-    "score": 928
+    "score": 928,
+    "globalRank": 4753
   },
   {
     "login": "hegdepavankumar",
@@ -4155,7 +4451,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 297,
-    "score": 865
+    "score": 865,
+    "globalRank": 4759
   },
   {
     "login": "aryan-0077",
@@ -4169,7 +4466,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 298,
-    "score": 864
+    "score": 864,
+    "globalRank": 4760
   },
   {
     "login": "akmadan",
@@ -4183,7 +4481,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 299,
-    "score": 1992
+    "score": 1992,
+    "globalRank": 4761
   },
   {
     "login": "techinfo-youtube",
@@ -4197,7 +4496,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 300,
-    "score": 880
+    "score": 880,
+    "globalRank": 4769
   },
   {
     "login": "aswintechguy",
@@ -4211,7 +4511,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 301,
-    "score": 1019
+    "score": 1019,
+    "globalRank": 4784
   },
   {
     "login": "gokulkrishh",
@@ -4225,7 +4526,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 302,
-    "score": 1484
+    "score": 1484,
+    "globalRank": 4785
   },
   {
     "login": "mahedialikhorjiya",
@@ -4239,7 +4541,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 303,
-    "score": 857
+    "score": 857,
+    "globalRank": 4798
   },
   {
     "login": "sudip-mondal-2002",
@@ -4253,7 +4556,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 304,
-    "score": 2911
+    "score": 2911,
+    "globalRank": 4820
   },
   {
     "login": "kishanrajput23",
@@ -4267,7 +4571,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 305,
-    "score": 996
+    "score": 996,
+    "globalRank": 4834
   },
   {
     "login": "manrajgrover",
@@ -4281,7 +4586,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 306,
-    "score": 844
+    "score": 844,
+    "globalRank": 4867
   },
   {
     "login": "amuthansakthivel",
@@ -4295,7 +4601,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 307,
-    "score": 843
+    "score": 843,
+    "globalRank": 4891
   },
   {
     "login": "aagarwal1012",
@@ -4309,7 +4616,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 308,
-    "score": 4038
+    "score": 4038,
+    "globalRank": 4940
   },
   {
     "login": "soham-kyo",
@@ -4323,7 +4631,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 309,
-    "score": 972
+    "score": 972,
+    "globalRank": 4941
   },
   {
     "login": "AnupKumarPanwar",
@@ -4337,7 +4646,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 310,
-    "score": 2147
+    "score": 2147,
+    "globalRank": 4956
   },
   {
     "login": "aayusharora",
@@ -4351,7 +4661,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 311,
-    "score": 881
+    "score": 881,
+    "globalRank": 4963
   },
   {
     "login": "harsh-bothra",
@@ -4365,7 +4676,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 312,
-    "score": 841
+    "score": 841,
+    "globalRank": 4977
   },
   {
     "login": "jasonjpulikkottil",
@@ -4379,7 +4691,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 313,
-    "score": 845
+    "score": 845,
+    "globalRank": 5004
   },
   {
     "login": "Dinesh-Sowndar",
@@ -4393,7 +4706,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 314,
-    "score": 944
+    "score": 944,
+    "globalRank": 5013
   },
   {
     "login": "teja156",
@@ -4407,7 +4721,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 315,
-    "score": 1086
+    "score": 1086,
+    "globalRank": 5041
   },
   {
     "login": "Prince-1501",
@@ -4421,7 +4736,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 316,
-    "score": 1021
+    "score": 1021,
+    "globalRank": 5064
   },
   {
     "login": "bhautikpatel21",
@@ -4435,7 +4751,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 317,
-    "score": 821
+    "score": 821,
+    "globalRank": 5065
   },
   {
     "login": "MathewSachin",
@@ -4449,7 +4766,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 318,
-    "score": 1744
+    "score": 1744,
+    "globalRank": 5077
   },
   {
     "login": "ArshVermaGit",
@@ -4463,7 +4781,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 319,
-    "score": 8473
+    "score": 8473,
+    "globalRank": 5091
   },
   {
     "login": "archygupta",
@@ -4477,7 +4796,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 320,
-    "score": 814
+    "score": 814,
+    "globalRank": 5106
   },
   {
     "login": "Xtremilicious",
@@ -4491,7 +4811,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 321,
-    "score": 1271
+    "score": 1271,
+    "globalRank": 5137
   },
   {
     "login": "subins2000",
@@ -4505,7 +4826,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 322,
-    "score": 1444
+    "score": 1444,
+    "globalRank": 5148
   },
   {
     "login": "anshull-rajput",
@@ -4519,7 +4841,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 323,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 5168
   },
   {
     "login": "saikiranpi",
@@ -4533,7 +4856,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 324,
-    "score": 821
+    "score": 821,
+    "globalRank": 5176
   },
   {
     "login": "Rohit19060",
@@ -4547,7 +4871,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 325,
-    "score": 1654
+    "score": 1654,
+    "globalRank": 5215
   },
   {
     "login": "anushka23g",
@@ -4561,7 +4886,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 326,
-    "score": 797
+    "score": 797,
+    "globalRank": 5228
   },
   {
     "login": "vaishnavucv",
@@ -4575,7 +4901,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 327,
-    "score": 1437
+    "score": 1437,
+    "globalRank": 5229
   },
   {
     "login": "pranjay-poddar",
@@ -4589,7 +4916,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 328,
-    "score": 873
+    "score": 873,
+    "globalRank": 5237
   },
   {
     "login": "akhilnarang",
@@ -4603,7 +4931,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 329,
-    "score": 2766
+    "score": 2766,
+    "globalRank": 5238
   },
   {
     "login": "Samarth0606",
@@ -4617,7 +4946,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 330,
-    "score": 1207
+    "score": 1207,
+    "globalRank": 5252
   },
   {
     "login": "arvindr21",
@@ -4631,7 +4961,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 331,
-    "score": 826
+    "score": 826,
+    "globalRank": 5260
   },
   {
     "login": "black-shadows",
@@ -4645,7 +4976,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 332,
-    "score": 787
+    "score": 787,
+    "globalRank": 5291
   },
   {
     "login": "soaebhasan12",
@@ -4659,7 +4991,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 333,
-    "score": 1514
+    "score": 1514,
+    "globalRank": 5301
   },
   {
     "login": "AkshayAnand2002",
@@ -4673,7 +5006,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 334,
-    "score": 807
+    "score": 807,
+    "globalRank": 5328
   },
   {
     "login": "bawejagb",
@@ -4687,7 +5021,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 335,
-    "score": 778
+    "score": 778,
+    "globalRank": 5373
   },
   {
     "login": "ingenieursaurav",
@@ -4701,7 +5036,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 336,
-    "score": 778
+    "score": 778,
+    "globalRank": 5374
   },
   {
     "login": "PushpenderIndia",
@@ -4715,7 +5051,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 337,
-    "score": 2561
+    "score": 2561,
+    "globalRank": 5383
   },
   {
     "login": "Amarjit-ph",
@@ -4729,7 +5066,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 338,
-    "score": 987
+    "score": 987,
+    "globalRank": 5384
   },
   {
     "login": "prathimacode-hub",
@@ -4743,7 +5081,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 339,
-    "score": 1395
+    "score": 1395,
+    "globalRank": 5394
   },
   {
     "login": "dhruvmanila",
@@ -4757,7 +5096,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 340,
-    "score": 1795
+    "score": 1795,
+    "globalRank": 5415
   },
   {
     "login": "sushantkr961",
@@ -4771,7 +5111,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 341,
-    "score": 3214
+    "score": 3214,
+    "globalRank": 5424
   },
   {
     "login": "arindam-codes",
@@ -4785,7 +5126,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 342,
-    "score": 1722
+    "score": 1722,
+    "globalRank": 5433
   },
   {
     "login": "SajeedAI",
@@ -4799,7 +5141,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 343,
-    "score": 829
+    "score": 829,
+    "globalRank": 5455
   },
   {
     "login": "yua-9",
@@ -4813,7 +5156,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 344,
-    "score": 766
+    "score": 766,
+    "globalRank": 5468
   },
   {
     "login": "SatishDhawale",
@@ -4827,7 +5171,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 345,
-    "score": 774
+    "score": 774,
+    "globalRank": 5526
   },
   {
     "login": "alisolanki",
@@ -4841,7 +5186,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 346,
-    "score": 864
+    "score": 864,
+    "globalRank": 5580
   },
   {
     "login": "PareshMayani",
@@ -4855,7 +5201,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 347,
-    "score": 776
+    "score": 776,
+    "globalRank": 5584
   },
   {
     "login": "daminisatya",
@@ -4869,7 +5216,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 348,
-    "score": 752
+    "score": 752,
+    "globalRank": 5591
   },
   {
     "login": "blenderskool",
@@ -4883,7 +5231,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 349,
-    "score": 2138
+    "score": 2138,
+    "globalRank": 5599
   },
   {
     "login": "sumeet-srknec",
@@ -4897,7 +5246,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 350,
-    "score": 774
+    "score": 774,
+    "globalRank": 5612
   },
   {
     "login": "manojVivek",
@@ -4911,7 +5261,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 351,
-    "score": 2052
+    "score": 2052,
+    "globalRank": 5613
   },
   {
     "login": "Aniket762",
@@ -4925,7 +5276,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 352,
-    "score": 960
+    "score": 960,
+    "globalRank": 5619
   },
   {
     "login": "abuhuraira-73",
@@ -4939,7 +5291,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 353,
-    "score": 1117
+    "score": 1117,
+    "globalRank": 5646
   },
   {
     "login": "saikrishna321",
@@ -4953,7 +5306,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 354,
-    "score": 2451
+    "score": 2451,
+    "globalRank": 5670
   },
   {
     "login": "Code-N-Code",
@@ -4967,7 +5321,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 355,
-    "score": 853
+    "score": 853,
+    "globalRank": 5671
   },
   {
     "login": "SkAliya",
@@ -4981,7 +5336,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 356,
-    "score": 763
+    "score": 763,
+    "globalRank": 5680
   },
   {
     "login": "marketcalls",
@@ -4995,7 +5351,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 357,
-    "score": 6872
+    "score": 6872,
+    "globalRank": 5681
   },
   {
     "login": "debasishg",
@@ -5009,7 +5366,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 358,
-    "score": 1419
+    "score": 1419,
+    "globalRank": 5694
   },
   {
     "login": "maxsam4",
@@ -5023,7 +5381,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 359,
-    "score": 1813
+    "score": 1813,
+    "globalRank": 5695
   },
   {
     "login": "Mahas1234",
@@ -5037,7 +5396,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 360,
-    "score": 822
+    "score": 822,
+    "globalRank": 5709
   },
   {
     "login": "rajatt95",
@@ -5051,7 +5411,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 361,
-    "score": 746
+    "score": 746,
+    "globalRank": 5719
   },
   {
     "login": "adityaoberai",
@@ -5065,7 +5426,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 362,
-    "score": 2776
+    "score": 2776,
+    "globalRank": 5720
   },
   {
     "login": "KeenWarrior",
@@ -5079,7 +5441,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 363,
-    "score": 734
+    "score": 734,
+    "globalRank": 5735
   },
   {
     "login": "Chando0185",
@@ -5093,7 +5456,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 364,
-    "score": 797
+    "score": 797,
+    "globalRank": 5736
   },
   {
     "login": "mdashrafali-cs",
@@ -5107,7 +5471,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 365,
-    "score": 729
+    "score": 729,
+    "globalRank": 5757
   },
   {
     "login": "unnati914",
@@ -5121,7 +5486,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 366,
-    "score": 790
+    "score": 790,
+    "globalRank": 5758
   },
   {
     "login": "ajinasokan",
@@ -5135,7 +5501,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 367,
-    "score": 891
+    "score": 891,
+    "globalRank": 5768
   },
   {
     "login": "msfjarvis",
@@ -5149,7 +5516,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 368,
-    "score": 2671
+    "score": 2671,
+    "globalRank": 5787
   },
   {
     "login": "Vanshikagarg17",
@@ -5163,7 +5531,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 369,
-    "score": 724
+    "score": 724,
+    "globalRank": 5800
   },
   {
     "login": "thepushkarp",
@@ -5177,7 +5546,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 370,
-    "score": 2029
+    "score": 2029,
+    "globalRank": 5801
   },
   {
     "login": "suhelhasan",
@@ -5191,7 +5561,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 371,
-    "score": 784
+    "score": 784,
+    "globalRank": 5812
   },
   {
     "login": "YashGajjar7017",
@@ -5205,7 +5576,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 372,
-    "score": 1137
+    "score": 1137,
+    "globalRank": 5813
   },
   {
     "login": "pranavhunagund1993",
@@ -5219,7 +5591,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 373,
-    "score": 723
+    "score": 723,
+    "globalRank": 5814
   },
   {
     "login": "zoxilsi",
@@ -5233,7 +5606,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 374,
-    "score": 1771
+    "score": 1771,
+    "globalRank": 5853
   },
   {
     "login": "hindupuravinash",
@@ -5247,7 +5621,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 375,
-    "score": 2726
+    "score": 2726,
+    "globalRank": 5854
   },
   {
     "login": "s-yadav",
@@ -5261,7 +5636,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 376,
-    "score": 2345
+    "score": 2345,
+    "globalRank": 5870
   },
   {
     "login": "kuldeeprajput-dev",
@@ -5275,7 +5651,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 377,
-    "score": 1276
+    "score": 1276,
+    "globalRank": 5877
   },
   {
     "login": "itaditya",
@@ -5289,7 +5666,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 378,
-    "score": 713
+    "score": 713,
+    "globalRank": 5893
   },
   {
     "login": "Vishal-raj-1",
@@ -5303,7 +5681,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 379,
-    "score": 724
+    "score": 724,
+    "globalRank": 5894
   },
   {
     "login": "CSharpDesignPro",
@@ -5317,7 +5696,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 380,
-    "score": 711
+    "score": 711,
+    "globalRank": 5913
   },
   {
     "login": "Mayankgg01",
@@ -5331,7 +5711,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 381,
-    "score": 854
+    "score": 854,
+    "globalRank": 5914
   },
   {
     "login": "Dheerajmadhukar",
@@ -5345,7 +5726,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 382,
-    "score": 834
+    "score": 834,
+    "globalRank": 5924
   },
   {
     "login": "shijuvar",
@@ -5359,7 +5741,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 383,
-    "score": 724
+    "score": 724,
+    "globalRank": 5936
   },
   {
     "login": "discover-devops",
@@ -5373,7 +5756,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 384,
-    "score": 988
+    "score": 988,
+    "globalRank": 5940
   },
   {
     "login": "Vatshayan",
@@ -5387,7 +5771,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 385,
-    "score": 749
+    "score": 749,
+    "globalRank": 5941
   },
   {
     "login": "rishz",
@@ -5401,7 +5786,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 386,
-    "score": 705
+    "score": 705,
+    "globalRank": 5965
   },
   {
     "login": "Kuberwastaken",
@@ -5415,7 +5801,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 387,
-    "score": 4475
+    "score": 4475,
+    "globalRank": 5981
   },
   {
     "login": "sharmaroshan",
@@ -5429,7 +5816,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 388,
-    "score": 698
+    "score": 698,
+    "globalRank": 6028
   },
   {
     "login": "arnab132",
@@ -5443,7 +5831,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 389,
-    "score": 697
+    "score": 697,
+    "globalRank": 6040
   },
   {
     "login": "sanal-m-s",
@@ -5457,7 +5846,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 390,
-    "score": 758
+    "score": 758,
+    "globalRank": 6041
   },
   {
     "login": "thismlguy",
@@ -5471,7 +5861,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 391,
-    "score": 1663
+    "score": 1663,
+    "globalRank": 6060
   },
   {
     "login": "harjot-oberai",
@@ -5485,7 +5876,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 392,
-    "score": 856
+    "score": 856,
+    "globalRank": 6078
   },
   {
     "login": "shikharkumar13",
@@ -5499,7 +5891,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 393,
-    "score": 724
+    "score": 724,
+    "globalRank": 6117
   },
   {
     "login": "geohacker",
@@ -5513,7 +5906,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 394,
-    "score": 1185
+    "score": 1185,
+    "globalRank": 6118
   },
   {
     "login": "PragatiVerma18",
@@ -5527,7 +5921,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 395,
-    "score": 689
+    "score": 689,
+    "globalRank": 6119
   },
   {
     "login": "anandjha90",
@@ -5541,7 +5936,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 396,
-    "score": 859
+    "score": 859,
+    "globalRank": 6130
   },
   {
     "login": "ibhavikmakwana",
@@ -5555,7 +5951,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 397,
-    "score": 701
+    "score": 701,
+    "globalRank": 6131
   },
   {
     "login": "karthi-the-hacker",
@@ -5569,7 +5966,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 398,
-    "score": 999
+    "score": 999,
+    "globalRank": 6167
   },
   {
     "login": "SaiNithin832",
@@ -5583,7 +5981,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 399,
-    "score": 759
+    "score": 759,
+    "globalRank": 6168
   },
   {
     "login": "AshiteshSingh",
@@ -5597,7 +5996,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 400,
-    "score": 1456
+    "score": 1456,
+    "globalRank": 6192
   },
   {
     "login": "Swarnika07",
@@ -5611,7 +6011,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 401,
-    "score": 678
+    "score": 678,
+    "globalRank": 6219
   },
   {
     "login": "Divyanshu-ISM",
@@ -5625,7 +6026,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 402,
-    "score": 675
+    "score": 675,
+    "globalRank": 6249
   },
   {
     "login": "whyankush07",
@@ -5639,7 +6041,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 403,
-    "score": 1430
+    "score": 1430,
+    "globalRank": 6274
   },
   {
     "login": "anujvyas",
@@ -5653,7 +6056,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 404,
-    "score": 670
+    "score": 670,
+    "globalRank": 6292
   },
   {
     "login": "sreedeepta",
@@ -5667,7 +6071,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 405,
-    "score": 692
+    "score": 692,
+    "globalRank": 6302
   },
   {
     "login": "AnkitSharma-007",
@@ -5681,7 +6086,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 406,
-    "score": 705
+    "score": 705,
+    "globalRank": 6303
   },
   {
     "login": "RaviTambade",
@@ -5695,7 +6101,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 407,
-    "score": 2188
+    "score": 2188,
+    "globalRank": 6315
   },
   {
     "login": "codingmarket07",
@@ -5709,7 +6116,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 408,
-    "score": 666
+    "score": 666,
+    "globalRank": 6335
   },
   {
     "login": "a3X3k",
@@ -5723,7 +6131,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 409,
-    "score": 831
+    "score": 831,
+    "globalRank": 6359
   },
   {
     "login": "CybroOdoo",
@@ -5737,7 +6146,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 410,
-    "score": 962
+    "score": 962,
+    "globalRank": 6360
   },
   {
     "login": "tagda-coder",
@@ -5751,7 +6161,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 411,
-    "score": 739
+    "score": 739,
+    "globalRank": 6361
   },
   {
     "login": "bhav09",
@@ -5765,7 +6176,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 412,
-    "score": 846
+    "score": 846,
+    "globalRank": 6369
   },
   {
     "login": "sd031",
@@ -5779,7 +6191,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 413,
-    "score": 1338
+    "score": 1338,
+    "globalRank": 6381
   },
   {
     "login": "sanidhyy",
@@ -5793,7 +6206,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 414,
-    "score": 6283
+    "score": 6283,
+    "globalRank": 6382
   },
   {
     "login": "subhra74",
@@ -5807,7 +6221,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 415,
-    "score": 657
+    "score": 657,
+    "globalRank": 6431
   },
   {
     "login": "omprashantjain",
@@ -5821,7 +6236,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 416,
-    "score": 12379
+    "score": 12379,
+    "globalRank": 6449
   },
   {
     "login": "ortoniKC",
@@ -5835,7 +6251,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 417,
-    "score": 1049
+    "score": 1049,
+    "globalRank": 6473
   },
   {
     "login": "dufferzafar",
@@ -5849,7 +6266,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 418,
-    "score": 818
+    "score": 818,
+    "globalRank": 6474
   },
   {
     "login": "omsandippatil",
@@ -5863,7 +6281,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 419,
-    "score": 1022
+    "score": 1022,
+    "globalRank": 6488
   },
   {
     "login": "manikandanraji",
@@ -5877,7 +6296,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 420,
-    "score": 648
+    "score": 648,
+    "globalRank": 6519
   },
   {
     "login": "sk66641",
@@ -5891,7 +6311,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 421,
-    "score": 1052
+    "score": 1052,
+    "globalRank": 6520
   },
   {
     "login": "ni5arga",
@@ -5905,7 +6326,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 422,
-    "score": 3376
+    "score": 3376,
+    "globalRank": 6543
   },
   {
     "login": "goru001",
@@ -5919,7 +6341,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 423,
-    "score": 650
+    "score": 650,
+    "globalRank": 6552
   },
   {
     "login": "ItsFlash10",
@@ -5933,7 +6356,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 424,
-    "score": 1882
+    "score": 1882,
+    "globalRank": 6553
   },
   {
     "login": "Mohitkamboz",
@@ -5947,7 +6371,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 425,
-    "score": 811
+    "score": 811,
+    "globalRank": 6554
   },
   {
     "login": "Bowrna",
@@ -5961,7 +6386,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 426,
-    "score": 1285
+    "score": 1285,
+    "globalRank": 6563
   },
   {
     "login": "Abishek0612",
@@ -5975,7 +6401,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 427,
-    "score": 876
+    "score": 876,
+    "globalRank": 6572
   },
   {
     "login": "Vikranth3140",
@@ -5989,7 +6416,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 428,
-    "score": 1741
+    "score": 1741,
+    "globalRank": 6573
   },
   {
     "login": "ParthJadhav",
@@ -6003,7 +6431,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 429,
-    "score": 1542
+    "score": 1542,
+    "globalRank": 6611
   },
   {
     "login": "vinayakkulkarni",
@@ -6017,7 +6446,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 430,
-    "score": 10586
+    "score": 10586,
+    "globalRank": 6632
   },
   {
     "login": "theharshalchaudhari",
@@ -6031,7 +6461,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 431,
-    "score": 828
+    "score": 828,
+    "globalRank": 6649
   },
   {
     "login": "prateekbh",
@@ -6045,7 +6476,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 432,
-    "score": 713
+    "score": 713,
+    "globalRank": 6672
   },
   {
     "login": "PiyushKumarSingh-90",
@@ -6059,7 +6491,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 433,
-    "score": 3113
+    "score": 3113,
+    "globalRank": 6673
   },
   {
     "login": "SrinivasanTarget",
@@ -6073,7 +6506,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 434,
-    "score": 2111
+    "score": 2111,
+    "globalRank": 6691
   },
   {
     "login": "avs-abhishek123",
@@ -6087,7 +6521,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 435,
-    "score": 9018
+    "score": 9018,
+    "globalRank": 6692
   },
   {
     "login": "anburocky3",
@@ -6101,7 +6536,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 436,
-    "score": 1321
+    "score": 1321,
+    "globalRank": 6693
   },
   {
     "login": "nikoo28",
@@ -6115,7 +6551,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 437,
-    "score": 679
+    "score": 679,
+    "globalRank": 6718
   },
   {
     "login": "djadmin",
@@ -6129,7 +6566,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 438,
-    "score": 940
+    "score": 940,
+    "globalRank": 6758
   },
   {
     "login": "cyberboysumanjay",
@@ -6143,7 +6581,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 439,
-    "score": 640
+    "score": 640,
+    "globalRank": 6759
   },
   {
     "login": "Jiganesh",
@@ -6157,7 +6596,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 440,
-    "score": 723
+    "score": 723,
+    "globalRank": 6784
   },
   {
     "login": "Delta456",
@@ -6171,7 +6611,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 441,
-    "score": 1125
+    "score": 1125,
+    "globalRank": 6795
   },
   {
     "login": "bajrangCoder",
@@ -6185,7 +6626,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 442,
-    "score": 1788
+    "score": 1788,
+    "globalRank": 6806
   },
   {
     "login": "vishalpande",
@@ -6199,7 +6641,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 443,
-    "score": 647
+    "score": 647,
+    "globalRank": 6817
   },
   {
     "login": "ragdroid",
@@ -6213,7 +6656,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 444,
-    "score": 633
+    "score": 633,
+    "globalRank": 6818
   },
   {
     "login": "smilegupta",
@@ -6227,7 +6671,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 445,
-    "score": 756
+    "score": 756,
+    "globalRank": 6853
   },
   {
     "login": "Shra1V32",
@@ -6241,7 +6686,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 446,
-    "score": 2229
+    "score": 2229,
+    "globalRank": 6879
   },
   {
     "login": "mondalsurojit",
@@ -6255,7 +6701,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 447,
-    "score": 885
+    "score": 885,
+    "globalRank": 6880
   },
   {
     "login": "Ayush7614",
@@ -6269,7 +6716,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 448,
-    "score": 902
+    "score": 902,
+    "globalRank": 6895
   },
   {
     "login": "ashish0kumar",
@@ -6283,7 +6731,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 449,
-    "score": 1496
+    "score": 1496,
+    "globalRank": 6917
   },
   {
     "login": "nrupuld",
@@ -6297,7 +6746,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 450,
-    "score": 620
+    "score": 620,
+    "globalRank": 6918
   },
   {
     "login": "AbhishekDoshi26",
@@ -6311,7 +6761,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 451,
-    "score": 2267
+    "score": 2267,
+    "globalRank": 6945
   },
   {
     "login": "pankajmutha14",
@@ -6325,7 +6776,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 452,
-    "score": 733
+    "score": 733,
+    "globalRank": 6946
   },
   {
     "login": "Suhaib3100",
@@ -6339,7 +6791,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 453,
-    "score": 3168
+    "score": 3168,
+    "globalRank": 6947
   },
   {
     "login": "NagariaHussain",
@@ -6353,7 +6806,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 454,
-    "score": 3814
+    "score": 3814,
+    "globalRank": 6963
   },
   {
     "login": "adithya2306",
@@ -6367,7 +6821,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 455,
-    "score": 844
+    "score": 844,
+    "globalRank": 6976
   },
   {
     "login": "shashankrustagi",
@@ -6381,7 +6836,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 456,
-    "score": 1625
+    "score": 1625,
+    "globalRank": 6977
   },
   {
     "login": "daulathussain",
@@ -6395,7 +6851,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 457,
-    "score": 880
+    "score": 880,
+    "globalRank": 7000
   },
   {
     "login": "cybergeekgyan",
@@ -6409,7 +6866,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 458,
-    "score": 889
+    "score": 889,
+    "globalRank": 7001
   },
   {
     "login": "tymsai",
@@ -6423,7 +6881,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 459,
-    "score": 614
+    "score": 614,
+    "globalRank": 7019
   },
   {
     "login": "Jasbir96",
@@ -6437,7 +6896,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 460,
-    "score": 613
+    "score": 613,
+    "globalRank": 7031
   },
   {
     "login": "Priyasha-Yadav",
@@ -6451,7 +6911,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 461,
-    "score": 2081
+    "score": 2081,
+    "globalRank": 7051
   },
   {
     "login": "yashovardhan",
@@ -6465,7 +6926,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 462,
-    "score": 1209
+    "score": 1209,
+    "globalRank": 7052
   },
   {
     "login": "sajeetharan",
@@ -6479,7 +6941,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 463,
-    "score": 1466
+    "score": 1466,
+    "globalRank": 7064
   },
   {
     "login": "abhigyanpatwari",
@@ -6493,7 +6956,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 464,
-    "score": 2525
+    "score": 2525,
+    "globalRank": 7065
   },
   {
     "login": "UtkarshPathrabe",
@@ -6507,7 +6971,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 465,
-    "score": 1338
+    "score": 1338,
+    "globalRank": 7088
   },
   {
     "login": "ragunathjawahar",
@@ -6521,7 +6986,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 466,
-    "score": 7847
+    "score": 7847,
+    "globalRank": 7098
   },
   {
     "login": "ShivamJoker",
@@ -6535,7 +7001,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 467,
-    "score": 817
+    "score": 817,
+    "globalRank": 7116
   },
   {
     "login": "WebDevVikramChoudhary",
@@ -6549,7 +7016,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 468,
-    "score": 595
+    "score": 595,
+    "globalRank": 7127
   },
   {
     "login": "shreekanthashokg-lang",
@@ -6563,7 +7031,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 469,
-    "score": 651
+    "score": 651,
+    "globalRank": 7156
   },
   {
     "login": "xditya",
@@ -6577,7 +7046,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 470,
-    "score": 751
+    "score": 751,
+    "globalRank": 7166
   },
   {
     "login": "prathyyyyy",
@@ -6591,7 +7061,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 471,
-    "score": 629
+    "score": 629,
+    "globalRank": 7180
   },
   {
     "login": "aashutoshrathi",
@@ -6605,7 +7076,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 472,
-    "score": 11152
+    "score": 11152,
+    "globalRank": 7181
   },
   {
     "login": "rbhatia46",
@@ -6619,7 +7091,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 473,
-    "score": 590
+    "score": 590,
+    "globalRank": 7188
   },
   {
     "login": "amitkaps",
@@ -6633,7 +7106,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 474,
-    "score": 1106
+    "score": 1106,
+    "globalRank": 7189
   },
   {
     "login": "HimanshuSingour",
@@ -6647,7 +7121,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 475,
-    "score": 597
+    "score": 597,
+    "globalRank": 7211
   },
   {
     "login": "anuragtiwarime",
@@ -6661,7 +7136,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 476,
-    "score": 618
+    "score": 618,
+    "globalRank": 7212
   },
   {
     "login": "TestLeafPages",
@@ -6675,7 +7151,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 477,
-    "score": 586
+    "score": 586,
+    "globalRank": 7224
   },
   {
     "login": "jalajthanaki",
@@ -6689,7 +7166,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 478,
-    "score": 603
+    "score": 603,
+    "globalRank": 7232
   },
   {
     "login": "shyvum",
@@ -6703,7 +7181,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 479,
-    "score": 607
+    "score": 607,
+    "globalRank": 7285
   },
   {
     "login": "Ashishgup1",
@@ -6717,7 +7196,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 480,
-    "score": 581
+    "score": 581,
+    "globalRank": 7286
   },
   {
     "login": "aparna2071",
@@ -6731,7 +7211,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 481,
-    "score": 659
+    "score": 659,
+    "globalRank": 7305
   },
   {
     "login": "webkul",
@@ -6745,7 +7226,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 482,
-    "score": 640
+    "score": 640,
+    "globalRank": 7317
   },
   {
     "login": "1ndianl33t",
@@ -6759,7 +7241,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 483,
-    "score": 578
+    "score": 578,
+    "globalRank": 7325
   },
   {
     "login": "Priyanka488",
@@ -6773,7 +7256,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 484,
-    "score": 579
+    "score": 579,
+    "globalRank": 7336
   },
   {
     "login": "subinps",
@@ -6787,7 +7271,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 485,
-    "score": 678
+    "score": 678,
+    "globalRank": 7358
   },
   {
     "login": "afsalat",
@@ -6801,7 +7286,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 486,
-    "score": 695
+    "score": 695,
+    "globalRank": 7367
   },
   {
     "login": "janakiramm",
@@ -6815,7 +7301,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 487,
-    "score": 622
+    "score": 622,
+    "globalRank": 7368
   },
   {
     "login": "chandrakant22",
@@ -6829,7 +7316,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 488,
-    "score": 581
+    "score": 581,
+    "globalRank": 7384
   },
   {
     "login": "thealphadollar",
@@ -6843,7 +7331,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 489,
-    "score": 2277
+    "score": 2277,
+    "globalRank": 7385
   },
   {
     "login": "arihantbansal",
@@ -6857,7 +7346,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 490,
-    "score": 2867
+    "score": 2867,
+    "globalRank": 7405
   },
   {
     "login": "AgarwalPragy",
@@ -6871,7 +7361,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 491,
-    "score": 1129
+    "score": 1129,
+    "globalRank": 7418
   },
   {
     "login": "vaibhawvipul",
@@ -6885,7 +7376,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 492,
-    "score": 3138
+    "score": 3138,
+    "globalRank": 7419
   },
   {
     "login": "surfsidemedia",
@@ -6899,7 +7391,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 493,
-    "score": 578
+    "score": 578,
+    "globalRank": 7433
   },
   {
     "login": "ForceGT",
@@ -6913,7 +7406,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 494,
-    "score": 666
+    "score": 666,
+    "globalRank": 7442
   },
   {
     "login": "connectit2anand",
@@ -6927,7 +7421,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 495,
-    "score": 571
+    "score": 571,
+    "globalRank": 7443
   },
   {
     "login": "TheCaduceus",
@@ -6941,7 +7436,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 496,
-    "score": 786
+    "score": 786,
+    "globalRank": 7455
   },
   {
     "login": "ashwinexe",
@@ -6955,7 +7451,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 497,
-    "score": 731
+    "score": 731,
+    "globalRank": 7463
   },
   {
     "login": "nitishk72",
@@ -6969,7 +7466,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 498,
-    "score": 769
+    "score": 769,
+    "globalRank": 7474
   },
   {
     "login": "Susmita-Dey",
@@ -6983,7 +7481,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 499,
-    "score": 2822
+    "score": 2822,
+    "globalRank": 7475
   },
   {
     "login": "retroportalstudio",
@@ -6997,7 +7496,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 500,
-    "score": 568
+    "score": 568,
+    "globalRank": 7476
   },
   {
     "login": "amanjeetsingh150",
@@ -7011,7 +7511,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 501,
-    "score": 1819
+    "score": 1819,
+    "globalRank": 7486
   },
   {
     "login": "fayazara",
@@ -7025,7 +7526,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 502,
-    "score": 2332
+    "score": 2332,
+    "globalRank": 7487
   },
   {
     "login": "niks-nikhil-anand",
@@ -7039,7 +7541,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 503,
-    "score": 4331
+    "score": 4331,
+    "globalRank": 7488
   },
   {
     "login": "GOPIKRISHNAN-S-15",
@@ -7053,7 +7556,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 504,
-    "score": 661
+    "score": 661,
+    "globalRank": 7489
   },
   {
     "login": "AyushExel",
@@ -7067,7 +7571,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 505,
-    "score": 1505
+    "score": 1505,
+    "globalRank": 7502
   },
   {
     "login": "muneebwanee",
@@ -7081,7 +7586,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 506,
-    "score": 1598
+    "score": 1598,
+    "globalRank": 7503
   },
   {
     "login": "eKuG",
@@ -7095,7 +7601,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 507,
-    "score": 849
+    "score": 849,
+    "globalRank": 7512
   },
   {
     "login": "mittrayash",
@@ -7109,7 +7616,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 508,
-    "score": 575
+    "score": 575,
+    "globalRank": 7528
   },
   {
     "login": "skygitIG",
@@ -7123,7 +7631,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 509,
-    "score": 584
+    "score": 584,
+    "globalRank": 7538
   },
   {
     "login": "darecoder",
@@ -7137,7 +7646,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 510,
-    "score": 591
+    "score": 591,
+    "globalRank": 7544
   },
   {
     "login": "imbhargav5",
@@ -7151,7 +7661,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 511,
-    "score": 8448
+    "score": 8448,
+    "globalRank": 7545
   },
   {
     "login": "paramsiddharth",
@@ -7165,7 +7676,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 512,
-    "score": 10069
+    "score": 10069,
+    "globalRank": 7546
   },
   {
     "login": "abhisekp",
@@ -7179,7 +7691,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 513,
-    "score": 745
+    "score": 745,
+    "globalRank": 7576
   },
   {
     "login": "yogeshhk",
@@ -7193,7 +7706,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 514,
-    "score": 1656
+    "score": 1656,
+    "globalRank": 7603
   },
   {
     "login": "brc-dd",
@@ -7207,7 +7721,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 515,
-    "score": 1944
+    "score": 1944,
+    "globalRank": 7619
   },
   {
     "login": "dinudsi",
@@ -7221,7 +7736,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 516,
-    "score": 1496
+    "score": 1496,
+    "globalRank": 7620
   },
   {
     "login": "gevendra2004",
@@ -7235,7 +7751,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 517,
-    "score": 556
+    "score": 556,
+    "globalRank": 7634
   },
   {
     "login": "erilyth",
@@ -7249,7 +7766,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 518,
-    "score": 553
+    "score": 553,
+    "globalRank": 7635
   },
   {
     "login": "Rudrabha",
@@ -7263,7 +7781,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 519,
-    "score": 608
+    "score": 608,
+    "globalRank": 7651
   },
   {
     "login": "JyotinderSingh",
@@ -7277,7 +7796,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 520,
-    "score": 1051
+    "score": 1051,
+    "globalRank": 7657
   },
   {
     "login": "sriniously",
@@ -7291,7 +7811,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 521,
-    "score": 805
+    "score": 805,
+    "globalRank": 7658
   },
   {
     "login": "gauravghai",
@@ -7305,7 +7826,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 522,
-    "score": 553
+    "score": 553,
+    "globalRank": 7680
   },
   {
     "login": "SoumyaSagnik",
@@ -7319,7 +7841,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 523,
-    "score": 584
+    "score": 584,
+    "globalRank": 7696
   },
   {
     "login": "shivam-bhadani",
@@ -7333,7 +7856,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 524,
-    "score": 573
+    "score": 573,
+    "globalRank": 7713
   },
   {
     "login": "MeghnaS21",
@@ -7347,7 +7871,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 525,
-    "score": 687
+    "score": 687,
+    "globalRank": 7783
   },
   {
     "login": "saineshwar",
@@ -7361,7 +7886,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 526,
-    "score": 547
+    "score": 547,
+    "globalRank": 7804
   },
   {
     "login": "psrana",
@@ -7375,7 +7901,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 527,
-    "score": 1139
+    "score": 1139,
+    "globalRank": 7824
   },
   {
     "login": "tomas0502",
@@ -7389,7 +7916,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 528,
-    "score": 1005
+    "score": 1005,
+    "globalRank": 7825
   },
   {
     "login": "AMARTYA2020",
@@ -7403,7 +7931,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 529,
-    "score": 538
+    "score": 538,
+    "globalRank": 7829
   },
   {
     "login": "Apurva-tech",
@@ -7417,7 +7946,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 530,
-    "score": 536
+    "score": 536,
+    "globalRank": 7845
   },
   {
     "login": "nameisjayant",
@@ -7431,7 +7961,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 531,
-    "score": 541
+    "score": 541,
+    "globalRank": 7846
   },
   {
     "login": "imsks",
@@ -7445,7 +7976,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 532,
-    "score": 4559
+    "score": 4559,
+    "globalRank": 7869
   },
   {
     "login": "subhajit51193",
@@ -7459,7 +7991,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 533,
-    "score": 533
+    "score": 533,
+    "globalRank": 7884
   },
   {
     "login": "helloanoop",
@@ -7473,7 +8006,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 534,
-    "score": 1894
+    "score": 1894,
+    "globalRank": 7898
   },
   {
     "login": "PriyankaJhaTheDeveloper",
@@ -7487,7 +8021,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 535,
-    "score": 533
+    "score": 533,
+    "globalRank": 7899
   },
   {
     "login": "manthanguptaa",
@@ -7501,7 +8036,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 536,
-    "score": 1542
+    "score": 1542,
+    "globalRank": 7951
   },
   {
     "login": "spatialthoughts",
@@ -7515,7 +8051,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 537,
-    "score": 1451
+    "score": 1451,
+    "globalRank": 7975
   },
   {
     "login": "Tritonix711",
@@ -7529,7 +8066,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 538,
-    "score": 526
+    "score": 526,
+    "globalRank": 8001
   },
   {
     "login": "ankit0183",
@@ -7543,7 +8081,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 539,
-    "score": 567
+    "score": 567,
+    "globalRank": 8002
   },
   {
     "login": "Tikam02",
@@ -7557,7 +8096,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 540,
-    "score": 1008
+    "score": 1008,
+    "globalRank": 8003
   },
   {
     "login": "arijitparia2002",
@@ -7571,7 +8111,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 541,
-    "score": 955
+    "score": 955,
+    "globalRank": 8020
   },
   {
     "login": "NSG650",
@@ -7585,7 +8126,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 542,
-    "score": 759
+    "score": 759,
+    "globalRank": 8038
   },
   {
     "login": "soumik12345",
@@ -7599,7 +8141,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 543,
-    "score": 2380
+    "score": 2380,
+    "globalRank": 8039
   },
   {
     "login": "iamsatyamyadav",
@@ -7613,7 +8156,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 544,
-    "score": 518
+    "score": 518,
+    "globalRank": 8126
   },
   {
     "login": "Brahme27",
@@ -7627,7 +8171,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 545,
-    "score": 1600
+    "score": 1600,
+    "globalRank": 8127
   },
   {
     "login": "Nistha-tech",
@@ -7641,7 +8186,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 546,
-    "score": 515
+    "score": 515,
+    "globalRank": 8155
   },
   {
     "login": "AbdulVakeel",
@@ -7655,7 +8201,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 547,
-    "score": 674
+    "score": 674,
+    "globalRank": 8156
   },
   {
     "login": "kayceesrk",
@@ -7669,7 +8216,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 548,
-    "score": 1769
+    "score": 1769,
+    "globalRank": 8165
   },
   {
     "login": "aggarwalpulkit596",
@@ -7683,7 +8231,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 549,
-    "score": 786
+    "score": 786,
+    "globalRank": 8166
   },
   {
     "login": "m-sehrawat",
@@ -7697,7 +8246,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 550,
-    "score": 515
+    "score": 515,
+    "globalRank": 8167
   },
   {
     "login": "Dhaiwat10",
@@ -7711,7 +8261,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 551,
-    "score": 1023
+    "score": 1023,
+    "globalRank": 8183
   },
   {
     "login": "Thirumurugan240",
@@ -7725,7 +8276,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 552,
-    "score": 562
+    "score": 562,
+    "globalRank": 8202
   },
   {
     "login": "kishanjavatrainer",
@@ -7739,7 +8291,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 553,
-    "score": 512
+    "score": 512,
+    "globalRank": 8203
   },
   {
     "login": "MoncyDev",
@@ -7753,7 +8306,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 554,
-    "score": 721
+    "score": 721,
+    "globalRank": 8217
   },
   {
     "login": "mrinal1224",
@@ -7767,7 +8321,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 555,
-    "score": 1631
+    "score": 1631,
+    "globalRank": 8237
   },
   {
     "login": "hhhrrrttt222111",
@@ -7781,7 +8336,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 556,
-    "score": 581
+    "score": 581,
+    "globalRank": 8238
   },
   {
     "login": "trulymittal",
@@ -7795,7 +8351,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 557,
-    "score": 514
+    "score": 514,
+    "globalRank": 8259
   },
   {
     "login": "Mithzzx",
@@ -7809,7 +8366,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 558,
-    "score": 785
+    "score": 785,
+    "globalRank": 8260
   },
   {
     "login": "Surendrakumarpatel",
@@ -7823,7 +8381,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 559,
-    "score": 510
+    "score": 510,
+    "globalRank": 8261
   },
   {
     "login": "krishealty",
@@ -7837,7 +8396,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 560,
-    "score": 541
+    "score": 541,
+    "globalRank": 8277
   },
   {
     "login": "2KAbhishek",
@@ -7851,7 +8411,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 561,
-    "score": 3137
+    "score": 3137,
+    "globalRank": 8305
   },
   {
     "login": "megh-bari",
@@ -7865,7 +8426,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 562,
-    "score": 2454
+    "score": 2454,
+    "globalRank": 8306
   },
   {
     "login": "projectzeroindia",
@@ -7879,7 +8441,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 563,
-    "score": 505
+    "score": 505,
+    "globalRank": 8323
   },
   {
     "login": "kishan0725",
@@ -7893,7 +8456,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 564,
-    "score": 577
+    "score": 577,
+    "globalRank": 8324
   },
   {
     "login": "Swati-Tanu",
@@ -7907,7 +8471,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 565,
-    "score": 5500
+    "score": 5500,
+    "globalRank": 8325
   },
   {
     "login": "tesla-is",
@@ -7921,7 +8486,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 566,
-    "score": 511
+    "score": 511,
+    "globalRank": 8338
   },
   {
     "login": "fayasnoushad",
@@ -7935,7 +8501,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 567,
-    "score": 639
+    "score": 639,
+    "globalRank": 8339
   },
   {
     "login": "Coding-Meet",
@@ -7949,7 +8516,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 568,
-    "score": 1223
+    "score": 1223,
+    "globalRank": 8340
   },
   {
     "login": "thegeekyb0y",
@@ -7963,7 +8531,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 569,
-    "score": 754
+    "score": 754,
+    "globalRank": 8358
   },
   {
     "login": "prateekiiest",
@@ -7977,7 +8546,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 570,
-    "score": 738
+    "score": 738,
+    "globalRank": 8396
   },
   {
     "login": "prasadgujar",
@@ -7991,7 +8561,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 571,
-    "score": 500
+    "score": 500,
+    "globalRank": 8413
   },
   {
     "login": "srikanthpragada",
@@ -8005,7 +8576,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 572,
-    "score": 1315
+    "score": 1315,
+    "globalRank": 8430
   },
   {
     "login": "Anupam-dagar",
@@ -8019,7 +8591,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 573,
-    "score": 1116
+    "score": 1116,
+    "globalRank": 8431
   },
   {
     "login": "sauravhathi",
@@ -8033,7 +8606,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 574,
-    "score": 22348
+    "score": 22348,
+    "globalRank": 8432
   },
   {
     "login": "vividvilla",
@@ -8047,7 +8621,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 575,
-    "score": 610
+    "score": 610,
+    "globalRank": 8451
   },
   {
     "login": "Bhaviktutorials",
@@ -8061,7 +8636,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 576,
-    "score": 498
+    "score": 498,
+    "globalRank": 8474
   },
   {
     "login": "prscX",
@@ -8075,7 +8651,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 577,
-    "score": 497
+    "score": 497,
+    "globalRank": 8491
   },
   {
     "login": "nikhilroxtomar",
@@ -8089,7 +8666,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 578,
-    "score": 613
+    "score": 613,
+    "globalRank": 8492
   },
   {
     "login": "bhavaniravi",
@@ -8103,7 +8681,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 579,
-    "score": 1117
+    "score": 1117,
+    "globalRank": 8493
   },
   {
     "login": "theskumar",
@@ -8117,7 +8696,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 580,
-    "score": 828
+    "score": 828,
+    "globalRank": 8511
   },
   {
     "login": "sriramalavalapati3",
@@ -8131,7 +8711,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 581,
-    "score": 609
+    "score": 609,
+    "globalRank": 8512
   },
   {
     "login": "vishalkrishna8",
@@ -8145,7 +8726,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 582,
-    "score": 495
+    "score": 495,
+    "globalRank": 8546
   },
   {
     "login": "ARYANK-08",
@@ -8159,7 +8741,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 583,
-    "score": 813
+    "score": 813,
+    "globalRank": 8547
   },
   {
     "login": "shifa123",
@@ -8173,7 +8756,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 584,
-    "score": 574
+    "score": 574,
+    "globalRank": 8548
   },
   {
     "login": "kodigitaccount",
@@ -8187,7 +8771,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 585,
-    "score": 582
+    "score": 582,
+    "globalRank": 8562
   },
   {
     "login": "codescientists",
@@ -8201,7 +8786,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 586,
-    "score": 875
+    "score": 875,
+    "globalRank": 8563
   },
   {
     "login": "redashu",
@@ -8215,7 +8801,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 587,
-    "score": 2310
+    "score": 2310,
+    "globalRank": 8577
   },
   {
     "login": "debugger22",
@@ -8229,7 +8816,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 588,
-    "score": 4706
+    "score": 4706,
+    "globalRank": 8592
   },
   {
     "login": "kunalg123",
@@ -8243,7 +8831,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 589,
-    "score": 492
+    "score": 492,
+    "globalRank": 8593
   },
   {
     "login": "harshjuly12",
@@ -8257,7 +8846,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 590,
-    "score": 490
+    "score": 490,
+    "globalRank": 8604
   },
   {
     "login": "ankush",
@@ -8271,7 +8861,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 591,
-    "score": 1574
+    "score": 1574,
+    "globalRank": 8616
   },
   {
     "login": "MovingToWeb",
@@ -8285,7 +8876,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 592,
-    "score": 500
+    "score": 500,
+    "globalRank": 8637
   },
   {
     "login": "backslashflutter",
@@ -8299,7 +8891,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 593,
-    "score": 486
+    "score": 486,
+    "globalRank": 8664
   },
   {
     "login": "Siddhant-Goswami",
@@ -8313,7 +8906,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 594,
-    "score": 720
+    "score": 720,
+    "globalRank": 8681
   },
   {
     "login": "kamalkraj",
@@ -8327,7 +8921,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 595,
-    "score": 1408
+    "score": 1408,
+    "globalRank": 8706
   },
   {
     "login": "akashpadhiyar",
@@ -8341,7 +8936,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 596,
-    "score": 537
+    "score": 537,
+    "globalRank": 8707
   },
   {
     "login": "kunalj101",
@@ -8355,7 +8951,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 597,
-    "score": 482
+    "score": 482,
+    "globalRank": 8731
   },
   {
     "login": "ashkulz",
@@ -8369,7 +8966,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 598,
-    "score": 2616
+    "score": 2616,
+    "globalRank": 8743
   },
   {
     "login": "EtishaGarg",
@@ -8383,7 +8981,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 599,
-    "score": 498
+    "score": 498,
+    "globalRank": 8744
   },
   {
     "login": "Coder-X15",
@@ -8397,7 +8996,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 600,
-    "score": 734
+    "score": 734,
+    "globalRank": 8761
   },
   {
     "login": "Hassan-Shoayb",
@@ -8411,7 +9011,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 601,
-    "score": 480
+    "score": 480,
+    "globalRank": 8762
   },
   {
     "login": "Bharat2044",
@@ -8425,7 +9026,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 602,
-    "score": 1540
+    "score": 1540,
+    "globalRank": 8763
   },
   {
     "login": "avinashkranjan",
@@ -8439,7 +9041,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 603,
-    "score": 9018
+    "score": 9018,
+    "globalRank": 8784
   },
   {
     "login": "Gaini-Laxman",
@@ -8453,7 +9056,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 604,
-    "score": 516
+    "score": 516,
+    "globalRank": 8817
   },
   {
     "login": "prathamesh-sonpatki",
@@ -8467,7 +9071,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 605,
-    "score": 6085
+    "score": 6085,
+    "globalRank": 8818
   },
   {
     "login": "WebdevShefali",
@@ -8481,7 +9086,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 606,
-    "score": 550
+    "score": 550,
+    "globalRank": 8819
   },
   {
     "login": "techarkit",
@@ -8495,7 +9101,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 607,
-    "score": 509
+    "score": 509,
+    "globalRank": 8820
   },
   {
     "login": "anantshri",
@@ -8509,7 +9116,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 608,
-    "score": 2142
+    "score": 2142,
+    "globalRank": 8841
   },
   {
     "login": "sachinyadav3496",
@@ -8523,7 +9131,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 609,
-    "score": 476
+    "score": 476,
+    "globalRank": 8855
   },
   {
     "login": "ghoshnirmalya",
@@ -8537,7 +9146,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 610,
-    "score": 2814
+    "score": 2814,
+    "globalRank": 8856
   },
   {
     "login": "StarKnightt",
@@ -8551,7 +9161,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 611,
-    "score": 1158
+    "score": 1158,
+    "globalRank": 8857
   },
   {
     "login": "VJBots",
@@ -8565,7 +9176,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 612,
-    "score": 701
+    "score": 701,
+    "globalRank": 8858
   },
   {
     "login": "dalmia",
@@ -8579,7 +9191,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 613,
-    "score": 2393
+    "score": 2393,
+    "globalRank": 8880
   },
   {
     "login": "amangoeliitb",
@@ -8593,7 +9206,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 614,
-    "score": 474
+    "score": 474,
+    "globalRank": 8881
   },
   {
     "login": "IamJapneet",
@@ -8607,7 +9221,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 615,
-    "score": 472
+    "score": 472,
+    "globalRank": 8920
   },
   {
     "login": "Santosh-Baliarsingh",
@@ -8621,7 +9236,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 616,
-    "score": 1008
+    "score": 1008,
+    "globalRank": 8940
   },
   {
     "login": "srihari-humbarwadi",
@@ -8635,7 +9251,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 617,
-    "score": 473
+    "score": 473,
+    "globalRank": 8941
   },
   {
     "login": "abhisek",
@@ -8649,7 +9266,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 618,
-    "score": 3820
+    "score": 3820,
+    "globalRank": 8956
   },
   {
     "login": "Nidhi28fg",
@@ -8663,7 +9281,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 619,
-    "score": 1154
+    "score": 1154,
+    "globalRank": 8957
   },
   {
     "login": "Cloud-Wala-Banda",
@@ -8677,7 +9296,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 620,
-    "score": 472
+    "score": 472,
+    "globalRank": 8971
   },
   {
     "login": "GeekAadityaSinha",
@@ -8691,7 +9311,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 621,
-    "score": 480
+    "score": 480,
+    "globalRank": 8972
   },
   {
     "login": "hrittikhere",
@@ -8705,7 +9326,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 622,
-    "score": 994
+    "score": 994,
+    "globalRank": 9013
   },
   {
     "login": "ashishrawat2911",
@@ -8719,7 +9341,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 623,
-    "score": 644
+    "score": 644,
+    "globalRank": 9031
   },
   {
     "login": "InflixOP",
@@ -8733,7 +9356,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 624,
-    "score": 1067
+    "score": 1067,
+    "globalRank": 9032
   },
   {
     "login": "YadlaMani",
@@ -8747,7 +9371,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 625,
-    "score": 1226
+    "score": 1226,
+    "globalRank": 9048
   },
   {
     "login": "srkjha",
@@ -8761,7 +9386,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 626,
-    "score": 476
+    "score": 476,
+    "globalRank": 9049
   },
   {
     "login": "tamalCodes",
@@ -8775,7 +9401,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 627,
-    "score": 778
+    "score": 778,
+    "globalRank": 9050
   },
   {
     "login": "MrPunyapal",
@@ -8789,7 +9416,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 628,
-    "score": 3412
+    "score": 3412,
+    "globalRank": 9067
   },
   {
     "login": "harshit0209",
@@ -8803,7 +9431,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 629,
-    "score": 547
+    "score": 547,
+    "globalRank": 9093
   },
   {
     "login": "Anchals24",
@@ -8817,7 +9446,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 630,
-    "score": 463
+    "score": 463,
+    "globalRank": 9094
   },
   {
     "login": "kamleshchandnani",
@@ -8831,7 +9461,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 631,
-    "score": 615
+    "score": 615,
+    "globalRank": 9134
   },
   {
     "login": "logicopslab",
@@ -8845,7 +9476,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 632,
-    "score": 599
+    "score": 599,
+    "globalRank": 9149
   },
   {
     "login": "aayushi-droid",
@@ -8859,7 +9491,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 633,
-    "score": 461
+    "score": 461,
+    "globalRank": 9150
   },
   {
     "login": "IsAmitprajapati",
@@ -8873,7 +9506,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 634,
-    "score": 768
+    "score": 768,
+    "globalRank": 9165
   },
   {
     "login": "shivsinghin",
@@ -8887,7 +9521,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 635,
-    "score": 1569
+    "score": 1569,
+    "globalRank": 9194
   },
   {
     "login": "H-a-r-s-h-i-t-a-k",
@@ -8901,7 +9536,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 636,
-    "score": 559
+    "score": 559,
+    "globalRank": 9195
   },
   {
     "login": "Hackertrackersj",
@@ -8915,7 +9551,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 637,
-    "score": 457
+    "score": 457,
+    "globalRank": 9215
   },
   {
     "login": "ariG23498",
@@ -8929,7 +9566,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 638,
-    "score": 891
+    "score": 891,
+    "globalRank": 9216
   },
   {
     "login": "avanishmani",
@@ -8943,7 +9581,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 639,
-    "score": 456
+    "score": 456,
+    "globalRank": 9240
   },
   {
     "login": "jace",
@@ -8957,7 +9596,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 640,
-    "score": 651
+    "score": 651,
+    "globalRank": 9241
   },
   {
     "login": "JigyasuRajput",
@@ -8971,7 +9611,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 641,
-    "score": 1339
+    "score": 1339,
+    "globalRank": 9242
   },
   {
     "login": "CrioDo",
@@ -8985,7 +9626,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 642,
-    "score": 557
+    "score": 557,
+    "globalRank": 9243
   },
   {
     "login": "shubhamg0sai",
@@ -8999,7 +9641,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 643,
-    "score": 455
+    "score": 455,
+    "globalRank": 9257
   },
   {
     "login": "Aashishkumar123",
@@ -9013,7 +9656,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 644,
-    "score": 461
+    "score": 461,
+    "globalRank": 9276
   },
   {
     "login": "0xPugal",
@@ -9027,7 +9671,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 645,
-    "score": 1075
+    "score": 1075,
+    "globalRank": 9328
   },
   {
     "login": "AmanVarshney01",
@@ -9041,7 +9686,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 646,
-    "score": 2347
+    "score": 2347,
+    "globalRank": 9329
   },
   {
     "login": "abhishek-0713",
@@ -9055,7 +9701,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 647,
-    "score": 452
+    "score": 452,
+    "globalRank": 9330
   },
   {
     "login": "ckdevrel",
@@ -9069,7 +9716,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 648,
-    "score": 451
+    "score": 451,
+    "globalRank": 9350
   },
   {
     "login": "kinshuk-code-1729",
@@ -9083,7 +9731,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 649,
-    "score": 510
+    "score": 510,
+    "globalRank": 9351
   },
   {
     "login": "aadhar54",
@@ -9097,7 +9746,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 650,
-    "score": 453
+    "score": 453,
+    "globalRank": 9352
   },
   {
     "login": "vipulnsward",
@@ -9111,7 +9761,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 651,
-    "score": 2833
+    "score": 2833,
+    "globalRank": 9372
   },
   {
     "login": "kant146",
@@ -9125,7 +9776,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 652,
-    "score": 450
+    "score": 450,
+    "globalRank": 9373
   },
   {
     "login": "nabinhait",
@@ -9139,7 +9791,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 653,
-    "score": 578
+    "score": 578,
+    "globalRank": 9403
   },
   {
     "login": "shubham0204",
@@ -9153,7 +9806,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 654,
-    "score": 680
+    "score": 680,
+    "globalRank": 9404
   },
   {
     "login": "alokproc",
@@ -9167,7 +9821,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 655,
-    "score": 461
+    "score": 461,
+    "globalRank": 9425
   },
   {
     "login": "sarthidarji128",
@@ -9181,7 +9836,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 656,
-    "score": 576
+    "score": 576,
+    "globalRank": 9426
   },
   {
     "login": "ashish11chawda",
@@ -9195,7 +9851,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 657,
-    "score": 464
+    "score": 464,
+    "globalRank": 9427
   },
   {
     "login": "AkarshSatija",
@@ -9209,7 +9866,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 658,
-    "score": 546
+    "score": 546,
+    "globalRank": 9428
   },
   {
     "login": "Hackerscolonyofficial",
@@ -9223,7 +9881,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 659,
-    "score": 1344
+    "score": 1344,
+    "globalRank": 9444
   },
   {
     "login": "arnabsen1729",
@@ -9237,7 +9896,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 660,
-    "score": 465
+    "score": 465,
+    "globalRank": 9445
   },
   {
     "login": "keshavbhatt",
@@ -9251,7 +9911,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 661,
-    "score": 3117
+    "score": 3117,
+    "globalRank": 9446
   },
   {
     "login": "mrankitgupta",
@@ -9265,7 +9926,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 662,
-    "score": 446
+    "score": 446,
+    "globalRank": 9474
   },
   {
     "login": "LeadCoding",
@@ -9279,7 +9941,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 663,
-    "score": 445
+    "score": 445,
+    "globalRank": 9498
   },
   {
     "login": "shyamseshadri",
@@ -9293,7 +9956,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 664,
-    "score": 445
+    "score": 445,
+    "globalRank": 9499
   },
   {
     "login": "sourangshupal",
@@ -9307,7 +9971,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 665,
-    "score": 1021
+    "score": 1021,
+    "globalRank": 9519
   },
   {
     "login": "rjsamra",
@@ -9321,7 +9986,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 666,
-    "score": 899
+    "score": 899,
+    "globalRank": 9520
   },
   {
     "login": "ankitpriyarup",
@@ -9335,7 +10001,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 667,
-    "score": 443
+    "score": 443,
+    "globalRank": 9539
   },
   {
     "login": "ghoseb",
@@ -9349,7 +10016,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 668,
-    "score": 474
+    "score": 474,
+    "globalRank": 9540
   },
   {
     "login": "phatak-dev",
@@ -9363,7 +10031,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 669,
-    "score": 469
+    "score": 469,
+    "globalRank": 9561
   },
   {
     "login": "WebJournal",
@@ -9377,7 +10046,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 670,
-    "score": 442
+    "score": 442,
+    "globalRank": 9562
   },
   {
     "login": "santhoshtr",
@@ -9391,7 +10061,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 671,
-    "score": 2437
+    "score": 2437,
+    "globalRank": 9588
   },
   {
     "login": "manishbisht",
@@ -9405,7 +10076,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 672,
-    "score": 1187
+    "score": 1187,
+    "globalRank": 9589
   },
   {
     "login": "harish-sethuraman",
@@ -9419,7 +10091,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 673,
-    "score": 445
+    "score": 445,
+    "globalRank": 9590
   },
   {
     "login": "Hellsender01",
@@ -9433,7 +10106,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 674,
-    "score": 467
+    "score": 467,
+    "globalRank": 9591
   },
   {
     "login": "ramagururadhakrishnan",
@@ -9447,7 +10121,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 675,
-    "score": 1594
+    "score": 1594,
+    "globalRank": 9592
   },
   {
     "login": "adityatelange",
@@ -9461,7 +10136,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 676,
-    "score": 886
+    "score": 886,
+    "globalRank": 9617
   },
   {
     "login": "04psm",
@@ -9475,7 +10151,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 677,
-    "score": 443
+    "score": 443,
+    "globalRank": 9618
   },
   {
     "login": "dheerajghub",
@@ -9489,7 +10166,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 678,
-    "score": 968
+    "score": 968,
+    "globalRank": 9619
   },
   {
     "login": "ShivaBhattacharjee",
@@ -9503,7 +10181,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 679,
-    "score": 1856
+    "score": 1856,
+    "globalRank": 9637
   },
   {
     "login": "raviprakash11",
@@ -9517,7 +10196,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 680,
-    "score": 469
+    "score": 469,
+    "globalRank": 9638
   },
   {
     "login": "lakshayk12",
@@ -9531,7 +10211,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 681,
-    "score": 439
+    "score": 439,
+    "globalRank": 9659
   },
   {
     "login": "PrateekKumarSingh",
@@ -9545,7 +10226,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 682,
-    "score": 2177
+    "score": 2177,
+    "globalRank": 9660
   },
   {
     "login": "Kashyapghodasara",
@@ -9559,7 +10241,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 683,
-    "score": 726
+    "score": 726,
+    "globalRank": 9688
   },
   {
     "login": "automationhacks",
@@ -9573,7 +10256,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 684,
-    "score": 458
+    "score": 458,
+    "globalRank": 9689
   },
   {
     "login": "swapnilsparsh",
@@ -9587,7 +10271,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 685,
-    "score": 1031
+    "score": 1031,
+    "globalRank": 9690
   },
   {
     "login": "piyush-agrawal6",
@@ -9601,7 +10286,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 686,
-    "score": 698
+    "score": 698,
+    "globalRank": 9706
   },
   {
     "login": "JapneetSachdeva1",
@@ -9615,7 +10301,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 687,
-    "score": 484
+    "score": 484,
+    "globalRank": 9707
   },
   {
     "login": "snax37",
@@ -9629,7 +10316,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 688,
-    "score": 434
+    "score": 434,
+    "globalRank": 9729
   },
   {
     "login": "durgesh-sahani",
@@ -9643,7 +10331,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 689,
-    "score": 456
+    "score": 456,
+    "globalRank": 9730
   },
   {
     "login": "prabh8331",
@@ -9657,7 +10346,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 690,
-    "score": 439
+    "score": 439,
+    "globalRank": 9758
   },
   {
     "login": "dswh",
@@ -9671,7 +10361,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 691,
-    "score": 462
+    "score": 462,
+    "globalRank": 9759
   },
   {
     "login": "nishant-666",
@@ -9685,7 +10376,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 692,
-    "score": 462
+    "score": 462,
+    "globalRank": 9760
   },
   {
     "login": "manojkumar-jmp",
@@ -9699,7 +10391,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 693,
-    "score": 743
+    "score": 743,
+    "globalRank": 9783
   },
   {
     "login": "Sridhar-C-25",
@@ -9713,7 +10406,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 694,
-    "score": 465
+    "score": 465,
+    "globalRank": 9802
   },
   {
     "login": "JavaidAhmadKhan",
@@ -9727,7 +10421,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 695,
-    "score": 898
+    "score": 898,
+    "globalRank": 9803
   },
   {
     "login": "ramitsurana",
@@ -9741,7 +10436,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 696,
-    "score": 433
+    "score": 433,
+    "globalRank": 9824
   },
   {
     "login": "yashk2000",
@@ -9755,7 +10451,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 697,
-    "score": 543
+    "score": 543,
+    "globalRank": 9825
   },
   {
     "login": "tarunksao",
@@ -9769,7 +10466,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 698,
-    "score": 433
+    "score": 433,
+    "globalRank": 9826
   },
   {
     "login": "sanket-25",
@@ -9783,7 +10481,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 699,
-    "score": 3830
+    "score": 3830,
+    "globalRank": 9851
   },
   {
     "login": "groverkds",
@@ -9797,7 +10496,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 700,
-    "score": 429
+    "score": 429,
+    "globalRank": 9852
   },
   {
     "login": "raghu-007",
@@ -9811,7 +10511,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 701,
-    "score": 565
+    "score": 565,
+    "globalRank": 9875
   },
   {
     "login": "softvar",
@@ -9825,7 +10526,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 702,
-    "score": 594
+    "score": 594,
+    "globalRank": 9876
   },
   {
     "login": "Santara",
@@ -9839,7 +10541,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 703,
-    "score": 428
+    "score": 428,
+    "globalRank": 9877
   },
   {
     "login": "shreyaschavhan",
@@ -9853,7 +10556,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 704,
-    "score": 7750
+    "score": 7750,
+    "globalRank": 9900
   },
   {
     "login": "nishnik",
@@ -9867,7 +10571,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 705,
-    "score": 435
+    "score": 435,
+    "globalRank": 9901
   },
   {
     "login": "govind527",
@@ -9881,7 +10586,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 706,
-    "score": 506
+    "score": 506,
+    "globalRank": 9902
   },
   {
     "login": "teejee2008",
@@ -9895,7 +10601,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 707,
-    "score": 442
+    "score": 442,
+    "globalRank": 9928
   },
   {
     "login": "sharatsachin",
@@ -9909,7 +10616,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 708,
-    "score": 431
+    "score": 431,
+    "globalRank": 9929
   },
   {
     "login": "sai-sondarkar",
@@ -9923,7 +10631,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 709,
-    "score": 426
+    "score": 426,
+    "globalRank": 9930
   },
   {
     "login": "bauripalash",
@@ -9937,7 +10646,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 710,
-    "score": 1863
+    "score": 1863,
+    "globalRank": 9931
   },
   {
     "login": "ashokdey",
@@ -9951,7 +10661,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 711,
-    "score": 1129
+    "score": 1129,
+    "globalRank": 9932
   },
   {
     "login": "AndrewBastin",
@@ -9965,7 +10676,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 712,
-    "score": 2616
+    "score": 2616,
+    "globalRank": 9956
   },
   {
     "login": "alexcj10",
@@ -9979,7 +10691,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 713,
-    "score": 2925
+    "score": 2925,
+    "globalRank": 9982
   },
   {
     "login": "freakynit",
@@ -9993,7 +10706,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 714,
-    "score": 542
+    "score": 542,
+    "globalRank": 10008
   },
   {
     "login": "akashc777",
@@ -10007,7 +10721,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 715,
-    "score": 1334
+    "score": 1334,
+    "globalRank": 10009
   },
   {
     "login": "ruchamahabal",
@@ -10021,7 +10736,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 716,
-    "score": 1715
+    "score": 1715,
+    "globalRank": 10023
   },
   {
     "login": "aravindraj777",
@@ -10035,7 +10751,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 717,
-    "score": 441
+    "score": 441,
+    "globalRank": 10024
   },
   {
     "login": "oianmol",
@@ -10049,7 +10766,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 718,
-    "score": 933
+    "score": 933,
+    "globalRank": 10025
   },
   {
     "login": "iamdeepak199",
@@ -10063,7 +10781,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 719,
-    "score": 623
+    "score": 623,
+    "globalRank": 10049
   },
   {
     "login": "anandwana001",
@@ -10077,7 +10796,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 720,
-    "score": 1226
+    "score": 1226,
+    "globalRank": 10050
   },
   {
     "login": "Pradeep-Pandey13",
@@ -10091,7 +10811,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 721,
-    "score": 420
+    "score": 420,
+    "globalRank": 10069
   },
   {
     "login": "techwithbhavya",
@@ -10105,7 +10826,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 722,
-    "score": 424
+    "score": 424,
+    "globalRank": 10070
   },
   {
     "login": "itsdakshjain",
@@ -10119,7 +10841,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 723,
-    "score": 1386
+    "score": 1386,
+    "globalRank": 10097
   },
   {
     "login": "rowhitswami",
@@ -10133,7 +10856,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 724,
-    "score": 619
+    "score": 619,
+    "globalRank": 10098
   },
   {
     "login": "Ramraghul",
@@ -10147,7 +10871,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 725,
-    "score": 424
+    "score": 424,
+    "globalRank": 10099
   },
   {
     "login": "iArunava",
@@ -10161,7 +10886,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 726,
-    "score": 419
+    "score": 419,
+    "globalRank": 10100
   },
   {
     "login": "mddanishyusuf",
@@ -10175,7 +10901,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 727,
-    "score": 2719
+    "score": 2719,
+    "globalRank": 10130
   },
   {
     "login": "geekysrm",
@@ -10189,7 +10916,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 728,
-    "score": 448
+    "score": 448,
+    "globalRank": 10159
   },
   {
     "login": "abhijithwarrier",
@@ -10203,7 +10931,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 729,
-    "score": 1393
+    "score": 1393,
+    "globalRank": 10177
   },
   {
     "login": "biraj21",
@@ -10217,7 +10946,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 730,
-    "score": 1057
+    "score": 1057,
+    "globalRank": 10178
   },
   {
     "login": "adityathakurxd",
@@ -10231,7 +10961,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 731,
-    "score": 496
+    "score": 496,
+    "globalRank": 10179
   },
   {
     "login": "Jhakailash",
@@ -10245,7 +10976,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 732,
-    "score": 415
+    "score": 415,
+    "globalRank": 10199
   },
   {
     "login": "palnabarun",
@@ -10259,7 +10991,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 733,
-    "score": 862
+    "score": 862,
+    "globalRank": 10235
   },
   {
     "login": "tusharnankani",
@@ -10273,7 +11006,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 734,
-    "score": 461
+    "score": 461,
+    "globalRank": 10236
   },
   {
     "login": "YashKumarVerma",
@@ -10287,7 +11021,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 735,
-    "score": 517
+    "score": 517,
+    "globalRank": 10261
   },
   {
     "login": "amhsirak",
@@ -10301,7 +11036,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 736,
-    "score": 9098
+    "score": 9098,
+    "globalRank": 10262
   },
   {
     "login": "anoopkunchukuttan",
@@ -10315,7 +11051,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 737,
-    "score": 447
+    "score": 447,
+    "globalRank": 10263
   },
   {
     "login": "plibither8",
@@ -10329,7 +11066,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 738,
-    "score": 1228
+    "score": 1228,
+    "globalRank": 10264
   },
   {
     "login": "umeshshinde19",
@@ -10343,7 +11081,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 739,
-    "score": 413
+    "score": 413,
+    "globalRank": 10265
   },
   {
     "login": "Aakibgithuber",
@@ -10357,7 +11096,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 740,
-    "score": 441
+    "score": 441,
+    "globalRank": 10292
   },
   {
     "login": "tstreamDOTh",
@@ -10371,7 +11111,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 741,
-    "score": 481
+    "score": 481,
+    "globalRank": 10293
   },
   {
     "login": "vivmagarwal",
@@ -10385,7 +11126,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 742,
-    "score": 1680
+    "score": 1680,
+    "globalRank": 10327
   },
   {
     "login": "shijithpk",
@@ -10399,7 +11141,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 743,
-    "score": 487
+    "score": 487,
+    "globalRank": 10328
   },
   {
     "login": "SunitRoy2703",
@@ -10413,7 +11156,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 744,
-    "score": 424
+    "score": 424,
+    "globalRank": 10329
   },
   {
     "login": "balapriyac",
@@ -10427,7 +11171,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 745,
-    "score": 1917
+    "score": 1917,
+    "globalRank": 10330
   },
   {
     "login": "Akshayrane848",
@@ -10441,7 +11186,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 746,
-    "score": 411
+    "score": 411,
+    "globalRank": 10331
   },
   {
     "login": "jjnanthakumar",
@@ -10455,7 +11201,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 747,
-    "score": 2379
+    "score": 2379,
+    "globalRank": 10367
   },
   {
     "login": "divyanshu013",
@@ -10469,7 +11216,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 748,
-    "score": 1510
+    "score": 1510,
+    "globalRank": 10368
   },
   {
     "login": "himanshu-dixit",
@@ -10483,7 +11231,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 749,
-    "score": 4489
+    "score": 4489,
+    "globalRank": 10369
   },
   {
     "login": "pushpak1300",
@@ -10497,7 +11246,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 750,
-    "score": 2806
+    "score": 2806,
+    "globalRank": 10399
   },
   {
     "login": "erravimishracse1",
@@ -10511,7 +11261,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 751,
-    "score": 409
+    "score": 409,
+    "globalRank": 10400
   },
   {
     "login": "deeptesh-rout",
@@ -10525,7 +11276,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 752,
-    "score": 675
+    "score": 675,
+    "globalRank": 10401
   },
   {
     "login": "Abhayprince",
@@ -10539,7 +11291,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 753,
-    "score": 1986
+    "score": 1986,
+    "globalRank": 10402
   },
   {
     "login": "mitulgolakiya",
@@ -10553,7 +11306,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 754,
-    "score": 593
+    "score": 593,
+    "globalRank": 10403
   },
   {
     "login": "sarwarbeing-ai",
@@ -10567,7 +11321,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 755,
-    "score": 412
+    "score": 412,
+    "globalRank": 10424
   },
   {
     "login": "dheerajkotwani",
@@ -10581,7 +11336,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 756,
-    "score": 2576
+    "score": 2576,
+    "globalRank": 10425
   },
   {
     "login": "amitmerchant1990",
@@ -10595,7 +11351,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 757,
-    "score": 928
+    "score": 928,
+    "globalRank": 10456
   },
   {
     "login": "Abhishekmamidi123",
@@ -10609,7 +11366,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 758,
-    "score": 522
+    "score": 522,
+    "globalRank": 10457
   },
   {
     "login": "mlpao500",
@@ -10623,7 +11381,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 759,
-    "score": 407
+    "score": 407,
+    "globalRank": 10458
   },
   {
     "login": "sreya-satheesh",
@@ -10637,7 +11396,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 760,
-    "score": 430
+    "score": 430,
+    "globalRank": 10459
   },
   {
     "login": "Satyamkumarnavneet",
@@ -10651,7 +11411,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 761,
-    "score": 596
+    "score": 596,
+    "globalRank": 10487
   },
   {
     "login": "SachinCoder1",
@@ -10665,7 +11426,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 762,
-    "score": 710
+    "score": 710,
+    "globalRank": 10488
   },
   {
     "login": "nitishfy",
@@ -10679,7 +11441,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 763,
-    "score": 1416
+    "score": 1416,
+    "globalRank": 10489
   },
   {
     "login": "ajaykuma",
@@ -10693,7 +11456,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 764,
-    "score": 771
+    "score": 771,
+    "globalRank": 10490
   },
   {
     "login": "codingmastr",
@@ -10707,7 +11471,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 765,
-    "score": 413
+    "score": 413,
+    "globalRank": 10491
   },
   {
     "login": "pwlive",
@@ -10721,7 +11486,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 766,
-    "score": 405
+    "score": 405,
+    "globalRank": 10519
   },
   {
     "login": "syedzada1100",
@@ -10735,7 +11501,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 767,
-    "score": 405
+    "score": 405,
+    "globalRank": 10520
   },
   {
     "login": "avipatilpro",
@@ -10749,7 +11516,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 768,
-    "score": 418
+    "score": 418,
+    "globalRank": 10521
   },
   {
     "login": "deepanrajm",
@@ -10763,7 +11531,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 769,
-    "score": 537
+    "score": 537,
+    "globalRank": 10559
   },
   {
     "login": "chsasank",
@@ -10777,7 +11546,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 770,
-    "score": 491
+    "score": 491,
+    "globalRank": 10586
   },
   {
     "login": "Mirzaazmath",
@@ -10791,7 +11561,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 771,
-    "score": 930
+    "score": 930,
+    "globalRank": 10587
   },
   {
     "login": "imanishbarnwal",
@@ -10805,7 +11576,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 772,
-    "score": 590
+    "score": 590,
+    "globalRank": 10588
   },
   {
     "login": "souravkl11",
@@ -10819,7 +11591,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 773,
-    "score": 1603
+    "score": 1603,
+    "globalRank": 10616
   },
   {
     "login": "himanshu007-creator",
@@ -10833,7 +11606,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 774,
-    "score": 2970
+    "score": 2970,
+    "globalRank": 10617
   },
   {
     "login": "Aoudumber-Bade",
@@ -10847,7 +11621,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 775,
-    "score": 413
+    "score": 413,
+    "globalRank": 10618
   },
   {
     "login": "Subhampreet",
@@ -10861,7 +11636,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 776,
-    "score": 507
+    "score": 507,
+    "globalRank": 10640
   },
   {
     "login": "dev-aniketj",
@@ -10875,7 +11651,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 777,
-    "score": 446
+    "score": 446,
+    "globalRank": 10641
   },
   {
     "login": "akpythonyt",
@@ -10889,7 +11666,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 778,
-    "score": 430
+    "score": 430,
+    "globalRank": 10642
   },
   {
     "login": "abhishekprajapatt",
@@ -10903,7 +11681,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 779,
-    "score": 662
+    "score": 662,
+    "globalRank": 10668
   },
   {
     "login": "Salman-id85",
@@ -10917,7 +11696,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 780,
-    "score": 537
+    "score": 537,
+    "globalRank": 10669
   },
   {
     "login": "ramsrigouthamg",
@@ -10931,7 +11711,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 781,
-    "score": 1584
+    "score": 1584,
+    "globalRank": 10704
   },
   {
     "login": "simranjeet97",
@@ -10945,7 +11726,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 782,
-    "score": 641
+    "score": 641,
+    "globalRank": 10705
   },
   {
     "login": "viperadnan-git",
@@ -10959,7 +11741,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 783,
-    "score": 3319
+    "score": 3319,
+    "globalRank": 10706
   },
   {
     "login": "Mrvishal2k2",
@@ -10973,7 +11756,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 784,
-    "score": 595
+    "score": 595,
+    "globalRank": 10707
   },
   {
     "login": "Anandgupta09070",
@@ -10987,7 +11771,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 785,
-    "score": 399
+    "score": 399,
+    "globalRank": 10708
   },
   {
     "login": "ivin-titus",
@@ -11001,7 +11786,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 786,
-    "score": 2292
+    "score": 2292,
+    "globalRank": 10709
   },
   {
     "login": "arunkudiyal",
@@ -11015,7 +11801,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 787,
-    "score": 434
+    "score": 434,
+    "globalRank": 10731
   },
   {
     "login": "thatbeautifuldream",
@@ -11029,7 +11816,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 788,
-    "score": 2126
+    "score": 2126,
+    "globalRank": 10758
   },
   {
     "login": "0x0Glitch",
@@ -11043,7 +11831,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 789,
-    "score": 847
+    "score": 847,
+    "globalRank": 10759
   },
   {
     "login": "prateekjoshi565",
@@ -11057,7 +11846,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 790,
-    "score": 406
+    "score": 406,
+    "globalRank": 10760
   },
   {
     "login": "ajayyadavexpo",
@@ -11071,7 +11861,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 791,
-    "score": 497
+    "score": 497,
+    "globalRank": 10775
   },
   {
     "login": "anubhavanonymous",
@@ -11085,7 +11876,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 792,
-    "score": 511
+    "score": 511,
+    "globalRank": 10776
   },
   {
     "login": "sitaramc",
@@ -11099,7 +11891,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 793,
-    "score": 440
+    "score": 440,
+    "globalRank": 10777
   },
   {
     "login": "controllerstech",
@@ -11113,7 +11906,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 794,
-    "score": 470
+    "score": 470,
+    "globalRank": 10778
   },
   {
     "login": "Sunchit",
@@ -11127,7 +11921,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 795,
-    "score": 547
+    "score": 547,
+    "globalRank": 10779
   },
   {
     "login": "dhrumishah",
@@ -11141,7 +11936,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 796,
-    "score": 1537
+    "score": 1537,
+    "globalRank": 10780
   },
   {
     "login": "V4NSH4J",
@@ -11155,7 +11951,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 797,
-    "score": 416
+    "score": 416,
+    "globalRank": 10808
   },
   {
     "login": "Akarshjha03",
@@ -11169,7 +11966,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 798,
-    "score": 810
+    "score": 810,
+    "globalRank": 10832
   },
   {
     "login": "kothariji",
@@ -11183,7 +11981,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 799,
-    "score": 1444
+    "score": 1444,
+    "globalRank": 10833
   },
   {
     "login": "imgautam07",
@@ -11197,7 +11996,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 800,
-    "score": 699
+    "score": 699,
+    "globalRank": 10834
   },
   {
     "login": "durgaprasadUI",
@@ -11211,7 +12011,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 801,
-    "score": 407
+    "score": 407,
+    "globalRank": 10835
   },
   {
     "login": "himanshusharma89",
@@ -11225,7 +12026,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 802,
-    "score": 545
+    "score": 545,
+    "globalRank": 10858
   },
   {
     "login": "iAyon",
@@ -11239,7 +12041,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 803,
-    "score": 450
+    "score": 450,
+    "globalRank": 10859
   },
   {
     "login": "prakashsakari",
@@ -11253,7 +12056,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 804,
-    "score": 422
+    "score": 422,
+    "globalRank": 10887
   },
   {
     "login": "msasikanth",
@@ -11267,7 +12071,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 805,
-    "score": 3037
+    "score": 3037,
+    "globalRank": 10929
   },
   {
     "login": "saloniankita",
@@ -11281,7 +12086,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 806,
-    "score": 391
+    "score": 391,
+    "globalRank": 10930
   },
   {
     "login": "GURPREETKAURJETHRA",
@@ -11295,7 +12101,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 807,
-    "score": 395
+    "score": 395,
+    "globalRank": 10958
   },
   {
     "login": "pavanpodila",
@@ -11309,7 +12116,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 808,
-    "score": 6556
+    "score": 6556,
+    "globalRank": 10959
   },
   {
     "login": "yashsehgal",
@@ -11323,7 +12131,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 809,
-    "score": 1368
+    "score": 1368,
+    "globalRank": 10960
   },
   {
     "login": "0xKayala",
@@ -11337,7 +12146,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 810,
-    "score": 661
+    "score": 661,
+    "globalRank": 10961
   },
   {
     "login": "NitinSemwal2605",
@@ -11351,7 +12161,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 811,
-    "score": 932
+    "score": 932,
+    "globalRank": 10990
   },
   {
     "login": "keshav-exe",
@@ -11365,7 +12176,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 812,
-    "score": 1980
+    "score": 1980,
+    "globalRank": 11006
   },
   {
     "login": "JayVora-SerpentCS",
@@ -11379,7 +12191,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 813,
-    "score": 406
+    "score": 406,
+    "globalRank": 11007
   },
   {
     "login": "Bhanu99517",
@@ -11393,7 +12206,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 814,
-    "score": 3361
+    "score": 3361,
+    "globalRank": 11043
   },
   {
     "login": "mohitchoudhary05",
@@ -11407,7 +12221,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 815,
-    "score": 389
+    "score": 389,
+    "globalRank": 11044
   },
   {
     "login": "Ruchip16",
@@ -11421,7 +12236,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 816,
-    "score": 729
+    "score": 729,
+    "globalRank": 11074
   },
   {
     "login": "shraddhaag",
@@ -11435,7 +12251,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 817,
-    "score": 897
+    "score": 897,
+    "globalRank": 11075
   },
   {
     "login": "Fardeen26",
@@ -11449,7 +12266,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 818,
-    "score": 2023
+    "score": 2023,
+    "globalRank": 11112
   },
   {
     "login": "isky27",
@@ -11463,7 +12281,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 819,
-    "score": 397
+    "score": 397,
+    "globalRank": 11113
   },
   {
     "login": "hariketsheth",
@@ -11477,7 +12296,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 820,
-    "score": 387
+    "score": 387,
+    "globalRank": 11143
   },
   {
     "login": "heyAyushh",
@@ -11491,7 +12311,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 821,
-    "score": 1111
+    "score": 1111,
+    "globalRank": 11173
   },
   {
     "login": "sriram-km",
@@ -11505,7 +12326,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 822,
-    "score": 400
+    "score": 400,
+    "globalRank": 11174
   },
   {
     "login": "ASHWIN990",
@@ -11519,7 +12341,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 823,
-    "score": 392
+    "score": 392,
+    "globalRank": 11175
   },
   {
     "login": "analyticsindiamagazine",
@@ -11533,7 +12356,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 824,
-    "score": 382
+    "score": 382,
+    "globalRank": 11202
   },
   {
     "login": "TejaNaik15",
@@ -11547,7 +12371,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 825,
-    "score": 1841
+    "score": 1841,
+    "globalRank": 11203
   },
   {
     "login": "ayulockin",
@@ -11561,7 +12386,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 826,
-    "score": 1666
+    "score": 1666,
+    "globalRank": 11246
   },
   {
     "login": "neobuddy89",
@@ -11575,7 +12401,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 827,
-    "score": 11135
+    "score": 11135,
+    "globalRank": 11247
   },
   {
     "login": "punchagan",
@@ -11589,7 +12416,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 828,
-    "score": 1863
+    "score": 1863,
+    "globalRank": 11248
   },
   {
     "login": "qboticslabs",
@@ -11603,7 +12431,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 829,
-    "score": 381
+    "score": 381,
+    "globalRank": 11249
   },
   {
     "login": "Kabir-Sagiii",
@@ -11617,7 +12446,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 830,
-    "score": 1038
+    "score": 1038,
+    "globalRank": 11250
   },
   {
     "login": "InduprasadSR",
@@ -11631,7 +12461,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 831,
-    "score": 388
+    "score": 388,
+    "globalRank": 11251
   },
   {
     "login": "abhisheks008",
@@ -11645,7 +12476,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 832,
-    "score": 412
+    "score": 412,
+    "globalRank": 11252
   },
   {
     "login": "Yash-Kavaiya",
@@ -11659,7 +12491,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 833,
-    "score": 4510
+    "score": 4510,
+    "globalRank": 11253
   },
   {
     "login": "sagnikghoshcr7",
@@ -11673,7 +12506,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 834,
-    "score": 466
+    "score": 466,
+    "globalRank": 11279
   },
   {
     "login": "kirang89",
@@ -11687,7 +12521,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 835,
-    "score": 1483
+    "score": 1483,
+    "globalRank": 11280
   },
   {
     "login": "Suraj-Upadhyay",
@@ -11701,7 +12536,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 836,
-    "score": 450
+    "score": 450,
+    "globalRank": 11310
   },
   {
     "login": "abhithory",
@@ -11715,7 +12551,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 837,
-    "score": 2530
+    "score": 2530,
+    "globalRank": 11311
   },
   {
     "login": "ashitaprasad",
@@ -11729,7 +12566,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 838,
-    "score": 701
+    "score": 701,
+    "globalRank": 11312
   },
   {
     "login": "Sudhanshu-Ambastha",
@@ -11743,7 +12581,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 839,
-    "score": 1287
+    "score": 1287,
+    "globalRank": 11341
   },
   {
     "login": "ms-yogi",
@@ -11757,7 +12596,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 840,
-    "score": 2587
+    "score": 2587,
+    "globalRank": 11362
   },
   {
     "login": "rashidmakki",
@@ -11771,7 +12611,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 841,
-    "score": 377
+    "score": 377,
+    "globalRank": 11363
   },
   {
     "login": "Jaish19",
@@ -11785,7 +12626,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 842,
-    "score": 519
+    "score": 519,
+    "globalRank": 11364
   },
   {
     "login": "starlightknown",
@@ -11799,7 +12641,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 843,
-    "score": 491
+    "score": 491,
+    "globalRank": 11393
   },
   {
     "login": "arbazkiraak",
@@ -11813,7 +12656,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 844,
-    "score": 500
+    "score": 500,
+    "globalRank": 11394
   },
   {
     "login": "ravi2krishna",
@@ -11827,7 +12671,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 845,
-    "score": 1761
+    "score": 1761,
+    "globalRank": 11395
   },
   {
     "login": "Sumanth077",
@@ -11841,7 +12686,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 846,
-    "score": 429
+    "score": 429,
+    "globalRank": 11396
   },
   {
     "login": "JaySabva",
@@ -11855,7 +12701,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 847,
-    "score": 416
+    "score": 416,
+    "globalRank": 11397
   },
   {
     "login": "vishipayyallore",
@@ -11869,7 +12716,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 848,
-    "score": 2355
+    "score": 2355,
+    "globalRank": 11437
   },
   {
     "login": "arpit456jain",
@@ -11883,7 +12731,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 849,
-    "score": 522
+    "score": 522,
+    "globalRank": 11438
   },
   {
     "login": "itsprs",
@@ -11897,7 +12746,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 850,
-    "score": 437
+    "score": 437,
+    "globalRank": 11439
   },
   {
     "login": "iamareebjamal",
@@ -11911,7 +12761,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 851,
-    "score": 375
+    "score": 375,
+    "globalRank": 11465
   },
   {
     "login": "Cyberoctane29",
@@ -11925,7 +12776,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 852,
-    "score": 787
+    "score": 787,
+    "globalRank": 11466
   },
   {
     "login": "vinayak25",
@@ -11939,7 +12791,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 853,
-    "score": 5199
+    "score": 5199,
+    "globalRank": 11467
   },
   {
     "login": "VipinMI2024",
@@ -11953,7 +12806,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 854,
-    "score": 472
+    "score": 472,
+    "globalRank": 11468
   },
   {
     "login": "CrazeDoc",
@@ -11967,7 +12821,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 855,
-    "score": 560
+    "score": 560,
+    "globalRank": 11469
   },
   {
     "login": "pulkitxm",
@@ -11981,7 +12836,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 856,
-    "score": 2721
+    "score": 2721,
+    "globalRank": 11491
   },
   {
     "login": "zaid-kamil",
@@ -11995,7 +12851,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 857,
-    "score": 2389
+    "score": 2389,
+    "globalRank": 11492
   },
   {
     "login": "wajeshubham",
@@ -12009,7 +12866,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 858,
-    "score": 1265
+    "score": 1265,
+    "globalRank": 11493
   },
   {
     "login": "Deepaksharma-39",
@@ -12023,7 +12881,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 859,
-    "score": 2187
+    "score": 2187,
+    "globalRank": 11494
   },
   {
     "login": "shridarpatil",
@@ -12037,7 +12896,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 860,
-    "score": 1545
+    "score": 1545,
+    "globalRank": 11532
   },
   {
     "login": "sukeesh",
@@ -12051,7 +12911,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 861,
-    "score": 760
+    "score": 760,
+    "globalRank": 11533
   },
   {
     "login": "dr5hn",
@@ -12065,7 +12926,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 862,
-    "score": 5113
+    "score": 5113,
+    "globalRank": 11567
   },
   {
     "login": "smv1999",
@@ -12079,7 +12941,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 863,
-    "score": 400
+    "score": 400,
+    "globalRank": 11568
   },
   {
     "login": "sidd-harth",
@@ -12093,7 +12956,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 864,
-    "score": 434
+    "score": 434,
+    "globalRank": 11569
   },
   {
     "login": "sayanarijit",
@@ -12107,7 +12971,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 865,
-    "score": 2055
+    "score": 2055,
+    "globalRank": 11570
   },
   {
     "login": "Adyasha8105",
@@ -12121,7 +12986,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 866,
-    "score": 1112
+    "score": 1112,
+    "globalRank": 11571
   },
   {
     "login": "sohamsshah",
@@ -12135,7 +13001,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 867,
-    "score": 2257
+    "score": 2257,
+    "globalRank": 11607
   },
   {
     "login": "ayushsharma82",
@@ -12149,7 +13016,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 868,
-    "score": 971
+    "score": 971,
+    "globalRank": 11608
   },
   {
     "login": "aayushchugh",
@@ -12163,7 +13031,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 869,
-    "score": 4326
+    "score": 4326,
+    "globalRank": 11609
   },
   {
     "login": "YashBhindia",
@@ -12177,7 +13046,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 870,
-    "score": 369
+    "score": 369,
+    "globalRank": 11642
   },
   {
     "login": "Abhishek-2502",
@@ -12191,7 +13061,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 871,
-    "score": 990
+    "score": 990,
+    "globalRank": 11643
   },
   {
     "login": "kitarp29",
@@ -12205,7 +13076,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 872,
-    "score": 372
+    "score": 372,
+    "globalRank": 11668
   },
   {
     "login": "kingsidharth",
@@ -12219,7 +13091,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 873,
-    "score": 1486
+    "score": 1486,
+    "globalRank": 11669
   },
   {
     "login": "obviyus",
@@ -12233,7 +13106,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 874,
-    "score": 10086
+    "score": 10086,
+    "globalRank": 11670
   },
   {
     "login": "pratikderepatil",
@@ -12247,7 +13121,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 875,
-    "score": 374
+    "score": 374,
+    "globalRank": 11671
   },
   {
     "login": "initcron",
@@ -12261,7 +13136,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 876,
-    "score": 2815
+    "score": 2815,
+    "globalRank": 11672
   },
   {
     "login": "danascape",
@@ -12275,7 +13151,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 877,
-    "score": 2922
+    "score": 2922,
+    "globalRank": 11673
   },
   {
     "login": "racharlasrikanth",
@@ -12289,7 +13166,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 878,
-    "score": 1014
+    "score": 1014,
+    "globalRank": 11674
   },
   {
     "login": "ananthakumaran",
@@ -12303,7 +13181,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 879,
-    "score": 522
+    "score": 522,
+    "globalRank": 11675
   },
   {
     "login": "mahimarawat0707",
@@ -12317,7 +13196,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 880,
-    "score": 2598
+    "score": 2598,
+    "globalRank": 11676
   },
   {
     "login": "CodeBustler",
@@ -12331,7 +13211,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 881,
-    "score": 404
+    "score": 404,
+    "globalRank": 11703
   },
   {
     "login": "itspyguru",
@@ -12345,7 +13226,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 882,
-    "score": 1516
+    "score": 1516,
+    "globalRank": 11704
   },
   {
     "login": "Sabyasachi123276",
@@ -12359,7 +13241,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 883,
-    "score": 431
+    "score": 431,
+    "globalRank": 11705
   },
   {
     "login": "vihaankapoor",
@@ -12373,7 +13256,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 884,
-    "score": 367
+    "score": 367,
+    "globalRank": 11706
   },
   {
     "login": "sarthakroy2002",
@@ -12387,7 +13271,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 885,
-    "score": 807
+    "score": 807,
+    "globalRank": 11707
   },
   {
     "login": "envoy1084",
@@ -12401,7 +13286,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 886,
-    "score": 2664
+    "score": 2664,
+    "globalRank": 11708
   },
   {
     "login": "pawarspeaks",
@@ -12415,7 +13301,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 887,
-    "score": 369
+    "score": 369,
+    "globalRank": 11709
   },
   {
     "login": "Bhupesh-V",
@@ -12429,7 +13316,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 888,
-    "score": 550
+    "score": 550,
+    "globalRank": 11710
   },
   {
     "login": "Aryamanz29",
@@ -12443,7 +13331,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 889,
-    "score": 2800
+    "score": 2800,
+    "globalRank": 11711
   },
   {
     "login": "RameshAditya",
@@ -12457,7 +13346,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 890,
-    "score": 366
+    "score": 366,
+    "globalRank": 11745
   },
   {
     "login": "streetdogg",
@@ -12471,7 +13361,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 891,
-    "score": 878
+    "score": 878,
+    "globalRank": 11746
   },
   {
     "login": "onprem",
@@ -12485,7 +13376,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 892,
-    "score": 1488
+    "score": 1488,
+    "globalRank": 11747
   },
   {
     "login": "Ritik5Prasad",
@@ -12499,7 +13391,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 893,
-    "score": 372
+    "score": 372,
+    "globalRank": 11748
   },
   {
     "login": "jayesh2906",
@@ -12513,7 +13406,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 894,
-    "score": 387
+    "score": 387,
+    "globalRank": 11749
   },
   {
     "login": "iAmKankan",
@@ -12527,7 +13421,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 895,
-    "score": 1554
+    "score": 1554,
+    "globalRank": 11788
   },
   {
     "login": "shreyansh26",
@@ -12541,7 +13436,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 896,
-    "score": 2115
+    "score": 2115,
+    "globalRank": 11789
   },
   {
     "login": "iashris",
@@ -12555,7 +13451,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 897,
-    "score": 1360
+    "score": 1360,
+    "globalRank": 11829
   },
   {
     "login": "tusharsadhwani",
@@ -12569,7 +13466,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 898,
-    "score": 417
+    "score": 417,
+    "globalRank": 11830
   },
   {
     "login": "theashishgavade",
@@ -12583,7 +13481,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 899,
-    "score": 673
+    "score": 673,
+    "globalRank": 11831
   },
   {
     "login": "sharmaadityaHQ",
@@ -12597,7 +13496,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 900,
-    "score": 667
+    "score": 667,
+    "globalRank": 11832
   },
   {
     "login": "BakkappaN",
@@ -12611,7 +13511,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 901,
-    "score": 568
+    "score": 568,
+    "globalRank": 11833
   },
   {
     "login": "krshrimali",
@@ -12625,7 +13526,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 902,
-    "score": 1326
+    "score": 1326,
+    "globalRank": 11864
   },
   {
     "login": "ikismail",
@@ -12639,7 +13541,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 903,
-    "score": 667
+    "score": 667,
+    "globalRank": 11865
   },
   {
     "login": "manoj7654",
@@ -12653,7 +13556,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 904,
-    "score": 363
+    "score": 363,
+    "globalRank": 11866
   },
   {
     "login": "grvsharma1994",
@@ -12667,7 +13571,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 905,
-    "score": 363
+    "score": 363,
+    "globalRank": 11867
   },
   {
     "login": "GauravKesh",
@@ -12681,7 +13586,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 906,
-    "score": 1467
+    "score": 1467,
+    "globalRank": 11908
   },
   {
     "login": "Gogul09",
@@ -12695,7 +13601,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 907,
-    "score": 364
+    "score": 364,
+    "globalRank": 11909
   },
   {
     "login": "praptisharma28",
@@ -12709,7 +13616,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 908,
-    "score": 1239
+    "score": 1239,
+    "globalRank": 11939
   },
   {
     "login": "Vasanthengineer4949",
@@ -12723,7 +13631,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 909,
-    "score": 361
+    "score": 361,
+    "globalRank": 11940
   },
   {
     "login": "sakshi-choudhary",
@@ -12737,7 +13646,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 910,
-    "score": 375
+    "score": 375,
+    "globalRank": 11986
   },
   {
     "login": "mdsaban",
@@ -12751,7 +13661,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 911,
-    "score": 1912
+    "score": 1912,
+    "globalRank": 11987
   },
   {
     "login": "aahnik",
@@ -12765,7 +13676,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 912,
-    "score": 454
+    "score": 454,
+    "globalRank": 11988
   },
   {
     "login": "MakeItEasyDev",
@@ -12779,7 +13691,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 913,
-    "score": 359
+    "score": 359,
+    "globalRank": 12028
   },
   {
     "login": "ft-mammoo",
@@ -12793,7 +13706,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 914,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 12029
   },
   {
     "login": "nishanthvijayan",
@@ -12807,7 +13721,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 915,
-    "score": 1871
+    "score": 1871,
+    "globalRank": 12075
   },
   {
     "login": "hmu35",
@@ -12821,7 +13736,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 916,
-    "score": 357
+    "score": 357,
+    "globalRank": 12113
   },
   {
     "login": "codeartisanlab",
@@ -12835,7 +13751,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 917,
-    "score": 381
+    "score": 381,
+    "globalRank": 12150
   },
   {
     "login": "haxzie",
@@ -12849,7 +13766,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 918,
-    "score": 4260
+    "score": 4260,
+    "globalRank": 12151
   },
   {
     "login": "mdfaizanaquil",
@@ -12863,7 +13781,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 919,
-    "score": 1374
+    "score": 1374,
+    "globalRank": 12179
   },
   {
     "login": "aryanc403",
@@ -12877,7 +13796,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 920,
-    "score": 354
+    "score": 354,
+    "globalRank": 12199
   },
   {
     "login": "anirudhmurali",
@@ -12891,7 +13811,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 921,
-    "score": 492
+    "score": 492,
+    "globalRank": 12200
   },
   {
     "login": "SudeepAcharjee",
@@ -12905,7 +13826,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 922,
-    "score": 1853
+    "score": 1853,
+    "globalRank": 12201
   },
   {
     "login": "abhirockzz",
@@ -12919,7 +13841,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 923,
-    "score": 558
+    "score": 558,
+    "globalRank": 12202
   },
   {
     "login": "lucifertrj",
@@ -12933,7 +13856,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 924,
-    "score": 748
+    "score": 748,
+    "globalRank": 12235
   },
   {
     "login": "Sulagna-Dutta-Roy",
@@ -12947,7 +13871,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 925,
-    "score": 373
+    "score": 373,
+    "globalRank": 12236
   },
   {
     "login": "Piyush64-bit",
@@ -12961,7 +13886,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 926,
-    "score": 720
+    "score": 720,
+    "globalRank": 12237
   },
   {
     "login": "DooMLoRD",
@@ -12975,7 +13901,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 927,
-    "score": 353
+    "score": 353,
+    "globalRank": 12238
   },
   {
     "login": "Aniket-Engg",
@@ -12989,7 +13916,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 928,
-    "score": 1582
+    "score": 1582,
+    "globalRank": 12239
   },
   {
     "login": "TutorJoes-Stanley",
@@ -13003,7 +13931,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 929,
-    "score": 355
+    "score": 355,
+    "globalRank": 12240
   },
   {
     "login": "CodingWallah",
@@ -13017,7 +13946,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 930,
-    "score": 353
+    "score": 353,
+    "globalRank": 12263
   },
   {
     "login": "VedantKhairnar",
@@ -13031,7 +13961,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 931,
-    "score": 426
+    "score": 426,
+    "globalRank": 12264
   },
   {
     "login": "farmantasleem",
@@ -13045,7 +13976,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 932,
-    "score": 992
+    "score": 992,
+    "globalRank": 12265
   },
   {
     "login": "kunaal438",
@@ -13059,7 +13991,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 933,
-    "score": 950
+    "score": 950,
+    "globalRank": 12297
   },
   {
     "login": "baijum",
@@ -13073,7 +14006,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 934,
-    "score": 1938
+    "score": 1938,
+    "globalRank": 12298
   },
   {
     "login": "ameerthehacker",
@@ -13087,7 +14021,8 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 935,
-    "score": 2074
+    "score": 2074,
+    "globalRank": 12299
   },
   {
     "login": "GraniteMask",
@@ -13101,6 +14036,7 @@
     "country": "india",
     "countryName": "India",
     "countryRank": 936,
-    "score": 533
+    "score": 533,
+    "globalRank": 12300
   }
 ]

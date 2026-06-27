@@ -1,8 +1,8 @@
 {
-  "totalDevelopers": 123072,
-  "totalCountries": 138,
-  "totalFollowers": 23655172,
-  "totalContributions": 109358601,
+  "totalDevelopers": 122146,
+  "totalCountries": 137,
+  "totalFollowers": 23142399,
+  "totalContributions": 108472690,
   "topCountries": [
     {
       "country": "sri lanka",
@@ -23,15 +23,15 @@
       "developerCount": 991
     },
     {
-      "country": "saudi arabia",
-      "geoName": "Saudi Arabia",
-      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
-      "developerCount": 990
-    },
-    {
       "country": "pakistan",
       "geoName": "Pakistan",
       "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+      "developerCount": 988
+    },
+    {
+      "country": "saudi arabia",
+      "geoName": "Saudi Arabia",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
       "developerCount": 988
     },
     {
@@ -205,5 +205,5 @@
       "globalRank": 10
     }
   ],
-  "lastUpdated": "2026-06-24T13:10:36.634Z"
+  "lastUpdated": "2026-06-27T17:18:15.734Z"
 }

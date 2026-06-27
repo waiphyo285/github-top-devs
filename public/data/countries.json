@@ -528,12 +528,6 @@
     "developerCount": 973
   },
   {
-    "country": "netherlands",
-    "geoName": "Netherlands",
-    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
-    "developerCount": 924
-  },
-  {
     "country": "new zealand",
     "geoName": "New Zealand",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
@@ -621,7 +615,7 @@
     "country": "romania",
     "geoName": "Romania",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
-    "developerCount": 957
+    "developerCount": 956
   },
   {
     "country": "russia",
@@ -639,19 +633,19 @@
     "country": "san marino",
     "geoName": "San Marino",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
-    "developerCount": 146
+    "developerCount": 150
   },
   {
     "country": "saudi arabia",
     "geoName": "Saudi Arabia",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
-    "developerCount": 990
+    "developerCount": 988
   },
   {
     "country": "senegal",
     "geoName": "Senegal",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
-    "developerCount": 925
+    "developerCount": 922
   },
   {
     "country": "serbia",

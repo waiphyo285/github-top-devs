@@ -11,7 +11,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 1,
-    "score": 12894
+    "score": 12894,
+    "globalRank": 166
   },
   {
     "login": "anthdm",
@@ -25,7 +26,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 2,
-    "score": 9388
+    "score": 9388,
+    "globalRank": 361
   },
   {
     "login": "driesvints",
@@ -39,7 +41,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 3,
-    "score": 8774
+    "score": 8774,
+    "globalRank": 419
   },
   {
     "login": "freekmurze",
@@ -53,7 +56,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 4,
-    "score": 11274
+    "score": 11274,
+    "globalRank": 465
   },
   {
     "login": "NielsRogge",
@@ -67,7 +71,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 5,
-    "score": 14584
+    "score": 14584,
+    "globalRank": 616
   },
   {
     "login": "JanDeDobbeleer",
@@ -81,7 +86,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 6,
-    "score": 5108
+    "score": 5108,
+    "globalRank": 682
   },
   {
     "login": "KevinDockx",
@@ -95,7 +101,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 7,
-    "score": 3261
+    "score": 3261,
+    "globalRank": 895
   },
   {
     "login": "snicoll",
@@ -109,7 +116,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 8,
-    "score": 9779
+    "score": 9779,
+    "globalRank": 1255
   },
   {
     "login": "RobinMalfait",
@@ -123,7 +131,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 9,
-    "score": 6277
+    "score": 6277,
+    "globalRank": 1560
   },
   {
     "login": "brendt",
@@ -137,7 +146,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 10,
-    "score": 3908
+    "score": 3908,
+    "globalRank": 1667
   },
   {
     "login": "CorentinJ",
@@ -151,7 +161,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 11,
-    "score": 2545
+    "score": 2545,
+    "globalRank": 1713
   },
   {
     "login": "jenssegers",
@@ -165,7 +176,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 12,
-    "score": 3735
+    "score": 3735,
+    "globalRank": 1914
   },
   {
     "login": "gillescastel",
@@ -179,7 +191,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 13,
-    "score": 1760
+    "score": 1760,
+    "globalRank": 1915
   },
   {
     "login": "bendc",
@@ -193,7 +206,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 14,
-    "score": 1734
+    "score": 1734,
+    "globalRank": 1960
   },
   {
     "login": "Yenthe666",
@@ -207,7 +221,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 15,
-    "score": 1864
+    "score": 1864,
+    "globalRank": 2196
   },
   {
     "login": "arthurvr",
@@ -221,7 +236,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 16,
-    "score": 1461
+    "score": 1461,
+    "globalRank": 2459
   },
   {
     "login": "hintjens",
@@ -235,7 +251,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 17,
-    "score": 1331
+    "score": 1331,
+    "globalRank": 2691
   },
   {
     "login": "glouppe",
@@ -249,7 +266,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 18,
-    "score": 1378
+    "score": 1378,
+    "globalRank": 3121
   },
   {
     "login": "erikdubois",
@@ -263,7 +281,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 19,
-    "score": 2856
+    "score": 2856,
+    "globalRank": 3199
   },
   {
     "login": "nWidart",
@@ -277,7 +296,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 20,
-    "score": 1430
+    "score": 1430,
+    "globalRank": 3324
   },
   {
     "login": "RubenVerborgh",
@@ -291,7 +311,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 21,
-    "score": 1673
+    "score": 1673,
+    "globalRank": 3410
   },
   {
     "login": "jestemAria",
@@ -305,7 +326,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 22,
-    "score": 1286
+    "score": 1286,
+    "globalRank": 3484
   },
   {
     "login": "GillCleeren",
@@ -319,7 +341,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 23,
-    "score": 1033
+    "score": 1033,
+    "globalRank": 3794
   },
   {
     "login": "sebastiandedeyne",
@@ -333,7 +356,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 24,
-    "score": 1239
+    "score": 1239,
+    "globalRank": 3801
   },
   {
     "login": "MichaelDeBoey",
@@ -347,7 +371,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 25,
-    "score": 2365
+    "score": 2365,
+    "globalRank": 4105
   },
   {
     "login": "fpodoo",
@@ -361,7 +386,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 26,
-    "score": 951
+    "score": 951,
+    "globalRank": 4287
   },
   {
     "login": "lucasb-eyer",
@@ -375,7 +401,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 27,
-    "score": 1843
+    "score": 1843,
+    "globalRank": 4353
   },
   {
     "login": "JiaoXianjun",
@@ -389,7 +416,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 28,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 4600
   },
   {
     "login": "elifbilgep",
@@ -403,7 +431,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 29,
-    "score": 1004
+    "score": 1004,
+    "globalRank": 4654
   },
   {
     "login": "bramus",
@@ -417,7 +446,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 30,
-    "score": 1419
+    "score": 1419,
+    "globalRank": 4685
   },
   {
     "login": "JeroenMols",
@@ -431,7 +461,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 31,
-    "score": 873
+    "score": 873,
+    "globalRank": 4794
   },
   {
     "login": "CarbonAeronautics",
@@ -445,7 +476,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 32,
-    "score": 855
+    "score": 855,
+    "globalRank": 4802
   },
   {
     "login": "maartenba",
@@ -459,7 +491,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 33,
-    "score": 4404
+    "score": 4404,
+    "globalRank": 4972
   },
   {
     "login": "jonathanslenders",
@@ -473,7 +506,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 34,
-    "score": 1400
+    "score": 1400,
+    "globalRank": 5128
   },
   {
     "login": "SamVerschueren",
@@ -487,7 +521,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 35,
-    "score": 871
+    "score": 871,
+    "globalRank": 5203
   },
   {
     "login": "timdeschryver",
@@ -501,7 +536,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 36,
-    "score": 1688
+    "score": 1688,
+    "globalRank": 5278
   },
   {
     "login": "rosa",
@@ -515,7 +551,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 37,
-    "score": 2039
+    "score": 2039,
+    "globalRank": 5690
   },
   {
     "login": "xryutaro",
@@ -529,7 +566,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 38,
-    "score": 1613
+    "score": 1613,
+    "globalRank": 5809
   },
   {
     "login": "JoviDeCroock",
@@ -543,7 +581,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 39,
-    "score": 5066
+    "score": 5066,
+    "globalRank": 5885
   },
   {
     "login": "holly-hacker",
@@ -557,7 +596,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 40,
-    "score": 1115
+    "score": 1115,
+    "globalRank": 6013
   },
   {
     "login": "mathiasverraes",
@@ -571,7 +611,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 41,
-    "score": 1080
+    "score": 1080,
+    "globalRank": 6217
   },
   {
     "login": "corelanc0d3r",
@@ -585,7 +626,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 42,
-    "score": 757
+    "score": 757,
+    "globalRank": 6228
   },
   {
     "login": "tomkerkhove",
@@ -599,7 +641,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 43,
-    "score": 1055
+    "score": 1055,
+    "globalRank": 6531
   },
   {
     "login": "boeledi",
@@ -613,7 +656,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 44,
-    "score": 631
+    "score": 631,
+    "globalRank": 6800
   },
   {
     "login": "radu-matei",
@@ -627,7 +671,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 45,
-    "score": 1678
+    "score": 1678,
+    "globalRank": 6834
   },
   {
     "login": "svlandeg",
@@ -641,7 +686,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 46,
-    "score": 1666
+    "score": 1666,
+    "globalRank": 6848
   },
   {
     "login": "jedi4ever",
@@ -655,7 +701,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 47,
-    "score": 721
+    "score": 721,
+    "globalRank": 6933
   },
   {
     "login": "AndrewRadev",
@@ -669,7 +716,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 48,
-    "score": 797
+    "score": 797,
+    "globalRank": 6959
   },
   {
     "login": "maleadt",
@@ -683,7 +731,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 49,
-    "score": 2572
+    "score": 2572,
+    "globalRank": 7072
   },
   {
     "login": "doegox",
@@ -697,7 +746,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 50,
-    "score": 1174
+    "score": 1174,
+    "globalRank": 7073
   },
   {
     "login": "ahmetozlu",
@@ -711,7 +761,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 51,
-    "score": 602
+    "score": 602,
+    "globalRank": 7110
   },
   {
     "login": "yorikvanhavre",
@@ -725,7 +776,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 52,
-    "score": 903
+    "score": 903,
+    "globalRank": 7351
   },
   {
     "login": "Savjee",
@@ -739,7 +791,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 53,
-    "score": 3258
+    "score": 3258,
+    "globalRank": 7427
   },
   {
     "login": "mantissa-",
@@ -753,7 +806,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 54,
-    "score": 568
+    "score": 568,
+    "globalRank": 7460
   },
   {
     "login": "MartijnCuppens",
@@ -767,7 +821,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 55,
-    "score": 576
+    "score": 576,
+    "globalRank": 7495
   },
   {
     "login": "estruyf",
@@ -781,7 +836,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 56,
-    "score": 6184
+    "score": 6184,
+    "globalRank": 7509
   },
   {
     "login": "lynn",
@@ -795,7 +851,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 57,
-    "score": 1818
+    "score": 1818,
+    "globalRank": 7571
   },
   {
     "login": "meyskens",
@@ -809,7 +866,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 58,
-    "score": 2937
+    "score": 2937,
+    "globalRank": 7841
   },
   {
     "login": "AlexVanderbist",
@@ -823,7 +881,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 59,
-    "score": 4293
+    "score": 4293,
+    "globalRank": 7880
   },
   {
     "login": "ge0ffrey",
@@ -837,7 +896,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 60,
-    "score": 731
+    "score": 731,
+    "globalRank": 7957
   },
   {
     "login": "bartjacobs",
@@ -851,7 +911,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 61,
-    "score": 2625
+    "score": 2625,
+    "globalRank": 7958
   },
   {
     "login": "plexus",
@@ -865,7 +926,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 62,
-    "score": 1227
+    "score": 1227,
+    "globalRank": 8214
   },
   {
     "login": "Tessil",
@@ -879,7 +941,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 63,
-    "score": 538
+    "score": 538,
+    "globalRank": 8273
   },
   {
     "login": "neuroprod",
@@ -893,7 +956,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 64,
-    "score": 1015
+    "score": 1015,
+    "globalRank": 8539
   },
   {
     "login": "waldo1001",
@@ -907,7 +971,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 65,
-    "score": 962
+    "score": 962,
+    "globalRank": 8756
   },
   {
     "login": "sleepy-monax",
@@ -921,7 +986,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 66,
-    "score": 1739
+    "score": 1739,
+    "globalRank": 8776
   },
   {
     "login": "probberechts",
@@ -935,7 +1001,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 67,
-    "score": 839
+    "score": 839,
+    "globalRank": 9269
   },
   {
     "login": "xme",
@@ -949,7 +1016,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 68,
-    "score": 453
+    "score": 453,
+    "globalRank": 9436
   },
   {
     "login": "nomisRev",
@@ -963,7 +1031,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 69,
-    "score": 1708
+    "score": 1708,
+    "globalRank": 9461
   },
   {
     "login": "jleclanche",
@@ -977,7 +1046,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 70,
-    "score": 2987
+    "score": 2987,
+    "globalRank": 9652
   },
   {
     "login": "wdecoster",
@@ -991,7 +1061,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 71,
-    "score": 1335
+    "score": 1335,
+    "globalRank": 9744
   },
   {
     "login": "DeMoorJasper",
@@ -1005,7 +1076,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 72,
-    "score": 4213
+    "score": 4213,
+    "globalRank": 9745
   },
   {
     "login": "sleeyax",
@@ -1019,7 +1091,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 73,
-    "score": 3597
+    "score": 3597,
+    "globalRank": 9840
   },
   {
     "login": "unixfox",
@@ -1033,7 +1106,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 74,
-    "score": 1201
+    "score": 1201,
+    "globalRank": 9868
   },
   {
     "login": "gcp",
@@ -1047,7 +1121,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 75,
-    "score": 1218
+    "score": 1218,
+    "globalRank": 9869
   },
   {
     "login": "cecton",
@@ -1061,7 +1136,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 76,
-    "score": 2364
+    "score": 2364,
+    "globalRank": 10218
   },
   {
     "login": "g00glen00b",
@@ -1075,7 +1151,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 77,
-    "score": 610
+    "score": 610,
+    "globalRank": 10359
   },
   {
     "login": "Forceflow",
@@ -1089,7 +1166,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 78,
-    "score": 410
+    "score": 410,
+    "globalRank": 10607
   },
   {
     "login": "jvandemo",
@@ -1103,7 +1181,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 79,
-    "score": 439
+    "score": 439,
+    "globalRank": 10632
   },
   {
     "login": "ElianCodes",
@@ -1117,7 +1196,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 80,
-    "score": 3340
+    "score": 3340,
+    "globalRank": 10659
   },
   {
     "login": "burtenshaw",
@@ -1131,7 +1211,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 81,
-    "score": 2540
+    "score": 2540,
+    "globalRank": 10744
   },
   {
     "login": "ged-odoo",
@@ -1145,7 +1226,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 82,
-    "score": 635
+    "score": 635,
+    "globalRank": 10796
   },
   {
     "login": "Amine-Smahi",
@@ -1159,7 +1241,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 83,
-    "score": 544
+    "score": 544,
+    "globalRank": 10797
   },
   {
     "login": "wimdeblauwe",
@@ -1173,7 +1256,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 84,
-    "score": 700
+    "score": 700,
+    "globalRank": 10822
   },
   {
     "login": "ja7ad",
@@ -1187,7 +1271,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 85,
-    "score": 3371
+    "score": 3371,
+    "globalRank": 10823
   },
   {
     "login": "riasvdv",
@@ -1201,7 +1286,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 86,
-    "score": 2759
+    "score": 2759,
+    "globalRank": 10874
   },
   {
     "login": "lrz",
@@ -1215,7 +1301,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 87,
-    "score": 377
+    "score": 377,
+    "globalRank": 11421
   },
   {
     "login": "stephansturges",
@@ -1229,7 +1316,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 88,
-    "score": 1040
+    "score": 1040,
+    "globalRank": 11422
   },
   {
     "login": "sbidoul",
@@ -1243,7 +1331,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 89,
-    "score": 1479
+    "score": 1479,
+    "globalRank": 11551
   },
   {
     "login": "Felix-Web-Dev",
@@ -1257,7 +1346,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 90,
-    "score": 367
+    "score": 367,
+    "globalRank": 11696
   },
   {
     "login": "elgemmy",
@@ -1271,7 +1361,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 91,
-    "score": 471
+    "score": 471,
+    "globalRank": 11923
   },
   {
     "login": "frederikme",
@@ -1285,7 +1376,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 92,
-    "score": 359
+    "score": 359,
+    "globalRank": 12013
   },
   {
     "login": "Jdmbs",
@@ -1299,7 +1391,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 93,
-    "score": 358
+    "score": 358,
+    "globalRank": 12055
   },
   {
     "login": "wardpeet",
@@ -1313,7 +1406,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 94,
-    "score": 3575
+    "score": 3575,
+    "globalRank": 12056
   },
   {
     "login": "PinkDraconian",
@@ -1327,7 +1421,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 95,
-    "score": 716
+    "score": 716,
+    "globalRank": 12225
   },
   {
     "login": "RaoufGhrissi",
@@ -1341,7 +1436,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 96,
-    "score": 586
+    "score": 586,
+    "globalRank": 12254
   },
   {
     "login": "emres",
@@ -1355,7 +1451,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 97,
-    "score": 354
+    "score": 354,
+    "globalRank": 12376
   },
   {
     "login": "wiltonribeiro",
@@ -1369,7 +1466,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 98,
-    "score": 646
+    "score": 646,
+    "globalRank": 12457
   },
   {
     "login": "SHAHFAISAL80",
@@ -1383,7 +1481,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 99,
-    "score": 393
+    "score": 393,
+    "globalRank": 12487
   },
   {
     "login": "zbeyens",
@@ -1397,7 +1496,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 100,
-    "score": 3070
+    "score": 3070,
+    "globalRank": 12586
   },
   {
     "login": "amigrave",
@@ -1411,7 +1511,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 101,
-    "score": 607
+    "score": 607,
+    "globalRank": 12624
   },
   {
     "login": "Aqro",
@@ -1425,7 +1526,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 102,
-    "score": 339
+    "score": 339,
+    "globalRank": 12698
   },
   {
     "login": "willemvb",
@@ -1439,7 +1541,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 103,
-    "score": 339
+    "score": 339,
+    "globalRank": 12699
   },
   {
     "login": "Djohnnie",
@@ -1453,7 +1556,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 104,
-    "score": 987
+    "score": 987,
+    "globalRank": 12975
   },
   {
     "login": "KommuSoft",
@@ -1467,7 +1571,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 105,
-    "score": 1052
+    "score": 1052,
+    "globalRank": 13010
   },
   {
     "login": "mariusandra",
@@ -1481,7 +1586,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 106,
-    "score": 2446
+    "score": 2446,
+    "globalRank": 13046
   },
   {
     "login": "fawazsammani",
@@ -1495,7 +1601,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 107,
-    "score": 474
+    "score": 474,
+    "globalRank": 13047
   },
   {
     "login": "darobin",
@@ -1509,7 +1616,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 108,
-    "score": 466
+    "score": 466,
+    "globalRank": 13150
   },
   {
     "login": "wblut",
@@ -1523,7 +1631,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 109,
-    "score": 320
+    "score": 320,
+    "globalRank": 13383
   },
   {
     "login": "goffinet",
@@ -1537,7 +1646,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 110,
-    "score": 566
+    "score": 566,
+    "globalRank": 13384
   },
   {
     "login": "mehd-io",
@@ -1551,7 +1661,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 111,
-    "score": 1744
+    "score": 1744,
+    "globalRank": 13385
   },
   {
     "login": "honoki",
@@ -1565,7 +1676,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 112,
-    "score": 404
+    "score": 404,
+    "globalRank": 13415
   },
   {
     "login": "rubensworks",
@@ -1579,7 +1691,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 113,
-    "score": 4882
+    "score": 4882,
+    "globalRank": 13497
   },
   {
     "login": "xdamman",
@@ -1593,7 +1706,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 114,
-    "score": 747
+    "score": 747,
+    "globalRank": 13762
   },
   {
     "login": "blegat",
@@ -1607,7 +1721,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 115,
-    "score": 2273
+    "score": 2273,
+    "globalRank": 13763
   },
   {
     "login": "Jutho",
@@ -1621,7 +1736,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 116,
-    "score": 695
+    "score": 695,
+    "globalRank": 13797
   },
   {
     "login": "fniessen",
@@ -1635,7 +1751,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 117,
-    "score": 321
+    "score": 321,
+    "globalRank": 14061
   },
   {
     "login": "bramvbilsen",
@@ -1649,7 +1766,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 118,
-    "score": 3464
+    "score": 3464,
+    "globalRank": 14111
   },
   {
     "login": "rubenvanassche",
@@ -1663,7 +1781,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 119,
-    "score": 1670
+    "score": 1670,
+    "globalRank": 14112
   },
   {
     "login": "amine0110",
@@ -1677,7 +1796,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 120,
-    "score": 1479
+    "score": 1479,
+    "globalRank": 14250
   },
   {
     "login": "leny",
@@ -1691,7 +1811,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 121,
-    "score": 4185
+    "score": 4185,
+    "globalRank": 14251
   },
   {
     "login": "XamlBrewer",
@@ -1705,7 +1826,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 122,
-    "score": 299
+    "score": 299,
+    "globalRank": 14252
   },
   {
     "login": "andypetrella",
@@ -1719,7 +1841,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 123,
-    "score": 2192
+    "score": 2192,
+    "globalRank": 14338
   },
   {
     "login": "asassoye",
@@ -1733,7 +1856,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 124,
-    "score": 308
+    "score": 308,
+    "globalRank": 14518
   },
   {
     "login": "9elmaz9",
@@ -1747,7 +1871,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 125,
-    "score": 921
+    "score": 921,
+    "globalRank": 14887
   },
   {
     "login": "tmds",
@@ -1761,7 +1886,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 126,
-    "score": 802
+    "score": 802,
+    "globalRank": 14927
   },
   {
     "login": "Mafiasource",
@@ -1775,7 +1901,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 127,
-    "score": 423
+    "score": 423,
+    "globalRank": 15206
   },
   {
     "login": "wme7",
@@ -1789,7 +1916,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 128,
-    "score": 465
+    "score": 465,
+    "globalRank": 15207
   },
   {
     "login": "tobrun",
@@ -1803,7 +1931,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 129,
-    "score": 845
+    "score": 845,
+    "globalRank": 15260
   },
   {
     "login": "moodymudskipper",
@@ -1817,7 +1946,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 130,
-    "score": 1086
+    "score": 1086,
+    "globalRank": 15261
   },
   {
     "login": "wimleers",
@@ -1831,7 +1961,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 131,
-    "score": 284
+    "score": 284,
+    "globalRank": 15472
   },
   {
     "login": "benbovy",
@@ -1845,7 +1976,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 132,
-    "score": 524
+    "score": 524,
+    "globalRank": 15509
   },
   {
     "login": "DragonBe",
@@ -1859,7 +1991,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 133,
-    "score": 504
+    "score": 504,
+    "globalRank": 15557
   },
   {
     "login": "gjbex",
@@ -1873,7 +2006,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 134,
-    "score": 19641
+    "score": 19641,
+    "globalRank": 15715
   },
   {
     "login": "Julien00859",
@@ -1887,7 +2021,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 135,
-    "score": 749
+    "score": 749,
+    "globalRank": 15769
   },
   {
     "login": "peterroelants",
@@ -1901,7 +2036,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 136,
-    "score": 303
+    "score": 303,
+    "globalRank": 15870
   },
   {
     "login": "lrq3000",
@@ -1915,7 +2051,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 137,
-    "score": 603
+    "score": 603,
+    "globalRank": 15927
   },
   {
     "login": "pietercolpaert",
@@ -1929,7 +2066,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 138,
-    "score": 989
+    "score": 989,
+    "globalRank": 15928
   },
   {
     "login": "jeroendesloovere",
@@ -1943,7 +2081,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 139,
-    "score": 287
+    "score": 287,
+    "globalRank": 15986
   },
   {
     "login": "mempirate",
@@ -1957,7 +2096,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 140,
-    "score": 2099
+    "score": 2099,
+    "globalRank": 16251
   },
   {
     "login": "casperiv0",
@@ -1971,7 +2111,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 141,
-    "score": 5780
+    "score": 5780,
+    "globalRank": 16252
   },
   {
     "login": "maxvoltar",
@@ -1985,7 +2126,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 142,
-    "score": 506
+    "score": 506,
+    "globalRank": 16253
   },
   {
     "login": "nyamsprod",
@@ -1999,7 +2141,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 143,
-    "score": 2091
+    "score": 2091,
+    "globalRank": 16475
   },
   {
     "login": "jansenbe",
@@ -2013,7 +2156,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 144,
-    "score": 793
+    "score": 793,
+    "globalRank": 16577
   },
   {
     "login": "Plancke",
@@ -2027,7 +2171,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 145,
-    "score": 1212
+    "score": 1212,
+    "globalRank": 16764
   },
   {
     "login": "duggytuxy",
@@ -2041,7 +2186,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 146,
-    "score": 2195
+    "score": 2195,
+    "globalRank": 16812
   },
   {
     "login": "geertu",
@@ -2055,7 +2201,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 147,
-    "score": 530
+    "score": 530,
+    "globalRank": 16928
   },
   {
     "login": "lefred",
@@ -2069,7 +2216,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 148,
-    "score": 428
+    "score": 428,
+    "globalRank": 16972
   },
   {
     "login": "norswap",
@@ -2083,7 +2231,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 149,
-    "score": 1678
+    "score": 1678,
+    "globalRank": 17070
   },
   {
     "login": "koying",
@@ -2097,7 +2246,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 150,
-    "score": 263
+    "score": 263,
+    "globalRank": 17109
   },
   {
     "login": "abiggerhammer",
@@ -2111,7 +2261,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 151,
-    "score": 242
+    "score": 242,
+    "globalRank": 17110
   },
   {
     "login": "simongeilfus",
@@ -2125,7 +2276,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 152,
-    "score": 266
+    "score": 266,
+    "globalRank": 17161
   },
   {
     "login": "KrisBuytaert",
@@ -2139,7 +2291,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 153,
-    "score": 291
+    "score": 291,
+    "globalRank": 17214
   },
   {
     "login": "suzanbaert",
@@ -2153,7 +2306,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 154,
-    "score": 238
+    "score": 238,
+    "globalRank": 17396
   },
   {
     "login": "aiXander",
@@ -2167,7 +2321,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 155,
-    "score": 1501
+    "score": 1501,
+    "globalRank": 17507
   },
   {
     "login": "gillesdemey",
@@ -2181,7 +2336,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 156,
-    "score": 1357
+    "score": 1357,
+    "globalRank": 17508
   },
   {
     "login": "fdb",
@@ -2195,7 +2351,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 157,
-    "score": 2091
+    "score": 2091,
+    "globalRank": 17509
   },
   {
     "login": "AdrianMrn",
@@ -2209,7 +2366,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 158,
-    "score": 999
+    "score": 999,
+    "globalRank": 17571
   },
   {
     "login": "GlenDC",
@@ -2223,7 +2381,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 159,
-    "score": 2909
+    "score": 2909,
+    "globalRank": 17572
   },
   {
     "login": "kchapelier",
@@ -2237,7 +2396,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 160,
-    "score": 234
+    "score": 234,
+    "globalRank": 17627
   },
   {
     "login": "Laymer",
@@ -2251,7 +2411,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 161,
-    "score": 257
+    "score": 257,
+    "globalRank": 17628
   },
   {
     "login": "RobinHerbots",
@@ -2265,7 +2426,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 162,
-    "score": 244
+    "score": 244,
+    "globalRank": 17743
   },
   {
     "login": "MarieLynneBlock",
@@ -2279,7 +2441,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 163,
-    "score": 281
+    "score": 281,
+    "globalRank": 17744
   },
   {
     "login": "jlaine",
@@ -2293,7 +2456,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 164,
-    "score": 828
+    "score": 828,
+    "globalRank": 17800
   },
   {
     "login": "BlackIkeEagle",
@@ -2307,7 +2471,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 165,
-    "score": 403
+    "score": 403,
+    "globalRank": 17899
   },
   {
     "login": "johanvos",
@@ -2321,7 +2486,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 166,
-    "score": 2295
+    "score": 2295,
+    "globalRank": 17900
   },
   {
     "login": "StephaneDelcroix",
@@ -2335,7 +2501,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 167,
-    "score": 947
+    "score": 947,
+    "globalRank": 17947
   },
   {
     "login": "Clooos",
@@ -2349,7 +2516,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 168,
-    "score": 525
+    "score": 525,
+    "globalRank": 17948
   },
   {
     "login": "GenericName1911",
@@ -2363,7 +2531,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 169,
-    "score": 439
+    "score": 439,
+    "globalRank": 17949
   },
   {
     "login": "ha7ilm",
@@ -2377,7 +2546,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 170,
-    "score": 233
+    "score": 233,
+    "globalRank": 18007
   },
   {
     "login": "LnL7",
@@ -2391,7 +2561,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 171,
-    "score": 1840
+    "score": 1840,
+    "globalRank": 18218
   },
   {
     "login": "FraPochetti",
@@ -2405,7 +2576,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 172,
-    "score": 665
+    "score": 665,
+    "globalRank": 18219
   },
   {
     "login": "matt77hias",
@@ -2419,7 +2591,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 173,
-    "score": 666
+    "score": 666,
+    "globalRank": 18270
   },
   {
     "login": "JorenSix",
@@ -2433,7 +2606,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 174,
-    "score": 432
+    "score": 432,
+    "globalRank": 18404
   },
   {
     "login": "mattcasters",
@@ -2447,7 +2621,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 175,
-    "score": 351
+    "score": 351,
+    "globalRank": 18405
   },
   {
     "login": "nicoverbruggen",
@@ -2461,7 +2636,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 176,
-    "score": 1171
+    "score": 1171,
+    "globalRank": 18406
   },
   {
     "login": "yreynhout",
@@ -2475,7 +2651,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 177,
-    "score": 272
+    "score": 272,
+    "globalRank": 18407
   },
   {
     "login": "rubenv",
@@ -2489,7 +2666,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 178,
-    "score": 1232
+    "score": 1232,
+    "globalRank": 18465
   },
   {
     "login": "Mamboleoo",
@@ -2503,7 +2681,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 179,
-    "score": 217
+    "score": 217,
+    "globalRank": 18521
   },
   {
     "login": "vincentcox",
@@ -2517,7 +2696,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 180,
-    "score": 251
+    "score": 251,
+    "globalRank": 18584
   },
   {
     "login": "boegel",
@@ -2531,7 +2711,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 181,
-    "score": 5690
+    "score": 5690,
+    "globalRank": 18651
   },
   {
     "login": "ThomasLecocq",
@@ -2545,7 +2726,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 182,
-    "score": 356
+    "score": 356,
+    "globalRank": 18832
   },
   {
     "login": "jovanbulck",
@@ -2559,7 +2741,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 183,
-    "score": 346
+    "score": 346,
+    "globalRank": 18980
   },
   {
     "login": "JF002",
@@ -2573,7 +2756,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 184,
-    "score": 243
+    "score": 243,
+    "globalRank": 18981
   },
   {
     "login": "simon-tiger",
@@ -2587,7 +2771,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 185,
-    "score": 210
+    "score": 210,
+    "globalRank": 18982
   },
   {
     "login": "Jellevermandere",
@@ -2601,7 +2786,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 186,
-    "score": 211
+    "score": 211,
+    "globalRank": 19034
   },
   {
     "login": "matrixise",
@@ -2615,7 +2801,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 187,
-    "score": 1811
+    "score": 1811,
+    "globalRank": 19100
   },
   {
     "login": "francois-rozet",
@@ -2629,7 +2816,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 188,
-    "score": 1384
+    "score": 1384,
+    "globalRank": 19101
   },
   {
     "login": "rojinakashefi",
@@ -2643,7 +2831,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 189,
-    "score": 269
+    "score": 269,
+    "globalRank": 19168
   },
   {
     "login": "wouterverweirder",
@@ -2657,7 +2846,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 190,
-    "score": 1433
+    "score": 1433,
+    "globalRank": 19169
   },
   {
     "login": "cudeso",
@@ -2671,7 +2861,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 191,
-    "score": 554
+    "score": 554,
+    "globalRank": 19405
   },
   {
     "login": "steffest",
@@ -2685,7 +2876,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 192,
-    "score": 270
+    "score": 270,
+    "globalRank": 19479
   },
   {
     "login": "AntoineSoetewey",
@@ -2699,7 +2891,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 193,
-    "score": 712
+    "score": 712,
+    "globalRank": 19546
   },
   {
     "login": "quentinhocde",
@@ -2713,7 +2906,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 194,
-    "score": 240
+    "score": 240,
+    "globalRank": 19623
   },
   {
     "login": "dries-c",
@@ -2727,7 +2921,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 195,
-    "score": 1645
+    "score": 1645,
+    "globalRank": 19685
   },
   {
     "login": "markakash",
@@ -2741,7 +2936,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 196,
-    "score": 1312
+    "score": 1312,
+    "globalRank": 19835
   },
   {
     "login": "brechtvl",
@@ -2755,7 +2951,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 197,
-    "score": 369
+    "score": 369,
+    "globalRank": 19836
   },
   {
     "login": "gijsroge",
@@ -2769,7 +2966,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 198,
-    "score": 319
+    "score": 319,
+    "globalRank": 19837
   },
   {
     "login": "AlexisTM",
@@ -2783,7 +2981,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 199,
-    "score": 1004
+    "score": 1004,
+    "globalRank": 19913
   },
   {
     "login": "jwijffels",
@@ -2797,7 +2996,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 200,
-    "score": 508
+    "score": 508,
+    "globalRank": 19914
   },
   {
     "login": "eschnou",
@@ -2811,7 +3011,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 201,
-    "score": 1275
+    "score": 1275,
+    "globalRank": 19990
   },
   {
     "login": "Philmod",
@@ -2825,7 +3026,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 202,
-    "score": 1786
+    "score": 1786,
+    "globalRank": 19991
   },
   {
     "login": "wouterds",
@@ -2839,7 +3041,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 203,
-    "score": 8412
+    "score": 8412,
+    "globalRank": 20131
   },
   {
     "login": "tcoopman",
@@ -2853,7 +3056,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 204,
-    "score": 266
+    "score": 266,
+    "globalRank": 20132
   },
   {
     "login": "brechtsanders",
@@ -2867,7 +3071,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 205,
-    "score": 1342
+    "score": 1342,
+    "globalRank": 20195
   },
   {
     "login": "gbaeke",
@@ -2881,7 +3086,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 206,
-    "score": 541
+    "score": 541,
+    "globalRank": 20196
   },
   {
     "login": "deepcloudlabs",
@@ -2895,7 +3101,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 207,
-    "score": 1330
+    "score": 1330,
+    "globalRank": 20268
   },
   {
     "login": "IgnaceMaes",
@@ -2909,7 +3116,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 208,
-    "score": 5034
+    "score": 5034,
+    "globalRank": 20269
   },
   {
     "login": "karygauss03",
@@ -2923,7 +3131,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 209,
-    "score": 484
+    "score": 484,
+    "globalRank": 20340
   },
   {
     "login": "rmarx",
@@ -2937,7 +3146,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 210,
-    "score": 286
+    "score": 286,
+    "globalRank": 20409
   },
   {
     "login": "filipsch",
@@ -2951,7 +3161,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 211,
-    "score": 377
+    "score": 377,
+    "globalRank": 20482
   },
   {
     "login": "alexanderameye",
@@ -2965,7 +3176,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 212,
-    "score": 806
+    "score": 806,
+    "globalRank": 20483
   },
   {
     "login": "seutje",
@@ -2979,7 +3191,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 213,
-    "score": 4087
+    "score": 4087,
+    "globalRank": 20567
   },
   {
     "login": "lailabougria",
@@ -2993,7 +3206,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 214,
-    "score": 908
+    "score": 908,
+    "globalRank": 20800
   },
   {
     "login": "jgillis",
@@ -3007,7 +3221,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 215,
-    "score": 1093
+    "score": 1093,
+    "globalRank": 20801
   },
   {
     "login": "dsebastien",
@@ -3021,7 +3236,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 216,
-    "score": 4772
+    "score": 4772,
+    "globalRank": 20895
   },
   {
     "login": "bnjjj",
@@ -3035,7 +3251,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 217,
-    "score": 765
+    "score": 765,
+    "globalRank": 21179
   },
   {
     "login": "davideas",
@@ -3049,7 +3266,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 218,
-    "score": 180
+    "score": 180,
+    "globalRank": 21358
   },
   {
     "login": "btj",
@@ -3063,7 +3281,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 219,
-    "score": 989
+    "score": 989,
+    "globalRank": 21451
   },
   {
     "login": "willemdh",
@@ -3077,7 +3296,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 220,
-    "score": 192
+    "score": 192,
+    "globalRank": 21452
   },
   {
     "login": "octonato",
@@ -3091,7 +3311,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 221,
-    "score": 1540
+    "score": 1540,
+    "globalRank": 21453
   },
   {
     "login": "roderik",
@@ -3105,7 +3326,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 222,
-    "score": 7170
+    "score": 7170,
+    "globalRank": 21529
   },
   {
     "login": "andreascreten",
@@ -3119,7 +3341,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 223,
-    "score": 199
+    "score": 199,
+    "globalRank": 21530
   },
   {
     "login": "stephanj",
@@ -3133,7 +3356,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 224,
-    "score": 983
+    "score": 983,
+    "globalRank": 21531
   },
   {
     "login": "m4tt72",
@@ -3147,7 +3371,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 225,
-    "score": 4737
+    "score": 4737,
+    "globalRank": 21811
   },
   {
     "login": "icidasset",
@@ -3161,7 +3386,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 226,
-    "score": 362
+    "score": 362,
+    "globalRank": 22021
   },
   {
     "login": "JanVanHaaren",
@@ -3175,7 +3401,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 227,
-    "score": 170
+    "score": 170,
+    "globalRank": 22261
   },
   {
     "login": "koenvervloesem",
@@ -3189,7 +3416,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 228,
-    "score": 172
+    "score": 172,
+    "globalRank": 22385
   },
   {
     "login": "belgattitude",
@@ -3203,7 +3431,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 229,
-    "score": 2033
+    "score": 2033,
+    "globalRank": 22386
   },
   {
     "login": "sandrinodimattia",
@@ -3217,7 +3446,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 230,
-    "score": 878
+    "score": 878,
+    "globalRank": 22490
   },
   {
     "login": "ValemVR",
@@ -3231,7 +3461,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 231,
-    "score": 192
+    "score": 192,
+    "globalRank": 22491
   },
   {
     "login": "driaug",
@@ -3245,7 +3476,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 232,
-    "score": 2672
+    "score": 2672,
+    "globalRank": 22599
   },
   {
     "login": "ibell",
@@ -3259,7 +3491,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 233,
-    "score": 652
+    "score": 652,
+    "globalRank": 22600
   },
   {
     "login": "xdoubleu",
@@ -3273,7 +3506,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 234,
-    "score": 401
+    "score": 401,
+    "globalRank": 22722
   },
   {
     "login": "anymaniax",
@@ -3287,7 +3521,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 235,
-    "score": 422
+    "score": 422,
+    "globalRank": 22723
   },
   {
     "login": "Lrifton92",
@@ -3301,7 +3536,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 236,
-    "score": 278
+    "score": 278,
+    "globalRank": 22724
   },
   {
     "login": "ColinDuquesnoy",
@@ -3315,7 +3551,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 237,
-    "score": 166
+    "score": 166,
+    "globalRank": 22725
   },
   {
     "login": "hazcod",
@@ -3329,7 +3566,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 238,
-    "score": 660
+    "score": 660,
+    "globalRank": 22826
   },
   {
     "login": "AdriVanHoudt",
@@ -3343,7 +3581,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 239,
-    "score": 4607
+    "score": 4607,
+    "globalRank": 22827
   },
   {
     "login": "techwithpat",
@@ -3357,7 +3596,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 240,
-    "score": 178
+    "score": 178,
+    "globalRank": 22947
   },
   {
     "login": "nicolas-van",
@@ -3371,7 +3611,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 241,
-    "score": 183
+    "score": 183,
+    "globalRank": 22948
   },
   {
     "login": "BartVandewoestyne",
@@ -3385,7 +3626,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 242,
-    "score": 188
+    "score": 188,
+    "globalRank": 22949
   },
   {
     "login": "n3odym3",
@@ -3399,7 +3641,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 243,
-    "score": 174
+    "score": 174,
+    "globalRank": 22950
   },
   {
     "login": "jorisschellekens",
@@ -3413,7 +3656,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 244,
-    "score": 800
+    "score": 800,
+    "globalRank": 23069
   },
   {
     "login": "FDelporte",
@@ -3427,7 +3671,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 245,
-    "score": 1862
+    "score": 1862,
+    "globalRank": 23070
   },
   {
     "login": "Wolfr",
@@ -3441,7 +3686,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 246,
-    "score": 706
+    "score": 706,
+    "globalRank": 23201
   },
   {
     "login": "pixeline",
@@ -3455,7 +3701,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 247,
-    "score": 4432
+    "score": 4432,
+    "globalRank": 23202
   },
   {
     "login": "tijldeneut",
@@ -3469,7 +3716,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 248,
-    "score": 255
+    "score": 255,
+    "globalRank": 23315
   },
   {
     "login": "MichielDerhaeg",
@@ -3483,7 +3731,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 249,
-    "score": 270
+    "score": 270,
+    "globalRank": 23316
   },
   {
     "login": "aeonSolutions",
@@ -3497,7 +3746,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 250,
-    "score": 161
+    "score": 161,
+    "globalRank": 23317
   },
   {
     "login": "sdebruyn",
@@ -3511,7 +3761,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 251,
-    "score": 837
+    "score": 837,
+    "globalRank": 23437
   },
   {
     "login": "ndossche",
@@ -3525,7 +3776,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 252,
-    "score": 5840
+    "score": 5840,
+    "globalRank": 23556
   },
   {
     "login": "BramVanroy",
@@ -3539,7 +3791,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 253,
-    "score": 696
+    "score": 696,
+    "globalRank": 23557
   },
   {
     "login": "luc-tielen",
@@ -3553,7 +3806,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 254,
-    "score": 3314
+    "score": 3314,
+    "globalRank": 23677
   },
   {
     "login": "yrosseel",
@@ -3567,7 +3821,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 255,
-    "score": 352
+    "score": 352,
+    "globalRank": 23678
   },
   {
     "login": "paolo-de-rosa",
@@ -3581,7 +3836,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 256,
-    "score": 905
+    "score": 905,
+    "globalRank": 23679
   },
   {
     "login": "JoniVR",
@@ -3595,7 +3851,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 257,
-    "score": 183
+    "score": 183,
+    "globalRank": 23680
   },
   {
     "login": "tijsverkoyen",
@@ -3609,7 +3866,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 258,
-    "score": 596
+    "score": 596,
+    "globalRank": 23814
   },
   {
     "login": "sebastiaanluca",
@@ -3623,7 +3881,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 259,
-    "score": 7950
+    "score": 7950,
+    "globalRank": 23815
   },
   {
     "login": "gkouros",
@@ -3637,7 +3896,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 260,
-    "score": 286
+    "score": 286,
+    "globalRank": 23962
   },
   {
     "login": "NicolasBZN",
@@ -3651,7 +3911,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 261,
-    "score": 160
+    "score": 160,
+    "globalRank": 24214
   },
   {
     "login": "m0h4x",
@@ -3665,7 +3926,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 262,
-    "score": 158
+    "score": 158,
+    "globalRank": 24215
   },
   {
     "login": "dannywillems",
@@ -3679,7 +3941,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 263,
-    "score": 7510
+    "score": 7510,
+    "globalRank": 24216
   },
   {
     "login": "zoobab",
@@ -3693,7 +3956,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 264,
-    "score": 239
+    "score": 239,
+    "globalRank": 24356
   },
   {
     "login": "Depechie",
@@ -3707,7 +3971,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 265,
-    "score": 673
+    "score": 673,
+    "globalRank": 24357
   },
   {
     "login": "ecomdesignbe",
@@ -3721,7 +3986,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 266,
-    "score": 364
+    "score": 364,
+    "globalRank": 24358
   },
   {
     "login": "pdawyndt",
@@ -3735,7 +4001,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 267,
-    "score": 181
+    "score": 181,
+    "globalRank": 24359
   },
   {
     "login": "erickok",
@@ -3749,7 +4016,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 268,
-    "score": 160
+    "score": 160,
+    "globalRank": 24622
   },
   {
     "login": "debrouwere",
@@ -3763,7 +4031,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 269,
-    "score": 196
+    "score": 196,
+    "globalRank": 24623
   },
   {
     "login": "Alexander-Barth",
@@ -3777,7 +4046,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 270,
-    "score": 758
+    "score": 758,
+    "globalRank": 24624
   },
   {
     "login": "Janpot",
@@ -3791,7 +4061,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 271,
-    "score": 2377
+    "score": 2377,
+    "globalRank": 24625
   },
   {
     "login": "BenLauwens",
@@ -3805,7 +4076,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 272,
-    "score": 241
+    "score": 241,
+    "globalRank": 24626
   },
   {
     "login": "charliememory",
@@ -3819,7 +4091,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 273,
-    "score": 166
+    "score": 166,
+    "globalRank": 24761
   },
   {
     "login": "madnificent",
@@ -3833,7 +4106,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 274,
-    "score": 603
+    "score": 603,
+    "globalRank": 24762
   },
   {
     "login": "Utopiah",
@@ -3847,7 +4121,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 275,
-    "score": 255
+    "score": 255,
+    "globalRank": 24908
   },
   {
     "login": "ddewaele",
@@ -3861,7 +4136,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 276,
-    "score": 218
+    "score": 218,
+    "globalRank": 25166
   },
   {
     "login": "DerSchmale",
@@ -3875,7 +4151,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 277,
-    "score": 185
+    "score": 185,
+    "globalRank": 25167
   },
   {
     "login": "AzdineElJattari",
@@ -3889,7 +4166,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 278,
-    "score": 158
+    "score": 158,
+    "globalRank": 25304
   },
   {
     "login": "stephantul",
@@ -3903,7 +4181,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 279,
-    "score": 1138
+    "score": 1138,
+    "globalRank": 25440
   },
   {
     "login": "geoffreydhuyvetters",
@@ -3917,7 +4196,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 280,
-    "score": 146
+    "score": 146,
+    "globalRank": 25578
   },
   {
     "login": "ThijsFeryn",
@@ -3931,7 +4211,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 281,
-    "score": 273
+    "score": 273,
+    "globalRank": 25579
   },
   {
     "login": "Nikoms",
@@ -3945,7 +4226,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 282,
-    "score": 2614
+    "score": 2614,
+    "globalRank": 25580
   },
   {
     "login": "Ivo-Balbaert",
@@ -3959,7 +4241,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 283,
-    "score": 151
+    "score": 151,
+    "globalRank": 25732
   },
   {
     "login": "ti-mo",
@@ -3973,7 +4256,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 284,
-    "score": 780
+    "score": 780,
+    "globalRank": 25883
   },
   {
     "login": "MichielStock",
@@ -3987,7 +4271,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 285,
-    "score": 255
+    "score": 255,
+    "globalRank": 26042
   },
   {
     "login": "zeroeightysix",
@@ -4001,7 +4286,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 286,
-    "score": 549
+    "score": 549,
+    "globalRank": 26043
   },
   {
     "login": "cvandeplas",
@@ -4015,7 +4301,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 287,
-    "score": 441
+    "score": 441,
+    "globalRank": 26044
   },
   {
     "login": "cbeyls",
@@ -4029,7 +4316,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 288,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 26186
   },
   {
     "login": "simonech",
@@ -4043,7 +4331,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 289,
-    "score": 291
+    "score": 291,
+    "globalRank": 26187
   },
   {
     "login": "tivisse",
@@ -4057,7 +4346,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 290,
-    "score": 551
+    "score": 551,
+    "globalRank": 26188
   },
   {
     "login": "rcannood",
@@ -4071,7 +4361,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 291,
-    "score": 3151
+    "score": 3151,
+    "globalRank": 26189
   },
   {
     "login": "patrickallaert",
@@ -4085,7 +4376,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 292,
-    "score": 141
+    "score": 141,
+    "globalRank": 26190
   },
   {
     "login": "sebsan",
@@ -4099,7 +4391,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 293,
-    "score": 141
+    "score": 141,
+    "globalRank": 26351
   },
   {
     "login": "TheDauntless",
@@ -4113,7 +4406,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 294,
-    "score": 529
+    "score": 529,
+    "globalRank": 26352
   },
   {
     "login": "NEDJIMAbelgacem",
@@ -4127,7 +4421,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 295,
-    "score": 547
+    "score": 547,
+    "globalRank": 26511
   },
   {
     "login": "devoxx4kids",
@@ -4141,7 +4436,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 296,
-    "score": 137
+    "score": 137,
+    "globalRank": 26663
   },
   {
     "login": "obonaventure",
@@ -4155,7 +4451,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 297,
-    "score": 167
+    "score": 167,
+    "globalRank": 26664
   },
   {
     "login": "MattiasBuelens",
@@ -4169,7 +4466,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 298,
-    "score": 1552
+    "score": 1552,
+    "globalRank": 26821
   },
   {
     "login": "Chris00",
@@ -4183,7 +4481,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 299,
-    "score": 527
+    "score": 527,
+    "globalRank": 26822
   },
   {
     "login": "mikekestemont",
@@ -4197,7 +4496,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 300,
-    "score": 172
+    "score": 172,
+    "globalRank": 26823
   },
   {
     "login": "nathanvda",
@@ -4211,7 +4511,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 301,
-    "score": 983
+    "score": 983,
+    "globalRank": 26982
   },
   {
     "login": "phuijse",
@@ -4225,7 +4526,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 302,
-    "score": 496
+    "score": 496,
+    "globalRank": 26983
   },
   {
     "login": "bartbutenaers",
@@ -4239,7 +4541,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 303,
-    "score": 188
+    "score": 188,
+    "globalRank": 26984
   },
   {
     "login": "fd",
@@ -4253,7 +4556,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 304,
-    "score": 2492
+    "score": 2492,
+    "globalRank": 26985
   },
   {
     "login": "boblemarin",
@@ -4267,7 +4571,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 305,
-    "score": 154
+    "score": 154,
+    "globalRank": 27152
   },
   {
     "login": "samvloeberghs",
@@ -4281,7 +4586,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 306,
-    "score": 1626
+    "score": 1626,
+    "globalRank": 27153
   },
   {
     "login": "thierrymichel",
@@ -4295,7 +4601,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 307,
-    "score": 166
+    "score": 166,
+    "globalRank": 27328
   },
   {
     "login": "ephys",
@@ -4309,7 +4616,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 308,
-    "score": 214
+    "score": 214,
+    "globalRank": 27329
   },
   {
     "login": "gammasoft71",
@@ -4323,7 +4631,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 309,
-    "score": 5378
+    "score": 5378,
+    "globalRank": 27330
   },
   {
     "login": "nickjanssen",
@@ -4337,7 +4646,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 310,
-    "score": 154
+    "score": 154,
+    "globalRank": 27488
   },
   {
     "login": "cmoulliard",
@@ -4351,7 +4661,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 311,
-    "score": 2361
+    "score": 2361,
+    "globalRank": 27489
   },
   {
     "login": "Frenzie",
@@ -4365,7 +4676,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 312,
-    "score": 1191
+    "score": 1191,
+    "globalRank": 27490
   },
   {
     "login": "tvcutsem",
@@ -4379,7 +4691,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 313,
-    "score": 134
+    "score": 134,
+    "globalRank": 27491
   },
   {
     "login": "lucdekens",
@@ -4393,7 +4706,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 314,
-    "score": 132
+    "score": 132,
+    "globalRank": 27492
   },
   {
     "login": "peterdesmet",
@@ -4407,7 +4721,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 315,
-    "score": 2076
+    "score": 2076,
+    "globalRank": 27627
   },
   {
     "login": "delabassee",
@@ -4421,7 +4736,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 316,
-    "score": 590
+    "score": 590,
+    "globalRank": 27628
   },
   {
     "login": "Woomymy",
@@ -4435,7 +4751,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 317,
-    "score": 1089
+    "score": 1089,
+    "globalRank": 27629
   },
   {
     "login": "brunow",
@@ -4449,7 +4766,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 318,
-    "score": 131
+    "score": 131,
+    "globalRank": 27630
   },
   {
     "login": "helins",
@@ -4463,7 +4781,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 319,
-    "score": 373
+    "score": 373,
+    "globalRank": 27631
   },
   {
     "login": "Martinusbe",
@@ -4477,7 +4796,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 320,
-    "score": 131
+    "score": 131,
+    "globalRank": 27632
   },
   {
     "login": "MichielDeMey",
@@ -4491,7 +4811,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 321,
-    "score": 2103
+    "score": 2103,
+    "globalRank": 27798
   },
   {
     "login": "JoeriHermans",
@@ -4505,7 +4826,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 322,
-    "score": 1345
+    "score": 1345,
+    "globalRank": 27799
   },
   {
     "login": "frankpepermans",
@@ -4519,7 +4841,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 323,
-    "score": 887
+    "score": 887,
+    "globalRank": 28121
   },
   {
     "login": "bryanhonof",
@@ -4533,7 +4856,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 324,
-    "score": 562
+    "score": 562,
+    "globalRank": 28122
   },
   {
     "login": "ShakilAhmmed",
@@ -4547,7 +4871,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 325,
-    "score": 242
+    "score": 242,
+    "globalRank": 28123
   },
   {
     "login": "ddmkr",
@@ -4561,7 +4886,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 326,
-    "score": 776
+    "score": 776,
+    "globalRank": 28319
   },
   {
     "login": "elsmr",
@@ -4575,7 +4901,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 327,
-    "score": 970
+    "score": 970,
+    "globalRank": 28489
   },
   {
     "login": "aktau",
@@ -4589,7 +4916,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 328,
-    "score": 215
+    "score": 215,
+    "globalRank": 28683
   },
   {
     "login": "podiumdesu",
@@ -4603,7 +4931,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 329,
-    "score": 135
+    "score": 135,
+    "globalRank": 29056
   },
   {
     "login": "svenvc",
@@ -4617,7 +4946,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 330,
-    "score": 568
+    "score": 568,
+    "globalRank": 29253
   },
   {
     "login": "jslegers",
@@ -4631,7 +4961,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 331,
-    "score": 147
+    "score": 147,
+    "globalRank": 29254
   },
   {
     "login": "q-uint",
@@ -4645,7 +4976,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 332,
-    "score": 1099
+    "score": 1099,
+    "globalRank": 29255
   },
   {
     "login": "francisdb",
@@ -4659,7 +4991,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 333,
-    "score": 1012
+    "score": 1012,
+    "globalRank": 29430
   },
   {
     "login": "IraKorshunova",
@@ -4673,7 +5006,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 334,
-    "score": 120
+    "score": 120,
+    "globalRank": 29622
   },
   {
     "login": "stefanvd",
@@ -4687,7 +5021,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 335,
-    "score": 1875
+    "score": 1875,
+    "globalRank": 29623
   },
   {
     "login": "driesdepoorter",
@@ -4701,7 +5036,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 336,
-    "score": 822
+    "score": 822,
+    "globalRank": 29624
   },
   {
     "login": "frederik-jacques",
@@ -4715,7 +5051,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 337,
-    "score": 2029
+    "score": 2029,
+    "globalRank": 29625
   },
   {
     "login": "JosPolfliet",
@@ -4729,7 +5066,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 338,
-    "score": 501
+    "score": 501,
+    "globalRank": 29831
   },
   {
     "login": "stiiifff",
@@ -4743,7 +5081,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 339,
-    "score": 896
+    "score": 896,
+    "globalRank": 29832
   },
   {
     "login": "teddykishi",
@@ -4757,7 +5096,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 340,
-    "score": 122
+    "score": 122,
+    "globalRank": 29833
   },
   {
     "login": "l145dev",
@@ -4771,7 +5111,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 341,
-    "score": 766
+    "score": 766,
+    "globalRank": 29834
   },
   {
     "login": "PJB3005",
@@ -4785,7 +5126,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 342,
-    "score": 1727
+    "score": 1727,
+    "globalRank": 30026
   },
   {
     "login": "cybersecurity-dev",
@@ -4799,7 +5141,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 343,
-    "score": 2989
+    "score": 2989,
+    "globalRank": 30216
   },
   {
     "login": "yakudoo",
@@ -4813,7 +5156,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 344,
-    "score": 117
+    "score": 117,
+    "globalRank": 30217
   },
   {
     "login": "vankasteelj",
@@ -4827,7 +5171,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 345,
-    "score": 257
+    "score": 257,
+    "globalRank": 30218
   },
   {
     "login": "rahafaljundi",
@@ -4841,7 +5186,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 346,
-    "score": 117
+    "score": 117,
+    "globalRank": 30219
   },
   {
     "login": "barche",
@@ -4855,7 +5201,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 347,
-    "score": 350
+    "score": 350,
+    "globalRank": 30220
   },
   {
     "login": "tbalthazar",
@@ -4869,7 +5216,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 348,
-    "score": 236
+    "score": 236,
+    "globalRank": 30434
   },
   {
     "login": "yztongzhan",
@@ -4883,7 +5231,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 349,
-    "score": 117
+    "score": 117,
+    "globalRank": 30435
   },
   {
     "login": "kkostov",
@@ -4897,7 +5246,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 350,
-    "score": 1113
+    "score": 1113,
+    "globalRank": 30436
   },
   {
     "login": "ljacomet",
@@ -4911,7 +5261,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 351,
-    "score": 641
+    "score": 641,
+    "globalRank": 30663
   },
   {
     "login": "DeniKhalikov",
@@ -4925,7 +5276,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 352,
-    "score": 119
+    "score": 119,
+    "globalRank": 30890
   },
   {
     "login": "wdkeyser02",
@@ -4939,7 +5291,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 353,
-    "score": 246
+    "score": 246,
+    "globalRank": 30891
   },
   {
     "login": "oswaldoludwig",
@@ -4953,7 +5306,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 354,
-    "score": 137
+    "score": 137,
+    "globalRank": 30892
   },
   {
     "login": "qmfrederik",
@@ -4967,7 +5321,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 355,
-    "score": 725
+    "score": 725,
+    "globalRank": 30893
   },
   {
     "login": "danielemarinazzo",
@@ -4981,7 +5336,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 356,
-    "score": 147
+    "score": 147,
+    "globalRank": 31093
   },
   {
     "login": "pipauwel",
@@ -4995,7 +5351,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 357,
-    "score": 114
+    "score": 114,
+    "globalRank": 31094
   },
   {
     "login": "OyaCanli",
@@ -5009,7 +5366,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 358,
-    "score": 828
+    "score": 828,
+    "globalRank": 31095
   },
   {
     "login": "entropitor",
@@ -5023,7 +5381,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 359,
-    "score": 2942
+    "score": 2942,
+    "globalRank": 31096
   },
   {
     "login": "jandot",
@@ -5037,7 +5396,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 360,
-    "score": 116
+    "score": 116,
+    "globalRank": 31097
   },
   {
     "login": "Martichou",
@@ -5051,7 +5411,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 361,
-    "score": 2251
+    "score": 2251,
+    "globalRank": 31098
   },
   {
     "login": "bart6114",
@@ -5065,7 +5426,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 362,
-    "score": 1673
+    "score": 1673,
+    "globalRank": 31313
   },
   {
     "login": "obiwac",
@@ -5079,7 +5441,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 363,
-    "score": 2176
+    "score": 2176,
+    "globalRank": 31314
   },
   {
     "login": "adolfo-rt",
@@ -5093,7 +5456,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 364,
-    "score": 113
+    "score": 113,
+    "globalRank": 31315
   },
   {
     "login": "ElNiak",
@@ -5107,7 +5471,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 365,
-    "score": 435
+    "score": 435,
+    "globalRank": 31559
   },
   {
     "login": "SemilogoDan",
@@ -5121,7 +5486,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 366,
-    "score": 658
+    "score": 658,
+    "globalRank": 31560
   },
   {
     "login": "veewee",
@@ -5135,7 +5501,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 367,
-    "score": 496
+    "score": 496,
+    "globalRank": 31561
   },
   {
     "login": "intika",
@@ -5149,7 +5516,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 368,
-    "score": 111
+    "score": 111,
+    "globalRank": 31562
   },
   {
     "login": "madewulf",
@@ -5163,7 +5531,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 369,
-    "score": 432
+    "score": 432,
+    "globalRank": 31810
   },
   {
     "login": "matttbe",
@@ -5177,7 +5546,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 370,
-    "score": 8483
+    "score": 8483,
+    "globalRank": 31811
   },
   {
     "login": "netsensei",
@@ -5191,7 +5561,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 371,
-    "score": 179
+    "score": 179,
+    "globalRank": 31812
   },
   {
     "login": "robbederks",
@@ -5205,7 +5576,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 372,
-    "score": 495
+    "score": 495,
+    "globalRank": 31813
   },
   {
     "login": "rdehuyss",
@@ -5219,7 +5591,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 373,
-    "score": 1179
+    "score": 1179,
+    "globalRank": 31814
   },
   {
     "login": "Athou",
@@ -5233,7 +5606,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 374,
-    "score": 654
+    "score": 654,
+    "globalRank": 31815
   },
   {
     "login": "titouanc",
@@ -5247,7 +5621,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 375,
-    "score": 557
+    "score": 557,
+    "globalRank": 32062
   },
   {
     "login": "GeertBellekens",
@@ -5261,7 +5636,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 376,
-    "score": 158
+    "score": 158,
+    "globalRank": 32063
   },
   {
     "login": "CodeDead",
@@ -5275,7 +5651,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 377,
-    "score": 1365
+    "score": 1365,
+    "globalRank": 32064
   },
   {
     "login": "raystef66",
@@ -5289,7 +5666,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 378,
-    "score": 263
+    "score": 263,
+    "globalRank": 32065
   },
   {
     "login": "luckylyk",
@@ -5303,7 +5681,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 379,
-    "score": 123
+    "score": 123,
+    "globalRank": 32313
   },
   {
     "login": "jodogne",
@@ -5317,7 +5696,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 380,
-    "score": 438
+    "score": 438,
+    "globalRank": 32314
   },
   {
     "login": "wannesm",
@@ -5331,7 +5711,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 381,
-    "score": 191
+    "score": 191,
+    "globalRank": 32315
   },
   {
     "login": "codinsonn",
@@ -5345,7 +5726,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 382,
-    "score": 950
+    "score": 950,
+    "globalRank": 32316
   },
   {
     "login": "apennisi",
@@ -5359,7 +5741,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 383,
-    "score": 108
+    "score": 108,
+    "globalRank": 32493
   },
   {
     "login": "tatchi",
@@ -5373,7 +5756,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 384,
-    "score": 224
+    "score": 224,
+    "globalRank": 32494
   },
   {
     "login": "blambeau",
@@ -5387,7 +5771,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 385,
-    "score": 704
+    "score": 704,
+    "globalRank": 32495
   },
   {
     "login": "jbelien",
@@ -5401,7 +5786,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 386,
-    "score": 1503
+    "score": 1503,
+    "globalRank": 32496
   },
   {
     "login": "Lauwed",
@@ -5415,7 +5801,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 387,
-    "score": 328
+    "score": 328,
+    "globalRank": 32497
   },
   {
     "login": "hostep",
@@ -5429,7 +5816,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 388,
-    "score": 339
+    "score": 339,
+    "globalRank": 32738
   },
   {
     "login": "gotcha",
@@ -5443,7 +5831,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 389,
-    "score": 181
+    "score": 181,
+    "globalRank": 32739
   },
   {
     "login": "olblak",
@@ -5457,7 +5846,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 390,
-    "score": 1795
+    "score": 1795,
+    "globalRank": 32740
   },
   {
     "login": "mauromorales",
@@ -5471,7 +5861,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 391,
-    "score": 1412
+    "score": 1412,
+    "globalRank": 32741
   },
   {
     "login": "Lionh34rt",
@@ -5485,7 +5876,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 392,
-    "score": 751
+    "score": 751,
+    "globalRank": 32964
   },
   {
     "login": "nabilov",
@@ -5499,7 +5891,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 393,
-    "score": 105
+    "score": 105,
+    "globalRank": 32965
   },
   {
     "login": "keyboard-slayer",
@@ -5513,7 +5906,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 394,
-    "score": 412
+    "score": 412,
+    "globalRank": 32966
   },
   {
     "login": "huysentruitw",
@@ -5527,7 +5921,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 395,
-    "score": 344
+    "score": 344,
+    "globalRank": 33197
   },
   {
     "login": "nbyouri",
@@ -5541,7 +5936,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 396,
-    "score": 104
+    "score": 104,
+    "globalRank": 33198
   },
   {
     "login": "lucAsC87",
@@ -5555,7 +5951,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 397,
-    "score": 233
+    "score": 233,
+    "globalRank": 33199
   },
   {
     "login": "FaziletKosure",
@@ -5569,7 +5966,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 398,
-    "score": 103
+    "score": 103,
+    "globalRank": 33445
   },
   {
     "login": "SebaDele",
@@ -5583,7 +5981,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 399,
-    "score": 155
+    "score": 155,
+    "globalRank": 33446
   },
   {
     "login": "TraderStf",
@@ -5597,7 +5996,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 400,
-    "score": 103
+    "score": 103,
+    "globalRank": 33447
   },
   {
     "login": "Saegusae",
@@ -5611,7 +6011,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 401,
-    "score": 157
+    "score": 157,
+    "globalRank": 33448
   },
   {
     "login": "ghermans",
@@ -5625,7 +6026,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 402,
-    "score": 172
+    "score": 172,
+    "globalRank": 33737
   },
   {
     "login": "dvoituron",
@@ -5639,7 +6041,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 403,
-    "score": 757
+    "score": 757,
+    "globalRank": 33738
   },
   {
     "login": "tbarbette",
@@ -5653,7 +6056,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 404,
-    "score": 304
+    "score": 304,
+    "globalRank": 33739
   },
   {
     "login": "jelledruyts",
@@ -5667,7 +6071,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 405,
-    "score": 147
+    "score": 147,
+    "globalRank": 33740
   },
   {
     "login": "qkaiser",
@@ -5681,7 +6086,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 406,
-    "score": 434
+    "score": 434,
+    "globalRank": 33741
   },
   {
     "login": "GeertDD",
@@ -5695,7 +6101,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 407,
-    "score": 102
+    "score": 102,
+    "globalRank": 33742
   },
   {
     "login": "JohanDegraeve",
@@ -5709,7 +6116,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 408,
-    "score": 157
+    "score": 157,
+    "globalRank": 33743
   },
   {
     "login": "andrealani",
@@ -5723,7 +6131,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 409,
-    "score": 101
+    "score": 101,
+    "globalRank": 34025
   },
   {
     "login": "andyvand",
@@ -5737,7 +6146,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 410,
-    "score": 814
+    "score": 814,
+    "globalRank": 34026
   },
   {
     "login": "beNative",
@@ -5751,7 +6161,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 411,
-    "score": 2482
+    "score": 2482,
+    "globalRank": 34027
   },
   {
     "login": "krisv",
@@ -5765,7 +6176,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 412,
-    "score": 158
+    "score": 158,
+    "globalRank": 34028
   },
   {
     "login": "on-os",
@@ -5779,7 +6191,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 413,
-    "score": 102
+    "score": 102,
+    "globalRank": 34029
   },
   {
     "login": "Yannael",
@@ -5793,7 +6206,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 414,
-    "score": 146
+    "score": 146,
+    "globalRank": 34243
   },
   {
     "login": "seifgneedy",
@@ -5807,7 +6221,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 415,
-    "score": 292
+    "score": 292,
+    "globalRank": 34244
   },
   {
     "login": "renatolond",
@@ -5821,7 +6236,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 416,
-    "score": 1222
+    "score": 1222,
+    "globalRank": 34468
   },
   {
     "login": "erdesigns-eu",
@@ -5835,7 +6251,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 417,
-    "score": 8956
+    "score": 8956,
+    "globalRank": 34469
   },
   {
     "login": "jonsneyers",
@@ -5849,7 +6266,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 418,
-    "score": 286
+    "score": 286,
+    "globalRank": 34470
   },
   {
     "login": "sedubois",
@@ -5863,7 +6281,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 419,
-    "score": 354
+    "score": 354,
+    "globalRank": 34471
   },
   {
     "login": "jlambe",
@@ -5877,7 +6296,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 420,
-    "score": 1596
+    "score": 1596,
+    "globalRank": 34688
   },
   {
     "login": "Jerenaux",
@@ -5891,7 +6311,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 421,
-    "score": 609
+    "score": 609,
+    "globalRank": 34689
   },
   {
     "login": "johanjanssens",
@@ -5905,7 +6326,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 422,
-    "score": 106
+    "score": 106,
+    "globalRank": 34690
   },
   {
     "login": "jeertmans",
@@ -5919,7 +6341,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 423,
-    "score": 1207
+    "score": 1207,
+    "globalRank": 34691
   },
   {
     "login": "Tibowl",
@@ -5933,7 +6356,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 424,
-    "score": 302
+    "score": 302,
+    "globalRank": 34956
   },
   {
     "login": "stijnsanders",
@@ -5947,7 +6371,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 425,
-    "score": 163
+    "score": 163,
+    "globalRank": 34957
   },
   {
     "login": "kristofa",
@@ -5961,7 +6386,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 426,
-    "score": 100
+    "score": 100,
+    "globalRank": 34958
   },
   {
     "login": "srenders",
@@ -5975,7 +6401,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 427,
-    "score": 139
+    "score": 139,
+    "globalRank": 35189
   },
   {
     "login": "KurtDeGreeff",
@@ -5989,7 +6416,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 428,
-    "score": 99
+    "score": 99,
+    "globalRank": 35190
   },
   {
     "login": "cedk",
@@ -6003,7 +6431,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 429,
-    "score": 1230
+    "score": 1230,
+    "globalRank": 35191
   },
   {
     "login": "mauritsvanrees",
@@ -6017,7 +6446,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 430,
-    "score": 4458
+    "score": 4458,
+    "globalRank": 35192
   },
   {
     "login": "snakesonabrain",
@@ -6031,7 +6461,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 431,
-    "score": 151
+    "score": 151,
+    "globalRank": 35193
   },
   {
     "login": "SabatinoMasala",
@@ -6045,7 +6476,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 432,
-    "score": 3880
+    "score": 3880,
+    "globalRank": 35449
   },
   {
     "login": "alexandrelamberty",
@@ -6059,7 +6491,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 433,
-    "score": 149
+    "score": 149,
+    "globalRank": 35450
   },
   {
     "login": "xivk",
@@ -6073,7 +6506,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 434,
-    "score": 921
+    "score": 921,
+    "globalRank": 35451
   },
   {
     "login": "fastlorenzo",
@@ -6087,7 +6521,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 435,
-    "score": 1649
+    "score": 1649,
+    "globalRank": 35452
   },
   {
     "login": "otoukebri",
@@ -6101,7 +6536,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 436,
-    "score": 116
+    "score": 116,
+    "globalRank": 35453
   },
   {
     "login": "joostdecock",
@@ -6115,7 +6551,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 437,
-    "score": 602
+    "score": 602,
+    "globalRank": 35705
   },
   {
     "login": "Wouter01",
@@ -6129,7 +6566,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 438,
-    "score": 3478
+    "score": 3478,
+    "globalRank": 35706
   },
   {
     "login": "DrLex0",
@@ -6143,7 +6581,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 439,
-    "score": 105
+    "score": 105,
+    "globalRank": 35707
   },
   {
     "login": "JanVanRyswyck",
@@ -6157,7 +6596,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 440,
-    "score": 102
+    "score": 102,
+    "globalRank": 35708
   },
   {
     "login": "doomhz",
@@ -6171,7 +6611,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 441,
-    "score": 93
+    "score": 93,
+    "globalRank": 35955
   },
   {
     "login": "LoriKarikari",
@@ -6185,7 +6626,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 442,
-    "score": 442
+    "score": 442,
+    "globalRank": 35956
   },
   {
     "login": "RGB-Outl4w",
@@ -6199,7 +6641,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 443,
-    "score": 136
+    "score": 136,
+    "globalRank": 35957
   },
   {
     "login": "bartlannoeye",
@@ -6213,7 +6656,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 444,
-    "score": 105
+    "score": 105,
+    "globalRank": 35958
   },
   {
     "login": "jsiebens",
@@ -6227,7 +6671,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 445,
-    "score": 166
+    "score": 166,
+    "globalRank": 36222
   },
   {
     "login": "yannforget",
@@ -6241,7 +6686,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 446,
-    "score": 494
+    "score": 494,
+    "globalRank": 36223
   },
   {
     "login": "egeerardyn",
@@ -6255,7 +6701,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 447,
-    "score": 104
+    "score": 104,
+    "globalRank": 36224
   },
   {
     "login": "ghuysmans",
@@ -6269,7 +6716,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 448,
-    "score": 102
+    "score": 102,
+    "globalRank": 36225
   },
   {
     "login": "tovrstra",
@@ -6283,7 +6731,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 449,
-    "score": 1261
+    "score": 1261,
+    "globalRank": 36226
   },
   {
     "login": "RedByte1337",
@@ -6297,7 +6746,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 450,
-    "score": 187
+    "score": 187,
+    "globalRank": 36227
   },
   {
     "login": "redfast00",
@@ -6311,7 +6761,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 451,
-    "score": 245
+    "score": 245,
+    "globalRank": 36228
   },
   {
     "login": "timdp",
@@ -6325,7 +6776,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 452,
-    "score": 133
+    "score": 133,
+    "globalRank": 36498
   },
   {
     "login": "StephenAbbott",
@@ -6339,7 +6791,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 453,
-    "score": 98
+    "score": 98,
+    "globalRank": 36499
   },
   {
     "login": "andyprasetya",
@@ -6353,7 +6806,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 454,
-    "score": 109
+    "score": 109,
+    "globalRank": 36500
   },
   {
     "login": "achrafbou1",
@@ -6367,7 +6821,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 455,
-    "score": 154
+    "score": 154,
+    "globalRank": 36501
   },
   {
     "login": "EloiStree",
@@ -6381,7 +6836,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 456,
-    "score": 5127
+    "score": 5127,
+    "globalRank": 36502
   },
   {
     "login": "hansott",
@@ -6395,7 +6851,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 457,
-    "score": 2287
+    "score": 2287,
+    "globalRank": 36503
   },
   {
     "login": "davybrion",
@@ -6409,7 +6866,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 458,
-    "score": 91
+    "score": 91,
+    "globalRank": 36504
   },
   {
     "login": "Smile4ever",
@@ -6423,7 +6881,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 459,
-    "score": 110
+    "score": 110,
+    "globalRank": 36505
   },
   {
     "login": "hoh",
@@ -6437,7 +6896,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 460,
-    "score": 683
+    "score": 683,
+    "globalRank": 36506
   },
   {
     "login": "fvilers",
@@ -6451,7 +6911,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 461,
-    "score": 1526
+    "score": 1526,
+    "globalRank": 36507
   },
   {
     "login": "srgvg",
@@ -6465,7 +6926,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 462,
-    "score": 3127
+    "score": 3127,
+    "globalRank": 36765
   },
   {
     "login": "josd",
@@ -6479,7 +6941,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 463,
-    "score": 2771
+    "score": 2771,
+    "globalRank": 37022
   },
   {
     "login": "espinielli",
@@ -6493,7 +6956,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 464,
-    "score": 1132
+    "score": 1132,
+    "globalRank": 37023
   },
   {
     "login": "schaloner",
@@ -6507,7 +6971,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 465,
-    "score": 982
+    "score": 982,
+    "globalRank": 37024
   },
   {
     "login": "maximevince",
@@ -6521,7 +6986,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 466,
-    "score": 1837
+    "score": 1837,
+    "globalRank": 37025
   },
   {
     "login": "evias",
@@ -6535,7 +7001,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 467,
-    "score": 233
+    "score": 233,
+    "globalRank": 37026
   },
   {
     "login": "raphael-ernaelsten",
@@ -6549,7 +7016,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 468,
-    "score": 88
+    "score": 88,
+    "globalRank": 37328
   },
   {
     "login": "antoinepairet",
@@ -6563,7 +7031,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 469,
-    "score": 414
+    "score": 414,
+    "globalRank": 37329
   },
   {
     "login": "PeterHimschoot",
@@ -6577,7 +7046,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 470,
-    "score": 210
+    "score": 210,
+    "globalRank": 37330
   },
   {
     "login": "pieterclaerhout",
@@ -6591,7 +7061,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 471,
-    "score": 11499
+    "score": 11499,
+    "globalRank": 37331
   },
   {
     "login": "lukin0110",
@@ -6605,7 +7076,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 472,
-    "score": 863
+    "score": 863,
+    "globalRank": 37332
   },
   {
     "login": "twinters",
@@ -6619,7 +7091,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 473,
-    "score": 1692
+    "score": 1692,
+    "globalRank": 37333
   },
   {
     "login": "majksner",
@@ -6633,7 +7106,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 474,
-    "score": 87
+    "score": 87,
+    "globalRank": 37627
   },
   {
     "login": "Wings30306",
@@ -6647,7 +7121,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 475,
-    "score": 115
+    "score": 115,
+    "globalRank": 37628
   },
   {
     "login": "GaloisField2718",
@@ -6661,7 +7136,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 476,
-    "score": 1660
+    "score": 1660,
+    "globalRank": 37629
   },
   {
     "login": "gvanas",
@@ -6675,7 +7151,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 477,
-    "score": 124
+    "score": 124,
+    "globalRank": 37630
   },
   {
     "login": "pouriyajamshidi",
@@ -6689,7 +7166,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 478,
-    "score": 420
+    "score": 420,
+    "globalRank": 37631
   },
   {
     "login": "azerupi",
@@ -6703,7 +7181,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 479,
-    "score": 173
+    "score": 173,
+    "globalRank": 37632
   },
   {
     "login": "rdebusscher",
@@ -6717,7 +7196,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 480,
-    "score": 86
+    "score": 86,
+    "globalRank": 37938
   },
   {
     "login": "pieterprovoost",
@@ -6731,7 +7211,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 481,
-    "score": 1377
+    "score": 1377,
+    "globalRank": 37939
   },
   {
     "login": "coekie",
@@ -6745,7 +7226,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 482,
-    "score": 120
+    "score": 120,
+    "globalRank": 37940
   },
   {
     "login": "mromdhani",
@@ -6759,7 +7241,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 483,
-    "score": 87
+    "score": 87,
+    "globalRank": 37941
   },
   {
     "login": "meduzen",
@@ -6773,7 +7256,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 484,
-    "score": 286
+    "score": 286,
+    "globalRank": 37942
   },
   {
     "login": "gboddin",
@@ -6787,7 +7271,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 485,
-    "score": 129
+    "score": 129,
+    "globalRank": 38235
   },
   {
     "login": "futtta",
@@ -6801,7 +7286,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 486,
-    "score": 123
+    "score": 123,
+    "globalRank": 38236
   },
   {
     "login": "Industruino",
@@ -6815,7 +7301,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 487,
-    "score": 85
+    "score": 85,
+    "globalRank": 38237
   },
   {
     "login": "pdebuyl",
@@ -6829,7 +7316,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 488,
-    "score": 149
+    "score": 149,
+    "globalRank": 38238
   },
   {
     "login": "rememberYou",
@@ -6843,7 +7331,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 489,
-    "score": 108
+    "score": 108,
+    "globalRank": 38239
   },
   {
     "login": "roelvangils",
@@ -6857,7 +7346,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 490,
-    "score": 667
+    "score": 667,
+    "globalRank": 38240
   },
   {
     "login": "lvthillo",
@@ -6871,7 +7361,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 491,
-    "score": 453
+    "score": 453,
+    "globalRank": 38521
   },
   {
     "login": "Nielsvanpach",
@@ -6885,7 +7376,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 492,
-    "score": 2010
+    "score": 2010,
+    "globalRank": 38522
   },
   {
     "login": "vStone",
@@ -6899,7 +7391,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 493,
-    "score": 131
+    "score": 131,
+    "globalRank": 38523
   },
   {
     "login": "mousecpn",
@@ -6913,7 +7406,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 494,
-    "score": 230
+    "score": 230,
+    "globalRank": 38524
   },
   {
     "login": "Louciole",
@@ -6927,7 +7421,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 495,
-    "score": 329
+    "score": 329,
+    "globalRank": 38525
   },
   {
     "login": "zoroarch",
@@ -6941,7 +7436,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 496,
-    "score": 83
+    "score": 83,
+    "globalRank": 38851
   },
   {
     "login": "veloxy",
@@ -6955,7 +7451,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 497,
-    "score": 713
+    "score": 713,
+    "globalRank": 38852
   },
   {
     "login": "jarnedemeulemeester",
@@ -6969,7 +7466,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 498,
-    "score": 406
+    "score": 406,
+    "globalRank": 38853
   },
   {
     "login": "nicoe",
@@ -6983,7 +7481,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 499,
-    "score": 358
+    "score": 358,
+    "globalRank": 38854
   },
   {
     "login": "xavierdecoster",
@@ -6997,7 +7496,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 500,
-    "score": 196
+    "score": 196,
+    "globalRank": 38855
   },
   {
     "login": "TomCools",
@@ -7011,7 +7511,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 501,
-    "score": 582
+    "score": 582,
+    "globalRank": 38856
   },
   {
     "login": "gysenlionel",
@@ -7025,7 +7526,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 502,
-    "score": 92
+    "score": 92,
+    "globalRank": 38857
   },
   {
     "login": "halilertekin",
@@ -7039,7 +7541,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 503,
-    "score": 4720
+    "score": 4720,
+    "globalRank": 38858
   },
   {
     "login": "antonioalmeida",
@@ -7053,7 +7556,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 504,
-    "score": 262
+    "score": 262,
+    "globalRank": 38859
   },
   {
     "login": "FremyCompany",
@@ -7067,7 +7571,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 505,
-    "score": 182
+    "score": 182,
+    "globalRank": 38860
   },
   {
     "login": "amzilayoub",
@@ -7081,7 +7586,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 506,
-    "score": 86
+    "score": 86,
+    "globalRank": 39173
   },
   {
     "login": "combefis",
@@ -7095,7 +7601,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 507,
-    "score": 84
+    "score": 84,
+    "globalRank": 39174
   },
   {
     "login": "themr0c",
@@ -7109,7 +7616,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 508,
-    "score": 1153
+    "score": 1153,
+    "globalRank": 39175
   },
   {
     "login": "MatthiasBenaets",
@@ -7123,7 +7631,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 509,
-    "score": 725
+    "score": 725,
+    "globalRank": 39176
   },
   {
     "login": "TYsewyn",
@@ -7137,7 +7646,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 510,
-    "score": 2144
+    "score": 2144,
+    "globalRank": 39177
   },
   {
     "login": "Maescool",
@@ -7151,7 +7661,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 511,
-    "score": 97
+    "score": 97,
+    "globalRank": 39178
   },
   {
     "login": "0asa",
@@ -7165,7 +7676,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 512,
-    "score": 1307
+    "score": 1307,
+    "globalRank": 39179
   },
   {
     "login": "bertmelis",
@@ -7179,7 +7691,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 513,
-    "score": 224
+    "score": 224,
+    "globalRank": 39180
   },
   {
     "login": "fvanroie",
@@ -7193,7 +7706,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 514,
-    "score": 174
+    "score": 174,
+    "globalRank": 39516
   },
   {
     "login": "scambier",
@@ -7207,7 +7721,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 515,
-    "score": 199
+    "score": 199,
+    "globalRank": 39517
   },
   {
     "login": "alexvanboxel",
@@ -7221,7 +7736,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 516,
-    "score": 538
+    "score": 538,
+    "globalRank": 39518
   },
   {
     "login": "fpiette",
@@ -7235,7 +7751,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 517,
-    "score": 81
+    "score": 81,
+    "globalRank": 39519
   },
   {
     "login": "wget",
@@ -7249,7 +7766,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 518,
-    "score": 82
+    "score": 82,
+    "globalRank": 39520
   },
   {
     "login": "Gregoirevda",
@@ -7263,7 +7781,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 519,
-    "score": 111
+    "score": 111,
+    "globalRank": 39521
   },
   {
     "login": "jverdeyen",
@@ -7277,7 +7796,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 520,
-    "score": 1261
+    "score": 1261,
+    "globalRank": 39822
   },
   {
     "login": "fals",
@@ -7291,7 +7811,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 521,
-    "score": 982
+    "score": 982,
+    "globalRank": 39823
   },
   {
     "login": "fabien",
@@ -7305,7 +7826,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 522,
-    "score": 186
+    "score": 186,
+    "globalRank": 39824
   },
   {
     "login": "rubdos",
@@ -7319,7 +7841,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 523,
-    "score": 199
+    "score": 199,
+    "globalRank": 39825
   },
   {
     "login": "AnnaSasDev",
@@ -7333,7 +7856,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 524,
-    "score": 3949
+    "score": 3949,
+    "globalRank": 39826
   },
   {
     "login": "EliotVU",
@@ -7347,7 +7871,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 525,
-    "score": 410
+    "score": 410,
+    "globalRank": 39827
   },
   {
     "login": "tracher999",
@@ -7361,7 +7886,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 526,
-    "score": 80
+    "score": 80,
+    "globalRank": 39828
   },
   {
     "login": "merlijn-sebrechts",
@@ -7375,7 +7901,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 527,
-    "score": 194
+    "score": 194,
+    "globalRank": 39829
   },
   {
     "login": "webmae",
@@ -7389,7 +7916,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 528,
-    "score": 80
+    "score": 80,
+    "globalRank": 39830
   },
   {
     "login": "RaphaelJ",
@@ -7403,7 +7931,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 529,
-    "score": 97
+    "score": 97,
+    "globalRank": 39831
   },
   {
     "login": "SamBstorm",
@@ -7417,7 +7946,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 530,
-    "score": 535
+    "score": 535,
+    "globalRank": 39832
   },
   {
     "login": "benyaminsalimi",
@@ -7431,7 +7961,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 531,
-    "score": 303
+    "score": 303,
+    "globalRank": 40156
   },
   {
     "login": "xssChauhan",
@@ -7445,7 +7976,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 532,
-    "score": 270
+    "score": 270,
+    "globalRank": 40157
   },
   {
     "login": "codeagencybe",
@@ -7459,7 +7991,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 533,
-    "score": 2393
+    "score": 2393,
+    "globalRank": 40158
   },
   {
     "login": "nathanhubens",
@@ -7473,7 +8006,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 534,
-    "score": 151
+    "score": 151,
+    "globalRank": 40159
   },
   {
     "login": "thomasvds",
@@ -7487,7 +8021,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 535,
-    "score": 79
+    "score": 79,
+    "globalRank": 40160
   },
   {
     "login": "felixweyne",
@@ -7501,7 +8036,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 536,
-    "score": 78
+    "score": 78,
+    "globalRank": 40468
   },
   {
     "login": "LumpBloom7",
@@ -7515,7 +8051,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 537,
-    "score": 1189
+    "score": 1189,
+    "globalRank": 40469
   },
   {
     "login": "sirjonasxx",
@@ -7529,7 +8066,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 538,
-    "score": 89
+    "score": 89,
+    "globalRank": 40470
   },
   {
     "login": "ehiggs",
@@ -7543,7 +8081,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 539,
-    "score": 96
+    "score": 96,
+    "globalRank": 40471
   },
   {
     "login": "psi29a",
@@ -7557,7 +8096,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 540,
-    "score": 1459
+    "score": 1459,
+    "globalRank": 40472
   },
   {
     "login": "chanukyapatnaik",
@@ -7571,7 +8111,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 541,
-    "score": 78
+    "score": 78,
+    "globalRank": 40473
   },
   {
     "login": "arianpasquali",
@@ -7585,7 +8126,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 542,
-    "score": 736
+    "score": 736,
+    "globalRank": 40474
   },
   {
     "login": "corriebar",
@@ -7599,7 +8141,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 543,
-    "score": 77
+    "score": 77,
+    "globalRank": 40749
   },
   {
     "login": "ChristopheVersieux",
@@ -7613,7 +8156,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 544,
-    "score": 85
+    "score": 85,
+    "globalRank": 40750
   },
   {
     "login": "abdelhousni",
@@ -7627,7 +8171,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 545,
-    "score": 143
+    "score": 143,
+    "globalRank": 40751
   },
   {
     "login": "ianchanning",
@@ -7641,7 +8186,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 546,
-    "score": 1020
+    "score": 1020,
+    "globalRank": 40752
   },
   {
     "login": "Voles",
@@ -7655,7 +8201,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 547,
-    "score": 126
+    "score": 126,
+    "globalRank": 40753
   },
   {
     "login": "Sitebase",
@@ -7669,7 +8216,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 548,
-    "score": 7710
+    "score": 7710,
+    "globalRank": 40754
   },
   {
     "login": "dries007",
@@ -7683,7 +8231,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 549,
-    "score": 147
+    "score": 147,
+    "globalRank": 40755
   },
   {
     "login": "jogold",
@@ -7697,7 +8246,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 550,
-    "score": 2207
+    "score": 2207,
+    "globalRank": 40756
   },
   {
     "login": "ToJans",
@@ -7711,7 +8261,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 551,
-    "score": 77
+    "score": 77,
+    "globalRank": 40757
   },
   {
     "login": "KenN7",
@@ -7725,7 +8276,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 552,
-    "score": 120
+    "score": 120,
+    "globalRank": 40758
   },
   {
     "login": "ciortanmadalina",
@@ -7739,7 +8291,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 553,
-    "score": 85
+    "score": 85,
+    "globalRank": 40759
   },
   {
     "login": "phochste",
@@ -7753,7 +8306,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 554,
-    "score": 785
+    "score": 785,
+    "globalRank": 40760
   },
   {
     "login": "vincentclaes",
@@ -7767,7 +8321,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 555,
-    "score": 804
+    "score": 804,
+    "globalRank": 41054
   },
   {
     "login": "noteed",
@@ -7781,7 +8336,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 556,
-    "score": 2454
+    "score": 2454,
+    "globalRank": 41055
   },
   {
     "login": "mohammedSlimani",
@@ -7795,7 +8351,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 557,
-    "score": 618
+    "score": 618,
+    "globalRank": 41056
   },
   {
     "login": "Shusshu",
@@ -7809,7 +8366,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 558,
-    "score": 159
+    "score": 159,
+    "globalRank": 41057
   },
   {
     "login": "Zubnix",
@@ -7823,7 +8381,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 559,
-    "score": 81
+    "score": 81,
+    "globalRank": 41058
   },
   {
     "login": "cimm",
@@ -7837,7 +8396,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 560,
-    "score": 881
+    "score": 881,
+    "globalRank": 41059
   },
   {
     "login": "souvikg10",
@@ -7851,7 +8411,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 561,
-    "score": 287
+    "score": 287,
+    "globalRank": 41060
   },
   {
     "login": "Ysoroko",
@@ -7865,7 +8426,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 562,
-    "score": 347
+    "score": 347,
+    "globalRank": 41061
   },
   {
     "login": "jacmet",
@@ -7879,7 +8441,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 563,
-    "score": 320
+    "score": 320,
+    "globalRank": 41062
   },
   {
     "login": "mabdullahsari",
@@ -7893,7 +8456,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 564,
-    "score": 188
+    "score": 188,
+    "globalRank": 41063
   },
   {
     "login": "Asif-Iqbal-Bhatti",
@@ -7907,7 +8471,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 565,
-    "score": 145
+    "score": 145,
+    "globalRank": 41064
   },
   {
     "login": "MatthiasValvekens",
@@ -7921,7 +8486,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 566,
-    "score": 836
+    "score": 836,
+    "globalRank": 41065
   },
   {
     "login": "beledouxdenis",
@@ -7935,7 +8501,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 567,
-    "score": 286
+    "score": 286,
+    "globalRank": 41358
   },
   {
     "login": "YannickRe",
@@ -7949,7 +8516,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 568,
-    "score": 185
+    "score": 185,
+    "globalRank": 41359
   },
   {
     "login": "xvrh",
@@ -7963,7 +8531,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 569,
-    "score": 558
+    "score": 558,
+    "globalRank": 41360
   },
   {
     "login": "skyfloogle",
@@ -7977,7 +8546,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 570,
-    "score": 635
+    "score": 635,
+    "globalRank": 41361
   },
   {
     "login": "iooner",
@@ -7991,7 +8561,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 571,
-    "score": 181
+    "score": 181,
+    "globalRank": 41362
   },
   {
     "login": "visibilityspots",
@@ -8005,7 +8576,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 572,
-    "score": 145
+    "score": 145,
+    "globalRank": 41363
   },
   {
     "login": "Bond-009",
@@ -8019,7 +8591,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 573,
-    "score": 1046
+    "score": 1046,
+    "globalRank": 41364
   },
   {
     "login": "VlSomers",
@@ -8033,7 +8606,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 574,
-    "score": 124
+    "score": 124,
+    "globalRank": 41365
   },
   {
     "login": "mvdbeek",
@@ -8047,7 +8621,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 575,
-    "score": 3823
+    "score": 3823,
+    "globalRank": 41670
   },
   {
     "login": "svanimpe",
@@ -8061,7 +8636,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 576,
-    "score": 153
+    "score": 153,
+    "globalRank": 41671
   },
   {
     "login": "acrobat",
@@ -8075,7 +8651,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 577,
-    "score": 538
+    "score": 538,
+    "globalRank": 41672
   },
   {
     "login": "iSach",
@@ -8089,7 +8666,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 578,
-    "score": 460
+    "score": 460,
+    "globalRank": 41673
   },
   {
     "login": "soxofaan",
@@ -8103,7 +8681,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 579,
-    "score": 1730
+    "score": 1730,
+    "globalRank": 41674
   },
   {
     "login": "borisrorsvort",
@@ -8117,7 +8696,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 580,
-    "score": 114
+    "score": 114,
+    "globalRank": 41675
   },
   {
     "login": "MathMachado",
@@ -8131,7 +8711,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 581,
-    "score": 199
+    "score": 199,
+    "globalRank": 41676
   },
   {
     "login": "lathoub",
@@ -8145,7 +8726,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 582,
-    "score": 467
+    "score": 467,
+    "globalRank": 41957
   },
   {
     "login": "philippeback",
@@ -8159,7 +8741,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 583,
-    "score": 98
+    "score": 98,
+    "globalRank": 41958
   },
   {
     "login": "kunegis",
@@ -8173,7 +8756,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 584,
-    "score": 271
+    "score": 271,
+    "globalRank": 41959
   },
   {
     "login": "stephaneey",
@@ -8187,7 +8771,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 585,
-    "score": 125
+    "score": 125,
+    "globalRank": 41960
   },
   {
     "login": "0BuRner",
@@ -8201,7 +8786,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 586,
-    "score": 75
+    "score": 75,
+    "globalRank": 41961
   },
   {
     "login": "omar-sherif9992",
@@ -8215,7 +8801,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 587,
-    "score": 189
+    "score": 189,
+    "globalRank": 41962
   },
   {
     "login": "michaelarnauts",
@@ -8229,7 +8816,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 588,
-    "score": 138
+    "score": 138,
+    "globalRank": 41963
   },
   {
     "login": "Sch3lp",
@@ -8243,7 +8831,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 589,
-    "score": 420
+    "score": 420,
+    "globalRank": 42302
   },
   {
     "login": "DylanVanAssche",
@@ -8257,7 +8846,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 590,
-    "score": 1081
+    "score": 1081,
+    "globalRank": 42303
   },
   {
     "login": "doniaskima",
@@ -8271,7 +8861,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 591,
-    "score": 107
+    "score": 107,
+    "globalRank": 42304
   },
   {
     "login": "hdavid",
@@ -8285,7 +8876,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 592,
-    "score": 85
+    "score": 85,
+    "globalRank": 42305
   },
   {
     "login": "Belenar",
@@ -8299,7 +8891,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 593,
-    "score": 103
+    "score": 103,
+    "globalRank": 42306
   },
   {
     "login": "alvarogutyerrez",
@@ -8313,7 +8906,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 594,
-    "score": 72
+    "score": 72,
+    "globalRank": 42307
   },
   {
     "login": "indieterminacy",
@@ -8327,7 +8921,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 595,
-    "score": 73
+    "score": 73,
+    "globalRank": 42308
   },
   {
     "login": "amrfaissal",
@@ -8341,7 +8936,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 596,
-    "score": 135
+    "score": 135,
+    "globalRank": 42309
   },
   {
     "login": "arioch",
@@ -8355,7 +8951,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 597,
-    "score": 71
+    "score": 71,
+    "globalRank": 42628
   },
   {
     "login": "vormplus",
@@ -8369,7 +8966,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 598,
-    "score": 72
+    "score": 72,
+    "globalRank": 42629
   },
   {
     "login": "wimg",
@@ -8383,7 +8981,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 599,
-    "score": 432
+    "score": 432,
+    "globalRank": 42630
   },
   {
     "login": "backkem",
@@ -8397,7 +8996,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 600,
-    "score": 201
+    "score": 201,
+    "globalRank": 42631
   },
   {
     "login": "timdams",
@@ -8411,7 +9011,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 601,
-    "score": 590
+    "score": 590,
+    "globalRank": 42632
   },
   {
     "login": "Gdewilde",
@@ -8425,7 +9026,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 602,
-    "score": 831
+    "score": 831,
+    "globalRank": 42633
   },
   {
     "login": "wouellette",
@@ -8439,7 +9041,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 603,
-    "score": 2262
+    "score": 2262,
+    "globalRank": 42634
   },
   {
     "login": "Tim-Maes",
@@ -8453,7 +9056,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 604,
-    "score": 989
+    "score": 989,
+    "globalRank": 42635
   },
   {
     "login": "nightwolfz",
@@ -8467,7 +9071,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 605,
-    "score": 89
+    "score": 89,
+    "globalRank": 42636
   },
   {
     "login": "Maximvdw",
@@ -8481,7 +9086,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 606,
-    "score": 964
+    "score": 964,
+    "globalRank": 42637
   },
   {
     "login": "BrainBacon",
@@ -8495,7 +9101,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 607,
-    "score": 89
+    "score": 89,
+    "globalRank": 42638
   },
   {
     "login": "ovitrif",
@@ -8509,7 +9116,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 608,
-    "score": 3122
+    "score": 3122,
+    "globalRank": 42639
   },
   {
     "login": "claesenm",
@@ -8523,7 +9131,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 609,
-    "score": 76
+    "score": 76,
+    "globalRank": 42640
   },
   {
     "login": "MarDiehl",
@@ -8537,7 +9146,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 610,
-    "score": 962
+    "score": 962,
+    "globalRank": 42641
   },
   {
     "login": "matvp91",
@@ -8551,7 +9161,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 611,
-    "score": 743
+    "score": 743,
+    "globalRank": 42948
   },
   {
     "login": "devrnt",
@@ -8565,7 +9176,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 612,
-    "score": 300
+    "score": 300,
+    "globalRank": 42949
   },
   {
     "login": "jsebrech",
@@ -8579,7 +9191,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 613,
-    "score": 127
+    "score": 127,
+    "globalRank": 42950
   },
   {
     "login": "ebeaufay",
@@ -8593,7 +9206,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 614,
-    "score": 118
+    "score": 118,
+    "globalRank": 42951
   },
   {
     "login": "stecb",
@@ -8607,7 +9221,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 615,
-    "score": 814
+    "score": 814,
+    "globalRank": 42952
   },
   {
     "login": "ulsgks",
@@ -8621,7 +9236,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 616,
-    "score": 999
+    "score": 999,
+    "globalRank": 42953
   },
   {
     "login": "TimGeyssens",
@@ -8635,7 +9251,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 617,
-    "score": 79
+    "score": 79,
+    "globalRank": 42954
   },
   {
     "login": "PermanAtayev",
@@ -8649,7 +9266,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 618,
-    "score": 70
+    "score": 70,
+    "globalRank": 42955
   },
   {
     "login": "jensbrehmen",
@@ -8663,7 +9281,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 619,
-    "score": 70
+    "score": 70,
+    "globalRank": 42956
   },
   {
     "login": "djbe",
@@ -8677,7 +9296,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 620,
-    "score": 1610
+    "score": 1610,
+    "globalRank": 42957
   },
   {
     "login": "drdynscript",
@@ -8691,7 +9311,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 621,
-    "score": 182
+    "score": 182,
+    "globalRank": 42958
   },
   {
     "login": "maasg",
@@ -8705,7 +9326,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 622,
-    "score": 724
+    "score": 724,
+    "globalRank": 42959
   },
   {
     "login": "Eliovp",
@@ -8719,7 +9341,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 623,
-    "score": 111
+    "score": 111,
+    "globalRank": 42960
   },
   {
     "login": "h-cel",
@@ -8733,7 +9356,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 624,
-    "score": 71
+    "score": 71,
+    "globalRank": 42961
   },
   {
     "login": "dereckson",
@@ -8747,7 +9371,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 625,
-    "score": 582
+    "score": 582,
+    "globalRank": 43291
   },
   {
     "login": "sdebacker",
@@ -8761,7 +9386,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 626,
-    "score": 1678
+    "score": 1678,
+    "globalRank": 43292
   },
   {
     "login": "wlcrs",
@@ -8775,7 +9401,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 627,
-    "score": 371
+    "score": 371,
+    "globalRank": 43293
   },
   {
     "login": "yugecin",
@@ -8789,7 +9416,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 628,
-    "score": 1312
+    "score": 1312,
+    "globalRank": 43294
   },
   {
     "login": "chton",
@@ -8803,7 +9431,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 629,
-    "score": 87
+    "score": 87,
+    "globalRank": 43295
   },
   {
     "login": "lab101",
@@ -8817,7 +9446,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 630,
-    "score": 409
+    "score": 409,
+    "globalRank": 43296
   },
   {
     "login": "lskbr",
@@ -8831,7 +9461,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 631,
-    "score": 82
+    "score": 82,
+    "globalRank": 43613
   },
   {
     "login": "xurei",
@@ -8845,7 +9476,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 632,
-    "score": 244
+    "score": 244,
+    "globalRank": 43614
   },
   {
     "login": "LovelySanta",
@@ -8859,7 +9491,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 633,
-    "score": 68
+    "score": 68,
+    "globalRank": 43615
   },
   {
     "login": "ThierryO",
@@ -8873,7 +9506,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 634,
-    "score": 1118
+    "score": 1118,
+    "globalRank": 43616
   },
   {
     "login": "OObatwomanOO",
@@ -8887,7 +9521,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 635,
-    "score": 68
+    "score": 68,
+    "globalRank": 43617
   },
   {
     "login": "drieseng",
@@ -8901,7 +9536,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 636,
-    "score": 122
+    "score": 122,
+    "globalRank": 43618
   },
   {
     "login": "oumaima-aarabe",
@@ -8915,7 +9551,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 637,
-    "score": 230
+    "score": 230,
+    "globalRank": 43619
   },
   {
     "login": "diogodanielsoaresferreira",
@@ -8929,7 +9566,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 638,
-    "score": 1619
+    "score": 1619,
+    "globalRank": 43620
   },
   {
     "login": "r-vdp",
@@ -8943,7 +9581,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 639,
-    "score": 1832
+    "score": 1832,
+    "globalRank": 43621
   },
   {
     "login": "vanakenm",
@@ -8957,7 +9596,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 640,
-    "score": 963
+    "score": 963,
+    "globalRank": 43622
   },
   {
     "login": "smits",
@@ -8971,7 +9611,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 641,
-    "score": 70
+    "score": 70,
+    "globalRank": 43623
   },
   {
     "login": "robiningelbrecht",
@@ -8985,7 +9626,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 642,
-    "score": 4122
+    "score": 4122,
+    "globalRank": 43624
   },
   {
     "login": "kevinbungeneers",
@@ -8999,7 +9641,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 643,
-    "score": 187
+    "score": 187,
+    "globalRank": 43981
   },
   {
     "login": "QuentinGeerts",
@@ -9013,7 +9656,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 644,
-    "score": 258
+    "score": 258,
+    "globalRank": 43982
   },
   {
     "login": "mairyj",
@@ -9027,7 +9671,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 645,
-    "score": 70
+    "score": 70,
+    "globalRank": 43983
   },
   {
     "login": "BramDC3",
@@ -9041,7 +9686,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 646,
-    "score": 128
+    "score": 128,
+    "globalRank": 43984
   },
   {
     "login": "bmichotte",
@@ -9055,7 +9701,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 647,
-    "score": 2865
+    "score": 2865,
+    "globalRank": 43985
   },
   {
     "login": "zachd",
@@ -9069,7 +9716,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 648,
-    "score": 392
+    "score": 392,
+    "globalRank": 43986
   },
   {
     "login": "timvw",
@@ -9083,7 +9731,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 649,
-    "score": 3178
+    "score": 3178,
+    "globalRank": 43987
   },
   {
     "login": "ricalessandri",
@@ -9097,7 +9746,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 650,
-    "score": 738
+    "score": 738,
+    "globalRank": 43988
   },
   {
     "login": "bddvlpr",
@@ -9111,7 +9761,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 651,
-    "score": 451
+    "score": 451,
+    "globalRank": 43989
   },
   {
     "login": "timrijckaert",
@@ -9125,7 +9776,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 652,
-    "score": 73
+    "score": 73,
+    "globalRank": 44378
   },
   {
     "login": "kvaes",
@@ -9139,7 +9791,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 653,
-    "score": 123
+    "score": 123,
+    "globalRank": 44379
   },
   {
     "login": "mlrcbsousa",
@@ -9153,7 +9806,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 654,
-    "score": 93
+    "score": 93,
+    "globalRank": 44380
   },
   {
     "login": "haliliceylan",
@@ -9167,7 +9821,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 655,
-    "score": 366
+    "score": 366,
+    "globalRank": 44381
   },
   {
     "login": "fbraza",
@@ -9181,7 +9836,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 656,
-    "score": 595
+    "score": 595,
+    "globalRank": 44382
   },
   {
     "login": "lipelip",
@@ -9195,7 +9851,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 657,
-    "score": 70
+    "score": 70,
+    "globalRank": 44383
   },
   {
     "login": "laranea",
@@ -9209,7 +9866,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 658,
-    "score": 65
+    "score": 65,
+    "globalRank": 44747
   },
   {
     "login": "ToxicMushroom",
@@ -9223,7 +9881,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 659,
-    "score": 344
+    "score": 344,
+    "globalRank": 44748
   },
   {
     "login": "Chino159",
@@ -9237,7 +9896,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 660,
-    "score": 67
+    "score": 67,
+    "globalRank": 44749
   },
   {
     "login": "benmerckx",
@@ -9251,7 +9911,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 661,
-    "score": 1807
+    "score": 1807,
+    "globalRank": 44750
   },
   {
     "login": "xewl",
@@ -9265,7 +9926,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 662,
-    "score": 931
+    "score": 931,
+    "globalRank": 44751
   },
   {
     "login": "kikipoulet",
@@ -9279,7 +9941,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 663,
-    "score": 441
+    "score": 441,
+    "globalRank": 44752
   },
   {
     "login": "muhamadazmy",
@@ -9293,7 +9956,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 664,
-    "score": 780
+    "score": 780,
+    "globalRank": 44753
   },
   {
     "login": "vertonghenb",
@@ -9307,7 +9971,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 665,
-    "score": 206
+    "score": 206,
+    "globalRank": 44754
   },
   {
     "login": "mikhawa",
@@ -9321,7 +9986,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 666,
-    "score": 1075
+    "score": 1075,
+    "globalRank": 44755
   },
   {
     "login": "tvlooy",
@@ -9335,7 +10001,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 667,
-    "score": 133
+    "score": 133,
+    "globalRank": 44756
   },
   {
     "login": "Strooom",
@@ -9349,7 +10016,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 668,
-    "score": 809
+    "score": 809,
+    "globalRank": 45135
   },
   {
     "login": "rien",
@@ -9363,7 +10031,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 669,
-    "score": 266
+    "score": 266,
+    "globalRank": 45136
   },
   {
     "login": "Romeh",
@@ -9377,7 +10046,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 670,
-    "score": 1909
+    "score": 1909,
+    "globalRank": 45137
   },
   {
     "login": "krvajal",
@@ -9391,7 +10061,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 671,
-    "score": 124
+    "score": 124,
+    "globalRank": 45138
   },
   {
     "login": "vanlooverenkoen",
@@ -9405,7 +10076,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 672,
-    "score": 2223
+    "score": 2223,
+    "globalRank": 45139
   },
   {
     "login": "Maxservais",
@@ -9419,7 +10091,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 673,
-    "score": 1562
+    "score": 1562,
+    "globalRank": 45140
   },
   {
     "login": "toloveru",
@@ -9433,7 +10106,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 674,
-    "score": 67
+    "score": 67,
+    "globalRank": 45141
   },
   {
     "login": "jfresco",
@@ -9447,7 +10121,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 675,
-    "score": 68
+    "score": 68,
+    "globalRank": 45142
   },
   {
     "login": "pure",
@@ -9461,7 +10136,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 676,
-    "score": 64
+    "score": 64,
+    "globalRank": 45143
   },
   {
     "login": "vriveraq",
@@ -9475,7 +10151,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 677,
-    "score": 170
+    "score": 170,
+    "globalRank": 45144
   },
   {
     "login": "delboy1978uk",
@@ -9489,7 +10166,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 678,
-    "score": 2638
+    "score": 2638,
+    "globalRank": 45145
   },
   {
     "login": "Mahdi171",
@@ -9503,7 +10181,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 679,
-    "score": 452
+    "score": 452,
+    "globalRank": 45146
   },
   {
     "login": "swentel",
@@ -9517,7 +10196,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 680,
-    "score": 64
+    "score": 64,
+    "globalRank": 45147
   },
   {
     "login": "willmoffat",
@@ -9531,7 +10211,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 681,
-    "score": 67
+    "score": 67,
+    "globalRank": 45148
   },
   {
     "login": "lvermeulen",
@@ -9545,7 +10226,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 682,
-    "score": 101
+    "score": 101,
+    "globalRank": 45535
   },
   {
     "login": "brainbaking",
@@ -9559,7 +10241,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 683,
-    "score": 291
+    "score": 291,
+    "globalRank": 45536
   },
   {
     "login": "pjaspers",
@@ -9573,7 +10256,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 684,
-    "score": 198
+    "score": 198,
+    "globalRank": 45537
   },
   {
     "login": "Gorash",
@@ -9587,7 +10271,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 685,
-    "score": 243
+    "score": 243,
+    "globalRank": 45538
   },
   {
     "login": "aabda96",
@@ -9601,7 +10286,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 686,
-    "score": 434
+    "score": 434,
+    "globalRank": 45539
   },
   {
     "login": "canihavesomecoffee",
@@ -9615,7 +10301,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 687,
-    "score": 178
+    "score": 178,
+    "globalRank": 45540
   },
   {
     "login": "j0r1",
@@ -9629,7 +10316,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 688,
-    "score": 254
+    "score": 254,
+    "globalRank": 45541
   },
   {
     "login": "artus",
@@ -9643,7 +10331,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 689,
-    "score": 70
+    "score": 70,
+    "globalRank": 45542
   },
   {
     "login": "TimBroddin",
@@ -9657,7 +10346,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 690,
-    "score": 3508
+    "score": 3508,
+    "globalRank": 45543
   },
   {
     "login": "kdwinter",
@@ -9671,7 +10361,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 691,
-    "score": 2486
+    "score": 2486,
+    "globalRank": 45544
   },
   {
     "login": "rousseldenis",
@@ -9685,7 +10376,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 692,
-    "score": 1126
+    "score": 1126,
+    "globalRank": 45545
   },
   {
     "login": "DenBeke",
@@ -9699,7 +10391,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 693,
-    "score": 71
+    "score": 71,
+    "globalRank": 45546
   },
   {
     "login": "WouterSioen",
@@ -9713,7 +10406,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 694,
-    "score": 2629
+    "score": 2629,
+    "globalRank": 45547
   },
   {
     "login": "juliendelplanque",
@@ -9727,7 +10421,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 695,
-    "score": 64
+    "score": 64,
+    "globalRank": 45548
   },
   {
     "login": "joerischasfoort",
@@ -9741,7 +10436,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 696,
-    "score": 99
+    "score": 99,
+    "globalRank": 45549
   },
   {
     "login": "boilingbrains",
@@ -9755,7 +10451,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 697,
-    "score": 63
+    "score": 63,
+    "globalRank": 45550
   },
   {
     "login": "Broodco",
@@ -9769,7 +10466,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 698,
-    "score": 154
+    "score": 154,
+    "globalRank": 45551
   },
   {
     "login": "matthieusieben",
@@ -9783,7 +10481,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 699,
-    "score": 1192
+    "score": 1192,
+    "globalRank": 45552
   },
   {
     "login": "janmoesen",
@@ -9797,7 +10496,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 700,
-    "score": 91
+    "score": 91,
+    "globalRank": 45951
   },
   {
     "login": "stijn-volckaert",
@@ -9811,7 +10511,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 701,
-    "score": 737
+    "score": 737,
+    "globalRank": 45952
   },
   {
     "login": "elitalpa",
@@ -9825,7 +10526,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 702,
-    "score": 3280
+    "score": 3280,
+    "globalRank": 45953
   },
   {
     "login": "NoUseFreak",
@@ -9839,7 +10541,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 703,
-    "score": 2337
+    "score": 2337,
+    "globalRank": 45954
   },
   {
     "login": "RootSoft",
@@ -9853,7 +10556,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 704,
-    "score": 174
+    "score": 174,
+    "globalRank": 45955
   },
   {
     "login": "daqhris",
@@ -9867,7 +10571,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 705,
-    "score": 797
+    "score": 797,
+    "globalRank": 45956
   },
   {
     "login": "kayleigh-pilgrim",
@@ -9881,7 +10586,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 706,
-    "score": 2271
+    "score": 2271,
+    "globalRank": 45957
   },
   {
     "login": "parhamoyan",
@@ -9895,7 +10601,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 707,
-    "score": 272
+    "score": 272,
+    "globalRank": 45958
   },
   {
     "login": "perevoznyk",
@@ -9909,7 +10616,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 708,
-    "score": 64
+    "score": 64,
+    "globalRank": 45959
   },
   {
     "login": "Grazulex",
@@ -9923,7 +10631,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 709,
-    "score": 4763
+    "score": 4763,
+    "globalRank": 45960
   },
   {
     "login": "Anthodpnt",
@@ -9937,7 +10646,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 710,
-    "score": 96
+    "score": 96,
+    "globalRank": 45961
   },
   {
     "login": "bgotink",
@@ -9951,7 +10661,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 711,
-    "score": 265
+    "score": 265,
+    "globalRank": 45962
   },
   {
     "login": "sdellicour",
@@ -9965,7 +10676,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 712,
-    "score": 327
+    "score": 327,
+    "globalRank": 45963
   },
   {
     "login": "Duologic",
@@ -9979,7 +10691,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 713,
-    "score": 2128
+    "score": 2128,
+    "globalRank": 45964
   },
   {
     "login": "boeboe",
@@ -9993,7 +10706,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 714,
-    "score": 616
+    "score": 616,
+    "globalRank": 46377
   },
   {
     "login": "NicoJuicy",
@@ -10007,7 +10721,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 715,
-    "score": 268
+    "score": 268,
+    "globalRank": 46378
   },
   {
     "login": "SimonJang",
@@ -10021,7 +10736,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 716,
-    "score": 2527
+    "score": 2527,
+    "globalRank": 46379
   },
   {
     "login": "vdhpieter",
@@ -10035,7 +10751,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 717,
-    "score": 2000
+    "score": 2000,
+    "globalRank": 46380
   },
   {
     "login": "FalkoJoseph",
@@ -10049,7 +10766,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 718,
-    "score": 481
+    "score": 481,
+    "globalRank": 46381
   },
   {
     "login": "gdebrauwer",
@@ -10063,7 +10781,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 719,
-    "score": 136
+    "score": 136,
+    "globalRank": 46382
   },
   {
     "login": "ntrogh",
@@ -10077,7 +10796,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 720,
-    "score": 4973
+    "score": 4973,
+    "globalRank": 46383
   },
   {
     "login": "ninewise",
@@ -10091,7 +10811,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 721,
-    "score": 77
+    "score": 77,
+    "globalRank": 46384
   },
   {
     "login": "cristianvasquez",
@@ -10105,7 +10826,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 722,
-    "score": 3036
+    "score": 3036,
+    "globalRank": 46385
   },
   {
     "login": "SynthAether",
@@ -10119,7 +10841,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 723,
-    "score": 218
+    "score": 218,
+    "globalRank": 46386
   },
   {
     "login": "Dvergar",
@@ -10133,7 +10856,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 724,
-    "score": 636
+    "score": 636,
+    "globalRank": 46387
   },
   {
     "login": "FlightControl-User",
@@ -10147,7 +10871,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 725,
-    "score": 66
+    "score": 66,
+    "globalRank": 46388
   },
   {
     "login": "tomvangoethem",
@@ -10161,7 +10886,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 726,
-    "score": 68
+    "score": 68,
+    "globalRank": 46389
   },
   {
     "login": "fmoralesc",
@@ -10175,7 +10901,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 727,
-    "score": 296
+    "score": 296,
+    "globalRank": 46390
   },
   {
     "login": "rriemann",
@@ -10189,7 +10916,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 728,
-    "score": 87
+    "score": 87,
+    "globalRank": 46391
   },
   {
     "login": "gillcleerendemo",
@@ -10203,7 +10931,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 729,
-    "score": 61
+    "score": 61,
+    "globalRank": 46392
   },
   {
     "login": "KasperZutterman",
@@ -10217,7 +10946,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 730,
-    "score": 85
+    "score": 85,
+    "globalRank": 46393
   },
   {
     "login": "PieEatingNinjas",
@@ -10231,7 +10961,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 731,
-    "score": 420
+    "score": 420,
+    "globalRank": 46394
   },
   {
     "login": "tomchavakis",
@@ -10245,7 +10976,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 732,
-    "score": 61
+    "score": 61,
+    "globalRank": 46395
   },
   {
     "login": "bparmentier",
@@ -10259,7 +10991,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 733,
-    "score": 62
+    "score": 62,
+    "globalRank": 46396
   },
   {
     "login": "frontendfront",
@@ -10273,7 +11006,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 734,
-    "score": 81
+    "score": 81,
+    "globalRank": 46397
   },
   {
     "login": "teranex",
@@ -10287,7 +11021,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 735,
-    "score": 89
+    "score": 89,
+    "globalRank": 46398
   },
   {
     "login": "SergeyParamonov",
@@ -10301,7 +11036,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 736,
-    "score": 166
+    "score": 166,
+    "globalRank": 46825
   },
   {
     "login": "code4cake",
@@ -10315,7 +11051,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 737,
-    "score": 61
+    "score": 61,
+    "globalRank": 46826
   },
   {
     "login": "SebWouters",
@@ -10329,7 +11066,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 738,
-    "score": 73
+    "score": 73,
+    "globalRank": 46827
   },
   {
     "login": "mbalimade-it",
@@ -10343,7 +11081,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 739,
-    "score": 299
+    "score": 299,
+    "globalRank": 46828
   },
   {
     "login": "ctroupin",
@@ -10357,7 +11096,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 740,
-    "score": 175
+    "score": 175,
+    "globalRank": 46829
   },
   {
     "login": "arnovandash",
@@ -10371,7 +11111,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 741,
-    "score": 127
+    "score": 127,
+    "globalRank": 46830
   },
   {
     "login": "BrechtDeMan",
@@ -10385,7 +11126,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 742,
-    "score": 60
+    "score": 60,
+    "globalRank": 46831
   },
   {
     "login": "legovaer",
@@ -10399,7 +11141,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 743,
-    "score": 607
+    "score": 607,
+    "globalRank": 46832
   },
   {
     "login": "dawoe",
@@ -10413,7 +11156,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 744,
-    "score": 143
+    "score": 143,
+    "globalRank": 47254
   },
   {
     "login": "zyriab",
@@ -10427,7 +11171,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 745,
-    "score": 4569
+    "score": 4569,
+    "globalRank": 47255
   },
   {
     "login": "StanBoyet",
@@ -10441,7 +11186,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 746,
-    "score": 199
+    "score": 199,
+    "globalRank": 47256
   },
   {
     "login": "bluebeel",
@@ -10455,7 +11201,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 747,
-    "score": 1120
+    "score": 1120,
+    "globalRank": 47257
   },
   {
     "login": "NickyMeuleman",
@@ -10469,7 +11216,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 748,
-    "score": 259
+    "score": 259,
+    "globalRank": 47258
   },
   {
     "login": "brechtm",
@@ -10483,7 +11231,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 749,
-    "score": 150
+    "score": 150,
+    "globalRank": 47259
   },
   {
     "login": "DefV",
@@ -10497,7 +11246,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 750,
-    "score": 1548
+    "score": 1548,
+    "globalRank": 47260
   },
   {
     "login": "almeidasilvaf",
@@ -10511,7 +11261,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 751,
-    "score": 358
+    "score": 358,
+    "globalRank": 47261
   },
   {
     "login": "keloriane",
@@ -10525,7 +11276,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 752,
-    "score": 91
+    "score": 91,
+    "globalRank": 47262
   },
   {
     "login": "sherpal",
@@ -10539,7 +11291,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 753,
-    "score": 141
+    "score": 141,
+    "globalRank": 47653
   },
   {
     "login": "BertoldVdb",
@@ -10553,7 +11306,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 754,
-    "score": 309
+    "score": 309,
+    "globalRank": 47654
   },
   {
     "login": "JeroenGar",
@@ -10567,7 +11321,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 755,
-    "score": 1353
+    "score": 1353,
+    "globalRank": 47655
   },
   {
     "login": "mcourteaux",
@@ -10581,7 +11336,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 756,
-    "score": 309
+    "score": 309,
+    "globalRank": 47656
   },
   {
     "login": "maximelucas",
@@ -10595,7 +11351,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 757,
-    "score": 133
+    "score": 133,
+    "globalRank": 47657
   },
   {
     "login": "kevinderudder",
@@ -10609,7 +11366,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 758,
-    "score": 58
+    "score": 58,
+    "globalRank": 47658
   },
   {
     "login": "BioBoost",
@@ -10623,7 +11381,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 759,
-    "score": 58
+    "score": 58,
+    "globalRank": 47659
   },
   {
     "login": "tgrippa",
@@ -10637,7 +11396,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 760,
-    "score": 624
+    "score": 624,
+    "globalRank": 47660
   },
   {
     "login": "armano2",
@@ -10651,7 +11411,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 761,
-    "score": 761
+    "score": 761,
+    "globalRank": 47661
   },
   {
     "login": "lsorber",
@@ -10665,7 +11426,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 762,
-    "score": 511
+    "score": 511,
+    "globalRank": 47662
   },
   {
     "login": "opieters",
@@ -10679,7 +11441,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 763,
-    "score": 74
+    "score": 74,
+    "globalRank": 47663
   },
   {
     "login": "zainmehdi",
@@ -10693,7 +11456,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 764,
-    "score": 58
+    "score": 58,
+    "globalRank": 47664
   },
   {
     "login": "amedee",
@@ -10707,7 +11471,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 765,
-    "score": 1603
+    "score": 1603,
+    "globalRank": 47665
   },
   {
     "login": "ppareit",
@@ -10721,7 +11486,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 766,
-    "score": 142
+    "score": 142,
+    "globalRank": 47666
   },
   {
     "login": "petervandenabeele",
@@ -10735,7 +11501,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 767,
-    "score": 1383
+    "score": 1383,
+    "globalRank": 47667
   },
   {
     "login": "Mattdl",
@@ -10749,7 +11516,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 768,
-    "score": 97
+    "score": 97,
+    "globalRank": 47668
   },
   {
     "login": "gdrtrts",
@@ -10763,7 +11531,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 769,
-    "score": 58
+    "score": 58,
+    "globalRank": 47669
   },
   {
     "login": "ancailliau",
@@ -10777,7 +11546,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 770,
-    "score": 107
+    "score": 107,
+    "globalRank": 47670
   },
   {
     "login": "AntoinePassemiers",
@@ -10791,7 +11561,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 771,
-    "score": 2210
+    "score": 2210,
+    "globalRank": 47671
   },
   {
     "login": "allsey87",
@@ -10805,7 +11576,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 772,
-    "score": 166
+    "score": 166,
+    "globalRank": 47672
   },
   {
     "login": "ringods",
@@ -10819,7 +11591,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 773,
-    "score": 1298
+    "score": 1298,
+    "globalRank": 47673
   },
   {
     "login": "Macuyiko",
@@ -10833,7 +11606,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 774,
-    "score": 511
+    "score": 511,
+    "globalRank": 47674
   },
   {
     "login": "kleuter",
@@ -10847,7 +11621,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 775,
-    "score": 139
+    "score": 139,
+    "globalRank": 47675
   },
   {
     "login": "robvanmieghem",
@@ -10861,7 +11636,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 776,
-    "score": 60
+    "score": 60,
+    "globalRank": 48092
   },
   {
     "login": "dgielis",
@@ -10875,7 +11651,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 777,
-    "score": 59
+    "score": 59,
+    "globalRank": 48093
   },
   {
     "login": "jonasvdd",
@@ -10889,7 +11666,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 778,
-    "score": 206
+    "score": 206,
+    "globalRank": 48094
   },
   {
     "login": "stijnmoreels",
@@ -10903,7 +11681,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 779,
-    "score": 1710
+    "score": 1710,
+    "globalRank": 48095
   },
   {
     "login": "gogoprog",
@@ -10917,7 +11696,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 780,
-    "score": 1908
+    "score": 1908,
+    "globalRank": 48096
   },
   {
     "login": "texus",
@@ -10931,7 +11711,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 781,
-    "score": 187
+    "score": 187,
+    "globalRank": 48097
   },
   {
     "login": "zhaotao1987",
@@ -10945,7 +11726,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 782,
-    "score": 57
+    "score": 57,
+    "globalRank": 48098
   },
   {
     "login": "jfroche",
@@ -10959,7 +11741,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 783,
-    "score": 840
+    "score": 840,
+    "globalRank": 48099
   },
   {
     "login": "phmatray",
@@ -10973,7 +11756,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 784,
-    "score": 2534
+    "score": 2534,
+    "globalRank": 48100
   },
   {
     "login": "coussej",
@@ -10987,7 +11771,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 785,
-    "score": 57
+    "score": 57,
+    "globalRank": 48101
   },
   {
     "login": "sneljo1",
@@ -11001,7 +11786,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 786,
-    "score": 2478
+    "score": 2478,
+    "globalRank": 48102
   },
   {
     "login": "tdewin",
@@ -11015,7 +11801,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 787,
-    "score": 254
+    "score": 254,
+    "globalRank": 48103
   },
   {
     "login": "pheyvaer",
@@ -11029,7 +11816,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 788,
-    "score": 34290
+    "score": 34290,
+    "globalRank": 48104
   },
   {
     "login": "PrestaEdit",
@@ -11043,7 +11831,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 789,
-    "score": 786
+    "score": 786,
+    "globalRank": 48105
   },
   {
     "login": "bmesuere",
@@ -11057,7 +11846,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 790,
-    "score": 2886
+    "score": 2886,
+    "globalRank": 48106
   },
   {
     "login": "diogosilvaferreira",
@@ -11071,7 +11861,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 791,
-    "score": 56
+    "score": 56,
+    "globalRank": 48563
   },
   {
     "login": "wouterw",
@@ -11085,7 +11876,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 792,
-    "score": 5852
+    "score": 5852,
+    "globalRank": 48564
   },
   {
     "login": "jorenvandeweyer",
@@ -11099,7 +11891,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 793,
-    "score": 3380
+    "score": 3380,
+    "globalRank": 48565
   },
   {
     "login": "mcndt",
@@ -11113,7 +11906,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 794,
-    "score": 2307
+    "score": 2307,
+    "globalRank": 48566
   },
   {
     "login": "FabriZZio",
@@ -11127,7 +11921,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 795,
-    "score": 156
+    "score": 156,
+    "globalRank": 48567
   },
   {
     "login": "MaxOhn",
@@ -11141,7 +11936,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 796,
-    "score": 739
+    "score": 739,
+    "globalRank": 48568
   },
   {
     "login": "benjaminvanesser",
@@ -11155,7 +11951,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 797,
-    "score": 77
+    "score": 77,
+    "globalRank": 48569
   },
   {
     "login": "fousa",
@@ -11169,7 +11966,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 798,
-    "score": 114
+    "score": 114,
+    "globalRank": 48570
   },
   {
     "login": "stormychel",
@@ -11183,7 +11981,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 799,
-    "score": 3389
+    "score": 3389,
+    "globalRank": 48571
   },
   {
     "login": "arrfab",
@@ -11197,7 +11996,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 800,
-    "score": 211
+    "score": 211,
+    "globalRank": 48572
   },
   {
     "login": "cherreman",
@@ -11211,7 +12011,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 801,
-    "score": 56
+    "score": 56,
+    "globalRank": 48573
   },
   {
     "login": "pforret",
@@ -11225,7 +12026,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 802,
-    "score": 1138
+    "score": 1138,
+    "globalRank": 48574
   },
   {
     "login": "ronnyvdbr",
@@ -11239,7 +12041,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 803,
-    "score": 56
+    "score": 56,
+    "globalRank": 48575
   },
   {
     "login": "jrosseel",
@@ -11253,7 +12056,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 804,
-    "score": 1003
+    "score": 1003,
+    "globalRank": 48576
   },
   {
     "login": "tomwenseleers",
@@ -11267,7 +12071,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 805,
-    "score": 158
+    "score": 158,
+    "globalRank": 48577
   },
   {
     "login": "MrHassanMurtaza",
@@ -11281,7 +12086,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 806,
-    "score": 57
+    "score": 57,
+    "globalRank": 48578
   },
   {
     "login": "Dherse",
@@ -11295,7 +12101,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 807,
-    "score": 114
+    "score": 114,
+    "globalRank": 48579
   },
   {
     "login": "0xThiebaut",
@@ -11309,7 +12116,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 808,
-    "score": 121
+    "score": 121,
+    "globalRank": 48580
   },
   {
     "login": "raymcdermott",
@@ -11323,7 +12131,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 809,
-    "score": 79
+    "score": 79,
+    "globalRank": 48581
   },
   {
     "login": "mvancanneyt",
@@ -11337,7 +12146,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 810,
-    "score": 719
+    "score": 719,
+    "globalRank": 48582
   },
   {
     "login": "lekoala",
@@ -11351,7 +12161,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 811,
-    "score": 709
+    "score": 709,
+    "globalRank": 48583
   },
   {
     "login": "OhMyMndy",
@@ -11365,7 +12176,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 812,
-    "score": 306
+    "score": 306,
+    "globalRank": 49031
   },
   {
     "login": "sammou00",
@@ -11379,7 +12191,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 813,
-    "score": 138
+    "score": 138,
+    "globalRank": 49032
   },
   {
     "login": "bitcrumb",
@@ -11393,7 +12206,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 814,
-    "score": 83
+    "score": 83,
+    "globalRank": 49033
   },
   {
     "login": "mariobecerra",
@@ -11407,7 +12221,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 815,
-    "score": 60
+    "score": 60,
+    "globalRank": 49034
   },
   {
     "login": "nirenzang",
@@ -11421,7 +12236,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 816,
-    "score": 60
+    "score": 60,
+    "globalRank": 49035
   },
   {
     "login": "NathanGeerinck",
@@ -11435,7 +12251,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 817,
-    "score": 1821
+    "score": 1821,
+    "globalRank": 49036
   },
   {
     "login": "JefClaes",
@@ -11449,7 +12266,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 818,
-    "score": 77
+    "score": 77,
+    "globalRank": 49037
   },
   {
     "login": "TheoGil",
@@ -11463,7 +12281,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 819,
-    "score": 59
+    "score": 59,
+    "globalRank": 49038
   },
   {
     "login": "frbayart",
@@ -11477,7 +12296,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 820,
-    "score": 169
+    "score": 169,
+    "globalRank": 49039
   },
   {
     "login": "marc-henrard",
@@ -11491,7 +12311,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 821,
-    "score": 58
+    "score": 58,
+    "globalRank": 49040
   },
   {
     "login": "ademarco",
@@ -11505,7 +12326,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 822,
-    "score": 421
+    "score": 421,
+    "globalRank": 49041
   },
   {
     "login": "webketje",
@@ -11519,7 +12341,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 823,
-    "score": 103
+    "score": 103,
+    "globalRank": 49042
   },
   {
     "login": "fabd",
@@ -11533,7 +12356,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 824,
-    "score": 81
+    "score": 81,
+    "globalRank": 49043
   },
   {
     "login": "Prozilla",
@@ -11547,7 +12371,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 825,
-    "score": 790
+    "score": 790,
+    "globalRank": 49044
   },
   {
     "login": "tsmethurst",
@@ -11561,7 +12386,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 826,
-    "score": 64
+    "score": 64,
+    "globalRank": 49045
   },
   {
     "login": "iljavs",
@@ -11575,7 +12401,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 827,
-    "score": 123
+    "score": 123,
+    "globalRank": 49046
   },
   {
     "login": "Dirvann",
@@ -11589,7 +12416,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 828,
-    "score": 1344
+    "score": 1344,
+    "globalRank": 49047
   },
   {
     "login": "Mohyiay",
@@ -11603,7 +12431,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 829,
-    "score": 62
+    "score": 62,
+    "globalRank": 49048
   },
   {
     "login": "mchobby",
@@ -11617,7 +12446,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 830,
-    "score": 147
+    "score": 147,
+    "globalRank": 49049
   },
   {
     "login": "Swizz",
@@ -11631,7 +12461,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 831,
-    "score": 61
+    "score": 61,
+    "globalRank": 49515
   },
   {
     "login": "romatthe",
@@ -11645,7 +12476,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 832,
-    "score": 774
+    "score": 774,
+    "globalRank": 49516
   },
   {
     "login": "crahan",
@@ -11659,7 +12491,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 833,
-    "score": 758
+    "score": 758,
+    "globalRank": 49517
   },
   {
     "login": "belgrades",
@@ -11673,7 +12506,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 834,
-    "score": 342
+    "score": 342,
+    "globalRank": 49518
   },
   {
     "login": "haringsrob",
@@ -11687,7 +12521,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 835,
-    "score": 3001
+    "score": 3001,
+    "globalRank": 49519
   },
   {
     "login": "andreasevers",
@@ -11701,7 +12536,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 836,
-    "score": 1028
+    "score": 1028,
+    "globalRank": 49520
   },
   {
     "login": "jonaswouters",
@@ -11715,7 +12551,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 837,
-    "score": 1244
+    "score": 1244,
+    "globalRank": 49521
   },
   {
     "login": "ValCapri",
@@ -11729,7 +12566,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 838,
-    "score": 125
+    "score": 125,
+    "globalRank": 49522
   },
   {
     "login": "patvarilly",
@@ -11743,7 +12581,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 839,
-    "score": 161
+    "score": 161,
+    "globalRank": 49523
   },
   {
     "login": "doichev-kostia",
@@ -11757,7 +12596,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 840,
-    "score": 557
+    "score": 557,
+    "globalRank": 49524
   },
   {
     "login": "eloots",
@@ -11771,7 +12611,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 841,
-    "score": 60
+    "score": 60,
+    "globalRank": 49525
   },
   {
     "login": "gbougakov",
@@ -11785,7 +12626,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 842,
-    "score": 886
+    "score": 886,
+    "globalRank": 49526
   },
   {
     "login": "Levizar",
@@ -11799,7 +12641,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 843,
-    "score": 276
+    "score": 276,
+    "globalRank": 49527
   },
   {
     "login": "Vincevrp",
@@ -11813,7 +12656,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 844,
-    "score": 113
+    "score": 113,
+    "globalRank": 49528
   },
   {
     "login": "Tyrasuki",
@@ -11827,7 +12671,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 845,
-    "score": 59
+    "score": 59,
+    "globalRank": 49529
   },
   {
     "login": "NotCoffee418",
@@ -11841,7 +12686,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 846,
-    "score": 1211
+    "score": 1211,
+    "globalRank": 49530
   },
   {
     "login": "jdrese",
@@ -11855,7 +12701,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 847,
-    "score": 57
+    "score": 57,
+    "globalRank": 49531
   },
   {
     "login": "tikkie",
@@ -11869,7 +12716,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 848,
-    "score": 54
+    "score": 54,
+    "globalRank": 49532
   },
   {
     "login": "tomhermans",
@@ -11883,7 +12731,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 849,
-    "score": 356
+    "score": 356,
+    "globalRank": 49533
   },
   {
     "login": "hansikbukvik",
@@ -11897,7 +12746,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 850,
-    "score": 54
+    "score": 54,
+    "globalRank": 49534
   },
   {
     "login": "bramdevries",
@@ -11911,7 +12761,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 851,
-    "score": 2396
+    "score": 2396,
+    "globalRank": 49535
   },
   {
     "login": "peterneyens",
@@ -11925,7 +12776,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 852,
-    "score": 62
+    "score": 62,
+    "globalRank": 49536
   },
   {
     "login": "halfa",
@@ -11939,7 +12791,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 853,
-    "score": 1189
+    "score": 1189,
+    "globalRank": 49537
   },
   {
     "login": "aliekens",
@@ -11953,7 +12806,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 854,
-    "score": 91
+    "score": 91,
+    "globalRank": 49538
   },
   {
     "login": "ToastyStoemp",
@@ -11967,7 +12821,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 855,
-    "score": 56
+    "score": 56,
+    "globalRank": 50062
   },
   {
     "login": "sborms",
@@ -11981,7 +12836,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 856,
-    "score": 1014
+    "score": 1014,
+    "globalRank": 50063
   },
   {
     "login": "onra2",
@@ -11995,7 +12851,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 857,
-    "score": 1034
+    "score": 1034,
+    "globalRank": 50064
   },
   {
     "login": "depsimon",
@@ -12009,7 +12866,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 858,
-    "score": 1061
+    "score": 1061,
+    "globalRank": 50065
   },
   {
     "login": "mlainez",
@@ -12023,7 +12881,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 859,
-    "score": 1094
+    "score": 1094,
+    "globalRank": 50066
   },
   {
     "login": "40uf411",
@@ -12037,7 +12896,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 860,
-    "score": 457
+    "score": 457,
+    "globalRank": 50067
   },
   {
     "login": "brentguf",
@@ -12051,7 +12911,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 861,
-    "score": 1975
+    "score": 1975,
+    "globalRank": 50068
   },
   {
     "login": "runelaenen",
@@ -12065,7 +12926,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 862,
-    "score": 196
+    "score": 196,
+    "globalRank": 50069
   },
   {
     "login": "sjorge",
@@ -12079,7 +12941,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 863,
-    "score": 290
+    "score": 290,
+    "globalRank": 50070
   },
   {
     "login": "carmenbianca",
@@ -12093,7 +12956,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 864,
-    "score": 463
+    "score": 463,
+    "globalRank": 50071
   },
   {
     "login": "mehmetc",
@@ -12107,7 +12971,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 865,
-    "score": 504
+    "score": 504,
+    "globalRank": 50072
   },
   {
     "login": "Timmeahj",
@@ -12121,7 +12986,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 866,
-    "score": 53
+    "score": 53,
+    "globalRank": 50073
   },
   {
     "login": "yveshanoulle",
@@ -12135,7 +13001,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 867,
-    "score": 4092
+    "score": 4092,
+    "globalRank": 50074
   },
   {
     "login": "antoi-ne",
@@ -12149,7 +13016,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 868,
-    "score": 120
+    "score": 120,
+    "globalRank": 50075
   },
   {
     "login": "Dev1an",
@@ -12163,7 +13031,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 869,
-    "score": 105
+    "score": 105,
+    "globalRank": 50076
   },
   {
     "login": "mstaessen",
@@ -12177,7 +13046,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 870,
-    "score": 60
+    "score": 60,
+    "globalRank": 50077
   },
   {
     "login": "pauloamgomes",
@@ -12191,7 +13061,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 871,
-    "score": 103
+    "score": 103,
+    "globalRank": 50585
   },
   {
     "login": "wimmatthyssen",
@@ -12205,7 +13076,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 872,
-    "score": 141
+    "score": 141,
+    "globalRank": 50586
   },
   {
     "login": "jawn",
@@ -12219,7 +13091,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 873,
-    "score": 99
+    "score": 99,
+    "globalRank": 50587
   },
   {
     "login": "DurmusFurkanOzkan",
@@ -12233,7 +13106,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 874,
-    "score": 53
+    "score": 53,
+    "globalRank": 50588
   },
   {
     "login": "brechtvdv",
@@ -12247,7 +13121,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 875,
-    "score": 580
+    "score": 580,
+    "globalRank": 50589
   },
   {
     "login": "ivanvermeyen",
@@ -12261,7 +13136,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 876,
-    "score": 52
+    "score": 52,
+    "globalRank": 50590
   },
   {
     "login": "matthieuGravy",
@@ -12275,7 +13151,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 877,
-    "score": 887
+    "score": 887,
+    "globalRank": 50591
   },
   {
     "login": "hrobeers",
@@ -12289,7 +13166,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 878,
-    "score": 53
+    "score": 53,
+    "globalRank": 50592
   },
   {
     "login": "zjeffer",
@@ -12303,7 +13181,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 879,
-    "score": 332
+    "score": 332,
+    "globalRank": 50593
   },
   {
     "login": "jessedobbelaere",
@@ -12317,7 +13196,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 880,
-    "score": 62
+    "score": 62,
+    "globalRank": 50594
   },
   {
     "login": "chvp",
@@ -12331,7 +13211,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 881,
-    "score": 3955
+    "score": 3955,
+    "globalRank": 50595
   },
   {
     "login": "jorishermans",
@@ -12345,7 +13226,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 882,
-    "score": 68
+    "score": 68,
+    "globalRank": 50596
   },
   {
     "login": "rubenvb",
@@ -12359,7 +13241,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 883,
-    "score": 65
+    "score": 65,
+    "globalRank": 50597
   },
   {
     "login": "tombaeyens",
@@ -12373,7 +13256,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 884,
-    "score": 378
+    "score": 378,
+    "globalRank": 50598
   },
   {
     "login": "yvespeirsman",
@@ -12387,7 +13271,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 885,
-    "score": 78
+    "score": 78,
+    "globalRank": 50599
   },
   {
     "login": "juanfe9118",
@@ -12401,7 +13286,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 886,
-    "score": 57
+    "score": 57,
+    "globalRank": 50600
   },
   {
     "login": "timvdm",
@@ -12415,7 +13301,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 887,
-    "score": 53
+    "score": 53,
+    "globalRank": 50601
   },
   {
     "login": "ppetermann",
@@ -12429,7 +13316,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 888,
-    "score": 555
+    "score": 555,
+    "globalRank": 51078
   },
   {
     "login": "gsomoza",
@@ -12443,7 +13331,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 889,
-    "score": 825
+    "score": 825,
+    "globalRank": 51079
   },
   {
     "login": "hakanergun",
@@ -12457,7 +13346,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 890,
-    "score": 214
+    "score": 214,
+    "globalRank": 51080
   },
   {
     "login": "plmercereau",
@@ -12471,7 +13361,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 891,
-    "score": 2719
+    "score": 2719,
+    "globalRank": 51081
   },
   {
     "login": "akif-dogan",
@@ -12485,7 +13376,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 892,
-    "score": 233
+    "score": 233,
+    "globalRank": 51082
   },
   {
     "login": "toonvandenbos",
@@ -12499,7 +13391,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 893,
-    "score": 644
+    "score": 644,
+    "globalRank": 51083
   },
   {
     "login": "christophevg",
@@ -12513,7 +13406,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 894,
-    "score": 478
+    "score": 478,
+    "globalRank": 51084
   },
   {
     "login": "toch",
@@ -12527,7 +13421,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 895,
-    "score": 51
+    "score": 51,
+    "globalRank": 51085
   },
   {
     "login": "iBoonz",
@@ -12541,7 +13436,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 896,
-    "score": 61
+    "score": 61,
+    "globalRank": 51086
   },
   {
     "login": "kdeforche",
@@ -12555,7 +13451,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 897,
-    "score": 51
+    "score": 51,
+    "globalRank": 51087
   },
   {
     "login": "jomz",
@@ -12569,7 +13466,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 898,
-    "score": 55
+    "score": 55,
+    "globalRank": 51088
   },
   {
     "login": "olivierjeunen",
@@ -12583,7 +13481,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 899,
-    "score": 64
+    "score": 64,
+    "globalRank": 51089
   },
   {
     "login": "DrSkunk",
@@ -12597,7 +13496,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 900,
-    "score": 184
+    "score": 184,
+    "globalRank": 51090
   },
   {
     "login": "fvdsn",
@@ -12611,7 +13511,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 901,
-    "score": 184
+    "score": 184,
+    "globalRank": 51091
   },
   {
     "login": "thygate",
@@ -12625,7 +13526,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 902,
-    "score": 51
+    "score": 51,
+    "globalRank": 51092
   },
   {
     "login": "ConsoleFriend",
@@ -12639,7 +13541,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 903,
-    "score": 93
+    "score": 93,
+    "globalRank": 51093
   },
   {
     "login": "eMerzh",
@@ -12653,7 +13556,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 904,
-    "score": 591
+    "score": 591,
+    "globalRank": 51094
   },
   {
     "login": "Ghost8345",
@@ -12667,7 +13571,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 905,
-    "score": 303
+    "score": 303,
+    "globalRank": 51095
   },
   {
     "login": "xudongzhao461",
@@ -12681,7 +13586,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 906,
-    "score": 56
+    "score": 56,
+    "globalRank": 51096
   },
   {
     "login": "Alienxbe",
@@ -12695,7 +13601,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 907,
-    "score": 163
+    "score": 163,
+    "globalRank": 51097
   },
   {
     "login": "samdauwe",
@@ -12709,7 +13616,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 908,
-    "score": 1176
+    "score": 1176,
+    "globalRank": 51098
   },
   {
     "login": "itkovian",
@@ -12723,7 +13631,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 909,
-    "score": 554
+    "score": 554,
+    "globalRank": 51099
   },
   {
     "login": "sebw",
@@ -12737,7 +13646,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 910,
-    "score": 224
+    "score": 224,
+    "globalRank": 51100
   },
   {
     "login": "PeterGeelen",
@@ -12751,7 +13661,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 911,
-    "score": 70
+    "score": 70,
+    "globalRank": 51101
   },
   {
     "login": "bramvdbogaerde",
@@ -12765,7 +13676,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 912,
-    "score": 784
+    "score": 784,
+    "globalRank": 51599
   },
   {
     "login": "joaoDossena",
@@ -12779,7 +13691,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 913,
-    "score": 77
+    "score": 77,
+    "globalRank": 51600
   },
   {
     "login": "NickBanken",
@@ -12793,7 +13706,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 914,
-    "score": 5535
+    "score": 5535,
+    "globalRank": 51601
   },
   {
     "login": "FireFather",
@@ -12807,7 +13721,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 915,
-    "score": 226
+    "score": 226,
+    "globalRank": 51602
   },
   {
     "login": "mvukov",
@@ -12821,7 +13736,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 916,
-    "score": 260
+    "score": 260,
+    "globalRank": 51603
   },
   {
     "login": "LEDfan",
@@ -12835,7 +13751,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 917,
-    "score": 339
+    "score": 339,
+    "globalRank": 51604
   },
   {
     "login": "artygo8",
@@ -12849,7 +13766,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 918,
-    "score": 808
+    "score": 808,
+    "globalRank": 51605
   },
   {
     "login": "NotAPenguin0",
@@ -12863,7 +13781,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 919,
-    "score": 440
+    "score": 440,
+    "globalRank": 51606
   },
   {
     "login": "mograby3500",
@@ -12877,7 +13796,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 920,
-    "score": 110
+    "score": 110,
+    "globalRank": 51607
   },
   {
     "login": "Feincraft",
@@ -12891,7 +13811,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 921,
-    "score": 50
+    "score": 50,
+    "globalRank": 51608
   },
   {
     "login": "ksmet1977",
@@ -12905,7 +13826,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 922,
-    "score": 108
+    "score": 108,
+    "globalRank": 51609
   },
   {
     "login": "pgstef",
@@ -12919,7 +13841,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 923,
-    "score": 167
+    "score": 167,
+    "globalRank": 51610
   },
   {
     "login": "ZeromusXYZ",
@@ -12933,7 +13856,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 924,
-    "score": 298
+    "score": 298,
+    "globalRank": 51611
   },
   {
     "login": "fabhar",
@@ -12947,7 +13871,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 925,
-    "score": 53
+    "score": 53,
+    "globalRank": 51612
   },
   {
     "login": "joachimvh",
@@ -12961,7 +13886,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 926,
-    "score": 328
+    "score": 328,
+    "globalRank": 51613
   },
   {
     "login": "AmauryD",
@@ -12975,7 +13901,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 927,
-    "score": 802
+    "score": 802,
+    "globalRank": 51614
   },
   {
     "login": "kingflurkel",
@@ -12989,7 +13916,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 928,
-    "score": 50
+    "score": 50,
+    "globalRank": 51615
   },
   {
     "login": "fvdhoef",
@@ -13003,7 +13931,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 929,
-    "score": 52
+    "score": 52,
+    "globalRank": 51616
   },
   {
     "login": "bahadirgezer",
@@ -13017,7 +13946,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 930,
-    "score": 69
+    "score": 69,
+    "globalRank": 51617
   },
   {
     "login": "sepro",
@@ -13031,7 +13961,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 931,
-    "score": 396
+    "score": 396,
+    "globalRank": 51618
   },
   {
     "login": "NicoVermeir",
@@ -13045,7 +13976,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 932,
-    "score": 137
+    "score": 137,
+    "globalRank": 52087
   },
   {
     "login": "rvandeghen",
@@ -13059,7 +13991,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 933,
-    "score": 204
+    "score": 204,
+    "globalRank": 52088
   },
   {
     "login": "rafaelderolez",
@@ -13073,7 +14006,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 934,
-    "score": 1123
+    "score": 1123,
+    "globalRank": 52089
   },
   {
     "login": "JaydevSR",
@@ -13087,7 +14021,8 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 935,
-    "score": 424
+    "score": 424,
+    "globalRank": 52090
   },
   {
     "login": "rioru",
@@ -13101,6 +14036,7 @@
     "country": "belgium",
     "countryName": "Belgium",
     "countryRank": 936,
-    "score": 49
+    "score": 49,
+    "globalRank": 52091
   }
 ]

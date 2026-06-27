@@ -11,7 +11,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 1,
-    "score": 14796
+    "score": 14796,
+    "globalRank": 111
   },
   {
     "login": "orta",
@@ -25,7 +26,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 2,
-    "score": 12101
+    "score": 12101,
+    "globalRank": 353
   },
   {
     "login": "xcontcom",
@@ -39,7 +41,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 3,
-    "score": 4889
+    "score": 4889,
+    "globalRank": 603
   },
   {
     "login": "pbatard",
@@ -53,7 +56,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 4,
-    "score": 3995
+    "score": 3995,
+    "globalRank": 751
   },
   {
     "login": "purcell",
@@ -67,7 +71,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 5,
-    "score": 3849
+    "score": 3849,
+    "globalRank": 840
   },
   {
     "login": "joreilly",
@@ -81,7 +86,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 6,
-    "score": 3245
+    "score": 3245,
+    "globalRank": 1211
   },
   {
     "login": "MunGell",
@@ -95,7 +101,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 7,
-    "score": 2504
+    "score": 2504,
+    "globalRank": 1326
   },
   {
     "login": "steventroughtonsmith",
@@ -109,7 +116,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 8,
-    "score": 2482
+    "score": 2482,
+    "globalRank": 1527
   },
   {
     "login": "axic",
@@ -123,7 +131,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 9,
-    "score": 3151
+    "score": 3151,
+    "globalRank": 1660
   },
   {
     "login": "Crypto-Cat",
@@ -137,7 +146,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 10,
-    "score": 2154
+    "score": 2154,
+    "globalRank": 2036
   },
   {
     "login": "lmammino",
@@ -151,7 +161,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 11,
-    "score": 3057
+    "score": 3057,
+    "globalRank": 2149
   },
   {
     "login": "flaviohenriquealmeida",
@@ -165,7 +176,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 12,
-    "score": 1331
+    "score": 1331,
+    "globalRank": 2702
   },
   {
     "login": "mhausenblas",
@@ -179,7 +191,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 13,
-    "score": 1643
+    "score": 1643,
+    "globalRank": 2739
   },
   {
     "login": "witnessmenow",
@@ -193,7 +206,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 14,
-    "score": 1305
+    "score": 1305,
+    "globalRank": 2837
   },
   {
     "login": "snrazavi",
@@ -207,7 +221,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 15,
-    "score": 1441
+    "score": 1441,
+    "globalRank": 2846
   },
   {
     "login": "Hstkj23",
@@ -221,7 +236,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 16,
-    "score": 1922
+    "score": 1922,
+    "globalRank": 2980
   },
   {
     "login": "filipesilva",
@@ -235,7 +251,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 17,
-    "score": 2580
+    "score": 2580,
+    "globalRank": 3256
   },
   {
     "login": "stephenfewer",
@@ -249,7 +266,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 18,
-    "score": 1285
+    "score": 1285,
+    "globalRank": 3411
   },
   {
     "login": "SergioChan",
@@ -263,7 +281,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 19,
-    "score": 4042
+    "score": 4042,
+    "globalRank": 3518
   },
   {
     "login": "tnorbye",
@@ -277,7 +296,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 20,
-    "score": 1067
+    "score": 1067,
+    "globalRank": 3692
   },
   {
     "login": "afshinm",
@@ -291,7 +311,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 21,
-    "score": 2633
+    "score": 2633,
+    "globalRank": 3804
   },
   {
     "login": "damienmaguire",
@@ -305,7 +326,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 22,
-    "score": 1086
+    "score": 1086,
+    "globalRank": 3862
   },
   {
     "login": "arp242",
@@ -319,7 +341,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 23,
-    "score": 1962
+    "score": 1962,
+    "globalRank": 4060
   },
   {
     "login": "bl4de",
@@ -333,7 +356,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 24,
-    "score": 1783
+    "score": 1783,
+    "globalRank": 4301
   },
   {
     "login": "guibranco",
@@ -347,7 +371,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 25,
-    "score": 14506
+    "score": 14506,
+    "globalRank": 4479
   },
   {
     "login": "mp3guy",
@@ -361,7 +386,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 26,
-    "score": 894
+    "score": 894,
+    "globalRank": 4625
   },
   {
     "login": "Prdsilva80",
@@ -375,7 +401,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 27,
-    "score": 882
+    "score": 882,
+    "globalRank": 4733
   },
   {
     "login": "ematipico",
@@ -389,7 +416,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 28,
-    "score": 5222
+    "score": 5222,
+    "globalRank": 4744
   },
   {
     "login": "cpq",
@@ -403,7 +431,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 29,
-    "score": 1272
+    "score": 1272,
+    "globalRank": 4933
   },
   {
     "login": "avidLearnerInProgress",
@@ -417,7 +446,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 30,
-    "score": 1018
+    "score": 1018,
+    "globalRank": 5184
   },
   {
     "login": "moetayuko",
@@ -431,7 +461,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 31,
-    "score": 1984
+    "score": 1984,
+    "globalRank": 5519
   },
   {
     "login": "samdenty",
@@ -445,7 +476,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 32,
-    "score": 1320
+    "score": 1320,
+    "globalRank": 5557
   },
   {
     "login": "AnikSarker",
@@ -459,7 +491,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 33,
-    "score": 716
+    "score": 716,
+    "globalRank": 5871
   },
   {
     "login": "derekmolloy",
@@ -473,7 +506,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 34,
-    "score": 710
+    "score": 710,
+    "globalRank": 5925
   },
   {
     "login": "xiaokangwang",
@@ -487,7 +521,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 35,
-    "score": 1173
+    "score": 1173,
+    "globalRank": 6747
   },
   {
     "login": "flaviojmendes",
@@ -501,7 +536,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 36,
-    "score": 1219
+    "score": 1219,
+    "globalRank": 6919
   },
   {
     "login": "padraic",
@@ -515,7 +551,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 37,
-    "score": 597
+    "score": 597,
+    "globalRank": 7099
   },
   {
     "login": "ahmedadeltito",
@@ -529,7 +566,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 38,
-    "score": 1012
+    "score": 1012,
+    "globalRank": 7167
   },
   {
     "login": "clarkdo",
@@ -543,7 +581,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 39,
-    "score": 2710
+    "score": 2710,
+    "globalRank": 7337
   },
   {
     "login": "rjrodger",
@@ -557,7 +596,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 40,
-    "score": 4638
+    "score": 4638,
+    "globalRank": 7578
   },
   {
     "login": "Rocketknight1",
@@ -571,7 +611,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 41,
-    "score": 2685
+    "score": 2685,
+    "globalRank": 7756
   },
   {
     "login": "rampatra",
@@ -585,7 +626,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 42,
-    "score": 1493
+    "score": 1493,
+    "globalRank": 7806
   },
   {
     "login": "looeee",
@@ -599,7 +641,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 43,
-    "score": 5948
+    "score": 5948,
+    "globalRank": 7885
   },
   {
     "login": "Gpzim98",
@@ -613,7 +656,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 44,
-    "score": 612
+    "score": 612,
+    "globalRank": 8040
   },
   {
     "login": "kracekumar",
@@ -627,7 +671,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 45,
-    "score": 600
+    "score": 600,
+    "globalRank": 8098
   },
   {
     "login": "conorheffron",
@@ -641,7 +686,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 46,
-    "score": 4829
+    "score": 4829,
+    "globalRank": 8129
   },
   {
     "login": "ned14",
@@ -655,7 +701,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 47,
-    "score": 881
+    "score": 881,
+    "globalRank": 8184
   },
   {
     "login": "ElectNewt",
@@ -669,7 +716,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 48,
-    "score": 938
+    "score": 938,
+    "globalRank": 8240
   },
   {
     "login": "sadlil",
@@ -683,7 +731,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 49,
-    "score": 838
+    "score": 838,
+    "globalRank": 8295
   },
   {
     "login": "KevinMulhern",
@@ -697,7 +746,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 50,
-    "score": 1579
+    "score": 1579,
+    "globalRank": 8296
   },
   {
     "login": "ikeydoherty",
@@ -711,7 +761,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 51,
-    "score": 500
+    "score": 500,
+    "globalRank": 8414
   },
   {
     "login": "enty8080",
@@ -725,7 +776,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 52,
-    "score": 568
+    "score": 568,
+    "globalRank": 8698
   },
   {
     "login": "hmikihth",
@@ -739,7 +791,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 53,
-    "score": 527
+    "score": 527,
+    "globalRank": 8708
   },
   {
     "login": "remojansen",
@@ -753,7 +806,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 54,
-    "score": 849
+    "score": 849,
+    "globalRank": 8821
   },
   {
     "login": "tunetheweb",
@@ -767,7 +821,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 55,
-    "score": 1604
+    "score": 1604,
+    "globalRank": 8921
   },
   {
     "login": "techfort",
@@ -781,7 +836,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 56,
-    "score": 1143
+    "score": 1143,
+    "globalRank": 8974
   },
   {
     "login": "stack72",
@@ -795,7 +851,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 57,
-    "score": 6260
+    "score": 6260,
+    "globalRank": 8996
   },
   {
     "login": "abdelazeem201",
@@ -809,7 +866,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 58,
-    "score": 561
+    "score": 561,
+    "globalRank": 9068
   },
   {
     "login": "Umutplvn",
@@ -823,7 +881,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 59,
-    "score": 534
+    "score": 534,
+    "globalRank": 9136
   },
   {
     "login": "juarezpaf",
@@ -837,7 +896,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 60,
-    "score": 645
+    "score": 645,
+    "globalRank": 9258
   },
   {
     "login": "12Knocksinna",
@@ -851,7 +911,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 61,
-    "score": 822
+    "score": 822,
+    "globalRank": 9278
   },
   {
     "login": "theodesp",
@@ -865,7 +926,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 62,
-    "score": 989
+    "score": 989,
+    "globalRank": 9374
   },
   {
     "login": "i1idan",
@@ -879,7 +941,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 63,
-    "score": 460
+    "score": 460,
+    "globalRank": 9405
   },
   {
     "login": "jmcnamara",
@@ -893,7 +956,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 64,
-    "score": 850
+    "score": 850,
+    "globalRank": 9524
   },
   {
     "login": "soub4i",
@@ -907,7 +971,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 65,
-    "score": 848
+    "score": 848,
+    "globalRank": 9621
   },
   {
     "login": "brunaw",
@@ -921,7 +986,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 66,
-    "score": 557
+    "score": 557,
+    "globalRank": 9673
   },
   {
     "login": "igorbrigadir",
@@ -935,7 +1001,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 67,
-    "score": 2324
+    "score": 2324,
+    "globalRank": 9733
   },
   {
     "login": "joestump",
@@ -949,7 +1016,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 68,
-    "score": 3991
+    "score": 3991,
+    "globalRank": 9762
   },
   {
     "login": "rougeth",
@@ -963,7 +1031,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 69,
-    "score": 433
+    "score": 433,
+    "globalRank": 9935
   },
   {
     "login": "skooter500",
@@ -977,7 +1046,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 70,
-    "score": 1025
+    "score": 1025,
+    "globalRank": 10051
   },
   {
     "login": "ppamorim",
@@ -991,7 +1061,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 71,
-    "score": 3526
+    "score": 3526,
+    "globalRank": 10295
   },
   {
     "login": "goenning",
@@ -1005,7 +1076,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 72,
-    "score": 17130
+    "score": 17130,
+    "globalRank": 10372
   },
   {
     "login": "masbahnana",
@@ -1019,7 +1091,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 73,
-    "score": 722
+    "score": 722,
+    "globalRank": 10404
   },
   {
     "login": "0xnobody",
@@ -1033,7 +1106,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 74,
-    "score": 515
+    "score": 515,
+    "globalRank": 10674
   },
   {
     "login": "timmyomahony",
@@ -1047,7 +1121,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 75,
-    "score": 3135
+    "score": 3135,
+    "globalRank": 10675
   },
   {
     "login": "mina1460",
@@ -1061,7 +1136,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 76,
-    "score": 561
+    "score": 561,
+    "globalRank": 10676
   },
   {
     "login": "awesomeAB",
@@ -1075,7 +1151,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 77,
-    "score": 713
+    "score": 713,
+    "globalRank": 10811
   },
   {
     "login": "maK-",
@@ -1089,7 +1166,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 78,
-    "score": 394
+    "score": 394,
+    "globalRank": 10888
   },
   {
     "login": "TravelTimN",
@@ -1103,7 +1181,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 79,
-    "score": 1075
+    "score": 1075,
+    "globalRank": 11254
   },
   {
     "login": "tiemma",
@@ -1117,7 +1196,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 80,
-    "score": 565
+    "score": 565,
+    "globalRank": 11284
   },
   {
     "login": "mcspronko",
@@ -1131,7 +1211,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 81,
-    "score": 1665
+    "score": 1665,
+    "globalRank": 11367
   },
   {
     "login": "mrfearless",
@@ -1145,7 +1226,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 82,
-    "score": 371
+    "score": 371,
+    "globalRank": 11679
   },
   {
     "login": "vitaly-t",
@@ -1159,7 +1241,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 83,
-    "score": 1373
+    "score": 1373,
+    "globalRank": 11753
   },
   {
     "login": "urschrei",
@@ -1173,7 +1256,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 84,
-    "score": 2801
+    "score": 2801,
+    "globalRank": 11869
   },
   {
     "login": "Bouncey",
@@ -1187,7 +1271,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 85,
-    "score": 363
+    "score": 363,
+    "globalRank": 11870
   },
   {
     "login": "rafadelnero",
@@ -1201,7 +1286,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 86,
-    "score": 363
+    "score": 363,
+    "globalRank": 11943
   },
   {
     "login": "wsdo",
@@ -1215,7 +1301,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 87,
-    "score": 7690
+    "score": 7690,
+    "globalRank": 12114
   },
   {
     "login": "LotteMakesStuff",
@@ -1229,7 +1316,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 88,
-    "score": 355
+    "score": 355,
+    "globalRank": 12203
   },
   {
     "login": "mdibaiee",
@@ -1243,7 +1331,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 89,
-    "score": 1635
+    "score": 1635,
+    "globalRank": 12388
   },
   {
     "login": "rlaphoenix",
@@ -1257,7 +1346,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 90,
-    "score": 745
+    "score": 745,
+    "globalRank": 12637
   },
   {
     "login": "sipsorcery",
@@ -1271,7 +1361,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 91,
-    "score": 1416
+    "score": 1416,
+    "globalRank": 12859
   },
   {
     "login": "kevinheavey",
@@ -1285,7 +1376,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 92,
-    "score": 491
+    "score": 491,
+    "globalRank": 12860
   },
   {
     "login": "nsomar",
@@ -1299,7 +1391,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 93,
-    "score": 502
+    "score": 502,
+    "globalRank": 13429
   },
   {
     "login": "garmeeh",
@@ -1313,7 +1406,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 94,
-    "score": 1203
+    "score": 1203,
+    "globalRank": 13474
   },
   {
     "login": "marekdano",
@@ -1327,7 +1421,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 95,
-    "score": 544
+    "score": 544,
+    "globalRank": 13561
   },
   {
     "login": "gabrielschade",
@@ -1341,7 +1436,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 96,
-    "score": 1027
+    "score": 1027,
+    "globalRank": 13606
   },
   {
     "login": "jgrossi",
@@ -1355,7 +1451,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 97,
-    "score": 2859
+    "score": 2859,
+    "globalRank": 13650
   },
   {
     "login": "mariocasciaro",
@@ -1369,7 +1466,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 98,
-    "score": 313
+    "score": 313,
+    "globalRank": 13695
   },
   {
     "login": "Nilliam",
@@ -1383,7 +1481,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 99,
-    "score": 311
+    "score": 311,
+    "globalRank": 13776
   },
   {
     "login": "PaulinaCzarnota",
@@ -1397,7 +1496,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 100,
-    "score": 699
+    "score": 699,
+    "globalRank": 13810
   },
   {
     "login": "alberteije",
@@ -1411,7 +1511,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 101,
-    "score": 341
+    "score": 341,
+    "globalRank": 13910
   },
   {
     "login": "RafaeL-Malaquias",
@@ -1425,7 +1526,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 102,
-    "score": 707
+    "score": 707,
+    "globalRank": 13957
   },
   {
     "login": "finnvoor",
@@ -1439,7 +1541,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 103,
-    "score": 3023
+    "score": 3023,
+    "globalRank": 14168
   },
   {
     "login": "fandreuz",
@@ -1453,7 +1556,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 104,
-    "score": 1938
+    "score": 1938,
+    "globalRank": 14270
   },
   {
     "login": "gokselkoksal",
@@ -1467,7 +1571,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 105,
-    "score": 2188
+    "score": 2188,
+    "globalRank": 14271
   },
   {
     "login": "capnramses",
@@ -1481,7 +1586,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 106,
-    "score": 784
+    "score": 784,
+    "globalRank": 14484
   },
   {
     "login": "markdregan",
@@ -1495,7 +1601,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 107,
-    "score": 311
+    "score": 311,
+    "globalRank": 14597
   },
   {
     "login": "rbanffy",
@@ -1509,7 +1616,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 108,
-    "score": 541
+    "score": 541,
+    "globalRank": 14902
   },
   {
     "login": "gupta-utkarsh",
@@ -1523,7 +1631,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 109,
-    "score": 1669
+    "score": 1669,
+    "globalRank": 14940
   },
   {
     "login": "benmcmahon100",
@@ -1537,7 +1646,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 110,
-    "score": 288
+    "score": 288,
+    "globalRank": 15039
   },
   {
     "login": "ianmcloughlin",
@@ -1551,7 +1661,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 111,
-    "score": 594
+    "score": 594,
+    "globalRank": 15083
   },
   {
     "login": "jason-storey",
@@ -1565,7 +1676,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 112,
-    "score": 296
+    "score": 296,
+    "globalRank": 15167
   },
   {
     "login": "boramalper",
@@ -1579,7 +1691,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 113,
-    "score": 1571
+    "score": 1571,
+    "globalRank": 15285
   },
   {
     "login": "tashfeenahmed",
@@ -1593,7 +1706,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 114,
-    "score": 5537
+    "score": 5537,
+    "globalRank": 15286
   },
   {
     "login": "cdpierse",
@@ -1607,7 +1721,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 115,
-    "score": 358
+    "score": 358,
+    "globalRank": 15334
   },
   {
     "login": "rxluz",
@@ -1621,7 +1736,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 116,
-    "score": 347
+    "score": 347,
+    "globalRank": 15671
   },
   {
     "login": "syxanash",
@@ -1635,7 +1751,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 117,
-    "score": 1392
+    "score": 1392,
+    "globalRank": 15672
   },
   {
     "login": "abhishekhegde",
@@ -1649,7 +1766,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 118,
-    "score": 654
+    "score": 654,
+    "globalRank": 15891
   },
   {
     "login": "greymd",
@@ -1663,7 +1781,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 119,
-    "score": 1237
+    "score": 1237,
+    "globalRank": 16053
   },
   {
     "login": "HouzuoGuo",
@@ -1677,7 +1796,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 120,
-    "score": 321
+    "score": 321,
+    "globalRank": 16270
   },
   {
     "login": "godcrampy",
@@ -1691,7 +1811,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 121,
-    "score": 328
+    "score": 328,
+    "globalRank": 16271
   },
   {
     "login": "mesta1",
@@ -1705,7 +1826,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 122,
-    "score": 262
+    "score": 262,
+    "globalRank": 16485
   },
   {
     "login": "barak",
@@ -1719,7 +1841,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 123,
-    "score": 540
+    "score": 540,
+    "globalRank": 16590
   },
   {
     "login": "crivetimihai",
@@ -1733,7 +1856,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 124,
-    "score": 12183
+    "score": 12183,
+    "globalRank": 16591
   },
   {
     "login": "theWhiteFox",
@@ -1747,7 +1871,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 125,
-    "score": 867
+    "score": 867,
+    "globalRank": 16829
   },
   {
     "login": "gchp",
@@ -1761,7 +1886,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 126,
-    "score": 575
+    "score": 575,
+    "globalRank": 16945
   },
   {
     "login": "dmnfarrell",
@@ -1775,7 +1901,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 127,
-    "score": 284
+    "score": 284,
+    "globalRank": 16946
   },
   {
     "login": "patrick-doyle",
@@ -1789,7 +1916,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 128,
-    "score": 259
+    "score": 259,
+    "globalRank": 17038
   },
   {
     "login": "Rishabh-malhotraa",
@@ -1803,7 +1931,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 129,
-    "score": 271
+    "score": 271,
+    "globalRank": 17039
   },
   {
     "login": "lxsameer",
@@ -1817,7 +1946,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 130,
-    "score": 928
+    "score": 928,
+    "globalRank": 17178
   },
   {
     "login": "benfoxall",
@@ -1831,7 +1961,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 131,
-    "score": 1805
+    "score": 1805,
+    "globalRank": 17301
   },
   {
     "login": "solson",
@@ -1845,7 +1976,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 132,
-    "score": 444
+    "score": 444,
+    "globalRank": 17425
   },
   {
     "login": "sfewer-r7",
@@ -1859,7 +1991,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 133,
-    "score": 373
+    "score": 373,
+    "globalRank": 17529
   },
   {
     "login": "Kevin-Mattheus-Moerman",
@@ -1873,7 +2006,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 134,
-    "score": 471
+    "score": 471,
+    "globalRank": 17530
   },
   {
     "login": "Drjacky",
@@ -1887,7 +2021,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 135,
-    "score": 1363
+    "score": 1363,
+    "globalRank": 17588
   },
   {
     "login": "ciaramcguire",
@@ -1901,7 +2036,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 136,
-    "score": 234
+    "score": 234,
+    "globalRank": 17589
   },
   {
     "login": "amir",
@@ -1915,7 +2051,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 137,
-    "score": 538
+    "score": 538,
+    "globalRank": 17641
   },
   {
     "login": "hassy",
@@ -1929,7 +2066,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 138,
-    "score": 4990
+    "score": 4990,
+    "globalRank": 17642
   },
   {
     "login": "davidcoallier",
@@ -1943,7 +2081,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 139,
-    "score": 253
+    "score": 253,
+    "globalRank": 17704
   },
   {
     "login": "mikebrady",
@@ -1957,7 +2096,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 140,
-    "score": 303
+    "score": 303,
+    "globalRank": 17705
   },
   {
     "login": "mehmetkose",
@@ -1971,7 +2111,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 141,
-    "score": 2146
+    "score": 2146,
+    "globalRank": 17706
   },
   {
     "login": "alanmontgomery",
@@ -1985,7 +2126,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 142,
-    "score": 1339
+    "score": 1339,
+    "globalRank": 17760
   },
   {
     "login": "paulca",
@@ -1999,7 +2141,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 143,
-    "score": 1558
+    "score": 1558,
+    "globalRank": 17859
   },
   {
     "login": "pjfanning",
@@ -2013,7 +2156,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 144,
-    "score": 5790
+    "score": 5790,
+    "globalRank": 17966
   },
   {
     "login": "zeffii",
@@ -2027,7 +2171,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 145,
-    "score": 350
+    "score": 350,
+    "globalRank": 18080
   },
   {
     "login": "Coly010",
@@ -2041,7 +2186,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 146,
-    "score": 1645
+    "score": 1645,
+    "globalRank": 18081
   },
   {
     "login": "pgonzaleznetwork",
@@ -2055,7 +2201,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 147,
-    "score": 363
+    "score": 363,
+    "globalRank": 18128
   },
   {
     "login": "ashteya",
@@ -2069,7 +2216,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 148,
-    "score": 1252
+    "score": 1252,
+    "globalRank": 18179
   },
   {
     "login": "rangav",
@@ -2083,7 +2231,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 149,
-    "score": 291
+    "score": 291,
+    "globalRank": 18346
   },
   {
     "login": "v0l",
@@ -2097,7 +2246,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 150,
-    "score": 2890
+    "score": 2890,
+    "globalRank": 18421
   },
   {
     "login": "414owen",
@@ -2111,7 +2261,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 151,
-    "score": 2445
+    "score": 2445,
+    "globalRank": 18542
   },
   {
     "login": "imduffy15",
@@ -2125,7 +2276,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 152,
-    "score": 1278
+    "score": 1278,
+    "globalRank": 18600
   },
   {
     "login": "adriancooney",
@@ -2139,7 +2291,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 153,
-    "score": 2993
+    "score": 2993,
+    "globalRank": 18664
   },
   {
     "login": "shish",
@@ -2153,7 +2306,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 154,
-    "score": 2329
+    "score": 2329,
+    "globalRank": 18724
   },
   {
     "login": "apssouza22",
@@ -2167,7 +2321,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 155,
-    "score": 627
+    "score": 627,
+    "globalRank": 18793
   },
   {
     "login": "oisee",
@@ -2181,7 +2336,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 156,
-    "score": 4181
+    "score": 4181,
+    "globalRank": 18853
   },
   {
     "login": "No9",
@@ -2195,7 +2351,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 157,
-    "score": 244
+    "score": 244,
+    "globalRank": 19119
   },
   {
     "login": "Andrea",
@@ -2209,7 +2366,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 158,
-    "score": 384
+    "score": 384,
+    "globalRank": 19261
   },
   {
     "login": "NayeonKeum",
@@ -2223,7 +2381,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 159,
-    "score": 221
+    "score": 221,
+    "globalRank": 19262
   },
   {
     "login": "5agado",
@@ -2237,7 +2396,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 160,
-    "score": 214
+    "score": 214,
+    "globalRank": 19338
   },
   {
     "login": "fabiocerqueira",
@@ -2251,7 +2411,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 161,
-    "score": 2223
+    "score": 2223,
+    "globalRank": 19418
   },
   {
     "login": "lechien73",
@@ -2265,7 +2426,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 162,
-    "score": 340
+    "score": 340,
+    "globalRank": 19419
   },
   {
     "login": "AemieJ",
@@ -2279,7 +2441,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 163,
-    "score": 204
+    "score": 204,
+    "globalRank": 19420
   },
   {
     "login": "SaM-92",
@@ -2293,7 +2456,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 164,
-    "score": 374
+    "score": 374,
+    "globalRank": 19492
   },
   {
     "login": "dgonzalez",
@@ -2307,7 +2471,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 165,
-    "score": 576
+    "score": 576,
+    "globalRank": 19701
   },
   {
     "login": "kriscfoster",
@@ -2321,7 +2486,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 166,
-    "score": 231
+    "score": 231,
+    "globalRank": 19773
   },
   {
     "login": "thiagokokada",
@@ -2335,7 +2501,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 167,
-    "score": 5724
+    "score": 5724,
+    "globalRank": 19774
   },
   {
     "login": "duplxey",
@@ -2349,7 +2516,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 168,
-    "score": 1429
+    "score": 1429,
+    "globalRank": 19939
   },
   {
     "login": "GavinJoyce",
@@ -2363,7 +2531,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 169,
-    "score": 9034
+    "score": 9034,
+    "globalRank": 20008
   },
   {
     "login": "auxfuse",
@@ -2377,7 +2546,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 170,
-    "score": 207
+    "score": 207,
+    "globalRank": 20009
   },
   {
     "login": "Dee-McG",
@@ -2391,7 +2561,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 171,
-    "score": 346
+    "score": 346,
+    "globalRank": 20075
   },
   {
     "login": "pallotron",
@@ -2405,7 +2576,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 172,
-    "score": 1179
+    "score": 1179,
+    "globalRank": 20076
   },
   {
     "login": "npgall",
@@ -2419,7 +2591,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 173,
-    "score": 194
+    "score": 194,
+    "globalRank": 20151
   },
   {
     "login": "mattdonnelly",
@@ -2433,7 +2606,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 174,
-    "score": 724
+    "score": 724,
+    "globalRank": 20283
   },
   {
     "login": "afk11",
@@ -2447,7 +2621,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 175,
-    "score": 552
+    "score": 552,
+    "globalRank": 20356
   },
   {
     "login": "DarthGandalf",
@@ -2461,7 +2636,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 176,
-    "score": 1034
+    "score": 1034,
+    "globalRank": 20427
   },
   {
     "login": "oliver-moran",
@@ -2475,7 +2651,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 177,
-    "score": 315
+    "score": 315,
+    "globalRank": 20506
   },
   {
     "login": "Flavien",
@@ -2489,7 +2666,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 178,
-    "score": 686
+    "score": 686,
+    "globalRank": 20507
   },
   {
     "login": "adam-lynch",
@@ -2503,7 +2681,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 179,
-    "score": 1278
+    "score": 1278,
+    "globalRank": 20508
   },
   {
     "login": "alanjhughes",
@@ -2517,7 +2696,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 180,
-    "score": 2171
+    "score": 2171,
+    "globalRank": 20578
   },
   {
     "login": "colmtuite",
@@ -2531,7 +2711,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 181,
-    "score": 517
+    "score": 517,
+    "globalRank": 20664
   },
   {
     "login": "esteedqueen",
@@ -2545,7 +2726,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 182,
-    "score": 2058
+    "score": 2058,
+    "globalRank": 20665
   },
   {
     "login": "bact",
@@ -2559,7 +2741,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 183,
-    "score": 5625
+    "score": 5625,
+    "globalRank": 20666
   },
   {
     "login": "morganmcg1",
@@ -2573,7 +2756,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 184,
-    "score": 10232
+    "score": 10232,
+    "globalRank": 20823
   },
   {
     "login": "DamnWidget",
@@ -2587,7 +2771,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 185,
-    "score": 187
+    "score": 187,
+    "globalRank": 20824
   },
   {
     "login": "nhtlongcs",
@@ -2601,7 +2786,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 186,
-    "score": 885
+    "score": 885,
+    "globalRank": 21019
   },
   {
     "login": "MatissJanis",
@@ -2615,7 +2801,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 187,
-    "score": 4669
+    "score": 4669,
+    "globalRank": 21020
   },
   {
     "login": "gavinlyonsrepo",
@@ -2629,7 +2816,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 188,
-    "score": 481
+    "score": 481,
+    "globalRank": 21021
   },
   {
     "login": "ahmdmhasn",
@@ -2643,7 +2831,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 189,
-    "score": 1492
+    "score": 1492,
+    "globalRank": 21111
   },
   {
     "login": "maxday",
@@ -2657,7 +2846,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 190,
-    "score": 477
+    "score": 477,
+    "globalRank": 21112
   },
   {
     "login": "carlosfilhou",
@@ -2671,7 +2861,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 191,
-    "score": 210
+    "score": 210,
+    "globalRank": 21113
   },
   {
     "login": "raonyguimaraes",
@@ -2685,7 +2876,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 192,
-    "score": 265
+    "score": 265,
+    "globalRank": 21201
   },
   {
     "login": "caquino",
@@ -2699,7 +2891,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 193,
-    "score": 1362
+    "score": 1362,
+    "globalRank": 21392
   },
   {
     "login": "rojer",
@@ -2713,7 +2906,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 194,
-    "score": 211
+    "score": 211,
+    "globalRank": 21475
   },
   {
     "login": "ddivad195",
@@ -2727,7 +2921,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 195,
-    "score": 788
+    "score": 788,
+    "globalRank": 21476
   },
   {
     "login": "IanMadlenya",
@@ -2741,7 +2936,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 196,
-    "score": 177
+    "score": 177,
+    "globalRank": 21554
   },
   {
     "login": "stephenc",
@@ -2755,7 +2951,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 197,
-    "score": 713
+    "score": 713,
+    "globalRank": 21643
   },
   {
     "login": "andrewcparnell",
@@ -2769,7 +2966,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 198,
-    "score": 380
+    "score": 380,
+    "globalRank": 21835
   },
   {
     "login": "tmoroney",
@@ -2783,7 +2981,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 199,
-    "score": 943
+    "score": 943,
+    "globalRank": 21933
   },
   {
     "login": "ymoslem",
@@ -2797,7 +2996,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 200,
-    "score": 290
+    "score": 290,
+    "globalRank": 22051
   },
   {
     "login": "colmdoyle",
@@ -2811,7 +3011,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 201,
-    "score": 713
+    "score": 713,
+    "globalRank": 22052
   },
   {
     "login": "eduardolbruno",
@@ -2825,7 +3026,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 202,
-    "score": 1618
+    "score": 1618,
+    "globalRank": 22165
   },
   {
     "login": "MJKSabit",
@@ -2839,7 +3041,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 203,
-    "score": 852
+    "score": 852,
+    "globalRank": 22166
   },
   {
     "login": "RonanKMcGovern",
@@ -2853,7 +3056,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 204,
-    "score": 6959
+    "score": 6959,
+    "globalRank": 22167
   },
   {
     "login": "faustogut",
@@ -2867,7 +3071,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 205,
-    "score": 178
+    "score": 178,
+    "globalRank": 22288
   },
   {
     "login": "donovanh",
@@ -2881,7 +3086,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 206,
-    "score": 2383
+    "score": 2383,
+    "globalRank": 22289
   },
   {
     "login": "timbunce",
@@ -2895,7 +3101,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 207,
-    "score": 170
+    "score": 170,
+    "globalRank": 22290
   },
   {
     "login": "igalic",
@@ -2909,7 +3116,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 208,
-    "score": 171
+    "score": 171,
+    "globalRank": 22512
   },
   {
     "login": "aliva",
@@ -2923,7 +3131,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 209,
-    "score": 322
+    "score": 322,
+    "globalRank": 22513
   },
   {
     "login": "AmrThabet",
@@ -2937,7 +3146,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 210,
-    "score": 178
+    "score": 178,
+    "globalRank": 22514
   },
   {
     "login": "maurice-daly",
@@ -2951,7 +3161,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 211,
-    "score": 251
+    "score": 251,
+    "globalRank": 22634
   },
   {
     "login": "dovy",
@@ -2965,7 +3176,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 212,
-    "score": 2873
+    "score": 2873,
+    "globalRank": 22750
   },
   {
     "login": "gmertk",
@@ -2979,7 +3191,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 213,
-    "score": 785
+    "score": 785,
+    "globalRank": 22857
   },
   {
     "login": "dr-matt-smith",
@@ -2993,7 +3206,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 214,
-    "score": 1150
+    "score": 1150,
+    "globalRank": 22858
   },
   {
     "login": "mehdime",
@@ -3007,7 +3221,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 215,
-    "score": 165
+    "score": 165,
+    "globalRank": 22859
   },
   {
     "login": "ttroy50",
@@ -3021,7 +3236,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 216,
-    "score": 164
+    "score": 164,
+    "globalRank": 22979
   },
   {
     "login": "Jackojc",
@@ -3035,7 +3251,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 217,
-    "score": 450
+    "score": 450,
+    "globalRank": 22980
   },
   {
     "login": "marreapato",
@@ -3049,7 +3266,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 218,
-    "score": 186
+    "score": 186,
+    "globalRank": 22981
   },
   {
     "login": "coderick14",
@@ -3063,7 +3281,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 219,
-    "score": 163
+    "score": 163,
+    "globalRank": 23110
   },
   {
     "login": "tsee",
@@ -3077,7 +3296,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 220,
-    "score": 165
+    "score": 165,
+    "globalRank": 23111
   },
   {
     "login": "relistan",
@@ -3091,7 +3311,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 221,
-    "score": 1770
+    "score": 1770,
+    "globalRank": 23112
   },
   {
     "login": "kerimdzhanov",
@@ -3105,7 +3326,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 222,
-    "score": 163
+    "score": 163,
+    "globalRank": 23234
   },
   {
     "login": "BDQ",
@@ -3119,7 +3341,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 223,
-    "score": 919
+    "score": 919,
+    "globalRank": 23235
   },
   {
     "login": "Gamr13",
@@ -3133,7 +3356,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 224,
-    "score": 169
+    "score": 169,
+    "globalRank": 23352
   },
   {
     "login": "barreeeiroo",
@@ -3147,7 +3371,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 225,
-    "score": 3534
+    "score": 3534,
+    "globalRank": 23470
   },
   {
     "login": "dbafromthecold",
@@ -3161,7 +3386,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 226,
-    "score": 577
+    "score": 577,
+    "globalRank": 23471
   },
   {
     "login": "Pamir",
@@ -3175,7 +3401,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 227,
-    "score": 222
+    "score": 222,
+    "globalRank": 23585
   },
   {
     "login": "bartelink",
@@ -3189,7 +3416,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 228,
-    "score": 623
+    "score": 623,
+    "globalRank": 23586
   },
   {
     "login": "mansona",
@@ -3203,7 +3431,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 229,
-    "score": 3652
+    "score": 3652,
+    "globalRank": 23710
   },
   {
     "login": "harryhaaren",
@@ -3217,7 +3446,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 230,
-    "score": 186
+    "score": 186,
+    "globalRank": 23851
   },
   {
     "login": "RobertJGabriel",
@@ -3231,7 +3461,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 231,
-    "score": 1082
+    "score": 1082,
+    "globalRank": 23852
   },
   {
     "login": "Barqawiz",
@@ -3245,7 +3476,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 232,
-    "score": 1937
+    "score": 1937,
+    "globalRank": 23987
   },
   {
     "login": "Nogostradamus",
@@ -3259,7 +3491,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 233,
-    "score": 156
+    "score": 156,
+    "globalRank": 23988
   },
   {
     "login": "JimDuggan",
@@ -3273,7 +3506,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 234,
-    "score": 274
+    "score": 274,
+    "globalRank": 23989
   },
   {
     "login": "chrishokamp",
@@ -3287,7 +3521,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 235,
-    "score": 279
+    "score": 279,
+    "globalRank": 24109
   },
   {
     "login": "ankitrohatgi",
@@ -3301,7 +3536,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 236,
-    "score": 194
+    "score": 194,
+    "globalRank": 24261
   },
   {
     "login": "dreamos82",
@@ -3315,7 +3551,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 237,
-    "score": 256
+    "score": 256,
+    "globalRank": 24262
   },
   {
     "login": "cleder",
@@ -3329,7 +3566,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 238,
-    "score": 1512
+    "score": 1512,
+    "globalRank": 24399
   },
   {
     "login": "MarcoForte",
@@ -3343,7 +3581,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 239,
-    "score": 406
+    "score": 406,
+    "globalRank": 24400
   },
   {
     "login": "cassiomolin",
@@ -3357,7 +3596,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 240,
-    "score": 1548
+    "score": 1548,
+    "globalRank": 24516
   },
   {
     "login": "sivaschenko",
@@ -3371,7 +3611,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 241,
-    "score": 560
+    "score": 560,
+    "globalRank": 24517
   },
   {
     "login": "Zer0xFF",
@@ -3385,7 +3626,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 242,
-    "score": 1080
+    "score": 1080,
+    "globalRank": 24518
   },
   {
     "login": "johnmcfarlane",
@@ -3399,7 +3641,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 243,
-    "score": 293
+    "score": 293,
+    "globalRank": 24662
   },
   {
     "login": "apoclyps",
@@ -3413,7 +3656,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 244,
-    "score": 1532
+    "score": 1532,
+    "globalRank": 24663
   },
   {
     "login": "NiallJoeMaher",
@@ -3427,7 +3671,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 245,
-    "score": 1091
+    "score": 1091,
+    "globalRank": 24664
   },
   {
     "login": "michel-slm",
@@ -3441,7 +3686,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 246,
-    "score": 724
+    "score": 724,
+    "globalRank": 24799
   },
   {
     "login": "Chippd",
@@ -3455,7 +3701,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 247,
-    "score": 155
+    "score": 155,
+    "globalRank": 24800
   },
   {
     "login": "ChenghaoMou",
@@ -3469,7 +3716,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 248,
-    "score": 305
+    "score": 305,
+    "globalRank": 24942
   },
   {
     "login": "plattysoft",
@@ -3483,7 +3731,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 249,
-    "score": 168
+    "score": 168,
+    "globalRank": 24943
   },
   {
     "login": "cathalmccabe",
@@ -3497,7 +3746,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 250,
-    "score": 182
+    "score": 182,
+    "globalRank": 25079
   },
   {
     "login": "oguzhane",
@@ -3511,7 +3761,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 251,
-    "score": 374
+    "score": 374,
+    "globalRank": 25213
   },
   {
     "login": "jdesbonnet",
@@ -3525,7 +3776,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 252,
-    "score": 1212
+    "score": 1212,
+    "globalRank": 25214
   },
   {
     "login": "andressadotpy",
@@ -3539,7 +3791,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 253,
-    "score": 216
+    "score": 216,
+    "globalRank": 25340
   },
   {
     "login": "eugeneius",
@@ -3553,7 +3806,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 254,
-    "score": 193
+    "score": 193,
+    "globalRank": 25475
   },
   {
     "login": "oisdk",
@@ -3567,7 +3821,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 255,
-    "score": 198
+    "score": 198,
+    "globalRank": 25476
   },
   {
     "login": "thesimplekid",
@@ -3581,7 +3836,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 256,
-    "score": 2321
+    "score": 2321,
+    "globalRank": 25627
   },
   {
     "login": "tranlenam",
@@ -3595,7 +3851,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 257,
-    "score": 144
+    "score": 144,
+    "globalRank": 25781
   },
   {
     "login": "dakota",
@@ -3609,7 +3866,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 258,
-    "score": 2731
+    "score": 2731,
+    "globalRank": 25782
   },
   {
     "login": "mspronesti",
@@ -3623,7 +3881,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 259,
-    "score": 262
+    "score": 262,
+    "globalRank": 25783
   },
   {
     "login": "jasebell",
@@ -3637,7 +3896,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 260,
-    "score": 565
+    "score": 565,
+    "globalRank": 25784
   },
   {
     "login": "luizgrp",
@@ -3651,7 +3911,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 261,
-    "score": 177
+    "score": 177,
+    "globalRank": 25936
   },
   {
     "login": "aviraldg",
@@ -3665,7 +3926,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 262,
-    "score": 203
+    "score": 203,
+    "globalRank": 25937
   },
   {
     "login": "alphaville",
@@ -3679,7 +3941,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 263,
-    "score": 2124
+    "score": 2124,
+    "globalRank": 26085
   },
   {
     "login": "MrDHat",
@@ -3693,7 +3956,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 264,
-    "score": 2427
+    "score": 2427,
+    "globalRank": 26086
   },
   {
     "login": "RobertMyles",
@@ -3707,7 +3971,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 265,
-    "score": 143
+    "score": 143,
+    "globalRank": 26087
   },
   {
     "login": "shaneosullivan",
@@ -3721,7 +3986,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 266,
-    "score": 2049
+    "score": 2049,
+    "globalRank": 26088
   },
   {
     "login": "alamgirqazi",
@@ -3735,7 +4001,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 267,
-    "score": 969
+    "score": 969,
+    "globalRank": 26233
   },
   {
     "login": "sadhbh-c0d3",
@@ -3749,7 +4016,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 268,
-    "score": 1071
+    "score": 1071,
+    "globalRank": 26234
   },
   {
     "login": "gohabereg",
@@ -3763,7 +4031,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 269,
-    "score": 309
+    "score": 309,
+    "globalRank": 26394
   },
   {
     "login": "sentriz",
@@ -3777,7 +4046,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 270,
-    "score": 2755
+    "score": 2755,
+    "globalRank": 26395
   },
   {
     "login": "NicolasRibeiroFontes",
@@ -3791,7 +4061,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 271,
-    "score": 138
+    "score": 138,
+    "globalRank": 26548
   },
   {
     "login": "cygri",
@@ -3805,7 +4076,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 272,
-    "score": 148
+    "score": 148,
+    "globalRank": 26549
   },
   {
     "login": "MosesEsan",
@@ -3819,7 +4091,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 273,
-    "score": 394
+    "score": 394,
+    "globalRank": 26550
   },
   {
     "login": "adamisntdead",
@@ -3833,7 +4106,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 274,
-    "score": 460
+    "score": 460,
+    "globalRank": 26551
   },
   {
     "login": "niqdev",
@@ -3847,7 +4121,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 275,
-    "score": 356
+    "score": 356,
+    "globalRank": 26707
   },
   {
     "login": "WamWooWam",
@@ -3861,7 +4136,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 276,
-    "score": 384
+    "score": 384,
+    "globalRank": 26708
   },
   {
     "login": "isabellasouzas",
@@ -3875,7 +4151,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 277,
-    "score": 137
+    "score": 137,
+    "globalRank": 26709
   },
   {
     "login": "bnomei",
@@ -3889,7 +4166,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 278,
-    "score": 5267
+    "score": 5267,
+    "globalRank": 26863
   },
   {
     "login": "rcarriga",
@@ -3903,7 +4181,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 279,
-    "score": 230
+    "score": 230,
+    "globalRank": 26864
   },
   {
     "login": "Rita-Okonkwo",
@@ -3917,7 +4196,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 280,
-    "score": 145
+    "score": 145,
+    "globalRank": 26865
   },
   {
     "login": "YoungForest",
@@ -3931,7 +4211,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 281,
-    "score": 201
+    "score": 201,
+    "globalRank": 27023
   },
   {
     "login": "Badhansen",
@@ -3945,7 +4226,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 282,
-    "score": 332
+    "score": 332,
+    "globalRank": 27024
   },
   {
     "login": "idontknowjs",
@@ -3959,7 +4241,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 283,
-    "score": 147
+    "score": 147,
+    "globalRank": 27025
   },
   {
     "login": "Jean28518",
@@ -3973,7 +4256,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 284,
-    "score": 542
+    "score": 542,
+    "globalRank": 27026
   },
   {
     "login": "bakszero",
@@ -3987,7 +4271,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 285,
-    "score": 134
+    "score": 134,
+    "globalRank": 27202
   },
   {
     "login": "AdrianRossouw",
@@ -4001,7 +4286,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 286,
-    "score": 140
+    "score": 140,
+    "globalRank": 27203
   },
   {
     "login": "MarekMarchlewicz",
@@ -4015,7 +4301,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 287,
-    "score": 315
+    "score": 315,
+    "globalRank": 27204
   },
   {
     "login": "arashm",
@@ -4029,7 +4316,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 288,
-    "score": 391
+    "score": 391,
+    "globalRank": 27205
   },
   {
     "login": "osslate",
@@ -4043,7 +4331,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 289,
-    "score": 135
+    "score": 135,
+    "globalRank": 27206
   },
   {
     "login": "dionarodrigues",
@@ -4057,7 +4346,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 290,
-    "score": 135
+    "score": 135,
+    "globalRank": 27369
   },
   {
     "login": "jalalazimi",
@@ -4071,7 +4361,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 291,
-    "score": 379
+    "score": 379,
+    "globalRank": 27538
   },
   {
     "login": "josmas",
@@ -4085,7 +4376,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 292,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 27539
   },
   {
     "login": "techbysj",
@@ -4099,7 +4391,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 293,
-    "score": 197
+    "score": 197,
+    "globalRank": 27683
   },
   {
     "login": "adityastic",
@@ -4113,7 +4406,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 294,
-    "score": 1781
+    "score": 1781,
+    "globalRank": 27684
   },
   {
     "login": "derekgreene",
@@ -4127,7 +4421,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 295,
-    "score": 243
+    "score": 243,
+    "globalRank": 27685
   },
   {
     "login": "barnex",
@@ -4141,7 +4436,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 296,
-    "score": 2228
+    "score": 2228,
+    "globalRank": 27852
   },
   {
     "login": "krinkinmu",
@@ -4155,7 +4451,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 297,
-    "score": 428
+    "score": 428,
+    "globalRank": 27853
   },
   {
     "login": "GlenTiki",
@@ -4169,7 +4466,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 298,
-    "score": 1073
+    "score": 1073,
+    "globalRank": 28006
   },
   {
     "login": "Strum355",
@@ -4183,7 +4481,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 299,
-    "score": 559
+    "score": 559,
+    "globalRank": 28173
   },
   {
     "login": "Ziggoto",
@@ -4197,7 +4496,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 300,
-    "score": 521
+    "score": 521,
+    "globalRank": 28174
   },
   {
     "login": "daveearley",
@@ -4211,7 +4511,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 301,
-    "score": 707
+    "score": 707,
+    "globalRank": 28175
   },
   {
     "login": "dmulholl",
@@ -4225,7 +4526,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 302,
-    "score": 255
+    "score": 255,
+    "globalRank": 28176
   },
   {
     "login": "arthurbdiniz",
@@ -4239,7 +4541,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 303,
-    "score": 198
+    "score": 198,
+    "globalRank": 28177
   },
   {
     "login": "nigelbabu",
@@ -4253,7 +4556,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 304,
-    "score": 128
+    "score": 128,
+    "globalRank": 28367
   },
   {
     "login": "ericm",
@@ -4267,7 +4571,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 305,
-    "score": 1986
+    "score": 1986,
+    "globalRank": 28368
   },
   {
     "login": "brianmcgee",
@@ -4281,7 +4586,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 306,
-    "score": 1566
+    "score": 1566,
+    "globalRank": 28369
   },
   {
     "login": "Mirzzie",
@@ -4295,7 +4601,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 307,
-    "score": 575
+    "score": 575,
+    "globalRank": 28370
   },
   {
     "login": "victor-cody",
@@ -4309,7 +4616,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 308,
-    "score": 132
+    "score": 132,
+    "globalRank": 28371
   },
   {
     "login": "eoin",
@@ -4323,7 +4631,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 309,
-    "score": 867
+    "score": 867,
+    "globalRank": 28372
   },
   {
     "login": "efazati",
@@ -4337,7 +4646,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 310,
-    "score": 185
+    "score": 185,
+    "globalRank": 28548
   },
   {
     "login": "mrdavidlaing",
@@ -4351,7 +4661,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 311,
-    "score": 3279
+    "score": 3279,
+    "globalRank": 28549
   },
   {
     "login": "andrewm4894",
@@ -4365,7 +4676,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 312,
-    "score": 4037
+    "score": 4037,
+    "globalRank": 28550
   },
   {
     "login": "mikhailov",
@@ -4379,7 +4691,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 313,
-    "score": 221
+    "score": 221,
+    "globalRank": 28551
   },
   {
     "login": "mgriffin",
@@ -4393,7 +4706,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 314,
-    "score": 725
+    "score": 725,
+    "globalRank": 28552
   },
   {
     "login": "brk3",
@@ -4407,7 +4721,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 315,
-    "score": 587
+    "score": 587,
+    "globalRank": 28553
   },
   {
     "login": "julia-finassi",
@@ -4421,7 +4736,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 316,
-    "score": 126
+    "score": 126,
+    "globalRank": 28554
   },
   {
     "login": "owlrana",
@@ -4435,7 +4751,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 317,
-    "score": 322
+    "score": 322,
+    "globalRank": 28751
   },
   {
     "login": "nating",
@@ -4449,7 +4766,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 318,
-    "score": 4526
+    "score": 4526,
+    "globalRank": 28752
   },
   {
     "login": "davej",
@@ -4463,7 +4781,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 319,
-    "score": 1325
+    "score": 1325,
+    "globalRank": 28753
   },
   {
     "login": "Arnklit",
@@ -4477,7 +4796,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 320,
-    "score": 398
+    "score": 398,
+    "globalRank": 28754
   },
   {
     "login": "edeleastar",
@@ -4491,7 +4811,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 321,
-    "score": 1349
+    "score": 1349,
+    "globalRank": 28755
   },
   {
     "login": "joshuacassidy",
@@ -4505,7 +4826,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 322,
-    "score": 124
+    "score": 124,
+    "globalRank": 28918
   },
   {
     "login": "kiall",
@@ -4519,7 +4841,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 323,
-    "score": 198
+    "score": 198,
+    "globalRank": 28919
   },
   {
     "login": "GamingGeek",
@@ -4533,7 +4856,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 324,
-    "score": 1114
+    "score": 1114,
+    "globalRank": 28920
   },
   {
     "login": "mushketyk",
@@ -4547,7 +4871,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 325,
-    "score": 203
+    "score": 203,
+    "globalRank": 28921
   },
   {
     "login": "elisemercury",
@@ -4561,7 +4886,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 326,
-    "score": 162
+    "score": 162,
+    "globalRank": 29128
   },
   {
     "login": "rconfig",
@@ -4575,7 +4901,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 327,
-    "score": 349
+    "score": 349,
+    "globalRank": 29129
   },
   {
     "login": "hayesla",
@@ -4589,7 +4916,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 328,
-    "score": 384
+    "score": 384,
+    "globalRank": 29306
   },
   {
     "login": "caio-emidio",
@@ -4603,7 +4931,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 329,
-    "score": 939
+    "score": 939,
+    "globalRank": 29307
   },
   {
     "login": "lyuchenyang",
@@ -4617,7 +4946,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 330,
-    "score": 153
+    "score": 153,
+    "globalRank": 29487
   },
   {
     "login": "scottyzen",
@@ -4631,7 +4961,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 331,
-    "score": 1054
+    "score": 1054,
+    "globalRank": 29488
   },
   {
     "login": "gridhawk",
@@ -4645,7 +4976,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 332,
-    "score": 124
+    "score": 124,
+    "globalRank": 29489
   },
   {
     "login": "JuniorTorresMTJ",
@@ -4659,7 +4991,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 333,
-    "score": 163
+    "score": 163,
+    "globalRank": 29687
   },
   {
     "login": "matthutchinson",
@@ -4673,7 +5006,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 334,
-    "score": 1440
+    "score": 1440,
+    "globalRank": 29688
   },
   {
     "login": "honey-speaks-tech",
@@ -4687,7 +5021,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 335,
-    "score": 122
+    "score": 122,
+    "globalRank": 29689
   },
   {
     "login": "JonHanna",
@@ -4701,7 +5036,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 336,
-    "score": 120
+    "score": 120,
+    "globalRank": 29690
   },
   {
     "login": "darth30joker",
@@ -4715,7 +5051,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 337,
-    "score": 124
+    "score": 124,
+    "globalRank": 29891
   },
   {
     "login": "timf34",
@@ -4729,7 +5066,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 338,
-    "score": 1865
+    "score": 1865,
+    "globalRank": 29892
   },
   {
     "login": "marlonbernardes",
@@ -4743,7 +5081,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 339,
-    "score": 813
+    "score": 813,
+    "globalRank": 29893
   },
   {
     "login": "stephenfin",
@@ -4757,7 +5096,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 340,
-    "score": 1134
+    "score": 1134,
+    "globalRank": 29894
   },
   {
     "login": "xaionaro",
@@ -4771,7 +5111,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 341,
-    "score": 1756
+    "score": 1756,
+    "globalRank": 29895
   },
   {
     "login": "albertauyeung",
@@ -4785,7 +5126,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 342,
-    "score": 323
+    "score": 323,
+    "globalRank": 30077
   },
   {
     "login": "izanf",
@@ -4799,7 +5141,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 343,
-    "score": 753
+    "score": 753,
+    "globalRank": 30078
   },
   {
     "login": "shaneaevans",
@@ -4813,7 +5156,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 344,
-    "score": 120
+    "score": 120,
+    "globalRank": 30079
   },
   {
     "login": "piger",
@@ -4827,7 +5171,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 345,
-    "score": 863
+    "score": 863,
+    "globalRank": 30080
   },
   {
     "login": "devinvestidor",
@@ -4841,7 +5186,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 346,
-    "score": 162
+    "score": 162,
+    "globalRank": 30081
   },
   {
     "login": "GouthamShiv",
@@ -4855,7 +5201,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 347,
-    "score": 211
+    "score": 211,
+    "globalRank": 30082
   },
   {
     "login": "Albert-W",
@@ -4869,7 +5216,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 348,
-    "score": 129
+    "score": 129,
+    "globalRank": 30083
   },
   {
     "login": "RobertKielty",
@@ -4883,7 +5231,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 349,
-    "score": 545
+    "score": 545,
+    "globalRank": 30286
   },
   {
     "login": "braaannigan",
@@ -4897,7 +5246,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 350,
-    "score": 127
+    "score": 127,
+    "globalRank": 30287
   },
   {
     "login": "manfromanotherland",
@@ -4911,7 +5261,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 351,
-    "score": 814
+    "score": 814,
+    "globalRank": 30288
   },
   {
     "login": "davidkirwan",
@@ -4925,7 +5276,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 352,
-    "score": 191
+    "score": 191,
+    "globalRank": 30289
   },
   {
     "login": "alanmcgovern",
@@ -4939,7 +5291,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 353,
-    "score": 249
+    "score": 249,
+    "globalRank": 30738
   },
   {
     "login": "acoravos",
@@ -4953,7 +5306,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 354,
-    "score": 151
+    "score": 151,
+    "globalRank": 30739
   },
   {
     "login": "SeanDuggan",
@@ -4967,7 +5321,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 355,
-    "score": 144
+    "score": 144,
+    "globalRank": 30740
   },
   {
     "login": "peterdavidfagan",
@@ -4981,7 +5336,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 356,
-    "score": 7715
+    "score": 7715,
+    "globalRank": 30741
   },
   {
     "login": "starrify",
@@ -4995,7 +5351,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 357,
-    "score": 598
+    "score": 598,
+    "globalRank": 30948
   },
   {
     "login": "Guray00",
@@ -5009,7 +5366,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 358,
-    "score": 167
+    "score": 167,
+    "globalRank": 30949
   },
   {
     "login": "mehmetkut",
@@ -5023,7 +5381,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 359,
-    "score": 115
+    "score": 115,
+    "globalRank": 30950
   },
   {
     "login": "MathieuBuisson",
@@ -5037,7 +5396,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 360,
-    "score": 354
+    "score": 354,
+    "globalRank": 30951
   },
   {
     "login": "rohantaneja",
@@ -5051,7 +5411,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 361,
-    "score": 352
+    "score": 352,
+    "globalRank": 30952
   },
   {
     "login": "qudongfang",
@@ -5065,7 +5426,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 362,
-    "score": 1351
+    "score": 1351,
+    "globalRank": 31184
   },
   {
     "login": "conorluddy",
@@ -5079,7 +5441,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 363,
-    "score": 9195
+    "score": 9195,
+    "globalRank": 31185
   },
   {
     "login": "laurakalbag",
@@ -5093,7 +5456,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 364,
-    "score": 122
+    "score": 122,
+    "globalRank": 31186
   },
   {
     "login": "butlerx",
@@ -5107,7 +5471,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 365,
-    "score": 3345
+    "score": 3345,
+    "globalRank": 31396
   },
   {
     "login": "mike12345567",
@@ -5121,7 +5486,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 366,
-    "score": 1387
+    "score": 1387,
+    "globalRank": 31397
   },
   {
     "login": "walterhiggins",
@@ -5135,7 +5501,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 367,
-    "score": 112
+    "score": 112,
+    "globalRank": 31398
   },
   {
     "login": "Thrifleganger",
@@ -5149,7 +5516,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 368,
-    "score": 128
+    "score": 128,
+    "globalRank": 31399
   },
   {
     "login": "sberyozkin",
@@ -5163,7 +5531,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 369,
-    "score": 1158
+    "score": 1158,
+    "globalRank": 31400
   },
   {
     "login": "claudinecallaghan",
@@ -5177,7 +5546,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 370,
-    "score": 112
+    "score": 112,
+    "globalRank": 31632
   },
   {
     "login": "RolH1992",
@@ -5191,7 +5561,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 371,
-    "score": 189
+    "score": 189,
+    "globalRank": 31633
   },
   {
     "login": "conorosully",
@@ -5205,7 +5576,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 372,
-    "score": 126
+    "score": 126,
+    "globalRank": 31634
   },
   {
     "login": "sadsfae",
@@ -5219,7 +5591,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 373,
-    "score": 1676
+    "score": 1676,
+    "globalRank": 31635
   },
   {
     "login": "theycallmemac",
@@ -5233,7 +5606,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 374,
-    "score": 195
+    "score": 195,
+    "globalRank": 31893
   },
   {
     "login": "nebkat",
@@ -5247,7 +5621,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 375,
-    "score": 3193
+    "score": 3193,
+    "globalRank": 31894
   },
   {
     "login": "kieranjol",
@@ -5261,7 +5636,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 376,
-    "score": 123
+    "score": 123,
+    "globalRank": 31895
   },
   {
     "login": "johnmcclean",
@@ -5275,7 +5651,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 377,
-    "score": 110
+    "score": 110,
+    "globalRank": 31896
   },
   {
     "login": "suttonpd",
@@ -5289,7 +5666,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 378,
-    "score": 110
+    "score": 110,
+    "globalRank": 31897
   },
   {
     "login": "patch",
@@ -5303,7 +5681,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 379,
-    "score": 173
+    "score": 173,
+    "globalRank": 32127
   },
   {
     "login": "jerry-shao",
@@ -5317,7 +5696,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 380,
-    "score": 112
+    "score": 112,
+    "globalRank": 32128
   },
   {
     "login": "dehora",
@@ -5331,7 +5711,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 381,
-    "score": 547
+    "score": 547,
+    "globalRank": 32129
   },
   {
     "login": "AndrewLJackson",
@@ -5345,7 +5726,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 382,
-    "score": 237
+    "score": 237,
+    "globalRank": 32130
   },
   {
     "login": "davidjrice",
@@ -5359,7 +5741,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 383,
-    "score": 165
+    "score": 165,
+    "globalRank": 32131
   },
   {
     "login": "dominykas",
@@ -5373,7 +5756,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 384,
-    "score": 265
+    "score": 265,
+    "globalRank": 32132
   },
   {
     "login": "Mongey",
@@ -5387,7 +5771,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 385,
-    "score": 1538
+    "score": 1538,
+    "globalRank": 32133
   },
   {
     "login": "johnmccabe",
@@ -5401,7 +5786,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 386,
-    "score": 115
+    "score": 115,
+    "globalRank": 32134
   },
   {
     "login": "shams-nahid",
@@ -5415,7 +5801,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 387,
-    "score": 781
+    "score": 781,
+    "globalRank": 32369
   },
   {
     "login": "dhruvarora",
@@ -5429,7 +5816,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 388,
-    "score": 108
+    "score": 108,
+    "globalRank": 32370
   },
   {
     "login": "SibeeshVenu",
@@ -5443,7 +5831,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 389,
-    "score": 151
+    "score": 151,
+    "globalRank": 32371
   },
   {
     "login": "henrym2",
@@ -5457,7 +5846,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 390,
-    "score": 1441
+    "score": 1441,
+    "globalRank": 32372
   },
   {
     "login": "kaylode",
@@ -5471,7 +5861,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 391,
-    "score": 751
+    "score": 751,
+    "globalRank": 32567
   },
   {
     "login": "AnaCorinaTodoran",
@@ -5485,7 +5876,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 392,
-    "score": 239
+    "score": 239,
+    "globalRank": 32568
   },
   {
     "login": "sakrist",
@@ -5499,7 +5891,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 393,
-    "score": 816
+    "score": 816,
+    "globalRank": 32569
   },
   {
     "login": "gabrzeoN",
@@ -5513,7 +5906,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 394,
-    "score": 107
+    "score": 107,
+    "globalRank": 32570
   },
   {
     "login": "bxrne",
@@ -5527,7 +5921,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 395,
-    "score": 1514
+    "score": 1514,
+    "globalRank": 32571
   },
   {
     "login": "invizbox",
@@ -5541,7 +5936,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 396,
-    "score": 107
+    "score": 107,
+    "globalRank": 32572
   },
   {
     "login": "anugurthi",
@@ -5555,7 +5951,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 397,
-    "score": 131
+    "score": 131,
+    "globalRank": 32573
   },
   {
     "login": "Sollace",
@@ -5569,7 +5966,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 398,
-    "score": 1199
+    "score": 1199,
+    "globalRank": 33025
   },
   {
     "login": "HoseinEmrani",
@@ -5583,7 +5981,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 399,
-    "score": 523
+    "score": 523,
+    "globalRank": 33026
   },
   {
     "login": "Guthias",
@@ -5597,7 +5996,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 400,
-    "score": 108
+    "score": 108,
+    "globalRank": 33027
   },
   {
     "login": "manab-kb",
@@ -5611,7 +6011,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 401,
-    "score": 182
+    "score": 182,
+    "globalRank": 33270
   },
   {
     "login": "Saegusae",
@@ -5625,7 +6026,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 402,
-    "score": 170
+    "score": 170,
+    "globalRank": 33271
   },
   {
     "login": "VikingDDM",
@@ -5639,7 +6041,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 403,
-    "score": 455
+    "score": 455,
+    "globalRank": 33272
   },
   {
     "login": "kaybenleroll",
@@ -5653,7 +6056,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 404,
-    "score": 5146
+    "score": 5146,
+    "globalRank": 33529
   },
   {
     "login": "matheuscscp",
@@ -5667,7 +6071,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 405,
-    "score": 5575
+    "score": 5575,
+    "globalRank": 33530
   },
   {
     "login": "KarimElghamry",
@@ -5681,7 +6086,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 406,
-    "score": 110
+    "score": 110,
+    "globalRank": 33531
   },
   {
     "login": "rodolphoeck",
@@ -5695,7 +6101,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 407,
-    "score": 106
+    "score": 106,
+    "globalRank": 33532
   },
   {
     "login": "Chinmayrane16",
@@ -5709,7 +6116,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 408,
-    "score": 103
+    "score": 103,
+    "globalRank": 33533
   },
   {
     "login": "Docmilo",
@@ -5723,7 +6131,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 409,
-    "score": 216
+    "score": 216,
+    "globalRank": 33534
   },
   {
     "login": "mcdonnelldean",
@@ -5737,7 +6146,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 410,
-    "score": 267
+    "score": 267,
+    "globalRank": 33535
   },
   {
     "login": "markdeegan",
@@ -5751,7 +6161,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 411,
-    "score": 654
+    "score": 654,
+    "globalRank": 33811
   },
   {
     "login": "croqaz",
@@ -5765,7 +6176,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 412,
-    "score": 451
+    "score": 451,
+    "globalRank": 33812
   },
   {
     "login": "tairoroberto",
@@ -5779,7 +6191,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 413,
-    "score": 932
+    "score": 932,
+    "globalRank": 33813
   },
   {
     "login": "kgaughan",
@@ -5793,7 +6206,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 414,
-    "score": 766
+    "score": 766,
+    "globalRank": 33814
   },
   {
     "login": "testableapple",
@@ -5807,7 +6221,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 415,
-    "score": 1054
+    "score": 1054,
+    "globalRank": 33815
   },
   {
     "login": "FintanH",
@@ -5821,7 +6236,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 416,
-    "score": 4967
+    "score": 4967,
+    "globalRank": 33816
   },
   {
     "login": "nisarg0",
@@ -5835,7 +6251,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 417,
-    "score": 112
+    "score": 112,
+    "globalRank": 33817
   },
   {
     "login": "Eroui",
@@ -5849,7 +6266,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 418,
-    "score": 113
+    "score": 113,
+    "globalRank": 33818
   },
   {
     "login": "rorhug",
@@ -5863,7 +6281,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 419,
-    "score": 1359
+    "score": 1359,
+    "globalRank": 33819
   },
   {
     "login": "siscia",
@@ -5877,7 +6296,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 420,
-    "score": 2089
+    "score": 2089,
+    "globalRank": 33820
   },
   {
     "login": "overture8",
@@ -5891,7 +6311,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 421,
-    "score": 102
+    "score": 102,
+    "globalRank": 34087
   },
   {
     "login": "0x0FFF",
@@ -5905,7 +6326,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 422,
-    "score": 101
+    "score": 101,
+    "globalRank": 34088
   },
   {
     "login": "VelinGeorgiev",
@@ -5919,7 +6341,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 423,
-    "score": 1466
+    "score": 1466,
+    "globalRank": 34089
   },
   {
     "login": "marcomorain",
@@ -5933,7 +6356,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 424,
-    "score": 101
+    "score": 101,
+    "globalRank": 34090
   },
   {
     "login": "Mevrael",
@@ -5947,7 +6371,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 425,
-    "score": 108
+    "score": 108,
+    "globalRank": 34091
   },
   {
     "login": "mayurimamdi",
@@ -5961,7 +6386,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 426,
-    "score": 327
+    "score": 327,
+    "globalRank": 34092
   },
   {
     "login": "Fortune-Ndlovu",
@@ -5975,7 +6401,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 427,
-    "score": 676
+    "score": 676,
+    "globalRank": 34093
   },
   {
     "login": "exuanbo",
@@ -5989,7 +6416,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 428,
-    "score": 210
+    "score": 210,
+    "globalRank": 34094
   },
   {
     "login": "thomascullen",
@@ -6003,7 +6431,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 429,
-    "score": 1711
+    "score": 1711,
+    "globalRank": 34311
   },
   {
     "login": "ArtyomZorin",
@@ -6017,7 +6446,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 430,
-    "score": 249
+    "score": 249,
+    "globalRank": 34312
   },
   {
     "login": "SiddhantSadangi",
@@ -6031,7 +6461,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 431,
-    "score": 356
+    "score": 356,
+    "globalRank": 34313
   },
   {
     "login": "gdude2002",
@@ -6045,7 +6476,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 432,
-    "score": 528
+    "score": 528,
+    "globalRank": 34314
   },
   {
     "login": "evandroflores",
@@ -6059,7 +6491,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 433,
-    "score": 102
+    "score": 102,
+    "globalRank": 34315
   },
   {
     "login": "gormanm",
@@ -6073,7 +6506,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 434,
-    "score": 392
+    "score": 392,
+    "globalRank": 34522
   },
   {
     "login": "mcguinlu",
@@ -6087,7 +6521,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 435,
-    "score": 114
+    "score": 114,
+    "globalRank": 34523
   },
   {
     "login": "globsecure",
@@ -6101,7 +6536,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 436,
-    "score": 258
+    "score": 258,
+    "globalRank": 34524
   },
   {
     "login": "MayconCardoso",
@@ -6115,7 +6551,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 437,
-    "score": 645
+    "score": 645,
+    "globalRank": 34525
   },
   {
     "login": "david-alvarez-rosa",
@@ -6129,7 +6566,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 438,
-    "score": 2021
+    "score": 2021,
+    "globalRank": 34526
   },
   {
     "login": "conoro",
@@ -6143,7 +6581,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 439,
-    "score": 516
+    "score": 516,
+    "globalRank": 34527
   },
   {
     "login": "carloscarvallo",
@@ -6157,7 +6596,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 440,
-    "score": 256
+    "score": 256,
+    "globalRank": 34528
   },
   {
     "login": "ByFishh",
@@ -6171,7 +6611,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 441,
-    "score": 175
+    "score": 175,
+    "globalRank": 34529
   },
   {
     "login": "stephen-howell",
@@ -6185,7 +6626,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 442,
-    "score": 99
+    "score": 99,
+    "globalRank": 34530
   },
   {
     "login": "wjgilmore",
@@ -6199,7 +6641,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 443,
-    "score": 936
+    "score": 936,
+    "globalRank": 34531
   },
   {
     "login": "laisbsc",
@@ -6213,7 +6656,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 444,
-    "score": 657
+    "score": 657,
+    "globalRank": 34762
   },
   {
     "login": "johnglover",
@@ -6227,7 +6671,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 445,
-    "score": 105
+    "score": 105,
+    "globalRank": 34763
   },
   {
     "login": "williamkennedy",
@@ -6241,7 +6686,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 446,
-    "score": 1747
+    "score": 1747,
+    "globalRank": 35027
   },
   {
     "login": "hamedrnik",
@@ -6255,7 +6701,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 447,
-    "score": 97
+    "score": 97,
+    "globalRank": 35028
   },
   {
     "login": "jeethu",
@@ -6269,7 +6716,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 448,
-    "score": 4221
+    "score": 4221,
+    "globalRank": 35029
   },
   {
     "login": "ChrisHegarty",
@@ -6283,7 +6731,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 449,
-    "score": 737
+    "score": 737,
+    "globalRank": 35276
   },
   {
     "login": "gordonmurray",
@@ -6297,7 +6746,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 450,
-    "score": 568
+    "score": 568,
+    "globalRank": 35277
   },
   {
     "login": "Tikolu",
@@ -6311,7 +6761,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 451,
-    "score": 743
+    "score": 743,
+    "globalRank": 35278
   },
   {
     "login": "rogerbarreto",
@@ -6325,7 +6776,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 452,
-    "score": 2875
+    "score": 2875,
+    "globalRank": 35279
   },
   {
     "login": "dmitriz",
@@ -6339,7 +6791,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 453,
-    "score": 271
+    "score": 271,
+    "globalRank": 35280
   },
   {
     "login": "jordimontana82",
@@ -6353,7 +6806,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 454,
-    "score": 768
+    "score": 768,
+    "globalRank": 35281
   },
   {
     "login": "kishoreyekkanti",
@@ -6367,7 +6821,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 455,
-    "score": 224
+    "score": 224,
+    "globalRank": 35282
   },
   {
     "login": "kouphax",
@@ -6381,7 +6836,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 456,
-    "score": 95
+    "score": 95,
+    "globalRank": 35529
   },
   {
     "login": "amineremache",
@@ -6395,7 +6851,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 457,
-    "score": 159
+    "score": 159,
+    "globalRank": 35530
   },
   {
     "login": "destromas1",
@@ -6409,7 +6866,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 458,
-    "score": 168
+    "score": 168,
+    "globalRank": 35531
   },
   {
     "login": "ajami1331",
@@ -6423,7 +6881,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 459,
-    "score": 268
+    "score": 268,
+    "globalRank": 35532
   },
   {
     "login": "ryanmitchell",
@@ -6437,7 +6896,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 460,
-    "score": 2693
+    "score": 2693,
+    "globalRank": 35533
   },
   {
     "login": "pshirshov",
@@ -6451,7 +6911,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 461,
-    "score": 7143
+    "score": 7143,
+    "globalRank": 35788
   },
   {
     "login": "beduffy",
@@ -6465,7 +6926,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 462,
-    "score": 1264
+    "score": 1264,
+    "globalRank": 35789
   },
   {
     "login": "JamesCrook",
@@ -6479,7 +6941,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 463,
-    "score": 469
+    "score": 469,
+    "globalRank": 35790
   },
   {
     "login": "ezavile",
@@ -6493,7 +6956,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 464,
-    "score": 94
+    "score": 94,
+    "globalRank": 35791
   },
   {
     "login": "climberhunt",
@@ -6507,7 +6971,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 465,
-    "score": 103
+    "score": 103,
+    "globalRank": 36047
   },
   {
     "login": "michaeloliverx",
@@ -6521,7 +6986,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 466,
-    "score": 581
+    "score": 581,
+    "globalRank": 36048
   },
   {
     "login": "ancatmara",
@@ -6535,7 +7001,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 467,
-    "score": 148
+    "score": 148,
+    "globalRank": 36049
   },
   {
     "login": "jasonrogena",
@@ -6549,7 +7016,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 468,
-    "score": 149
+    "score": 149,
+    "globalRank": 36050
   },
   {
     "login": "ruben1",
@@ -6563,7 +7031,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 469,
-    "score": 94
+    "score": 94,
+    "globalRank": 36316
   },
   {
     "login": "lalitkale",
@@ -6577,7 +7046,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 470,
-    "score": 204
+    "score": 204,
+    "globalRank": 36317
   },
   {
     "login": "alexisInSAR",
@@ -6591,7 +7061,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 471,
-    "score": 110
+    "score": 110,
+    "globalRank": 36318
   },
   {
     "login": "otoolej",
@@ -6605,7 +7076,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 472,
-    "score": 101
+    "score": 101,
+    "globalRank": 36319
   },
   {
     "login": "ichenhe",
@@ -6619,7 +7091,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 473,
-    "score": 352
+    "score": 352,
+    "globalRank": 36320
   },
   {
     "login": "bezebee",
@@ -6633,7 +7106,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 474,
-    "score": 210
+    "score": 210,
+    "globalRank": 36574
   },
   {
     "login": "CjS77",
@@ -6647,7 +7121,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 475,
-    "score": 611
+    "score": 611,
+    "globalRank": 36575
   },
   {
     "login": "erran",
@@ -6661,7 +7136,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 476,
-    "score": 120
+    "score": 120,
+    "globalRank": 36576
   },
   {
     "login": "DubiousCactus",
@@ -6675,7 +7151,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 477,
-    "score": 955
+    "score": 955,
+    "globalRank": 36577
   },
   {
     "login": "yumin-chen",
@@ -6689,7 +7166,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 478,
-    "score": 2678
+    "score": 2678,
+    "globalRank": 36838
   },
   {
     "login": "fermoya",
@@ -6703,7 +7181,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 479,
-    "score": 90
+    "score": 90,
+    "globalRank": 36839
   },
   {
     "login": "ciaranha",
@@ -6717,7 +7196,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 480,
-    "score": 197
+    "score": 197,
+    "globalRank": 36840
   },
   {
     "login": "SemanticallyNull",
@@ -6731,7 +7211,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 481,
-    "score": 1216
+    "score": 1216,
+    "globalRank": 37112
   },
   {
     "login": "laserbat",
@@ -6745,7 +7226,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 482,
-    "score": 100
+    "score": 100,
+    "globalRank": 37113
   },
   {
     "login": "EfeBudak",
@@ -6759,7 +7241,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 483,
-    "score": 89
+    "score": 89,
+    "globalRank": 37114
   },
   {
     "login": "gilliganondata",
@@ -6773,7 +7256,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 484,
-    "score": 93
+    "score": 93,
+    "globalRank": 37115
   },
   {
     "login": "mguilhermetavares",
@@ -6787,7 +7271,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 485,
-    "score": 370
+    "score": 370,
+    "globalRank": 37426
   },
   {
     "login": "brianking",
@@ -6801,7 +7286,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 486,
-    "score": 88
+    "score": 88,
+    "globalRank": 37427
   },
   {
     "login": "jibinkj-07",
@@ -6815,7 +7301,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 487,
-    "score": 730
+    "score": 730,
+    "globalRank": 37428
   },
   {
     "login": "itsmunim",
@@ -6829,7 +7316,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 488,
-    "score": 457
+    "score": 457,
+    "globalRank": 37429
   },
   {
     "login": "rajitbanerjee",
@@ -6843,7 +7331,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 489,
-    "score": 181
+    "score": 181,
+    "globalRank": 37727
   },
   {
     "login": "hasangenc0",
@@ -6857,7 +7346,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 490,
-    "score": 222
+    "score": 222,
+    "globalRank": 37728
   },
   {
     "login": "yulver-musa",
@@ -6871,7 +7361,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 491,
-    "score": 1137
+    "score": 1137,
+    "globalRank": 37729
   },
   {
     "login": "rnnh",
@@ -6885,7 +7376,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 492,
-    "score": 87
+    "score": 87,
+    "globalRank": 37730
   },
   {
     "login": "iamdonovan",
@@ -6899,7 +7391,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 493,
-    "score": 553
+    "score": 553,
+    "globalRank": 37731
   },
   {
     "login": "aptkingston",
@@ -6913,7 +7406,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 494,
-    "score": 1589
+    "score": 1589,
+    "globalRank": 38011
   },
   {
     "login": "gcacace",
@@ -6927,7 +7421,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 495,
-    "score": 177
+    "score": 177,
+    "globalRank": 38012
   },
   {
     "login": "nosmo",
@@ -6941,7 +7436,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 496,
-    "score": 193
+    "score": 193,
+    "globalRank": 38013
   },
   {
     "login": "npradaschnor",
@@ -6955,7 +7451,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 497,
-    "score": 85
+    "score": 85,
+    "globalRank": 38318
   },
   {
     "login": "varol",
@@ -6969,7 +7466,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 498,
-    "score": 568
+    "score": 568,
+    "globalRank": 38319
   },
   {
     "login": "martinmicunda",
@@ -6983,7 +7481,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 499,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 38320
   },
   {
     "login": "ddrohan",
@@ -6997,7 +7496,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 500,
-    "score": 123
+    "score": 123,
+    "globalRank": 38321
   },
   {
     "login": "PluMGMK",
@@ -7011,7 +7511,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 501,
-    "score": 384
+    "score": 384,
+    "globalRank": 38322
   },
   {
     "login": "arjunprakash027",
@@ -7025,7 +7526,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 502,
-    "score": 560
+    "score": 560,
+    "globalRank": 38624
   },
   {
     "login": "Mparaiso",
@@ -7039,7 +7541,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 503,
-    "score": 84
+    "score": 84,
+    "globalRank": 38625
   },
   {
     "login": "micaleel",
@@ -7053,7 +7556,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 504,
-    "score": 84
+    "score": 84,
+    "globalRank": 38626
   },
   {
     "login": "loyannec",
@@ -7067,7 +7571,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 505,
-    "score": 84
+    "score": 84,
+    "globalRank": 38627
   },
   {
     "login": "arturmartins",
@@ -7081,7 +7586,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 506,
-    "score": 107
+    "score": 107,
+    "globalRank": 38628
   },
   {
     "login": "adityawardhanm",
@@ -7095,7 +7601,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 507,
-    "score": 164
+    "score": 164,
+    "globalRank": 38942
   },
   {
     "login": "niallobrien",
@@ -7109,7 +7616,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 508,
-    "score": 525
+    "score": 525,
+    "globalRank": 38943
   },
   {
     "login": "johndharrison",
@@ -7123,7 +7631,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 509,
-    "score": 83
+    "score": 83,
+    "globalRank": 38944
   },
   {
     "login": "ekazaev",
@@ -7137,7 +7646,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 510,
-    "score": 762
+    "score": 762,
+    "globalRank": 38945
   },
   {
     "login": "oisin",
@@ -7151,7 +7661,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 511,
-    "score": 104
+    "score": 104,
+    "globalRank": 38946
   },
   {
     "login": "BistonN",
@@ -7165,7 +7676,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 512,
-    "score": 350
+    "score": 350,
+    "globalRank": 38947
   },
   {
     "login": "jbarrett",
@@ -7179,7 +7691,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 513,
-    "score": 379
+    "score": 379,
+    "globalRank": 38948
   },
   {
     "login": "eoinfogarty",
@@ -7193,7 +7706,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 514,
-    "score": 405
+    "score": 405,
+    "globalRank": 38949
   },
   {
     "login": "bpocallaghan",
@@ -7207,7 +7721,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 515,
-    "score": 2273
+    "score": 2273,
+    "globalRank": 38950
   },
   {
     "login": "AlexGascon",
@@ -7221,7 +7736,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 516,
-    "score": 766
+    "score": 766,
+    "globalRank": 38951
   },
   {
     "login": "braz",
@@ -7235,7 +7751,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 517,
-    "score": 793
+    "score": 793,
+    "globalRank": 38952
   },
   {
     "login": "gerardroche",
@@ -7249,7 +7766,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 518,
-    "score": 152
+    "score": 152,
+    "globalRank": 39283
   },
   {
     "login": "Soumyabrata",
@@ -7263,7 +7781,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 519,
-    "score": 141
+    "score": 141,
+    "globalRank": 39284
   },
   {
     "login": "johnbrett",
@@ -7277,7 +7796,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 520,
-    "score": 117
+    "score": 117,
+    "globalRank": 39285
   },
   {
     "login": "Emily-TTG",
@@ -7291,7 +7811,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 521,
-    "score": 864
+    "score": 864,
+    "globalRank": 39286
   },
   {
     "login": "codemaestro25",
@@ -7305,7 +7826,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 522,
-    "score": 136
+    "score": 136,
+    "globalRank": 39287
   },
   {
     "login": "AnthonyBloomer",
@@ -7319,7 +7841,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 523,
-    "score": 121
+    "score": 121,
+    "globalRank": 39288
   },
   {
     "login": "philipcardiff",
@@ -7333,7 +7856,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 524,
-    "score": 913
+    "score": 913,
+    "globalRank": 39289
   },
   {
     "login": "giacomorebonato",
@@ -7347,7 +7871,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 525,
-    "score": 261
+    "score": 261,
+    "globalRank": 39290
   },
   {
     "login": "tabacof",
@@ -7361,7 +7886,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 526,
-    "score": 720
+    "score": 720,
+    "globalRank": 39291
   },
   {
     "login": "DzyubSpirit",
@@ -7375,7 +7901,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 527,
-    "score": 84
+    "score": 84,
+    "globalRank": 39292
   },
   {
     "login": "chrismcg",
@@ -7389,7 +7916,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 528,
-    "score": 971
+    "score": 971,
+    "globalRank": 39293
   },
   {
     "login": "Incipiens",
@@ -7403,7 +7931,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 529,
-    "score": 490
+    "score": 490,
+    "globalRank": 39294
   },
   {
     "login": "goyox86",
@@ -7417,7 +7946,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 530,
-    "score": 998
+    "score": 998,
+    "globalRank": 39605
   },
   {
     "login": "ismagom",
@@ -7431,7 +7961,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 531,
-    "score": 83
+    "score": 83,
+    "globalRank": 39606
   },
   {
     "login": "nazarja",
@@ -7445,7 +7976,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 532,
-    "score": 84
+    "score": 84,
+    "globalRank": 39607
   },
   {
     "login": "Cisneiros",
@@ -7459,7 +7991,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 533,
-    "score": 1169
+    "score": 1169,
+    "globalRank": 39608
   },
   {
     "login": "imedadel",
@@ -7473,7 +8006,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 534,
-    "score": 2058
+    "score": 2058,
+    "globalRank": 39609
   },
   {
     "login": "kad99kev",
@@ -7487,7 +8021,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 535,
-    "score": 110
+    "score": 110,
+    "globalRank": 39610
   },
   {
     "login": "hicder",
@@ -7501,7 +8036,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 536,
-    "score": 448
+    "score": 448,
+    "globalRank": 39948
   },
   {
     "login": "caoimhebyrne",
@@ -7515,7 +8051,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 537,
-    "score": 2469
+    "score": 2469,
+    "globalRank": 39949
   },
   {
     "login": "fergalwalsh",
@@ -7529,7 +8066,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 538,
-    "score": 99
+    "score": 99,
+    "globalRank": 39950
   },
   {
     "login": "Ruubia",
@@ -7543,7 +8081,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 539,
-    "score": 81
+    "score": 81,
+    "globalRank": 39951
   },
   {
     "login": "sheeehy",
@@ -7557,7 +8096,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 540,
-    "score": 310
+    "score": 310,
+    "globalRank": 39952
   },
   {
     "login": "MKGAURAB",
@@ -7571,7 +8111,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 541,
-    "score": 137
+    "score": 137,
+    "globalRank": 39953
   },
   {
     "login": "hmleal",
@@ -7585,7 +8126,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 542,
-    "score": 81
+    "score": 81,
+    "globalRank": 40271
   },
   {
     "login": "vprinz",
@@ -7599,7 +8141,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 543,
-    "score": 82
+    "score": 82,
+    "globalRank": 40272
   },
   {
     "login": "lcodeca",
@@ -7613,7 +8156,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 544,
-    "score": 81
+    "score": 81,
+    "globalRank": 40273
   },
   {
     "login": "DengYiping",
@@ -7627,7 +8171,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 545,
-    "score": 459
+    "score": 459,
+    "globalRank": 40274
   },
   {
     "login": "classicwuhao",
@@ -7641,7 +8186,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 546,
-    "score": 746
+    "score": 746,
+    "globalRank": 40275
   },
   {
     "login": "kudos",
@@ -7655,7 +8201,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 547,
-    "score": 606
+    "score": 606,
+    "globalRank": 40276
   },
   {
     "login": "nashid",
@@ -7669,7 +8216,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 548,
-    "score": 6086
+    "score": 6086,
+    "globalRank": 40277
   },
   {
     "login": "ciar4n",
@@ -7683,7 +8231,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 549,
-    "score": 85
+    "score": 85,
+    "globalRank": 40278
   },
   {
     "login": "jakekgrog",
@@ -7697,7 +8246,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 550,
-    "score": 228
+    "score": 228,
+    "globalRank": 40279
   },
   {
     "login": "luben",
@@ -7711,7 +8261,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 551,
-    "score": 113
+    "score": 113,
+    "globalRank": 40280
   },
   {
     "login": "drewfurgiuele",
@@ -7725,7 +8276,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 552,
-    "score": 116
+    "score": 116,
+    "globalRank": 40281
   },
   {
     "login": "markmc",
@@ -7739,7 +8291,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 553,
-    "score": 1829
+    "score": 1829,
+    "globalRank": 40282
   },
   {
     "login": "WaleedYaser",
@@ -7753,7 +8306,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 554,
-    "score": 90
+    "score": 90,
+    "globalRank": 40283
   },
   {
     "login": "paulmcquad",
@@ -7767,7 +8321,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 555,
-    "score": 247
+    "score": 247,
+    "globalRank": 40284
   },
   {
     "login": "flandolfi",
@@ -7781,7 +8336,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 556,
-    "score": 84
+    "score": 84,
+    "globalRank": 40285
   },
   {
     "login": "Szer",
@@ -7795,7 +8351,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 557,
-    "score": 2023
+    "score": 2023,
+    "globalRank": 40583
   },
   {
     "login": "tommymaher15",
@@ -7809,7 +8366,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 558,
-    "score": 78
+    "score": 78,
+    "globalRank": 40584
   },
   {
     "login": "TheJokersThief",
@@ -7823,7 +8381,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 559,
-    "score": 3629
+    "score": 3629,
+    "globalRank": 40585
   },
   {
     "login": "nsmaciej",
@@ -7837,7 +8396,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 560,
-    "score": 82
+    "score": 82,
+    "globalRank": 40586
   },
   {
     "login": "johnpaulhayes",
@@ -7851,7 +8411,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 561,
-    "score": 86
+    "score": 86,
+    "globalRank": 40587
   },
   {
     "login": "aweimeow",
@@ -7865,7 +8426,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 562,
-    "score": 115
+    "score": 115,
+    "globalRank": 40588
   },
   {
     "login": "sandroacoelho",
@@ -7879,7 +8441,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 563,
-    "score": 85
+    "score": 85,
+    "globalRank": 40589
   },
   {
     "login": "hemanthh17",
@@ -7893,7 +8456,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 564,
-    "score": 91
+    "score": 91,
+    "globalRank": 40590
   },
   {
     "login": "aaronsnig501",
@@ -7907,7 +8471,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 565,
-    "score": 978
+    "score": 978,
+    "globalRank": 40870
   },
   {
     "login": "notdanhan",
@@ -7921,7 +8486,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 566,
-    "score": 103
+    "score": 103,
+    "globalRank": 40871
   },
   {
     "login": "dee-see",
@@ -7935,7 +8501,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 567,
-    "score": 233
+    "score": 233,
+    "globalRank": 40872
   },
   {
     "login": "bergerx",
@@ -7949,7 +8516,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 568,
-    "score": 105
+    "score": 105,
+    "globalRank": 40873
   },
   {
     "login": "yoniLavi",
@@ -7963,7 +8531,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 569,
-    "score": 2190
+    "score": 2190,
+    "globalRank": 40874
   },
   {
     "login": "PHPGuus",
@@ -7977,7 +8546,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 570,
-    "score": 858
+    "score": 858,
+    "globalRank": 40875
   },
   {
     "login": "ismisepaul",
@@ -7991,7 +8561,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 571,
-    "score": 4046
+    "score": 4046,
+    "globalRank": 40876
   },
   {
     "login": "aaman007",
@@ -8005,7 +8576,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 572,
-    "score": 76
+    "score": 76,
+    "globalRank": 41154
   },
   {
     "login": "CiaranMcCann",
@@ -8019,7 +8591,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 573,
-    "score": 76
+    "score": 76,
+    "globalRank": 41155
   },
   {
     "login": "DaniJG",
@@ -8033,7 +8606,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 574,
-    "score": 76
+    "score": 76,
+    "globalRank": 41156
   },
   {
     "login": "reachanihere",
@@ -8047,7 +8621,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 575,
-    "score": 80
+    "score": 80,
+    "globalRank": 41157
   },
   {
     "login": "tarasis",
@@ -8061,7 +8636,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 576,
-    "score": 76
+    "score": 76,
+    "globalRank": 41158
   },
   {
     "login": "brandodevr",
@@ -8075,7 +8651,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 577,
-    "score": 6779
+    "score": 6779,
+    "globalRank": 41159
   },
   {
     "login": "hennasingh",
@@ -8089,7 +8666,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 578,
-    "score": 195
+    "score": 195,
+    "globalRank": 41160
   },
   {
     "login": "sachsom95",
@@ -8103,7 +8681,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 579,
-    "score": 2187
+    "score": 2187,
+    "globalRank": 41161
   },
   {
     "login": "codinguncut",
@@ -8117,7 +8696,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 580,
-    "score": 96
+    "score": 96,
+    "globalRank": 41162
   },
   {
     "login": "alan-maguire",
@@ -8131,7 +8711,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 581,
-    "score": 346
+    "score": 346,
+    "globalRank": 41450
   },
   {
     "login": "doingandlearning",
@@ -8145,7 +8726,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 582,
-    "score": 1020
+    "score": 1020,
+    "globalRank": 41451
   },
   {
     "login": "princekr301",
@@ -8159,7 +8741,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 583,
-    "score": 133
+    "score": 133,
+    "globalRank": 41452
   },
   {
     "login": "fabriziocucci",
@@ -8173,7 +8756,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 584,
-    "score": 293
+    "score": 293,
+    "globalRank": 41453
   },
   {
     "login": "stefan-mueller",
@@ -8187,7 +8771,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 585,
-    "score": 304
+    "score": 304,
+    "globalRank": 41454
   },
   {
     "login": "EffinMaggie",
@@ -8201,7 +8786,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 586,
-    "score": 75
+    "score": 75,
+    "globalRank": 41455
   },
   {
     "login": "brrygrdn",
@@ -8215,7 +8801,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 587,
-    "score": 2761
+    "score": 2761,
+    "globalRank": 41456
   },
   {
     "login": "tmaher",
@@ -8229,7 +8816,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 588,
-    "score": 192
+    "score": 192,
+    "globalRank": 41457
   },
   {
     "login": "regismesquita",
@@ -8243,7 +8831,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 589,
-    "score": 2422
+    "score": 2422,
+    "globalRank": 41458
   },
   {
     "login": "gordonknoppe",
@@ -8257,7 +8846,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 590,
-    "score": 74
+    "score": 74,
+    "globalRank": 41779
   },
   {
     "login": "AjinkyaTaranekar",
@@ -8271,7 +8861,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 591,
-    "score": 1896
+    "score": 1896,
+    "globalRank": 41780
   },
   {
     "login": "dtuite",
@@ -8285,7 +8876,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 592,
-    "score": 282
+    "score": 282,
+    "globalRank": 41781
   },
   {
     "login": "coogie",
@@ -8299,7 +8891,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 593,
-    "score": 336
+    "score": 336,
+    "globalRank": 41782
   },
   {
     "login": "mjashanks",
@@ -8313,7 +8906,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 594,
-    "score": 153
+    "score": 153,
+    "globalRank": 41783
   },
   {
     "login": "catehstn",
@@ -8327,7 +8921,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 595,
-    "score": 2822
+    "score": 2822,
+    "globalRank": 41784
   },
   {
     "login": "yannickgloster",
@@ -8341,7 +8936,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 596,
-    "score": 1683
+    "score": 1683,
+    "globalRank": 41785
   },
   {
     "login": "gary-rafferty",
@@ -8355,7 +8951,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 597,
-    "score": 74
+    "score": 74,
+    "globalRank": 41786
   },
   {
     "login": "retecata",
@@ -8369,7 +8966,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 598,
-    "score": 1143
+    "score": 1143,
+    "globalRank": 41787
   },
   {
     "login": "Cillian-Collins",
@@ -8383,7 +8981,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 599,
-    "score": 217
+    "score": 217,
+    "globalRank": 41788
   },
   {
     "login": "dmatveev",
@@ -8397,7 +8996,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 600,
-    "score": 1151
+    "score": 1151,
+    "globalRank": 41789
   },
   {
     "login": "chico",
@@ -8411,7 +9011,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 601,
-    "score": 395
+    "score": 395,
+    "globalRank": 41790
   },
   {
     "login": "Paddychief92",
@@ -8425,7 +9026,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 602,
-    "score": 174
+    "score": 174,
+    "globalRank": 42083
   },
   {
     "login": "ConorSheehan1",
@@ -8439,7 +9041,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 603,
-    "score": 147
+    "score": 147,
+    "globalRank": 42084
   },
   {
     "login": "roundyyy",
@@ -8453,7 +9056,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 604,
-    "score": 239
+    "score": 239,
+    "globalRank": 42085
   },
   {
     "login": "barambani",
@@ -8467,7 +9071,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 605,
-    "score": 257
+    "score": 257,
+    "globalRank": 42086
   },
   {
     "login": "indrag49",
@@ -8481,7 +9086,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 606,
-    "score": 517
+    "score": 517,
+    "globalRank": 42087
   },
   {
     "login": "alexandremalavasi",
@@ -8495,7 +9101,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 607,
-    "score": 90
+    "score": 90,
+    "globalRank": 42088
   },
   {
     "login": "erd",
@@ -8509,7 +9116,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 608,
-    "score": 1042
+    "score": 1042,
+    "globalRank": 42089
   },
   {
     "login": "BrunoRosendo",
@@ -8523,7 +9131,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 609,
-    "score": 75
+    "score": 75,
+    "globalRank": 42090
   },
   {
     "login": "bkenny",
@@ -8537,7 +9146,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 610,
-    "score": 266
+    "score": 266,
+    "globalRank": 42091
   },
   {
     "login": "daishisystems",
@@ -8551,7 +9161,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 611,
-    "score": 312
+    "score": 312,
+    "globalRank": 42092
   },
   {
     "login": "AgentMC",
@@ -8565,7 +9176,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 612,
-    "score": 157
+    "score": 157,
+    "globalRank": 42093
   },
   {
     "login": "heberop",
@@ -8579,7 +9191,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 613,
-    "score": 244
+    "score": 244,
+    "globalRank": 42094
   },
   {
     "login": "AmyMialee",
@@ -8593,7 +9206,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 614,
-    "score": 883
+    "score": 883,
+    "globalRank": 42095
   },
   {
     "login": "GabrieliusSavickis",
@@ -8607,7 +9221,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 615,
-    "score": 118
+    "score": 118,
+    "globalRank": 42426
   },
   {
     "login": "chaosmail",
@@ -8621,7 +9236,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 616,
-    "score": 72
+    "score": 72,
+    "globalRank": 42427
   },
   {
     "login": "brunobandev",
@@ -8635,7 +9251,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 617,
-    "score": 147
+    "score": 147,
+    "globalRank": 42428
   },
   {
     "login": "CaiquePirs",
@@ -8649,7 +9266,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 618,
-    "score": 1501
+    "score": 1501,
+    "globalRank": 42429
   },
   {
     "login": "fabrizio-ottati",
@@ -8663,7 +9281,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 619,
-    "score": 165
+    "score": 165,
+    "globalRank": 42430
   },
   {
     "login": "kuzznya",
@@ -8677,7 +9296,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 620,
-    "score": 446
+    "score": 446,
+    "globalRank": 42431
   },
   {
     "login": "skillerious",
@@ -8691,7 +9311,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 621,
-    "score": 673
+    "score": 673,
+    "globalRank": 42731
   },
   {
     "login": "RdotSilva",
@@ -8705,7 +9326,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 622,
-    "score": 1108
+    "score": 1108,
+    "globalRank": 42732
   },
   {
     "login": "conr",
@@ -8719,7 +9341,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 623,
-    "score": 2250
+    "score": 2250,
+    "globalRank": 42733
   },
   {
     "login": "dreji18",
@@ -8733,7 +9356,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 624,
-    "score": 126
+    "score": 126,
+    "globalRank": 42734
   },
   {
     "login": "SiddheshBangar",
@@ -8747,7 +9371,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 625,
-    "score": 80
+    "score": 80,
+    "globalRank": 42735
   },
   {
     "login": "lyda",
@@ -8761,7 +9386,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 626,
-    "score": 125
+    "score": 125,
+    "globalRank": 42736
   },
   {
     "login": "coheigea",
@@ -8775,7 +9401,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 627,
-    "score": 1608
+    "score": 1608,
+    "globalRank": 42737
   },
   {
     "login": "CodingBoson",
@@ -8789,7 +9416,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 628,
-    "score": 272
+    "score": 272,
+    "globalRank": 42738
   },
   {
     "login": "Keyang",
@@ -8803,7 +9431,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 629,
-    "score": 78
+    "score": 78,
+    "globalRank": 43059
   },
   {
     "login": "j-barron",
@@ -8817,7 +9446,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 630,
-    "score": 70
+    "score": 70,
+    "globalRank": 43060
   },
   {
     "login": "Patrick160893",
@@ -8831,7 +9461,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 631,
-    "score": 74
+    "score": 74,
+    "globalRank": 43061
   },
   {
     "login": "frcs",
@@ -8845,7 +9476,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 632,
-    "score": 499
+    "score": 499,
+    "globalRank": 43062
   },
   {
     "login": "richardadalton",
@@ -8859,7 +9491,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 633,
-    "score": 630
+    "score": 630,
+    "globalRank": 43063
   },
   {
     "login": "DoraTheodora",
@@ -8873,7 +9506,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 634,
-    "score": 123
+    "score": 123,
+    "globalRank": 43064
   },
   {
     "login": "diegocard",
@@ -8887,7 +9521,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 635,
-    "score": 70
+    "score": 70,
+    "globalRank": 43065
   },
   {
     "login": "dineshrathee12",
@@ -8901,7 +9536,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 636,
-    "score": 77
+    "score": 77,
+    "globalRank": 43066
   },
   {
     "login": "ramdesh",
@@ -8915,7 +9551,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 637,
-    "score": 175
+    "score": 175,
+    "globalRank": 43067
   },
   {
     "login": "wlepinski",
@@ -8929,7 +9566,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 638,
-    "score": 940
+    "score": 940,
+    "globalRank": 43386
   },
   {
     "login": "MarkPKCollier",
@@ -8943,7 +9581,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 639,
-    "score": 69
+    "score": 69,
+    "globalRank": 43387
   },
   {
     "login": "shanecurran",
@@ -8957,7 +9596,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 640,
-    "score": 223
+    "score": 223,
+    "globalRank": 43388
   },
   {
     "login": "benkelly",
@@ -8971,7 +9611,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 641,
-    "score": 345
+    "score": 345,
+    "globalRank": 43389
   },
   {
     "login": "mariodruiz",
@@ -8985,7 +9626,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 642,
-    "score": 238
+    "score": 238,
+    "globalRank": 43390
   },
   {
     "login": "Danm72",
@@ -8999,7 +9641,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 643,
-    "score": 4641
+    "score": 4641,
+    "globalRank": 43391
   },
   {
     "login": "CaoimheC1",
@@ -9013,7 +9656,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 644,
-    "score": 69
+    "score": 69,
+    "globalRank": 43392
   },
   {
     "login": "chekoduadarsh",
@@ -9027,7 +9671,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 645,
-    "score": 116
+    "score": 116,
+    "globalRank": 43393
   },
   {
     "login": "simon-wh",
@@ -9041,7 +9686,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 646,
-    "score": 1228
+    "score": 1228,
+    "globalRank": 43394
   },
   {
     "login": "CordlessCoder",
@@ -9055,7 +9701,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 647,
-    "score": 821
+    "score": 821,
+    "globalRank": 43395
   },
   {
     "login": "costdev",
@@ -9069,7 +9716,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 648,
-    "score": 367
+    "score": 367,
+    "globalRank": 43396
   },
   {
     "login": "tomwillfixit",
@@ -9083,7 +9731,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 649,
-    "score": 69
+    "score": 69,
+    "globalRank": 43397
   },
   {
     "login": "GordonSmith",
@@ -9097,7 +9746,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 650,
-    "score": 2834
+    "score": 2834,
+    "globalRank": 43398
   },
   {
     "login": "vitorsvieira",
@@ -9111,7 +9761,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 651,
-    "score": 69
+    "score": 69,
+    "globalRank": 43399
   },
   {
     "login": "ketanbhatt",
@@ -9125,7 +9776,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 652,
-    "score": 1605
+    "score": 1605,
+    "globalRank": 43739
   },
   {
     "login": "gytdau",
@@ -9139,7 +9791,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 653,
-    "score": 321
+    "score": 321,
+    "globalRank": 43740
   },
   {
     "login": "fibelatti",
@@ -9153,7 +9806,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 654,
-    "score": 1402
+    "score": 1402,
+    "globalRank": 43741
   },
   {
     "login": "MathiasVP",
@@ -9167,7 +9821,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 655,
-    "score": 959
+    "score": 959,
+    "globalRank": 43742
   },
   {
     "login": "yigitv4rli",
@@ -9181,7 +9836,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 656,
-    "score": 1203
+    "score": 1203,
+    "globalRank": 43743
   },
   {
     "login": "karaketir16",
@@ -9195,7 +9851,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 657,
-    "score": 119
+    "score": 119,
+    "globalRank": 44108
   },
   {
     "login": "michaeldfallen",
@@ -9209,7 +9866,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 658,
-    "score": 69
+    "score": 69,
+    "globalRank": 44109
   },
   {
     "login": "CSUltiGod99",
@@ -9223,7 +9881,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 659,
-    "score": 110
+    "score": 110,
+    "globalRank": 44110
   },
   {
     "login": "pprunty",
@@ -9237,7 +9896,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 660,
-    "score": 367
+    "score": 367,
+    "globalRank": 44111
   },
   {
     "login": "odarbelaeze",
@@ -9251,7 +9911,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 661,
-    "score": 1654
+    "score": 1654,
+    "globalRank": 44112
   },
   {
     "login": "craicoverflow",
@@ -9265,7 +9926,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 662,
-    "score": 167
+    "score": 167,
+    "globalRank": 44113
   },
   {
     "login": "infinity4471",
@@ -9279,7 +9941,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 663,
-    "score": 67
+    "score": 67,
+    "globalRank": 44114
   },
   {
     "login": "PeterShaggyNoble",
@@ -9293,7 +9956,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 664,
-    "score": 176
+    "score": 176,
+    "globalRank": 44115
   },
   {
     "login": "codingedward",
@@ -9307,7 +9971,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 665,
-    "score": 226
+    "score": 226,
+    "globalRank": 44116
   },
   {
     "login": "ruidfigueiredo",
@@ -9321,7 +9986,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 666,
-    "score": 69
+    "score": 69,
+    "globalRank": 44117
   },
   {
     "login": "vishwakarma",
@@ -9335,7 +10001,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 667,
-    "score": 188
+    "score": 188,
+    "globalRank": 44118
   },
   {
     "login": "ebenezergraham",
@@ -9349,7 +10016,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 668,
-    "score": 90
+    "score": 90,
+    "globalRank": 44119
   },
   {
     "login": "bharathsudharsan",
@@ -9363,7 +10031,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 669,
-    "score": 94
+    "score": 94,
+    "globalRank": 44120
   },
   {
     "login": "apontejaj",
@@ -9377,7 +10046,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 670,
-    "score": 84
+    "score": 84,
+    "globalRank": 44121
   },
   {
     "login": "jonwk",
@@ -9391,7 +10061,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 671,
-    "score": 338
+    "score": 338,
+    "globalRank": 44479
   },
   {
     "login": "meme-lord",
@@ -9405,7 +10076,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 672,
-    "score": 443
+    "score": 443,
+    "globalRank": 44480
   },
   {
     "login": "sentinelleader",
@@ -9419,7 +10091,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 673,
-    "score": 746
+    "score": 746,
+    "globalRank": 44481
   },
   {
     "login": "HossamElghamry",
@@ -9433,7 +10106,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 674,
-    "score": 140
+    "score": 140,
+    "globalRank": 44482
   },
   {
     "login": "alxrm",
@@ -9447,7 +10121,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 675,
-    "score": 589
+    "score": 589,
+    "globalRank": 44483
   },
   {
     "login": "kaanturkmen",
@@ -9461,7 +10136,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 676,
-    "score": 74
+    "score": 74,
+    "globalRank": 44484
   },
   {
     "login": "JJPPeters",
@@ -9475,7 +10151,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 677,
-    "score": 300
+    "score": 300,
+    "globalRank": 44485
   },
   {
     "login": "AdrianBailador",
@@ -9489,7 +10166,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 678,
-    "score": 384
+    "score": 384,
+    "globalRank": 44486
   },
   {
     "login": "jaksi",
@@ -9503,7 +10181,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 679,
-    "score": 66
+    "score": 66,
+    "globalRank": 44487
   },
   {
     "login": "lexesj",
@@ -9517,7 +10196,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 680,
-    "score": 1236
+    "score": 1236,
+    "globalRank": 44488
   },
   {
     "login": "LukeHackett12",
@@ -9531,7 +10211,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 681,
-    "score": 2304
+    "score": 2304,
+    "globalRank": 44489
   },
   {
     "login": "blai",
@@ -9545,7 +10226,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 682,
-    "score": 83
+    "score": 83,
+    "globalRank": 44490
   },
   {
     "login": "jasonmadigan",
@@ -9559,7 +10241,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 683,
-    "score": 2776
+    "score": 2776,
+    "globalRank": 44491
   },
   {
     "login": "cmjio",
@@ -9573,7 +10256,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 684,
-    "score": 940
+    "score": 940,
+    "globalRank": 44492
   },
   {
     "login": "raysmithdev",
@@ -9587,7 +10271,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 685,
-    "score": 66
+    "score": 66,
+    "globalRank": 44871
   },
   {
     "login": "duggan",
@@ -9601,7 +10286,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 686,
-    "score": 1958
+    "score": 1958,
+    "globalRank": 44872
   },
   {
     "login": "kesbeast23",
@@ -9615,7 +10301,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 687,
-    "score": 2170
+    "score": 2170,
+    "globalRank": 44873
   },
   {
     "login": "ivucica",
@@ -9629,7 +10316,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 688,
-    "score": 1126
+    "score": 1126,
+    "globalRank": 44874
   },
   {
     "login": "gagern",
@@ -9643,7 +10331,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 689,
-    "score": 65
+    "score": 65,
+    "globalRank": 44875
   },
   {
     "login": "adamteehan",
@@ -9657,7 +10346,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 690,
-    "score": 65
+    "score": 65,
+    "globalRank": 44876
   },
   {
     "login": "notsag-dev",
@@ -9671,7 +10361,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 691,
-    "score": 699
+    "score": 699,
+    "globalRank": 44877
   },
   {
     "login": "yurikoles",
@@ -9685,7 +10376,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 692,
-    "score": 205
+    "score": 205,
+    "globalRank": 44878
   },
   {
     "login": "pinkishincoloragain",
@@ -9699,7 +10391,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 693,
-    "score": 456
+    "score": 456,
+    "globalRank": 44879
   },
   {
     "login": "hotlynnn",
@@ -9713,7 +10406,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 694,
-    "score": 65
+    "score": 65,
+    "globalRank": 45266
   },
   {
     "login": "zucchinidev",
@@ -9727,7 +10421,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 695,
-    "score": 431
+    "score": 431,
+    "globalRank": 45267
   },
   {
     "login": "henriqueconte",
@@ -9741,7 +10436,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 696,
-    "score": 64
+    "score": 64,
+    "globalRank": 45268
   },
   {
     "login": "MerrionComputing",
@@ -9755,7 +10451,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 697,
-    "score": 72
+    "score": 72,
+    "globalRank": 45269
   },
   {
     "login": "grdryn",
@@ -9769,7 +10466,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 698,
-    "score": 588
+    "score": 588,
+    "globalRank": 45270
   },
   {
     "login": "paddycarey",
@@ -9783,7 +10481,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 699,
-    "score": 1192
+    "score": 1192,
+    "globalRank": 45271
   },
   {
     "login": "david-martin",
@@ -9797,7 +10496,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 700,
-    "score": 1272
+    "score": 1272,
+    "globalRank": 45272
   },
   {
     "login": "jamesperes-zz",
@@ -9811,7 +10511,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 701,
-    "score": 64
+    "score": 64,
+    "globalRank": 45273
   },
   {
     "login": "iKristy",
@@ -9825,7 +10526,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 702,
-    "score": 398
+    "score": 398,
+    "globalRank": 45274
   },
   {
     "login": "iamalissontomazelli",
@@ -9839,7 +10541,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 703,
-    "score": 178
+    "score": 178,
+    "globalRank": 45275
   },
   {
     "login": "rmxsantiago",
@@ -9853,7 +10556,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 704,
-    "score": 109
+    "score": 109,
+    "globalRank": 45276
   },
   {
     "login": "22a",
@@ -9867,7 +10571,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 705,
-    "score": 540
+    "score": 540,
+    "globalRank": 45693
   },
   {
     "login": "TheMrIron2",
@@ -9881,7 +10586,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 706,
-    "score": 157
+    "score": 157,
+    "globalRank": 45694
   },
   {
     "login": "igor-elovikov",
@@ -9895,7 +10601,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 707,
-    "score": 85
+    "score": 85,
+    "globalRank": 45695
   },
   {
     "login": "apassant",
@@ -9909,7 +10616,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 708,
-    "score": 63
+    "score": 63,
+    "globalRank": 45696
   },
   {
     "login": "maxigimenez",
@@ -9923,7 +10631,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 709,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 45697
   },
   {
     "login": "Cryt-Software",
@@ -9937,7 +10646,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 710,
-    "score": 77
+    "score": 77,
+    "globalRank": 45698
   },
   {
     "login": "LucasReinaldo",
@@ -9951,7 +10661,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 711,
-    "score": 896
+    "score": 896,
+    "globalRank": 45699
   },
   {
     "login": "rphair",
@@ -9965,7 +10676,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 712,
-    "score": 782
+    "score": 782,
+    "globalRank": 45700
   },
   {
     "login": "adrian",
@@ -9979,7 +10691,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 713,
-    "score": 695
+    "score": 695,
+    "globalRank": 45701
   },
   {
     "login": "CarlQLange",
@@ -9993,7 +10706,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 714,
-    "score": 1140
+    "score": 1140,
+    "globalRank": 45702
   },
   {
     "login": "shanealynn",
@@ -10007,7 +10721,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 715,
-    "score": 63
+    "score": 63,
+    "globalRank": 45703
   },
   {
     "login": "ZiaUrRehman-bit",
@@ -10021,7 +10736,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 716,
-    "score": 949
+    "score": 949,
+    "globalRank": 45704
   },
   {
     "login": "l-bat",
@@ -10035,7 +10751,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 717,
-    "score": 152
+    "score": 152,
+    "globalRank": 45705
   },
   {
     "login": "NielMc",
@@ -10049,7 +10766,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 718,
-    "score": 90
+    "score": 90,
+    "globalRank": 46110
   },
   {
     "login": "patrickjquinn",
@@ -10063,7 +10781,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 719,
-    "score": 576
+    "score": 576,
+    "globalRank": 46111
   },
   {
     "login": "emidiovaleretto",
@@ -10077,7 +10796,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 720,
-    "score": 508
+    "score": 508,
+    "globalRank": 46112
   },
   {
     "login": "ludiemert",
@@ -10091,7 +10811,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 721,
-    "score": 629
+    "score": 629,
+    "globalRank": 46113
   },
   {
     "login": "pedrotcaraujo",
@@ -10105,7 +10826,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 722,
-    "score": 134
+    "score": 134,
+    "globalRank": 46114
   },
   {
     "login": "gdyrrahitis",
@@ -10119,7 +10841,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 723,
-    "score": 62
+    "score": 62,
+    "globalRank": 46115
   },
   {
     "login": "Ganainmtech",
@@ -10133,7 +10856,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 724,
-    "score": 519
+    "score": 519,
+    "globalRank": 46116
   },
   {
     "login": "TorutheRedFox",
@@ -10147,7 +10871,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 725,
-    "score": 450
+    "score": 450,
+    "globalRank": 46117
   },
   {
     "login": "kenguest",
@@ -10161,7 +10886,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 726,
-    "score": 133
+    "score": 133,
+    "globalRank": 46118
   },
   {
     "login": "eoinsha",
@@ -10175,7 +10901,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 727,
-    "score": 1168
+    "score": 1168,
+    "globalRank": 46119
   },
   {
     "login": "devplayer0",
@@ -10189,7 +10916,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 728,
-    "score": 80
+    "score": 80,
+    "globalRank": 46120
   },
   {
     "login": "royn5618",
@@ -10203,7 +10931,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 729,
-    "score": 109
+    "score": 109,
+    "globalRank": 46121
   },
   {
     "login": "ciaranlee",
@@ -10217,7 +10946,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 730,
-    "score": 1918
+    "score": 1918,
+    "globalRank": 46122
   },
   {
     "login": "OganBelema",
@@ -10231,7 +10961,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 731,
-    "score": 103
+    "score": 103,
+    "globalRank": 46123
   },
   {
     "login": "notheotherben",
@@ -10245,7 +10976,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 732,
-    "score": 8286
+    "score": 8286,
+    "globalRank": 46124
   },
   {
     "login": "bricefriha",
@@ -10259,7 +10991,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 733,
-    "score": 765
+    "score": 765,
+    "globalRank": 46125
   },
   {
     "login": "Madjda",
@@ -10273,7 +11006,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 734,
-    "score": 1073
+    "score": 1073,
+    "globalRank": 46536
   },
   {
     "login": "scottire",
@@ -10287,7 +11021,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 735,
-    "score": 378
+    "score": 378,
+    "globalRank": 46537
   },
   {
     "login": "hasnat",
@@ -10301,7 +11036,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 736,
-    "score": 110
+    "score": 110,
+    "globalRank": 46538
   },
   {
     "login": "paulcscharf",
@@ -10315,7 +11051,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 737,
-    "score": 271
+    "score": 271,
+    "globalRank": 46539
   },
   {
     "login": "jaaufauvre",
@@ -10329,7 +11066,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 738,
-    "score": 170
+    "score": 170,
+    "globalRank": 46540
   },
   {
     "login": "phamqv",
@@ -10343,7 +11081,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 739,
-    "score": 68
+    "score": 68,
+    "globalRank": 46541
   },
   {
     "login": "agiuliano",
@@ -10357,7 +11096,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 740,
-    "score": 79
+    "score": 79,
+    "globalRank": 46542
   },
   {
     "login": "kastwey",
@@ -10371,7 +11111,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 741,
-    "score": 412
+    "score": 412,
+    "globalRank": 46543
   },
   {
     "login": "adaoraul",
@@ -10385,7 +11126,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 742,
-    "score": 1220
+    "score": 1220,
+    "globalRank": 46544
   },
   {
     "login": "Necior",
@@ -10399,7 +11141,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 743,
-    "score": 163
+    "score": 163,
+    "globalRank": 46545
   },
   {
     "login": "ronoc",
@@ -10413,7 +11156,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 744,
-    "score": 1775
+    "score": 1775,
+    "globalRank": 46546
   },
   {
     "login": "jouwdan",
@@ -10427,7 +11171,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 745,
-    "score": 1168
+    "score": 1168,
+    "globalRank": 46547
   },
   {
     "login": "Brian1KB",
@@ -10441,7 +11186,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 746,
-    "score": 188
+    "score": 188,
+    "globalRank": 46982
   },
   {
     "login": "pelger",
@@ -10455,7 +11201,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 747,
-    "score": 61
+    "score": 61,
+    "globalRank": 46983
   },
   {
     "login": "mickcrosse",
@@ -10469,7 +11216,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 748,
-    "score": 62
+    "score": 62,
+    "globalRank": 46984
   },
   {
     "login": "coolharsh55",
@@ -10483,7 +11231,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 749,
-    "score": 448
+    "score": 448,
+    "globalRank": 46985
   },
   {
     "login": "briandipalma",
@@ -10497,7 +11246,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 750,
-    "score": 1034
+    "score": 1034,
+    "globalRank": 46986
   },
   {
     "login": "danielcregg",
@@ -10511,7 +11261,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 751,
-    "score": 3016
+    "score": 3016,
+    "globalRank": 46987
   },
   {
     "login": "gagomes",
@@ -10525,7 +11276,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 752,
-    "score": 60
+    "score": 60,
+    "globalRank": 46988
   },
   {
     "login": "HamedJafarzadeh",
@@ -10539,7 +11291,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 753,
-    "score": 193
+    "score": 193,
+    "globalRank": 46989
   },
   {
     "login": "rohanjaswal2507",
@@ -10553,7 +11306,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 754,
-    "score": 159
+    "score": 159,
+    "globalRank": 46990
   },
   {
     "login": "stuartchaney",
@@ -10567,7 +11321,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 755,
-    "score": 6467
+    "score": 6467,
+    "globalRank": 46991
   },
   {
     "login": "izifortune",
@@ -10581,7 +11336,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 756,
-    "score": 1538
+    "score": 1538,
+    "globalRank": 46992
   },
   {
     "login": "ciaran-finnegan",
@@ -10595,7 +11351,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 757,
-    "score": 3837
+    "score": 3837,
+    "globalRank": 46993
   },
   {
     "login": "rebeccatraceyt",
@@ -10609,7 +11366,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 758,
-    "score": 59
+    "score": 59,
+    "globalRank": 47392
   },
   {
     "login": "halimb",
@@ -10623,7 +11381,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 759,
-    "score": 1494
+    "score": 1494,
+    "globalRank": 47393
   },
   {
     "login": "hakanu",
@@ -10637,7 +11396,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 760,
-    "score": 66
+    "score": 66,
+    "globalRank": 47394
   },
   {
     "login": "rio004",
@@ -10651,7 +11411,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 761,
-    "score": 816
+    "score": 816,
+    "globalRank": 47395
   },
   {
     "login": "alexlopesbr",
@@ -10665,7 +11426,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 762,
-    "score": 184
+    "score": 184,
+    "globalRank": 47396
   },
   {
     "login": "jdrumgoole",
@@ -10679,7 +11441,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 763,
-    "score": 2601
+    "score": 2601,
+    "globalRank": 47397
   },
   {
     "login": "decmurphy",
@@ -10693,7 +11456,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 764,
-    "score": 153
+    "score": 153,
+    "globalRank": 47398
   },
   {
     "login": "mhwombat",
@@ -10707,7 +11471,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 765,
-    "score": 482
+    "score": 482,
+    "globalRank": 47399
   },
   {
     "login": "CillianMyles",
@@ -10721,7 +11486,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 766,
-    "score": 2413
+    "score": 2413,
+    "globalRank": 47400
   },
   {
     "login": "realshaunoneill",
@@ -10735,7 +11501,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 767,
-    "score": 1097
+    "score": 1097,
+    "globalRank": 47401
   },
   {
     "login": "lilydelaserre",
@@ -10749,7 +11516,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 768,
-    "score": 192
+    "score": 192,
+    "globalRank": 47402
   },
   {
     "login": "tannineo",
@@ -10763,7 +11531,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 769,
-    "score": 65
+    "score": 65,
+    "globalRank": 47403
   },
   {
     "login": "jmmcd",
@@ -10777,7 +11546,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 770,
-    "score": 205
+    "score": 205,
+    "globalRank": 47404
   },
   {
     "login": "richardblythman",
@@ -10791,7 +11561,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 771,
-    "score": 3645
+    "score": 3645,
+    "globalRank": 47405
   },
   {
     "login": "holsee",
@@ -10805,7 +11576,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 772,
-    "score": 2007
+    "score": 2007,
+    "globalRank": 47835
   },
   {
     "login": "grillorafael",
@@ -10819,7 +11591,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 773,
-    "score": 3008
+    "score": 3008,
+    "globalRank": 47836
   },
   {
     "login": "AFNANAMIN",
@@ -10833,7 +11606,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 774,
-    "score": 59
+    "score": 59,
+    "globalRank": 47837
   },
   {
     "login": "gustavomagella",
@@ -10847,7 +11621,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 775,
-    "score": 63
+    "score": 63,
+    "globalRank": 47838
   },
   {
     "login": "katharinebeaumont",
@@ -10861,7 +11636,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 776,
-    "score": 59
+    "score": 59,
+    "globalRank": 47839
   },
   {
     "login": "oisinq",
@@ -10875,7 +11651,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 777,
-    "score": 906
+    "score": 906,
+    "globalRank": 47840
   },
   {
     "login": "srushe",
@@ -10889,7 +11666,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 778,
-    "score": 689
+    "score": 689,
+    "globalRank": 47841
   },
   {
     "login": "tihomir-kit",
@@ -10903,7 +11681,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 779,
-    "score": 3733
+    "score": 3733,
+    "globalRank": 47842
   },
   {
     "login": "jmccrohan",
@@ -10917,7 +11696,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 780,
-    "score": 58
+    "score": 58,
+    "globalRank": 47843
   },
   {
     "login": "thibaud-rohmer",
@@ -10931,7 +11711,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 781,
-    "score": 58
+    "score": 58,
+    "globalRank": 47844
   },
   {
     "login": "declann",
@@ -10945,7 +11726,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 782,
-    "score": 165
+    "score": 165,
+    "globalRank": 47845
   },
   {
     "login": "esjmb",
@@ -10959,7 +11741,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 783,
-    "score": 57
+    "score": 57,
+    "globalRank": 48280
   },
   {
     "login": "aaron-bond",
@@ -10973,7 +11756,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 784,
-    "score": 61
+    "score": 61,
+    "globalRank": 48281
   },
   {
     "login": "foobar404",
@@ -10987,7 +11771,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 785,
-    "score": 193
+    "score": 193,
+    "globalRank": 48282
   },
   {
     "login": "fescobar",
@@ -11001,7 +11786,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 786,
-    "score": 70
+    "score": 70,
+    "globalRank": 48283
   },
   {
     "login": "cioban",
@@ -11015,7 +11801,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 787,
-    "score": 381
+    "score": 381,
+    "globalRank": 48284
   },
   {
     "login": "MoshDev",
@@ -11029,7 +11816,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 788,
-    "score": 316
+    "score": 316,
+    "globalRank": 48285
   },
   {
     "login": "avodovnik",
@@ -11043,7 +11831,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 789,
-    "score": 57
+    "score": 57,
+    "globalRank": 48286
   },
   {
     "login": "luisdavim",
@@ -11057,7 +11846,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 790,
-    "score": 775
+    "score": 775,
+    "globalRank": 48287
   },
   {
     "login": "davepcallan",
@@ -11071,7 +11861,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 791,
-    "score": 204
+    "score": 204,
+    "globalRank": 48288
   },
   {
     "login": "laiavisa",
@@ -11085,7 +11876,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 792,
-    "score": 57
+    "score": 57,
+    "globalRank": 48289
   },
   {
     "login": "briansjavablog",
@@ -11099,7 +11891,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 793,
-    "score": 57
+    "score": 57,
+    "globalRank": 48290
   },
   {
     "login": "jnovikov",
@@ -11113,7 +11906,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 794,
-    "score": 76
+    "score": 76,
+    "globalRank": 48291
   },
   {
     "login": "malor",
@@ -11127,7 +11921,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 795,
-    "score": 145
+    "score": 145,
+    "globalRank": 48292
   },
   {
     "login": "alanmaizon",
@@ -11141,7 +11936,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 796,
-    "score": 1964
+    "score": 1964,
+    "globalRank": 48293
   },
   {
     "login": "dylankilkenny",
@@ -11155,7 +11951,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 797,
-    "score": 760
+    "score": 760,
+    "globalRank": 48294
   },
   {
     "login": "nagahamaVH",
@@ -11169,7 +11966,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 798,
-    "score": 119
+    "score": 119,
+    "globalRank": 48295
   },
   {
     "login": "Ultan-Kearns",
@@ -11183,7 +11981,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 799,
-    "score": 332
+    "score": 332,
+    "globalRank": 48296
   },
   {
     "login": "andre-araujo",
@@ -11197,7 +11996,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 800,
-    "score": 59
+    "score": 59,
+    "globalRank": 48742
   },
   {
     "login": "jaimebuelta",
@@ -11211,7 +12011,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 801,
-    "score": 91
+    "score": 91,
+    "globalRank": 48743
   },
   {
     "login": "johnstcn",
@@ -11225,7 +12026,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 802,
-    "score": 3097
+    "score": 3097,
+    "globalRank": 48744
   },
   {
     "login": "juannunesz",
@@ -11239,7 +12041,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 803,
-    "score": 56
+    "score": 56,
+    "globalRank": 48745
   },
   {
     "login": "dhennessy",
@@ -11253,7 +12056,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 804,
-    "score": 772
+    "score": 772,
+    "globalRank": 48746
   },
   {
     "login": "lpenz",
@@ -11267,7 +12071,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 805,
-    "score": 716
+    "score": 716,
+    "globalRank": 48747
   },
   {
     "login": "ncahill89",
@@ -11281,7 +12086,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 806,
-    "score": 167
+    "score": 167,
+    "globalRank": 48748
   },
   {
     "login": "but3k4",
@@ -11295,7 +12101,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 807,
-    "score": 116
+    "score": 116,
+    "globalRank": 48749
   },
   {
     "login": "TerenceLiu98",
@@ -11309,7 +12116,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 808,
-    "score": 1276
+    "score": 1276,
+    "globalRank": 48750
   },
   {
     "login": "smpnjn",
@@ -11323,7 +12131,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 809,
-    "score": 305
+    "score": 305,
+    "globalRank": 48751
   },
   {
     "login": "gunerkaanalkim",
@@ -11337,7 +12146,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 810,
-    "score": 699
+    "score": 699,
+    "globalRank": 48752
   },
   {
     "login": "CheeseLad",
@@ -11351,7 +12161,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 811,
-    "score": 644
+    "score": 644,
+    "globalRank": 48753
   },
   {
     "login": "sonngdev",
@@ -11365,7 +12176,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 812,
-    "score": 70
+    "score": 70,
+    "globalRank": 48754
   },
   {
     "login": "trojanspike",
@@ -11379,7 +12191,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 813,
-    "score": 56
+    "score": 56,
+    "globalRank": 48755
   },
   {
     "login": "zurche",
@@ -11393,7 +12206,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 814,
-    "score": 1295
+    "score": 1295,
+    "globalRank": 48756
   },
   {
     "login": "mfaizan-ai",
@@ -11407,7 +12221,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 815,
-    "score": 759
+    "score": 759,
+    "globalRank": 49221
   },
   {
     "login": "imax9000",
@@ -11421,7 +12236,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 816,
-    "score": 156
+    "score": 156,
+    "globalRank": 49222
   },
   {
     "login": "luizanao",
@@ -11435,7 +12251,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 817,
-    "score": 3054
+    "score": 3054,
+    "globalRank": 49223
   },
   {
     "login": "bestpractice116",
@@ -11449,7 +12266,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 818,
-    "score": 55
+    "score": 55,
+    "globalRank": 49224
   },
   {
     "login": "lutzky",
@@ -11463,7 +12281,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 819,
-    "score": 776
+    "score": 776,
+    "globalRank": 49225
   },
   {
     "login": "Alantrivandrum",
@@ -11477,7 +12296,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 820,
-    "score": 55
+    "score": 55,
+    "globalRank": 49226
   },
   {
     "login": "tharindupr",
@@ -11491,7 +12311,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 821,
-    "score": 541
+    "score": 541,
+    "globalRank": 49227
   },
   {
     "login": "salyh",
@@ -11505,7 +12326,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 822,
-    "score": 107
+    "score": 107,
+    "globalRank": 49228
   },
   {
     "login": "hieunguyenm",
@@ -11519,7 +12341,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 823,
-    "score": 55
+    "score": 55,
+    "globalRank": 49229
   },
   {
     "login": "vascokk",
@@ -11533,7 +12356,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 824,
-    "score": 89
+    "score": 89,
+    "globalRank": 49230
   },
   {
     "login": "MattBCoding",
@@ -11547,7 +12371,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 825,
-    "score": 171
+    "score": 171,
+    "globalRank": 49231
   },
   {
     "login": "ciaranpflanagan",
@@ -11561,7 +12386,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 826,
-    "score": 223
+    "score": 223,
+    "globalRank": 49232
   },
   {
     "login": "crazymerlyn",
@@ -11575,7 +12401,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 827,
-    "score": 79
+    "score": 79,
+    "globalRank": 49233
   },
   {
     "login": "ishaanbedi",
@@ -11589,7 +12416,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 828,
-    "score": 1611
+    "score": 1611,
+    "globalRank": 49234
   },
   {
     "login": "allforabit",
@@ -11603,7 +12431,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 829,
-    "score": 55
+    "score": 55,
+    "globalRank": 49235
   },
   {
     "login": "metapredicate",
@@ -11617,7 +12446,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 830,
-    "score": 292
+    "score": 292,
+    "globalRank": 49236
   },
   {
     "login": "opeyemibami",
@@ -11631,7 +12461,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 831,
-    "score": 953
+    "score": 953,
+    "globalRank": 49237
   },
   {
     "login": "gerhynes",
@@ -11645,7 +12476,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 832,
-    "score": 99
+    "score": 99,
+    "globalRank": 49238
   },
   {
     "login": "andyrozman",
@@ -11659,7 +12491,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 833,
-    "score": 123
+    "score": 123,
+    "globalRank": 49239
   },
   {
     "login": "Char1esOrz",
@@ -11673,7 +12506,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 834,
-    "score": 168
+    "score": 168,
+    "globalRank": 49240
   },
   {
     "login": "paulscott56",
@@ -11687,7 +12521,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 835,
-    "score": 54
+    "score": 54,
+    "globalRank": 49733
   },
   {
     "login": "That3Percent",
@@ -11701,7 +12536,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 836,
-    "score": 59
+    "score": 59,
+    "globalRank": 49734
   },
   {
     "login": "nmcguinness",
@@ -11715,7 +12551,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 837,
-    "score": 587
+    "score": 587,
+    "globalRank": 49735
   },
   {
     "login": "priyanshi1282",
@@ -11729,7 +12566,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 838,
-    "score": 84
+    "score": 84,
+    "globalRank": 49736
   },
   {
     "login": "FerranMarin",
@@ -11743,7 +12581,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 839,
-    "score": 54
+    "score": 54,
+    "globalRank": 49737
   },
   {
     "login": "Mistawes",
@@ -11757,7 +12596,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 840,
-    "score": 54
+    "score": 54,
+    "globalRank": 49738
   },
   {
     "login": "CarolinaCobo",
@@ -11771,7 +12611,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 841,
-    "score": 183
+    "score": 183,
+    "globalRank": 49739
   },
   {
     "login": "flaree",
@@ -11785,7 +12626,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 842,
-    "score": 858
+    "score": 858,
+    "globalRank": 49740
   },
   {
     "login": "RealRaven2000",
@@ -11799,7 +12641,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 843,
-    "score": 883
+    "score": 883,
+    "globalRank": 49741
   },
   {
     "login": "theothernt",
@@ -11813,7 +12656,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 844,
-    "score": 1565
+    "score": 1565,
+    "globalRank": 49742
   },
   {
     "login": "tjFogarty",
@@ -11827,7 +12671,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 845,
-    "score": 1590
+    "score": 1590,
+    "globalRank": 49743
   },
   {
     "login": "cesarvr",
@@ -11841,7 +12686,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 846,
-    "score": 64
+    "score": 64,
+    "globalRank": 49744
   },
   {
     "login": "feMoraes0",
@@ -11855,7 +12701,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 847,
-    "score": 370
+    "score": 370,
+    "globalRank": 49745
   },
   {
     "login": "markmur",
@@ -11869,7 +12716,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 848,
-    "score": 2805
+    "score": 2805,
+    "globalRank": 49746
   },
   {
     "login": "maur8ino",
@@ -11883,7 +12731,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 849,
-    "score": 56
+    "score": 56,
+    "globalRank": 49747
   },
   {
     "login": "shane-t",
@@ -11897,7 +12746,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 850,
-    "score": 522
+    "score": 522,
+    "globalRank": 49748
   },
   {
     "login": "Wicker25",
@@ -11911,7 +12761,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 851,
-    "score": 87
+    "score": 87,
+    "globalRank": 50248
   },
   {
     "login": "staticlibs",
@@ -11925,7 +12776,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 852,
-    "score": 1313
+    "score": 1313,
+    "globalRank": 50249
   },
   {
     "login": "jhenry081",
@@ -11939,7 +12791,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 853,
-    "score": 66
+    "score": 66,
+    "globalRank": 50250
   },
   {
     "login": "milenkovicm",
@@ -11953,7 +12806,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 854,
-    "score": 1039
+    "score": 1039,
+    "globalRank": 50251
   },
   {
     "login": "Adam0Brien",
@@ -11967,7 +12821,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 855,
-    "score": 430
+    "score": 430,
+    "globalRank": 50252
   },
   {
     "login": "rorymbyrne",
@@ -11981,7 +12836,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 856,
-    "score": 56
+    "score": 56,
+    "globalRank": 50253
   },
   {
     "login": "patocallaghan",
@@ -11995,7 +12851,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 857,
-    "score": 2069
+    "score": 2069,
+    "globalRank": 50254
   },
   {
     "login": "davidnugent2425",
@@ -12009,7 +12866,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 858,
-    "score": 217
+    "score": 217,
+    "globalRank": 50255
   },
   {
     "login": "housamz",
@@ -12023,7 +12881,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 859,
-    "score": 117
+    "score": 117,
+    "globalRank": 50256
   },
   {
     "login": "Baughn",
@@ -12037,7 +12896,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 860,
-    "score": 1226
+    "score": 1226,
+    "globalRank": 50257
   },
   {
     "login": "m1cr0man",
@@ -12051,7 +12911,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 861,
-    "score": 219
+    "score": 219,
+    "globalRank": 50258
   },
   {
     "login": "djm-xjtu",
@@ -12065,7 +12926,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 862,
-    "score": 55
+    "score": 55,
+    "globalRank": 50259
   },
   {
     "login": "peterma",
@@ -12079,7 +12941,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 863,
-    "score": 121
+    "score": 121,
+    "globalRank": 50260
   },
   {
     "login": "mdsrosa",
@@ -12093,7 +12956,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 864,
-    "score": 53
+    "score": 53,
+    "globalRank": 50261
   },
   {
     "login": "Cesargarciajr",
@@ -12107,7 +12971,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 865,
-    "score": 106
+    "score": 106,
+    "globalRank": 50262
   },
   {
     "login": "ParadauxIO",
@@ -12121,7 +12986,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 866,
-    "score": 1713
+    "score": 1713,
+    "globalRank": 50263
   },
   {
     "login": "WeebLabs",
@@ -12135,7 +13001,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 867,
-    "score": 723
+    "score": 723,
+    "globalRank": 50264
   },
   {
     "login": "TheTeaCat",
@@ -12149,7 +13016,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 868,
-    "score": 2577
+    "score": 2577,
+    "globalRank": 50265
   },
   {
     "login": "zafersn",
@@ -12163,7 +13031,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 869,
-    "score": 133
+    "score": 133,
+    "globalRank": 50266
   },
   {
     "login": "barrywardell",
@@ -12177,7 +13046,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 870,
-    "score": 333
+    "score": 333,
+    "globalRank": 50781
   },
   {
     "login": "gbagnoli",
@@ -12191,7 +13061,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 871,
-    "score": 425
+    "score": 425,
+    "globalRank": 50782
   },
   {
     "login": "Hajime-No-Ippo",
@@ -12205,7 +13076,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 872,
-    "score": 374
+    "score": 374,
+    "globalRank": 50783
   },
   {
     "login": "jkelleher",
@@ -12219,7 +13091,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 873,
-    "score": 52
+    "score": 52,
+    "globalRank": 50784
   },
   {
     "login": "viniciuschiele",
@@ -12233,7 +13106,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 874,
-    "score": 59
+    "score": 59,
+    "globalRank": 50785
   },
   {
     "login": "hudo",
@@ -12247,7 +13121,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 875,
-    "score": 57
+    "score": 57,
+    "globalRank": 50786
   },
   {
     "login": "10xOXR",
@@ -12261,7 +13136,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 876,
-    "score": 118
+    "score": 118,
+    "globalRank": 50787
   },
   {
     "login": "JamieFarrelly",
@@ -12275,7 +13151,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 877,
-    "score": 220
+    "score": 220,
+    "globalRank": 50788
   },
   {
     "login": "tomcashman",
@@ -12289,7 +13166,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 878,
-    "score": 438
+    "score": 438,
+    "globalRank": 50789
   },
   {
     "login": "jscrane",
@@ -12303,7 +13181,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 879,
-    "score": 535
+    "score": 535,
+    "globalRank": 50790
   },
   {
     "login": "astatonn",
@@ -12317,7 +13196,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 880,
-    "score": 97
+    "score": 97,
+    "globalRank": 50791
   },
   {
     "login": "rathijitpapon",
@@ -12331,7 +13211,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 881,
-    "score": 113
+    "score": 113,
+    "globalRank": 50792
   },
   {
     "login": "LxEmily",
@@ -12345,7 +13226,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 882,
-    "score": 1252
+    "score": 1252,
+    "globalRank": 50793
   },
   {
     "login": "darrenmeehan",
@@ -12359,7 +13241,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 883,
-    "score": 292
+    "score": 292,
+    "globalRank": 50794
   },
   {
     "login": "arkiq",
@@ -12373,7 +13256,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 884,
-    "score": 52
+    "score": 52,
+    "globalRank": 50795
   },
   {
     "login": "domhnallohanlon",
@@ -12387,7 +13271,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 885,
-    "score": 64
+    "score": 64,
+    "globalRank": 50796
   },
   {
     "login": "achambers",
@@ -12401,7 +13286,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 886,
-    "score": 990
+    "score": 990,
+    "globalRank": 50797
   },
   {
     "login": "pasoevi",
@@ -12415,7 +13301,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 887,
-    "score": 420
+    "score": 420,
+    "globalRank": 50798
   },
   {
     "login": "mervebdurna",
@@ -12429,7 +13316,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 888,
-    "score": 64
+    "score": 64,
+    "globalRank": 50799
   },
   {
     "login": "keybits",
@@ -12443,7 +13331,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 889,
-    "score": 85
+    "score": 85,
+    "globalRank": 50800
   },
   {
     "login": "rmtfleming",
@@ -12457,7 +13346,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 890,
-    "score": 173
+    "score": 173,
+    "globalRank": 50801
   },
   {
     "login": "dylangarrett",
@@ -12471,7 +13361,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 891,
-    "score": 51
+    "score": 51,
+    "globalRank": 51286
   },
   {
     "login": "jimlawton",
@@ -12485,7 +13376,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 892,
-    "score": 156
+    "score": 156,
+    "globalRank": 51287
   },
   {
     "login": "EyupEnsarAlmaz",
@@ -12499,7 +13391,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 893,
-    "score": 56
+    "score": 56,
+    "globalRank": 51288
   },
   {
     "login": "cian",
@@ -12513,7 +13406,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 894,
-    "score": 81
+    "score": 81,
+    "globalRank": 51289
   },
   {
     "login": "HarshadRanganathan",
@@ -12527,7 +13421,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 895,
-    "score": 100
+    "score": 100,
+    "globalRank": 51290
   },
   {
     "login": "BlueLort",
@@ -12541,7 +13436,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 896,
-    "score": 51
+    "score": 51,
+    "globalRank": 51291
   },
   {
     "login": "AndyIreland",
@@ -12555,7 +13451,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 897,
-    "score": 59
+    "score": 59,
+    "globalRank": 51292
   },
   {
     "login": "lerouxb",
@@ -12569,7 +13466,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 898,
-    "score": 986
+    "score": 986,
+    "globalRank": 51293
   },
   {
     "login": "liamgriffin",
@@ -12583,7 +13481,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 899,
-    "score": 59
+    "score": 59,
+    "globalRank": 51294
   },
   {
     "login": "darragh",
@@ -12597,7 +13496,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 900,
-    "score": 204
+    "score": 204,
+    "globalRank": 51295
   },
   {
     "login": "john-henry",
@@ -12611,7 +13511,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 901,
-    "score": 3266
+    "score": 3266,
+    "globalRank": 51296
   },
   {
     "login": "apls777",
@@ -12625,7 +13526,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 902,
-    "score": 159
+    "score": 159,
+    "globalRank": 51297
   },
   {
     "login": "DiegoAmaxmandro",
@@ -12639,7 +13541,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 903,
-    "score": 97
+    "score": 97,
+    "globalRank": 51298
   },
   {
     "login": "celtic-coder",
@@ -12653,7 +13556,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 904,
-    "score": 223
+    "score": 223,
+    "globalRank": 51299
   },
   {
     "login": "tobya",
@@ -12667,7 +13571,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 905,
-    "score": 1399
+    "score": 1399,
+    "globalRank": 51300
   },
   {
     "login": "Irishcalypso",
@@ -12681,7 +13586,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 906,
-    "score": 51
+    "score": 51,
+    "globalRank": 51301
   },
   {
     "login": "houli",
@@ -12695,7 +13601,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 907,
-    "score": 896
+    "score": 896,
+    "globalRank": 51302
   },
   {
     "login": "Sharaf-Mansour",
@@ -12709,7 +13616,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 908,
-    "score": 821
+    "score": 821,
+    "globalRank": 51787
   },
   {
     "login": "eantcal",
@@ -12723,7 +13631,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 909,
-    "score": 155
+    "score": 155,
+    "globalRank": 51788
   },
   {
     "login": "juggernaut",
@@ -12737,7 +13646,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 910,
-    "score": 50
+    "score": 50,
+    "globalRank": 51789
   },
   {
     "login": "Alone890926",
@@ -12751,7 +13661,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 911,
-    "score": 50
+    "score": 50,
+    "globalRank": 51790
   },
   {
     "login": "lukostaz",
@@ -12765,7 +13676,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 912,
-    "score": 50
+    "score": 50,
+    "globalRank": 51791
   },
   {
     "login": "lyonsv",
@@ -12779,7 +13691,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 913,
-    "score": 59
+    "score": 59,
+    "globalRank": 51792
   },
   {
     "login": "kanishkanarch",
@@ -12793,7 +13706,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 914,
-    "score": 94
+    "score": 94,
+    "globalRank": 51793
   },
   {
     "login": "BrendonHenrique",
@@ -12807,7 +13721,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 915,
-    "score": 52
+    "score": 52,
+    "globalRank": 51794
   },
   {
     "login": "pratik-chakravorty",
@@ -12821,7 +13736,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 916,
-    "score": 50
+    "score": 50,
+    "globalRank": 51795
   },
   {
     "login": "arfogg",
@@ -12835,7 +13751,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 917,
-    "score": 343
+    "score": 343,
+    "globalRank": 51796
   },
   {
     "login": "Nilson",
@@ -12849,7 +13766,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 918,
-    "score": 62
+    "score": 62,
+    "globalRank": 51797
   },
   {
     "login": "wimvelzeboer",
@@ -12863,7 +13781,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 919,
-    "score": 1030
+    "score": 1030,
+    "globalRank": 51798
   },
   {
     "login": "geewiz",
@@ -12877,7 +13796,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 920,
-    "score": 255
+    "score": 255,
+    "globalRank": 51799
   },
   {
     "login": "aonghus",
@@ -12891,7 +13811,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 921,
-    "score": 54
+    "score": 54,
+    "globalRank": 51800
   },
   {
     "login": "ideasasylum",
@@ -12905,7 +13826,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 922,
-    "score": 1108
+    "score": 1108,
+    "globalRank": 51801
   },
   {
     "login": "dkjnr01",
@@ -12919,7 +13841,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 923,
-    "score": 50
+    "score": 50,
+    "globalRank": 51802
   },
   {
     "login": "sambaiga",
@@ -12933,7 +13856,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 924,
-    "score": 163
+    "score": 163,
+    "globalRank": 51803
   },
   {
     "login": "barryo",
@@ -12947,7 +13871,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 925,
-    "score": 1429
+    "score": 1429,
+    "globalRank": 51804
   },
   {
     "login": "magamig",
@@ -12961,7 +13886,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 926,
-    "score": 56
+    "score": 56,
+    "globalRank": 51805
   },
   {
     "login": "pzmarzly",
@@ -12975,7 +13901,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 927,
-    "score": 502
+    "score": 502,
+    "globalRank": 52277
   },
   {
     "login": "Johnathan",
@@ -12989,7 +13916,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 928,
-    "score": 144
+    "score": 144,
+    "globalRank": 52278
   },
   {
     "login": "dooleyb1",
@@ -13003,7 +13931,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 929,
-    "score": 1423
+    "score": 1423,
+    "globalRank": 52279
   },
   {
     "login": "saisankp",
@@ -13017,7 +13946,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 930,
-    "score": 59
+    "score": 59,
+    "globalRank": 52280
   },
   {
     "login": "igfasouza",
@@ -13031,7 +13961,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 931,
-    "score": 67
+    "score": 67,
+    "globalRank": 52281
   },
   {
     "login": "availchet",
@@ -13045,7 +13976,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 932,
-    "score": 49
+    "score": 49,
+    "globalRank": 52282
   },
   {
     "login": "mariolamacchia",
@@ -13059,7 +13991,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 933,
-    "score": 280
+    "score": 280,
+    "globalRank": 52283
   },
   {
     "login": "Louis-Finegan",
@@ -13073,7 +14006,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 934,
-    "score": 56
+    "score": 56,
+    "globalRank": 52284
   },
   {
     "login": "dberesford",
@@ -13087,7 +14021,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 935,
-    "score": 54
+    "score": 54,
+    "globalRank": 52285
   },
   {
     "login": "dylanneve1",
@@ -13101,7 +14036,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 936,
-    "score": 3713
+    "score": 3713,
+    "globalRank": 52286
   },
   {
     "login": "KingsleyKelly",
@@ -13115,7 +14051,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 937,
-    "score": 52
+    "score": 52,
+    "globalRank": 52287
   },
   {
     "login": "shekharkoirala",
@@ -13129,7 +14066,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 938,
-    "score": 326
+    "score": 326,
+    "globalRank": 52288
   },
   {
     "login": "chrisdaly",
@@ -13143,7 +14081,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 939,
-    "score": 1489
+    "score": 1489,
+    "globalRank": 52289
   },
   {
     "login": "Simon-Kaz",
@@ -13157,7 +14096,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 940,
-    "score": 60
+    "score": 60,
+    "globalRank": 52290
   },
   {
     "login": "Mrbrianojee",
@@ -13171,7 +14111,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 941,
-    "score": 50
+    "score": 50,
+    "globalRank": 52291
   },
   {
     "login": "hashABCD",
@@ -13185,7 +14126,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 942,
-    "score": 61
+    "score": 61,
+    "globalRank": 52292
   },
   {
     "login": "dbattersby",
@@ -13199,7 +14141,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 943,
-    "score": 982
+    "score": 982,
+    "globalRank": 52293
   },
   {
     "login": "Cyb3rC3lt",
@@ -13213,7 +14156,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 944,
-    "score": 59
+    "score": 59,
+    "globalRank": 52294
   },
   {
     "login": "AlifAlRazi",
@@ -13227,7 +14171,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 945,
-    "score": 205
+    "score": 205,
+    "globalRank": 52295
   },
   {
     "login": "ilvar",
@@ -13241,7 +14186,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 946,
-    "score": 23472
+    "score": 23472,
+    "globalRank": 52296
   },
   {
     "login": "tychobrailleur",
@@ -13255,7 +14201,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 947,
-    "score": 208
+    "score": 208,
+    "globalRank": 52297
   },
   {
     "login": "mycourseresource",
@@ -13269,7 +14216,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 948,
-    "score": 85
+    "score": 85,
+    "globalRank": 52298
   },
   {
     "login": "rafaelmdurante",
@@ -13283,7 +14231,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 949,
-    "score": 220
+    "score": 220,
+    "globalRank": 52299
   },
   {
     "login": "rajatvig",
@@ -13297,7 +14246,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 950,
-    "score": 6369
+    "score": 6369,
+    "globalRank": 52300
   },
   {
     "login": "csknk",
@@ -13311,7 +14261,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 951,
-    "score": 80
+    "score": 80,
+    "globalRank": 52301
   },
   {
     "login": "bbusschots",
@@ -13325,7 +14276,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 952,
-    "score": 118
+    "score": 118,
+    "globalRank": 52302
   },
   {
     "login": "Mahmoud-nfz",
@@ -13339,7 +14291,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 953,
-    "score": 1182
+    "score": 1182,
+    "globalRank": 52303
   },
   {
     "login": "OisinA",
@@ -13353,7 +14306,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 954,
-    "score": 171
+    "score": 171,
+    "globalRank": 52304
   },
   {
     "login": "GohEeEn",
@@ -13367,7 +14321,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 955,
-    "score": 57
+    "score": 57,
+    "globalRank": 52768
   },
   {
     "login": "grahamhayes",
@@ -13381,7 +14336,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 956,
-    "score": 233
+    "score": 233,
+    "globalRank": 52769
   },
   {
     "login": "SubhayanDas08",
@@ -13395,7 +14351,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 957,
-    "score": 53
+    "score": 53,
+    "globalRank": 52770
   },
   {
     "login": "piotrpdev",
@@ -13409,7 +14366,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 958,
-    "score": 956
+    "score": 956,
+    "globalRank": 52771
   },
   {
     "login": "ISF",
@@ -13423,7 +14381,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 959,
-    "score": 541
+    "score": 541,
+    "globalRank": 52772
   },
   {
     "login": "samuelteixeiras",
@@ -13437,7 +14396,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 960,
-    "score": 582
+    "score": 582,
+    "globalRank": 52773
   },
   {
     "login": "RJMurg",
@@ -13451,7 +14411,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 961,
-    "score": 2587
+    "score": 2587,
+    "globalRank": 52774
   },
   {
     "login": "andremourato",
@@ -13465,7 +14426,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 962,
-    "score": 49
+    "score": 49,
+    "globalRank": 52775
   },
   {
     "login": "lorcan",
@@ -13479,7 +14441,8 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 963,
-    "score": 1508
+    "score": 1508,
+    "globalRank": 52776
   },
   {
     "login": "amylour",
@@ -13493,6 +14456,7 @@
     "country": "ireland",
     "countryName": "Ireland",
     "countryRank": 964,
-    "score": 171
+    "score": 171,
+    "globalRank": 52777
   }
 ]

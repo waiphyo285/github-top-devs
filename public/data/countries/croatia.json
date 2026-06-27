@@ -11,7 +11,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 1,
-    "score": 37559
+    "score": 37559,
+    "globalRank": 13
   },
   {
     "login": "AntonioErdeljac",
@@ -25,7 +26,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 2,
-    "score": 11208
+    "score": 11208,
+    "globalRank": 201
   },
   {
     "login": "stamparm",
@@ -39,7 +41,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 3,
-    "score": 3957
+    "score": 3957,
+    "globalRank": 995
   },
   {
     "login": "sasa1977",
@@ -53,7 +56,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 4,
-    "score": 1872
+    "score": 1872,
+    "globalRank": 1794
   },
   {
     "login": "Valloric",
@@ -67,7 +71,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 5,
-    "score": 1269
+    "score": 1269,
+    "globalRank": 3292
   },
   {
     "login": "vladmandic",
@@ -81,7 +86,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 6,
-    "score": 6713
+    "score": 6713,
+    "globalRank": 3356
   },
   {
     "login": "PCrnjak",
@@ -95,7 +101,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 7,
-    "score": 1232
+    "score": 1232,
+    "globalRank": 4477
   },
   {
     "login": "matiadev",
@@ -109,7 +116,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 8,
-    "score": 1131
+    "score": 1131,
+    "globalRank": 4938
   },
   {
     "login": "josip0920-zz",
@@ -123,7 +131,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 9,
-    "score": 822
+    "score": 822,
+    "globalRank": 5045
   },
   {
     "login": "Swader",
@@ -137,7 +146,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 10,
-    "score": 3720
+    "score": 3720,
+    "globalRank": 5344
   },
   {
     "login": "ivandoric",
@@ -151,7 +161,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 11,
-    "score": 1647
+    "score": 1647,
+    "globalRank": 5436
   },
   {
     "login": "ivan-sincek",
@@ -165,7 +176,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 12,
-    "score": 1366
+    "score": 1366,
+    "globalRank": 6357
   },
   {
     "login": "stsrki",
@@ -179,7 +191,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 13,
-    "score": 1745
+    "score": 1745,
+    "globalRank": 6837
   },
   {
     "login": "kost",
@@ -193,7 +206,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 14,
-    "score": 791
+    "score": 791,
+    "globalRank": 7283
   },
   {
     "login": "filbabic",
@@ -207,7 +221,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 15,
-    "score": 877
+    "score": 877,
+    "globalRank": 10067
   },
   {
     "login": "silvenon",
@@ -221,7 +236,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 16,
-    "score": 1520
+    "score": 1520,
+    "globalRank": 10195
   },
   {
     "login": "loboris",
@@ -235,7 +251,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 17,
-    "score": 406
+    "score": 406,
+    "globalRank": 10554
   },
   {
     "login": "Martinsos",
@@ -249,7 +266,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 18,
-    "score": 939
+    "score": 939,
+    "globalRank": 10920
   },
   {
     "login": "Raxone",
@@ -263,7 +281,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 19,
-    "score": 377
+    "score": 377,
+    "globalRank": 11485
   },
   {
     "login": "bruno-",
@@ -277,7 +296,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 20,
-    "score": 371
+    "score": 371,
+    "globalRank": 12063
   },
   {
     "login": "ivanmeler",
@@ -291,7 +311,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 21,
-    "score": 10647
+    "score": 10647,
+    "globalRank": 13391
   },
   {
     "login": "tkrajina",
@@ -305,7 +326,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 22,
-    "score": 936
+    "score": 936,
+    "globalRank": 14649
   },
   {
     "login": "nibzard",
@@ -319,7 +341,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 23,
-    "score": 9278
+    "score": 9278,
+    "globalRank": 14977
   },
   {
     "login": "hermanzdosilovic",
@@ -333,7 +356,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 24,
-    "score": 570
+    "score": 570,
+    "globalRank": 15026
   },
   {
     "login": "mateogalic112",
@@ -347,7 +371,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 25,
-    "score": 4410
+    "score": 4410,
+    "globalRank": 15821
   },
   {
     "login": "vjekob",
@@ -361,7 +386,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 26,
-    "score": 3818
+    "score": 3818,
+    "globalRank": 16320
   },
   {
     "login": "ivpusic",
@@ -375,7 +401,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 27,
-    "score": 2348
+    "score": 2348,
+    "globalRank": 16376
   },
   {
     "login": "diomed",
@@ -389,7 +416,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 28,
-    "score": 289
+    "score": 289,
+    "globalRank": 16816
   },
   {
     "login": "blakadder",
@@ -403,7 +431,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 29,
-    "score": 262
+    "score": 262,
+    "globalRank": 17025
   },
   {
     "login": "BeardedTinker",
@@ -417,7 +446,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 30,
-    "score": 527
+    "score": 527,
+    "globalRank": 17026
   },
   {
     "login": "LukaSikic",
@@ -431,7 +461,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 31,
-    "score": 2466
+    "score": 2466,
+    "globalRank": 17027
   },
   {
     "login": "nbqofficial",
@@ -445,7 +476,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 32,
-    "score": 299
+    "score": 299,
+    "globalRank": 17850
   },
   {
     "login": "narimiran",
@@ -459,7 +491,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 33,
-    "score": 547
+    "score": 547,
+    "globalRank": 18708
   },
   {
     "login": "cloverstudio",
@@ -473,7 +506,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 34,
-    "score": 215
+    "score": 215,
+    "globalRank": 18785
   },
   {
     "login": "senko",
@@ -487,7 +521,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 35,
-    "score": 992
+    "score": 992,
+    "globalRank": 18840
   },
   {
     "login": "Tinche",
@@ -501,7 +536,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 36,
-    "score": 2054
+    "score": 2054,
+    "globalRank": 19549
   },
   {
     "login": "ralfbecher",
@@ -515,7 +551,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 37,
-    "score": 1764
+    "score": 1764,
+    "globalRank": 19692
   },
   {
     "login": "Zeko369",
@@ -529,7 +566,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 38,
-    "score": 2724
+    "score": 2724,
+    "globalRank": 19764
   },
   {
     "login": "Ss1107S",
@@ -543,7 +581,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 39,
-    "score": 597
+    "score": 597,
+    "globalRank": 20056
   },
   {
     "login": "mdomba",
@@ -557,7 +596,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 40,
-    "score": 195
+    "score": 195,
+    "globalRank": 20057
   },
   {
     "login": "avail",
@@ -571,7 +611,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 41,
-    "score": 341
+    "score": 341,
+    "globalRank": 20200
   },
   {
     "login": "slovnicki",
@@ -585,7 +626,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 42,
-    "score": 1029
+    "score": 1029,
+    "globalRank": 21364
   },
   {
     "login": "JazzyGrim",
@@ -599,7 +641,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 43,
-    "score": 1522
+    "score": 1522,
+    "globalRank": 21365
   },
   {
     "login": "simevidas",
@@ -613,7 +656,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 44,
-    "score": 386
+    "score": 386,
+    "globalRank": 21619
   },
   {
     "login": "xan1242",
@@ -627,7 +671,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 45,
-    "score": 1080
+    "score": 1080,
+    "globalRank": 22146
   },
   {
     "login": "NikolaBreznjak",
@@ -641,7 +686,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 46,
-    "score": 1415
+    "score": 1415,
+    "globalRank": 22497
   },
   {
     "login": "mat1jaczyyy",
@@ -655,7 +701,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 47,
-    "score": 1048
+    "score": 1048,
+    "globalRank": 22498
   },
   {
     "login": "stjepanjurekovic",
@@ -669,7 +716,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 48,
-    "score": 519
+    "score": 519,
+    "globalRank": 22838
   },
   {
     "login": "zeljkofilipin",
@@ -683,7 +731,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 49,
-    "score": 908
+    "score": 908,
+    "globalRank": 22963
   },
   {
     "login": "dpavlin",
@@ -697,7 +746,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 50,
-    "score": 1041
+    "score": 1041,
+    "globalRank": 23084
   },
   {
     "login": "dmilicic",
@@ -711,7 +761,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 51,
-    "score": 342
+    "score": 342,
+    "globalRank": 23567
   },
   {
     "login": "ihabunek",
@@ -725,7 +776,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 52,
-    "score": 2980
+    "score": 2980,
+    "globalRank": 23690
   },
   {
     "login": "dingo-d",
@@ -739,7 +791,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 53,
-    "score": 3170
+    "score": 3170,
+    "globalRank": 23827
   },
   {
     "login": "matijaSos",
@@ -753,7 +806,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 54,
-    "score": 230
+    "score": 230,
+    "globalRank": 23971
   },
   {
     "login": "moljac",
@@ -767,7 +821,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 55,
-    "score": 3878
+    "score": 3878,
+    "globalRank": 24090
   },
   {
     "login": "robimarko",
@@ -781,7 +836,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 56,
-    "score": 668
+    "score": 668,
+    "globalRank": 24227
   },
   {
     "login": "monorkin",
@@ -795,7 +851,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 57,
-    "score": 1871
+    "score": 1871,
+    "globalRank": 24498
   },
   {
     "login": "MerlijnWajer",
@@ -809,7 +866,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 58,
-    "score": 567
+    "score": 567,
+    "globalRank": 24633
   },
   {
     "login": "Toni-d-e-v",
@@ -823,7 +881,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 59,
-    "score": 1732
+    "score": 1732,
+    "globalRank": 24920
   },
   {
     "login": "dagostini",
@@ -837,7 +896,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 60,
-    "score": 1353
+    "score": 1353,
+    "globalRank": 25313
   },
   {
     "login": "im-luka",
@@ -851,7 +911,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 61,
-    "score": 1266
+    "score": 1266,
+    "globalRank": 25450
   },
   {
     "login": "mihaelamj",
@@ -865,7 +926,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 62,
-    "score": 7529
+    "score": 7529,
+    "globalRank": 25597
   },
   {
     "login": "denibertovic",
@@ -879,7 +941,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 63,
-    "score": 561
+    "score": 561,
+    "globalRank": 25598
   },
   {
     "login": "richardpl",
@@ -893,7 +956,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 64,
-    "score": 2185
+    "score": 2185,
+    "globalRank": 25903
   },
   {
     "login": "nenadmarkus",
@@ -907,7 +971,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 65,
-    "score": 140
+    "score": 140,
+    "globalRank": 26201
   },
   {
     "login": "dalijap",
@@ -921,7 +986,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 66,
-    "score": 209
+    "score": 209,
+    "globalRank": 26517
   },
   {
     "login": "codeAdrian",
@@ -935,7 +1001,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 67,
-    "score": 218
+    "score": 218,
+    "globalRank": 26838
   },
   {
     "login": "dkorunic",
@@ -949,7 +1016,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 68,
-    "score": 964
+    "score": 964,
+    "globalRank": 27171
   },
   {
     "login": "metakermit",
@@ -963,7 +1031,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 69,
-    "score": 184
+    "score": 184,
+    "globalRank": 27507
   },
   {
     "login": "retro",
@@ -977,7 +1046,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 70,
-    "score": 218
+    "score": 218,
+    "globalRank": 27812
   },
   {
     "login": "tonyiboy",
@@ -991,7 +1061,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 71,
-    "score": 1308
+    "score": 1308,
+    "globalRank": 28698
   },
   {
     "login": "tonkec",
@@ -1005,7 +1076,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 72,
-    "score": 936
+    "score": 936,
+    "globalRank": 28880
   },
   {
     "login": "mpetrunic",
@@ -1019,7 +1091,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 73,
-    "score": 2616
+    "score": 2616,
+    "globalRank": 28881
   },
   {
     "login": "lukagabric",
@@ -1033,7 +1106,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 74,
-    "score": 1559
+    "score": 1559,
+    "globalRank": 29080
   },
   {
     "login": "goran-mahovlic",
@@ -1047,7 +1121,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 75,
-    "score": 643
+    "score": 643,
+    "globalRank": 29265
   },
   {
     "login": "andreicek",
@@ -1061,7 +1136,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 76,
-    "score": 1785
+    "score": 1785,
+    "globalRank": 30035
   },
   {
     "login": "matijaoe",
@@ -1075,7 +1151,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 77,
-    "score": 4287
+    "score": 4287,
+    "globalRank": 30245
   },
   {
     "login": "LorDClockaN",
@@ -1089,7 +1166,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 78,
-    "score": 117
+    "score": 117,
+    "globalRank": 30246
   },
   {
     "login": "niksy",
@@ -1103,7 +1181,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 79,
-    "score": 2478
+    "score": 2478,
+    "globalRank": 31337
   },
   {
     "login": "mgrubisic",
@@ -1117,7 +1196,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 80,
-    "score": 328
+    "score": 328,
+    "globalRank": 31831
   },
   {
     "login": "0x19",
@@ -1131,7 +1211,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 81,
-    "score": 121
+    "score": 121,
+    "globalRank": 31832
   },
   {
     "login": "davorrunje",
@@ -1145,7 +1226,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 82,
-    "score": 1955
+    "score": 1955,
+    "globalRank": 32330
   },
   {
     "login": "dstrekelj",
@@ -1159,7 +1241,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 83,
-    "score": 1185
+    "score": 1185,
+    "globalRank": 32761
   },
   {
     "login": "maliMirkec",
@@ -1173,7 +1256,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 84,
-    "score": 1362
+    "score": 1362,
+    "globalRank": 32762
   },
   {
     "login": "LeonardM01",
@@ -1187,7 +1271,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 85,
-    "score": 1516
+    "score": 1516,
+    "globalRank": 33214
   },
   {
     "login": "astimac",
@@ -1201,7 +1286,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 86,
-    "score": 171
+    "score": 171,
+    "globalRank": 33772
   },
   {
     "login": "ImpulseFPS",
@@ -1215,7 +1301,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 87,
-    "score": 116
+    "score": 116,
+    "globalRank": 33773
   },
   {
     "login": "Vladyslavos",
@@ -1229,7 +1316,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 88,
-    "score": 230
+    "score": 230,
+    "globalRank": 34045
   },
   {
     "login": "mate329",
@@ -1243,7 +1331,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 89,
-    "score": 949
+    "score": 949,
+    "globalRank": 34485
   },
   {
     "login": "kheruc",
@@ -1257,7 +1346,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 90,
-    "score": 2039
+    "score": 2039,
+    "globalRank": 34714
   },
   {
     "login": "Marko-M",
@@ -1271,7 +1361,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 91,
-    "score": 97
+    "score": 97,
+    "globalRank": 35229
   },
   {
     "login": "InCogNiTo124",
@@ -1285,7 +1376,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 92,
-    "score": 336
+    "score": 336,
+    "globalRank": 35230
   },
   {
     "login": "zregvart",
@@ -1299,7 +1391,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 93,
-    "score": 179
+    "score": 179,
+    "globalRank": 35231
   },
   {
     "login": "DuckySoLucky",
@@ -1313,7 +1406,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 94,
-    "score": 1037
+    "score": 1037,
+    "globalRank": 35476
   },
   {
     "login": "ldulcic",
@@ -1327,7 +1421,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 95,
-    "score": 174
+    "score": 174,
+    "globalRank": 35477
   },
   {
     "login": "allixsenos",
@@ -1341,7 +1436,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 96,
-    "score": 2407
+    "score": 2407,
+    "globalRank": 35478
   },
   {
     "login": "vbilopav",
@@ -1355,7 +1451,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 97,
-    "score": 1165
+    "score": 1165,
+    "globalRank": 35727
   },
   {
     "login": "Gajotres",
@@ -1369,7 +1466,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 98,
-    "score": 95
+    "score": 95,
+    "globalRank": 35728
   },
   {
     "login": "morrigan",
@@ -1383,7 +1481,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 99,
-    "score": 227
+    "score": 227,
+    "globalRank": 35729
   },
   {
     "login": "infomiho",
@@ -1397,7 +1496,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 100,
-    "score": 1442
+    "score": 1442,
+    "globalRank": 35984
   },
   {
     "login": "jeremija",
@@ -1411,7 +1511,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 101,
-    "score": 114
+    "score": 114,
+    "globalRank": 35985
   },
   {
     "login": "igorbenic",
@@ -1425,7 +1526,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 102,
-    "score": 161
+    "score": 161,
+    "globalRank": 35986
   },
   {
     "login": "mtopolnik",
@@ -1439,7 +1541,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 103,
-    "score": 449
+    "score": 449,
+    "globalRank": 36256
   },
   {
     "login": "mkruselj",
@@ -1453,7 +1556,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 104,
-    "score": 1000
+    "score": 1000,
+    "globalRank": 36257
   },
   {
     "login": "kristijanbartol",
@@ -1467,7 +1571,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 105,
-    "score": 93
+    "score": 93,
+    "globalRank": 36258
   },
   {
     "login": "mariosasko",
@@ -1481,7 +1586,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 106,
-    "score": 106
+    "score": 106,
+    "globalRank": 36795
   },
   {
     "login": "dark64",
@@ -1495,7 +1601,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 107,
-    "score": 296
+    "score": 296,
+    "globalRank": 36796
   },
   {
     "login": "SincerelyFaust",
@@ -1509,7 +1616,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 108,
-    "score": 4044
+    "score": 4044,
+    "globalRank": 37066
   },
   {
     "login": "jelicanin",
@@ -1523,7 +1631,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 109,
-    "score": 1462
+    "score": 1462,
+    "globalRank": 37067
   },
   {
     "login": "edisinovcic",
@@ -1537,7 +1646,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 110,
-    "score": 3954
+    "score": 3954,
+    "globalRank": 37372
   },
   {
     "login": "flauc",
@@ -1551,7 +1661,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 111,
-    "score": 5176
+    "score": 5176,
+    "globalRank": 37373
   },
   {
     "login": "atopuzov",
@@ -1565,7 +1676,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 112,
-    "score": 529
+    "score": 529,
+    "globalRank": 37673
   },
   {
     "login": "MiroDojkic",
@@ -1579,7 +1691,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 113,
-    "score": 187
+    "score": 187,
+    "globalRank": 37674
   },
   {
     "login": "marioloncarek",
@@ -1593,7 +1706,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 114,
-    "score": 1947
+    "score": 1947,
+    "globalRank": 38265
   },
   {
     "login": "manpages",
@@ -1607,7 +1721,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 115,
-    "score": 84
+    "score": 84,
+    "globalRank": 38560
   },
   {
     "login": "dkasak",
@@ -1621,7 +1736,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 116,
-    "score": 306
+    "score": 306,
+    "globalRank": 38889
   },
   {
     "login": "ratimir-matana",
@@ -1635,7 +1751,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 117,
-    "score": 83
+    "score": 83,
+    "globalRank": 38890
   },
   {
     "login": "lovrozagar",
@@ -1649,7 +1766,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 118,
-    "score": 2769
+    "score": 2769,
+    "globalRank": 39218
   },
   {
     "login": "corazza",
@@ -1663,7 +1781,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 119,
-    "score": 2225
+    "score": 2225,
+    "globalRank": 39219
   },
   {
     "login": "dkarlovi",
@@ -1677,7 +1796,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 120,
-    "score": 576
+    "score": 576,
+    "globalRank": 39220
   },
   {
     "login": "Tiniifan",
@@ -1691,7 +1811,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 121,
-    "score": 337
+    "score": 337,
+    "globalRank": 39551
   },
   {
     "login": "MathieuDutSik",
@@ -1705,7 +1826,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 122,
-    "score": 2604
+    "score": 2604,
+    "globalRank": 39878
   },
   {
     "login": "sodic",
@@ -1719,7 +1841,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 123,
-    "score": 775
+    "score": 775,
+    "globalRank": 40201
   },
   {
     "login": "aljosa",
@@ -1733,7 +1856,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 124,
-    "score": 1734
+    "score": 1734,
+    "globalRank": 40510
   },
   {
     "login": "rvaser",
@@ -1747,7 +1871,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 125,
-    "score": 80
+    "score": 80,
+    "globalRank": 40511
   },
   {
     "login": "capJavert",
@@ -1761,7 +1886,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 126,
-    "score": 2219
+    "score": 2219,
+    "globalRank": 40805
   },
   {
     "login": "mateeeeeee",
@@ -1775,7 +1901,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 127,
-    "score": 726
+    "score": 726,
+    "globalRank": 41094
   },
   {
     "login": "schrepfler",
@@ -1789,7 +1916,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 128,
-    "score": 347
+    "score": 347,
+    "globalRank": 41095
   },
   {
     "login": "fkrajcar",
@@ -1803,7 +1931,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 129,
-    "score": 81
+    "score": 81,
+    "globalRank": 41407
   },
   {
     "login": "danchyy",
@@ -1817,7 +1946,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 130,
-    "score": 75
+    "score": 75,
+    "globalRank": 41408
   },
   {
     "login": "sbarisic",
@@ -1831,7 +1961,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 131,
-    "score": 1033
+    "score": 1033,
+    "globalRank": 41720
   },
   {
     "login": "ShendoXT",
@@ -1845,7 +1976,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 132,
-    "score": 109
+    "score": 109,
+    "globalRank": 41721
   },
   {
     "login": "sskender",
@@ -1859,7 +1991,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 133,
-    "score": 1989
+    "score": 1989,
+    "globalRank": 41722
   },
   {
     "login": "DynamicsNinja",
@@ -1873,7 +2006,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 134,
-    "score": 1247
+    "score": 1247,
+    "globalRank": 41999
   },
   {
     "login": "radanskoric",
@@ -1887,7 +2021,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 135,
-    "score": 992
+    "score": 992,
+    "globalRank": 42000
   },
   {
     "login": "tgrospic",
@@ -1901,7 +2036,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 136,
-    "score": 1167
+    "score": 1167,
+    "globalRank": 42001
   },
   {
     "login": "zeljkoprsa",
@@ -1915,7 +2051,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 137,
-    "score": 374
+    "score": 374,
+    "globalRank": 42002
   },
   {
     "login": "marinbenc",
@@ -1929,7 +2066,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 138,
-    "score": 115
+    "score": 115,
+    "globalRank": 42352
   },
   {
     "login": "dodoburner",
@@ -1943,7 +2081,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 139,
-    "score": 2848
+    "score": 2848,
+    "globalRank": 42353
   },
   {
     "login": "amarsic1990",
@@ -1957,7 +2096,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 140,
-    "score": 72
+    "score": 72,
+    "globalRank": 42354
   },
   {
     "login": "ivanweiler",
@@ -1971,7 +2111,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 141,
-    "score": 985
+    "score": 985,
+    "globalRank": 42664
   },
   {
     "login": "zcuric",
@@ -1985,7 +2126,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 142,
-    "score": 3024
+    "score": 3024,
+    "globalRank": 42665
   },
   {
     "login": "dekadentno",
@@ -1999,7 +2141,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 143,
-    "score": 132
+    "score": 132,
+    "globalRank": 42666
   },
   {
     "login": "ivoras",
@@ -2013,7 +2156,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 144,
-    "score": 2255
+    "score": 2255,
+    "globalRank": 43321
   },
   {
     "login": "jurkovic-nikola",
@@ -2027,7 +2171,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 145,
-    "score": 634
+    "score": 634,
+    "globalRank": 43322
   },
   {
     "login": "aussieboi",
@@ -2041,7 +2186,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 146,
-    "score": 117
+    "score": 117,
+    "globalRank": 43658
   },
   {
     "login": "bdeak4",
@@ -2055,7 +2201,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 147,
-    "score": 539
+    "score": 539,
+    "globalRank": 43659
   },
   {
     "login": "MarkoMilos",
@@ -2069,7 +2216,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 148,
-    "score": 385
+    "score": 385,
+    "globalRank": 43660
   },
   {
     "login": "aerkalov",
@@ -2083,7 +2231,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 149,
-    "score": 603
+    "score": 603,
+    "globalRank": 44037
   },
   {
     "login": "rudiaj",
@@ -2097,7 +2246,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 150,
-    "score": 671
+    "score": 671,
+    "globalRank": 44038
   },
   {
     "login": "mbonaci",
@@ -2111,7 +2261,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 151,
-    "score": 2068
+    "score": 2068,
+    "globalRank": 44039
   },
   {
     "login": "ianic",
@@ -2125,7 +2276,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 152,
-    "score": 451
+    "score": 451,
+    "globalRank": 44040
   },
   {
     "login": "kernel-dev",
@@ -2139,7 +2291,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 153,
-    "score": 141
+    "score": 141,
+    "globalRank": 44408
   },
   {
     "login": "MarinX",
@@ -2153,7 +2306,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 154,
-    "score": 137
+    "score": 137,
+    "globalRank": 44409
   },
   {
     "login": "dinoperovic",
@@ -2167,7 +2321,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 155,
-    "score": 2602
+    "score": 2602,
+    "globalRank": 44410
   },
   {
     "login": "zappan",
@@ -2181,7 +2336,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 156,
-    "score": 1242
+    "score": 1242,
+    "globalRank": 44794
   },
   {
     "login": "Stane1983",
@@ -2195,7 +2351,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 157,
-    "score": 99
+    "score": 99,
+    "globalRank": 44795
   },
   {
     "login": "mdimjasevic",
@@ -2209,7 +2366,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 158,
-    "score": 69
+    "score": 69,
+    "globalRank": 45195
   },
   {
     "login": "vjerci",
@@ -2223,7 +2381,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 159,
-    "score": 605
+    "score": 605,
+    "globalRank": 45600
   },
   {
     "login": "SlavicaSkoric",
@@ -2237,7 +2396,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 160,
-    "score": 63
+    "score": 63,
+    "globalRank": 45601
   },
   {
     "login": "ChristopherA8",
@@ -2251,7 +2411,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 161,
-    "score": 127
+    "score": 127,
+    "globalRank": 46019
   },
   {
     "login": "jurajhilje",
@@ -2265,7 +2426,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 162,
-    "score": 2000
+    "score": 2000,
+    "globalRank": 46020
   },
   {
     "login": "lpredova",
@@ -2279,7 +2441,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 163,
-    "score": 2792
+    "score": 2792,
+    "globalRank": 46444
   },
   {
     "login": "mariokostelac",
@@ -2293,7 +2456,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 164,
-    "score": 463
+    "score": 463,
+    "globalRank": 46445
   },
   {
     "login": "DavidBoja",
@@ -2307,7 +2471,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 165,
-    "score": 61
+    "score": 61,
+    "globalRank": 46446
   },
   {
     "login": "miha2010",
@@ -2321,7 +2486,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 166,
-    "score": 61
+    "score": 61,
+    "globalRank": 46447
   },
   {
     "login": "gitbuda",
@@ -2335,7 +2501,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 167,
-    "score": 409
+    "score": 409,
+    "globalRank": 46448
   },
   {
     "login": "m-luketin",
@@ -2349,7 +2516,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 168,
-    "score": 75
+    "score": 75,
+    "globalRank": 46449
   },
   {
     "login": "antoniagrabar",
@@ -2363,7 +2531,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 169,
-    "score": 70
+    "score": 70,
+    "globalRank": 47318
   },
   {
     "login": "aesqe",
@@ -2377,7 +2546,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 170,
-    "score": 769
+    "score": 769,
+    "globalRank": 47319
   },
   {
     "login": "DarkoKukovec",
@@ -2391,7 +2561,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 171,
-    "score": 787
+    "score": 787,
+    "globalRank": 47320
   },
   {
     "login": "dinodsaurus",
@@ -2405,7 +2576,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 172,
-    "score": 1956
+    "score": 1956,
+    "globalRank": 47321
   },
   {
     "login": "domagojk",
@@ -2419,7 +2591,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 173,
-    "score": 230
+    "score": 230,
+    "globalRank": 47727
   },
   {
     "login": "tridsat",
@@ -2433,7 +2606,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 174,
-    "score": 58
+    "score": 58,
+    "globalRank": 47728
   },
   {
     "login": "emodric",
@@ -2447,7 +2621,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 175,
-    "score": 2229
+    "score": 2229,
+    "globalRank": 47729
   },
   {
     "login": "h00s",
@@ -2461,7 +2636,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 176,
-    "score": 986
+    "score": 986,
+    "globalRank": 47730
   },
   {
     "login": "nticaric",
@@ -2475,7 +2651,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 177,
-    "score": 305
+    "score": 305,
+    "globalRank": 47731
   },
   {
     "login": "isovic",
@@ -2489,7 +2666,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 178,
-    "score": 59
+    "score": 59,
+    "globalRank": 48165
   },
   {
     "login": "zcalusic",
@@ -2503,7 +2681,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 179,
-    "score": 91
+    "score": 91,
+    "globalRank": 48166
   },
   {
     "login": "elvanja",
@@ -2517,7 +2696,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 180,
-    "score": 1210
+    "score": 1210,
+    "globalRank": 48167
   },
   {
     "login": "vmandic",
@@ -2531,7 +2711,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 181,
-    "score": 332
+    "score": 332,
+    "globalRank": 48168
   },
   {
     "login": "neektza",
@@ -2545,7 +2726,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 182,
-    "score": 1076
+    "score": 1076,
+    "globalRank": 48634
   },
   {
     "login": "ivodolenc",
@@ -2559,7 +2741,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 183,
-    "score": 2312
+    "score": 2312,
+    "globalRank": 48635
   },
   {
     "login": "nikolaplejic",
@@ -2573,7 +2756,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 184,
-    "score": 67
+    "score": 67,
+    "globalRank": 49118
   },
   {
     "login": "Andrej123456789",
@@ -2587,7 +2771,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 185,
-    "score": 312
+    "score": 312,
+    "globalRank": 49119
   },
   {
     "login": "apisurfer",
@@ -2601,7 +2786,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 186,
-    "score": 1144
+    "score": 1144,
+    "globalRank": 49601
   },
   {
     "login": "jcavar",
@@ -2615,7 +2801,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 187,
-    "score": 152
+    "score": 152,
+    "globalRank": 49602
   },
   {
     "login": "mariodujic",
@@ -2629,7 +2816,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 188,
-    "score": 1775
+    "score": 1775,
+    "globalRank": 49603
   },
   {
     "login": "tenodi",
@@ -2643,7 +2831,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 189,
-    "score": 224
+    "score": 224,
+    "globalRank": 49604
   },
   {
     "login": "dgrubelic",
@@ -2657,7 +2846,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 190,
-    "score": 53
+    "score": 53,
+    "globalRank": 50137
   },
   {
     "login": "matejb",
@@ -2671,7 +2861,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 191,
-    "score": 112
+    "score": 112,
+    "globalRank": 50138
   },
   {
     "login": "lblasc",
@@ -2685,7 +2876,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 192,
-    "score": 1583
+    "score": 1583,
+    "globalRank": 50139
   },
   {
     "login": "dvrkps",
@@ -2699,7 +2891,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 193,
-    "score": 55
+    "score": 55,
+    "globalRank": 50660
   },
   {
     "login": "crnkovic",
@@ -2713,7 +2906,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 194,
-    "score": 3906
+    "score": 3906,
+    "globalRank": 50661
   },
   {
     "login": "fzoric8",
@@ -2727,7 +2921,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 195,
-    "score": 507
+    "score": 507,
+    "globalRank": 51184
   },
   {
     "login": "ivantopo",
@@ -2741,7 +2936,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 196,
-    "score": 84
+    "score": 84,
+    "globalRank": 51185
   },
   {
     "login": "staniks",
@@ -2755,7 +2951,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 197,
-    "score": 404
+    "score": 404,
+    "globalRank": 51186
   },
   {
     "login": "orsic",
@@ -2769,7 +2966,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 198,
-    "score": 64
+    "score": 64,
+    "globalRank": 51187
   },
   {
     "login": "bgrgicak",
@@ -2783,7 +2981,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 199,
-    "score": 1465
+    "score": 1465,
+    "globalRank": 51188
   },
   {
     "login": "katarinasupe",
@@ -2797,7 +2996,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 200,
-    "score": 101
+    "score": 101,
+    "globalRank": 51673
   },
   {
     "login": "Nufflee",
@@ -2811,7 +3011,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 201,
-    "score": 62
+    "score": 62,
+    "globalRank": 51674
   },
   {
     "login": "ntankovic",
@@ -2825,7 +3026,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 202,
-    "score": 58
+    "score": 58,
+    "globalRank": 51675
   },
   {
     "login": "mariosemes",
@@ -2839,7 +3041,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 203,
-    "score": 52
+    "score": 52,
+    "globalRank": 51676
   },
   {
     "login": "damirpristav",
@@ -2853,7 +3056,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 204,
-    "score": 62
+    "score": 62,
+    "globalRank": 51677
   },
   {
     "login": "ssimunic",
@@ -2867,7 +3071,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 205,
-    "score": 50
+    "score": 50,
+    "globalRank": 51678
   },
   {
     "login": "mandryllo",
@@ -2881,7 +3086,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 206,
-    "score": 363
+    "score": 363,
+    "globalRank": 51679
   },
   {
     "login": "deva666",
@@ -2895,7 +3101,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 207,
-    "score": 362
+    "score": 362,
+    "globalRank": 52168
   },
   {
     "login": "tabaktoni",
@@ -2909,7 +3116,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 208,
-    "score": 503
+    "score": 503,
+    "globalRank": 52169
   },
   {
     "login": "daradecic",
@@ -2923,7 +3131,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 209,
-    "score": 49
+    "score": 49,
+    "globalRank": 52170
   },
   {
     "login": "markopoloparadox",
@@ -2937,7 +3146,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 210,
-    "score": 805
+    "score": 805,
+    "globalRank": 52171
   },
   {
     "login": "adrians5j",
@@ -2951,7 +3161,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 211,
-    "score": 1687
+    "score": 1687,
+    "globalRank": 52664
   },
   {
     "login": "Antony1060",
@@ -2965,7 +3176,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 212,
-    "score": 1202
+    "score": 1202,
+    "globalRank": 52665
   },
   {
     "login": "isBatak",
@@ -2979,7 +3191,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 213,
-    "score": 221
+    "score": 221,
+    "globalRank": 52666
   },
   {
     "login": "brandokoch",
@@ -2993,7 +3206,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 214,
-    "score": 301
+    "score": 301,
+    "globalRank": 52667
   },
   {
     "login": "BrunoJurkovic",
@@ -3007,7 +3221,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 215,
-    "score": 282
+    "score": 282,
+    "globalRank": 52668
   },
   {
     "login": "TypicalHog",
@@ -3021,7 +3236,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 216,
-    "score": 53
+    "score": 53,
+    "globalRank": 52669
   },
   {
     "login": "tgrzinic",
@@ -3035,7 +3251,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 217,
-    "score": 47
+    "score": 47,
+    "globalRank": 53164
   },
   {
     "login": "vkaracic",
@@ -3049,7 +3266,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 218,
-    "score": 2016
+    "score": 2016,
+    "globalRank": 53165
   },
   {
     "login": "ikovac",
@@ -3063,7 +3281,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 219,
-    "score": 240
+    "score": 240,
+    "globalRank": 53166
   },
   {
     "login": "lperkov",
@@ -3077,7 +3296,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 220,
-    "score": 53
+    "score": 53,
+    "globalRank": 53167
   },
   {
     "login": "AxelUser",
@@ -3091,7 +3311,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 221,
-    "score": 871
+    "score": 871,
+    "globalRank": 53663
   },
   {
     "login": "fobos531",
@@ -3105,7 +3326,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 222,
-    "score": 3735
+    "score": 3735,
+    "globalRank": 53664
   },
   {
     "login": "chorijan",
@@ -3119,7 +3341,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 223,
-    "score": 46
+    "score": 46,
+    "globalRank": 53665
   },
   {
     "login": "karlomikus",
@@ -3133,7 +3356,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 224,
-    "score": 1244
+    "score": 1244,
+    "globalRank": 53666
   },
   {
     "login": "davidtakac",
@@ -3147,7 +3371,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 225,
-    "score": 90
+    "score": 90,
+    "globalRank": 54226
   },
   {
     "login": "thak123",
@@ -3161,7 +3386,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 226,
-    "score": 115
+    "score": 115,
+    "globalRank": 54227
   },
   {
     "login": "jte",
@@ -3175,7 +3401,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 227,
-    "score": 306
+    "score": 306,
+    "globalRank": 54228
   },
   {
     "login": "xikodev",
@@ -3189,7 +3416,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 228,
-    "score": 215
+    "score": 215,
+    "globalRank": 54229
   },
   {
     "login": "MatijaNovosel",
@@ -3203,7 +3431,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 229,
-    "score": 324
+    "score": 324,
+    "globalRank": 54230
   },
   {
     "login": "0ximDigital",
@@ -3217,7 +3446,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 230,
-    "score": 761
+    "score": 761,
+    "globalRank": 54815
   },
   {
     "login": "0xf1a",
@@ -3231,7 +3461,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 231,
-    "score": 57
+    "score": 57,
+    "globalRank": 54816
   },
   {
     "login": "msvrtan",
@@ -3245,7 +3476,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 232,
-    "score": 75
+    "score": 75,
+    "globalRank": 54817
   },
   {
     "login": "tplavcic",
@@ -3259,7 +3491,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 233,
-    "score": 294
+    "score": 294,
+    "globalRank": 54818
   },
   {
     "login": "tkukurin",
@@ -3273,7 +3506,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 234,
-    "score": 249
+    "score": 249,
+    "globalRank": 55410
   },
   {
     "login": "mislavcimpersak",
@@ -3287,7 +3521,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 235,
-    "score": 61
+    "score": 61,
+    "globalRank": 55411
   },
   {
     "login": "okvik",
@@ -3301,7 +3536,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 236,
-    "score": 49
+    "score": 49,
+    "globalRank": 55412
   },
   {
     "login": "alaca",
@@ -3315,7 +3551,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 237,
-    "score": 372
+    "score": 372,
+    "globalRank": 55413
   },
   {
     "login": "chefsale",
@@ -3329,7 +3566,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 238,
-    "score": 3189
+    "score": 3189,
+    "globalRank": 55414
   },
   {
     "login": "DenisPav",
@@ -3343,7 +3581,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 239,
-    "score": 304
+    "score": 304,
+    "globalRank": 56057
   },
   {
     "login": "Lovrom8",
@@ -3357,7 +3596,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 240,
-    "score": 435
+    "score": 435,
+    "globalRank": 56058
   },
   {
     "login": "mkovacek",
@@ -3371,7 +3611,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 241,
-    "score": 47
+    "score": 47,
+    "globalRank": 56059
   },
   {
     "login": "guycalledseven",
@@ -3385,7 +3626,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 242,
-    "score": 75
+    "score": 75,
+    "globalRank": 56060
   },
   {
     "login": "iugrina",
@@ -3399,7 +3641,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 243,
-    "score": 730
+    "score": 730,
+    "globalRank": 56061
   },
   {
     "login": "nikolaglumac",
@@ -3413,7 +3656,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 244,
-    "score": 41
+    "score": 41,
+    "globalRank": 56708
   },
   {
     "login": "prasimix",
@@ -3427,7 +3671,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 245,
-    "score": 295
+    "score": 295,
+    "globalRank": 56709
   },
   {
     "login": "MakMuftic",
@@ -3441,7 +3686,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 246,
-    "score": 181
+    "score": 181,
+    "globalRank": 56710
   },
   {
     "login": "perpaer",
@@ -3455,7 +3701,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 247,
-    "score": 120
+    "score": 120,
+    "globalRank": 56711
   },
   {
     "login": "KarloKnezevic",
@@ -3469,7 +3716,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 248,
-    "score": 223
+    "score": 223,
+    "globalRank": 56712
   },
   {
     "login": "teodragovic",
@@ -3483,7 +3731,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 249,
-    "score": 2000
+    "score": 2000,
+    "globalRank": 56713
   },
   {
     "login": "begedin",
@@ -3497,7 +3746,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 250,
-    "score": 1777
+    "score": 1777,
+    "globalRank": 56714
   },
   {
     "login": "itsJoKr",
@@ -3511,7 +3761,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 251,
-    "score": 1947
+    "score": 1947,
+    "globalRank": 56715
   },
   {
     "login": "davidabram",
@@ -3525,7 +3776,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 252,
-    "score": 3539
+    "score": 3539,
+    "globalRank": 56716
   },
   {
     "login": "mnalis",
@@ -3539,7 +3791,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 253,
-    "score": 410
+    "score": 410,
+    "globalRank": 56717
   },
   {
     "login": "schlos",
@@ -3553,7 +3806,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 254,
-    "score": 45
+    "score": 45,
+    "globalRank": 56718
   },
   {
     "login": "krofna",
@@ -3567,7 +3821,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 255,
-    "score": 41
+    "score": 41,
+    "globalRank": 56719
   },
   {
     "login": "AleksandarDev",
@@ -3581,7 +3836,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 256,
-    "score": 6468
+    "score": 6468,
+    "globalRank": 57369
   },
   {
     "login": "davidzovko",
@@ -3595,7 +3851,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 257,
-    "score": 47
+    "score": 47,
+    "globalRank": 57370
   },
   {
     "login": "BornaSepic",
@@ -3609,7 +3866,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 258,
-    "score": 928
+    "score": 928,
+    "globalRank": 57371
   },
   {
     "login": "benpixel",
@@ -3623,7 +3881,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 259,
-    "score": 2880
+    "score": 2880,
+    "globalRank": 57372
   },
   {
     "login": "ipaleka",
@@ -3637,7 +3896,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 260,
-    "score": 1857
+    "score": 1857,
+    "globalRank": 57982
   },
   {
     "login": "akoidan",
@@ -3651,7 +3911,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 261,
-    "score": 1536
+    "score": 1536,
+    "globalRank": 57983
   },
   {
     "login": "mkozjak",
@@ -3665,7 +3926,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 262,
-    "score": 1195
+    "score": 1195,
+    "globalRank": 57984
   },
   {
     "login": "dtomicevic",
@@ -3679,7 +3941,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 263,
-    "score": 39
+    "score": 39,
+    "globalRank": 57985
   },
   {
     "login": "isabolic",
@@ -3693,7 +3956,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 264,
-    "score": 39
+    "score": 39,
+    "globalRank": 57986
   },
   {
     "login": "TAOcroatia",
@@ -3707,7 +3971,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 265,
-    "score": 41
+    "score": 41,
+    "globalRank": 58646
   },
   {
     "login": "mario-jerkovic",
@@ -3721,7 +3986,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 266,
-    "score": 1978
+    "score": 1978,
+    "globalRank": 58647
   },
   {
     "login": "underscope",
@@ -3735,7 +4001,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 267,
-    "score": 1101
+    "score": 1101,
+    "globalRank": 58648
   },
   {
     "login": "marinko-peso",
@@ -3749,7 +4016,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 268,
-    "score": 407
+    "score": 407,
+    "globalRank": 58649
   },
   {
     "login": "ivicac",
@@ -3763,7 +4031,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 269,
-    "score": 4594
+    "score": 4594,
+    "globalRank": 58650
   },
   {
     "login": "igniti0n",
@@ -3777,7 +4046,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 270,
-    "score": 1076
+    "score": 1076,
+    "globalRank": 58651
   },
   {
     "login": "jsnajder",
@@ -3791,7 +4061,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 271,
-    "score": 38
+    "score": 38,
+    "globalRank": 58652
   },
   {
     "login": "amarjanica",
@@ -3805,7 +4076,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 272,
-    "score": 107
+    "score": 107,
+    "globalRank": 58653
   },
   {
     "login": "Pavel910",
@@ -3819,7 +4091,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 273,
-    "score": 848
+    "score": 848,
+    "globalRank": 58654
   },
   {
     "login": "zoki",
@@ -3833,7 +4106,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 274,
-    "score": 632
+    "score": 632,
+    "globalRank": 59283
   },
   {
     "login": "apavlinovic",
@@ -3847,7 +4121,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 275,
-    "score": 667
+    "score": 667,
+    "globalRank": 59284
   },
   {
     "login": "stepanic",
@@ -3861,7 +4136,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 276,
-    "score": 22386
+    "score": 22386,
+    "globalRank": 59285
   },
   {
     "login": "SeloSlav",
@@ -3875,7 +4151,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 277,
-    "score": 5408
+    "score": 5408,
+    "globalRank": 59286
   },
   {
     "login": "Igor-Misic",
@@ -3889,7 +4166,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 278,
-    "score": 89
+    "score": 89,
+    "globalRank": 59287
   },
   {
     "login": "davinci2015",
@@ -3903,7 +4181,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 279,
-    "score": 1171
+    "score": 1171,
+    "globalRank": 59288
   },
   {
     "login": "blagoeres",
@@ -3917,7 +4196,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 280,
-    "score": 36
+    "score": 36,
+    "globalRank": 59991
   },
   {
     "login": "Domogo",
@@ -3931,7 +4211,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 281,
-    "score": 6427
+    "score": 6427,
+    "globalRank": 59992
   },
   {
     "login": "gor181",
@@ -3945,7 +4226,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 282,
-    "score": 189
+    "score": 189,
+    "globalRank": 59993
   },
   {
     "login": "patriksh",
@@ -3959,7 +4241,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 283,
-    "score": 3190
+    "score": 3190,
+    "globalRank": 59994
   },
   {
     "login": "Susko3",
@@ -3973,7 +4256,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 284,
-    "score": 228
+    "score": 228,
+    "globalRank": 59995
   },
   {
     "login": "njelich",
@@ -3987,7 +4271,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 285,
-    "score": 257
+    "score": 257,
+    "globalRank": 59996
   },
   {
     "login": "darko-mijic",
@@ -4001,7 +4286,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 286,
-    "score": 6488
+    "score": 6488,
+    "globalRank": 59997
   },
   {
     "login": "TheWildHorse",
@@ -4015,7 +4301,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 287,
-    "score": 1724
+    "score": 1724,
+    "globalRank": 59998
   },
   {
     "login": "caseycs",
@@ -4029,7 +4316,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 288,
-    "score": 207
+    "score": 207,
+    "globalRank": 59999
   },
   {
     "login": "zstanecic",
@@ -4043,7 +4331,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 289,
-    "score": 553
+    "score": 553,
+    "globalRank": 60000
   },
   {
     "login": "jan-kelemen",
@@ -4057,7 +4346,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 290,
-    "score": 621
+    "score": 621,
+    "globalRank": 60695
   },
   {
     "login": "Cerovec",
@@ -4071,7 +4361,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 291,
-    "score": 213
+    "score": 213,
+    "globalRank": 60696
   },
   {
     "login": "tomasinchoo",
@@ -4085,7 +4376,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 292,
-    "score": 133
+    "score": 133,
+    "globalRank": 60697
   },
   {
     "login": "shifi",
@@ -4099,7 +4391,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 293,
-    "score": 2334
+    "score": 2334,
+    "globalRank": 60698
   },
   {
     "login": "rade901",
@@ -4113,7 +4406,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 294,
-    "score": 112
+    "score": 112,
+    "globalRank": 60699
   },
   {
     "login": "kotarac",
@@ -4127,7 +4421,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 295,
-    "score": 218
+    "score": 218,
+    "globalRank": 60700
   },
   {
     "login": "sarajcev",
@@ -4141,7 +4436,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 296,
-    "score": 112
+    "score": 112,
+    "globalRank": 60701
   },
   {
     "login": "fico7489",
@@ -4155,7 +4451,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 297,
-    "score": 299
+    "score": 299,
+    "globalRank": 60702
   },
   {
     "login": "4nte",
@@ -4169,7 +4466,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 298,
-    "score": 366
+    "score": 366,
+    "globalRank": 60703
   },
   {
     "login": "fcagalj",
@@ -4183,7 +4481,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 299,
-    "score": 3277
+    "score": 3277,
+    "globalRank": 60704
   },
   {
     "login": "Dinonard",
@@ -4197,7 +4496,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 300,
-    "score": 643
+    "score": 643,
+    "globalRank": 60705
   },
   {
     "login": "Ino-Bagaric",
@@ -4211,7 +4511,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 301,
-    "score": 2514
+    "score": 2514,
+    "globalRank": 60706
   },
   {
     "login": "kova98",
@@ -4225,7 +4526,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 302,
-    "score": 859
+    "score": 859,
+    "globalRank": 60707
   },
   {
     "login": "mvladic",
@@ -4239,7 +4541,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 303,
-    "score": 473
+    "score": 473,
+    "globalRank": 60708
   },
   {
     "login": "jakiisheep",
@@ -4253,7 +4556,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 304,
-    "score": 35
+    "score": 35,
+    "globalRank": 60709
   },
   {
     "login": "MarioBlazek",
@@ -4267,7 +4571,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 305,
-    "score": 58
+    "score": 58,
+    "globalRank": 61416
   },
   {
     "login": "gornjas",
@@ -4281,7 +4586,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 306,
-    "score": 224
+    "score": 224,
+    "globalRank": 61417
   },
   {
     "login": "vuki656",
@@ -4295,7 +4601,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 307,
-    "score": 4254
+    "score": 4254,
+    "globalRank": 61418
   },
   {
     "login": "lpandzic",
@@ -4309,7 +4616,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 308,
-    "score": 123
+    "score": 123,
+    "globalRank": 61419
   },
   {
     "login": "BeroBurny",
@@ -4323,7 +4631,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 309,
-    "score": 305
+    "score": 305,
+    "globalRank": 61420
   },
   {
     "login": "ivancuric",
@@ -4337,7 +4646,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 310,
-    "score": 450
+    "score": 450,
+    "globalRank": 61421
   },
   {
     "login": "AAmanzi",
@@ -4351,7 +4661,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 311,
-    "score": 211
+    "score": 211,
+    "globalRank": 61422
   },
   {
     "login": "josip-volarevic",
@@ -4365,7 +4676,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 312,
-    "score": 48
+    "score": 48,
+    "globalRank": 61423
   },
   {
     "login": "antun-nakic",
@@ -4379,7 +4691,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 313,
-    "score": 1374
+    "score": 1374,
+    "globalRank": 61424
   },
   {
     "login": "branc116",
@@ -4393,7 +4706,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 314,
-    "score": 474
+    "score": 474,
+    "globalRank": 61425
   },
   {
     "login": "MasterMedo",
@@ -4407,7 +4721,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 315,
-    "score": 251
+    "score": 251,
+    "globalRank": 61426
   },
   {
     "login": "Struki84",
@@ -4421,7 +4736,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 316,
-    "score": 602
+    "score": 602,
+    "globalRank": 61427
   },
   {
     "login": "kiboke",
@@ -4435,7 +4751,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 317,
-    "score": 33
+    "score": 33,
+    "globalRank": 62178
   },
   {
     "login": "reactst",
@@ -4449,7 +4766,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 318,
-    "score": 145
+    "score": 145,
+    "globalRank": 62179
   },
   {
     "login": "melezov",
@@ -4463,7 +4781,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 319,
-    "score": 69
+    "score": 69,
+    "globalRank": 62180
   },
   {
     "login": "marin-jovanovic",
@@ -4477,7 +4796,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 320,
-    "score": 430
+    "score": 430,
+    "globalRank": 62181
   },
   {
     "login": "bvego",
@@ -4491,7 +4811,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 321,
-    "score": 1121
+    "score": 1121,
+    "globalRank": 62182
   },
   {
     "login": "ivankreso",
@@ -4505,7 +4826,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 322,
-    "score": 33
+    "score": 33,
+    "globalRank": 62183
   },
   {
     "login": "hrgdavor",
@@ -4519,7 +4841,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 323,
-    "score": 438
+    "score": 438,
+    "globalRank": 62184
   },
   {
     "login": "FC122",
@@ -4533,7 +4856,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 324,
-    "score": 35
+    "score": 35,
+    "globalRank": 62185
   },
   {
     "login": "nborovic",
@@ -4547,7 +4871,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 325,
-    "score": 237
+    "score": 237,
+    "globalRank": 62186
   },
   {
     "login": "as51340",
@@ -4561,7 +4886,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 326,
-    "score": 782
+    "score": 782,
+    "globalRank": 62187
   },
   {
     "login": "snovakovic",
@@ -4575,7 +4901,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 327,
-    "score": 2381
+    "score": 2381,
+    "globalRank": 62927
   },
   {
     "login": "n1k3c",
@@ -4589,7 +4916,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 328,
-    "score": 46
+    "score": 46,
+    "globalRank": 62928
   },
   {
     "login": "ilimic1",
@@ -4603,7 +4931,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 329,
-    "score": 32
+    "score": 32,
+    "globalRank": 62929
   },
   {
     "login": "leovujanic",
@@ -4617,7 +4946,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 330,
-    "score": 166
+    "score": 166,
+    "globalRank": 62930
   },
   {
     "login": "vbalagovic",
@@ -4631,7 +4961,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 331,
-    "score": 175
+    "score": 175,
+    "globalRank": 62931
   },
   {
     "login": "fgulan",
@@ -4645,7 +4976,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 332,
-    "score": 466
+    "score": 466,
+    "globalRank": 62932
   },
   {
     "login": "ivoleko",
@@ -4659,7 +4991,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 333,
-    "score": 32
+    "score": 32,
+    "globalRank": 62933
   },
   {
     "login": "pmli",
@@ -4673,7 +5006,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 334,
-    "score": 510
+    "score": 510,
+    "globalRank": 62934
   },
   {
     "login": "factoryhr",
@@ -4687,7 +5021,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 335,
-    "score": 42
+    "score": 42,
+    "globalRank": 62935
   },
   {
     "login": "btoplak",
@@ -4701,7 +5036,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 336,
-    "score": 32
+    "score": 32,
+    "globalRank": 62936
   },
   {
     "login": "Elenore23",
@@ -4715,7 +5051,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 337,
-    "score": 1270
+    "score": 1270,
+    "globalRank": 62937
   },
   {
     "login": "martinovicdev",
@@ -4729,7 +5066,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 338,
-    "score": 50
+    "score": 50,
+    "globalRank": 62938
   },
   {
     "login": "lukasaric",
@@ -4743,7 +5081,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 339,
-    "score": 235
+    "score": 235,
+    "globalRank": 62939
   },
   {
     "login": "MarkoZabcic",
@@ -4757,7 +5096,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 340,
-    "score": 715
+    "score": 715,
+    "globalRank": 63639
   },
   {
     "login": "darkohedgehog",
@@ -4771,7 +5111,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 341,
-    "score": 284
+    "score": 284,
+    "globalRank": 63640
   },
   {
     "login": "jaksatomovic",
@@ -4785,7 +5126,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 342,
-    "score": 360
+    "score": 360,
+    "globalRank": 63641
   },
   {
     "login": "Vunovati",
@@ -4799,7 +5141,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 343,
-    "score": 1918
+    "score": 1918,
+    "globalRank": 63642
   },
   {
     "login": "matejgrcic",
@@ -4813,7 +5156,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 344,
-    "score": 34
+    "score": 34,
+    "globalRank": 63643
   },
   {
     "login": "synceye",
@@ -4827,7 +5171,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 345,
-    "score": 31
+    "score": 31,
+    "globalRank": 63644
   },
   {
     "login": "skansi",
@@ -4841,7 +5186,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 346,
-    "score": 48
+    "score": 48,
+    "globalRank": 63645
   },
   {
     "login": "Vatavuk",
@@ -4855,7 +5201,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 347,
-    "score": 33
+    "score": 33,
+    "globalRank": 63646
   },
   {
     "login": "HeyaGlitz",
@@ -4869,7 +5216,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 348,
-    "score": 34
+    "score": 34,
+    "globalRank": 63647
   },
   {
     "login": "fpavetic",
@@ -4883,7 +5231,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 349,
-    "score": 31
+    "score": 31,
+    "globalRank": 63648
   },
   {
     "login": "pepaar",
@@ -4897,7 +5246,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 350,
-    "score": 32
+    "score": 32,
+    "globalRank": 63649
   },
   {
     "login": "bnadarevic",
@@ -4911,7 +5261,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 351,
-    "score": 30
+    "score": 30,
+    "globalRank": 64385
   },
   {
     "login": "DoDoENT",
@@ -4925,7 +5276,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 352,
-    "score": 1406
+    "score": 1406,
+    "globalRank": 64386
   },
   {
     "login": "kviksilver",
@@ -4939,7 +5291,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 353,
-    "score": 30
+    "score": 30,
+    "globalRank": 64387
   },
   {
     "login": "anteprimorac",
@@ -4953,7 +5306,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 354,
-    "score": 2164
+    "score": 2164,
+    "globalRank": 64388
   },
   {
     "login": "lmark1",
@@ -4967,7 +5321,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 355,
-    "score": 32
+    "score": 32,
+    "globalRank": 64389
   },
   {
     "login": "dabrorius",
@@ -4981,7 +5336,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 356,
-    "score": 157
+    "score": 157,
+    "globalRank": 64390
   },
   {
     "login": "iBatistic",
@@ -4995,7 +5351,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 357,
-    "score": 183
+    "score": 183,
+    "globalRank": 64391
   },
   {
     "login": "LMesaric",
@@ -5009,7 +5366,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 358,
-    "score": 30
+    "score": 30,
+    "globalRank": 64392
   },
   {
     "login": "ChrisRoss5",
@@ -5023,7 +5381,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 359,
-    "score": 104
+    "score": 104,
+    "globalRank": 64393
   },
   {
     "login": "sbidin",
@@ -5037,7 +5396,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 360,
-    "score": 576
+    "score": 576,
+    "globalRank": 64394
   },
   {
     "login": "MaKuzman",
@@ -5051,7 +5411,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 361,
-    "score": 30
+    "score": 30,
+    "globalRank": 64395
   },
   {
     "login": "mpetrun5",
@@ -5065,7 +5426,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 362,
-    "score": 1061
+    "score": 1061,
+    "globalRank": 64396
   },
   {
     "login": "htunlogic",
@@ -5079,7 +5441,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 363,
-    "score": 239
+    "score": 239,
+    "globalRank": 64397
   },
   {
     "login": "borisbabic",
@@ -5093,7 +5456,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 364,
-    "score": 954
+    "score": 954,
+    "globalRank": 65179
   },
   {
     "login": "anamarijapapic",
@@ -5107,7 +5471,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 365,
-    "score": 484
+    "score": 484,
+    "globalRank": 65180
   },
   {
     "login": "dejankos",
@@ -5121,7 +5486,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 366,
-    "score": 978
+    "score": 978,
+    "globalRank": 65181
   },
   {
     "login": "AnteVuletic",
@@ -5135,7 +5501,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 367,
-    "score": 29
+    "score": 29,
+    "globalRank": 65182
   },
   {
     "login": "dmarion",
@@ -5149,7 +5516,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 368,
-    "score": 222
+    "score": 222,
+    "globalRank": 65183
   },
   {
     "login": "rebstastic",
@@ -5163,7 +5531,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 369,
-    "score": 518
+    "score": 518,
+    "globalRank": 65184
   },
   {
     "login": "antonioseric",
@@ -5177,7 +5546,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 370,
-    "score": 134
+    "score": 134,
+    "globalRank": 65185
   },
   {
     "login": "mbmjertan",
@@ -5191,7 +5561,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 371,
-    "score": 1300
+    "score": 1300,
+    "globalRank": 65186
   },
   {
     "login": "mcagalj",
@@ -5205,7 +5576,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 372,
-    "score": 54
+    "score": 54,
+    "globalRank": 65187
   },
   {
     "login": "mkopcic",
@@ -5219,7 +5591,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 373,
-    "score": 93
+    "score": 93,
+    "globalRank": 65188
   },
   {
     "login": "fkdosilovic",
@@ -5233,7 +5606,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 374,
-    "score": 113
+    "score": 113,
+    "globalRank": 65189
   },
   {
     "login": "shestera",
@@ -5247,7 +5621,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 375,
-    "score": 31
+    "score": 31,
+    "globalRank": 65190
   },
   {
     "login": "thisbit",
@@ -5261,7 +5636,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 376,
-    "score": 94
+    "score": 94,
+    "globalRank": 65191
   },
   {
     "login": "nsajko",
@@ -5275,7 +5651,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 377,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 65192
   },
   {
     "login": "volkanakkus",
@@ -5289,7 +5666,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 378,
-    "score": 60
+    "score": 60,
+    "globalRank": 65193
   },
   {
     "login": "nikoinist",
@@ -5303,7 +5681,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 379,
-    "score": 29
+    "score": 29,
+    "globalRank": 65194
   },
   {
     "login": "zarkoselak",
@@ -5317,7 +5696,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 380,
-    "score": 29
+    "score": 29,
+    "globalRank": 65195
   },
   {
     "login": "dominikstanojevic",
@@ -5331,7 +5711,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 381,
-    "score": 79
+    "score": 79,
+    "globalRank": 65196
   },
   {
     "login": "boris612",
@@ -5345,7 +5726,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 382,
-    "score": 185
+    "score": 185,
+    "globalRank": 65197
   },
   {
     "login": "isakal",
@@ -5359,7 +5741,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 383,
-    "score": 41
+    "score": 41,
+    "globalRank": 65198
   },
   {
     "login": "Breeder",
@@ -5373,7 +5756,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 384,
-    "score": 29
+    "score": 29,
+    "globalRank": 65992
   },
   {
     "login": "ANovokmet",
@@ -5387,7 +5771,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 385,
-    "score": 891
+    "score": 891,
+    "globalRank": 65993
   },
   {
     "login": "lukablaskovic",
@@ -5401,7 +5786,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 386,
-    "score": 1343
+    "score": 1343,
+    "globalRank": 65994
   },
   {
     "login": "fergy",
@@ -5415,7 +5801,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 387,
-    "score": 29
+    "score": 29,
+    "globalRank": 65995
   },
   {
     "login": "X-Coder264",
@@ -5429,7 +5816,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 388,
-    "score": 4258
+    "score": 4258,
+    "globalRank": 65996
   },
   {
     "login": "dux",
@@ -5443,7 +5831,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 389,
-    "score": 570
+    "score": 570,
+    "globalRank": 65997
   },
   {
     "login": "boristomas",
@@ -5457,7 +5846,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 390,
-    "score": 30
+    "score": 30,
+    "globalRank": 65998
   },
   {
     "login": "tposcic",
@@ -5471,7 +5861,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 391,
-    "score": 98
+    "score": 98,
+    "globalRank": 65999
   },
   {
     "login": "SoHotSoup",
@@ -5485,7 +5876,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 392,
-    "score": 32
+    "score": 32,
+    "globalRank": 66000
   },
   {
     "login": "josipk",
@@ -5499,7 +5891,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 393,
-    "score": 43
+    "score": 43,
+    "globalRank": 66001
   },
   {
     "login": "emailic",
@@ -5513,7 +5906,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 394,
-    "score": 75
+    "score": 75,
+    "globalRank": 66002
   },
   {
     "login": "krukru",
@@ -5527,7 +5921,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 395,
-    "score": 1878
+    "score": 1878,
+    "globalRank": 66003
   },
   {
     "login": "drKreso",
@@ -5541,7 +5936,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 396,
-    "score": 4541
+    "score": 4541,
+    "globalRank": 66004
   },
   {
     "login": "izkreny",
@@ -5555,7 +5951,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 397,
-    "score": 502
+    "score": 502,
+    "globalRank": 66005
   },
   {
     "login": "nevenjovanovic",
@@ -5569,7 +5966,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 398,
-    "score": 78
+    "score": 78,
+    "globalRank": 66006
   },
   {
     "login": "dinko7",
@@ -5583,7 +5981,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 399,
-    "score": 1297
+    "score": 1297,
+    "globalRank": 66007
   },
   {
     "login": "petar-cvit",
@@ -5597,7 +5996,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 400,
-    "score": 691
+    "score": 691,
+    "globalRank": 66008
   },
   {
     "login": "dgranosa",
@@ -5611,7 +6011,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 401,
-    "score": 320
+    "score": 320,
+    "globalRank": 66883
   },
   {
     "login": "matijaderk",
@@ -5625,7 +6026,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 402,
-    "score": 763
+    "score": 763,
+    "globalRank": 66884
   },
   {
     "login": "ivankokan",
@@ -5639,7 +6041,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 403,
-    "score": 29
+    "score": 29,
+    "globalRank": 66885
   },
   {
     "login": "nenadom",
@@ -5653,7 +6056,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 404,
-    "score": 926
+    "score": 926,
+    "globalRank": 66886
   },
   {
     "login": "dcerjan",
@@ -5667,7 +6071,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 405,
-    "score": 160
+    "score": 160,
+    "globalRank": 66887
   },
   {
     "login": "ciglenecki",
@@ -5681,7 +6086,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 406,
-    "score": 530
+    "score": 530,
+    "globalRank": 66888
   },
   {
     "login": "ItsNature",
@@ -5695,7 +6101,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 407,
-    "score": 738
+    "score": 738,
+    "globalRank": 66889
   },
   {
     "login": "rajko-horvat",
@@ -5709,7 +6116,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 408,
-    "score": 131
+    "score": 131,
+    "globalRank": 66890
   },
   {
     "login": "DanijelHuis",
@@ -5723,7 +6131,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 409,
-    "score": 27
+    "score": 27,
+    "globalRank": 66891
   },
   {
     "login": "jv00",
@@ -5737,7 +6146,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 410,
-    "score": 189
+    "score": 189,
+    "globalRank": 66892
   },
   {
     "login": "vlaja",
@@ -5751,7 +6161,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 411,
-    "score": 4196
+    "score": 4196,
+    "globalRank": 66893
   },
   {
     "login": "mbos2",
@@ -5765,7 +6176,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 412,
-    "score": 46
+    "score": 46,
+    "globalRank": 66894
   },
   {
     "login": "nrozic",
@@ -5779,7 +6191,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 413,
-    "score": 1583
+    "score": 1583,
+    "globalRank": 66895
   },
   {
     "login": "ivapanic",
@@ -5793,7 +6206,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 414,
-    "score": 27
+    "score": 27,
+    "globalRank": 67843
   },
   {
     "login": "jtlicardo",
@@ -5807,7 +6221,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 415,
-    "score": 831
+    "score": 831,
+    "globalRank": 67844
   },
   {
     "login": "vrodic",
@@ -5821,7 +6236,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 416,
-    "score": 38
+    "score": 38,
+    "globalRank": 67845
   },
   {
     "login": "mislavjc",
@@ -5835,7 +6251,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 417,
-    "score": 2229
+    "score": 2229,
+    "globalRank": 67846
   },
   {
     "login": "lbasek",
@@ -5849,7 +6266,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 418,
-    "score": 48
+    "score": 48,
+    "globalRank": 67847
   },
   {
     "login": "murticalen",
@@ -5863,7 +6281,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 419,
-    "score": 1388
+    "score": 1388,
+    "globalRank": 67848
   },
   {
     "login": "psyburn",
@@ -5877,7 +6296,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 420,
-    "score": 26
+    "score": 26,
+    "globalRank": 67849
   },
   {
     "login": "ivanbiljan",
@@ -5891,7 +6311,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 421,
-    "score": 1859
+    "score": 1859,
+    "globalRank": 67850
   },
   {
     "login": "dsego",
@@ -5905,7 +6326,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 422,
-    "score": 1924
+    "score": 1924,
+    "globalRank": 67851
   },
   {
     "login": "renatoruk",
@@ -5919,7 +6341,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 423,
-    "score": 26
+    "score": 26,
+    "globalRank": 67852
   },
   {
     "login": "arrrlo",
@@ -5933,7 +6356,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 424,
-    "score": 1765
+    "score": 1765,
+    "globalRank": 67853
   },
   {
     "login": "Nazarevsky",
@@ -5947,7 +6371,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 425,
-    "score": 156
+    "score": 156,
+    "globalRank": 67854
   },
   {
     "login": "readycool",
@@ -5961,7 +6386,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 426,
-    "score": 64
+    "score": 64,
+    "globalRank": 67855
   },
   {
     "login": "dariomrk",
@@ -5975,7 +6401,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 427,
-    "score": 167
+    "score": 167,
+    "globalRank": 67856
   },
   {
     "login": "zpervan",
@@ -5989,7 +6416,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 428,
-    "score": 34
+    "score": 34,
+    "globalRank": 67857
   },
   {
     "login": "filipkristo",
@@ -6003,7 +6431,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 429,
-    "score": 26
+    "score": 26,
+    "globalRank": 67858
   },
   {
     "login": "bezidejni",
@@ -6017,7 +6446,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 430,
-    "score": 869
+    "score": 869,
+    "globalRank": 67859
   },
   {
     "login": "HypeMC",
@@ -6031,7 +6461,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 431,
-    "score": 583
+    "score": 583,
+    "globalRank": 67860
   },
   {
     "login": "mariojankovic",
@@ -6045,7 +6476,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 432,
-    "score": 3024
+    "score": 3024,
+    "globalRank": 67861
   },
   {
     "login": "zoka123",
@@ -6059,7 +6491,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 433,
-    "score": 2385
+    "score": 2385,
+    "globalRank": 67862
   },
   {
     "login": "antonioperic",
@@ -6073,7 +6506,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 434,
-    "score": 25
+    "score": 25,
+    "globalRank": 68802
   },
   {
     "login": "syntichsizer",
@@ -6087,7 +6521,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 435,
-    "score": 99
+    "score": 99,
+    "globalRank": 68803
   },
   {
     "login": "dpskvn",
@@ -6101,7 +6536,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 436,
-    "score": 89
+    "score": 89,
+    "globalRank": 68804
   },
   {
     "login": "cindreta",
@@ -6115,7 +6551,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 437,
-    "score": 786
+    "score": 786,
+    "globalRank": 68805
   },
   {
     "login": "iruzevic",
@@ -6129,7 +6566,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 438,
-    "score": 1879
+    "score": 1879,
+    "globalRank": 68806
   },
   {
     "login": "berislavbabic",
@@ -6143,7 +6581,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 439,
-    "score": 941
+    "score": 941,
+    "globalRank": 68807
   },
   {
     "login": "ikovic",
@@ -6157,7 +6596,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 440,
-    "score": 512
+    "score": 512,
+    "globalRank": 68808
   },
   {
     "login": "antrad",
@@ -6171,7 +6611,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 441,
-    "score": 25
+    "score": 25,
+    "globalRank": 68809
   },
   {
     "login": "mkdizajn",
@@ -6185,7 +6626,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 442,
-    "score": 636
+    "score": 636,
+    "globalRank": 68810
   },
   {
     "login": "doivosevic",
@@ -6199,7 +6641,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 443,
-    "score": 414
+    "score": 414,
+    "globalRank": 68811
   },
   {
     "login": "valentinaotocan",
@@ -6213,7 +6656,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 444,
-    "score": 26
+    "score": 26,
+    "globalRank": 68812
   },
   {
     "login": "LeonardoM011",
@@ -6227,7 +6671,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 445,
-    "score": 679
+    "score": 679,
+    "globalRank": 68813
   },
   {
     "login": "mislavmatijevic",
@@ -6241,7 +6686,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 446,
-    "score": 528
+    "score": 528,
+    "globalRank": 68814
   },
   {
     "login": "MatejVukosav",
@@ -6255,7 +6701,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 447,
-    "score": 881
+    "score": 881,
+    "globalRank": 68815
   },
   {
     "login": "kidig",
@@ -6269,7 +6716,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 448,
-    "score": 464
+    "score": 464,
+    "globalRank": 68816
   },
   {
     "login": "mstipanov",
@@ -6283,7 +6731,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 449,
-    "score": 448
+    "score": 448,
+    "globalRank": 68817
   },
   {
     "login": "kcondic",
@@ -6297,7 +6746,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 450,
-    "score": 1377
+    "score": 1377,
+    "globalRank": 68818
   },
   {
     "login": "jkovsi",
@@ -6311,7 +6761,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 451,
-    "score": 25
+    "score": 25,
+    "globalRank": 68819
   },
   {
     "login": "drmodun",
@@ -6325,7 +6776,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 452,
-    "score": 293
+    "score": 293,
+    "globalRank": 68820
   },
   {
     "login": "antebm",
@@ -6339,7 +6791,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 453,
-    "score": 25
+    "score": 25,
+    "globalRank": 68821
   },
   {
     "login": "marjev",
@@ -6353,7 +6806,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 454,
-    "score": 59
+    "score": 59,
+    "globalRank": 68822
   },
   {
     "login": "orginux",
@@ -6367,7 +6821,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 455,
-    "score": 81
+    "score": 81,
+    "globalRank": 68823
   },
   {
     "login": "dbaric",
@@ -6381,7 +6836,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 456,
-    "score": 2056
+    "score": 2056,
+    "globalRank": 69868
   },
   {
     "login": "ribaricplusplus",
@@ -6395,7 +6851,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 457,
-    "score": 1691
+    "score": 1691,
+    "globalRank": 69869
   },
   {
     "login": "dsasko",
@@ -6409,7 +6866,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 458,
-    "score": 850
+    "score": 850,
+    "globalRank": 69870
   },
   {
     "login": "vzakanj",
@@ -6423,7 +6881,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 459,
-    "score": 172
+    "score": 172,
+    "globalRank": 69871
   },
   {
     "login": "andhrelja",
@@ -6437,7 +6896,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 460,
-    "score": 45
+    "score": 45,
+    "globalRank": 69872
   },
   {
     "login": "Caellian",
@@ -6451,7 +6911,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 461,
-    "score": 279
+    "score": 279,
+    "globalRank": 69873
   },
   {
     "login": "MarinaHuber",
@@ -6465,7 +6926,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 462,
-    "score": 29
+    "score": 29,
+    "globalRank": 69874
   },
   {
     "login": "nmekinci",
@@ -6479,7 +6941,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 463,
-    "score": 24
+    "score": 24,
+    "globalRank": 69875
   },
   {
     "login": "polaris64",
@@ -6493,7 +6956,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 464,
-    "score": 50
+    "score": 50,
+    "globalRank": 69876
   },
   {
     "login": "irubido",
@@ -6507,7 +6971,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 465,
-    "score": 255
+    "score": 255,
+    "globalRank": 69877
   },
   {
     "login": "safaricd",
@@ -6521,7 +6986,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 466,
-    "score": 982
+    "score": 982,
+    "globalRank": 69878
   },
   {
     "login": "matejbasic",
@@ -6535,7 +7001,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 467,
-    "score": 524
+    "score": 524,
+    "globalRank": 69879
   },
   {
     "login": "BiosBoy",
@@ -6549,7 +7016,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 468,
-    "score": 58
+    "score": 58,
+    "globalRank": 69880
   },
   {
     "login": "LukaKordic",
@@ -6563,7 +7031,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 469,
-    "score": 63
+    "score": 63,
+    "globalRank": 70937
   },
   {
     "login": "iskugor",
@@ -6577,7 +7046,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 470,
-    "score": 1295
+    "score": 1295,
+    "globalRank": 70938
   },
   {
     "login": "akegalj",
@@ -6591,7 +7061,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 471,
-    "score": 966
+    "score": 966,
+    "globalRank": 70939
   },
   {
     "login": "Cyber3x",
@@ -6605,7 +7076,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 472,
-    "score": 335
+    "score": 335,
+    "globalRank": 70940
   },
   {
     "login": "jere357",
@@ -6619,7 +7091,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 473,
-    "score": 115
+    "score": 115,
+    "globalRank": 70941
   },
   {
     "login": "igorbumba",
@@ -6633,7 +7106,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 474,
-    "score": 1453
+    "score": 1453,
+    "globalRank": 70942
   },
   {
     "login": "Bgajski",
@@ -6647,7 +7121,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 475,
-    "score": 37
+    "score": 37,
+    "globalRank": 70943
   },
   {
     "login": "Nidjo123",
@@ -6661,7 +7136,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 476,
-    "score": 53
+    "score": 53,
+    "globalRank": 70944
   },
   {
     "login": "ilesar",
@@ -6675,7 +7151,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 477,
-    "score": 1299
+    "score": 1299,
+    "globalRank": 70945
   },
   {
     "login": "DorianSyruss",
@@ -6689,7 +7166,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 478,
-    "score": 23
+    "score": 23,
+    "globalRank": 70946
   },
   {
     "login": "mfolnovic",
@@ -6703,7 +7181,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 479,
-    "score": 26
+    "score": 26,
+    "globalRank": 70947
   },
   {
     "login": "hkatic",
@@ -6717,7 +7196,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 480,
-    "score": 61
+    "score": 61,
+    "globalRank": 70948
   },
   {
     "login": "bornast",
@@ -6731,7 +7211,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 481,
-    "score": 308
+    "score": 308,
+    "globalRank": 70949
   },
   {
     "login": "rkrstacic",
@@ -6745,7 +7226,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 482,
-    "score": 254
+    "score": 254,
+    "globalRank": 70950
   },
   {
     "login": "ozana-buljan",
@@ -6759,7 +7241,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 483,
-    "score": 23
+    "score": 23,
+    "globalRank": 70951
   },
   {
     "login": "imedic",
@@ -6773,7 +7256,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 484,
-    "score": 26
+    "score": 26,
+    "globalRank": 70952
   },
   {
     "login": "ibestvina",
@@ -6787,7 +7271,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 485,
-    "score": 737
+    "score": 737,
+    "globalRank": 70953
   },
   {
     "login": "brunozoric",
@@ -6801,7 +7286,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 486,
-    "score": 885
+    "score": 885,
+    "globalRank": 70954
   },
   {
     "login": "kronicker",
@@ -6815,7 +7301,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 487,
-    "score": 1004
+    "score": 1004,
+    "globalRank": 70955
   },
   {
     "login": "oniointeractive",
@@ -6829,7 +7316,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 488,
-    "score": 38
+    "score": 38,
+    "globalRank": 70956
   },
   {
     "login": "andrejmlinarevic",
@@ -6843,7 +7331,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 489,
-    "score": 23
+    "score": 23,
+    "globalRank": 70957
   },
   {
     "login": "sinisaos",
@@ -6857,7 +7346,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 490,
-    "score": 402
+    "score": 402,
+    "globalRank": 70958
   },
   {
     "login": "Adis",
@@ -6871,7 +7361,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 491,
-    "score": 23
+    "score": 23,
+    "globalRank": 70959
   },
   {
     "login": "matija",
@@ -6885,7 +7376,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 492,
-    "score": 3561
+    "score": 3561,
+    "globalRank": 70960
   },
   {
     "login": "tonilastre",
@@ -6899,7 +7391,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 493,
-    "score": 310
+    "score": 310,
+    "globalRank": 70961
   },
   {
     "login": "dbunic",
@@ -6913,7 +7406,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 494,
-    "score": 26
+    "score": 26,
+    "globalRank": 72087
   },
   {
     "login": "LinuxRenaissance",
@@ -6927,7 +7421,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 495,
-    "score": 62
+    "score": 62,
+    "globalRank": 72088
   },
   {
     "login": "bpenovic",
@@ -6941,7 +7436,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 496,
-    "score": 22
+    "score": 22,
+    "globalRank": 72089
   },
   {
     "login": "zmajstor",
@@ -6955,7 +7451,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 497,
-    "score": 1766
+    "score": 1766,
+    "globalRank": 72090
   },
   {
     "login": "Norgul",
@@ -6969,7 +7466,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 498,
-    "score": 979
+    "score": 979,
+    "globalRank": 72091
   },
   {
     "login": "brahle",
@@ -6983,7 +7481,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 499,
-    "score": 28
+    "score": 28,
+    "globalRank": 72092
   },
   {
     "login": "Vj3k0",
@@ -6997,7 +7496,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 500,
-    "score": 22
+    "score": 22,
+    "globalRank": 72093
   },
   {
     "login": "bacinger",
@@ -7011,7 +7511,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 501,
-    "score": 153
+    "score": 153,
+    "globalRank": 72094
   },
   {
     "login": "dstar55",
@@ -7025,7 +7526,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 502,
-    "score": 69
+    "score": 69,
+    "globalRank": 72095
   },
   {
     "login": "JohnnySheffield",
@@ -7039,7 +7541,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 503,
-    "score": 274
+    "score": 274,
+    "globalRank": 72096
   },
   {
     "login": "misobarisic",
@@ -7053,7 +7556,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 504,
-    "score": 24
+    "score": 24,
+    "globalRank": 72097
   },
   {
     "login": "valicm",
@@ -7067,7 +7571,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 505,
-    "score": 1999
+    "score": 1999,
+    "globalRank": 72098
   },
   {
     "login": "Mili666999",
@@ -7081,7 +7586,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 506,
-    "score": 22
+    "score": 22,
+    "globalRank": 72099
   },
   {
     "login": "FabijanC",
@@ -7095,7 +7601,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 507,
-    "score": 225
+    "score": 225,
+    "globalRank": 72100
   },
   {
     "login": "MPozek",
@@ -7109,7 +7616,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 508,
-    "score": 22
+    "score": 22,
+    "globalRank": 72101
   },
   {
     "login": "msval",
@@ -7123,7 +7631,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 509,
-    "score": 22
+    "score": 22,
+    "globalRank": 72102
   },
   {
     "login": "petricevich",
@@ -7137,7 +7646,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 510,
-    "score": 29
+    "score": 29,
+    "globalRank": 72103
   },
   {
     "login": "mzagar",
@@ -7151,7 +7661,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 511,
-    "score": 56
+    "score": 56,
+    "globalRank": 72104
   },
   {
     "login": "ilx",
@@ -7165,7 +7676,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 512,
-    "score": 467
+    "score": 467,
+    "globalRank": 72105
   },
   {
     "login": "leongrdic",
@@ -7179,7 +7691,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 513,
-    "score": 126
+    "score": 126,
+    "globalRank": 72106
   },
   {
     "login": "Ninodevo",
@@ -7193,7 +7706,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 514,
-    "score": 2342
+    "score": 2342,
+    "globalRank": 72107
   },
   {
     "login": "TheEskhaton",
@@ -7207,7 +7721,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 515,
-    "score": 24
+    "score": 24,
+    "globalRank": 72108
   },
   {
     "login": "deksa89",
@@ -7221,7 +7736,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 516,
-    "score": 40
+    "score": 40,
+    "globalRank": 72109
   },
   {
     "login": "scharissis",
@@ -7235,7 +7751,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 517,
-    "score": 1234
+    "score": 1234,
+    "globalRank": 72110
   },
   {
     "login": "docelic",
@@ -7249,7 +7766,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 518,
-    "score": 42
+    "score": 42,
+    "globalRank": 72111
   },
   {
     "login": "jomaras",
@@ -7263,7 +7781,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 519,
-    "score": 22
+    "score": 22,
+    "globalRank": 72112
   },
   {
     "login": "stjepanmamusa",
@@ -7277,7 +7796,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 520,
-    "score": 26
+    "score": 26,
+    "globalRank": 72113
   },
   {
     "login": "Karl255",
@@ -7291,7 +7811,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 521,
-    "score": 104
+    "score": 104,
+    "globalRank": 72114
   },
   {
     "login": "akineton",
@@ -7305,7 +7826,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 522,
-    "score": 652
+    "score": 652,
+    "globalRank": 72115
   },
   {
     "login": "mrn-aglic",
@@ -7319,7 +7841,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 523,
-    "score": 22
+    "score": 22,
+    "globalRank": 72116
   },
   {
     "login": "antifriz",
@@ -7333,7 +7856,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 524,
-    "score": 21
+    "score": 21,
+    "globalRank": 73349
   },
   {
     "login": "MarinoLinic",
@@ -7347,7 +7871,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 525,
-    "score": 1394
+    "score": 1394,
+    "globalRank": 73350
   },
   {
     "login": "matijagalina",
@@ -7361,7 +7886,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 526,
-    "score": 466
+    "score": 466,
+    "globalRank": 73351
   },
   {
     "login": "NPelivan",
@@ -7375,7 +7901,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 527,
-    "score": 21
+    "score": 21,
+    "globalRank": 73352
   },
   {
     "login": "yatsukha",
@@ -7389,7 +7916,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 528,
-    "score": 22
+    "score": 22,
+    "globalRank": 73353
   },
   {
     "login": "TopHatCroat",
@@ -7403,7 +7931,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 529,
-    "score": 735
+    "score": 735,
+    "globalRank": 73354
   },
   {
     "login": "Ylodi",
@@ -7417,7 +7946,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 530,
-    "score": 22
+    "score": 22,
+    "globalRank": 73355
   },
   {
     "login": "ibudiselic",
@@ -7431,7 +7961,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 531,
-    "score": 21
+    "score": 21,
+    "globalRank": 73356
   },
   {
     "login": "danijelmaric",
@@ -7445,7 +7976,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 532,
-    "score": 981
+    "score": 981,
+    "globalRank": 73357
   },
   {
     "login": "bfreskura",
@@ -7459,7 +7991,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 533,
-    "score": 31
+    "score": 31,
+    "globalRank": 73358
   },
   {
     "login": "matijakevic",
@@ -7473,7 +8006,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 534,
-    "score": 133
+    "score": 133,
+    "globalRank": 73359
   },
   {
     "login": "bornakapusta",
@@ -7487,7 +8021,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 535,
-    "score": 928
+    "score": 928,
+    "globalRank": 73360
   },
   {
     "login": "elkarrde",
@@ -7501,7 +8036,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 536,
-    "score": 343
+    "score": 343,
+    "globalRank": 73361
   },
   {
     "login": "logicbricks",
@@ -7515,7 +8051,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 537,
-    "score": 21
+    "score": 21,
+    "globalRank": 73362
   },
   {
     "login": "ivanslapnicar",
@@ -7529,7 +8066,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 538,
-    "score": 40
+    "score": 40,
+    "globalRank": 73363
   },
   {
     "login": "matootie",
@@ -7543,7 +8081,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 539,
-    "score": 234
+    "score": 234,
+    "globalRank": 73364
   },
   {
     "login": "DBDoco",
@@ -7557,7 +8096,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 540,
-    "score": 1182
+    "score": 1182,
+    "globalRank": 73365
   },
   {
     "login": "ivandelas",
@@ -7571,7 +8111,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 541,
-    "score": 1238
+    "score": 1238,
+    "globalRank": 73366
   },
   {
     "login": "offblacc",
@@ -7585,7 +8126,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 542,
-    "score": 272
+    "score": 272,
+    "globalRank": 73367
   },
   {
     "login": "toniperic",
@@ -7599,7 +8141,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 543,
-    "score": 3599
+    "score": 3599,
+    "globalRank": 73368
   },
   {
     "login": "Antolius",
@@ -7613,7 +8156,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 544,
-    "score": 138
+    "score": 138,
+    "globalRank": 73369
   },
   {
     "login": "dlozina",
@@ -7627,7 +8171,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 545,
-    "score": 180
+    "score": 180,
+    "globalRank": 73370
   },
   {
     "login": "paullla",
@@ -7641,7 +8186,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 546,
-    "score": 486
+    "score": 486,
+    "globalRank": 73371
   },
   {
     "login": "Ivov1984",
@@ -7655,7 +8201,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 547,
-    "score": 21
+    "score": 21,
+    "globalRank": 73372
   },
   {
     "login": "draganHR",
@@ -7669,7 +8216,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 548,
-    "score": 23
+    "score": 23,
+    "globalRank": 74577
   },
   {
     "login": "vilimco",
@@ -7683,7 +8231,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 549,
-    "score": 20
+    "score": 20,
+    "globalRank": 74578
   },
   {
     "login": "IvaLeder",
@@ -7697,7 +8246,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 550,
-    "score": 51
+    "score": 51,
+    "globalRank": 74579
   },
   {
     "login": "mislavjavor",
@@ -7711,7 +8261,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 551,
-    "score": 20
+    "score": 20,
+    "globalRank": 74580
   },
   {
     "login": "frankieboxx",
@@ -7725,7 +8276,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 552,
-    "score": 54
+    "score": 54,
+    "globalRank": 74581
   },
   {
     "login": "ThrashAbaddon",
@@ -7739,7 +8291,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 553,
-    "score": 60
+    "score": 60,
+    "globalRank": 74582
   },
   {
     "login": "Ruslan-Skira",
@@ -7753,7 +8306,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 554,
-    "score": 39
+    "score": 39,
+    "globalRank": 74583
   },
   {
     "login": "dino-grgic",
@@ -7767,7 +8321,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 555,
-    "score": 158
+    "score": 158,
+    "globalRank": 74584
   },
   {
     "login": "ASoldo",
@@ -7781,7 +8336,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 556,
-    "score": 1156
+    "score": 1156,
+    "globalRank": 74585
   },
   {
     "login": "abasic",
@@ -7795,7 +8351,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 557,
-    "score": 868
+    "score": 868,
+    "globalRank": 74586
   },
   {
     "login": "smitrovic01",
@@ -7809,7 +8366,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 558,
-    "score": 20
+    "score": 20,
+    "globalRank": 74587
   },
   {
     "login": "dai-ichy",
@@ -7823,7 +8381,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 559,
-    "score": 21
+    "score": 21,
+    "globalRank": 74588
   },
   {
     "login": "stokry",
@@ -7837,7 +8396,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 560,
-    "score": 3646
+    "score": 3646,
+    "globalRank": 74589
   },
   {
     "login": "lcabraja",
@@ -7851,7 +8411,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 561,
-    "score": 877
+    "score": 877,
+    "globalRank": 74590
   },
   {
     "login": "kvidek",
@@ -7865,7 +8426,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 562,
-    "score": 24
+    "score": 24,
+    "globalRank": 74591
   },
   {
     "login": "markopp",
@@ -7879,7 +8441,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 563,
-    "score": 226
+    "score": 226,
+    "globalRank": 74592
   },
   {
     "login": "d00rman",
@@ -7893,7 +8456,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 564,
-    "score": 20
+    "score": 20,
+    "globalRank": 74593
   },
   {
     "login": "romangrubic",
@@ -7907,7 +8471,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 565,
-    "score": 20
+    "score": 20,
+    "globalRank": 74594
   },
   {
     "login": "makatalin",
@@ -7921,7 +8486,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 566,
-    "score": 93
+    "score": 93,
+    "globalRank": 74595
   },
   {
     "login": "nmlinaric",
@@ -7935,7 +8501,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 567,
-    "score": 228
+    "score": 228,
+    "globalRank": 74596
   },
   {
     "login": "Lnola",
@@ -7949,7 +8516,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 568,
-    "score": 2055
+    "score": 2055,
+    "globalRank": 74597
   },
   {
     "login": "shny10",
@@ -7963,7 +8531,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 569,
-    "score": 20
+    "score": 20,
+    "globalRank": 74598
   },
   {
     "login": "framebassman",
@@ -7977,7 +8546,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 570,
-    "score": 692
+    "score": 692,
+    "globalRank": 74599
   },
   {
     "login": "jerkovicl",
@@ -7991,7 +8561,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 571,
-    "score": 222
+    "score": 222,
+    "globalRank": 74600
   },
   {
     "login": "jsmolic",
@@ -8005,7 +8576,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 572,
-    "score": 587
+    "score": 587,
+    "globalRank": 74601
   },
   {
     "login": "Ivan1248",
@@ -8019,7 +8591,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 573,
-    "score": 491
+    "score": 491,
+    "globalRank": 74602
   },
   {
     "login": "kristijanbambir",
@@ -8033,7 +8606,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 574,
-    "score": 316
+    "score": 316,
+    "globalRank": 74603
   },
   {
     "login": "anakic",
@@ -8047,7 +8621,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 575,
-    "score": 126
+    "score": 126,
+    "globalRank": 74604
   },
   {
     "login": "lmuzinic",
@@ -8061,7 +8636,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 576,
-    "score": 44
+    "score": 44,
+    "globalRank": 74605
   },
   {
     "login": "fifi98",
@@ -8075,7 +8651,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 577,
-    "score": 1311
+    "score": 1311,
+    "globalRank": 74606
   },
   {
     "login": "razorblade23",
@@ -8089,7 +8666,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 578,
-    "score": 686
+    "score": 686,
+    "globalRank": 74607
   },
   {
     "login": "dmiklic",
@@ -8103,7 +8681,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 579,
-    "score": 46
+    "score": 46,
+    "globalRank": 74608
   },
   {
     "login": "aronbalog",
@@ -8117,7 +8696,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 580,
-    "score": 200
+    "score": 200,
+    "globalRank": 74609
   },
   {
     "login": "m1h4",
@@ -8131,7 +8711,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 581,
-    "score": 19
+    "score": 19,
+    "globalRank": 75792
   },
   {
     "login": "dsoronda",
@@ -8145,7 +8726,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 582,
-    "score": 26
+    "score": 26,
+    "globalRank": 75793
   },
   {
     "login": "selectnull",
@@ -8159,7 +8741,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 583,
-    "score": 95
+    "score": 95,
+    "globalRank": 75794
   },
   {
     "login": "livanov93",
@@ -8173,7 +8756,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 584,
-    "score": 49
+    "score": 49,
+    "globalRank": 75795
   },
   {
     "login": "baic989",
@@ -8187,7 +8771,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 585,
-    "score": 19
+    "score": 19,
+    "globalRank": 75796
   },
   {
     "login": "KovaCro",
@@ -8201,7 +8786,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 586,
-    "score": 1681
+    "score": 1681,
+    "globalRank": 75797
   },
   {
     "login": "dkasaj",
@@ -8215,7 +8801,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 587,
-    "score": 506
+    "score": 506,
+    "globalRank": 75798
   },
   {
     "login": "filipbudisa",
@@ -8229,7 +8816,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 588,
-    "score": 108
+    "score": 108,
+    "globalRank": 75799
   },
   {
     "login": "markalanboyd",
@@ -8243,7 +8831,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 589,
-    "score": 19
+    "score": 19,
+    "globalRank": 75800
   },
   {
     "login": "josip-k",
@@ -8257,7 +8846,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 590,
-    "score": 532
+    "score": 532,
+    "globalRank": 75801
   },
   {
     "login": "juricaKenda",
@@ -8271,7 +8861,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 591,
-    "score": 320
+    "score": 320,
+    "globalRank": 75802
   },
   {
     "login": "ilukac",
@@ -8285,7 +8876,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 592,
-    "score": 19
+    "score": 19,
+    "globalRank": 75803
   },
   {
     "login": "JS1240",
@@ -8299,7 +8891,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 593,
-    "score": 2175
+    "score": 2175,
+    "globalRank": 75804
   },
   {
     "login": "trakBan",
@@ -8313,7 +8906,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 594,
-    "score": 22
+    "score": 22,
+    "globalRank": 75805
   },
   {
     "login": "aslansq",
@@ -8327,7 +8921,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 595,
-    "score": 81
+    "score": 81,
+    "globalRank": 75806
   },
   {
     "login": "oktalz",
@@ -8341,7 +8936,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 596,
-    "score": 459
+    "score": 459,
+    "globalRank": 75807
   },
   {
     "login": "tomislavjezidzic",
@@ -8355,7 +8951,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 597,
-    "score": 28
+    "score": 28,
+    "globalRank": 75808
   },
   {
     "login": "antonio-tomac",
@@ -8369,7 +8966,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 598,
-    "score": 111
+    "score": 111,
+    "globalRank": 75809
   },
   {
     "login": "maculjak",
@@ -8383,7 +8981,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 599,
-    "score": 605
+    "score": 605,
+    "globalRank": 75810
   },
   {
     "login": "malj",
@@ -8397,7 +8996,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 600,
-    "score": 1155
+    "score": 1155,
+    "globalRank": 75811
   },
   {
     "login": "jurapusic",
@@ -8411,7 +9011,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 601,
-    "score": 19
+    "score": 19,
+    "globalRank": 75812
   },
   {
     "login": "FraneCaleta",
@@ -8425,7 +9026,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 602,
-    "score": 48
+    "score": 48,
+    "globalRank": 75813
   },
   {
     "login": "igobrado",
@@ -8439,7 +9041,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 603,
-    "score": 26
+    "score": 26,
+    "globalRank": 75814
   },
   {
     "login": "domagojhack",
@@ -8453,7 +9056,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 604,
-    "score": 1093
+    "score": 1093,
+    "globalRank": 75815
   },
   {
     "login": "Luka-R-Lukacevic",
@@ -8467,7 +9071,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 605,
-    "score": 109
+    "score": 109,
+    "globalRank": 75816
   },
   {
     "login": "rperica",
@@ -8481,7 +9086,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 606,
-    "score": 19
+    "score": 19,
+    "globalRank": 75817
   },
   {
     "login": "sternakt",
@@ -8495,7 +9101,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 607,
-    "score": 1873
+    "score": 1873,
+    "globalRank": 75818
   },
   {
     "login": "tlandeka",
@@ -8509,7 +9116,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 608,
-    "score": 467
+    "score": 467,
+    "globalRank": 75819
   },
   {
     "login": "kristiandz",
@@ -8523,7 +9131,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 609,
-    "score": 41
+    "score": 41,
+    "globalRank": 77002
   },
   {
     "login": "bkuzmic",
@@ -8537,7 +9146,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 610,
-    "score": 21
+    "score": 21,
+    "globalRank": 77003
   },
   {
     "login": "EkaterinaVu",
@@ -8551,7 +9161,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 611,
-    "score": 1251
+    "score": 1251,
+    "globalRank": 77004
   },
   {
     "login": "zzavrski",
@@ -8565,7 +9176,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 612,
-    "score": 2177
+    "score": 2177,
+    "globalRank": 77005
   },
   {
     "login": "Matija1988",
@@ -8579,7 +9191,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 613,
-    "score": 273
+    "score": 273,
+    "globalRank": 77006
   },
   {
     "login": "marijan10marijan",
@@ -8593,7 +9206,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 614,
-    "score": 18
+    "score": 18,
+    "globalRank": 77007
   },
   {
     "login": "slavus",
@@ -8607,7 +9221,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 615,
-    "score": 19
+    "score": 19,
+    "globalRank": 77008
   },
   {
     "login": "plugn",
@@ -8621,7 +9236,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 616,
-    "score": 19
+    "score": 19,
+    "globalRank": 77009
   },
   {
     "login": "dstr89",
@@ -8635,7 +9251,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 617,
-    "score": 18
+    "score": 18,
+    "globalRank": 77010
   },
   {
     "login": "viborc",
@@ -8649,7 +9266,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 618,
-    "score": 824
+    "score": 824,
+    "globalRank": 77011
   },
   {
     "login": "chule",
@@ -8663,7 +9281,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 619,
-    "score": 897
+    "score": 897,
+    "globalRank": 77012
   },
   {
     "login": "dpluscec",
@@ -8677,7 +9296,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 620,
-    "score": 680
+    "score": 680,
+    "globalRank": 77013
   },
   {
     "login": "SuperJakov",
@@ -8691,7 +9311,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 621,
-    "score": 1631
+    "score": 1631,
+    "globalRank": 77014
   },
   {
     "login": "MrBr",
@@ -8705,7 +9326,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 622,
-    "score": 31
+    "score": 31,
+    "globalRank": 77015
   },
   {
     "login": "AntonioStipic",
@@ -8719,7 +9341,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 623,
-    "score": 1710
+    "score": 1710,
+    "globalRank": 77016
   },
   {
     "login": "VedranaR",
@@ -8733,7 +9356,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 624,
-    "score": 74
+    "score": 74,
+    "globalRank": 77017
   },
   {
     "login": "pkoraca",
@@ -8747,7 +9371,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 625,
-    "score": 18
+    "score": 18,
+    "globalRank": 77018
   },
   {
     "login": "zvanjak",
@@ -8761,7 +9386,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 626,
-    "score": 7892
+    "score": 7892,
+    "globalRank": 77019
   },
   {
     "login": "fitodic",
@@ -8775,7 +9401,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 627,
-    "score": 29
+    "score": 29,
+    "globalRank": 77020
   },
   {
     "login": "aostrun",
@@ -8789,7 +9416,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 628,
-    "score": 22
+    "score": 22,
+    "globalRank": 77021
   },
   {
     "login": "BornaBiro",
@@ -8803,7 +9431,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 629,
-    "score": 268
+    "score": 268,
+    "globalRank": 77022
   },
   {
     "login": "meinfernbus",
@@ -8817,7 +9446,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 630,
-    "score": 18
+    "score": 18,
+    "globalRank": 77023
   },
   {
     "login": "zunjooo",
@@ -8831,7 +9461,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 631,
-    "score": 18
+    "score": 18,
+    "globalRank": 77024
   },
   {
     "login": "spideyfusion",
@@ -8845,7 +9476,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 632,
-    "score": 68
+    "score": 68,
+    "globalRank": 77025
   },
   {
     "login": "bravoalpha79",
@@ -8859,7 +9491,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 633,
-    "score": 63
+    "score": 63,
+    "globalRank": 77026
   },
   {
     "login": "kristijanfistrek",
@@ -8873,7 +9506,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 634,
-    "score": 18
+    "score": 18,
+    "globalRank": 77027
   },
   {
     "login": "nikola-zitko",
@@ -8887,7 +9521,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 635,
-    "score": 97
+    "score": 97,
+    "globalRank": 77028
   },
   {
     "login": "mpranjic",
@@ -8901,7 +9536,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 636,
-    "score": 18
+    "score": 18,
+    "globalRank": 77029
   },
   {
     "login": "TvrtkoM",
@@ -8915,7 +9551,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 637,
-    "score": 360
+    "score": 360,
+    "globalRank": 77030
   },
   {
     "login": "CroAnna",
@@ -8929,7 +9566,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 638,
-    "score": 689
+    "score": 689,
+    "globalRank": 77031
   },
   {
     "login": "jbojcic1",
@@ -8943,7 +9581,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 639,
-    "score": 1181
+    "score": 1181,
+    "globalRank": 77032
   },
   {
     "login": "kristian240",
@@ -8957,7 +9596,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 640,
-    "score": 819
+    "score": 819,
+    "globalRank": 77033
   },
   {
     "login": "sergsagan",
@@ -8971,7 +9611,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 641,
-    "score": 288
+    "score": 288,
+    "globalRank": 77034
   },
   {
     "login": "bubafinder",
@@ -8985,7 +9626,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 642,
-    "score": 516
+    "score": 516,
+    "globalRank": 78313
   },
   {
     "login": "bperak",
@@ -8999,7 +9641,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 643,
-    "score": 206
+    "score": 206,
+    "globalRank": 78314
   },
   {
     "login": "T800G",
@@ -9013,7 +9656,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 644,
-    "score": 32
+    "score": 32,
+    "globalRank": 78315
   },
   {
     "login": "qIooIp",
@@ -9027,7 +9671,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 645,
-    "score": 17
+    "score": 17,
+    "globalRank": 78316
   },
   {
     "login": "precla",
@@ -9041,7 +9686,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 646,
-    "score": 417
+    "score": 417,
+    "globalRank": 78317
   },
   {
     "login": "ipadavic",
@@ -9055,7 +9701,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 647,
-    "score": 1003
+    "score": 1003,
+    "globalRank": 78318
   },
   {
     "login": "fijeko",
@@ -9069,7 +9716,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 648,
-    "score": 17
+    "score": 17,
+    "globalRank": 78319
   },
   {
     "login": "Vito510",
@@ -9083,7 +9731,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 649,
-    "score": 380
+    "score": 380,
+    "globalRank": 78320
   },
   {
     "login": "Sartaq12",
@@ -9097,7 +9746,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 650,
-    "score": 3142
+    "score": 3142,
+    "globalRank": 78321
   },
   {
     "login": "zrumenjak",
@@ -9111,7 +9761,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 651,
-    "score": 315
+    "score": 315,
+    "globalRank": 78322
   },
   {
     "login": "davoreric",
@@ -9125,7 +9776,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 652,
-    "score": 17
+    "score": 17,
+    "globalRank": 78323
   },
   {
     "login": "Nicba1010",
@@ -9139,7 +9791,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 653,
-    "score": 114
+    "score": 114,
+    "globalRank": 78324
   },
   {
     "login": "IvanVnucec",
@@ -9153,7 +9806,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 654,
-    "score": 1121
+    "score": 1121,
+    "globalRank": 78325
   },
   {
     "login": "jseric",
@@ -9167,7 +9821,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 655,
-    "score": 17
+    "score": 17,
+    "globalRank": 78326
   },
   {
     "login": "PauloSankovic",
@@ -9181,7 +9836,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 656,
-    "score": 3339
+    "score": 3339,
+    "globalRank": 78327
   },
   {
     "login": "talentsache",
@@ -9195,7 +9851,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 657,
-    "score": 428
+    "score": 428,
+    "globalRank": 78328
   },
   {
     "login": "bhemar",
@@ -9209,7 +9866,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 658,
-    "score": 17
+    "score": 17,
+    "globalRank": 78329
   },
   {
     "login": "st3r4g",
@@ -9223,7 +9881,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 659,
-    "score": 21
+    "score": 21,
+    "globalRank": 78330
   },
   {
     "login": "PetarHarambasa",
@@ -9237,7 +9896,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 660,
-    "score": 17
+    "score": 17,
+    "globalRank": 78331
   },
   {
     "login": "mradocaj",
@@ -9251,7 +9911,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 661,
-    "score": 17
+    "score": 17,
+    "globalRank": 78332
   },
   {
     "login": "marinaRupe",
@@ -9265,7 +9926,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 662,
-    "score": 68
+    "score": 68,
+    "globalRank": 78333
   },
   {
     "login": "lukapeharda",
@@ -9279,7 +9941,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 663,
-    "score": 93
+    "score": 93,
+    "globalRank": 78334
   },
   {
     "login": "Cepa95",
@@ -9293,7 +9956,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 664,
-    "score": 106
+    "score": 106,
+    "globalRank": 78335
   },
   {
     "login": "aaronadamsCA",
@@ -9307,7 +9971,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 665,
-    "score": 69
+    "score": 69,
+    "globalRank": 78336
   },
   {
     "login": "napravicukod",
@@ -9321,7 +9986,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 666,
-    "score": 987
+    "score": 987,
+    "globalRank": 78337
   },
   {
     "login": "vdragsic",
@@ -9335,7 +10001,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 667,
-    "score": 17
+    "score": 17,
+    "globalRank": 78338
   },
   {
     "login": "karlosmid",
@@ -9349,7 +10016,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 668,
-    "score": 124
+    "score": 124,
+    "globalRank": 78339
   },
   {
     "login": "shomodj",
@@ -9363,7 +10031,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 669,
-    "score": 683
+    "score": 683,
+    "globalRank": 78340
   },
   {
     "login": "rsoric",
@@ -9377,7 +10046,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 670,
-    "score": 197
+    "score": 197,
+    "globalRank": 78341
   },
   {
     "login": "zZan54",
@@ -9391,7 +10061,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 671,
-    "score": 171
+    "score": 171,
+    "globalRank": 78342
   },
   {
     "login": "jbradaric",
@@ -9405,7 +10076,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 672,
-    "score": 62
+    "score": 62,
+    "globalRank": 78343
   },
   {
     "login": "rcerljenko",
@@ -9419,7 +10091,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 673,
-    "score": 2674
+    "score": 2674,
+    "globalRank": 78344
   },
   {
     "login": "mutantkeyboard",
@@ -9433,7 +10106,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 674,
-    "score": 400
+    "score": 400,
+    "globalRank": 78345
   },
   {
     "login": "leohajder",
@@ -9447,7 +10121,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 675,
-    "score": 138
+    "score": 138,
+    "globalRank": 78346
   },
   {
     "login": "cappig",
@@ -9461,7 +10136,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 676,
-    "score": 502
+    "score": 502,
+    "globalRank": 78347
   },
   {
     "login": "KaradzaJuraj",
@@ -9475,7 +10151,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 677,
-    "score": 419
+    "score": 419,
+    "globalRank": 78348
   },
   {
     "login": "VisenP",
@@ -9489,7 +10166,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 678,
-    "score": 203
+    "score": 203,
+    "globalRank": 78349
   },
   {
     "login": "dbettini",
@@ -9503,7 +10181,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 679,
-    "score": 210
+    "score": 210,
+    "globalRank": 79620
   },
   {
     "login": "jglasovic",
@@ -9517,7 +10196,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 680,
-    "score": 707
+    "score": 707,
+    "globalRank": 79621
   },
   {
     "login": "grizwako",
@@ -9531,7 +10211,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 681,
-    "score": 16
+    "score": 16,
+    "globalRank": 79622
   },
   {
     "login": "gpedic",
@@ -9545,7 +10226,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 682,
-    "score": 293
+    "score": 293,
+    "globalRank": 79623
   },
   {
     "login": "dariodjuric",
@@ -9559,7 +10241,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 683,
-    "score": 1846
+    "score": 1846,
+    "globalRank": 79624
   },
   {
     "login": "boris-jenicek",
@@ -9573,7 +10256,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 684,
-    "score": 1135
+    "score": 1135,
+    "globalRank": 79625
   },
   {
     "login": "skuxy",
@@ -9587,7 +10271,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 685,
-    "score": 2506
+    "score": 2506,
+    "globalRank": 79626
   },
   {
     "login": "Heribertosgp",
@@ -9601,7 +10286,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 686,
-    "score": 16
+    "score": 16,
+    "globalRank": 79627
   },
   {
     "login": "stevetauber",
@@ -9615,7 +10301,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 687,
-    "score": 19
+    "score": 19,
+    "globalRank": 79628
   },
   {
     "login": "jtrupina",
@@ -9629,7 +10316,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 688,
-    "score": 1349
+    "score": 1349,
+    "globalRank": 79629
   },
   {
     "login": "melcha",
@@ -9643,7 +10331,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 689,
-    "score": 743
+    "score": 743,
+    "globalRank": 79630
   },
   {
     "login": "paljinov",
@@ -9657,7 +10346,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 690,
-    "score": 16
+    "score": 16,
+    "globalRank": 79631
   },
   {
     "login": "jojothebandit",
@@ -9671,7 +10361,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 691,
-    "score": 16
+    "score": 16,
+    "globalRank": 79632
   },
   {
     "login": "kozmonaut",
@@ -9685,7 +10376,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 692,
-    "score": 16
+    "score": 16,
+    "globalRank": 79633
   },
   {
     "login": "maatko",
@@ -9699,7 +10391,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 693,
-    "score": 485
+    "score": 485,
+    "globalRank": 79634
   },
   {
     "login": "bornacvitanic",
@@ -9713,7 +10406,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 694,
-    "score": 21
+    "score": 21,
+    "globalRank": 79635
   },
   {
     "login": "KristijanZic",
@@ -9727,7 +10421,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 695,
-    "score": 382
+    "score": 382,
+    "globalRank": 79636
   },
   {
     "login": "florijanstamenkovic",
@@ -9741,7 +10436,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 696,
-    "score": 16
+    "score": 16,
+    "globalRank": 79637
   },
   {
     "login": "pero5ar",
@@ -9755,7 +10451,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 697,
-    "score": 29
+    "score": 29,
+    "globalRank": 79638
   },
   {
     "login": "dsalantic",
@@ -9769,7 +10466,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 698,
-    "score": 26
+    "score": 26,
+    "globalRank": 79639
   },
   {
     "login": "lperanni",
@@ -9783,7 +10481,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 699,
-    "score": 16
+    "score": 16,
+    "globalRank": 79640
   },
   {
     "login": "bbudano",
@@ -9797,7 +10496,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 700,
-    "score": 32
+    "score": 32,
+    "globalRank": 79641
   },
   {
     "login": "jojorabbit",
@@ -9811,7 +10511,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 701,
-    "score": 1788
+    "score": 1788,
+    "globalRank": 79642
   },
   {
     "login": "tlikakur",
@@ -9825,7 +10526,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 702,
-    "score": 37
+    "score": 37,
+    "globalRank": 79643
   },
   {
     "login": "igorujevic",
@@ -9839,7 +10541,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 703,
-    "score": 16
+    "score": 16,
+    "globalRank": 79644
   },
   {
     "login": "brunotot",
@@ -9853,7 +10556,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 704,
-    "score": 17
+    "score": 17,
+    "globalRank": 79645
   },
   {
     "login": "srolija",
@@ -9867,7 +10571,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 705,
-    "score": 16
+    "score": 16,
+    "globalRank": 79646
   },
   {
     "login": "ianrumac",
@@ -9881,7 +10586,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 706,
-    "score": 1104
+    "score": 1104,
+    "globalRank": 79647
   },
   {
     "login": "santicevic",
@@ -9895,7 +10601,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 707,
-    "score": 295
+    "score": 295,
+    "globalRank": 79648
   },
   {
     "login": "gencdeveloper",
@@ -9909,7 +10616,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 708,
-    "score": 16
+    "score": 16,
+    "globalRank": 79649
   },
   {
     "login": "dzavisic",
@@ -9923,7 +10631,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 709,
-    "score": 480
+    "score": 480,
+    "globalRank": 79650
   },
   {
     "login": "marinactonci",
@@ -9937,7 +10646,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 710,
-    "score": 508
+    "score": 508,
+    "globalRank": 79651
   },
   {
     "login": "FrankoVekic",
@@ -9951,7 +10661,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 711,
-    "score": 16
+    "score": 16,
+    "globalRank": 79652
   },
   {
     "login": "Kristina456",
@@ -9965,7 +10676,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 712,
-    "score": 31
+    "score": 31,
+    "globalRank": 79653
   },
   {
     "login": "luks",
@@ -9979,7 +10691,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 713,
-    "score": 16
+    "score": 16,
+    "globalRank": 79654
   },
   {
     "login": "spinzed",
@@ -9993,7 +10706,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 714,
-    "score": 60
+    "score": 60,
+    "globalRank": 79655
   },
   {
     "login": "dsenta00",
@@ -10007,7 +10721,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 715,
-    "score": 16
+    "score": 16,
+    "globalRank": 79656
   },
   {
     "login": "kop7",
@@ -10021,7 +10736,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 716,
-    "score": 43
+    "score": 43,
+    "globalRank": 79657
   },
   {
     "login": "hrvatskibogmars",
@@ -10035,7 +10751,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 717,
-    "score": 62
+    "score": 62,
+    "globalRank": 79658
   },
   {
     "login": "itacdonev",
@@ -10049,7 +10766,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 718,
-    "score": 89
+    "score": 89,
+    "globalRank": 79659
   },
   {
     "login": "3alpha",
@@ -10063,7 +10781,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 719,
-    "score": 819
+    "score": 819,
+    "globalRank": 79660
   },
   {
     "login": "marinsagovac",
@@ -10077,7 +10796,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 720,
-    "score": 19
+    "score": 19,
+    "globalRank": 79661
   },
   {
     "login": "Brenner650",
@@ -10091,7 +10811,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 721,
-    "score": 94
+    "score": 94,
+    "globalRank": 79662
   },
   {
     "login": "DarkoKlisuric",
@@ -10105,7 +10826,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 722,
-    "score": 36
+    "score": 36,
+    "globalRank": 79663
   },
   {
     "login": "ovcarj",
@@ -10119,7 +10841,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 723,
-    "score": 378
+    "score": 378,
+    "globalRank": 79664
   },
   {
     "login": "schef",
@@ -10133,7 +10856,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 724,
-    "score": 518
+    "score": 518,
+    "globalRank": 79665
   },
   {
     "login": "Diiiiiii",
@@ -10147,7 +10871,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 725,
-    "score": 16
+    "score": 16,
+    "globalRank": 79666
   },
   {
     "login": "momo-gg",
@@ -10161,7 +10886,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 726,
-    "score": 599
+    "score": 599,
+    "globalRank": 79667
   },
   {
     "login": "Lovor01",
@@ -10175,7 +10901,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 727,
-    "score": 306
+    "score": 306,
+    "globalRank": 79668
   },
   {
     "login": "ratokuzmanic",
@@ -10189,7 +10916,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 728,
-    "score": 73
+    "score": 73,
+    "globalRank": 79669
   },
   {
     "login": "mrister",
@@ -10203,7 +10931,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 729,
-    "score": 28
+    "score": 28,
+    "globalRank": 79670
   },
   {
     "login": "tomislavmiksik",
@@ -10217,7 +10946,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 730,
-    "score": 240
+    "score": 240,
+    "globalRank": 79671
   },
   {
     "login": "DadoVeliki",
@@ -10231,7 +10961,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 731,
-    "score": 16
+    "score": 16,
+    "globalRank": 79672
   },
   {
     "login": "dkrznar",
@@ -10245,7 +10976,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 732,
-    "score": 78
+    "score": 78,
+    "globalRank": 79673
   },
   {
     "login": "murielK",
@@ -10259,7 +10991,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 733,
-    "score": 16
+    "score": 16,
+    "globalRank": 79674
   },
   {
     "login": "SanjinKurelic",
@@ -10273,7 +11006,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 734,
-    "score": 16
+    "score": 16,
+    "globalRank": 79675
   },
   {
     "login": "AlexIchenskiy",
@@ -10287,7 +11021,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 735,
-    "score": 289
+    "score": 289,
+    "globalRank": 79676
   },
   {
     "login": "VjeraTurk",
@@ -10301,7 +11036,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 736,
-    "score": 77
+    "score": 77,
+    "globalRank": 79677
   },
   {
     "login": "DarioSiroki",
@@ -10315,7 +11051,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 737,
-    "score": 4149
+    "score": 4149,
+    "globalRank": 79678
   },
   {
     "login": "lmatosevic",
@@ -10329,7 +11066,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 738,
-    "score": 375
+    "score": 375,
+    "globalRank": 81118
   },
   {
     "login": "tvatavuk",
@@ -10343,7 +11081,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 739,
-    "score": 542
+    "score": 542,
+    "globalRank": 81119
   },
   {
     "login": "mbanusic",
@@ -10357,7 +11096,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 740,
-    "score": 1006
+    "score": 1006,
+    "globalRank": 81120
   },
   {
     "login": "mmedenjak",
@@ -10371,7 +11111,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 741,
-    "score": 15
+    "score": 15,
+    "globalRank": 81121
   },
   {
     "login": "Allypost",
@@ -10385,7 +11126,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 742,
-    "score": 264
+    "score": 264,
+    "globalRank": 81122
   },
   {
     "login": "FilipHusnjak",
@@ -10399,7 +11141,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 743,
-    "score": 171
+    "score": 171,
+    "globalRank": 81123
   },
   {
     "login": "vlahovivan",
@@ -10413,7 +11156,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 744,
-    "score": 419
+    "score": 419,
+    "globalRank": 81124
   },
   {
     "login": "knezzz",
@@ -10427,7 +11171,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 745,
-    "score": 183
+    "score": 183,
+    "globalRank": 81125
   },
   {
     "login": "ibebic",
@@ -10441,7 +11186,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 746,
-    "score": 1067
+    "score": 1067,
+    "globalRank": 81126
   },
   {
     "login": "TomKTW",
@@ -10455,7 +11201,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 747,
-    "score": 15
+    "score": 15,
+    "globalRank": 81127
   },
   {
     "login": "melkior",
@@ -10469,7 +11216,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 748,
-    "score": 15
+    "score": 15,
+    "globalRank": 81128
   },
   {
     "login": "markojerkic",
@@ -10483,7 +11231,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 749,
-    "score": 1045
+    "score": 1045,
+    "globalRank": 81129
   },
   {
     "login": "FranPetkovic",
@@ -10497,7 +11246,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 750,
-    "score": 28
+    "score": 28,
+    "globalRank": 81130
   },
   {
     "login": "Romano125",
@@ -10511,7 +11261,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 751,
-    "score": 15
+    "score": 15,
+    "globalRank": 81131
   },
   {
     "login": "gjuric",
@@ -10525,7 +11276,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 752,
-    "score": 29
+    "score": 29,
+    "globalRank": 81132
   },
   {
     "login": "dCubelic",
@@ -10539,7 +11291,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 753,
-    "score": 1104
+    "score": 1104,
+    "globalRank": 81133
   },
   {
     "login": "msikic",
@@ -10553,7 +11306,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 754,
-    "score": 15
+    "score": 15,
+    "globalRank": 81134
   },
   {
     "login": "fsuste",
@@ -10567,7 +11321,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 755,
-    "score": 446
+    "score": 446,
+    "globalRank": 81135
   },
   {
     "login": "tomislavmamic",
@@ -10581,7 +11336,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 756,
-    "score": 3186
+    "score": 3186,
+    "globalRank": 81136
   },
   {
     "login": "Dynosius",
@@ -10595,7 +11351,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 757,
-    "score": 26
+    "score": 26,
+    "globalRank": 81137
   },
   {
     "login": "JurenIvan",
@@ -10609,7 +11366,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 758,
-    "score": 22
+    "score": 22,
+    "globalRank": 81138
   },
   {
     "login": "inanpy",
@@ -10623,7 +11381,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 759,
-    "score": 64
+    "score": 64,
+    "globalRank": 81139
   },
   {
     "login": "sahataba",
@@ -10637,7 +11396,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 760,
-    "score": 118
+    "score": 118,
+    "globalRank": 81140
   },
   {
     "login": "MatanBudimir",
@@ -10651,7 +11411,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 761,
-    "score": 254
+    "score": 254,
+    "globalRank": 81141
   },
   {
     "login": "quadmachine",
@@ -10665,7 +11426,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 762,
-    "score": 15
+    "score": 15,
+    "globalRank": 81142
   },
   {
     "login": "Danijel-Korent",
@@ -10679,7 +11441,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 763,
-    "score": 140
+    "score": 140,
+    "globalRank": 81143
   },
   {
     "login": "ivanbozic",
@@ -10693,7 +11456,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 764,
-    "score": 288
+    "score": 288,
+    "globalRank": 81144
   },
   {
     "login": "franFodor",
@@ -10707,7 +11471,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 765,
-    "score": 280
+    "score": 280,
+    "globalRank": 81145
   },
   {
     "login": "daniilyar",
@@ -10721,7 +11486,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 766,
-    "score": 15
+    "score": 15,
+    "globalRank": 81146
   },
   {
     "login": "mister11",
@@ -10735,7 +11501,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 767,
-    "score": 2682
+    "score": 2682,
+    "globalRank": 81147
   },
   {
     "login": "AndrijaSkontra",
@@ -10749,7 +11516,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 768,
-    "score": 65
+    "score": 65,
+    "globalRank": 81148
   },
   {
     "login": "Malcom98",
@@ -10763,7 +11531,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 769,
-    "score": 15
+    "score": 15,
+    "globalRank": 81149
   },
   {
     "login": "FrancoKurte",
@@ -10777,7 +11546,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 770,
-    "score": 25
+    "score": 25,
+    "globalRank": 81150
   },
   {
     "login": "mateoradman",
@@ -10791,7 +11561,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 771,
-    "score": 126
+    "score": 126,
+    "globalRank": 81151
   },
   {
     "login": "fajdof",
@@ -10805,7 +11576,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 772,
-    "score": 15
+    "score": 15,
+    "globalRank": 81152
   },
   {
     "login": "roberth6060",
@@ -10819,7 +11591,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 773,
-    "score": 30
+    "score": 30,
+    "globalRank": 81153
   },
   {
     "login": "markopavlovic",
@@ -10833,7 +11606,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 774,
-    "score": 126
+    "score": 126,
+    "globalRank": 81154
   },
   {
     "login": "svendjanis",
@@ -10847,7 +11621,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 775,
-    "score": 17
+    "score": 17,
+    "globalRank": 81155
   },
   {
     "login": "vnesek",
@@ -10861,7 +11636,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 776,
-    "score": 15
+    "score": 15,
+    "globalRank": 81156
   },
   {
     "login": "Petrina99",
@@ -10875,7 +11651,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 777,
-    "score": 1613
+    "score": 1613,
+    "globalRank": 81157
   },
   {
     "login": "ikovacic",
@@ -10889,7 +11666,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 778,
-    "score": 18
+    "score": 18,
+    "globalRank": 81158
   },
   {
     "login": "kosirm",
@@ -10903,7 +11681,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 779,
-    "score": 2474
+    "score": 2474,
+    "globalRank": 81159
   },
   {
     "login": "jmatak",
@@ -10917,7 +11696,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 780,
-    "score": 15
+    "score": 15,
+    "globalRank": 81160
   },
   {
     "login": "AntonioObra",
@@ -10931,7 +11711,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 781,
-    "score": 936
+    "score": 936,
+    "globalRank": 81161
   },
   {
     "login": "Ars-byte",
@@ -10945,7 +11726,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 782,
-    "score": 439
+    "score": 439,
+    "globalRank": 81162
   },
   {
     "login": "simejerkovic",
@@ -10959,7 +11741,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 783,
-    "score": 15
+    "score": 15,
+    "globalRank": 81163
   },
   {
     "login": "gour",
@@ -10973,7 +11756,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 784,
-    "score": 35
+    "score": 35,
+    "globalRank": 82680
   },
   {
     "login": "annyDot",
@@ -10987,7 +11771,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 785,
-    "score": 25
+    "score": 25,
+    "globalRank": 82681
   },
   {
     "login": "OlegLviv",
@@ -11001,7 +11786,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 786,
-    "score": 14
+    "score": 14,
+    "globalRank": 82682
   },
   {
     "login": "CroTweet",
@@ -11015,7 +11801,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 787,
-    "score": 15
+    "score": 15,
+    "globalRank": 82683
   },
   {
     "login": "pspanja",
@@ -11029,7 +11816,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 788,
-    "score": 475
+    "score": 475,
+    "globalRank": 82684
   },
   {
     "login": "Mario857",
@@ -11043,7 +11831,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 789,
-    "score": 216
+    "score": 216,
+    "globalRank": 82685
   },
   {
     "login": "AlbertGajsak",
@@ -11057,7 +11846,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 790,
-    "score": 104
+    "score": 104,
+    "globalRank": 82686
   },
   {
     "login": "msplival",
@@ -11071,7 +11861,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 791,
-    "score": 87
+    "score": 87,
+    "globalRank": 82687
   },
   {
     "login": "Vedinsoh",
@@ -11085,7 +11876,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 792,
-    "score": 888
+    "score": 888,
+    "globalRank": 82688
   },
   {
     "login": "gavocanov",
@@ -11099,7 +11891,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 793,
-    "score": 14
+    "score": 14,
+    "globalRank": 82689
   },
   {
     "login": "fredo994",
@@ -11113,7 +11906,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 794,
-    "score": 14
+    "score": 14,
+    "globalRank": 82690
   },
   {
     "login": "Darijo00",
@@ -11127,7 +11921,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 795,
-    "score": 14
+    "score": 14,
+    "globalRank": 82691
   },
   {
     "login": "Drino955",
@@ -11141,7 +11936,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 796,
-    "score": 323
+    "score": 323,
+    "globalRank": 82692
   },
   {
     "login": "mamihelj09",
@@ -11155,7 +11951,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 797,
-    "score": 2287
+    "score": 2287,
+    "globalRank": 82693
   },
   {
     "login": "ttomasicc",
@@ -11169,7 +11966,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 798,
-    "score": 19
+    "score": 19,
+    "globalRank": 82694
   },
   {
     "login": "dinkom",
@@ -11183,7 +11981,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 799,
-    "score": 14
+    "score": 14,
+    "globalRank": 82695
   },
   {
     "login": "MarioLegenda",
@@ -11197,7 +11996,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 800,
-    "score": 174
+    "score": 174,
+    "globalRank": 82696
   },
   {
     "login": "tjaksic234",
@@ -11211,7 +12011,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 801,
-    "score": 314
+    "score": 314,
+    "globalRank": 82697
   },
   {
     "login": "igorlakic",
@@ -11225,7 +12026,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 802,
-    "score": 70
+    "score": 70,
+    "globalRank": 82698
   },
   {
     "login": "avuletica",
@@ -11239,7 +12041,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 803,
-    "score": 14
+    "score": 14,
+    "globalRank": 82699
   },
   {
     "login": "davorvr",
@@ -11253,7 +12056,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 804,
-    "score": 192
+    "score": 192,
+    "globalRank": 82700
   },
   {
     "login": "ilongin",
@@ -11267,7 +12071,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 805,
-    "score": 1264
+    "score": 1264,
+    "globalRank": 82701
   },
   {
     "login": "zoltanmaric",
@@ -11281,7 +12086,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 806,
-    "score": 1102
+    "score": 1102,
+    "globalRank": 82702
   },
   {
     "login": "msusilovic",
@@ -11295,7 +12101,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 807,
-    "score": 14
+    "score": 14,
+    "globalRank": 82703
   },
   {
     "login": "zlanusic",
@@ -11309,7 +12116,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 808,
-    "score": 14
+    "score": 14,
+    "globalRank": 82704
   },
   {
     "login": "mensur-durakovic",
@@ -11323,7 +12131,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 809,
-    "score": 14
+    "score": 14,
+    "globalRank": 82705
   },
   {
     "login": "anteburazer",
@@ -11337,7 +12146,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 810,
-    "score": 14
+    "score": 14,
+    "globalRank": 82706
   },
   {
     "login": "Ktarnaj",
@@ -11351,7 +12161,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 811,
-    "score": 528
+    "score": 528,
+    "globalRank": 82707
   },
   {
     "login": "marian-7",
@@ -11365,7 +12176,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 812,
-    "score": 1697
+    "score": 1697,
+    "globalRank": 82708
   },
   {
     "login": "hrvojejurisic",
@@ -11379,7 +12191,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 813,
-    "score": 14
+    "score": 14,
+    "globalRank": 82709
   },
   {
     "login": "pelivan",
@@ -11393,7 +12206,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 814,
-    "score": 1578
+    "score": 1578,
+    "globalRank": 82710
   },
   {
     "login": "dprelec",
@@ -11407,7 +12221,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 815,
-    "score": 14
+    "score": 14,
+    "globalRank": 82711
   },
   {
     "login": "JosipBudimcic",
@@ -11421,7 +12236,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 816,
-    "score": 45
+    "score": 45,
+    "globalRank": 82712
   },
   {
     "login": "pekiZG",
@@ -11435,7 +12251,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 817,
-    "score": 14
+    "score": 14,
+    "globalRank": 82713
   },
   {
     "login": "ivan-radic",
@@ -11449,7 +12266,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 818,
-    "score": 14
+    "score": 14,
+    "globalRank": 82714
   },
   {
     "login": "idikic",
@@ -11463,7 +12281,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 819,
-    "score": 14
+    "score": 14,
+    "globalRank": 82715
   },
   {
     "login": "dradecic",
@@ -11477,7 +12296,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 820,
-    "score": 14
+    "score": 14,
+    "globalRank": 82716
   },
   {
     "login": "monikapurpl3",
@@ -11491,7 +12311,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 821,
-    "score": 72
+    "score": 72,
+    "globalRank": 82717
   },
   {
     "login": "lukebee",
@@ -11505,7 +12326,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 822,
-    "score": 14
+    "score": 14,
+    "globalRank": 82718
   },
   {
     "login": "mpavlovic",
@@ -11519,7 +12341,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 823,
-    "score": 79
+    "score": 79,
+    "globalRank": 82719
   },
   {
     "login": "jknezevic",
@@ -11533,7 +12356,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 824,
-    "score": 233
+    "score": 233,
+    "globalRank": 82720
   },
   {
     "login": "mvuco00",
@@ -11547,7 +12371,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 825,
-    "score": 2793
+    "score": 2793,
+    "globalRank": 82721
   },
   {
     "login": "kosticmarin",
@@ -11561,7 +12386,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 826,
-    "score": 15
+    "score": 15,
+    "globalRank": 82722
   },
   {
     "login": "gabriel-glo",
@@ -11575,7 +12401,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 827,
-    "score": 523
+    "score": 523,
+    "globalRank": 82723
   },
   {
     "login": "davscro",
@@ -11589,7 +12416,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 828,
-    "score": 1298
+    "score": 1298,
+    "globalRank": 82724
   },
   {
     "login": "melbos",
@@ -11603,7 +12431,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 829,
-    "score": 38
+    "score": 38,
+    "globalRank": 82725
   },
   {
     "login": "Ante889",
@@ -11617,7 +12446,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 830,
-    "score": 1480
+    "score": 1480,
+    "globalRank": 82726
   },
   {
     "login": "TommyRadan",
@@ -11631,7 +12461,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 831,
-    "score": 458
+    "score": 458,
+    "globalRank": 82727
   },
   {
     "login": "vedrani",
@@ -11645,7 +12476,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 832,
-    "score": 572
+    "score": 572,
+    "globalRank": 82728
   },
   {
     "login": "Catzzye",
@@ -11659,7 +12491,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 833,
-    "score": 24
+    "score": 24,
+    "globalRank": 82729
   },
   {
     "login": "msantl",
@@ -11673,7 +12506,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 834,
-    "score": 433
+    "score": 433,
+    "globalRank": 82730
   },
   {
     "login": "codeforest",
@@ -11687,7 +12521,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 835,
-    "score": 14
+    "score": 14,
+    "globalRank": 82731
   },
   {
     "login": "jaksa-b",
@@ -11701,7 +12536,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 836,
-    "score": 2039
+    "score": 2039,
+    "globalRank": 82732
   },
   {
     "login": "dmurat",
@@ -11715,7 +12551,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 837,
-    "score": 594
+    "score": 594,
+    "globalRank": 82733
   },
   {
     "login": "branimir93",
@@ -11729,7 +12566,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 838,
-    "score": 502
+    "score": 502,
+    "globalRank": 82734
   },
   {
     "login": "JJ-Cro",
@@ -11743,7 +12581,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 839,
-    "score": 1898
+    "score": 1898,
+    "globalRank": 82735
   },
   {
     "login": "drakipovic",
@@ -11757,7 +12596,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 840,
-    "score": 589
+    "score": 589,
+    "globalRank": 82736
   },
   {
     "login": "ztepsa",
@@ -11771,7 +12611,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 841,
-    "score": 917
+    "score": 917,
+    "globalRank": 82737
   },
   {
     "login": "zorantodorovic",
@@ -11785,7 +12626,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 842,
-    "score": 177
+    "score": 177,
+    "globalRank": 82738
   },
   {
     "login": "dlalic",
@@ -11799,7 +12641,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 843,
-    "score": 17
+    "score": 17,
+    "globalRank": 82739
   },
   {
     "login": "isamardzija",
@@ -11813,7 +12656,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 844,
-    "score": 154
+    "score": 154,
+    "globalRank": 82740
   },
   {
     "login": "pele90",
@@ -11827,7 +12671,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 845,
-    "score": 14
+    "score": 14,
+    "globalRank": 82741
   },
   {
     "login": "ikss",
@@ -11841,7 +12686,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 846,
-    "score": 369
+    "score": 369,
+    "globalRank": 82742
   },
   {
     "login": "i1mercep",
@@ -11855,7 +12701,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 847,
-    "score": 333
+    "score": 333,
+    "globalRank": 82743
   },
   {
     "login": "ken-kost",
@@ -11869,7 +12716,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 848,
-    "score": 411
+    "score": 411,
+    "globalRank": 82744
   },
   {
     "login": "u-ra",
@@ -11883,7 +12731,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 849,
-    "score": 13
+    "score": 13,
+    "globalRank": 84432
   },
   {
     "login": "antio80writer",
@@ -11897,7 +12746,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 850,
-    "score": 13
+    "score": 13,
+    "globalRank": 84433
   },
   {
     "login": "akrezic1",
@@ -11911,7 +12761,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 851,
-    "score": 13
+    "score": 13,
+    "globalRank": 84434
   },
   {
     "login": "Felipelv199",
@@ -11925,7 +12776,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 852,
-    "score": 28
+    "score": 28,
+    "globalRank": 84435
   },
   {
     "login": "mbareta",
@@ -11939,7 +12791,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 853,
-    "score": 385
+    "score": 385,
+    "globalRank": 84436
   },
   {
     "login": "istvavk",
@@ -11953,7 +12806,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 854,
-    "score": 48
+    "score": 48,
+    "globalRank": 84437
   },
   {
     "login": "kristijansoldo",
@@ -11967,7 +12821,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 855,
-    "score": 2587
+    "score": 2587,
+    "globalRank": 84438
   },
   {
     "login": "faleksic",
@@ -11981,7 +12836,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 856,
-    "score": 1013
+    "score": 1013,
+    "globalRank": 84439
   },
   {
     "login": "matemijolovic",
@@ -11995,7 +12851,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 857,
-    "score": 1384
+    "score": 1384,
+    "globalRank": 84440
   },
   {
     "login": "perkeje",
@@ -12009,7 +12866,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 858,
-    "score": 74
+    "score": 74,
+    "globalRank": 84441
   },
   {
     "login": "duke4e",
@@ -12023,7 +12881,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 859,
-    "score": 27
+    "score": 27,
+    "globalRank": 84442
   },
   {
     "login": "SandraZiv",
@@ -12037,7 +12896,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 860,
-    "score": 319
+    "score": 319,
+    "globalRank": 84443
   },
   {
     "login": "madzarm",
@@ -12051,7 +12911,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 861,
-    "score": 1838
+    "score": 1838,
+    "globalRank": 84444
   },
   {
     "login": "itsanamulhassan",
@@ -12065,7 +12926,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 862,
-    "score": 484
+    "score": 484,
+    "globalRank": 84445
   },
   {
     "login": "goranalkovic",
@@ -12079,7 +12941,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 863,
-    "score": 41
+    "score": 41,
+    "globalRank": 84446
   },
   {
     "login": "unandreshevia",
@@ -12093,7 +12956,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 864,
-    "score": 13
+    "score": 13,
+    "globalRank": 84447
   },
   {
     "login": "bobo-k2",
@@ -12107,7 +12971,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 865,
-    "score": 1933
+    "score": 1933,
+    "globalRank": 84448
   },
   {
     "login": "dimitri-dev",
@@ -12121,7 +12986,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 866,
-    "score": 994
+    "score": 994,
+    "globalRank": 84449
   },
   {
     "login": "MorphZG",
@@ -12135,7 +13001,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 867,
-    "score": 296
+    "score": 296,
+    "globalRank": 84450
   },
   {
     "login": "kresogalic8",
@@ -12149,7 +13016,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 868,
-    "score": 2176
+    "score": 2176,
+    "globalRank": 84451
   },
   {
     "login": "druzic",
@@ -12163,7 +13031,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 869,
-    "score": 70
+    "score": 70,
+    "globalRank": 84452
   },
   {
     "login": "skoric",
@@ -12177,7 +13046,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 870,
-    "score": 340
+    "score": 340,
+    "globalRank": 84453
   },
   {
     "login": "izorko33",
@@ -12191,7 +13061,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 871,
-    "score": 17
+    "score": 17,
+    "globalRank": 84454
   },
   {
     "login": "denisSal",
@@ -12205,7 +13076,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 872,
-    "score": 277
+    "score": 277,
+    "globalRank": 84455
   },
   {
     "login": "msrecec",
@@ -12219,7 +13091,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 873,
-    "score": 27
+    "score": 27,
+    "globalRank": 84456
   },
   {
     "login": "MetarDev",
@@ -12233,7 +13106,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 874,
-    "score": 225
+    "score": 225,
+    "globalRank": 84457
   },
   {
     "login": "makiJS",
@@ -12247,7 +13121,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 875,
-    "score": 1949
+    "score": 1949,
+    "globalRank": 84458
   },
   {
     "login": "igorantolic",
@@ -12261,7 +13136,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 876,
-    "score": 18
+    "score": 18,
+    "globalRank": 84459
   },
   {
     "login": "gersak",
@@ -12275,7 +13151,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 877,
-    "score": 727
+    "score": 727,
+    "globalRank": 84460
   },
   {
     "login": "parl0v",
@@ -12289,7 +13166,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 878,
-    "score": 548
+    "score": 548,
+    "globalRank": 84461
   },
   {
     "login": "valentt",
@@ -12303,7 +13181,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 879,
-    "score": 99
+    "score": 99,
+    "globalRank": 84462
   },
   {
     "login": "denisristic",
@@ -12317,7 +13196,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 880,
-    "score": 741
+    "score": 741,
+    "globalRank": 84463
   },
   {
     "login": "vrsaljk0",
@@ -12331,7 +13211,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 881,
-    "score": 13
+    "score": 13,
+    "globalRank": 84464
   },
   {
     "login": "jerzabek",
@@ -12345,7 +13226,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 882,
-    "score": 1449
+    "score": 1449,
+    "globalRank": 84465
   },
   {
     "login": "miledxz",
@@ -12359,7 +13241,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 883,
-    "score": 651
+    "score": 651,
+    "globalRank": 84466
   },
   {
     "login": "mators",
@@ -12373,7 +13256,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 884,
-    "score": 898
+    "score": 898,
+    "globalRank": 84467
   },
   {
     "login": "MichaelGG",
@@ -12387,7 +13271,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 885,
-    "score": 13
+    "score": 13,
+    "globalRank": 84468
   },
   {
     "login": "vailjoy",
@@ -12401,7 +13286,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 886,
-    "score": 13
+    "score": 13,
+    "globalRank": 84469
   },
   {
     "login": "tomislavherman",
@@ -12415,7 +13301,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 887,
-    "score": 13
+    "score": 13,
+    "globalRank": 84470
   },
   {
     "login": "luka-mikec",
@@ -12429,7 +13316,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 888,
-    "score": 147
+    "score": 147,
+    "globalRank": 84471
   },
   {
     "login": "jseparovic1",
@@ -12443,7 +13331,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 889,
-    "score": 640
+    "score": 640,
+    "globalRank": 84472
   },
   {
     "login": "safo6m",
@@ -12457,7 +13346,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 890,
-    "score": 137
+    "score": 137,
+    "globalRank": 84473
   },
   {
     "login": "a-subasic",
@@ -12471,7 +13361,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 891,
-    "score": 13
+    "score": 13,
+    "globalRank": 84474
   },
   {
     "login": "toperkov",
@@ -12485,7 +13376,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 892,
-    "score": 27
+    "score": 27,
+    "globalRank": 84475
   },
   {
     "login": "tmarice",
@@ -12499,7 +13391,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 893,
-    "score": 347
+    "score": 347,
+    "globalRank": 84476
   },
   {
     "login": "antejavor",
@@ -12513,7 +13406,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 894,
-    "score": 539
+    "score": 539,
+    "globalRank": 84477
   },
   {
     "login": "AndrejKolar",
@@ -12527,7 +13421,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 895,
-    "score": 4483
+    "score": 4483,
+    "globalRank": 84478
   },
   {
     "login": "tomiplaz",
@@ -12541,7 +13436,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 896,
-    "score": 64
+    "score": 64,
+    "globalRank": 84479
   },
   {
     "login": "the-overengineer",
@@ -12555,7 +13451,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 897,
-    "score": 3257
+    "score": 3257,
+    "globalRank": 84480
   },
   {
     "login": "ilovric00",
@@ -12569,7 +13466,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 898,
-    "score": 994
+    "score": 994,
+    "globalRank": 84481
   },
   {
     "login": "mmatokovic",
@@ -12583,7 +13481,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 899,
-    "score": 390
+    "score": 390,
+    "globalRank": 84482
   },
   {
     "login": "zzumche",
@@ -12597,7 +13496,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 900,
-    "score": 13
+    "score": 13,
+    "globalRank": 84483
   },
   {
     "login": "domagojb",
@@ -12611,7 +13511,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 901,
-    "score": 14
+    "score": 14,
+    "globalRank": 84484
   },
   {
     "login": "Fico125",
@@ -12625,7 +13526,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 902,
-    "score": 14
+    "score": 14,
+    "globalRank": 84485
   },
   {
     "login": "wingedadventurer",
@@ -12639,7 +13541,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 903,
-    "score": 22
+    "score": 22,
+    "globalRank": 84486
   },
   {
     "login": "sambolek",
@@ -12653,7 +13556,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 904,
-    "score": 15
+    "score": 15,
+    "globalRank": 84487
   },
   {
     "login": "ikrizanic",
@@ -12667,7 +13571,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 905,
-    "score": 13
+    "score": 13,
+    "globalRank": 84488
   },
   {
     "login": "glepur",
@@ -12681,7 +13586,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 906,
-    "score": 1122
+    "score": 1122,
+    "globalRank": 84489
   },
   {
     "login": "TheRuky",
@@ -12695,7 +13601,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 907,
-    "score": 18
+    "score": 18,
+    "globalRank": 84490
   },
   {
     "login": "igorbeslic",
@@ -12709,7 +13616,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 908,
-    "score": 391
+    "score": 391,
+    "globalRank": 84491
   },
   {
     "login": "rimatik",
@@ -12723,7 +13631,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 909,
-    "score": 13
+    "score": 13,
+    "globalRank": 84492
   },
   {
     "login": "AntonioZulim",
@@ -12737,7 +13646,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 910,
-    "score": 85
+    "score": 85,
+    "globalRank": 84493
   },
   {
     "login": "markogracin",
@@ -12751,7 +13661,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 911,
-    "score": 31
+    "score": 31,
+    "globalRank": 84494
   },
   {
     "login": "Filip7",
@@ -12765,7 +13676,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 912,
-    "score": 362
+    "score": 362,
+    "globalRank": 84495
   },
   {
     "login": "MarinoKolaric",
@@ -12779,7 +13691,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 913,
-    "score": 44
+    "score": 44,
+    "globalRank": 84496
   },
   {
     "login": "ku5ic",
@@ -12793,7 +13706,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 914,
-    "score": 1015
+    "score": 1015,
+    "globalRank": 84497
   },
   {
     "login": "PjotrVr",
@@ -12807,7 +13721,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 915,
-    "score": 73
+    "score": 73,
+    "globalRank": 84498
   },
   {
     "login": "dariodev",
@@ -12821,7 +13736,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 916,
-    "score": 12
+    "score": 12,
+    "globalRank": 86199
   },
   {
     "login": "kresimir-coko",
@@ -12835,7 +13751,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 917,
-    "score": 1156
+    "score": 1156,
+    "globalRank": 86200
   },
   {
     "login": "StipT",
@@ -12849,7 +13766,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 918,
-    "score": 450
+    "score": 450,
+    "globalRank": 86201
   },
   {
     "login": "mskomrak",
@@ -12863,7 +13781,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 919,
-    "score": 151
+    "score": 151,
+    "globalRank": 86202
   },
   {
     "login": "LukaPavicic",
@@ -12877,7 +13796,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 920,
-    "score": 852
+    "score": 852,
+    "globalRank": 86203
   },
   {
     "login": "EdiProdan",
@@ -12891,7 +13811,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 921,
-    "score": 88
+    "score": 88,
+    "globalRank": 86204
   },
   {
     "login": "mprinc",
@@ -12905,7 +13826,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 922,
-    "score": 264
+    "score": 264,
+    "globalRank": 86205
   },
   {
     "login": "dominik-babic",
@@ -12919,7 +13841,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 923,
-    "score": 52
+    "score": 52,
+    "globalRank": 86206
   },
   {
     "login": "Zrna",
@@ -12933,7 +13856,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 924,
-    "score": 247
+    "score": 247,
+    "globalRank": 86207
   },
   {
     "login": "tariel-x",
@@ -12947,7 +13871,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 925,
-    "score": 880
+    "score": 880,
+    "globalRank": 86208
   },
   {
     "login": "dotocan",
@@ -12961,7 +13886,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 926,
-    "score": 41
+    "score": 41,
+    "globalRank": 86209
   },
   {
     "login": "tadijam64",
@@ -12975,7 +13901,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 927,
-    "score": 13
+    "score": 13,
+    "globalRank": 86210
   },
   {
     "login": "JeikWazTaken",
@@ -12989,7 +13916,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 928,
-    "score": 12
+    "score": 12,
+    "globalRank": 86211
   },
   {
     "login": "StipeBrzi",
@@ -13003,7 +13931,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 929,
-    "score": 14
+    "score": 14,
+    "globalRank": 86212
   },
   {
     "login": "akalajzi",
@@ -13017,7 +13946,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 930,
-    "score": 426
+    "score": 426,
+    "globalRank": 86213
   },
   {
     "login": "mile-gepek",
@@ -13031,7 +13961,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 931,
-    "score": 406
+    "score": 406,
+    "globalRank": 86214
   },
   {
     "login": "grbinho",
@@ -13045,7 +13976,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 932,
-    "score": 14
+    "score": 14,
+    "globalRank": 86215
   },
   {
     "login": "helenakos",
@@ -13059,7 +13991,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 933,
-    "score": 13
+    "score": 13,
+    "globalRank": 86216
   },
   {
     "login": "kstevica",
@@ -13073,7 +14006,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 934,
-    "score": 361
+    "score": 361,
+    "globalRank": 86217
   },
   {
     "login": "Yalfoosh",
@@ -13087,7 +14021,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 935,
-    "score": 12
+    "score": 12,
+    "globalRank": 86218
   },
   {
     "login": "gregex",
@@ -13101,7 +14036,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 936,
-    "score": 172
+    "score": 172,
+    "globalRank": 86219
   },
   {
     "login": "KrisKnez",
@@ -13115,7 +14051,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 937,
-    "score": 45
+    "score": 45,
+    "globalRank": 86220
   },
   {
     "login": "MSekrst",
@@ -13129,7 +14066,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 938,
-    "score": 12
+    "score": 12,
+    "globalRank": 86221
   },
   {
     "login": "marin-liovic",
@@ -13143,7 +14081,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 939,
-    "score": 1198
+    "score": 1198,
+    "globalRank": 86222
   },
   {
     "login": "JakovGlavac",
@@ -13157,7 +14096,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 940,
-    "score": 79
+    "score": 79,
+    "globalRank": 86223
   },
   {
     "login": "Substractive",
@@ -13171,7 +14111,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 941,
-    "score": 12
+    "score": 12,
+    "globalRank": 86224
   },
   {
     "login": "linkret",
@@ -13185,7 +14126,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 942,
-    "score": 242
+    "score": 242,
+    "globalRank": 86225
   },
   {
     "login": "pkovacevic",
@@ -13199,7 +14141,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 943,
-    "score": 53
+    "score": 53,
+    "globalRank": 86226
   },
   {
     "login": "BlazJurisic",
@@ -13213,7 +14156,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 944,
-    "score": 1151
+    "score": 1151,
+    "globalRank": 86227
   },
   {
     "login": "jonnieZG",
@@ -13227,7 +14171,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 945,
-    "score": 16
+    "score": 16,
+    "globalRank": 86228
   },
   {
     "login": "mislavtomic",
@@ -13241,7 +14186,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 946,
-    "score": 2192
+    "score": 2192,
+    "globalRank": 86229
   },
   {
     "login": "MiroslavAmbros",
@@ -13255,7 +14201,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 947,
-    "score": 12
+    "score": 12,
+    "globalRank": 86230
   },
   {
     "login": "ZvonimirJ",
@@ -13269,7 +14216,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 948,
-    "score": 94
+    "score": 94,
+    "globalRank": 86231
   },
   {
     "login": "markisha64",
@@ -13283,7 +14231,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 949,
-    "score": 423
+    "score": 423,
+    "globalRank": 86232
   },
   {
     "login": "rkusan00",
@@ -13297,7 +14246,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 950,
-    "score": 2504
+    "score": 2504,
+    "globalRank": 86233
   },
   {
     "login": "Rep2",
@@ -13311,7 +14261,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 951,
-    "score": 835
+    "score": 835,
+    "globalRank": 86234
   },
   {
     "login": "tbukic",
@@ -13325,7 +14276,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 952,
-    "score": 257
+    "score": 257,
+    "globalRank": 86235
   },
   {
     "login": "PribaNosati",
@@ -13339,7 +14291,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 953,
-    "score": 144
+    "score": 144,
+    "globalRank": 86236
   },
   {
     "login": "mgrilec",
@@ -13353,7 +14306,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 954,
-    "score": 18
+    "score": 18,
+    "globalRank": 86237
   },
   {
     "login": "markovidakovic",
@@ -13367,7 +14321,8 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 955,
-    "score": 13
+    "score": 13,
+    "globalRank": 86238
   },
   {
     "login": "ivanzavisic",
@@ -13381,6 +14336,7 @@
     "country": "croatia",
     "countryName": "Croatia",
     "countryRank": 956,
-    "score": 1317
+    "score": 1317,
+    "globalRank": 86239
   }
 ]

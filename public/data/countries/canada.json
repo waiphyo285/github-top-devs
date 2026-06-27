@@ -11,7 +11,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 1,
-    "score": 23961
+    "score": 23961,
+    "globalRank": 42
   },
   {
     "login": "adamwathan",
@@ -25,7 +26,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 2,
-    "score": 13663
+    "score": 13663,
+    "globalRank": 102
   },
   {
     "login": "developit",
@@ -39,7 +41,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 3,
-    "score": 16168
+    "score": 16168,
+    "globalRank": 110
   },
   {
     "login": "shiftkey",
@@ -53,7 +56,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 4,
-    "score": 16796
+    "score": 16796,
+    "globalRank": 144
   },
   {
     "login": "aneagoie",
@@ -67,7 +71,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 5,
-    "score": 10735
+    "score": 10735,
+    "globalRank": 154
   },
   {
     "login": "machadop1407",
@@ -81,7 +86,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 6,
-    "score": 9318
+    "score": 9318,
+    "globalRank": 214
   },
   {
     "login": "lemire",
@@ -95,7 +101,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 7,
-    "score": 11986
+    "score": 11986,
+    "globalRank": 245
   },
   {
     "login": "joshwcomeau",
@@ -109,7 +116,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 8,
-    "score": 8788
+    "score": 8788,
+    "globalRank": 251
   },
   {
     "login": "graydon",
@@ -123,7 +131,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 9,
-    "score": 8191
+    "score": 8191,
+    "globalRank": 262
   },
   {
     "login": "dalindev",
@@ -137,7 +146,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 10,
-    "score": 8270
+    "score": 8270,
+    "globalRank": 287
   },
   {
     "login": "rwightman",
@@ -151,7 +161,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 11,
-    "score": 7629
+    "score": 7629,
+    "globalRank": 304
   },
   {
     "login": "gorhill",
@@ -165,7 +176,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 12,
-    "score": 7947
+    "score": 7947,
+    "globalRank": 327
   },
   {
     "login": "swankjesse",
@@ -179,7 +191,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 13,
-    "score": 8113
+    "score": 8113,
+    "globalRank": 329
   },
   {
     "login": "ZhangMYihua",
@@ -193,7 +206,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 14,
-    "score": 5864
+    "score": 5864,
+    "globalRank": 378
   },
   {
     "login": "jennybc",
@@ -207,7 +221,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 15,
-    "score": 8307
+    "score": 8307,
+    "globalRank": 394
   },
   {
     "login": "mostafa-saad",
@@ -221,7 +236,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 16,
-    "score": 5182
+    "score": 5182,
+    "globalRank": 455
   },
   {
     "login": "susanli2016",
@@ -235,7 +251,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 17,
-    "score": 5022
+    "score": 5022,
+    "globalRank": 484
   },
   {
     "login": "tobi",
@@ -249,7 +266,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 18,
-    "score": 6951
+    "score": 6951,
+    "globalRank": 489
   },
   {
     "login": "thedaviddias",
@@ -263,7 +281,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 19,
-    "score": 13983
+    "score": 13983,
+    "globalRank": 495
   },
   {
     "login": "CamDavidsonPilon",
@@ -277,7 +296,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 20,
-    "score": 6783
+    "score": 6783,
+    "globalRank": 518
   },
   {
     "login": "brentvatne",
@@ -291,7 +311,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 21,
-    "score": 5798
+    "score": 5798,
+    "globalRank": 560
   },
   {
     "login": "ange-yaghi",
@@ -305,7 +326,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 22,
-    "score": 4997
+    "score": 4997,
+    "globalRank": 565
   },
   {
     "login": "KylerCondran",
@@ -319,7 +341,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 23,
-    "score": 4786
+    "score": 4786,
+    "globalRank": 584
   },
   {
     "login": "Xe",
@@ -333,7 +356,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 24,
-    "score": 7626
+    "score": 7626,
+    "globalRank": 630
   },
   {
     "login": "nayuki",
@@ -347,7 +371,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 25,
-    "score": 3918
+    "score": 3918,
+    "globalRank": 683
   },
   {
     "login": "sigridjineth",
@@ -361,7 +386,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 26,
-    "score": 7040
+    "score": 7040,
+    "globalRank": 711
   },
   {
     "login": "stemmlerjs",
@@ -375,7 +401,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 27,
-    "score": 3650
+    "score": 3650,
+    "globalRank": 725
   },
   {
     "login": "ashfurrow",
@@ -389,7 +416,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 28,
-    "score": 4681
+    "score": 4681,
+    "globalRank": 726
   },
   {
     "login": "CobwebCoin",
@@ -403,7 +431,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 29,
-    "score": 3439
+    "score": 3439,
+    "globalRank": 780
   },
   {
     "login": "dgryski",
@@ -417,7 +446,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 30,
-    "score": 3511
+    "score": 3511,
+    "globalRank": 834
   },
   {
     "login": "Seif-01",
@@ -431,7 +461,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 31,
-    "score": 3728
+    "score": 3728,
+    "globalRank": 845
   },
   {
     "login": "kallaway",
@@ -445,7 +476,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 32,
-    "score": 3775
+    "score": 3775,
+    "globalRank": 927
   },
   {
     "login": "bluebinky",
@@ -459,7 +491,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 33,
-    "score": 3069
+    "score": 3069,
+    "globalRank": 931
   },
   {
     "login": "orangeduck",
@@ -473,7 +506,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 34,
-    "score": 3006
+    "score": 3006,
+    "globalRank": 979
   },
   {
     "login": "elebumm",
@@ -487,7 +521,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 35,
-    "score": 3033
+    "score": 3033,
+    "globalRank": 1058
   },
   {
     "login": "MylesBorins",
@@ -501,7 +536,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 36,
-    "score": 3191
+    "score": 3191,
+    "globalRank": 1067
   },
   {
     "login": "micaelomota",
@@ -515,7 +551,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 37,
-    "score": 3462
+    "score": 3462,
+    "globalRank": 1070
   },
   {
     "login": "maximecb",
@@ -529,7 +566,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 38,
-    "score": 3975
+    "score": 3975,
+    "globalRank": 1071
   },
   {
     "login": "kevinjycui",
@@ -543,7 +581,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 39,
-    "score": 3119
+    "score": 3119,
+    "globalRank": 1142
   },
   {
     "login": "johnafish",
@@ -557,7 +596,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 40,
-    "score": 2576
+    "score": 2576,
+    "globalRank": 1148
   },
   {
     "login": "vsavkin",
@@ -571,7 +611,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 41,
-    "score": 3823
+    "score": 3823,
+    "globalRank": 1160
   },
   {
     "login": "drehimself",
@@ -585,7 +626,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 42,
-    "score": 2924
+    "score": 2924,
+    "globalRank": 1213
   },
   {
     "login": "dmitshur",
@@ -599,7 +641,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 43,
-    "score": 2891
+    "score": 2891,
+    "globalRank": 1220
   },
   {
     "login": "clauderic",
@@ -613,7 +656,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 44,
-    "score": 4650
+    "score": 4650,
+    "globalRank": 1238
   },
   {
     "login": "brettcannon",
@@ -627,7 +671,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 45,
-    "score": 4619
+    "score": 4619,
+    "globalRank": 1249
   },
   {
     "login": "stas00",
@@ -641,7 +686,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 46,
-    "score": 2808
+    "score": 2808,
+    "globalRank": 1253
   },
   {
     "login": "basir",
@@ -655,7 +701,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 47,
-    "score": 2417
+    "score": 2417,
+    "globalRank": 1303
   },
   {
     "login": "priya-dwivedi",
@@ -669,7 +716,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 48,
-    "score": 2374
+    "score": 2374,
+    "globalRank": 1360
   },
   {
     "login": "anshlambagit",
@@ -683,7 +731,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 49,
-    "score": 2661
+    "score": 2661,
+    "globalRank": 1368
   },
   {
     "login": "daattali",
@@ -697,7 +746,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 50,
-    "score": 2569
+    "score": 2569,
+    "globalRank": 1404
   },
   {
     "login": "rspivak",
@@ -711,7 +761,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 51,
-    "score": 2306
+    "score": 2306,
+    "globalRank": 1405
   },
   {
     "login": "behdad",
@@ -725,7 +776,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 52,
-    "score": 7711
+    "score": 7711,
+    "globalRank": 1410
   },
   {
     "login": "petertodd",
@@ -739,7 +791,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 53,
-    "score": 2275
+    "score": 2275,
+    "globalRank": 1443
   },
   {
     "login": "yacineMTB",
@@ -753,7 +806,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 54,
-    "score": 2749
+    "score": 2749,
+    "globalRank": 1446
   },
   {
     "login": "chenyuntc",
@@ -767,7 +821,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 55,
-    "score": 2290
+    "score": 2290,
+    "globalRank": 1455
   },
   {
     "login": "samanthaming",
@@ -781,7 +836,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 56,
-    "score": 2168
+    "score": 2168,
+    "globalRank": 1462
   },
   {
     "login": "jamiepine",
@@ -795,7 +851,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 57,
-    "score": 10582
+    "score": 10582,
+    "globalRank": 1474
   },
   {
     "login": "Kulbear",
@@ -809,7 +866,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 58,
-    "score": 2154
+    "score": 2154,
+    "globalRank": 1475
   },
   {
     "login": "piyushsachdeva",
@@ -823,7 +881,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 59,
-    "score": 2744
+    "score": 2744,
+    "globalRank": 1494
   },
   {
     "login": "michaelshimeles",
@@ -837,7 +896,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 60,
-    "score": 5503
+    "score": 5503,
+    "globalRank": 1519
   },
   {
     "login": "dsherret",
@@ -851,7 +911,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 61,
-    "score": 5766
+    "score": 5766,
+    "globalRank": 1525
   },
   {
     "login": "MarshallOfSound",
@@ -865,7 +926,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 62,
-    "score": 7989
+    "score": 7989,
+    "globalRank": 1533
   },
   {
     "login": "thestinger",
@@ -879,7 +941,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 63,
-    "score": 9747
+    "score": 9747,
+    "globalRank": 1581
   },
   {
     "login": "omenking",
@@ -893,7 +956,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 64,
-    "score": 2174
+    "score": 2174,
+    "globalRank": 1597
   },
   {
     "login": "michaelklishin",
@@ -907,7 +971,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 65,
-    "score": 7727
+    "score": 7727,
+    "globalRank": 1618
   },
   {
     "login": "jpsim",
@@ -921,7 +986,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 66,
-    "score": 2145
+    "score": 2145,
+    "globalRank": 1634
   },
   {
     "login": "danluu",
@@ -935,7 +1001,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 67,
-    "score": 2030
+    "score": 2030,
+    "globalRank": 1641
   },
   {
     "login": "fnando",
@@ -949,7 +1016,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 68,
-    "score": 4245
+    "score": 4245,
+    "globalRank": 1645
   },
   {
     "login": "codereport",
@@ -963,7 +1031,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 69,
-    "score": 4463
+    "score": 4463,
+    "globalRank": 1652
   },
   {
     "login": "vladikoff",
@@ -977,7 +1046,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 70,
-    "score": 2924
+    "score": 2924,
+    "globalRank": 1676
   },
   {
     "login": "tandasat",
@@ -991,7 +1061,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 71,
-    "score": 2219
+    "score": 2219,
+    "globalRank": 1682
   },
   {
     "login": "guybedford",
@@ -1005,7 +1076,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 72,
-    "score": 4099
+    "score": 4099,
+    "globalRank": 1685
   },
   {
     "login": "ajinabraham",
@@ -1019,7 +1091,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 73,
-    "score": 2838
+    "score": 2838,
+    "globalRank": 1722
   },
   {
     "login": "brianleroux",
@@ -1033,7 +1106,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 74,
-    "score": 2317
+    "score": 2317,
+    "globalRank": 1732
   },
   {
     "login": "benfred",
@@ -1047,7 +1121,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 75,
-    "score": 2170
+    "score": 2170,
+    "globalRank": 1752
   },
   {
     "login": "raganwald",
@@ -1061,7 +1136,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 76,
-    "score": 2049
+    "score": 2049,
+    "globalRank": 1781
   },
   {
     "login": "MatthewMacri",
@@ -1075,7 +1151,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 77,
-    "score": 2273
+    "score": 2273,
+    "globalRank": 1782
   },
   {
     "login": "StevenBlack",
@@ -1089,7 +1166,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 78,
-    "score": 4135
+    "score": 4135,
+    "globalRank": 1809
   },
   {
     "login": "Alecaddd",
@@ -1103,7 +1181,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 79,
-    "score": 2031
+    "score": 2031,
+    "globalRank": 1826
   },
   {
     "login": "airyland",
@@ -1117,7 +1196,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 80,
-    "score": 11353
+    "score": 11353,
+    "globalRank": 1835
   },
   {
     "login": "travisjeffery",
@@ -1131,7 +1211,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 81,
-    "score": 3288
+    "score": 3288,
+    "globalRank": 1863
   },
   {
     "login": "tanmayb123",
@@ -1145,7 +1226,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 82,
-    "score": 1796
+    "score": 1796,
+    "globalRank": 1866
   },
   {
     "login": "darcyclarke",
@@ -1159,7 +1241,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 83,
-    "score": 2996
+    "score": 2996,
+    "globalRank": 1900
   },
   {
     "login": "NoelFB",
@@ -1173,7 +1256,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 84,
-    "score": 1860
+    "score": 1860,
+    "globalRank": 1929
   },
   {
     "login": "submitaitools",
@@ -1187,7 +1271,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 85,
-    "score": 1776
+    "score": 1776,
+    "globalRank": 1943
   },
   {
     "login": "ajayyy",
@@ -1201,7 +1286,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 86,
-    "score": 2506
+    "score": 2506,
+    "globalRank": 2043
   },
   {
     "login": "adam-p",
@@ -1215,7 +1301,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 87,
-    "score": 2586
+    "score": 2586,
+    "globalRank": 2052
   },
   {
     "login": "DrWaleedAYousef",
@@ -1229,7 +1316,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 88,
-    "score": 1661
+    "score": 1661,
+    "globalRank": 2079
   },
   {
     "login": "cuducos",
@@ -1243,7 +1331,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 89,
-    "score": 3508
+    "score": 3508,
+    "globalRank": 2081
   },
   {
     "login": "lmcinnes",
@@ -1257,7 +1346,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 90,
-    "score": 2439
+    "score": 2439,
+    "globalRank": 2100
   },
   {
     "login": "rich-iannone",
@@ -1271,7 +1361,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 91,
-    "score": 10683
+    "score": 10683,
+    "globalRank": 2122
   },
   {
     "login": "louisfb01",
@@ -1285,7 +1376,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 92,
-    "score": 1669
+    "score": 1669,
+    "globalRank": 2136
   },
   {
     "login": "richlander",
@@ -1299,7 +1391,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 93,
-    "score": 4415
+    "score": 4415,
+    "globalRank": 2165
   },
   {
     "login": "Redth",
@@ -1313,7 +1406,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 94,
-    "score": 4306
+    "score": 4306,
+    "globalRank": 2176
   },
   {
     "login": "ricmoo",
@@ -1327,7 +1421,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 95,
-    "score": 1754
+    "score": 1754,
+    "globalRank": 2251
   },
   {
     "login": "jamii",
@@ -1341,7 +1436,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 96,
-    "score": 2146
+    "score": 2146,
+    "globalRank": 2253
   },
   {
     "login": "adv4000",
@@ -1355,7 +1451,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 97,
-    "score": 2100
+    "score": 2100,
+    "globalRank": 2335
   },
   {
     "login": "RMerl",
@@ -1369,7 +1466,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 98,
-    "score": 1756
+    "score": 1756,
+    "globalRank": 2346
   },
   {
     "login": "aburkov",
@@ -1383,7 +1481,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 99,
-    "score": 1511
+    "score": 1511,
+    "globalRank": 2357
   },
   {
     "login": "PrinceGoblinTech",
@@ -1397,7 +1496,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 100,
-    "score": 1476
+    "score": 1476,
+    "globalRank": 2360
   },
   {
     "login": "steph3nm",
@@ -1411,7 +1511,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 101,
-    "score": 1697
+    "score": 1697,
+    "globalRank": 2416
   },
   {
     "login": "TarrySingh",
@@ -1425,7 +1526,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 102,
-    "score": 3850
+    "score": 3850,
+    "globalRank": 2461
   },
   {
     "login": "EQuimper",
@@ -1439,7 +1541,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 103,
-    "score": 3517
+    "score": 3517,
+    "globalRank": 2469
   },
   {
     "login": "ggreer",
@@ -1453,7 +1556,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 104,
-    "score": 3502
+    "score": 3502,
+    "globalRank": 2493
   },
   {
     "login": "chris1111",
@@ -1467,7 +1571,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 105,
-    "score": 2638
+    "score": 2638,
+    "globalRank": 2496
   },
   {
     "login": "abbycabs",
@@ -1481,7 +1586,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 106,
-    "score": 2047
+    "score": 2047,
+    "globalRank": 2506
   },
   {
     "login": "ehoneahobed",
@@ -1495,7 +1601,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 107,
-    "score": 4997
+    "score": 4997,
+    "globalRank": 2507
   },
   {
     "login": "luisguiserrano",
@@ -1509,7 +1616,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 108,
-    "score": 1464
+    "score": 1464,
+    "globalRank": 2527
   },
   {
     "login": "JasonEtco",
@@ -1523,7 +1631,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 109,
-    "score": 5189
+    "score": 5189,
+    "globalRank": 2530
   },
   {
     "login": "craffel",
@@ -1537,7 +1646,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 110,
-    "score": 1621
+    "score": 1621,
+    "globalRank": 2535
   },
   {
     "login": "nicobailon",
@@ -1551,7 +1661,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 111,
-    "score": 4229
+    "score": 4229,
+    "globalRank": 2547
   },
   {
     "login": "shelhamer",
@@ -1565,7 +1676,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 112,
-    "score": 1458
+    "score": 1458,
+    "globalRank": 2600
   },
   {
     "login": "znck",
@@ -1579,7 +1691,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 113,
-    "score": 2328
+    "score": 2328,
+    "globalRank": 2609
   },
   {
     "login": "cr-0w",
@@ -1593,7 +1706,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 114,
-    "score": 1497
+    "score": 1497,
+    "globalRank": 2620
   },
   {
     "login": "automateyournetwork",
@@ -1607,7 +1721,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 115,
-    "score": 2618
+    "score": 2618,
+    "globalRank": 2629
   },
   {
     "login": "jtemporal",
@@ -1621,7 +1736,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 116,
-    "score": 3114
+    "score": 3114,
+    "globalRank": 2633
   },
   {
     "login": "MustangYM",
@@ -1635,7 +1751,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 117,
-    "score": 1538
+    "score": 1538,
+    "globalRank": 2667
   },
   {
     "login": "alecjacobson",
@@ -1649,7 +1766,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 118,
-    "score": 1664
+    "score": 1664,
+    "globalRank": 2673
   },
   {
     "login": "defuse",
@@ -1663,7 +1781,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 119,
-    "score": 4284
+    "score": 4284,
+    "globalRank": 2683
   },
   {
     "login": "jhawthorn",
@@ -1677,7 +1796,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 120,
-    "score": 2544
+    "score": 2544,
+    "globalRank": 2701
   },
   {
     "login": "ferd",
@@ -1691,7 +1811,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 121,
-    "score": 2597
+    "score": 2597,
+    "globalRank": 2703
   },
   {
     "login": "wiseodd",
@@ -1705,7 +1826,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 122,
-    "score": 2945
+    "score": 2945,
+    "globalRank": 2715
   },
   {
     "login": "markstory",
@@ -1719,7 +1841,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 123,
-    "score": 7076
+    "score": 7076,
+    "globalRank": 2728
   },
   {
     "login": "nneonneo",
@@ -1733,7 +1856,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 124,
-    "score": 1480
+    "score": 1480,
+    "globalRank": 2750
   },
   {
     "login": "syl20bnr",
@@ -1747,7 +1871,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 125,
-    "score": 3295
+    "score": 3295,
+    "globalRank": 2761
   },
   {
     "login": "macournoyer",
@@ -1761,7 +1886,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 126,
-    "score": 3738
+    "score": 3738,
+    "globalRank": 2762
   },
   {
     "login": "prof3ssorSt3v3",
@@ -1775,7 +1901,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 127,
-    "score": 3244
+    "score": 3244,
+    "globalRank": 2774
   },
   {
     "login": "f2prateek",
@@ -1789,7 +1916,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 128,
-    "score": 1293
+    "score": 1293,
+    "globalRank": 2818
   },
   {
     "login": "sgrvinod",
@@ -1803,7 +1931,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 129,
-    "score": 1284
+    "score": 1284,
+    "globalRank": 2836
   },
   {
     "login": "mosabua",
@@ -1817,7 +1946,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 130,
-    "score": 2336
+    "score": 2336,
+    "globalRank": 2845
   },
   {
     "login": "joelhooks",
@@ -1831,7 +1961,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 131,
-    "score": 13699
+    "score": 13699,
+    "globalRank": 2853
   },
   {
     "login": "johanbrandhorst",
@@ -1845,7 +1976,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 132,
-    "score": 2823
+    "score": 2823,
+    "globalRank": 2915
   },
   {
     "login": "Gaohaoyang",
@@ -1859,7 +1991,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 133,
-    "score": 3346
+    "score": 3346,
+    "globalRank": 2938
   },
   {
     "login": "apenwarr",
@@ -1873,7 +2006,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 134,
-    "score": 1583
+    "score": 1583,
+    "globalRank": 2957
   },
   {
     "login": "winlinvip",
@@ -1887,7 +2021,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 135,
-    "score": 1695
+    "score": 1695,
+    "globalRank": 2958
   },
   {
     "login": "shazow",
@@ -1901,7 +2036,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 136,
-    "score": 2379
+    "score": 2379,
+    "globalRank": 2982
   },
   {
     "login": "logaretm",
@@ -1915,7 +2051,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 137,
-    "score": 2625
+    "score": 2625,
+    "globalRank": 2998
   },
   {
     "login": "hejazizo",
@@ -1929,7 +2066,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 138,
-    "score": 1679
+    "score": 1679,
+    "globalRank": 3036
   },
   {
     "login": "DustinBrett",
@@ -1943,7 +2081,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 139,
-    "score": 1339
+    "score": 1339,
+    "globalRank": 3044
   },
   {
     "login": "k4yt3x",
@@ -1957,7 +2096,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 140,
-    "score": 3732
+    "score": 3732,
+    "globalRank": 3050
   },
   {
     "login": "andresvidoza",
@@ -1971,7 +2111,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 141,
-    "score": 1229
+    "score": 1229,
+    "globalRank": 3051
   },
   {
     "login": "GDColon",
@@ -1985,7 +2126,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 142,
-    "score": 1303
+    "score": 1303,
+    "globalRank": 3060
   },
   {
     "login": "AlexiaJM",
@@ -1999,7 +2141,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 143,
-    "score": 1629
+    "score": 1629,
+    "globalRank": 3091
   },
   {
     "login": "winkerVSbecks",
@@ -2013,7 +2156,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 144,
-    "score": 2827
+    "score": 2827,
+    "globalRank": 3106
   },
   {
     "login": "gvwilson",
@@ -2027,7 +2171,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 145,
-    "score": 4200
+    "score": 4200,
+    "globalRank": 3139
   },
   {
     "login": "enderh3art",
@@ -2041,7 +2186,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 146,
-    "score": 2848
+    "score": 2848,
+    "globalRank": 3166
   },
   {
     "login": "sachac",
@@ -2055,7 +2201,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 147,
-    "score": 1691
+    "score": 1691,
+    "globalRank": 3178
   },
   {
     "login": "JunMa11",
@@ -2069,7 +2216,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 148,
-    "score": 1221
+    "score": 1221,
+    "globalRank": 3187
   },
   {
     "login": "guillaume-chevalier",
@@ -2083,7 +2231,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 149,
-    "score": 1175
+    "score": 1175,
+    "globalRank": 3224
   },
   {
     "login": "BracketCove",
@@ -2097,7 +2246,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 150,
-    "score": 1166
+    "score": 1166,
+    "globalRank": 3225
   },
   {
     "login": "mistydemeo",
@@ -2111,7 +2261,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 151,
-    "score": 2587
+    "score": 2587,
+    "globalRank": 3275
   },
   {
     "login": "leighhalliday",
@@ -2125,7 +2276,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 152,
-    "score": 2800
+    "score": 2800,
+    "globalRank": 3289
   },
   {
     "login": "gahogg",
@@ -2139,7 +2291,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 153,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 3314
   },
   {
     "login": "ziishaned",
@@ -2153,7 +2306,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 154,
-    "score": 2216
+    "score": 2216,
+    "globalRank": 3315
   },
   {
     "login": "Mariatta",
@@ -2167,7 +2321,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 155,
-    "score": 2181
+    "score": 2181,
+    "globalRank": 3360
   },
   {
     "login": "stgraber",
@@ -2181,7 +2336,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 156,
-    "score": 8398
+    "score": 8398,
+    "globalRank": 3502
   },
   {
     "login": "ZainJavaid",
@@ -2195,7 +2351,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 157,
-    "score": 1785
+    "score": 1785,
+    "globalRank": 3507
   },
   {
     "login": "pahimar",
@@ -2209,7 +2366,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 158,
-    "score": 1103
+    "score": 1103,
+    "globalRank": 3508
   },
   {
     "login": "dzenbot",
@@ -2223,7 +2381,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 159,
-    "score": 1479
+    "score": 1479,
+    "globalRank": 3530
   },
   {
     "login": "yogthos",
@@ -2237,7 +2396,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 160,
-    "score": 2053
+    "score": 2053,
+    "globalRank": 3560
   },
   {
     "login": "nandanmen",
@@ -2251,7 +2411,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 161,
-    "score": 1517
+    "score": 1517,
+    "globalRank": 3588
   },
   {
     "login": "danielstern",
@@ -2265,7 +2426,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 162,
-    "score": 1072
+    "score": 1072,
+    "globalRank": 3617
   },
   {
     "login": "artkirienko",
@@ -2279,7 +2441,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 163,
-    "score": 1485
+    "score": 1485,
+    "globalRank": 3626
   },
   {
     "login": "0xmurtimus",
@@ -2293,7 +2456,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 164,
-    "score": 1753
+    "score": 1753,
+    "globalRank": 3627
   },
   {
     "login": "brunoborges",
@@ -2307,7 +2471,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 165,
-    "score": 5443
+    "score": 5443,
+    "globalRank": 3643
   },
   {
     "login": "expede",
@@ -2321,7 +2486,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 166,
-    "score": 1877
+    "score": 1877,
+    "globalRank": 3682
   },
   {
     "login": "0xAdafang",
@@ -2335,7 +2501,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 167,
-    "score": 1720
+    "score": 1720,
+    "globalRank": 3739
   },
   {
     "login": "humphd",
@@ -2349,7 +2516,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 168,
-    "score": 1869
+    "score": 1869,
+    "globalRank": 3795
   },
   {
     "login": "caitp",
@@ -2363,7 +2531,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 169,
-    "score": 1034
+    "score": 1034,
+    "globalRank": 3811
   },
   {
     "login": "UdaraJay",
@@ -2377,7 +2546,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 170,
-    "score": 2648
+    "score": 2648,
+    "globalRank": 3816
   },
   {
     "login": "k88hudson",
@@ -2391,7 +2561,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 171,
-    "score": 1259
+    "score": 1259,
+    "globalRank": 3830
   },
   {
     "login": "jlipps",
@@ -2405,7 +2576,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 172,
-    "score": 1073
+    "score": 1073,
+    "globalRank": 3852
   },
   {
     "login": "Supremenottee",
@@ -2419,7 +2591,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 173,
-    "score": 1568
+    "score": 1568,
+    "globalRank": 3866
   },
   {
     "login": "niivu",
@@ -2433,7 +2606,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 174,
-    "score": 1012
+    "score": 1012,
+    "globalRank": 3876
   },
   {
     "login": "ninjamuffin99",
@@ -2447,7 +2621,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 175,
-    "score": 1235
+    "score": 1235,
+    "globalRank": 3895
   },
   {
     "login": "srid",
@@ -2461,7 +2636,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 176,
-    "score": 7397
+    "score": 7397,
+    "globalRank": 3901
   },
   {
     "login": "tavisrudd",
@@ -2475,7 +2651,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 177,
-    "score": 3320
+    "score": 3320,
+    "globalRank": 3928
   },
   {
     "login": "chenkie",
@@ -2489,7 +2666,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 178,
-    "score": 1001
+    "score": 1001,
+    "globalRank": 3934
   },
   {
     "login": "nicolaskruchten",
@@ -2503,7 +2681,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 179,
-    "score": 1699
+    "score": 1699,
+    "globalRank": 3944
   },
   {
     "login": "jamonholmgren",
@@ -2517,7 +2696,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 180,
-    "score": 5421
+    "score": 5421,
+    "globalRank": 3956
   },
   {
     "login": "ghqc",
@@ -2531,7 +2711,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 181,
-    "score": 993
+    "score": 993,
+    "globalRank": 3970
   },
   {
     "login": "zziz",
@@ -2545,7 +2726,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 182,
-    "score": 984
+    "score": 984,
+    "globalRank": 4027
   },
   {
     "login": "Rishit-dagli",
@@ -2559,7 +2741,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 183,
-    "score": 2962
+    "score": 2962,
+    "globalRank": 4065
   },
   {
     "login": "GunterMueller",
@@ -2573,7 +2756,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 184,
-    "score": 1102
+    "score": 1102,
+    "globalRank": 4073
   },
   {
     "login": "dcomartin",
@@ -2587,7 +2771,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 185,
-    "score": 971
+    "score": 971,
+    "globalRank": 4093
   },
   {
     "login": "StewartLynch",
@@ -2601,7 +2786,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 186,
-    "score": 1348
+    "score": 1348,
+    "globalRank": 4116
   },
   {
     "login": "jb55",
@@ -2615,7 +2801,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 187,
-    "score": 2750
+    "score": 2750,
+    "globalRank": 4151
   },
   {
     "login": "gschier",
@@ -2629,7 +2816,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 188,
-    "score": 7019
+    "score": 7019,
+    "globalRank": 4178
   },
   {
     "login": "alice-i-cecile",
@@ -2643,7 +2831,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 189,
-    "score": 4457
+    "score": 4457,
+    "globalRank": 4199
   },
   {
     "login": "barry-far",
@@ -2657,7 +2846,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 190,
-    "score": 1540
+    "score": 1540,
+    "globalRank": 4219
   },
   {
     "login": "ImranR98",
@@ -2671,7 +2861,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 191,
-    "score": 2018
+    "score": 2018,
+    "globalRank": 4260
   },
   {
     "login": "Pomax",
@@ -2685,7 +2876,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 192,
-    "score": 2086
+    "score": 2086,
+    "globalRank": 4261
   },
   {
     "login": "KalobTaulien",
@@ -2699,7 +2891,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 193,
-    "score": 1613
+    "score": 1613,
+    "globalRank": 4288
   },
   {
     "login": "tsawler",
@@ -2713,7 +2906,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 194,
-    "score": 5234
+    "score": 5234,
+    "globalRank": 4298
   },
   {
     "login": "Te-k",
@@ -2727,7 +2921,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 195,
-    "score": 1070
+    "score": 1070,
+    "globalRank": 4317
   },
   {
     "login": "dcaoyuan",
@@ -2741,7 +2936,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 196,
-    "score": 2103
+    "score": 2103,
+    "globalRank": 4324
   },
   {
     "login": "xuebinqin",
@@ -2755,7 +2951,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 197,
-    "score": 923
+    "score": 923,
+    "globalRank": 4365
   },
   {
     "login": "Thibaut",
@@ -2769,7 +2966,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 198,
-    "score": 978
+    "score": 978,
+    "globalRank": 4408
   },
   {
     "login": "iansu",
@@ -2783,7 +2981,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 199,
-    "score": 981
+    "score": 981,
+    "globalRank": 4418
   },
   {
     "login": "ruyadorno",
@@ -2797,7 +2996,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 200,
-    "score": 2031
+    "score": 2031,
+    "globalRank": 4436
   },
   {
     "login": "iceburgcrm",
@@ -2811,7 +3011,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 201,
-    "score": 911
+    "score": 911,
+    "globalRank": 4465
   },
   {
     "login": "danderson",
@@ -2825,7 +3026,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 202,
-    "score": 1006
+    "score": 1006,
+    "globalRank": 4514
   },
   {
     "login": "mykeels",
@@ -2839,7 +3041,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 203,
-    "score": 1006
+    "score": 1006,
+    "globalRank": 4527
   },
   {
     "login": "nicholas-leonard",
@@ -2853,7 +3056,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 204,
-    "score": 921
+    "score": 921,
+    "globalRank": 4535
   },
   {
     "login": "ldionne",
@@ -2867,7 +3071,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 205,
-    "score": 2217
+    "score": 2217,
+    "globalRank": 4643
   },
   {
     "login": "qgallouedec",
@@ -2881,7 +3086,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 206,
-    "score": 4891
+    "score": 4891,
+    "globalRank": 4648
   },
   {
     "login": "sojoudian",
@@ -2895,7 +3101,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 207,
-    "score": 2128
+    "score": 2128,
+    "globalRank": 4667
   },
   {
     "login": "BenEmdon",
@@ -2909,7 +3116,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 208,
-    "score": 1396
+    "score": 1396,
+    "globalRank": 4706
   },
   {
     "login": "anthonychu",
@@ -2923,7 +3131,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 209,
-    "score": 1920
+    "score": 1920,
+    "globalRank": 4721
   },
   {
     "login": "meziantou",
@@ -2937,7 +3146,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 210,
-    "score": 3981
+    "score": 3981,
+    "globalRank": 4775
   },
   {
     "login": "dansup",
@@ -2951,7 +3161,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 211,
-    "score": 4156
+    "score": 4156,
+    "globalRank": 4776
   },
   {
     "login": "awakecoding",
@@ -2965,7 +3176,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 212,
-    "score": 1253
+    "score": 1253,
+    "globalRank": 4811
   },
   {
     "login": "Krasjet",
@@ -2979,7 +3191,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 213,
-    "score": 1446
+    "score": 1446,
+    "globalRank": 4832
   },
   {
     "login": "benvinegar",
@@ -2993,7 +3206,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 214,
-    "score": 4972
+    "score": 4972,
+    "globalRank": 4842
   },
   {
     "login": "steveluscher",
@@ -3007,7 +3221,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 215,
-    "score": 1642
+    "score": 1642,
+    "globalRank": 4870
   },
   {
     "login": "khoih-prog",
@@ -3021,7 +3236,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 216,
-    "score": 849
+    "score": 849,
+    "globalRank": 4886
   },
   {
     "login": "ahmedfgad",
@@ -3035,7 +3251,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 217,
-    "score": 2783
+    "score": 2783,
+    "globalRank": 4901
   },
   {
     "login": "PhotonQuantum",
@@ -3049,7 +3266,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 218,
-    "score": 1806
+    "score": 1806,
+    "globalRank": 4936
   },
   {
     "login": "adambard",
@@ -3063,7 +3281,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 219,
-    "score": 832
+    "score": 832,
+    "globalRank": 4959
   },
   {
     "login": "Trumeet",
@@ -3077,7 +3296,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 220,
-    "score": 840
+    "score": 840,
+    "globalRank": 4980
   },
   {
     "login": "vincentarelbundock",
@@ -3091,7 +3311,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 221,
-    "score": 2944
+    "score": 2944,
+    "globalRank": 4987
   },
   {
     "login": "aritchie",
@@ -3105,7 +3326,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 222,
-    "score": 4116
+    "score": 4116,
+    "globalRank": 4995
   },
   {
     "login": "backmeupplz",
@@ -3119,7 +3341,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 223,
-    "score": 3959
+    "score": 3959,
+    "globalRank": 4996
   },
   {
     "login": "ggoodman",
@@ -3133,7 +3356,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 224,
-    "score": 1891
+    "score": 1891,
+    "globalRank": 5024
   },
   {
     "login": "mattmassicotte",
@@ -3147,7 +3371,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 225,
-    "score": 1419
+    "score": 1419,
+    "globalRank": 5086
   },
   {
     "login": "pramsey",
@@ -3161,7 +3386,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 226,
-    "score": 1173
+    "score": 1173,
+    "globalRank": 5103
   },
   {
     "login": "jgrandja",
@@ -3175,7 +3401,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 227,
-    "score": 1171
+    "score": 1171,
+    "globalRank": 5110
   },
   {
     "login": "vdumoulin",
@@ -3189,7 +3416,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 228,
-    "score": 812
+    "score": 812,
+    "globalRank": 5133
   },
   {
     "login": "yrashk",
@@ -3203,7 +3431,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 229,
-    "score": 4544
+    "score": 4544,
+    "globalRank": 5144
   },
   {
     "login": "daffl",
@@ -3217,7 +3446,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 230,
-    "score": 1437
+    "score": 1437,
+    "globalRank": 5159
   },
   {
     "login": "janicduplessis",
@@ -3231,7 +3461,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 231,
-    "score": 2324
+    "score": 2324,
+    "globalRank": 5163
   },
   {
     "login": "blueberrymusic",
@@ -3245,7 +3476,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 232,
-    "score": 847
+    "score": 847,
+    "globalRank": 5204
   },
   {
     "login": "chrismattmann",
@@ -3259,7 +3491,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 233,
-    "score": 851
+    "score": 851,
+    "globalRank": 5263
   },
   {
     "login": "SwapnilSoni1999",
@@ -3273,7 +3506,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 234,
-    "score": 2531
+    "score": 2531,
+    "globalRank": 5270
   },
   {
     "login": "steveseguin",
@@ -3287,7 +3521,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 235,
-    "score": 6123
+    "score": 6123,
+    "globalRank": 5281
   },
   {
     "login": "ploopyco",
@@ -3301,7 +3536,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 236,
-    "score": 836
+    "score": 836,
+    "globalRank": 5336
   },
   {
     "login": "fpgadeveloper",
@@ -3315,7 +3551,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 237,
-    "score": 1298
+    "score": 1298,
+    "globalRank": 5358
   },
   {
     "login": "Roger-luo",
@@ -3329,7 +3566,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 238,
-    "score": 2655
+    "score": 2655,
+    "globalRank": 5369
   },
   {
     "login": "nikolovlazar",
@@ -3343,7 +3581,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 239,
-    "score": 2538
+    "score": 2538,
+    "globalRank": 5370
   },
   {
     "login": "AtotheY",
@@ -3357,7 +3596,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 240,
-    "score": 2235
+    "score": 2235,
+    "globalRank": 5432
   },
   {
     "login": "6hislain",
@@ -3371,7 +3611,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 241,
-    "score": 1456
+    "score": 1456,
+    "globalRank": 5454
   },
   {
     "login": "sahmed01a",
@@ -3385,7 +3626,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 242,
-    "score": 807
+    "score": 807,
+    "globalRank": 5466
   },
   {
     "login": "xinshuoweng",
@@ -3399,7 +3641,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 243,
-    "score": 765
+    "score": 765,
+    "globalRank": 5500
   },
   {
     "login": "MirzaBeig",
@@ -3413,7 +3656,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 244,
-    "score": 772
+    "score": 772,
+    "globalRank": 5501
   },
   {
     "login": "lizthegrey",
@@ -3427,7 +3671,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 245,
-    "score": 1960
+    "score": 1960,
+    "globalRank": 5515
   },
   {
     "login": "mravanelli",
@@ -3441,7 +3686,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 246,
-    "score": 762
+    "score": 762,
+    "globalRank": 5529
   },
   {
     "login": "owenthereal",
@@ -3455,7 +3701,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 247,
-    "score": 1299
+    "score": 1299,
+    "globalRank": 5537
   },
   {
     "login": "ClementTsang",
@@ -3469,7 +3716,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 248,
-    "score": 1510
+    "score": 1510,
+    "globalRank": 5573
   },
   {
     "login": "nickmccullum",
@@ -3483,7 +3731,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 249,
-    "score": 6894
+    "score": 6894,
+    "globalRank": 5596
   },
   {
     "login": "OlivierLaflamme",
@@ -3497,7 +3746,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 250,
-    "score": 784
+    "score": 784,
+    "globalRank": 5609
   },
   {
     "login": "alex000kim",
@@ -3511,7 +3761,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 251,
-    "score": 2813
+    "score": 2813,
+    "globalRank": 5617
   },
   {
     "login": "nisargpatel28",
@@ -3525,7 +3776,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 252,
-    "score": 1051
+    "score": 1051,
+    "globalRank": 5622
   },
   {
     "login": "jsoref",
@@ -3539,7 +3791,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 253,
-    "score": 6324
+    "score": 6324,
+    "globalRank": 5635
   },
   {
     "login": "sb-ocr",
@@ -3553,7 +3806,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 254,
-    "score": 771
+    "score": 771,
+    "globalRank": 5644
   },
   {
     "login": "ibraheemdev",
@@ -3567,7 +3821,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 255,
-    "score": 1539
+    "score": 1539,
+    "globalRank": 5654
   },
   {
     "login": "TechHutTV",
@@ -3581,7 +3836,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 256,
-    "score": 1813
+    "score": 1813,
+    "globalRank": 5655
   },
   {
     "login": "shopizer-ecommerce",
@@ -3595,7 +3851,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 257,
-    "score": 794
+    "score": 794,
+    "globalRank": 5660
   },
   {
     "login": "ruby0x1",
@@ -3609,7 +3866,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 258,
-    "score": 2440
+    "score": 2440,
+    "globalRank": 5707
   },
   {
     "login": "isadorasophia",
@@ -3623,7 +3881,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 259,
-    "score": 3979
+    "score": 3979,
+    "globalRank": 5755
   },
   {
     "login": "stevebauman",
@@ -3637,7 +3896,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 260,
-    "score": 7265
+    "score": 7265,
+    "globalRank": 5764
   },
   {
     "login": "IronWarrior",
@@ -3651,7 +3911,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 261,
-    "score": 729
+    "score": 729,
+    "globalRank": 5765
   },
   {
     "login": "ela-codes",
@@ -3665,7 +3926,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 262,
-    "score": 985
+    "score": 985,
+    "globalRank": 5775
   },
   {
     "login": "paleolimbot",
@@ -3679,7 +3941,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 263,
-    "score": 2955
+    "score": 2955,
+    "globalRank": 5780
   },
   {
     "login": "xinychen",
@@ -3693,7 +3956,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 264,
-    "score": 1505
+    "score": 1505,
+    "globalRank": 5810
   },
   {
     "login": "hyc0812",
@@ -3707,7 +3971,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 265,
-    "score": 824
+    "score": 824,
+    "globalRank": 5819
   },
   {
     "login": "00-Evan",
@@ -3721,7 +3986,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 266,
-    "score": 1306
+    "score": 1306,
+    "globalRank": 5830
   },
   {
     "login": "iH8sn0w",
@@ -3735,7 +4001,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 267,
-    "score": 721
+    "score": 721,
+    "globalRank": 5831
   },
   {
     "login": "jeromegn",
@@ -3749,7 +4016,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 268,
-    "score": 776
+    "score": 776,
+    "globalRank": 5843
   },
   {
     "login": "jlesage",
@@ -3763,7 +4031,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 269,
-    "score": 3217
+    "score": 3217,
+    "globalRank": 5848
   },
   {
     "login": "nickytonline",
@@ -3777,7 +4046,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 270,
-    "score": 3689
+    "score": 3689,
+    "globalRank": 5865
   },
   {
     "login": "ahmadnassri",
@@ -3791,7 +4061,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 271,
-    "score": 1393
+    "score": 1393,
+    "globalRank": 5866
   },
   {
     "login": "kulkarniankita",
@@ -3805,7 +4076,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 272,
-    "score": 1412
+    "score": 1412,
+    "globalRank": 5886
   },
   {
     "login": "guilleiguaran",
@@ -3819,7 +4091,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 273,
-    "score": 1829
+    "score": 1829,
+    "globalRank": 5921
   },
   {
     "login": "pojntfx",
@@ -3833,7 +4106,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 274,
-    "score": 4142
+    "score": 4142,
+    "globalRank": 5934
   },
   {
     "login": "sjackman",
@@ -3847,7 +4121,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 275,
-    "score": 1493
+    "score": 1493,
+    "globalRank": 5950
   },
   {
     "login": "hrs",
@@ -3861,7 +4136,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 276,
-    "score": 924
+    "score": 924,
+    "globalRank": 6000
   },
   {
     "login": "sniklaus",
@@ -3875,7 +4151,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 277,
-    "score": 729
+    "score": 729,
+    "globalRank": 6024
   },
   {
     "login": "nschonni",
@@ -3889,7 +4166,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 278,
-    "score": 1113
+    "score": 1113,
+    "globalRank": 6075
   },
   {
     "login": "milon",
@@ -3903,7 +4181,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 279,
-    "score": 4820
+    "score": 4820,
+    "globalRank": 6138
   },
   {
     "login": "marclaporte",
@@ -3917,7 +4196,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 280,
-    "score": 753
+    "score": 753,
+    "globalRank": 6162
   },
   {
     "login": "marcopeix",
@@ -3931,7 +4211,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 281,
-    "score": 993
+    "score": 993,
+    "globalRank": 6163
   },
   {
     "login": "scottdurow",
@@ -3945,7 +4226,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 282,
-    "score": 1306
+    "score": 1306,
+    "globalRank": 6176
   },
   {
     "login": "logan-markewich",
@@ -3959,7 +4241,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 283,
-    "score": 4810
+    "score": 4810,
+    "globalRank": 6187
   },
   {
     "login": "RangerMauve",
@@ -3973,7 +4256,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 284,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 6199
   },
   {
     "login": "jaysoo",
@@ -3987,7 +4271,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 285,
-    "score": 3676
+    "score": 3676,
+    "globalRank": 6206
   },
   {
     "login": "hi-caicai",
@@ -4001,7 +4286,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 286,
-    "score": 693
+    "score": 693,
+    "globalRank": 6218
   },
   {
     "login": "luanpotter",
@@ -4015,7 +4301,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 287,
-    "score": 7154
+    "score": 7154,
+    "globalRank": 6269
   },
   {
     "login": "ujihisa",
@@ -4029,7 +4316,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 288,
-    "score": 7035
+    "score": 7035,
+    "globalRank": 6280
   },
   {
     "login": "s-rah",
@@ -4043,7 +4331,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 289,
-    "score": 671
+    "score": 671,
+    "globalRank": 6298
   },
   {
     "login": "HamedBahram",
@@ -4057,7 +4346,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 290,
-    "score": 8539
+    "score": 8539,
+    "globalRank": 6332
   },
   {
     "login": "lidaobing",
@@ -4071,7 +4361,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 291,
-    "score": 745
+    "score": 745,
+    "globalRank": 6368
   },
   {
     "login": "lstein",
@@ -4085,7 +4376,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 292,
-    "score": 1776
+    "score": 1776,
+    "globalRank": 6377
   },
   {
     "login": "bloc97",
@@ -4099,7 +4391,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 293,
-    "score": 671
+    "score": 671,
+    "globalRank": 6429
   },
   {
     "login": "vito",
@@ -4113,7 +4406,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 294,
-    "score": 2942
+    "score": 2942,
+    "globalRank": 6455
   },
   {
     "login": "flukeout",
@@ -4127,7 +4421,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 295,
-    "score": 661
+    "score": 661,
+    "globalRank": 6500
   },
   {
     "login": "NGPixel",
@@ -4141,7 +4436,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 296,
-    "score": 2602
+    "score": 2602,
+    "globalRank": 6501
   },
   {
     "login": "Alex-Unnippillil",
@@ -4155,7 +4451,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 297,
-    "score": 24418
+    "score": 24418,
+    "globalRank": 6534
   },
   {
     "login": "d4l3k",
@@ -4169,7 +4466,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 298,
-    "score": 1370
+    "score": 1370,
+    "globalRank": 6548
   },
   {
     "login": "rokon12",
@@ -4183,7 +4481,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 299,
-    "score": 2490
+    "score": 2490,
+    "globalRank": 6561
   },
   {
     "login": "TMRh20",
@@ -4197,7 +4496,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 300,
-    "score": 964
+    "score": 964,
+    "globalRank": 6569
   },
   {
     "login": "STRRL",
@@ -4211,7 +4511,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 301,
-    "score": 2947
+    "score": 2947,
+    "globalRank": 6585
   },
   {
     "login": "mahdibland",
@@ -4225,7 +4526,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 302,
-    "score": 641
+    "score": 641,
+    "globalRank": 6591
   },
   {
     "login": "egoan82",
@@ -4239,7 +4541,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 303,
-    "score": 1611
+    "score": 1611,
+    "globalRank": 6607
   },
   {
     "login": "trentm",
@@ -4253,7 +4556,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 304,
-    "score": 2286
+    "score": 2286,
+    "globalRank": 6616
   },
   {
     "login": "muratcankoylan",
@@ -4267,7 +4571,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 305,
-    "score": 2413
+    "score": 2413,
+    "globalRank": 6617
   },
   {
     "login": "davechurchill",
@@ -4281,7 +4586,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 306,
-    "score": 804
+    "score": 804,
+    "globalRank": 6627
   },
   {
     "login": "snwh",
@@ -4295,7 +4601,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 307,
-    "score": 659
+    "score": 659,
+    "globalRank": 6668
   },
   {
     "login": "davidrosenberg",
@@ -4309,7 +4616,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 308,
-    "score": 633
+    "score": 633,
+    "globalRank": 6683
   },
   {
     "login": "spencermountain",
@@ -4323,7 +4631,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 309,
-    "score": 2603
+    "score": 2603,
+    "globalRank": 6684
   },
   {
     "login": "aidangomez",
@@ -4337,7 +4646,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 310,
-    "score": 633
+    "score": 633,
+    "globalRank": 6685
   },
   {
     "login": "positlabs",
@@ -4351,7 +4661,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 311,
-    "score": 637
+    "score": 637,
+    "globalRank": 6702
   },
   {
     "login": "josh0xA",
@@ -4365,7 +4676,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 312,
-    "score": 713
+    "score": 713,
+    "globalRank": 6714
   },
   {
     "login": "eviltrout",
@@ -4379,7 +4691,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 313,
-    "score": 631
+    "score": 631,
+    "globalRank": 6715
   },
   {
     "login": "Idnan",
@@ -4393,7 +4706,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 314,
-    "score": 4764
+    "score": 4764,
+    "globalRank": 6731
   },
   {
     "login": "timbeiko",
@@ -4407,7 +4721,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 315,
-    "score": 888
+    "score": 888,
+    "globalRank": 6745
   },
   {
     "login": "fwang",
@@ -4421,7 +4736,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 316,
-    "score": 1178
+    "score": 1178,
+    "globalRank": 6767
   },
   {
     "login": "tangjianpku",
@@ -4435,7 +4751,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 317,
-    "score": 626
+    "score": 626,
+    "globalRank": 6779
   },
   {
     "login": "tiredofit",
@@ -4449,7 +4766,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 318,
-    "score": 4510
+    "score": 4510,
+    "globalRank": 6780
   },
   {
     "login": "kirannasim",
@@ -4463,7 +4781,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 319,
-    "score": 851
+    "score": 851,
+    "globalRank": 6781
   },
   {
     "login": "abatchy17",
@@ -4477,7 +4796,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 320,
-    "score": 653
+    "score": 653,
+    "globalRank": 6792
   },
   {
     "login": "vipulasri",
@@ -4491,7 +4811,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 321,
-    "score": 1254
+    "score": 1254,
+    "globalRank": 6803
   },
   {
     "login": "mercuryseries",
@@ -4505,7 +4826,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 322,
-    "score": 835
+    "score": 835,
+    "globalRank": 6804
   },
   {
     "login": "RyanFitzgerald",
@@ -4519,7 +4841,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 323,
-    "score": 2522
+    "score": 2522,
+    "globalRank": 6805
   },
   {
     "login": "fantix",
@@ -4533,7 +4856,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 324,
-    "score": 1217
+    "score": 1217,
+    "globalRank": 6835
   },
   {
     "login": "meech-ward",
@@ -4547,7 +4871,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 325,
-    "score": 676
+    "score": 676,
+    "globalRank": 6850
   },
   {
     "login": "zhimin-z",
@@ -4561,7 +4886,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 326,
-    "score": 5397
+    "score": 5397,
+    "globalRank": 6877
   },
   {
     "login": "ahmedkhaleel2004",
@@ -4575,7 +4901,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 327,
-    "score": 896
+    "score": 896,
+    "globalRank": 6903
   },
   {
     "login": "Pathoschild",
@@ -4589,7 +4916,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 328,
-    "score": 2020
+    "score": 2020,
+    "globalRank": 6925
   },
   {
     "login": "ptarjan",
@@ -4603,7 +4931,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 329,
-    "score": 2816
+    "score": 2816,
+    "globalRank": 6934
   },
   {
     "login": "mhammond",
@@ -4617,7 +4946,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 330,
-    "score": 1403
+    "score": 1403,
+    "globalRank": 6935
   },
   {
     "login": "elbruno",
@@ -4631,7 +4961,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 331,
-    "score": 7454
+    "score": 7454,
+    "globalRank": 6960
   },
   {
     "login": "jamesagnew",
@@ -4645,7 +4976,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 332,
-    "score": 1113
+    "score": 1113,
+    "globalRank": 7008
   },
   {
     "login": "jaredreich",
@@ -4659,7 +4991,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 333,
-    "score": 632
+    "score": 632,
+    "globalRank": 7029
   },
   {
     "login": "Ylarod",
@@ -4673,7 +5006,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 334,
-    "score": 2036
+    "score": 2036,
+    "globalRank": 7038
   },
   {
     "login": "nathantannar4",
@@ -4687,7 +5021,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 335,
-    "score": 3658
+    "score": 3658,
+    "globalRank": 7039
   },
   {
     "login": "glouw",
@@ -4701,7 +5036,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 336,
-    "score": 872
+    "score": 872,
+    "globalRank": 7046
   },
   {
     "login": "connorferster",
@@ -4715,7 +5051,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 337,
-    "score": 1973
+    "score": 1973,
+    "globalRank": 7086
   },
   {
     "login": "odziem",
@@ -4729,7 +5066,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 338,
-    "score": 1347
+    "score": 1347,
+    "globalRank": 7096
   },
   {
     "login": "christinatruong",
@@ -4743,7 +5081,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 339,
-    "score": 619
+    "score": 619,
+    "globalRank": 7122
   },
   {
     "login": "burke",
@@ -4757,7 +5096,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 340,
-    "score": 10603
+    "score": 10603,
+    "globalRank": 7123
   },
   {
     "login": "gf3",
@@ -4771,7 +5111,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 341,
-    "score": 1688
+    "score": 1688,
+    "globalRank": 7124
   },
   {
     "login": "CuriousLearner",
@@ -4785,7 +5126,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 342,
-    "score": 954
+    "score": 954,
+    "globalRank": 7130
   },
   {
     "login": "krrish94",
@@ -4799,7 +5141,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 343,
-    "score": 640
+    "score": 640,
+    "globalRank": 7143
   },
   {
     "login": "andydbc",
@@ -4813,7 +5156,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 344,
-    "score": 3630
+    "score": 3630,
+    "globalRank": 7152
   },
   {
     "login": "cenkalti",
@@ -4827,7 +5171,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 345,
-    "score": 1984
+    "score": 1984,
+    "globalRank": 7175
   },
   {
     "login": "MaddyThorson",
@@ -4841,7 +5186,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 346,
-    "score": 728
+    "score": 728,
+    "globalRank": 7196
   },
   {
     "login": "darrelmiller",
@@ -4855,7 +5201,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 347,
-    "score": 2046
+    "score": 2046,
+    "globalRank": 7208
   },
   {
     "login": "mezzoblue",
@@ -4869,7 +5216,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 348,
-    "score": 585
+    "score": 585,
+    "globalRank": 7230
   },
   {
     "login": "olado",
@@ -4883,7 +5231,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 349,
-    "score": 584
+    "score": 584,
+    "globalRank": 7238
   },
   {
     "login": "aaronmcleancs",
@@ -4897,7 +5246,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 350,
-    "score": 604
+    "score": 604,
+    "globalRank": 7253
   },
   {
     "login": "eyaltoledano",
@@ -4911,7 +5261,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 351,
-    "score": 2850
+    "score": 2850,
+    "globalRank": 7268
   },
   {
     "login": "Gh0u1L5",
@@ -4925,7 +5276,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 352,
-    "score": 585
+    "score": 585,
+    "globalRank": 7297
   },
   {
     "login": "pvh",
@@ -4939,7 +5291,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 353,
-    "score": 754
+    "score": 754,
+    "globalRank": 7298
   },
   {
     "login": "ALEHACKsp",
@@ -4953,7 +5306,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 354,
-    "score": 579
+    "score": 579,
+    "globalRank": 7313
   },
   {
     "login": "fserb",
@@ -4967,7 +5321,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 355,
-    "score": 2343
+    "score": 2343,
+    "globalRank": 7314
   },
   {
     "login": "dkubb",
@@ -4981,7 +5336,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 356,
-    "score": 6646
+    "score": 6646,
+    "globalRank": 7354
   },
   {
     "login": "cv",
@@ -4995,7 +5351,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 357,
-    "score": 3492
+    "score": 3492,
+    "globalRank": 7355
   },
   {
     "login": "Glavin001",
@@ -5009,7 +5366,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 358,
-    "score": 9922
+    "score": 9922,
+    "globalRank": 7399
   },
   {
     "login": "morgan3d",
@@ -5023,7 +5381,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 359,
-    "score": 12346
+    "score": 12346,
+    "globalRank": 7400
   },
   {
     "login": "FaisalAbid",
@@ -5037,7 +5396,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 360,
-    "score": 3364
+    "score": 3364,
+    "globalRank": 7416
   },
   {
     "login": "portfoliocourses",
@@ -5051,7 +5411,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 361,
-    "score": 592
+    "score": 592,
+    "globalRank": 7451
   },
   {
     "login": "ellekasai",
@@ -5065,7 +5426,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 362,
-    "score": 568
+    "score": 568,
+    "globalRank": 7452
   },
   {
     "login": "mobinni",
@@ -5079,7 +5441,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 363,
-    "score": 1576
+    "score": 1576,
+    "globalRank": 7482
   },
   {
     "login": "miketang84",
@@ -5093,7 +5456,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 364,
-    "score": 655
+    "score": 655,
+    "globalRank": 7498
   },
   {
     "login": "christocracy",
@@ -5107,7 +5471,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 365,
-    "score": 2305
+    "score": 2305,
+    "globalRank": 7510
   },
   {
     "login": "anniebombanie",
@@ -5121,7 +5486,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 366,
-    "score": 1149
+    "score": 1149,
+    "globalRank": 7533
   },
   {
     "login": "Yukaii",
@@ -5135,7 +5501,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 367,
-    "score": 3131
+    "score": 3131,
+    "globalRank": 7561
   },
   {
     "login": "RobLoach",
@@ -5149,7 +5516,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 368,
-    "score": 3857
+    "score": 3857,
+    "globalRank": 7572
   },
   {
     "login": "dimitriwalters",
@@ -5163,7 +5531,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 369,
-    "score": 557
+    "score": 557,
+    "globalRank": 7601
   },
   {
     "login": "choudharymanish8585",
@@ -5177,7 +5546,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 370,
-    "score": 553
+    "score": 553,
+    "globalRank": 7629
   },
   {
     "login": "fand",
@@ -5191,7 +5561,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 371,
-    "score": 2088
+    "score": 2088,
+    "globalRank": 7654
   },
   {
     "login": "scottschiller",
@@ -5205,7 +5576,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 372,
-    "score": 684
+    "score": 684,
+    "globalRank": 7668
   },
   {
     "login": "huyphams",
@@ -5219,7 +5591,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 373,
-    "score": 1957
+    "score": 1957,
+    "globalRank": 7724
   },
   {
     "login": "h3xstream",
@@ -5233,7 +5606,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 374,
-    "score": 588
+    "score": 588,
+    "globalRank": 7776
   },
   {
     "login": "benui-dev",
@@ -5247,7 +5621,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 375,
-    "score": 553
+    "score": 553,
+    "globalRank": 7777
   },
   {
     "login": "iurimatias",
@@ -5261,7 +5636,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 376,
-    "score": 2323
+    "score": 2323,
+    "globalRank": 7818
   },
   {
     "login": "carolineschnapp",
@@ -5275,7 +5651,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 377,
-    "score": 1335
+    "score": 1335,
+    "globalRank": 7852
   },
   {
     "login": "dnephin",
@@ -5289,7 +5666,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 378,
-    "score": 903
+    "score": 903,
+    "globalRank": 7853
   },
   {
     "login": "starcraft66",
@@ -5303,7 +5681,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 379,
-    "score": 3104
+    "score": 3104,
+    "globalRank": 7924
   },
   {
     "login": "sylveon",
@@ -5317,7 +5696,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 380,
-    "score": 851
+    "score": 851,
+    "globalRank": 7935
   },
   {
     "login": "TheYahya",
@@ -5331,7 +5711,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 381,
-    "score": 2062
+    "score": 2062,
+    "globalRank": 7949
   },
   {
     "login": "erickzhao",
@@ -5345,7 +5726,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 382,
-    "score": 2971
+    "score": 2971,
+    "globalRank": 7959
   },
   {
     "login": "scrumtuous",
@@ -5359,7 +5741,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 383,
-    "score": 536
+    "score": 536,
+    "globalRank": 7960
   },
   {
     "login": "naomijub",
@@ -5373,7 +5756,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 384,
-    "score": 1620
+    "score": 1620,
+    "globalRank": 8015
   },
   {
     "login": "win32ss",
@@ -5387,7 +5771,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 385,
-    "score": 525
+    "score": 525,
+    "globalRank": 8016
   },
   {
     "login": "dolevf",
@@ -5401,7 +5786,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 386,
-    "score": 546
+    "score": 546,
+    "globalRank": 8017
   },
   {
     "login": "eapache",
@@ -5415,7 +5801,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 387,
-    "score": 544
+    "score": 544,
+    "globalRank": 8056
   },
   {
     "login": "aarnphm",
@@ -5429,7 +5816,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 388,
-    "score": 2358
+    "score": 2358,
+    "globalRank": 8073
   },
   {
     "login": "andymckay",
@@ -5443,7 +5831,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 389,
-    "score": 1280
+    "score": 1280,
+    "globalRank": 8106
   },
   {
     "login": "CalebBell",
@@ -5457,7 +5846,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 390,
-    "score": 768
+    "score": 768,
+    "globalRank": 8107
   },
   {
     "login": "DylanVann",
@@ -5471,7 +5861,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 391,
-    "score": 592
+    "score": 592,
+    "globalRank": 8124
   },
   {
     "login": "alinz",
@@ -5485,7 +5876,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 392,
-    "score": 1589
+    "score": 1589,
+    "globalRank": 8137
   },
   {
     "login": "bacongobbler",
@@ -5499,7 +5891,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 393,
-    "score": 1454
+    "score": 1454,
+    "globalRank": 8138
   },
   {
     "login": "Qard",
@@ -5513,7 +5906,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 394,
-    "score": 2068
+    "score": 2068,
+    "globalRank": 8162
   },
   {
     "login": "T-rustdev",
@@ -5527,7 +5921,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 395,
-    "score": 1810
+    "score": 1810,
+    "globalRank": 8176
   },
   {
     "login": "cboden",
@@ -5541,7 +5936,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 396,
-    "score": 2993
+    "score": 2993,
+    "globalRank": 8231
   },
   {
     "login": "kirs",
@@ -5555,7 +5951,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 397,
-    "score": 4184
+    "score": 4184,
+    "globalRank": 8232
   },
   {
     "login": "KlausMikhaelson",
@@ -5569,7 +5966,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 398,
-    "score": 1565
+    "score": 1565,
+    "globalRank": 8253
   },
   {
     "login": "RamziBach",
@@ -5583,7 +5981,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 399,
-    "score": 1195
+    "score": 1195,
+    "globalRank": 8289
   },
   {
     "login": "tsiliopoulos",
@@ -5597,7 +5996,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 400,
-    "score": 1252
+    "score": 1252,
+    "globalRank": 8290
   },
   {
     "login": "code-shoily",
@@ -5611,7 +6011,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 401,
-    "score": 2232
+    "score": 2232,
+    "globalRank": 8316
   },
   {
     "login": "danqzq",
@@ -5625,7 +6026,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 402,
-    "score": 1813
+    "score": 1813,
+    "globalRank": 8317
   },
   {
     "login": "npapernot",
@@ -5639,7 +6041,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 403,
-    "score": 503
+    "score": 503,
+    "globalRank": 8353
   },
   {
     "login": "kamiyaa",
@@ -5653,7 +6056,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 404,
-    "score": 893
+    "score": 893,
+    "globalRank": 8390
   },
   {
     "login": "IanDarwin",
@@ -5667,7 +6071,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 405,
-    "score": 1293
+    "score": 1293,
+    "globalRank": 8391
   },
   {
     "login": "Helios-Protocol",
@@ -5681,7 +6086,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 406,
-    "score": 499
+    "score": 499,
+    "globalRank": 8427
   },
   {
     "login": "emgucv",
@@ -5695,7 +6101,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 407,
-    "score": 750
+    "score": 750,
+    "globalRank": 8428
   },
   {
     "login": "romgrk",
@@ -5709,7 +6116,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 408,
-    "score": 1003
+    "score": 1003,
+    "globalRank": 8465
   },
   {
     "login": "developer9998",
@@ -5723,7 +6131,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 409,
-    "score": 1141
+    "score": 1141,
+    "globalRank": 8488
   },
   {
     "login": "saghen",
@@ -5737,7 +6146,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 410,
-    "score": 1932
+    "score": 1932,
+    "globalRank": 8504
   },
   {
     "login": "davemo",
@@ -5751,7 +6161,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 411,
-    "score": 1785
+    "score": 1785,
+    "globalRank": 8505
   },
   {
     "login": "jbrains",
@@ -5765,7 +6176,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 412,
-    "score": 520
+    "score": 520,
+    "globalRank": 8523
   },
   {
     "login": "c-smile",
@@ -5779,7 +6191,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 413,
-    "score": 496
+    "score": 496,
+    "globalRank": 8524
   },
   {
     "login": "Leask",
@@ -5793,7 +6206,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 414,
-    "score": 5401
+    "score": 5401,
+    "globalRank": 8525
   },
   {
     "login": "DaleSeo",
@@ -5807,7 +6221,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 415,
-    "score": 6052
+    "score": 6052,
+    "globalRank": 8572
   },
   {
     "login": "Xmader",
@@ -5821,7 +6236,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 416,
-    "score": 805
+    "score": 805,
+    "globalRank": 8584
   },
   {
     "login": "shayanb",
@@ -5835,7 +6251,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 417,
-    "score": 2519
+    "score": 2519,
+    "globalRank": 8585
   },
   {
     "login": "benluelo",
@@ -5849,7 +6266,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 418,
-    "score": 2116
+    "score": 2116,
+    "globalRank": 8586
   },
   {
     "login": "marcandre",
@@ -5863,7 +6281,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 419,
-    "score": 536
+    "score": 536,
+    "globalRank": 8659
   },
   {
     "login": "janetacarr",
@@ -5877,7 +6296,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 420,
-    "score": 576
+    "score": 576,
+    "globalRank": 8660
   },
   {
     "login": "davellanedam",
@@ -5891,7 +6311,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 421,
-    "score": 4119
+    "score": 4119,
+    "globalRank": 8661
   },
   {
     "login": "kisielk",
@@ -5905,7 +6326,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 422,
-    "score": 1333
+    "score": 1333,
+    "globalRank": 8724
   },
   {
     "login": "SamWilsn",
@@ -5919,7 +6341,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 423,
-    "score": 2944
+    "score": 2944,
+    "globalRank": 8725
   },
   {
     "login": "cgruber",
@@ -5933,7 +6356,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 424,
-    "score": 2066
+    "score": 2066,
+    "globalRank": 8726
   },
   {
     "login": "Wuziyi616",
@@ -5947,7 +6371,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 425,
-    "score": 617
+    "score": 617,
+    "globalRank": 8758
   },
   {
     "login": "DenisCarriere",
@@ -5961,7 +6386,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 426,
-    "score": 6896
+    "score": 6896,
+    "globalRank": 8779
   },
   {
     "login": "joshl26",
@@ -5975,7 +6401,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 427,
-    "score": 2250
+    "score": 2250,
+    "globalRank": 8848
   },
   {
     "login": "kakaroto",
@@ -5989,7 +6416,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 428,
-    "score": 733
+    "score": 733,
+    "globalRank": 8849
   },
   {
     "login": "JasonLovesDoggo",
@@ -6003,7 +6431,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 429,
-    "score": 8962
+    "score": 8962,
+    "globalRank": 8872
   },
   {
     "login": "evert",
@@ -6017,7 +6446,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 430,
-    "score": 3283
+    "score": 3283,
+    "globalRank": 8895
   },
   {
     "login": "davepagurek",
@@ -6031,7 +6461,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 431,
-    "score": 2707
+    "score": 2707,
+    "globalRank": 8917
   },
   {
     "login": "joshnuss",
@@ -6045,7 +6476,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 432,
-    "score": 1123
+    "score": 1123,
+    "globalRank": 8936
   },
   {
     "login": "hairyhenderson",
@@ -6059,7 +6491,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 433,
-    "score": 7702
+    "score": 7702,
+    "globalRank": 8966
   },
   {
     "login": "micahgodbolt",
@@ -6073,7 +6506,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 434,
-    "score": 613
+    "score": 613,
+    "globalRank": 8967
   },
   {
     "login": "rsaz",
@@ -6087,7 +6521,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 435,
-    "score": 1484
+    "score": 1484,
+    "globalRank": 8989
   },
   {
     "login": "san089",
@@ -6101,7 +6536,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 436,
-    "score": 468
+    "score": 468,
+    "globalRank": 8990
   },
   {
     "login": "ffdixon",
@@ -6115,7 +6551,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 437,
-    "score": 587
+    "score": 587,
+    "globalRank": 9008
   },
   {
     "login": "carlalexander",
@@ -6129,7 +6566,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 438,
-    "score": 1706
+    "score": 1706,
+    "globalRank": 9009
   },
   {
     "login": "mandiwise",
@@ -6143,7 +6581,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 439,
-    "score": 604
+    "score": 604,
+    "globalRank": 9042
   },
   {
     "login": "sudiptob2",
@@ -6157,7 +6596,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 440,
-    "score": 1998
+    "score": 1998,
+    "globalRank": 9085
   },
   {
     "login": "etimberg",
@@ -6171,7 +6611,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 441,
-    "score": 4826
+    "score": 4826,
+    "globalRank": 9086
   },
   {
     "login": "zhuzhuor",
@@ -6185,7 +6626,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 442,
-    "score": 711
+    "score": 711,
+    "globalRank": 9087
   },
   {
     "login": "rgrinberg",
@@ -6199,7 +6641,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 443,
-    "score": 2945
+    "score": 2945,
+    "globalRank": 9107
   },
   {
     "login": "nickgermaine",
@@ -6213,7 +6656,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 444,
-    "score": 468
+    "score": 468,
+    "globalRank": 9108
   },
   {
     "login": "martindurant",
@@ -6227,7 +6671,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 445,
-    "score": 1420
+    "score": 1420,
+    "globalRank": 9109
   },
   {
     "login": "dusty-phillips",
@@ -6241,7 +6686,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 446,
-    "score": 3048
+    "score": 3048,
+    "globalRank": 9110
   },
   {
     "login": "slamj1",
@@ -6255,7 +6701,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 447,
-    "score": 567
+    "score": 567,
+    "globalRank": 9126
   },
   {
     "login": "AnthonyCalandra",
@@ -6269,7 +6716,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 448,
-    "score": 508
+    "score": 508,
+    "globalRank": 9145
   },
   {
     "login": "phuc-mai",
@@ -6283,7 +6731,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 449,
-    "score": 457
+    "score": 457,
+    "globalRank": 9207
   },
   {
     "login": "cmyr",
@@ -6297,7 +6746,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 450,
-    "score": 2139
+    "score": 2139,
+    "globalRank": 9230
   },
   {
     "login": "pykello",
@@ -6311,7 +6761,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 451,
-    "score": 2592
+    "score": 2592,
+    "globalRank": 9231
   },
   {
     "login": "macdonst",
@@ -6325,7 +6776,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 452,
-    "score": 1626
+    "score": 1626,
+    "globalRank": 9232
   },
   {
     "login": "kingthorin",
@@ -6339,7 +6791,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 453,
-    "score": 4199
+    "score": 4199,
+    "globalRank": 9233
   },
   {
     "login": "acangiano",
@@ -6353,7 +6806,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 454,
-    "score": 1914
+    "score": 1914,
+    "globalRank": 9255
   },
   {
     "login": "nathany",
@@ -6367,7 +6821,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 455,
-    "score": 960
+    "score": 960,
+    "globalRank": 9256
   },
   {
     "login": "tristanhimmelman",
@@ -6381,7 +6836,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 456,
-    "score": 759
+    "score": 759,
+    "globalRank": 9271
   },
   {
     "login": "jaberg",
@@ -6395,7 +6851,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 457,
-    "score": 802
+    "score": 802,
+    "globalRank": 9290
   },
   {
     "login": "iamnbutler",
@@ -6409,7 +6866,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 458,
-    "score": 5211
+    "score": 5211,
+    "globalRank": 9291
   },
   {
     "login": "JLHwung",
@@ -6423,7 +6881,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 459,
-    "score": 1473
+    "score": 1473,
+    "globalRank": 9321
   },
   {
     "login": "lexmag",
@@ -6437,7 +6896,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 460,
-    "score": 653
+    "score": 653,
+    "globalRank": 9322
   },
   {
     "login": "iTaysonLab",
@@ -6451,7 +6911,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 461,
-    "score": 558
+    "score": 558,
+    "globalRank": 9345
   },
   {
     "login": "reinesana",
@@ -6465,7 +6926,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 462,
-    "score": 629
+    "score": 629,
+    "globalRank": 9346
   },
   {
     "login": "flar2",
@@ -6479,7 +6941,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 463,
-    "score": 450
+    "score": 450,
+    "globalRank": 9366
   },
   {
     "login": "r-park",
@@ -6493,7 +6956,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 464,
-    "score": 449
+    "score": 449,
+    "globalRank": 9394
   },
   {
     "login": "elliott-diy",
@@ -6507,7 +6971,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 465,
-    "score": 730
+    "score": 730,
+    "globalRank": 9420
   },
   {
     "login": "DroneBotWorkshop",
@@ -6521,7 +6986,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 466,
-    "score": 447
+    "score": 447,
+    "globalRank": 9439
   },
   {
     "login": "colinoflynn",
@@ -6535,7 +7001,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 467,
-    "score": 636
+    "score": 636,
+    "globalRank": 9466
   },
   {
     "login": "cvs0",
@@ -6549,7 +7016,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 468,
-    "score": 581
+    "score": 581,
+    "globalRank": 9490
   },
   {
     "login": "evanp",
@@ -6563,7 +7031,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 469,
-    "score": 3815
+    "score": 3815,
+    "globalRank": 9491
   },
   {
     "login": "fire",
@@ -6577,7 +7046,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 470,
-    "score": 8698
+    "score": 8698,
+    "globalRank": 9492
   },
   {
     "login": "ChevyRay",
@@ -6591,7 +7061,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 471,
-    "score": 678
+    "score": 678,
+    "globalRank": 9536
   },
   {
     "login": "xjasonlyu",
@@ -6605,7 +7076,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 472,
-    "score": 688
+    "score": 688,
+    "globalRank": 9582
   },
   {
     "login": "sfujim",
@@ -6619,7 +7091,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 473,
-    "score": 449
+    "score": 449,
+    "globalRank": 9583
   },
   {
     "login": "st3fan",
@@ -6633,7 +7106,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 474,
-    "score": 666
+    "score": 666,
+    "globalRank": 9611
   },
   {
     "login": "justinmeister",
@@ -6647,7 +7121,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 475,
-    "score": 439
+    "score": 439,
+    "globalRank": 9628
   },
   {
     "login": "negarjf",
@@ -6661,7 +7136,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 476,
-    "score": 439
+    "score": 439,
+    "globalRank": 9629
   },
   {
     "login": "maruel",
@@ -6675,7 +7151,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 477,
-    "score": 7989
+    "score": 7989,
+    "globalRank": 9654
   },
   {
     "login": "ariannedee",
@@ -6689,7 +7166,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 478,
-    "score": 816
+    "score": 816,
+    "globalRank": 9655
   },
   {
     "login": "bomberfish",
@@ -6703,7 +7181,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 479,
-    "score": 1312
+    "score": 1312,
+    "globalRank": 9681
   },
   {
     "login": "wb14123",
@@ -6717,7 +7196,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 480,
-    "score": 1407
+    "score": 1407,
+    "globalRank": 9724
   },
   {
     "login": "UBCx-Software-Construction",
@@ -6731,7 +7211,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 481,
-    "score": 433
+    "score": 433,
+    "globalRank": 9749
   },
   {
     "login": "RetroNick2020",
@@ -6745,7 +7226,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 482,
-    "score": 612
+    "score": 612,
+    "globalRank": 9750
   },
   {
     "login": "Shazwazza",
@@ -6759,7 +7241,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 483,
-    "score": 717
+    "score": 717,
+    "globalRank": 9779
   },
   {
     "login": "thomasjbradley",
@@ -6773,7 +7256,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 484,
-    "score": 455
+    "score": 455,
+    "globalRank": 9780
   },
   {
     "login": "baywet",
@@ -6787,7 +7271,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 485,
-    "score": 11104
+    "score": 11104,
+    "globalRank": 9797
   },
   {
     "login": "YogeshPateliOS",
@@ -6801,7 +7286,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 486,
-    "score": 432
+    "score": 432,
+    "globalRank": 9819
   },
   {
     "login": "agg23",
@@ -6815,7 +7301,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 487,
-    "score": 2076
+    "score": 2076,
+    "globalRank": 9842
   },
   {
     "login": "hwillson",
@@ -6829,7 +7316,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 488,
-    "score": 1927
+    "score": 1927,
+    "globalRank": 9843
   },
   {
     "login": "jimpick",
@@ -6843,7 +7331,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 489,
-    "score": 1360
+    "score": 1360,
+    "globalRank": 9870
   },
   {
     "login": "farmerbriantee",
@@ -6857,7 +7346,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 490,
-    "score": 1005
+    "score": 1005,
+    "globalRank": 9889
   },
   {
     "login": "noot",
@@ -6871,7 +7361,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 491,
-    "score": 1071
+    "score": 1071,
+    "globalRank": 9890
   },
   {
     "login": "keefo",
@@ -6885,7 +7376,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 492,
-    "score": 866
+    "score": 866,
+    "globalRank": 9891
   },
   {
     "login": "sam-github",
@@ -6899,7 +7391,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 493,
-    "score": 439
+    "score": 439,
+    "globalRank": 9915
   },
   {
     "login": "mgbellemare",
@@ -6913,7 +7406,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 494,
-    "score": 425
+    "score": 425,
+    "globalRank": 9950
   },
   {
     "login": "jakplugg",
@@ -6927,7 +7421,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 495,
-    "score": 425
+    "score": 425,
+    "globalRank": 9973
   },
   {
     "login": "codekojo",
@@ -6941,7 +7436,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 496,
-    "score": 844
+    "score": 844,
+    "globalRank": 9974
   },
   {
     "login": "bruno-garcia",
@@ -6955,7 +7451,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 497,
-    "score": 3182
+    "score": 3182,
+    "globalRank": 9975
   },
   {
     "login": "JacintoDesign",
@@ -6969,7 +7466,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 498,
-    "score": 555
+    "score": 555,
+    "globalRank": 9976
   },
   {
     "login": "GeorgeSeif",
@@ -6983,7 +7481,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 499,
-    "score": 463
+    "score": 463,
+    "globalRank": 9997
   },
   {
     "login": "TheJackForge",
@@ -6997,7 +7496,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 500,
-    "score": 423
+    "score": 423,
+    "globalRank": 9998
   },
   {
     "login": "cviebrock",
@@ -7011,7 +7511,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 501,
-    "score": 1172
+    "score": 1172,
+    "globalRank": 10040
   },
   {
     "login": "hougaard",
@@ -7025,7 +7526,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 502,
-    "score": 1029
+    "score": 1029,
+    "globalRank": 10064
   },
   {
     "login": "antonitz",
@@ -7039,7 +7541,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 503,
-    "score": 2872
+    "score": 2872,
+    "globalRank": 10065
   },
   {
     "login": "tdhock",
@@ -7053,7 +7556,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 504,
-    "score": 2626
+    "score": 2626,
+    "globalRank": 10092
   },
   {
     "login": "mizrael",
@@ -7067,7 +7571,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 505,
-    "score": 3471
+    "score": 3471,
+    "globalRank": 10125
   },
   {
     "login": "dgovil",
@@ -7081,7 +7586,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 506,
-    "score": 549
+    "score": 549,
+    "globalRank": 10151
   },
   {
     "login": "randomascii",
@@ -7095,7 +7601,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 507,
-    "score": 424
+    "score": 424,
+    "globalRank": 10152
   },
   {
     "login": "ReikaKalseki",
@@ -7109,7 +7616,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 508,
-    "score": 746
+    "score": 746,
+    "globalRank": 10192
   },
   {
     "login": "rafaelstz",
@@ -7123,7 +7631,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 509,
-    "score": 1476
+    "score": 1476,
+    "globalRank": 10223
   },
   {
     "login": "chxtan",
@@ -7137,7 +7646,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 510,
-    "score": 790
+    "score": 790,
+    "globalRank": 10254
   },
   {
     "login": "losingloonies",
@@ -7151,7 +7661,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 511,
-    "score": 426
+    "score": 426,
+    "globalRank": 10255
   },
   {
     "login": "polricart",
@@ -7165,7 +7676,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 512,
-    "score": 502
+    "score": 502,
+    "globalRank": 10256
   },
   {
     "login": "isaackogan",
@@ -7179,7 +7691,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 513,
-    "score": 1891
+    "score": 1891,
+    "globalRank": 10286
   },
   {
     "login": "mszoek",
@@ -7193,7 +7706,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 514,
-    "score": 769
+    "score": 769,
+    "globalRank": 10315
   },
   {
     "login": "jts",
@@ -7207,7 +7721,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 515,
-    "score": 428
+    "score": 428,
+    "globalRank": 10316
   },
   {
     "login": "fnichol",
@@ -7221,7 +7736,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 516,
-    "score": 1204
+    "score": 1204,
+    "globalRank": 10360
   },
   {
     "login": "swalkinshaw",
@@ -7235,7 +7751,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 517,
-    "score": 2832
+    "score": 2832,
+    "globalRank": 10390
   },
   {
     "login": "charpeni",
@@ -7249,7 +7766,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 518,
-    "score": 3199
+    "score": 3199,
+    "globalRank": 10391
   },
   {
     "login": "WolfgangOfner",
@@ -7263,7 +7781,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 519,
-    "score": 515
+    "score": 515,
+    "globalRank": 10392
   },
   {
     "login": "gwihlidal",
@@ -7277,7 +7796,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 520,
-    "score": 409
+    "score": 409,
+    "globalRank": 10419
   },
   {
     "login": "tom-weiland",
@@ -7291,7 +7811,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 521,
-    "score": 728
+    "score": 728,
+    "globalRank": 10446
   },
   {
     "login": "bhouston",
@@ -7305,7 +7826,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 522,
-    "score": 4207
+    "score": 4207,
+    "globalRank": 10447
   },
   {
     "login": "fardad",
@@ -7319,7 +7841,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 523,
-    "score": 446
+    "score": 446,
+    "globalRank": 10478
   },
   {
     "login": "jpyamamoto",
@@ -7333,7 +7856,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 524,
-    "score": 486
+    "score": 486,
+    "globalRank": 10479
   },
   {
     "login": "maxhumber",
@@ -7347,7 +7871,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 525,
-    "score": 412
+    "score": 412,
+    "globalRank": 10480
   },
   {
     "login": "jobovy",
@@ -7361,7 +7886,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 526,
-    "score": 762
+    "score": 762,
+    "globalRank": 10481
   },
   {
     "login": "reduce",
@@ -7375,7 +7901,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 527,
-    "score": 2636
+    "score": 2636,
+    "globalRank": 10512
   },
   {
     "login": "honza",
@@ -7389,7 +7916,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 528,
-    "score": 535
+    "score": 535,
+    "globalRank": 10513
   },
   {
     "login": "bruce",
@@ -7403,7 +7931,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 529,
-    "score": 1431
+    "score": 1431,
+    "globalRank": 10551
   },
   {
     "login": "xhluca",
@@ -7417,7 +7946,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 530,
-    "score": 2846
+    "score": 2846,
+    "globalRank": 10576
   },
   {
     "login": "javebratt",
@@ -7431,7 +7961,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 531,
-    "score": 1108
+    "score": 1108,
+    "globalRank": 10577
   },
   {
     "login": "ditn",
@@ -7445,7 +7976,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 532,
-    "score": 404
+    "score": 404,
+    "globalRank": 10661
   },
   {
     "login": "smithakolan",
@@ -7459,7 +7991,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 533,
-    "score": 692
+    "score": 692,
+    "globalRank": 10662
   },
   {
     "login": "bioinformatics-ca",
@@ -7473,7 +8006,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 534,
-    "score": 909
+    "score": 909,
+    "globalRank": 10696
   },
   {
     "login": "djirdehh",
@@ -7487,7 +8021,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 535,
-    "score": 1002
+    "score": 1002,
+    "globalRank": 10697
   },
   {
     "login": "eneskemalergin",
@@ -7501,7 +8036,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 536,
-    "score": 1845
+    "score": 1845,
+    "globalRank": 10724
   },
   {
     "login": "rlguy",
@@ -7515,7 +8051,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 537,
-    "score": 410
+    "score": 410,
+    "globalRank": 10725
   },
   {
     "login": "bmann",
@@ -7529,7 +8066,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 538,
-    "score": 639
+    "score": 639,
+    "globalRank": 10747
   },
   {
     "login": "adrianmcli",
@@ -7543,7 +8081,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 539,
-    "score": 409
+    "score": 409,
+    "globalRank": 10748
   },
   {
     "login": "matt-sd-watson",
@@ -7557,7 +8096,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 540,
-    "score": 989
+    "score": 989,
+    "globalRank": 10770
   },
   {
     "login": "piyush97",
@@ -7571,7 +8111,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 541,
-    "score": 1269
+    "score": 1269,
+    "globalRank": 10771
   },
   {
     "login": "xu-cheng",
@@ -7585,7 +8126,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 542,
-    "score": 708
+    "score": 708,
+    "globalRank": 10799
   },
   {
     "login": "n1ckfg",
@@ -7599,7 +8141,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 543,
-    "score": 1767
+    "score": 1767,
+    "globalRank": 10800
   },
   {
     "login": "darasls",
@@ -7613,7 +8156,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 544,
-    "score": 577
+    "score": 577,
+    "globalRank": 10824
   },
   {
     "login": "heybereket",
@@ -7627,7 +8171,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 545,
-    "score": 2701
+    "score": 2701,
+    "globalRank": 10848
   },
   {
     "login": "reunono",
@@ -7641,7 +8186,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 546,
-    "score": 1119
+    "score": 1119,
+    "globalRank": 10849
   },
   {
     "login": "chmln",
@@ -7655,7 +8201,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 547,
-    "score": 457
+    "score": 457,
+    "globalRank": 10850
   },
   {
     "login": "fmfn",
@@ -7669,7 +8216,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 548,
-    "score": 435
+    "score": 435,
+    "globalRank": 10878
   },
   {
     "login": "allanjude",
@@ -7683,7 +8231,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 549,
-    "score": 436
+    "score": 436,
+    "globalRank": 10879
   },
   {
     "login": "hyperneutrino",
@@ -7697,7 +8246,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 550,
-    "score": 1980
+    "score": 1980,
+    "globalRank": 10880
   },
   {
     "login": "Leoid",
@@ -7711,7 +8261,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 551,
-    "score": 393
+    "score": 393,
+    "globalRank": 10881
   },
   {
     "login": "wvanbergen",
@@ -7725,7 +8276,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 552,
-    "score": 1821
+    "score": 1821,
+    "globalRank": 10915
   },
   {
     "login": "turt2live",
@@ -7739,7 +8291,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 553,
-    "score": 2024
+    "score": 2024,
+    "globalRank": 10948
   },
   {
     "login": "magnologan",
@@ -7753,7 +8306,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 554,
-    "score": 513
+    "score": 513,
+    "globalRank": 10949
   },
   {
     "login": "tessalt",
@@ -7767,7 +8321,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 555,
-    "score": 1211
+    "score": 1211,
+    "globalRank": 10950
   },
   {
     "login": "Laisky",
@@ -7781,7 +8336,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 556,
-    "score": 1608
+    "score": 1608,
+    "globalRank": 10976
   },
   {
     "login": "lassoan",
@@ -7795,7 +8351,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 557,
-    "score": 1302
+    "score": 1302,
+    "globalRank": 10977
   },
   {
     "login": "bkonyi",
@@ -7809,7 +8366,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 558,
-    "score": 1382
+    "score": 1382,
+    "globalRank": 11001
   },
   {
     "login": "paigeruten",
@@ -7823,7 +8381,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 559,
-    "score": 1552
+    "score": 1552,
+    "globalRank": 11002
   },
   {
     "login": "lextm",
@@ -7837,7 +8396,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 560,
-    "score": 2648
+    "score": 2648,
+    "globalRank": 11032
   },
   {
     "login": "Spooks4576",
@@ -7851,7 +8411,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 561,
-    "score": 424
+    "score": 424,
+    "globalRank": 11033
   },
   {
     "login": "willfarrell",
@@ -7865,7 +8426,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 562,
-    "score": 3769
+    "score": 3769,
+    "globalRank": 11100
   },
   {
     "login": "cblecker",
@@ -7879,7 +8441,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 563,
-    "score": 1810
+    "score": 1810,
+    "globalRank": 11101
   },
   {
     "login": "danielberkompas",
@@ -7893,7 +8456,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 564,
-    "score": 841
+    "score": 841,
+    "globalRank": 11131
   },
   {
     "login": "Corb3nik",
@@ -7907,7 +8471,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 565,
-    "score": 4015
+    "score": 4015,
+    "globalRank": 11132
   },
   {
     "login": "cheezy",
@@ -7921,7 +8486,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 566,
-    "score": 2281
+    "score": 2281,
+    "globalRank": 11133
   },
   {
     "login": "jeromelaban",
@@ -7935,7 +8501,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 567,
-    "score": 7363
+    "score": 7363,
+    "globalRank": 11159
   },
   {
     "login": "tbakerx",
@@ -7949,7 +8516,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 568,
-    "score": 2854
+    "score": 2854,
+    "globalRank": 11193
   },
   {
     "login": "mystor",
@@ -7963,7 +8531,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 569,
-    "score": 823
+    "score": 823,
+    "globalRank": 11234
   },
   {
     "login": "mostlygeek",
@@ -7977,7 +8546,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 570,
-    "score": 1167
+    "score": 1167,
+    "globalRank": 11235
   },
   {
     "login": "henrytao-me",
@@ -7991,7 +8561,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 571,
-    "score": 2831
+    "score": 2831,
+    "globalRank": 11271
   },
   {
     "login": "bchambers",
@@ -8005,7 +8576,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 572,
-    "score": 380
+    "score": 380,
+    "globalRank": 11272
   },
   {
     "login": "ryanwinchester",
@@ -8019,7 +8591,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 573,
-    "score": 1753
+    "score": 1753,
+    "globalRank": 11300
   },
   {
     "login": "seananderson",
@@ -8033,7 +8606,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 574,
-    "score": 1823
+    "score": 1823,
+    "globalRank": 11333
   },
   {
     "login": "dsokoloski",
@@ -8047,7 +8621,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 575,
-    "score": 382
+    "score": 382,
+    "globalRank": 11334
   },
   {
     "login": "patcon",
@@ -8061,7 +8636,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 576,
-    "score": 4250
+    "score": 4250,
+    "globalRank": 11357
   },
   {
     "login": "itsdevbear",
@@ -8075,7 +8651,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 577,
-    "score": 1052
+    "score": 1052,
+    "globalRank": 11358
   },
   {
     "login": "lgritz",
@@ -8089,7 +8666,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 578,
-    "score": 1279
+    "score": 1279,
+    "globalRank": 11381
   },
   {
     "login": "cherifGsoul",
@@ -8103,7 +8681,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 579,
-    "score": 382
+    "score": 382,
+    "globalRank": 11428
   },
   {
     "login": "xuorig",
@@ -8117,7 +8696,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 580,
-    "score": 394
+    "score": 394,
+    "globalRank": 11462
   },
   {
     "login": "tomhodgins",
@@ -8131,7 +8711,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 581,
-    "score": 372
+    "score": 372,
+    "globalRank": 11517
   },
   {
     "login": "SUKHMAN-SINGH-1612",
@@ -8145,7 +8726,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 582,
-    "score": 755
+    "score": 755,
+    "globalRank": 11518
   },
   {
     "login": "lydrainbowcat",
@@ -8159,7 +8741,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 583,
-    "score": 374
+    "score": 374,
+    "globalRank": 11519
   },
   {
     "login": "filippbudko",
@@ -8173,7 +8756,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 584,
-    "score": 373
+    "score": 373,
+    "globalRank": 11520
   },
   {
     "login": "FrozenPandaz",
@@ -8187,7 +8771,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 585,
-    "score": 3164
+    "score": 3164,
+    "globalRank": 11521
   },
   {
     "login": "slemire",
@@ -8201,7 +8786,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 586,
-    "score": 684
+    "score": 684,
+    "globalRank": 11522
   },
   {
     "login": "loljoshie",
@@ -8215,7 +8801,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 587,
-    "score": 376
+    "score": 376,
+    "globalRank": 11555
   },
   {
     "login": "atgreen",
@@ -8229,7 +8816,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 588,
-    "score": 19363
+    "score": 19363,
+    "globalRank": 11598
   },
   {
     "login": "korymath",
@@ -8243,7 +8831,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 589,
-    "score": 370
+    "score": 370,
+    "globalRank": 11599
   },
   {
     "login": "jameskokoska",
@@ -8257,7 +8846,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 590,
-    "score": 615
+    "score": 615,
+    "globalRank": 11600
   },
   {
     "login": "ShMcK",
@@ -8271,7 +8861,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 591,
-    "score": 5155
+    "score": 5155,
+    "globalRank": 11636
   },
   {
     "login": "t-mullen",
@@ -8285,7 +8876,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 592,
-    "score": 701
+    "score": 701,
+    "globalRank": 11637
   },
   {
     "login": "moezbhatti",
@@ -8299,7 +8891,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 593,
-    "score": 1944
+    "score": 1944,
+    "globalRank": 11699
   },
   {
     "login": "presidentbeef",
@@ -8313,7 +8906,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 594,
-    "score": 1019
+    "score": 1019,
+    "globalRank": 11700
   },
   {
     "login": "hackman",
@@ -8327,7 +8921,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 595,
-    "score": 429
+    "score": 429,
+    "globalRank": 11733
   },
   {
     "login": "michaelfan0310",
@@ -8341,7 +8936,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 596,
-    "score": 366
+    "score": 366,
+    "globalRank": 11734
   },
   {
     "login": "qcoral",
@@ -8355,7 +8951,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 597,
-    "score": 1104
+    "score": 1104,
+    "globalRank": 11735
   },
   {
     "login": "jpmckinney",
@@ -8369,7 +8966,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 598,
-    "score": 3221
+    "score": 3221,
+    "globalRank": 11736
   },
   {
     "login": "bhavsec",
@@ -8383,7 +8981,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 599,
-    "score": 1644
+    "score": 1644,
+    "globalRank": 11776
   },
   {
     "login": "dete",
@@ -8397,7 +8996,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 600,
-    "score": 410
+    "score": 410,
+    "globalRank": 11777
   },
   {
     "login": "hiukim",
@@ -8411,7 +9011,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 601,
-    "score": 364
+    "score": 364,
+    "globalRank": 11812
   },
   {
     "login": "bonedaddy",
@@ -8425,7 +9026,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 602,
-    "score": 515
+    "score": 515,
+    "globalRank": 11854
   },
   {
     "login": "LPGhatguy",
@@ -8439,7 +9041,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 603,
-    "score": 1636
+    "score": 1636,
+    "globalRank": 11855
   },
   {
     "login": "una-dinosauria",
@@ -8453,7 +9056,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 604,
-    "score": 409
+    "score": 409,
+    "globalRank": 11856
   },
   {
     "login": "mpezeshki",
@@ -8467,7 +9071,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 605,
-    "score": 387
+    "score": 387,
+    "globalRank": 11857
   },
   {
     "login": "jblindsay",
@@ -8481,7 +9086,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 606,
-    "score": 918
+    "score": 918,
+    "globalRank": 11892
   },
   {
     "login": "zhangxiangxiao",
@@ -8495,7 +9101,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 607,
-    "score": 364
+    "score": 364,
+    "globalRank": 11893
   },
   {
     "login": "atesgoral",
@@ -8509,7 +9116,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 608,
-    "score": 7604
+    "score": 7604,
+    "globalRank": 11894
   },
   {
     "login": "deniseyu",
@@ -8523,7 +9131,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 609,
-    "score": 454
+    "score": 454,
+    "globalRank": 11895
   },
   {
     "login": "Breakthrough",
@@ -8537,7 +9146,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 610,
-    "score": 717
+    "score": 717,
+    "globalRank": 11926
   },
   {
     "login": "MattRix",
@@ -8551,7 +9161,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 611,
-    "score": 3256
+    "score": 3256,
+    "globalRank": 11973
   },
   {
     "login": "onlyswan",
@@ -8565,7 +9176,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 612,
-    "score": 360
+    "score": 360,
+    "globalRank": 11974
   },
   {
     "login": "ArtemXTech",
@@ -8579,7 +9191,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 613,
-    "score": 4364
+    "score": 4364,
+    "globalRank": 12016
   },
   {
     "login": "popekim",
@@ -8593,7 +9206,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 614,
-    "score": 811
+    "score": 811,
+    "globalRank": 12017
   },
   {
     "login": "alicoding",
@@ -8607,7 +9221,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 615,
-    "score": 5146
+    "score": 5146,
+    "globalRank": 12018
   },
   {
     "login": "andy-portmen",
@@ -8621,7 +9236,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 616,
-    "score": 393
+    "score": 393,
+    "globalRank": 12019
   },
   {
     "login": "jennifer-richards",
@@ -8635,7 +9251,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 617,
-    "score": 2210
+    "score": 2210,
+    "globalRank": 12098
   },
   {
     "login": "iamraphson",
@@ -8649,7 +9266,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 618,
-    "score": 2364
+    "score": 2364,
+    "globalRank": 12137
   },
   {
     "login": "edward",
@@ -8663,7 +9281,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 619,
-    "score": 354
+    "score": 354,
+    "globalRank": 12229
   },
   {
     "login": "runjuu",
@@ -8677,7 +9296,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 620,
-    "score": 2747
+    "score": 2747,
+    "globalRank": 12230
   },
   {
     "login": "okikio",
@@ -8691,7 +9311,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 621,
-    "score": 2290
+    "score": 2290,
+    "globalRank": 12231
   },
   {
     "login": "d12",
@@ -8705,7 +9326,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 622,
-    "score": 3059
+    "score": 3059,
+    "globalRank": 12291
   },
   {
     "login": "kobiso",
@@ -8719,7 +9341,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 623,
-    "score": 354
+    "score": 354,
+    "globalRank": 12319
   },
   {
     "login": "aminya",
@@ -8733,7 +9356,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 624,
-    "score": 6381
+    "score": 6381,
+    "globalRank": 12320
   },
   {
     "login": "mrlemoos",
@@ -8747,7 +9371,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 625,
-    "score": 3308
+    "score": 3308,
+    "globalRank": 12321
   },
   {
     "login": "yue9944882",
@@ -8761,7 +9386,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 626,
-    "score": 667
+    "score": 667,
+    "globalRank": 12378
   },
   {
     "login": "remi",
@@ -8775,7 +9401,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 627,
-    "score": 511
+    "score": 511,
+    "globalRank": 12379
   },
   {
     "login": "fangwei716",
@@ -8789,7 +9416,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 628,
-    "score": 400
+    "score": 400,
+    "globalRank": 12380
   },
   {
     "login": "vasanthv",
@@ -8803,7 +9431,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 629,
-    "score": 479
+    "score": 479,
+    "globalRank": 12381
   },
   {
     "login": "eni4sure",
@@ -8817,7 +9446,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 630,
-    "score": 2469
+    "score": 2469,
+    "globalRank": 12382
   },
   {
     "login": "hannorein",
@@ -8831,7 +9461,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 631,
-    "score": 2098
+    "score": 2098,
+    "globalRank": 12383
   },
   {
     "login": "Thinkright20",
@@ -8845,7 +9476,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 632,
-    "score": 349
+    "score": 349,
+    "globalRank": 12419
   },
   {
     "login": "leomaxi",
@@ -8859,7 +9491,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 633,
-    "score": 525
+    "score": 525,
+    "globalRank": 12461
   },
   {
     "login": "dlitz",
@@ -8873,7 +9506,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 634,
-    "score": 448
+    "score": 448,
+    "globalRank": 12462
   },
   {
     "login": "jasonkuhrt",
@@ -8887,7 +9521,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 635,
-    "score": 5650
+    "score": 5650,
+    "globalRank": 12463
   },
   {
     "login": "dpaquette",
@@ -8901,7 +9536,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 636,
-    "score": 393
+    "score": 393,
+    "globalRank": 12490
   },
   {
     "login": "silentrob",
@@ -8915,7 +9551,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 637,
-    "score": 376
+    "score": 376,
+    "globalRank": 12491
   },
   {
     "login": "awtkns",
@@ -8929,7 +9566,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 638,
-    "score": 2357
+    "score": 2357,
+    "globalRank": 12492
   },
   {
     "login": "chesterbr",
@@ -8943,7 +9581,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 639,
-    "score": 1244
+    "score": 1244,
+    "globalRank": 12523
   },
   {
     "login": "flovilmart",
@@ -8957,7 +9596,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 640,
-    "score": 1674
+    "score": 1674,
+    "globalRank": 12524
   },
   {
     "login": "fboucher",
@@ -8971,7 +9611,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 641,
-    "score": 2645
+    "score": 2645,
+    "globalRank": 12553
   },
   {
     "login": "HoussineMehnik",
@@ -8985,7 +9626,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 642,
-    "score": 352
+    "score": 352,
+    "globalRank": 12554
   },
   {
     "login": "kabiroberai",
@@ -8999,7 +9641,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 643,
-    "score": 640
+    "score": 640,
+    "globalRank": 12555
   },
   {
     "login": "alex-okrushko",
@@ -9013,7 +9656,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 644,
-    "score": 460
+    "score": 460,
+    "globalRank": 12590
   },
   {
     "login": "andrewsykim",
@@ -9027,7 +9671,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 645,
-    "score": 802
+    "score": 802,
+    "globalRank": 12591
   },
   {
     "login": "pushmatrix",
@@ -9041,7 +9686,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 646,
-    "score": 1169
+    "score": 1169,
+    "globalRank": 12628
   },
   {
     "login": "KernelDeimos",
@@ -9055,7 +9701,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 647,
-    "score": 1575
+    "score": 1575,
+    "globalRank": 12629
   },
   {
     "login": "collidingScopes",
@@ -9069,7 +9716,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 648,
-    "score": 373
+    "score": 373,
+    "globalRank": 12671
   },
   {
     "login": "sagalbot",
@@ -9083,7 +9731,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 649,
-    "score": 2050
+    "score": 2050,
+    "globalRank": 12672
   },
   {
     "login": "jamescherti",
@@ -9097,7 +9746,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 650,
-    "score": 7567
+    "score": 7567,
+    "globalRank": 12673
   },
   {
     "login": "tristen",
@@ -9111,7 +9761,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 651,
-    "score": 1529
+    "score": 1529,
+    "globalRank": 12704
   },
   {
     "login": "afilina",
@@ -9125,7 +9776,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 652,
-    "score": 421
+    "score": 421,
+    "globalRank": 12742
   },
   {
     "login": "shyndman",
@@ -9139,7 +9791,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 653,
-    "score": 3734
+    "score": 3734,
+    "globalRank": 12774
   },
   {
     "login": "ianschmitz",
@@ -9153,7 +9806,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 654,
-    "score": 1492
+    "score": 1492,
+    "globalRank": 12775
   },
   {
     "login": "pilwon",
@@ -9167,7 +9821,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 655,
-    "score": 336
+    "score": 336,
+    "globalRank": 12814
   },
   {
     "login": "mycarta",
@@ -9181,7 +9836,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 656,
-    "score": 723
+    "score": 723,
+    "globalRank": 12815
   },
   {
     "login": "friyiajr",
@@ -9195,7 +9851,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 657,
-    "score": 1513
+    "score": 1513,
+    "globalRank": 12816
   },
   {
     "login": "jamesmh",
@@ -9209,7 +9866,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 658,
-    "score": 1432
+    "score": 1432,
+    "globalRank": 12817
   },
   {
     "login": "HaiDinh215",
@@ -9223,7 +9881,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 659,
-    "score": 1159
+    "score": 1159,
+    "globalRank": 12848
   },
   {
     "login": "patrickmineault",
@@ -9237,7 +9896,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 660,
-    "score": 483
+    "score": 483,
+    "globalRank": 12849
   },
   {
     "login": "alamkanak",
@@ -9251,7 +9911,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 661,
-    "score": 1967
+    "score": 1967,
+    "globalRank": 12885
   },
   {
     "login": "tayormi",
@@ -9265,7 +9926,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 662,
-    "score": 824
+    "score": 824,
+    "globalRank": 12886
   },
   {
     "login": "onatturan",
@@ -9279,7 +9941,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 663,
-    "score": 333
+    "score": 333,
+    "globalRank": 12918
   },
   {
     "login": "xiaozhouwang",
@@ -9293,7 +9956,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 664,
-    "score": 1271
+    "score": 1271,
+    "globalRank": 12950
   },
   {
     "login": "zimmerle",
@@ -9307,7 +9971,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 665,
-    "score": 838
+    "score": 838,
+    "globalRank": 12951
   },
   {
     "login": "briannesbitt",
@@ -9321,7 +9986,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 666,
-    "score": 332
+    "score": 332,
+    "globalRank": 12952
   },
   {
     "login": "vbrazo",
@@ -9335,7 +10001,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 667,
-    "score": 6143
+    "score": 6143,
+    "globalRank": 12979
   },
   {
     "login": "louz514",
@@ -9349,7 +10016,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 668,
-    "score": 437
+    "score": 437,
+    "globalRank": 12980
   },
   {
     "login": "sarah11918",
@@ -9363,7 +10031,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 669,
-    "score": 2161
+    "score": 2161,
+    "globalRank": 12981
   },
   {
     "login": "robertcoopercode",
@@ -9377,7 +10046,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 670,
-    "score": 2008
+    "score": 2008,
+    "globalRank": 13017
   },
   {
     "login": "JessicaLim8",
@@ -9391,7 +10061,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 671,
-    "score": 330
+    "score": 330,
+    "globalRank": 13018
   },
   {
     "login": "Moustachauve",
@@ -9405,7 +10076,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 672,
-    "score": 1027
+    "score": 1027,
+    "globalRank": 13019
   },
   {
     "login": "ahmedshahriar",
@@ -9419,7 +10091,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 673,
-    "score": 876
+    "score": 876,
+    "globalRank": 13020
   },
   {
     "login": "colinta",
@@ -9433,7 +10106,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 674,
-    "score": 1786
+    "score": 1786,
+    "globalRank": 13049
   },
   {
     "login": "agile8118",
@@ -9447,7 +10121,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 675,
-    "score": 585
+    "score": 585,
+    "globalRank": 13050
   },
   {
     "login": "djwester",
@@ -9461,7 +10136,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 676,
-    "score": 1256
+    "score": 1256,
+    "globalRank": 13051
   },
   {
     "login": "jpd002",
@@ -9475,7 +10151,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 677,
-    "score": 577
+    "score": 577,
+    "globalRank": 13052
   },
   {
     "login": "abramhindle",
@@ -9489,7 +10166,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 678,
-    "score": 396
+    "score": 396,
+    "globalRank": 13053
   },
   {
     "login": "arcdev1",
@@ -9503,7 +10181,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 679,
-    "score": 911
+    "score": 911,
+    "globalRank": 13083
   },
   {
     "login": "arcibyte",
@@ -9517,7 +10196,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 680,
-    "score": 513
+    "score": 513,
+    "globalRank": 13084
   },
   {
     "login": "at15",
@@ -9531,7 +10211,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 681,
-    "score": 2128
+    "score": 2128,
+    "globalRank": 13115
   },
   {
     "login": "chalu",
@@ -9545,7 +10226,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 682,
-    "score": 1021
+    "score": 1021,
+    "globalRank": 13116
   },
   {
     "login": "sayannath",
@@ -9559,7 +10241,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 683,
-    "score": 1116
+    "score": 1116,
+    "globalRank": 13157
   },
   {
     "login": "Christopher2K",
@@ -9573,7 +10256,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 684,
-    "score": 1882
+    "score": 1882,
+    "globalRank": 13158
   },
   {
     "login": "ergrelet",
@@ -9587,7 +10271,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 685,
-    "score": 613
+    "score": 613,
+    "globalRank": 13196
   },
   {
     "login": "stellamiranda",
@@ -9601,7 +10286,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 686,
-    "score": 1045
+    "score": 1045,
+    "globalRank": 13197
   },
   {
     "login": "fmarier",
@@ -9615,7 +10301,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 687,
-    "score": 1174
+    "score": 1174,
+    "globalRank": 13198
   },
   {
     "login": "jneen",
@@ -9629,7 +10316,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 688,
-    "score": 497
+    "score": 497,
+    "globalRank": 13232
   },
   {
     "login": "mvfsillva",
@@ -9643,7 +10331,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 689,
-    "score": 2315
+    "score": 2315,
+    "globalRank": 13233
   },
   {
     "login": "yacineMahdid",
@@ -9657,7 +10346,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 690,
-    "score": 369
+    "score": 369,
+    "globalRank": 13234
   },
   {
     "login": "fmoliveira",
@@ -9671,7 +10361,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 691,
-    "score": 2297
+    "score": 2297,
+    "globalRank": 13265
   },
   {
     "login": "pritamworld",
@@ -9685,7 +10376,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 692,
-    "score": 646
+    "score": 646,
+    "globalRank": 13266
   },
   {
     "login": "wyattjoh",
@@ -9699,7 +10391,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 693,
-    "score": 5651
+    "score": 5651,
+    "globalRank": 13267
   },
   {
     "login": "pmorissette",
@@ -9713,7 +10406,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 694,
-    "score": 323
+    "score": 323,
+    "globalRank": 13268
   },
   {
     "login": "jdufresne",
@@ -9727,7 +10421,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 695,
-    "score": 6729
+    "score": 6729,
+    "globalRank": 13269
   },
   {
     "login": "omarfaruqe",
@@ -9741,7 +10436,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 696,
-    "score": 322
+    "score": 322,
+    "globalRank": 13301
   },
   {
     "login": "marclave",
@@ -9755,7 +10451,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 697,
-    "score": 2073
+    "score": 2073,
+    "globalRank": 13352
   },
   {
     "login": "SteveJunGao",
@@ -9769,7 +10466,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 698,
-    "score": 395
+    "score": 395,
+    "globalRank": 13388
   },
   {
     "login": "Minikloon",
@@ -9783,7 +10481,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 699,
-    "score": 670
+    "score": 670,
+    "globalRank": 13419
   },
   {
     "login": "meabed",
@@ -9797,7 +10496,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 700,
-    "score": 14619
+    "score": 14619,
+    "globalRank": 13420
   },
   {
     "login": "raydelto",
@@ -9811,7 +10511,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 701,
-    "score": 475
+    "score": 475,
+    "globalRank": 13421
   },
   {
     "login": "cjcliffe",
@@ -9825,7 +10526,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 702,
-    "score": 319
+    "score": 319,
+    "globalRank": 13422
   },
   {
     "login": "BlakeBrown",
@@ -9839,7 +10541,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 703,
-    "score": 1148
+    "score": 1148,
+    "globalRank": 13423
   },
   {
     "login": "stepthom",
@@ -9853,7 +10556,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 704,
-    "score": 365
+    "score": 365,
+    "globalRank": 13461
   },
   {
     "login": "bigsnarfdude",
@@ -9867,7 +10571,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 705,
-    "score": 3362
+    "score": 3362,
+    "globalRank": 13500
   },
   {
     "login": "prrao87",
@@ -9881,7 +10586,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 706,
-    "score": 1866
+    "score": 1866,
+    "globalRank": 13501
   },
   {
     "login": "ryanshrott",
@@ -9895,7 +10601,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 707,
-    "score": 348
+    "score": 348,
+    "globalRank": 13502
   },
   {
     "login": "josh146",
@@ -9909,7 +10616,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 708,
-    "score": 825
+    "score": 825,
+    "globalRank": 13503
   },
   {
     "login": "senorprogrammer",
@@ -9923,7 +10631,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 709,
-    "score": 5224
+    "score": 5224,
+    "globalRank": 13504
   },
   {
     "login": "gpleiss",
@@ -9937,7 +10646,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 710,
-    "score": 458
+    "score": 458,
+    "globalRank": 13547
   },
   {
     "login": "joehoyle",
@@ -9951,7 +10661,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 711,
-    "score": 2817
+    "score": 2817,
+    "globalRank": 13594
   },
   {
     "login": "ThomasDelteil",
@@ -9965,7 +10676,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 712,
-    "score": 315
+    "score": 315,
+    "globalRank": 13595
   },
   {
     "login": "isrugeek",
@@ -9979,7 +10691,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 713,
-    "score": 4193
+    "score": 4193,
+    "globalRank": 13596
   },
   {
     "login": "jaseva",
@@ -9993,7 +10706,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 714,
-    "score": 343
+    "score": 343,
+    "globalRank": 13597
   },
   {
     "login": "Dref360",
@@ -10007,7 +10721,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 715,
-    "score": 320
+    "score": 320,
+    "globalRank": 13598
   },
   {
     "login": "caronc",
@@ -10021,7 +10736,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 716,
-    "score": 904
+    "score": 904,
+    "globalRank": 13639
   },
   {
     "login": "devinpleuler",
@@ -10035,7 +10751,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 717,
-    "score": 531
+    "score": 531,
+    "globalRank": 13640
   },
   {
     "login": "joshuaboniface",
@@ -10049,7 +10766,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 718,
-    "score": 2715
+    "score": 2715,
+    "globalRank": 13641
   },
   {
     "login": "asoltys",
@@ -10063,7 +10781,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 719,
-    "score": 845
+    "score": 845,
+    "globalRank": 13642
   },
   {
     "login": "goldensniper514",
@@ -10077,7 +10796,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 720,
-    "score": 921
+    "score": 921,
+    "globalRank": 13685
   },
   {
     "login": "mahedee",
@@ -10091,7 +10811,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 721,
-    "score": 1394
+    "score": 1394,
+    "globalRank": 13686
   },
   {
     "login": "heyvaldemar",
@@ -10105,7 +10826,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 722,
-    "score": 1322
+    "score": 1322,
+    "globalRank": 13687
   },
   {
     "login": "LukeTowers",
@@ -10119,7 +10841,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 723,
-    "score": 691
+    "score": 691,
+    "globalRank": 13724
   },
   {
     "login": "kelvinxu",
@@ -10133,7 +10856,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 724,
-    "score": 312
+    "score": 312,
+    "globalRank": 13725
   },
   {
     "login": "bmcmahen",
@@ -10147,7 +10871,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 725,
-    "score": 1577
+    "score": 1577,
+    "globalRank": 13726
   },
   {
     "login": "WebChefDev",
@@ -10161,7 +10886,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 726,
-    "score": 519
+    "score": 519,
+    "globalRank": 13766
   },
   {
     "login": "cmoulton",
@@ -10175,7 +10901,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 727,
-    "score": 666
+    "score": 666,
+    "globalRank": 13767
   },
   {
     "login": "TwiN",
@@ -10189,7 +10916,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 728,
-    "score": 1137
+    "score": 1137,
+    "globalRank": 13800
   },
   {
     "login": "gillis785",
@@ -10203,7 +10931,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 729,
-    "score": 313
+    "score": 313,
+    "globalRank": 13801
   },
   {
     "login": "mrisdal",
@@ -10217,7 +10946,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 730,
-    "score": 336
+    "score": 336,
+    "globalRank": 13802
   },
   {
     "login": "rgeirhos",
@@ -10231,7 +10961,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 731,
-    "score": 381
+    "score": 381,
+    "globalRank": 13830
   },
   {
     "login": "anubhavmishra",
@@ -10245,7 +10976,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 732,
-    "score": 354
+    "score": 354,
+    "globalRank": 13831
   },
   {
     "login": "sivareddyg",
@@ -10259,7 +10991,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 733,
-    "score": 517
+    "score": 517,
+    "globalRank": 13832
   },
   {
     "login": "syavash",
@@ -10273,7 +11006,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 734,
-    "score": 1615
+    "score": 1615,
+    "globalRank": 13833
   },
   {
     "login": "riywo",
@@ -10287,7 +11021,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 735,
-    "score": 1587
+    "score": 1587,
+    "globalRank": 13834
   },
   {
     "login": "khalladay",
@@ -10301,7 +11036,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 736,
-    "score": 334
+    "score": 334,
+    "globalRank": 13869
   },
   {
     "login": "benkeen",
@@ -10315,7 +11051,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 737,
-    "score": 994
+    "score": 994,
+    "globalRank": 13903
   },
   {
     "login": "ElliotKillick",
@@ -10329,7 +11066,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 738,
-    "score": 310
+    "score": 310,
+    "globalRank": 13904
   },
   {
     "login": "cameronmcnz",
@@ -10343,7 +11081,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 739,
-    "score": 435
+    "score": 435,
+    "globalRank": 13939
   },
   {
     "login": "christopherbatty",
@@ -10357,7 +11096,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 740,
-    "score": 306
+    "score": 306,
+    "globalRank": 13940
   },
   {
     "login": "kinngh",
@@ -10371,7 +11111,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 741,
-    "score": 590
+    "score": 590,
+    "globalRank": 13941
   },
   {
     "login": "Belval",
@@ -10385,7 +11126,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 742,
-    "score": 308
+    "score": 308,
+    "globalRank": 13989
   },
   {
     "login": "ntsmk",
@@ -10399,7 +11141,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 743,
-    "score": 1684
+    "score": 1684,
+    "globalRank": 13990
   },
   {
     "login": "jjolano",
@@ -10413,7 +11156,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 744,
-    "score": 308
+    "score": 308,
+    "globalRank": 13991
   },
   {
     "login": "staccDOTsol",
@@ -10427,7 +11171,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 745,
-    "score": 1159
+    "score": 1159,
+    "globalRank": 13992
   },
   {
     "login": "zoltan-nz",
@@ -10441,7 +11186,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 746,
-    "score": 514
+    "score": 514,
+    "globalRank": 13993
   },
   {
     "login": "rickycodes",
@@ -10455,7 +11201,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 747,
-    "score": 793
+    "score": 793,
+    "globalRank": 14024
   },
   {
     "login": "vnmakarov",
@@ -10469,7 +11216,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 748,
-    "score": 833
+    "score": 833,
+    "globalRank": 14025
   },
   {
     "login": "clayjohn",
@@ -10483,7 +11231,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 749,
-    "score": 874
+    "score": 874,
+    "globalRank": 14026
   },
   {
     "login": "makew0rld",
@@ -10497,7 +11246,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 750,
-    "score": 977
+    "score": 977,
+    "globalRank": 14115
   },
   {
     "login": "ankeshanand",
@@ -10511,7 +11261,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 751,
-    "score": 306
+    "score": 306,
+    "globalRank": 14116
   },
   {
     "login": "AmeliaBR",
@@ -10525,7 +11276,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 752,
-    "score": 302
+    "score": 302,
+    "globalRank": 14117
   },
   {
     "login": "kabary",
@@ -10539,7 +11291,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 753,
-    "score": 302
+    "score": 302,
+    "globalRank": 14118
   },
   {
     "login": "vineetjohn",
@@ -10553,7 +11306,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 754,
-    "score": 2709
+    "score": 2709,
+    "globalRank": 14159
   },
   {
     "login": "Farzad-R",
@@ -10567,7 +11321,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 755,
-    "score": 518
+    "score": 518,
+    "globalRank": 14160
   },
   {
     "login": "mtrudel",
@@ -10581,7 +11336,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 756,
-    "score": 1160
+    "score": 1160,
+    "globalRank": 14216
   },
   {
     "login": "kbond",
@@ -10595,7 +11351,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 757,
-    "score": 1079
+    "score": 1079,
+    "globalRank": 14217
   },
   {
     "login": "rileyjshaw",
@@ -10609,7 +11366,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 758,
-    "score": 1658
+    "score": 1658,
+    "globalRank": 14218
   },
   {
     "login": "ryanwelcher",
@@ -10623,7 +11381,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 759,
-    "score": 992
+    "score": 992,
+    "globalRank": 14219
   },
   {
     "login": "bheisler",
@@ -10637,7 +11396,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 760,
-    "score": 301
+    "score": 301,
+    "globalRank": 14220
   },
   {
     "login": "sebjai",
@@ -10651,7 +11411,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 761,
-    "score": 327
+    "score": 327,
+    "globalRank": 14257
   },
   {
     "login": "luabud",
@@ -10665,7 +11426,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 762,
-    "score": 886
+    "score": 886,
+    "globalRank": 14258
   },
   {
     "login": "dustinsenos",
@@ -10679,7 +11441,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 763,
-    "score": 577
+    "score": 577,
+    "globalRank": 14259
   },
   {
     "login": "skellock",
@@ -10693,7 +11456,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 764,
-    "score": 1691
+    "score": 1691,
+    "globalRank": 14301
   },
   {
     "login": "jackharrhy",
@@ -10707,7 +11471,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 765,
-    "score": 5538
+    "score": 5538,
+    "globalRank": 14341
   },
   {
     "login": "millette",
@@ -10721,7 +11486,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 766,
-    "score": 535
+    "score": 535,
+    "globalRank": 14342
   },
   {
     "login": "bzgeb",
@@ -10735,7 +11501,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 767,
-    "score": 298
+    "score": 298,
+    "globalRank": 14343
   },
   {
     "login": "gaojude",
@@ -10749,7 +11516,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 768,
-    "score": 2430
+    "score": 2430,
+    "globalRank": 14390
   },
   {
     "login": "alexminnaar",
@@ -10763,7 +11531,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 769,
-    "score": 782
+    "score": 782,
+    "globalRank": 14391
   },
   {
     "login": "jfsantos",
@@ -10777,7 +11546,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 770,
-    "score": 379
+    "score": 379,
+    "globalRank": 14392
   },
   {
     "login": "tpoisot",
@@ -10791,7 +11561,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 771,
-    "score": 2269
+    "score": 2269,
+    "globalRank": 14433
   },
   {
     "login": "filipherle",
@@ -10805,7 +11576,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 772,
-    "score": 314
+    "score": 314,
+    "globalRank": 14474
   },
   {
     "login": "dalenguyen",
@@ -10819,7 +11591,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 773,
-    "score": 2060
+    "score": 2060,
+    "globalRank": 14521
   },
   {
     "login": "ritheshkumar95",
@@ -10833,7 +11606,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 774,
-    "score": 295
+    "score": 295,
+    "globalRank": 14522
   },
   {
     "login": "andydlindsay",
@@ -10847,7 +11621,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 775,
-    "score": 444
+    "score": 444,
+    "globalRank": 14523
   },
   {
     "login": "jongallant",
@@ -10861,7 +11636,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 776,
-    "score": 292
+    "score": 292,
+    "globalRank": 14575
   },
   {
     "login": "tvaneerd",
@@ -10875,7 +11651,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 777,
-    "score": 299
+    "score": 299,
+    "globalRank": 14576
   },
   {
     "login": "provencher",
@@ -10889,7 +11666,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 778,
-    "score": 4161
+    "score": 4161,
+    "globalRank": 14577
   },
   {
     "login": "jasonish",
@@ -10903,7 +11681,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 779,
-    "score": 2121
+    "score": 2121,
+    "globalRank": 14578
   },
   {
     "login": "kcnickerson",
@@ -10917,7 +11696,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 780,
-    "score": 292
+    "score": 292,
+    "globalRank": 14579
   },
   {
     "login": "joykare",
@@ -10931,7 +11711,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 781,
-    "score": 423
+    "score": 423,
+    "globalRank": 14580
   },
   {
     "login": "djsutherland",
@@ -10945,7 +11726,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 782,
-    "score": 641
+    "score": 641,
+    "globalRank": 14644
   },
   {
     "login": "ajpinedam",
@@ -10959,7 +11741,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 783,
-    "score": 1200
+    "score": 1200,
+    "globalRank": 14645
   },
   {
     "login": "mwbrooks",
@@ -10973,7 +11756,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 784,
-    "score": 1806
+    "score": 1806,
+    "globalRank": 14646
   },
   {
     "login": "hugoabernier",
@@ -10987,7 +11771,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 785,
-    "score": 1935
+    "score": 1935,
+    "globalRank": 14695
   },
   {
     "login": "jacobparis",
@@ -11001,7 +11786,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 786,
-    "score": 7151
+    "score": 7151,
+    "globalRank": 14748
   },
   {
     "login": "igorescodro",
@@ -11015,7 +11801,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 787,
-    "score": 2352
+    "score": 2352,
+    "globalRank": 14749
   },
   {
     "login": "lemonmade",
@@ -11029,7 +11816,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 788,
-    "score": 3434
+    "score": 3434,
+    "globalRank": 14750
   },
   {
     "login": "developer-shourav",
@@ -11043,7 +11831,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 789,
-    "score": 2157
+    "score": 2157,
+    "globalRank": 14751
   },
   {
     "login": "kennethormandy",
@@ -11057,7 +11846,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 790,
-    "score": 309
+    "score": 309,
+    "globalRank": 14752
   },
   {
     "login": "fluffy",
@@ -11071,7 +11861,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 791,
-    "score": 737
+    "score": 737,
+    "globalRank": 14796
   },
   {
     "login": "brenna",
@@ -11085,7 +11876,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 792,
-    "score": 288
+    "score": 288,
+    "globalRank": 14797
   },
   {
     "login": "gabritto",
@@ -11099,7 +11891,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 793,
-    "score": 864
+    "score": 864,
+    "globalRank": 14798
   },
   {
     "login": "ddossot",
@@ -11113,7 +11906,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 794,
-    "score": 287
+    "score": 287,
+    "globalRank": 14840
   },
   {
     "login": "ttimbers",
@@ -11127,7 +11921,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 795,
-    "score": 424
+    "score": 424,
+    "globalRank": 14841
   },
   {
     "login": "chitwansaharia",
@@ -11141,7 +11936,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 796,
-    "score": 286
+    "score": 286,
+    "globalRank": 14888
   },
   {
     "login": "hpssjellis",
@@ -11155,7 +11951,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 797,
-    "score": 6099
+    "score": 6099,
+    "globalRank": 14889
   },
   {
     "login": "evilsoft",
@@ -11169,7 +11966,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 798,
-    "score": 286
+    "score": 286,
+    "globalRank": 14890
   },
   {
     "login": "geographyclub",
@@ -11183,7 +11981,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 799,
-    "score": 757
+    "score": 757,
+    "globalRank": 14929
   },
   {
     "login": "DestinationFAANG",
@@ -11197,7 +11996,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 800,
-    "score": 291
+    "score": 291,
+    "globalRank": 14970
   },
   {
     "login": "interactiveimmersivehq",
@@ -11211,7 +12011,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 801,
-    "score": 284
+    "score": 284,
+    "globalRank": 14971
   },
   {
     "login": "WilsonWangTHU",
@@ -11225,7 +12026,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 802,
-    "score": 358
+    "score": 358,
+    "globalRank": 14972
   },
   {
     "login": "ksylvest",
@@ -11239,7 +12041,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 803,
-    "score": 1999
+    "score": 1999,
+    "globalRank": 15021
   },
   {
     "login": "deluan",
@@ -11253,7 +12056,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 804,
-    "score": 2367
+    "score": 2367,
+    "globalRank": 15022
   },
   {
     "login": "bshall",
@@ -11267,7 +12071,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 805,
-    "score": 318
+    "score": 318,
+    "globalRank": 15023
   },
   {
     "login": "websanova",
@@ -11281,7 +12086,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 806,
-    "score": 289
+    "score": 289,
+    "globalRank": 15024
   },
   {
     "login": "chaopeng",
@@ -11295,7 +12101,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 807,
-    "score": 370
+    "score": 370,
+    "globalRank": 15067
   },
   {
     "login": "Sytten",
@@ -11309,7 +12116,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 808,
-    "score": 3503
+    "score": 3503,
+    "globalRank": 15068
   },
   {
     "login": "lwansbrough",
@@ -11323,7 +12131,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 809,
-    "score": 287
+    "score": 287,
+    "globalRank": 15069
   },
   {
     "login": "Pouyaexe",
@@ -11337,7 +12146,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 810,
-    "score": 809
+    "score": 809,
+    "globalRank": 15070
   },
   {
     "login": "pgaskin",
@@ -11351,7 +12161,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 811,
-    "score": 1164
+    "score": 1164,
+    "globalRank": 15071
   },
   {
     "login": "bar-echa",
@@ -11365,7 +12176,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 812,
-    "score": 1788
+    "score": 1788,
+    "globalRank": 15072
   },
   {
     "login": "arjungautam1",
@@ -11379,7 +12191,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 813,
-    "score": 1441
+    "score": 1441,
+    "globalRank": 15113
   },
   {
     "login": "BagToad",
@@ -11393,7 +12206,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 814,
-    "score": 2645
+    "score": 2645,
+    "globalRank": 15114
   },
   {
     "login": "atahani",
@@ -11407,7 +12221,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 815,
-    "score": 1345
+    "score": 1345,
+    "globalRank": 15115
   },
   {
     "login": "taiya",
@@ -11421,7 +12236,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 816,
-    "score": 694
+    "score": 694,
+    "globalRank": 15116
   },
   {
     "login": "xrenaa",
@@ -11435,7 +12251,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 817,
-    "score": 436
+    "score": 436,
+    "globalRank": 15155
   },
   {
     "login": "watadarkstar",
@@ -11449,7 +12266,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 818,
-    "score": 1370
+    "score": 1370,
+    "globalRank": 15156
   },
   {
     "login": "EverythingSuckz",
@@ -11463,7 +12281,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 819,
-    "score": 1617
+    "score": 1617,
+    "globalRank": 15157
   },
   {
     "login": "nashif",
@@ -11477,7 +12296,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 820,
-    "score": 2717
+    "score": 2717,
+    "globalRank": 15209
   },
   {
     "login": "TylerBarnes",
@@ -11491,7 +12311,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 821,
-    "score": 3966
+    "score": 3966,
+    "globalRank": 15210
   },
   {
     "login": "grossmj",
@@ -11505,7 +12326,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 822,
-    "score": 1104
+    "score": 1104,
+    "globalRank": 15211
   },
   {
     "login": "nikunj3011",
@@ -11519,7 +12341,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 823,
-    "score": 307
+    "score": 307,
+    "globalRank": 15212
   },
   {
     "login": "kdheepak",
@@ -11533,7 +12356,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 824,
-    "score": 6130
+    "score": 6130,
+    "globalRank": 15213
   },
   {
     "login": "AbhiPrasad",
@@ -11547,7 +12371,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 825,
-    "score": 3440
+    "score": 3440,
+    "globalRank": 15262
   },
   {
     "login": "patmaddox",
@@ -11561,7 +12386,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 826,
-    "score": 2935
+    "score": 2935,
+    "globalRank": 15263
   },
   {
     "login": "lukasc-ubc",
@@ -11575,7 +12401,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 827,
-    "score": 1744
+    "score": 1744,
+    "globalRank": 15264
   },
   {
     "login": "NickQiZhu",
@@ -11589,7 +12416,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 828,
-    "score": 278
+    "score": 278,
+    "globalRank": 15265
   },
   {
     "login": "GauravBh1010tt",
@@ -11603,7 +12431,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 829,
-    "score": 288
+    "score": 288,
+    "globalRank": 15266
   },
   {
     "login": "wellcaffeinated",
@@ -11617,7 +12446,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 830,
-    "score": 1162
+    "score": 1162,
+    "globalRank": 15267
   },
   {
     "login": "abourget",
@@ -11631,7 +12461,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 831,
-    "score": 320
+    "score": 320,
+    "globalRank": 15323
   },
   {
     "login": "lhunath",
@@ -11645,7 +12476,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 832,
-    "score": 519
+    "score": 519,
+    "globalRank": 15324
   },
   {
     "login": "arash-salemi",
@@ -11659,7 +12491,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 833,
-    "score": 480
+    "score": 480,
+    "globalRank": 15366
   },
   {
     "login": "thomas-lowry",
@@ -11673,7 +12506,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 834,
-    "score": 276
+    "score": 276,
+    "globalRank": 15367
   },
   {
     "login": "impressivewebs",
@@ -11687,7 +12521,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 835,
-    "score": 292
+    "score": 292,
+    "globalRank": 15368
   },
   {
     "login": "zazencodes",
@@ -11701,7 +12536,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 836,
-    "score": 1898
+    "score": 1898,
+    "globalRank": 15369
   },
   {
     "login": "shovon",
@@ -11715,7 +12551,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 837,
-    "score": 814
+    "score": 814,
+    "globalRank": 15370
   },
   {
     "login": "phillmv",
@@ -11729,7 +12566,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 838,
-    "score": 2110
+    "score": 2110,
+    "globalRank": 15371
   },
   {
     "login": "orchetect",
@@ -11743,7 +12581,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 839,
-    "score": 5129
+    "score": 5129,
+    "globalRank": 15372
   },
   {
     "login": "garbles",
@@ -11757,7 +12596,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 840,
-    "score": 285
+    "score": 285,
+    "globalRank": 15373
   },
   {
     "login": "carolandrade1",
@@ -11771,7 +12611,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 841,
-    "score": 3150
+    "score": 3150,
+    "globalRank": 15374
   },
   {
     "login": "david-gpu",
@@ -11785,7 +12626,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 842,
-    "score": 275
+    "score": 275,
+    "globalRank": 15418
   },
   {
     "login": "scastiel",
@@ -11799,7 +12641,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 843,
-    "score": 2969
+    "score": 2969,
+    "globalRank": 15419
   },
   {
     "login": "nfrechette",
@@ -11813,7 +12656,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 844,
-    "score": 411
+    "score": 411,
+    "globalRank": 15420
   },
   {
     "login": "johnboxall",
@@ -11827,7 +12671,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 845,
-    "score": 1978
+    "score": 1978,
+    "globalRank": 15421
   },
   {
     "login": "joeyism",
@@ -11841,7 +12686,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 846,
-    "score": 2849
+    "score": 2849,
+    "globalRank": 15422
   },
   {
     "login": "carlsverre",
@@ -11855,7 +12701,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 847,
-    "score": 2189
+    "score": 2189,
+    "globalRank": 15423
   },
   {
     "login": "stevemar",
@@ -11869,7 +12716,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 848,
-    "score": 527
+    "score": 527,
+    "globalRank": 15424
   },
   {
     "login": "mrzachnugent",
@@ -11883,7 +12731,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 849,
-    "score": 4700
+    "score": 4700,
+    "globalRank": 15474
   },
   {
     "login": "jpaulm",
@@ -11897,7 +12746,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 850,
-    "score": 274
+    "score": 274,
+    "globalRank": 15475
   },
   {
     "login": "francislavoie",
@@ -11911,7 +12761,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 851,
-    "score": 910
+    "score": 910,
+    "globalRank": 15511
   },
   {
     "login": "dlwyatt",
@@ -11925,7 +12776,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 852,
-    "score": 280
+    "score": 280,
+    "globalRank": 15512
   },
   {
     "login": "adryd325",
@@ -11939,7 +12791,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 853,
-    "score": 401
+    "score": 401,
+    "globalRank": 15513
   },
   {
     "login": "therajanmaurya",
@@ -11953,7 +12806,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 854,
-    "score": 2501
+    "score": 2501,
+    "globalRank": 15514
   },
   {
     "login": "DateBro",
@@ -11967,7 +12821,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 855,
-    "score": 288
+    "score": 288,
+    "globalRank": 15558
   },
   {
     "login": "msantos",
@@ -11981,7 +12836,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 856,
-    "score": 725
+    "score": 725,
+    "globalRank": 15559
   },
   {
     "login": "yassersouri",
@@ -11995,7 +12851,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 857,
-    "score": 331
+    "score": 331,
+    "globalRank": 15560
   },
   {
     "login": "iKevinY",
@@ -12009,7 +12866,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 858,
-    "score": 3099
+    "score": 3099,
+    "globalRank": 15609
   },
   {
     "login": "shawon100",
@@ -12023,7 +12881,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 859,
-    "score": 373
+    "score": 373,
+    "globalRank": 15610
   },
   {
     "login": "oalders",
@@ -12037,7 +12896,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 860,
-    "score": 2818
+    "score": 2818,
+    "globalRank": 15611
   },
   {
     "login": "nicolashery",
@@ -12051,7 +12911,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 861,
-    "score": 765
+    "score": 765,
+    "globalRank": 15612
   },
   {
     "login": "darthcloud",
@@ -12065,7 +12926,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 862,
-    "score": 345
+    "score": 345,
+    "globalRank": 15655
   },
   {
     "login": "karenetheridge",
@@ -12079,7 +12941,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 863,
-    "score": 1553
+    "score": 1553,
+    "globalRank": 15770
   },
   {
     "login": "jteneycke",
@@ -12093,7 +12956,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 864,
-    "score": 268
+    "score": 268,
+    "globalRank": 15771
   },
   {
     "login": "EgoMoose",
@@ -12107,7 +12971,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 865,
-    "score": 1007
+    "score": 1007,
+    "globalRank": 15772
   },
   {
     "login": "hawkeye64",
@@ -12121,7 +12986,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 866,
-    "score": 331
+    "score": 331,
+    "globalRank": 15773
   },
   {
     "login": "zoq",
@@ -12135,7 +13001,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 867,
-    "score": 635
+    "score": 635,
+    "globalRank": 15774
   },
   {
     "login": "warmerdam",
@@ -12149,7 +13016,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 868,
-    "score": 268
+    "score": 268,
+    "globalRank": 15775
   },
   {
     "login": "tomkralidis",
@@ -12163,7 +13031,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 869,
-    "score": 3083
+    "score": 3083,
+    "globalRank": 15776
   },
   {
     "login": "justkawal",
@@ -12177,7 +13046,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 870,
-    "score": 349
+    "score": 349,
+    "globalRank": 15816
   },
   {
     "login": "james2doyle",
@@ -12191,7 +13061,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 871,
-    "score": 1838
+    "score": 1838,
+    "globalRank": 15817
   },
   {
     "login": "pushrax",
@@ -12205,7 +13076,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 872,
-    "score": 1049
+    "score": 1049,
+    "globalRank": 15818
   },
   {
     "login": "DrDub",
@@ -12219,7 +13091,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 873,
-    "score": 286
+    "score": 286,
+    "globalRank": 15872
   },
   {
     "login": "mmocny",
@@ -12233,7 +13106,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 874,
-    "score": 429
+    "score": 429,
+    "globalRank": 15873
   },
   {
     "login": "epitron",
@@ -12247,7 +13121,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 875,
-    "score": 328
+    "score": 328,
+    "globalRank": 15874
   },
   {
     "login": "taras",
@@ -12261,7 +13136,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 876,
-    "score": 1850
+    "score": 1850,
+    "globalRank": 15875
   },
   {
     "login": "QuLogic",
@@ -12275,7 +13151,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 877,
-    "score": 1606
+    "score": 1606,
+    "globalRank": 15929
   },
   {
     "login": "NickTimosh",
@@ -12289,7 +13166,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 878,
-    "score": 1191
+    "score": 1191,
+    "globalRank": 15930
   },
   {
     "login": "Furkanzmc",
@@ -12303,7 +13181,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 879,
-    "score": 2195
+    "score": 2195,
+    "globalRank": 15931
   },
   {
     "login": "kanawish",
@@ -12317,7 +13196,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 880,
-    "score": 682
+    "score": 682,
+    "globalRank": 15932
   },
   {
     "login": "slawlor",
@@ -12331,7 +13211,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 881,
-    "score": 340
+    "score": 340,
+    "globalRank": 15933
   },
   {
     "login": "ivanreese",
@@ -12345,7 +13226,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 882,
-    "score": 1018
+    "score": 1018,
+    "globalRank": 15987
   },
   {
     "login": "deminy",
@@ -12359,7 +13241,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 883,
-    "score": 457
+    "score": 457,
+    "globalRank": 15988
   },
   {
     "login": "thephoeron",
@@ -12373,7 +13256,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 884,
-    "score": 264
+    "score": 264,
+    "globalRank": 15989
   },
   {
     "login": "iSimar",
@@ -12387,7 +13271,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 885,
-    "score": 2363
+    "score": 2363,
+    "globalRank": 16038
   },
   {
     "login": "leandrocp",
@@ -12401,7 +13286,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 886,
-    "score": 3064
+    "score": 3064,
+    "globalRank": 16039
   },
   {
     "login": "plentz",
@@ -12415,7 +13301,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 887,
-    "score": 545
+    "score": 545,
+    "globalRank": 16040
   },
   {
     "login": "WirelessLife",
@@ -12429,7 +13316,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 888,
-    "score": 695
+    "score": 695,
+    "globalRank": 16041
   },
   {
     "login": "vincentmorneau",
@@ -12443,7 +13331,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 889,
-    "score": 267
+    "score": 267,
+    "globalRank": 16042
   },
   {
     "login": "brianpeiris",
@@ -12457,7 +13346,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 890,
-    "score": 1078
+    "score": 1078,
+    "globalRank": 16043
   },
   {
     "login": "danialfarid",
@@ -12471,7 +13361,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 891,
-    "score": 262
+    "score": 262,
+    "globalRank": 16101
   },
   {
     "login": "Aayush9029",
@@ -12485,7 +13376,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 892,
-    "score": 8878
+    "score": 8878,
+    "globalRank": 16102
   },
   {
     "login": "dstndstn",
@@ -12499,7 +13391,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 893,
-    "score": 1393
+    "score": 1393,
+    "globalRank": 16143
   },
   {
     "login": "timbray",
@@ -12513,7 +13406,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 894,
-    "score": 492
+    "score": 492,
+    "globalRank": 16144
   },
   {
     "login": "jzarnett",
@@ -12527,7 +13421,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 895,
-    "score": 508
+    "score": 508,
+    "globalRank": 16145
   },
   {
     "login": "patmorin",
@@ -12541,7 +13436,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 896,
-    "score": 506
+    "score": 506,
+    "globalRank": 16146
   },
   {
     "login": "gprem09",
@@ -12555,7 +13451,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 897,
-    "score": 572
+    "score": 572,
+    "globalRank": 16189
   },
   {
     "login": "leebenson",
@@ -12569,7 +13466,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 898,
-    "score": 1502
+    "score": 1502,
+    "globalRank": 16190
   },
   {
     "login": "dashed",
@@ -12583,7 +13481,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 899,
-    "score": 4871
+    "score": 4871,
+    "globalRank": 16191
   },
   {
     "login": "ddavison",
@@ -12597,7 +13496,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 900,
-    "score": 568
+    "score": 568,
+    "globalRank": 16192
   },
   {
     "login": "AdamWhitcroft",
@@ -12611,7 +13511,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 901,
-    "score": 876
+    "score": 876,
+    "globalRank": 16193
   },
   {
     "login": "ehsanmok",
@@ -12625,7 +13526,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 902,
-    "score": 2440
+    "score": 2440,
+    "globalRank": 16194
   },
   {
     "login": "NimaQu",
@@ -12639,7 +13541,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 903,
-    "score": 454
+    "score": 454,
+    "globalRank": 16254
   },
   {
     "login": "mmmoussa",
@@ -12653,7 +13556,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 904,
-    "score": 1121
+    "score": 1121,
+    "globalRank": 16255
   },
   {
     "login": "mfridman",
@@ -12667,7 +13571,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 905,
-    "score": 1697
+    "score": 1697,
+    "globalRank": 16256
   },
   {
     "login": "carsonfarmer",
@@ -12681,7 +13586,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 906,
-    "score": 1020
+    "score": 1020,
+    "globalRank": 16257
   },
   {
     "login": "mattnite",
@@ -12695,7 +13601,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 907,
-    "score": 761
+    "score": 761,
+    "globalRank": 16258
   },
   {
     "login": "Oxer11",
@@ -12709,7 +13616,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 908,
-    "score": 303
+    "score": 303,
+    "globalRank": 16313
   },
   {
     "login": "Ethiel97",
@@ -12723,7 +13631,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 909,
-    "score": 863
+    "score": 863,
+    "globalRank": 16314
   },
   {
     "login": "joedf",
@@ -12737,7 +13646,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 910,
-    "score": 451
+    "score": 451,
+    "globalRank": 16315
   },
   {
     "login": "qhwa",
@@ -12751,7 +13661,8 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 911,
-    "score": 759
+    "score": 759,
+    "globalRank": 16316
   },
   {
     "login": "donaldzou",
@@ -12765,6 +13676,7 @@
     "country": "canada",
     "countryName": "Canada",
     "countryRank": 912,
-    "score": 4534
+    "score": 4534,
+    "globalRank": 16317
   }
 ]

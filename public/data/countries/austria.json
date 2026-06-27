@@ -11,7 +11,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 1,
-    "score": 277013
+    "score": 277013,
+    "globalRank": 8
   },
   {
     "login": "mitsuhiko",
@@ -25,7 +26,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 2,
-    "score": 30725
+    "score": 30725,
+    "globalRank": 28
   },
   {
     "login": "NeuralNine",
@@ -39,7 +41,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 3,
-    "score": 11244
+    "score": 11244,
+    "globalRank": 148
   },
   {
     "login": "desandro",
@@ -53,7 +56,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 4,
-    "score": 7118
+    "score": 7118,
+    "globalRank": 370
   },
   {
     "login": "mikepenz",
@@ -67,7 +71,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 5,
-    "score": 8171
+    "score": 8171,
+    "globalRank": 387
   },
   {
     "login": "KrauseFx",
@@ -81,7 +86,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 6,
-    "score": 5744
+    "score": 5744,
+    "globalRank": 397
   },
   {
     "login": "mrousavy",
@@ -95,7 +101,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 7,
-    "score": 7848
+    "score": 7848,
+    "globalRank": 454
   },
   {
     "login": "TkDodo",
@@ -109,7 +116,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 8,
-    "score": 6453
+    "score": 6453,
+    "globalRank": 788
   },
   {
     "login": "hu8813",
@@ -123,7 +131,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 9,
-    "score": 3271
+    "score": 3271,
+    "globalRank": 841
   },
   {
     "login": "manfredsteyer",
@@ -137,7 +146,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 10,
-    "score": 3271
+    "score": 3271,
+    "globalRank": 1112
   },
   {
     "login": "PhilJay",
@@ -151,7 +161,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 11,
-    "score": 2613
+    "score": 2613,
+    "globalRank": 1127
   },
   {
     "login": "alexedwards",
@@ -165,7 +176,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 12,
-    "score": 2748
+    "score": 2748,
+    "globalRank": 1696
   },
   {
     "login": "jhoeller",
@@ -179,7 +191,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 13,
-    "score": 2465
+    "score": 2465,
+    "globalRank": 1841
   },
   {
     "login": "alexjc",
@@ -193,7 +206,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 14,
-    "score": 1765
+    "score": 1765,
+    "globalRank": 2125
   },
   {
     "login": "nikgraf",
@@ -207,7 +221,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 15,
-    "score": 2807
+    "score": 2807,
+    "globalRank": 2219
   },
   {
     "login": "nefarius",
@@ -221,7 +236,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 16,
-    "score": 3490
+    "score": 3490,
+    "globalRank": 2312
   },
   {
     "login": "imsnif",
@@ -235,7 +251,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 17,
-    "score": 1977
+    "score": 1977,
+    "globalRank": 2410
   },
   {
     "login": "Tomato6966",
@@ -249,7 +266,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 18,
-    "score": 2142
+    "score": 2142,
+    "globalRank": 2927
   },
   {
     "login": "Empiree",
@@ -263,7 +281,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 19,
-    "score": 1201
+    "score": 1201,
+    "globalRank": 3152
   },
   {
     "login": "webmozart",
@@ -277,7 +296,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 20,
-    "score": 1182
+    "score": 1182,
+    "globalRank": 3170
   },
   {
     "login": "timolins",
@@ -291,7 +311,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 21,
-    "score": 5131
+    "score": 5131,
+    "globalRank": 3210
   },
   {
     "login": "cliffordwolf",
@@ -305,7 +326,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 22,
-    "score": 1143
+    "score": 1143,
+    "globalRank": 3294
   },
   {
     "login": "rstropek",
@@ -319,7 +341,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 23,
-    "score": 3591
+    "score": 3591,
+    "globalRank": 3473
   },
   {
     "login": "firefart",
@@ -333,7 +356,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 24,
-    "score": 2674
+    "score": 2674,
+    "globalRank": 3499
   },
   {
     "login": "okonet",
@@ -347,7 +371,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 25,
-    "score": 1550
+    "score": 1550,
+    "globalRank": 3553
   },
   {
     "login": "mfussenegger",
@@ -361,7 +386,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 26,
-    "score": 3858
+    "score": 3858,
+    "globalRank": 3570
   },
   {
     "login": "odrobnik",
@@ -375,7 +401,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 27,
-    "score": 3666
+    "score": 3666,
+    "globalRank": 3625
   },
   {
     "login": "psinger",
@@ -389,7 +416,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 28,
-    "score": 1042
+    "score": 1042,
+    "globalRank": 3734
   },
   {
     "login": "ammaralkhatib",
@@ -403,7 +431,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 29,
-    "score": 1003
+    "score": 1003,
+    "globalRank": 3923
   },
   {
     "login": "BioPhoton",
@@ -417,7 +446,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 30,
-    "score": 1962
+    "score": 1962,
+    "globalRank": 3933
   },
   {
     "login": "nimaltd",
@@ -431,7 +461,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 31,
-    "score": 1175
+    "score": 1175,
+    "globalRank": 4020
   },
   {
     "login": "krasserm",
@@ -445,7 +476,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 32,
-    "score": 2154
+    "score": 2154,
+    "globalRank": 4092
   },
   {
     "login": "michaelbromley",
@@ -459,7 +491,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 33,
-    "score": 5273
+    "score": 5273,
+    "globalRank": 4144
   },
   {
     "login": "DavidXanatos",
@@ -473,7 +506,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 34,
-    "score": 1640
+    "score": 1640,
+    "globalRank": 4337
   },
   {
     "login": "asjadnaqvi",
@@ -487,7 +521,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 35,
-    "score": 1042
+    "score": 1042,
+    "globalRank": 4576
   },
   {
     "login": "kleiton0x00",
@@ -501,7 +536,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 36,
-    "score": 861
+    "score": 861,
+    "globalRank": 4837
   },
   {
     "login": "michael",
@@ -515,7 +551,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 37,
-    "score": 2317
+    "score": 2317,
+    "globalRank": 5055
   },
   {
     "login": "eversinc33",
@@ -529,7 +566,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 38,
-    "score": 1062
+    "score": 1062,
+    "globalRank": 5388
   },
   {
     "login": "DMezhenskyi",
@@ -543,7 +581,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 39,
-    "score": 956
+    "score": 956,
+    "globalRank": 5477
   },
   {
     "login": "untitaker",
@@ -557,7 +596,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 40,
-    "score": 2154
+    "score": 2154,
+    "globalRank": 5742
   },
   {
     "login": "norbusan",
@@ -571,7 +611,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 41,
-    "score": 3655
+    "score": 3655,
+    "globalRank": 5828
   },
   {
     "login": "zoechi",
@@ -585,7 +626,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 42,
-    "score": 775
+    "score": 775,
+    "globalRank": 5962
   },
   {
     "login": "kevinpapst",
@@ -599,7 +641,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 43,
-    "score": 1743
+    "score": 1743,
+    "globalRank": 6128
   },
   {
     "login": "maoberlehner",
@@ -613,7 +656,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 44,
-    "score": 1264
+    "score": 1264,
+    "globalRank": 6160
   },
   {
     "login": "philipp-spiess",
@@ -627,7 +671,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 45,
-    "score": 3777
+    "score": 3777,
+    "globalRank": 6246
   },
   {
     "login": "wizardofozzie",
@@ -641,7 +686,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 46,
-    "score": 675
+    "score": 675,
+    "globalRank": 6268
   },
   {
     "login": "mrothauer",
@@ -655,7 +701,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 47,
-    "score": 2231
+    "score": 2231,
+    "globalRank": 6279
   },
   {
     "login": "mherrmann",
@@ -669,7 +716,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 48,
-    "score": 2289
+    "score": 2289,
+    "globalRank": 6331
   },
   {
     "login": "gsantner",
@@ -683,7 +731,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 49,
-    "score": 791
+    "score": 791,
+    "globalRank": 6340
   },
   {
     "login": "silverwind",
@@ -697,7 +746,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 50,
-    "score": 6257
+    "score": 6257,
+    "globalRank": 6540
   },
   {
     "login": "TannerGilbert",
@@ -711,7 +761,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 51,
-    "score": 1006
+    "score": 1006,
+    "globalRank": 6789
   },
   {
     "login": "christophrumpel",
@@ -725,7 +776,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 52,
-    "score": 1023
+    "score": 1023,
+    "globalRank": 6971
   },
   {
     "login": "maxboeck",
@@ -739,7 +791,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 53,
-    "score": 607
+    "score": 607,
+    "globalRank": 6984
   },
   {
     "login": "githubharald",
@@ -753,7 +806,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 54,
-    "score": 605
+    "score": 605,
+    "globalRank": 7109
   },
   {
     "login": "Grarak",
@@ -767,7 +821,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 55,
-    "score": 820
+    "score": 820,
+    "globalRank": 7207
   },
   {
     "login": "triska",
@@ -781,7 +836,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 56,
-    "score": 718
+    "score": 718,
+    "globalRank": 7266
   },
   {
     "login": "metachris",
@@ -795,7 +851,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 57,
-    "score": 1379
+    "score": 1379,
+    "globalRank": 7294
   },
   {
     "login": "diwi",
@@ -809,7 +866,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 58,
-    "score": 568
+    "score": 568,
+    "globalRank": 7450
   },
   {
     "login": "YuriDevAT",
@@ -823,7 +881,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 59,
-    "score": 736
+    "score": 736,
+    "globalRank": 7508
   },
   {
     "login": "m1k1o",
@@ -837,7 +896,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 60,
-    "score": 625
+    "score": 625,
+    "globalRank": 7798
   },
   {
     "login": "rainerhahnekamp",
@@ -851,7 +911,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 61,
-    "score": 989
+    "score": 989,
+    "globalRank": 7982
   },
   {
     "login": "brutella",
@@ -865,7 +926,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 62,
-    "score": 927
+    "score": 927,
+    "globalRank": 8070
   },
   {
     "login": "omnidan",
@@ -879,7 +941,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 63,
-    "score": 1514
+    "score": 1514,
+    "globalRank": 8123
   },
   {
     "login": "jrief",
@@ -893,7 +956,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 64,
-    "score": 981
+    "score": 981,
+    "globalRank": 8174
   },
   {
     "login": "weigert",
@@ -907,7 +971,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 65,
-    "score": 1648
+    "score": 1648,
+    "globalRank": 8175
   },
   {
     "login": "AVINOCICO",
@@ -921,7 +986,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 66,
-    "score": 512
+    "score": 512,
+    "globalRank": 8192
   },
   {
     "login": "buildwitholga",
@@ -935,7 +1001,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 67,
-    "score": 631
+    "score": 631,
+    "globalRank": 8272
   },
   {
     "login": "alenfour",
@@ -949,7 +1016,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 68,
-    "score": 4637
+    "score": 4637,
+    "globalRank": 8287
   },
   {
     "login": "myell0w",
@@ -963,7 +1031,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 69,
-    "score": 4952
+    "score": 4952,
+    "globalRank": 8441
   },
   {
     "login": "christophstrobl",
@@ -977,7 +1046,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 70,
-    "score": 1255
+    "score": 1255,
+    "globalRank": 8774
   },
   {
     "login": "igalata",
@@ -991,7 +1061,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 71,
-    "score": 471
+    "score": 471,
+    "globalRank": 8985
   },
   {
     "login": "tobiaslins",
@@ -1005,7 +1076,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 72,
-    "score": 4252
+    "score": 4252,
+    "globalRank": 9004
   },
   {
     "login": "Swatinem",
@@ -1019,7 +1091,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 73,
-    "score": 1264
+    "score": 1264,
+    "globalRank": 9040
   },
   {
     "login": "clason",
@@ -1033,7 +1106,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 74,
-    "score": 2161
+    "score": 2161,
+    "globalRank": 9553
   },
   {
     "login": "giulioz",
@@ -1047,7 +1121,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 75,
-    "score": 1156
+    "score": 1156,
+    "globalRank": 9579
   },
   {
     "login": "MANU-de",
@@ -1061,7 +1136,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 76,
-    "score": 698
+    "score": 698,
+    "globalRank": 9680
   },
   {
     "login": "danielkhan",
@@ -1075,7 +1151,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 77,
-    "score": 2652
+    "score": 2652,
+    "globalRank": 9700
   },
   {
     "login": "six7",
@@ -1089,7 +1166,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 78,
-    "score": 751
+    "score": 751,
+    "globalRank": 9818
   },
   {
     "login": "janpaepke",
@@ -1103,7 +1181,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 79,
-    "score": 616
+    "score": 616,
+    "globalRank": 9839
   },
   {
     "login": "OttoWinter",
@@ -1117,7 +1196,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 80,
-    "score": 440
+    "score": 440,
+    "globalRank": 9946
   },
   {
     "login": "amannn",
@@ -1131,7 +1211,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 81,
-    "score": 1893
+    "score": 1893,
+    "globalRank": 10061
   },
   {
     "login": "akoeplinger",
@@ -1145,7 +1226,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 82,
-    "score": 4307
+    "score": 4307,
+    "globalRank": 10089
   },
   {
     "login": "PrimaryFeather",
@@ -1159,7 +1241,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 83,
-    "score": 436
+    "score": 436,
+    "globalRank": 10121
   },
   {
     "login": "ahocevar",
@@ -1173,7 +1256,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 84,
-    "score": 2983
+    "score": 2983,
+    "globalRank": 10147
   },
   {
     "login": "peacekeeper",
@@ -1187,7 +1271,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 85,
-    "score": 1770
+    "score": 1770,
+    "globalRank": 10170
   },
   {
     "login": "HbmMods",
@@ -1201,7 +1286,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 86,
-    "score": 1049
+    "score": 1049,
+    "globalRank": 10282
   },
   {
     "login": "GraxCode",
@@ -1215,7 +1301,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 87,
-    "score": 407
+    "score": 407,
+    "globalRank": 10440
   },
   {
     "login": "martinus",
@@ -1229,7 +1316,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 88,
-    "score": 995
+    "score": 995,
+    "globalRank": 10441
   },
   {
     "login": "phax",
@@ -1243,7 +1331,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 89,
-    "score": 8628
+    "score": 8628,
+    "globalRank": 10604
   },
   {
     "login": "HedonisticOpportunist",
@@ -1257,7 +1346,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 90,
-    "score": 878
+    "score": 878,
+    "globalRank": 10605
   },
   {
     "login": "daschl",
@@ -1271,7 +1361,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 91,
-    "score": 476
+    "score": 476,
+    "globalRank": 10720
   },
   {
     "login": "adokhugi",
@@ -1285,7 +1376,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 92,
-    "score": 438
+    "score": 438,
+    "globalRank": 10768
   },
   {
     "login": "HazAT",
@@ -1299,7 +1391,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 93,
-    "score": 3588
+    "score": 3588,
+    "globalRank": 10912
   },
   {
     "login": "ArztSamuel",
@@ -1313,7 +1406,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 94,
-    "score": 387
+    "score": 387,
+    "globalRank": 11028
   },
   {
     "login": "rheinwein",
@@ -1327,7 +1421,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 95,
-    "score": 397
+    "score": 397,
+    "globalRank": 11095
   },
   {
     "login": "sudara",
@@ -1341,7 +1436,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 96,
-    "score": 1138
+    "score": 1138,
+    "globalRank": 11096
   },
   {
     "login": "dariuscosden",
@@ -1355,7 +1451,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 97,
-    "score": 811
+    "score": 811,
+    "globalRank": 11129
   },
   {
     "login": "W4RH4WK",
@@ -1369,7 +1466,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 98,
-    "score": 460
+    "score": 460,
+    "globalRank": 11191
   },
   {
     "login": "tosh",
@@ -1383,7 +1481,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 99,
-    "score": 1801
+    "score": 1801,
+    "globalRank": 11223
   },
   {
     "login": "ddprrt",
@@ -1397,7 +1496,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 100,
-    "score": 473
+    "score": 473,
+    "globalRank": 11266
   },
   {
     "login": "Createdd",
@@ -1411,7 +1511,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 101,
-    "score": 452
+    "score": 452,
+    "globalRank": 11267
   },
   {
     "login": "jakob",
@@ -1425,7 +1526,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 102,
-    "score": 549
+    "score": 549,
+    "globalRank": 11458
   },
   {
     "login": "iw4p",
@@ -1439,7 +1541,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 103,
-    "score": 795
+    "score": 795,
+    "globalRank": 11479
   },
   {
     "login": "jakobkogler",
@@ -1453,7 +1556,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 104,
-    "score": 395
+    "score": 395,
+    "globalRank": 11550
   },
   {
     "login": "c-ehrlich",
@@ -1467,7 +1571,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 105,
-    "score": 3345
+    "score": 3345,
+    "globalRank": 11970
   },
   {
     "login": "natterstefan",
@@ -1481,7 +1586,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 106,
-    "score": 3696
+    "score": 3696,
+    "globalRank": 12010
   },
   {
     "login": "tniessen",
@@ -1495,7 +1601,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 107,
-    "score": 596
+    "score": 596,
+    "globalRank": 12011
   },
   {
     "login": "Dav1dde",
@@ -1509,7 +1616,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 108,
-    "score": 3226
+    "score": 3226,
+    "globalRank": 12133
   },
   {
     "login": "hagen1778",
@@ -1523,7 +1631,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 109,
-    "score": 1856
+    "score": 1856,
+    "globalRank": 12165
   },
   {
     "login": "lazka",
@@ -1537,7 +1646,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 110,
-    "score": 6603
+    "score": 6603,
+    "globalRank": 12166
   },
   {
     "login": "jdjuan",
@@ -1551,7 +1661,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 111,
-    "score": 2762
+    "score": 2762,
+    "globalRank": 12454
   },
   {
     "login": "patrickfav",
@@ -1565,7 +1676,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 112,
-    "score": 442
+    "score": 442,
+    "globalRank": 12455
   },
   {
     "login": "cahya-wirawan",
@@ -1579,7 +1691,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 113,
-    "score": 640
+    "score": 640,
+    "globalRank": 12485
   },
   {
     "login": "abdullin",
@@ -1593,7 +1706,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 114,
-    "score": 6573
+    "score": 6573,
+    "globalRank": 12486
   },
   {
     "login": "LukasLechnerDev",
@@ -1607,7 +1721,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 115,
-    "score": 742
+    "score": 742,
+    "globalRank": 12520
   },
   {
     "login": "markushi",
@@ -1621,7 +1736,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 116,
-    "score": 867
+    "score": 867,
+    "globalRank": 12623
   },
   {
     "login": "pprett",
@@ -1635,7 +1751,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 117,
-    "score": 346
+    "score": 346,
+    "globalRank": 12695
   },
   {
     "login": "tomw1808",
@@ -1649,7 +1766,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 118,
-    "score": 730
+    "score": 730,
+    "globalRank": 12738
   },
   {
     "login": "gi0baro",
@@ -1663,7 +1781,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 119,
-    "score": 1829
+    "score": 1829,
+    "globalRank": 12843
   },
   {
     "login": "pbek",
@@ -1677,7 +1796,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 120,
-    "score": 4598
+    "score": 4598,
+    "globalRank": 12881
   },
   {
     "login": "reitermarkus",
@@ -1691,7 +1811,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 121,
-    "score": 2526
+    "score": 2526,
+    "globalRank": 12945
   },
   {
     "login": "slhck",
@@ -1705,7 +1826,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 122,
-    "score": 1527
+    "score": 1527,
+    "globalRank": 13006
   },
   {
     "login": "DavidRutten",
@@ -1719,7 +1841,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 123,
-    "score": 352
+    "score": 352,
+    "globalRank": 13191
   },
   {
     "login": "westbaer",
@@ -1733,7 +1856,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 124,
-    "score": 321
+    "score": 321,
+    "globalRank": 13347
   },
   {
     "login": "mkalten",
@@ -1747,7 +1871,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 125,
-    "score": 325
+    "score": 325,
+    "globalRank": 13414
   },
   {
     "login": "TannerGabriel",
@@ -1761,7 +1886,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 126,
-    "score": 785
+    "score": 785,
+    "globalRank": 13454
   },
   {
     "login": "hnrch02",
@@ -1775,7 +1901,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 127,
-    "score": 362
+    "score": 362,
+    "globalRank": 13455
   },
   {
     "login": "zupzup",
@@ -1789,7 +1916,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 128,
-    "score": 1839
+    "score": 1839,
+    "globalRank": 13456
   },
   {
     "login": "4ad",
@@ -1803,7 +1931,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 129,
-    "score": 672
+    "score": 672,
+    "globalRank": 13540
   },
   {
     "login": "njanakiev",
@@ -1817,7 +1946,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 130,
-    "score": 317
+    "score": 317,
+    "globalRank": 13629
   },
   {
     "login": "thp",
@@ -1831,7 +1961,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 131,
-    "score": 373
+    "score": 373,
+    "globalRank": 13679
   },
   {
     "login": "sstokic-tgm",
@@ -1845,7 +1976,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 132,
-    "score": 523
+    "score": 523,
+    "globalRank": 13716
   },
   {
     "login": "renerocksai",
@@ -1859,7 +1991,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 133,
-    "score": 2233
+    "score": 2233,
+    "globalRank": 13900
   },
   {
     "login": "nerolation",
@@ -1873,7 +2006,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 134,
-    "score": 18647
+    "score": 18647,
+    "globalRank": 14022
   },
   {
     "login": "fubhy",
@@ -1887,7 +2021,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 135,
-    "score": 691
+    "score": 691,
+    "globalRank": 14110
   },
   {
     "login": "lukepistrol",
@@ -1901,7 +2036,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 136,
-    "score": 332
+    "score": 332,
+    "globalRank": 14154
   },
   {
     "login": "ahyield",
@@ -1915,7 +2051,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 137,
-    "score": 597
+    "score": 597,
+    "globalRank": 14208
   },
   {
     "login": "atong01",
@@ -1929,7 +2066,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 138,
-    "score": 542
+    "score": 542,
+    "globalRank": 14468
   },
   {
     "login": "tinohager",
@@ -1943,7 +2081,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 139,
-    "score": 2512
+    "score": 2512,
+    "globalRank": 14469
   },
   {
     "login": "manveru",
@@ -1957,7 +2096,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 140,
-    "score": 1915
+    "score": 1915,
+    "globalRank": 14568
   },
   {
     "login": "ich777",
@@ -1971,7 +2111,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 141,
-    "score": 6971
+    "score": 6971,
+    "globalRank": 14636
   },
   {
     "login": "glennreyes",
@@ -1985,7 +2126,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 142,
-    "score": 2229
+    "score": 2229,
+    "globalRank": 14637
   },
   {
     "login": "Scarygami",
@@ -1999,7 +2141,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 143,
-    "score": 290
+    "score": 290,
+    "globalRank": 14691
   },
   {
     "login": "LaurenzV",
@@ -2013,7 +2156,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 144,
-    "score": 4152
+    "score": 4152,
+    "globalRank": 14837
   },
   {
     "login": "smarr",
@@ -2027,7 +2171,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 145,
-    "score": 935
+    "score": 935,
+    "globalRank": 14882
   },
   {
     "login": "hvr",
@@ -2041,7 +2186,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 146,
-    "score": 289
+    "score": 289,
+    "globalRank": 14883
   },
   {
     "login": "laurenz",
@@ -2055,7 +2201,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 147,
-    "score": 301
+    "score": 301,
+    "globalRank": 15016
   },
   {
     "login": "ChristophWurst",
@@ -2069,7 +2216,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 148,
-    "score": 2810
+    "score": 2810,
+    "globalRank": 15017
   },
   {
     "login": "stampFabian",
@@ -2083,7 +2231,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 149,
-    "score": 282
+    "score": 282,
+    "globalRank": 15065
   },
   {
     "login": "mgreiler",
@@ -2097,7 +2246,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 150,
-    "score": 525
+    "score": 525,
+    "globalRank": 15204
   },
   {
     "login": "rluba",
@@ -2111,7 +2261,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 151,
-    "score": 329
+    "score": 329,
+    "globalRank": 15320
   },
   {
     "login": "thrau",
@@ -2125,7 +2276,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 152,
-    "score": 1054
+    "score": 1054,
+    "globalRank": 15416
   },
   {
     "login": "thomas-haslwanter",
@@ -2139,7 +2291,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 153,
-    "score": 286
+    "score": 286,
+    "globalRank": 15417
   },
   {
     "login": "flagbug",
@@ -2153,7 +2306,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 154,
-    "score": 1698
+    "score": 1698,
+    "globalRank": 15507
   },
   {
     "login": "niksumeiko",
@@ -2167,7 +2321,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 155,
-    "score": 1944
+    "score": 1944,
+    "globalRank": 15713
   },
   {
     "login": "canocalir",
@@ -2181,7 +2336,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 156,
-    "score": 294
+    "score": 294,
+    "globalRank": 15813
   },
   {
     "login": "hola-soy-milk",
@@ -2195,7 +2351,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 157,
-    "score": 1133
+    "score": 1133,
+    "globalRank": 15926
   },
   {
     "login": "taherfattahi",
@@ -2209,7 +2366,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 158,
-    "score": 513
+    "score": 513,
+    "globalRank": 15984
   },
   {
     "login": "simon04",
@@ -2223,7 +2381,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 159,
-    "score": 3392
+    "score": 3392,
+    "globalRank": 16035
   },
   {
     "login": "sehmaschine",
@@ -2237,7 +2396,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 160,
-    "score": 271
+    "score": 271,
+    "globalRank": 16185
   },
   {
     "login": "alexander-schranz",
@@ -2251,7 +2411,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 161,
-    "score": 2704
+    "score": 2704,
+    "globalRank": 16246
   },
   {
     "login": "yizhe-ang",
@@ -2265,7 +2426,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 162,
-    "score": 2042
+    "score": 2042,
+    "globalRank": 16247
   },
   {
     "login": "smalinux",
@@ -2279,7 +2441,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 163,
-    "score": 1274
+    "score": 1274,
+    "globalRank": 16248
   },
   {
     "login": "franz-josef-kaiser",
@@ -2293,7 +2456,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 164,
-    "score": 259
+    "score": 259,
+    "globalRank": 16373
   },
   {
     "login": "loreabad6",
@@ -2307,7 +2471,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 165,
-    "score": 252
+    "score": 252,
+    "globalRank": 16625
   },
   {
     "login": "antosubash",
@@ -2321,7 +2486,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 166,
-    "score": 3870
+    "score": 3870,
+    "globalRank": 16669
   },
   {
     "login": "cypher",
@@ -2335,7 +2501,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 167,
-    "score": 1869
+    "score": 1869,
+    "globalRank": 16723
   },
   {
     "login": "patrickgold",
@@ -2349,7 +2516,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 168,
-    "score": 898
+    "score": 898,
+    "globalRank": 16869
   },
   {
     "login": "PiMaker",
@@ -2363,7 +2531,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 169,
-    "score": 2505
+    "score": 2505,
+    "globalRank": 16926
   },
   {
     "login": "cfalta",
@@ -2377,7 +2546,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 170,
-    "score": 244
+    "score": 244,
+    "globalRank": 17068
   },
   {
     "login": "korenmiklos",
@@ -2391,7 +2561,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 171,
-    "score": 3628
+    "score": 3628,
+    "globalRank": 17069
   },
   {
     "login": "priscilawebdev",
@@ -2405,7 +2576,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 172,
-    "score": 2373
+    "score": 2373,
+    "globalRank": 17107
   },
   {
     "login": "christiannagel",
@@ -2419,7 +2591,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 173,
-    "score": 9918
+    "score": 9918,
+    "globalRank": 17159
   },
   {
     "login": "matuzo",
@@ -2433,7 +2606,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 174,
-    "score": 318
+    "score": 318,
+    "globalRank": 17280
   },
   {
     "login": "sgratzl",
@@ -2447,7 +2621,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 175,
-    "score": 377
+    "score": 377,
+    "globalRank": 17393
   },
   {
     "login": "rsouza",
@@ -2461,7 +2636,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 176,
-    "score": 363
+    "score": 363,
+    "globalRank": 17455
   },
   {
     "login": "Classic298",
@@ -2475,7 +2651,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 177,
-    "score": 3661
+    "score": 3661,
+    "globalRank": 17569
   },
   {
     "login": "CHH",
@@ -2489,7 +2666,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 178,
-    "score": 267
+    "score": 267,
+    "globalRank": 17623
   },
   {
     "login": "georgringer",
@@ -2503,7 +2681,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 179,
-    "score": 1596
+    "score": 1596,
+    "globalRank": 17624
   },
   {
     "login": "r0f1",
@@ -2517,7 +2696,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 180,
-    "score": 624
+    "score": 624,
+    "globalRank": 17683
   },
   {
     "login": "BenjaminAster",
@@ -2531,7 +2711,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 181,
-    "score": 254
+    "score": 254,
+    "globalRank": 17742
   },
   {
     "login": "hjanuschka",
@@ -2545,7 +2726,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 182,
-    "score": 2945
+    "score": 2945,
+    "globalRank": 17896
   },
   {
     "login": "aschuch",
@@ -2559,7 +2741,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 183,
-    "score": 226
+    "score": 226,
+    "globalRank": 18004
   },
   {
     "login": "taketwo",
@@ -2573,7 +2756,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 184,
-    "score": 2190
+    "score": 2190,
+    "globalRank": 18005
   },
   {
     "login": "regenrek",
@@ -2587,7 +2771,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 185,
-    "score": 4076
+    "score": 4076,
+    "globalRank": 18158
   },
   {
     "login": "Draikth",
@@ -2601,7 +2786,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 186,
-    "score": 222
+    "score": 222,
+    "globalRank": 18215
   },
   {
     "login": "behackl",
@@ -2615,7 +2801,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 187,
-    "score": 1059
+    "score": 1059,
+    "globalRank": 18216
   },
   {
     "login": "rfjakob",
@@ -2629,7 +2816,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 188,
-    "score": 390
+    "score": 390,
+    "globalRank": 18267
   },
   {
     "login": "dch",
@@ -2643,7 +2831,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 189,
-    "score": 1667
+    "score": 1667,
+    "globalRank": 18399
   },
   {
     "login": "tupui",
@@ -2657,7 +2846,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 190,
-    "score": 1513
+    "score": 1513,
+    "globalRank": 18400
   },
   {
     "login": "NullDev",
@@ -2671,7 +2861,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 191,
-    "score": 2743
+    "score": 2743,
+    "globalRank": 18463
   },
   {
     "login": "inukshuk",
@@ -2685,7 +2876,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 192,
-    "score": 2209
+    "score": 2209,
+    "globalRank": 18519
   },
   {
     "login": "codecop",
@@ -2699,7 +2891,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 193,
-    "score": 512
+    "score": 512,
+    "globalRank": 18579
   },
   {
     "login": "berkayalan",
@@ -2713,7 +2906,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 194,
-    "score": 231
+    "score": 231,
+    "globalRank": 18580
   },
   {
     "login": "DominikAngerer",
@@ -2727,7 +2921,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 195,
-    "score": 230
+    "score": 230,
+    "globalRank": 18581
   },
   {
     "login": "sebastinas",
@@ -2741,7 +2936,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 196,
-    "score": 1221
+    "score": 1221,
+    "globalRank": 18702
   },
   {
     "login": "auchri",
@@ -2755,7 +2951,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 197,
-    "score": 249
+    "score": 249,
+    "globalRank": 18830
   },
   {
     "login": "f0k",
@@ -2769,7 +2966,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 198,
-    "score": 248
+    "score": 248,
+    "globalRank": 18907
   },
   {
     "login": "mkurz",
@@ -2783,7 +2981,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 199,
-    "score": 4315
+    "score": 4315,
+    "globalRank": 18908
   },
   {
     "login": "julianrubisch",
@@ -2797,7 +2996,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 200,
-    "score": 5358
+    "score": 5358,
+    "globalRank": 18975
   },
   {
     "login": "amartinz",
@@ -2811,7 +3011,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 201,
-    "score": 472
+    "score": 472,
+    "globalRank": 18976
   },
   {
     "login": "obiltschnig",
@@ -2825,7 +3026,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 202,
-    "score": 323
+    "score": 323,
+    "globalRank": 19030
   },
   {
     "login": "mitschabaude",
@@ -2839,7 +3041,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 203,
-    "score": 4321
+    "score": 4321,
+    "globalRank": 19094
   },
   {
     "login": "codebryo",
@@ -2853,7 +3056,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 204,
-    "score": 338
+    "score": 338,
+    "globalRank": 19095
   },
   {
     "login": "lewurm",
@@ -2867,7 +3071,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 205,
-    "score": 384
+    "score": 384,
+    "globalRank": 19163
   },
   {
     "login": "bolonio",
@@ -2881,7 +3086,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 206,
-    "score": 822
+    "score": 822,
+    "globalRank": 19164
   },
   {
     "login": "christophwille",
@@ -2895,7 +3101,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 207,
-    "score": 432
+    "score": 432,
+    "globalRank": 19231
   },
   {
     "login": "seerainer",
@@ -2909,7 +3116,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 208,
-    "score": 580
+    "score": 580,
+    "globalRank": 19232
   },
   {
     "login": "ErikFrits",
@@ -2923,7 +3131,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 209,
-    "score": 232
+    "score": 232,
+    "globalRank": 19233
   },
   {
     "login": "bezhanSalleh",
@@ -2937,7 +3146,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 210,
-    "score": 1781
+    "score": 1781,
+    "globalRank": 19311
   },
   {
     "login": "mozman",
@@ -2951,7 +3161,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 211,
-    "score": 290
+    "score": 290,
+    "globalRank": 19401
   },
   {
     "login": "akirk",
@@ -2965,7 +3176,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 212,
-    "score": 2491
+    "score": 2491,
+    "globalRank": 19476
   },
   {
     "login": "mariohahn",
@@ -2979,7 +3191,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 213,
-    "score": 204
+    "score": 204,
+    "globalRank": 19542
   },
   {
     "login": "siegfriedpammer",
@@ -2993,7 +3206,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 214,
-    "score": 437
+    "score": 437,
+    "globalRank": 19618
   },
   {
     "login": "ironcev",
@@ -3007,7 +3221,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 215,
-    "score": 988
+    "score": 988,
+    "globalRank": 19619
   },
   {
     "login": "henon",
@@ -3021,7 +3236,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 216,
-    "score": 219
+    "score": 219,
+    "globalRank": 19832
   },
   {
     "login": "andreasklinger",
@@ -3035,7 +3251,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 217,
-    "score": 226
+    "score": 226,
+    "globalRank": 19833
   },
   {
     "login": "tpoechtrager",
@@ -3049,7 +3266,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 218,
-    "score": 690
+    "score": 690,
+    "globalRank": 19910
   },
   {
     "login": "gcarq",
@@ -3063,7 +3281,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 219,
-    "score": 1776
+    "score": 1776,
+    "globalRank": 19911
   },
   {
     "login": "davidhellmann",
@@ -3077,7 +3296,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 220,
-    "score": 498
+    "score": 498,
+    "globalRank": 19985
   },
   {
     "login": "nenadmarinkovic",
@@ -3091,7 +3311,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 221,
-    "score": 1655
+    "score": 1655,
+    "globalRank": 19986
   },
   {
     "login": "Black-Seraph",
@@ -3105,7 +3326,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 222,
-    "score": 218
+    "score": 218,
+    "globalRank": 20052
   },
   {
     "login": "vanesa",
@@ -3119,7 +3341,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 223,
-    "score": 191
+    "score": 191,
+    "globalRank": 20333
   },
   {
     "login": "MSch",
@@ -3133,7 +3356,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 224,
-    "score": 270
+    "score": 270,
+    "globalRank": 20478
   },
   {
     "login": "hpretl",
@@ -3147,7 +3371,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 225,
-    "score": 674
+    "score": 674,
+    "globalRank": 20479
   },
   {
     "login": "flavius",
@@ -3161,7 +3386,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 226,
-    "score": 290
+    "score": 290,
+    "globalRank": 20563
   },
   {
     "login": "chassing",
@@ -3175,7 +3401,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 227,
-    "score": 1785
+    "score": 1785,
+    "globalRank": 20640
   },
   {
     "login": "nilsding",
@@ -3189,7 +3416,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 228,
-    "score": 1274
+    "score": 1274,
+    "globalRank": 20641
   },
   {
     "login": "geoHeil",
@@ -3203,7 +3431,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 229,
-    "score": 1732
+    "score": 1732,
+    "globalRank": 20721
   },
   {
     "login": "mneise",
@@ -3217,7 +3446,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 230,
-    "score": 1214
+    "score": 1214,
+    "globalRank": 20795
   },
   {
     "login": "panzi",
@@ -3231,7 +3461,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 231,
-    "score": 855
+    "score": 855,
+    "globalRank": 20889
   },
   {
     "login": "hhaji",
@@ -3245,7 +3476,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 232,
-    "score": 578
+    "score": 578,
+    "globalRank": 20890
   },
   {
     "login": "mkg20001",
@@ -3259,7 +3491,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 233,
-    "score": 1373
+    "score": 1373,
+    "globalRank": 20891
   },
   {
     "login": "andriisoldatenko",
@@ -3273,7 +3506,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 234,
-    "score": 960
+    "score": 960,
+    "globalRank": 21087
   },
   {
     "login": "flomotlik",
@@ -3287,7 +3521,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 235,
-    "score": 638
+    "score": 638,
+    "globalRank": 21172
   },
   {
     "login": "pujux",
@@ -3301,7 +3536,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 236,
-    "score": 1820
+    "score": 1820,
+    "globalRank": 21173
   },
   {
     "login": "HaasStefan",
@@ -3315,7 +3551,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 237,
-    "score": 782
+    "score": 782,
+    "globalRank": 21269
   },
   {
     "login": "bkolobara",
@@ -3329,7 +3566,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 238,
-    "score": 614
+    "score": 614,
+    "globalRank": 21270
   },
   {
     "login": "andreashappe",
@@ -3343,7 +3581,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 239,
-    "score": 993
+    "score": 993,
+    "globalRank": 21353
   },
   {
     "login": "clairexen",
@@ -3357,7 +3596,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 240,
-    "score": 607
+    "score": 607,
+    "globalRank": 21354
   },
   {
     "login": "serratus",
@@ -3371,7 +3611,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 241,
-    "score": 179
+    "score": 179,
+    "globalRank": 21355
   },
   {
     "login": "ViktorHofer",
@@ -3385,7 +3626,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 242,
-    "score": 3638
+    "score": 3638,
+    "globalRank": 21439
   },
   {
     "login": "hama3254",
@@ -3399,7 +3641,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 243,
-    "score": 177
+    "score": 177,
+    "globalRank": 21526
   },
   {
     "login": "mihaibujanca",
@@ -3413,7 +3656,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 244,
-    "score": 205
+    "score": 205,
+    "globalRank": 21704
   },
   {
     "login": "akoehle",
@@ -3427,7 +3671,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 245,
-    "score": 175
+    "score": 175,
+    "globalRank": 21705
   },
   {
     "login": "segler-alex",
@@ -3441,7 +3686,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 246,
-    "score": 175
+    "score": 175,
+    "globalRank": 21706
   },
   {
     "login": "mdbloice",
@@ -3455,7 +3701,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 247,
-    "score": 248
+    "score": 248,
+    "globalRank": 21809
   },
   {
     "login": "majodev",
@@ -3469,7 +3716,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 248,
-    "score": 335
+    "score": 335,
+    "globalRank": 21810
   },
   {
     "login": "rsimon",
@@ -3483,7 +3731,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 249,
-    "score": 4011
+    "score": 4011,
+    "globalRank": 21909
   },
   {
     "login": "rooootdev",
@@ -3497,7 +3746,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 250,
-    "score": 810
+    "score": 810,
+    "globalRank": 22014
   },
   {
     "login": "wkulhanek",
@@ -3511,7 +3761,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 251,
-    "score": 2243
+    "score": 2243,
+    "globalRank": 22015
   },
   {
     "login": "nekowinston",
@@ -3525,7 +3776,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 252,
-    "score": 446
+    "score": 446,
+    "globalRank": 22136
   },
   {
     "login": "BlackSamorez",
@@ -3539,7 +3791,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 253,
-    "score": 694
+    "score": 694,
+    "globalRank": 22137
   },
   {
     "login": "DominikGuzei",
@@ -3553,7 +3806,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 254,
-    "score": 195
+    "score": 195,
+    "globalRank": 22138
   },
   {
     "login": "Flash0ver",
@@ -3567,7 +3821,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 255,
-    "score": 939
+    "score": 939,
+    "globalRank": 22253
   },
   {
     "login": "PeterTheOne",
@@ -3581,7 +3836,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 256,
-    "score": 188
+    "score": 188,
+    "globalRank": 22254
   },
   {
     "login": "fjp",
@@ -3595,7 +3851,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 257,
-    "score": 294
+    "score": 294,
+    "globalRank": 22255
   },
   {
     "login": "aaronkaplan",
@@ -3609,7 +3866,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 258,
-    "score": 513
+    "score": 513,
+    "globalRank": 22256
   },
   {
     "login": "foex-open-source",
@@ -3623,7 +3881,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 259,
-    "score": 169
+    "score": 169,
+    "globalRank": 22378
   },
   {
     "login": "MayaRainer",
@@ -3637,7 +3896,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 260,
-    "score": 503
+    "score": 503,
+    "globalRank": 22379
   },
   {
     "login": "html6405",
@@ -3651,7 +3911,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 261,
-    "score": 296
+    "score": 296,
+    "globalRank": 22380
   },
   {
     "login": "manuelbernhardt",
@@ -3665,7 +3926,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 262,
-    "score": 1232
+    "score": 1232,
+    "globalRank": 22486
   },
   {
     "login": "gbrueckl",
@@ -3679,7 +3941,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 263,
-    "score": 518
+    "score": 518,
+    "globalRank": 22591
   },
   {
     "login": "zoltanctoth",
@@ -3693,7 +3956,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 264,
-    "score": 890
+    "score": 890,
+    "globalRank": 22819
   },
   {
     "login": "daKmoR",
@@ -3707,7 +3971,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 265,
-    "score": 174
+    "score": 174,
+    "globalRank": 22820
   },
   {
     "login": "AhmedAbouelkher",
@@ -3721,7 +3986,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 266,
-    "score": 1509
+    "score": 1509,
+    "globalRank": 22821
   },
   {
     "login": "Pobermeier",
@@ -3735,7 +4001,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 267,
-    "score": 706
+    "score": 706,
+    "globalRank": 22938
   },
   {
     "login": "Skinz3",
@@ -3749,7 +4016,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 268,
-    "score": 2498
+    "score": 2498,
+    "globalRank": 22939
   },
   {
     "login": "posativ",
@@ -3763,7 +4031,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 269,
-    "score": 166
+    "score": 166,
+    "globalRank": 22940
   },
   {
     "login": "GavinMendelGleason",
@@ -3777,7 +4046,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 270,
-    "score": 5687
+    "score": 5687,
+    "globalRank": 22941
   },
   {
     "login": "patloew",
@@ -3791,7 +4061,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 271,
-    "score": 164
+    "score": 164,
+    "globalRank": 22942
   },
   {
     "login": "hamednikzad",
@@ -3805,7 +4076,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 272,
-    "score": 169
+    "score": 169,
+    "globalRank": 23060
   },
   {
     "login": "Quillraven",
@@ -3819,7 +4091,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 273,
-    "score": 983
+    "score": 983,
+    "globalRank": 23061
   },
   {
     "login": "KingSora",
@@ -3833,7 +4106,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 274,
-    "score": 431
+    "score": 431,
+    "globalRank": 23062
   },
   {
     "login": "pulse00",
@@ -3847,7 +4121,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 275,
-    "score": 164
+    "score": 164,
+    "globalRank": 23198
   },
   {
     "login": "franzenzenhofer",
@@ -3861,7 +4136,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 276,
-    "score": 1494
+    "score": 1494,
+    "globalRank": 23310
   },
   {
     "login": "dhth",
@@ -3875,7 +4151,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 277,
-    "score": 3092
+    "score": 3092,
+    "globalRank": 23311
   },
   {
     "login": "petronetto",
@@ -3889,7 +4166,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 278,
-    "score": 1109
+    "score": 1109,
+    "globalRank": 23312
   },
   {
     "login": "hns",
@@ -3903,7 +4181,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 279,
-    "score": 731
+    "score": 731,
+    "globalRank": 23432
   },
   {
     "login": "jakobfriedl",
@@ -3917,7 +4196,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 280,
-    "score": 682
+    "score": 682,
+    "globalRank": 23551
   },
   {
     "login": "TheFox",
@@ -3931,7 +4211,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 281,
-    "score": 262
+    "score": 262,
+    "globalRank": 23674
   },
   {
     "login": "stefan2904",
@@ -3945,7 +4226,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 282,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 23806
   },
   {
     "login": "cbrnr",
@@ -3959,7 +4241,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 283,
-    "score": 1168
+    "score": 1168,
+    "globalRank": 23954
   },
   {
     "login": "sushi2k",
@@ -3973,7 +4256,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 284,
-    "score": 297
+    "score": 297,
+    "globalRank": 23955
   },
   {
     "login": "m2mtech",
@@ -3987,7 +4271,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 285,
-    "score": 163
+    "score": 163,
+    "globalRank": 23956
   },
   {
     "login": "danielhuppmann",
@@ -4001,7 +4286,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 286,
-    "score": 1211
+    "score": 1211,
+    "globalRank": 23957
   },
   {
     "login": "danielblanco96",
@@ -4015,7 +4301,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 287,
-    "score": 963
+    "score": 963,
+    "globalRank": 24080
   },
   {
     "login": "mraaroncruz",
@@ -4029,7 +4316,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 288,
-    "score": 200
+    "score": 200,
+    "globalRank": 24081
   },
   {
     "login": "mina-beiki",
@@ -4043,7 +4331,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 289,
-    "score": 518
+    "score": 518,
+    "globalRank": 24206
   },
   {
     "login": "Geekgineer",
@@ -4057,7 +4346,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 290,
-    "score": 259
+    "score": 259,
+    "globalRank": 24207
   },
   {
     "login": "saeiddrv",
@@ -4071,7 +4361,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 291,
-    "score": 1124
+    "score": 1124,
+    "globalRank": 24208
   },
   {
     "login": "theStack",
@@ -4085,7 +4376,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 292,
-    "score": 697
+    "score": 697,
+    "globalRank": 24209
   },
   {
     "login": "leojimeneza",
@@ -4099,7 +4391,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 293,
-    "score": 171
+    "score": 171,
+    "globalRank": 24349
   },
   {
     "login": "snusnu",
@@ -4113,7 +4406,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 294,
-    "score": 153
+    "score": 153,
+    "globalRank": 24350
   },
   {
     "login": "geek-at",
@@ -4127,7 +4421,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 295,
-    "score": 319
+    "score": 319,
+    "globalRank": 24486
   },
   {
     "login": "Curve",
@@ -4141,7 +4436,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 296,
-    "score": 1523
+    "score": 1523,
+    "globalRank": 24487
   },
   {
     "login": "tdeekens",
@@ -4155,7 +4451,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 297,
-    "score": 2198
+    "score": 2198,
+    "globalRank": 24616
   },
   {
     "login": "marandaneto",
@@ -4169,7 +4466,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 298,
-    "score": 2921
+    "score": 2921,
+    "globalRank": 24617
   },
   {
     "login": "alwx",
@@ -4183,7 +4481,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 299,
-    "score": 513
+    "score": 513,
+    "globalRank": 24754
   },
   {
     "login": "stylesuxx",
@@ -4197,7 +4496,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 300,
-    "score": 1801
+    "score": 1801,
+    "globalRank": 24755
   },
   {
     "login": "hschne",
@@ -4211,7 +4511,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 301,
-    "score": 2012
+    "score": 2012,
+    "globalRank": 24756
   },
   {
     "login": "hannojg",
@@ -4225,7 +4526,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 302,
-    "score": 1157
+    "score": 1157,
+    "globalRank": 24757
   },
   {
     "login": "ChristofSchwarz",
@@ -4239,7 +4541,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 303,
-    "score": 229
+    "score": 229,
+    "globalRank": 24758
   },
   {
     "login": "dsseng",
@@ -4253,7 +4556,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 304,
-    "score": 893
+    "score": 893,
+    "globalRank": 24902
   },
   {
     "login": "ansibleguy",
@@ -4267,7 +4571,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 305,
-    "score": 161
+    "score": 161,
+    "globalRank": 24903
   },
   {
     "login": "fghaas",
@@ -4281,7 +4586,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 306,
-    "score": 1102
+    "score": 1102,
+    "globalRank": 24904
   },
   {
     "login": "brusch",
@@ -4295,7 +4601,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 307,
-    "score": 264
+    "score": 264,
+    "globalRank": 25046
   },
   {
     "login": "machinekoder",
@@ -4309,7 +4616,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 308,
-    "score": 264
+    "score": 264,
+    "globalRank": 25047
   },
   {
     "login": "marcopixel",
@@ -4323,7 +4631,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 309,
-    "score": 659
+    "score": 659,
+    "globalRank": 25048
   },
   {
     "login": "mmackh",
@@ -4337,7 +4646,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 310,
-    "score": 267
+    "score": 267,
+    "globalRank": 25049
   },
   {
     "login": "zimmski",
@@ -4351,7 +4661,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 311,
-    "score": 183
+    "score": 183,
+    "globalRank": 25160
   },
   {
     "login": "damian0815",
@@ -4365,7 +4676,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 312,
-    "score": 300
+    "score": 300,
+    "globalRank": 25161
   },
   {
     "login": "leecher1337",
@@ -4379,7 +4691,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 313,
-    "score": 181
+    "score": 181,
+    "globalRank": 25162
   },
   {
     "login": "martin-martin",
@@ -4393,7 +4706,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 314,
-    "score": 1101
+    "score": 1101,
+    "globalRank": 25297
   },
   {
     "login": "mikex86",
@@ -4407,7 +4721,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 315,
-    "score": 1657
+    "score": 1657,
+    "globalRank": 25298
   },
   {
     "login": "jonasgeiler",
@@ -4421,7 +4736,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 316,
-    "score": 1948
+    "score": 1948,
+    "globalRank": 25435
   },
   {
     "login": "saintedlama",
@@ -4435,7 +4751,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 317,
-    "score": 1505
+    "score": 1505,
+    "globalRank": 25436
   },
   {
     "login": "sebix",
@@ -4449,7 +4766,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 318,
-    "score": 739
+    "score": 739,
+    "globalRank": 25569
   },
   {
     "login": "mika",
@@ -4463,7 +4781,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 319,
-    "score": 1107
+    "score": 1107,
+    "globalRank": 25570
   },
   {
     "login": "nicokaiser",
@@ -4477,7 +4796,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 320,
-    "score": 271
+    "score": 271,
+    "globalRank": 25571
   },
   {
     "login": "StfBauer",
@@ -4491,7 +4811,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 321,
-    "score": 574
+    "score": 574,
+    "globalRank": 25719
   },
   {
     "login": "voigtjessica",
@@ -4505,7 +4826,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 322,
-    "score": 143
+    "score": 143,
+    "globalRank": 25720
   },
   {
     "login": "hhrutter",
@@ -4519,7 +4841,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 323,
-    "score": 265
+    "score": 265,
+    "globalRank": 25875
   },
   {
     "login": "jycouet",
@@ -4533,7 +4856,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 324,
-    "score": 3046
+    "score": 3046,
+    "globalRank": 25876
   },
   {
     "login": "zerok",
@@ -4547,7 +4871,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 325,
-    "score": 5508
+    "score": 5508,
+    "globalRank": 25877
   },
   {
     "login": "MacLemon",
@@ -4561,7 +4886,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 326,
-    "score": 186
+    "score": 186,
+    "globalRank": 25878
   },
   {
     "login": "MicPie",
@@ -4575,7 +4901,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 327,
-    "score": 156
+    "score": 156,
+    "globalRank": 25879
   },
   {
     "login": "cleptric",
@@ -4589,7 +4916,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 328,
-    "score": 2180
+    "score": 2180,
+    "globalRank": 25880
   },
   {
     "login": "ckirsch",
@@ -4603,7 +4931,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 329,
-    "score": 6150
+    "score": 6150,
+    "globalRank": 26030
   },
   {
     "login": "cdiener",
@@ -4617,7 +4946,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 330,
-    "score": 368
+    "score": 368,
+    "globalRank": 26031
   },
   {
     "login": "mme",
@@ -4631,7 +4961,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 331,
-    "score": 1552
+    "score": 1552,
+    "globalRank": 26032
   },
   {
     "login": "dasMulli",
@@ -4645,7 +4976,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 332,
-    "score": 199
+    "score": 199,
+    "globalRank": 26033
   },
   {
     "login": "meeroslav",
@@ -4659,7 +4991,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 333,
-    "score": 1250
+    "score": 1250,
+    "globalRank": 26179
   },
   {
     "login": "phaer",
@@ -4673,7 +5006,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 334,
-    "score": 1419
+    "score": 1419,
+    "globalRank": 26180
   },
   {
     "login": "weaintplastic",
@@ -4687,7 +5021,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 335,
-    "score": 140
+    "score": 140,
+    "globalRank": 26181
   },
   {
     "login": "RequiDev",
@@ -4701,7 +5036,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 336,
-    "score": 2317
+    "score": 2317,
+    "globalRank": 26182
   },
   {
     "login": "PeterStrick",
@@ -4715,7 +5051,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 337,
-    "score": 224
+    "score": 224,
+    "globalRank": 26346
   },
   {
     "login": "roderickperez",
@@ -4729,7 +5066,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 338,
-    "score": 281
+    "score": 281,
+    "globalRank": 26347
   },
   {
     "login": "meteyou",
@@ -4743,7 +5081,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 339,
-    "score": 2001
+    "score": 2001,
+    "globalRank": 26505
   },
   {
     "login": "chrispader",
@@ -4757,7 +5096,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 340,
-    "score": 2131
+    "score": 2131,
+    "globalRank": 26655
   },
   {
     "login": "rhcarvalho",
@@ -4771,7 +5111,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 341,
-    "score": 1578
+    "score": 1578,
+    "globalRank": 26656
   },
   {
     "login": "mschubert",
@@ -4785,7 +5126,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 342,
-    "score": 701
+    "score": 701,
+    "globalRank": 26809
   },
   {
     "login": "jan-auer",
@@ -4799,7 +5141,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 343,
-    "score": 1980
+    "score": 1980,
+    "globalRank": 26810
   },
   {
     "login": "apacha",
@@ -4813,7 +5156,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 344,
-    "score": 496
+    "score": 496,
+    "globalRank": 26811
   },
   {
     "login": "MrPaschenko",
@@ -4827,7 +5171,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 345,
-    "score": 299
+    "score": 299,
+    "globalRank": 26812
   },
   {
     "login": "MrLesk",
@@ -4841,7 +5186,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 346,
-    "score": 3608
+    "score": 3608,
+    "globalRank": 26813
   },
   {
     "login": "KevinTopollaj",
@@ -4855,7 +5201,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 347,
-    "score": 136
+    "score": 136,
+    "globalRank": 26814
   },
   {
     "login": "suereact",
@@ -4869,7 +5216,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 348,
-    "score": 147
+    "score": 147,
+    "globalRank": 26815
   },
   {
     "login": "sebgie",
@@ -4883,7 +5231,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 349,
-    "score": 138
+    "score": 138,
+    "globalRank": 26972
   },
   {
     "login": "Kaljurand",
@@ -4897,7 +5246,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 350,
-    "score": 379
+    "score": 379,
+    "globalRank": 26973
   },
   {
     "login": "bernhardmgruber",
@@ -4911,7 +5261,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 351,
-    "score": 2963
+    "score": 2963,
+    "globalRank": 26974
   },
   {
     "login": "mzeis",
@@ -4925,7 +5276,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 352,
-    "score": 138
+    "score": 138,
+    "globalRank": 27135
   },
   {
     "login": "mlq",
@@ -4939,7 +5291,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 353,
-    "score": 143
+    "score": 143,
+    "globalRank": 27136
   },
   {
     "login": "alicetragedy",
@@ -4953,7 +5306,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 354,
-    "score": 159
+    "score": 159,
+    "globalRank": 27137
   },
   {
     "login": "abcsds",
@@ -4967,7 +5321,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 355,
-    "score": 589
+    "score": 589,
+    "globalRank": 27138
   },
   {
     "login": "tladesignz",
@@ -4981,7 +5336,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 356,
-    "score": 952
+    "score": 952,
+    "globalRank": 27139
   },
   {
     "login": "shi-gg",
@@ -4995,7 +5351,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 357,
-    "score": 1321
+    "score": 1321,
+    "globalRank": 27313
   },
   {
     "login": "imsingh",
@@ -5009,7 +5366,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 358,
-    "score": 909
+    "score": 909,
+    "globalRank": 27314
   },
   {
     "login": "gunterze",
@@ -5023,7 +5381,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 359,
-    "score": 437
+    "score": 437,
+    "globalRank": 27315
   },
   {
     "login": "zewa666",
@@ -5037,7 +5396,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 360,
-    "score": 166
+    "score": 166,
+    "globalRank": 27316
   },
   {
     "login": "thet",
@@ -5051,7 +5411,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 361,
-    "score": 2845
+    "score": 2845,
+    "globalRank": 27317
   },
   {
     "login": "anar-rzayev",
@@ -5065,7 +5426,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 362,
-    "score": 136
+    "score": 136,
+    "globalRank": 27477
   },
   {
     "login": "metakermit",
@@ -5079,7 +5441,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 363,
-    "score": 193
+    "score": 193,
+    "globalRank": 27478
   },
   {
     "login": "Nikolaj-K",
@@ -5093,7 +5456,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 364,
-    "score": 165
+    "score": 165,
+    "globalRank": 27479
   },
   {
     "login": "xsoheilalizadeh",
@@ -5107,7 +5471,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 365,
-    "score": 490
+    "score": 490,
+    "globalRank": 27480
   },
   {
     "login": "antonpirker",
@@ -5121,7 +5486,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 366,
-    "score": 886
+    "score": 886,
+    "globalRank": 27481
   },
   {
     "login": "haraldschilly",
@@ -5135,7 +5501,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 367,
-    "score": 2931
+    "score": 2931,
+    "globalRank": 27482
   },
   {
     "login": "comradez",
@@ -5149,7 +5516,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 368,
-    "score": 134
+    "score": 134,
+    "globalRank": 27483
   },
   {
     "login": "Ramblurr",
@@ -5163,7 +5531,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 369,
-    "score": 4889
+    "score": 4889,
+    "globalRank": 27618
   },
   {
     "login": "ShalokShalom",
@@ -5177,7 +5546,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 370,
-    "score": 718
+    "score": 718,
+    "globalRank": 27619
   },
   {
     "login": "j-px",
@@ -5191,7 +5561,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 371,
-    "score": 142
+    "score": 142,
+    "globalRank": 27620
   },
   {
     "login": "OliverLeitner",
@@ -5205,7 +5576,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 372,
-    "score": 181
+    "score": 181,
+    "globalRank": 27621
   },
   {
     "login": "SabotageAndi",
@@ -5219,7 +5591,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 373,
-    "score": 670
+    "score": 670,
+    "globalRank": 27791
   },
   {
     "login": "lmirosevic",
@@ -5233,7 +5606,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 374,
-    "score": 139
+    "score": 139,
+    "globalRank": 27792
   },
   {
     "login": "guybrush",
@@ -5247,7 +5621,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 375,
-    "score": 243
+    "score": 243,
+    "globalRank": 27793
   },
   {
     "login": "biancaespindola",
@@ -5261,7 +5636,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 376,
-    "score": 129
+    "score": 129,
+    "globalRank": 27958
   },
   {
     "login": "decathorpe",
@@ -5275,7 +5651,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 377,
-    "score": 261
+    "score": 261,
+    "globalRank": 27959
   },
   {
     "login": "ch1bo",
@@ -5289,7 +5666,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 378,
-    "score": 2520
+    "score": 2520,
+    "globalRank": 27960
   },
   {
     "login": "Spacechild1",
@@ -5303,7 +5681,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 379,
-    "score": 369
+    "score": 369,
+    "globalRank": 28111
   },
   {
     "login": "dariosanfilippo",
@@ -5317,7 +5696,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 380,
-    "score": 302
+    "score": 302,
+    "globalRank": 28112
   },
   {
     "login": "xaverkapeller",
@@ -5331,7 +5711,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 381,
-    "score": 337
+    "score": 337,
+    "globalRank": 28113
   },
   {
     "login": "Arthur-Ficial",
@@ -5345,7 +5726,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 382,
-    "score": 1668
+    "score": 1668,
+    "globalRank": 28114
   },
   {
     "login": "dni",
@@ -5359,7 +5741,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 383,
-    "score": 1870
+    "score": 1870,
+    "globalRank": 28115
   },
   {
     "login": "pointhi",
@@ -5373,7 +5756,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 384,
-    "score": 127
+    "score": 127,
+    "globalRank": 28308
   },
   {
     "login": "lisilinhart",
@@ -5387,7 +5771,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 385,
-    "score": 1606
+    "score": 1606,
+    "globalRank": 28309
   },
   {
     "login": "zeileis",
@@ -5401,7 +5786,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 386,
-    "score": 299
+    "score": 299,
+    "globalRank": 28310
   },
   {
     "login": "Falke-Design",
@@ -5415,7 +5801,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 387,
-    "score": 898
+    "score": 898,
+    "globalRank": 28311
   },
   {
     "login": "ungerik",
@@ -5429,7 +5816,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 388,
-    "score": 949
+    "score": 949,
+    "globalRank": 28312
   },
   {
     "login": "ronggong",
@@ -5443,7 +5831,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 389,
-    "score": 148
+    "score": 148,
+    "globalRank": 28484
   },
   {
     "login": "florianbeer",
@@ -5457,7 +5846,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 390,
-    "score": 2050
+    "score": 2050,
+    "globalRank": 28678
   },
   {
     "login": "mreram",
@@ -5471,7 +5861,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 391,
-    "score": 130
+    "score": 130,
+    "globalRank": 28679
   },
   {
     "login": "DavidS",
@@ -5485,7 +5876,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 392,
-    "score": 372
+    "score": 372,
+    "globalRank": 28857
   },
   {
     "login": "danirukun",
@@ -5499,7 +5891,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 393,
-    "score": 1180
+    "score": 1180,
+    "globalRank": 28858
   },
   {
     "login": "alexandersandberg",
@@ -5513,7 +5906,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 394,
-    "score": 2058
+    "score": 2058,
+    "globalRank": 28859
   },
   {
     "login": "Martin-Jung",
@@ -5527,7 +5921,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 395,
-    "score": 332
+    "score": 332,
+    "globalRank": 29047
   },
   {
     "login": "danthe1st",
@@ -5541,7 +5936,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 396,
-    "score": 585
+    "score": 585,
+    "globalRank": 29048
   },
   {
     "login": "horstjens",
@@ -5555,7 +5951,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 397,
-    "score": 212
+    "score": 212,
+    "globalRank": 29049
   },
   {
     "login": "xtools-at",
@@ -5569,7 +5966,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 398,
-    "score": 446
+    "score": 446,
+    "globalRank": 29050
   },
   {
     "login": "vogler75",
@@ -5583,7 +5981,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 399,
-    "score": 2389
+    "score": 2389,
+    "globalRank": 29051
   },
   {
     "login": "cfwprpht",
@@ -5597,7 +5996,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 400,
-    "score": 123
+    "score": 123,
+    "globalRank": 29052
   },
   {
     "login": "lforst",
@@ -5611,7 +6011,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 401,
-    "score": 725
+    "score": 725,
+    "globalRank": 29241
   },
   {
     "login": "dpfaffenbauer",
@@ -5625,7 +6026,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 402,
-    "score": 5712
+    "score": 5712,
+    "globalRank": 29242
   },
   {
     "login": "picorana",
@@ -5639,7 +6041,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 403,
-    "score": 166
+    "score": 166,
+    "globalRank": 29243
   },
   {
     "login": "rsugimoto",
@@ -5653,7 +6056,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 404,
-    "score": 229
+    "score": 229,
+    "globalRank": 29244
   },
   {
     "login": "danielprinz",
@@ -5667,7 +6071,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 405,
-    "score": 124
+    "score": 124,
+    "globalRank": 29422
   },
   {
     "login": "romtsn",
@@ -5681,7 +6086,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 406,
-    "score": 1306
+    "score": 1306,
+    "globalRank": 29423
   },
   {
     "login": "davidbrai",
@@ -5695,7 +6101,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 407,
-    "score": 272
+    "score": 272,
+    "globalRank": 29424
   },
   {
     "login": "pangratz",
@@ -5709,7 +6116,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 408,
-    "score": 1074
+    "score": 1074,
+    "globalRank": 29425
   },
   {
     "login": "casch-at",
@@ -5723,7 +6131,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 409,
-    "score": 121
+    "score": 121,
+    "globalRank": 29426
   },
   {
     "login": "mydea",
@@ -5737,7 +6146,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 410,
-    "score": 1228
+    "score": 1228,
+    "globalRank": 29615
   },
   {
     "login": "codeforequity-at",
@@ -5751,7 +6161,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 411,
-    "score": 259
+    "score": 259,
+    "globalRank": 29616
   },
   {
     "login": "walterra",
@@ -5765,7 +6176,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 412,
-    "score": 2027
+    "score": 2027,
+    "globalRank": 29617
   },
   {
     "login": "ausi",
@@ -5779,7 +6191,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 413,
-    "score": 1084
+    "score": 1084,
+    "globalRank": 29822
   },
   {
     "login": "karamba3d",
@@ -5793,7 +6206,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 414,
-    "score": 120
+    "score": 120,
+    "globalRank": 29823
   },
   {
     "login": "ArcAnya",
@@ -5807,7 +6221,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 415,
-    "score": 425
+    "score": 425,
+    "globalRank": 29824
   },
   {
     "login": "markusschanta",
@@ -5821,7 +6236,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 416,
-    "score": 235
+    "score": 235,
+    "globalRank": 29825
   },
   {
     "login": "rfc2822",
@@ -5835,7 +6251,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 417,
-    "score": 2135
+    "score": 2135,
+    "globalRank": 29826
   },
   {
     "login": "thschue",
@@ -5849,7 +6266,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 418,
-    "score": 965
+    "score": 965,
+    "globalRank": 30012
   },
   {
     "login": "szabta89",
@@ -5863,7 +6281,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 419,
-    "score": 1530
+    "score": 1530,
+    "globalRank": 30013
   },
   {
     "login": "philippamarkovics",
@@ -5877,7 +6296,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 420,
-    "score": 334
+    "score": 334,
+    "globalRank": 30014
   },
   {
     "login": "marckrenn",
@@ -5891,7 +6311,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 421,
-    "score": 2700
+    "score": 2700,
+    "globalRank": 30015
   },
   {
     "login": "Evizero",
@@ -5905,7 +6326,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 422,
-    "score": 234
+    "score": 234,
+    "globalRank": 30016
   },
   {
     "login": "mole99",
@@ -5919,7 +6341,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 423,
-    "score": 2256
+    "score": 2256,
+    "globalRank": 30017
   },
   {
     "login": "christophfroehlich",
@@ -5933,7 +6356,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 424,
-    "score": 3701
+    "score": 3701,
+    "globalRank": 30200
   },
   {
     "login": "lvs1974",
@@ -5947,7 +6371,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 425,
-    "score": 120
+    "score": 120,
+    "globalRank": 30201
   },
   {
     "login": "AydinHassan",
@@ -5961,7 +6386,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 426,
-    "score": 2685
+    "score": 2685,
+    "globalRank": 30202
   },
   {
     "login": "davidmann4",
@@ -5975,7 +6401,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 427,
-    "score": 3860
+    "score": 3860,
+    "globalRank": 30203
   },
   {
     "login": "alexrashed",
@@ -5989,7 +6416,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 428,
-    "score": 2380
+    "score": 2380,
+    "globalRank": 30204
   },
   {
     "login": "BernhardPosselt",
@@ -6003,7 +6431,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 429,
-    "score": 497
+    "score": 497,
+    "globalRank": 30422
   },
   {
     "login": "leyrer",
@@ -6017,7 +6446,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 430,
-    "score": 116
+    "score": 116,
+    "globalRank": 30423
   },
   {
     "login": "oliver-zehentleitner",
@@ -6031,7 +6461,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 431,
-    "score": 1089
+    "score": 1089,
+    "globalRank": 30424
   },
   {
     "login": "boxysean",
@@ -6045,7 +6476,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 432,
-    "score": 318
+    "score": 318,
+    "globalRank": 30641
   },
   {
     "login": "sh4nks",
@@ -6059,7 +6491,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 433,
-    "score": 324
+    "score": 324,
+    "globalRank": 30642
   },
   {
     "login": "mcontisc",
@@ -6073,7 +6506,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 434,
-    "score": 179
+    "score": 179,
+    "globalRank": 30643
   },
   {
     "login": "Danielku15",
@@ -6087,7 +6521,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 435,
-    "score": 838
+    "score": 838,
+    "globalRank": 30644
   },
   {
     "login": "tillkamppeter",
@@ -6101,7 +6536,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 436,
-    "score": 224
+    "score": 224,
+    "globalRank": 30645
   },
   {
     "login": "michael1011",
@@ -6115,7 +6551,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 437,
-    "score": 2163
+    "score": 2163,
+    "globalRank": 30646
   },
   {
     "login": "guillermomuntaner",
@@ -6129,7 +6566,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 438,
-    "score": 126
+    "score": 126,
+    "globalRank": 30647
   },
   {
     "login": "MolecularMatters",
@@ -6143,7 +6581,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 439,
-    "score": 125
+    "score": 125,
+    "globalRank": 30648
   },
   {
     "login": "adlk",
@@ -6157,7 +6596,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 440,
-    "score": 4607
+    "score": 4607,
+    "globalRank": 30649
   },
   {
     "login": "poeschko",
@@ -6171,7 +6611,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 441,
-    "score": 1936
+    "score": 1936,
+    "globalRank": 30650
   },
   {
     "login": "sadraiiali",
@@ -6185,7 +6626,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 442,
-    "score": 530
+    "score": 530,
+    "globalRank": 30651
   },
   {
     "login": "ndeet",
@@ -6199,7 +6641,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 443,
-    "score": 377
+    "score": 377,
+    "globalRank": 30652
   },
   {
     "login": "MFlisar",
@@ -6213,7 +6656,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 444,
-    "score": 1385
+    "score": 1385,
+    "globalRank": 30653
   },
   {
     "login": "struberg",
@@ -6227,7 +6671,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 445,
-    "score": 185
+    "score": 185,
+    "globalRank": 30654
   },
   {
     "login": "pmj",
@@ -6241,7 +6686,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 446,
-    "score": 116
+    "score": 116,
+    "globalRank": 30655
   },
   {
     "login": "maxwen",
@@ -6255,7 +6701,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 447,
-    "score": 179
+    "score": 179,
+    "globalRank": 30878
   },
   {
     "login": "chrysn",
@@ -6269,7 +6716,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 448,
-    "score": 1923
+    "score": 1923,
+    "globalRank": 30879
   },
   {
     "login": "feychou",
@@ -6283,7 +6731,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 449,
-    "score": 113
+    "score": 113,
+    "globalRank": 31082
   },
   {
     "login": "korridor",
@@ -6297,7 +6746,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 450,
-    "score": 207
+    "score": 207,
+    "globalRank": 31083
   },
   {
     "login": "gekitz",
@@ -6311,7 +6761,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 451,
-    "score": 229
+    "score": 229,
+    "globalRank": 31084
   },
   {
     "login": "stefnotch",
@@ -6325,7 +6776,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 452,
-    "score": 870
+    "score": 870,
+    "globalRank": 31301
   },
   {
     "login": "Lorti",
@@ -6339,7 +6791,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 453,
-    "score": 265
+    "score": 265,
+    "globalRank": 31302
   },
   {
     "login": "norpol",
@@ -6353,7 +6806,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 454,
-    "score": 163
+    "score": 163,
+    "globalRank": 31303
   },
   {
     "login": "TomTasche",
@@ -6367,7 +6821,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 455,
-    "score": 2897
+    "score": 2897,
+    "globalRank": 31304
   },
   {
     "login": "rinukkusu",
@@ -6381,7 +6836,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 456,
-    "score": 293
+    "score": 293,
+    "globalRank": 31540
   },
   {
     "login": "brrkkk8",
@@ -6395,7 +6851,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 457,
-    "score": 1017
+    "score": 1017,
+    "globalRank": 31541
   },
   {
     "login": "andijakl",
@@ -6409,7 +6866,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 458,
-    "score": 526
+    "score": 526,
+    "globalRank": 31542
   },
   {
     "login": "tekrei",
@@ -6423,7 +6881,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 459,
-    "score": 155
+    "score": 155,
+    "globalRank": 31543
   },
   {
     "login": "tak1n",
@@ -6437,7 +6896,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 460,
-    "score": 110
+    "score": 110,
+    "globalRank": 31794
   },
   {
     "login": "soroush",
@@ -6451,7 +6911,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 461,
-    "score": 706
+    "score": 706,
+    "globalRank": 31795
   },
   {
     "login": "LeaYeh",
@@ -6465,7 +6926,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 462,
-    "score": 1912
+    "score": 1912,
+    "globalRank": 31796
   },
   {
     "login": "vroland",
@@ -6479,7 +6941,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 463,
-    "score": 853
+    "score": 853,
+    "globalRank": 32044
   },
   {
     "login": "nitrico",
@@ -6493,7 +6956,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 464,
-    "score": 152
+    "score": 152,
+    "globalRank": 32045
   },
   {
     "login": "tonyo",
@@ -6507,7 +6971,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 465,
-    "score": 480
+    "score": 480,
+    "globalRank": 32046
   },
   {
     "login": "Rabbid76",
@@ -6521,7 +6986,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 466,
-    "score": 6014
+    "score": 6014,
+    "globalRank": 32047
   },
   {
     "login": "saadaouihaithem",
@@ -6535,7 +7001,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 467,
-    "score": 124
+    "score": 124,
+    "globalRank": 32292
   },
   {
     "login": "jenetics",
@@ -6549,7 +7016,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 468,
-    "score": 386
+    "score": 386,
+    "globalRank": 32293
   },
   {
     "login": "TomK32",
@@ -6563,7 +7031,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 469,
-    "score": 151
+    "score": 151,
+    "globalRank": 32294
   },
   {
     "login": "DeepVoltaire",
@@ -6577,7 +7046,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 470,
-    "score": 516
+    "score": 516,
+    "globalRank": 32295
   },
   {
     "login": "robaxelsen",
@@ -6591,7 +7061,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 471,
-    "score": 114
+    "score": 114,
+    "globalRank": 32296
   },
   {
     "login": "DanielRudrich",
@@ -6605,7 +7076,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 472,
-    "score": 821
+    "score": 821,
+    "globalRank": 32297
   },
   {
     "login": "HennerM",
@@ -6619,7 +7091,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 473,
-    "score": 724
+    "score": 724,
+    "globalRank": 32482
   },
   {
     "login": "smakhtin",
@@ -6633,7 +7106,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 474,
-    "score": 196
+    "score": 196,
+    "globalRank": 32483
   },
   {
     "login": "rezaiyan",
@@ -6647,7 +7121,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 475,
-    "score": 1476
+    "score": 1476,
+    "globalRank": 32484
   },
   {
     "login": "rkwitt",
@@ -6661,7 +7136,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 476,
-    "score": 462
+    "score": 462,
+    "globalRank": 32720
   },
   {
     "login": "dervondenbergen",
@@ -6675,7 +7151,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 477,
-    "score": 317
+    "score": 317,
+    "globalRank": 32721
   },
   {
     "login": "mhaberler",
@@ -6689,7 +7166,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 478,
-    "score": 1074
+    "score": 1074,
+    "globalRank": 32722
   },
   {
     "login": "r4pt0s",
@@ -6703,7 +7181,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 479,
-    "score": 183
+    "score": 183,
+    "globalRank": 32723
   },
   {
     "login": "mshea",
@@ -6717,7 +7196,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 480,
-    "score": 353
+    "score": 353,
+    "globalRank": 32724
   },
   {
     "login": "connyduck",
@@ -6731,7 +7211,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 481,
-    "score": 168
+    "score": 168,
+    "globalRank": 32725
   },
   {
     "login": "pah",
@@ -6745,7 +7226,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 482,
-    "score": 109
+    "score": 109,
+    "globalRank": 32726
   },
   {
     "login": "anuejn",
@@ -6759,7 +7241,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 483,
-    "score": 238
+    "score": 238,
+    "globalRank": 32951
   },
   {
     "login": "reloadlife",
@@ -6773,7 +7256,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 484,
-    "score": 3653
+    "score": 3653,
+    "globalRank": 32952
   },
   {
     "login": "isladjan",
@@ -6787,7 +7271,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 485,
-    "score": 107
+    "score": 107,
+    "globalRank": 32953
   },
   {
     "login": "davidschreiber",
@@ -6801,7 +7286,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 486,
-    "score": 2281
+    "score": 2281,
+    "globalRank": 32954
   },
   {
     "login": "sebhildebrandt",
@@ -6815,7 +7301,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 487,
-    "score": 730
+    "score": 730,
+    "globalRank": 32955
   },
   {
     "login": "jclehner",
@@ -6829,7 +7316,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 488,
-    "score": 273
+    "score": 273,
+    "globalRank": 32956
   },
   {
     "login": "JasperMyles",
@@ -6843,7 +7331,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 489,
-    "score": 105
+    "score": 105,
+    "globalRank": 32957
   },
   {
     "login": "Xpitfire",
@@ -6857,7 +7346,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 490,
-    "score": 258
+    "score": 258,
+    "globalRank": 33181
   },
   {
     "login": "bonii-xx",
@@ -6871,7 +7361,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 491,
-    "score": 104
+    "score": 104,
+    "globalRank": 33182
   },
   {
     "login": "rdempsey",
@@ -6885,7 +7376,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 492,
-    "score": 104
+    "score": 104,
+    "globalRank": 33183
   },
   {
     "login": "01mf02",
@@ -6899,7 +7391,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 493,
-    "score": 1269
+    "score": 1269,
+    "globalRank": 33184
   },
   {
     "login": "irl-tm",
@@ -6913,7 +7406,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 494,
-    "score": 116
+    "score": 116,
+    "globalRank": 33185
   },
   {
     "login": "Atrox",
@@ -6927,7 +7421,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 495,
-    "score": 2346
+    "score": 2346,
+    "globalRank": 33428
   },
   {
     "login": "ionutbalosin",
@@ -6941,7 +7436,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 496,
-    "score": 164
+    "score": 164,
+    "globalRank": 33429
   },
   {
     "login": "uberhalit",
@@ -6955,7 +7451,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 497,
-    "score": 106
+    "score": 106,
+    "globalRank": 33430
   },
   {
     "login": "fabianpimminger",
@@ -6969,7 +7466,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 498,
-    "score": 431
+    "score": 431,
+    "globalRank": 33431
   },
   {
     "login": "nezhar",
@@ -6983,7 +7481,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 499,
-    "score": 1085
+    "score": 1085,
+    "globalRank": 33432
   },
   {
     "login": "s00500",
@@ -6997,7 +7496,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 500,
-    "score": 376
+    "score": 376,
+    "globalRank": 33723
   },
   {
     "login": "philippnormann",
@@ -7011,7 +7511,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 501,
-    "score": 1768
+    "score": 1768,
+    "globalRank": 33724
   },
   {
     "login": "adtzlr",
@@ -7025,7 +7526,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 502,
-    "score": 875
+    "score": 875,
+    "globalRank": 33725
   },
   {
     "login": "michmech",
@@ -7039,7 +7541,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 503,
-    "score": 1075
+    "score": 1075,
+    "globalRank": 33726
   },
   {
     "login": "mandrasch",
@@ -7053,7 +7556,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 504,
-    "score": 615
+    "score": 615,
+    "globalRank": 34008
   },
   {
     "login": "wsdt",
@@ -7067,7 +7571,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 505,
-    "score": 3075
+    "score": 3075,
+    "globalRank": 34009
   },
   {
     "login": "xenolf",
@@ -7081,7 +7586,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 506,
-    "score": 103
+    "score": 103,
+    "globalRank": 34010
   },
   {
     "login": "pretzelhands",
@@ -7095,7 +7601,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 507,
-    "score": 148
+    "score": 148,
+    "globalRank": 34011
   },
   {
     "login": "GameTec-live",
@@ -7109,7 +7616,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 508,
-    "score": 721
+    "score": 721,
+    "globalRank": 34012
   },
   {
     "login": "aichbauer",
@@ -7123,7 +7631,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 509,
-    "score": 1118
+    "score": 1118,
+    "globalRank": 34013
   },
   {
     "login": "jaquesgrobler",
@@ -7137,7 +7646,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 510,
-    "score": 1653
+    "score": 1653,
+    "globalRank": 34230
   },
   {
     "login": "Flohack74",
@@ -7151,7 +7661,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 511,
-    "score": 383
+    "score": 383,
+    "globalRank": 34231
   },
   {
     "login": "raybesiga",
@@ -7165,7 +7676,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 512,
-    "score": 840
+    "score": 840,
+    "globalRank": 34232
   },
   {
     "login": "pmig",
@@ -7179,7 +7691,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 513,
-    "score": 2227
+    "score": 2227,
+    "globalRank": 34452
   },
   {
     "login": "dns2utf8",
@@ -7193,7 +7706,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 514,
-    "score": 115
+    "score": 115,
+    "globalRank": 34453
   },
   {
     "login": "arminru",
@@ -7207,7 +7721,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 515,
-    "score": 745
+    "score": 745,
+    "globalRank": 34454
   },
   {
     "login": "hpoul",
@@ -7221,7 +7736,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 516,
-    "score": 665
+    "score": 665,
+    "globalRank": 34455
   },
   {
     "login": "d-ivashchuk",
@@ -7235,7 +7751,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 517,
-    "score": 1484
+    "score": 1484,
+    "globalRank": 34456
   },
   {
     "login": "HimbeersaftLP",
@@ -7249,7 +7766,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 518,
-    "score": 276
+    "score": 276,
+    "globalRank": 34666
   },
   {
     "login": "kommen",
@@ -7263,7 +7781,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 519,
-    "score": 899
+    "score": 899,
+    "globalRank": 34667
   },
   {
     "login": "daniel-eder",
@@ -7277,7 +7796,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 520,
-    "score": 365
+    "score": 365,
+    "globalRank": 34668
   },
   {
     "login": "kescherCode",
@@ -7291,7 +7811,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 521,
-    "score": 130
+    "score": 130,
+    "globalRank": 34669
   },
   {
     "login": "fr3ts0n",
@@ -7305,7 +7826,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 522,
-    "score": 205
+    "score": 205,
+    "globalRank": 34670
   },
   {
     "login": "fredldotme",
@@ -7319,7 +7841,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 523,
-    "score": 348
+    "score": 348,
+    "globalRank": 34671
   },
   {
     "login": "mborko",
@@ -7333,7 +7856,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 524,
-    "score": 268
+    "score": 268,
+    "globalRank": 34672
   },
   {
     "login": "floscodes",
@@ -7347,7 +7871,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 525,
-    "score": 669
+    "score": 669,
+    "globalRank": 34673
   },
   {
     "login": "henriquemiranda",
@@ -7361,7 +7886,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 526,
-    "score": 311
+    "score": 311,
+    "globalRank": 34674
   },
   {
     "login": "johann-petrak",
@@ -7375,7 +7901,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 527,
-    "score": 1976
+    "score": 1976,
+    "globalRank": 34936
   },
   {
     "login": "Babarali2k21",
@@ -7389,7 +7916,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 528,
-    "score": 324
+    "score": 324,
+    "globalRank": 34937
   },
   {
     "login": "fashxp",
@@ -7403,7 +7931,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 529,
-    "score": 1965
+    "score": 1965,
+    "globalRank": 34938
   },
   {
     "login": "Lemongrass3110",
@@ -7417,7 +7946,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 530,
-    "score": 599
+    "score": 599,
+    "globalRank": 34939
   },
   {
     "login": "jitter",
@@ -7431,7 +7961,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 531,
-    "score": 97
+    "score": 97,
+    "globalRank": 34940
   },
   {
     "login": "tstaetter",
@@ -7445,7 +7976,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 532,
-    "score": 2566
+    "score": 2566,
+    "globalRank": 35174
   },
   {
     "login": "PredatH0r",
@@ -7459,7 +7991,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 533,
-    "score": 105
+    "score": 105,
+    "globalRank": 35175
   },
   {
     "login": "dewey",
@@ -7473,7 +8006,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 534,
-    "score": 3594
+    "score": 3594,
+    "globalRank": 35430
   },
   {
     "login": "p3k",
@@ -7487,7 +8021,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 535,
-    "score": 128
+    "score": 128,
+    "globalRank": 35431
   },
   {
     "login": "UnseenWizzard",
@@ -7501,7 +8036,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 536,
-    "score": 224
+    "score": 224,
+    "globalRank": 35432
   },
   {
     "login": "AdmiralCurtiss",
@@ -7515,7 +8051,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 537,
-    "score": 394
+    "score": 394,
+    "globalRank": 35433
   },
   {
     "login": "bmiklautz",
@@ -7529,7 +8066,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 538,
-    "score": 112
+    "score": 112,
+    "globalRank": 35434
   },
   {
     "login": "mattrei",
@@ -7543,7 +8081,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 539,
-    "score": 95
+    "score": 95,
+    "globalRank": 35435
   },
   {
     "login": "grabnerandi",
@@ -7557,7 +8096,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 540,
-    "score": 188
+    "score": 188,
+    "globalRank": 35693
   },
   {
     "login": "antonis",
@@ -7571,7 +8111,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 541,
-    "score": 2286
+    "score": 2286,
+    "globalRank": 35694
   },
   {
     "login": "afrendeiro",
@@ -7585,7 +8126,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 542,
-    "score": 606
+    "score": 606,
+    "globalRank": 35695
   },
   {
     "login": "julianocosta89",
@@ -7599,7 +8141,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 543,
-    "score": 2153
+    "score": 2153,
+    "globalRank": 35696
   },
   {
     "login": "MikeMitterer",
@@ -7613,7 +8156,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 544,
-    "score": 529
+    "score": 529,
+    "globalRank": 35697
   },
   {
     "login": "chl",
@@ -7627,7 +8171,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 545,
-    "score": 94
+    "score": 94,
+    "globalRank": 35698
   },
   {
     "login": "blu3r4y",
@@ -7641,7 +8186,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 546,
-    "score": 211
+    "score": 211,
+    "globalRank": 35933
   },
   {
     "login": "alvianzf",
@@ -7655,7 +8201,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 547,
-    "score": 1187
+    "score": 1187,
+    "globalRank": 35934
   },
   {
     "login": "fago",
@@ -7669,7 +8216,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 548,
-    "score": 470
+    "score": 470,
+    "globalRank": 35935
   },
   {
     "login": "agnaite",
@@ -7683,7 +8231,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 549,
-    "score": 488
+    "score": 488,
+    "globalRank": 35936
   },
   {
     "login": "cylonid",
@@ -7697,7 +8246,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 550,
-    "score": 109
+    "score": 109,
+    "globalRank": 35937
   },
   {
     "login": "georgd",
@@ -7711,7 +8261,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 551,
-    "score": 141
+    "score": 141,
+    "globalRank": 35938
   },
   {
     "login": "chrisschuerz",
@@ -7725,7 +8276,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 552,
-    "score": 93
+    "score": 93,
+    "globalRank": 35939
   },
   {
     "login": "karlrupp",
@@ -7739,7 +8291,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 553,
-    "score": 93
+    "score": 93,
+    "globalRank": 35940
   },
   {
     "login": "esad",
@@ -7753,7 +8306,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 554,
-    "score": 93
+    "score": 93,
+    "globalRank": 36201
   },
   {
     "login": "domm",
@@ -7767,7 +8321,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 555,
-    "score": 145
+    "score": 145,
+    "globalRank": 36202
   },
   {
     "login": "allanberger",
@@ -7781,7 +8336,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 556,
-    "score": 106
+    "score": 106,
+    "globalRank": 36203
   },
   {
     "login": "rladstaetter",
@@ -7795,7 +8351,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 557,
-    "score": 728
+    "score": 728,
+    "globalRank": 36204
   },
   {
     "login": "oberhamsi",
@@ -7809,7 +8366,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 558,
-    "score": 116
+    "score": 116,
+    "globalRank": 36205
   },
   {
     "login": "merge",
@@ -7823,7 +8381,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 559,
-    "score": 155
+    "score": 155,
+    "globalRank": 36488
   },
   {
     "login": "JessDataNLP",
@@ -7837,7 +8396,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 560,
-    "score": 91
+    "score": 91,
+    "globalRank": 36489
   },
   {
     "login": "domdorn",
@@ -7851,7 +8411,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 561,
-    "score": 1280
+    "score": 1280,
+    "globalRank": 36745
   },
   {
     "login": "chrissix666",
@@ -7865,7 +8426,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 562,
-    "score": 346
+    "score": 346,
+    "globalRank": 36746
   },
   {
     "login": "AleshaOleg",
@@ -7879,7 +8441,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 563,
-    "score": 815
+    "score": 815,
+    "globalRank": 36747
   },
   {
     "login": "k9ordon",
@@ -7893,7 +8456,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 564,
-    "score": 3596
+    "score": 3596,
+    "globalRank": 36748
   },
   {
     "login": "Cimorexave",
@@ -7907,7 +8471,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 565,
-    "score": 739
+    "score": 739,
+    "globalRank": 36749
   },
   {
     "login": "gitmachtl",
@@ -7921,7 +8486,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 566,
-    "score": 175
+    "score": 175,
+    "globalRank": 36750
   },
   {
     "login": "hlavacs",
@@ -7935,7 +8501,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 567,
-    "score": 183
+    "score": 183,
+    "globalRank": 36751
   },
   {
     "login": "alizeyn",
@@ -7949,7 +8516,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 568,
-    "score": 1105
+    "score": 1105,
+    "globalRank": 36752
   },
   {
     "login": "JanaLasser",
@@ -7963,7 +8531,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 569,
-    "score": 216
+    "score": 216,
+    "globalRank": 36753
   },
   {
     "login": "tonka3000",
@@ -7977,7 +8546,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 570,
-    "score": 123
+    "score": 123,
+    "globalRank": 37009
   },
   {
     "login": "luto",
@@ -7991,7 +8561,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 571,
-    "score": 210
+    "score": 210,
+    "globalRank": 37010
   },
   {
     "login": "kallaballa",
@@ -8005,7 +8576,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 572,
-    "score": 148
+    "score": 148,
+    "globalRank": 37011
   },
   {
     "login": "Mr-Milk",
@@ -8019,7 +8591,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 573,
-    "score": 591
+    "score": 591,
+    "globalRank": 37012
   },
   {
     "login": "weichsel",
@@ -8033,7 +8606,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 574,
-    "score": 4408
+    "score": 4408,
+    "globalRank": 37013
   },
   {
     "login": "NuclearPhoenixx",
@@ -8047,7 +8621,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 575,
-    "score": 484
+    "score": 484,
+    "globalRank": 37014
   },
   {
     "login": "dsumer",
@@ -8061,7 +8636,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 576,
-    "score": 1459
+    "score": 1459,
+    "globalRank": 37302
   },
   {
     "login": "stanuwu",
@@ -8075,7 +8651,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 577,
-    "score": 128
+    "score": 128,
+    "globalRank": 37303
   },
   {
     "login": "chriskalmar",
@@ -8089,7 +8666,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 578,
-    "score": 387
+    "score": 387,
+    "globalRank": 37304
   },
   {
     "login": "KlausVigo",
@@ -8103,7 +8681,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 579,
-    "score": 567
+    "score": 567,
+    "globalRank": 37305
   },
   {
     "login": "luastoned",
@@ -8117,7 +8696,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 580,
-    "score": 94
+    "score": 94,
+    "globalRank": 37306
   },
   {
     "login": "alexleutgoeb",
@@ -8131,7 +8711,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 581,
-    "score": 90
+    "score": 90,
+    "globalRank": 37307
   },
   {
     "login": "chrcit",
@@ -8145,7 +8726,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 582,
-    "score": 1482
+    "score": 1482,
+    "globalRank": 37308
   },
   {
     "login": "mohsenk",
@@ -8159,7 +8741,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 583,
-    "score": 162
+    "score": 162,
+    "globalRank": 37309
   },
   {
     "login": "lauridskern",
@@ -8173,7 +8756,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 584,
-    "score": 1714
+    "score": 1714,
+    "globalRank": 37310
   },
   {
     "login": "kodedninja",
@@ -8187,7 +8771,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 585,
-    "score": 94
+    "score": 94,
+    "globalRank": 37598
   },
   {
     "login": "f-rakete",
@@ -8201,7 +8786,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 586,
-    "score": 277
+    "score": 277,
+    "globalRank": 37599
   },
   {
     "login": "cinemast",
@@ -8215,7 +8801,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 587,
-    "score": 2477
+    "score": 2477,
+    "globalRank": 37600
   },
   {
     "login": "yiliansource",
@@ -8229,7 +8816,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 588,
-    "score": 494
+    "score": 494,
+    "globalRank": 37601
   },
   {
     "login": "edix",
@@ -8243,7 +8831,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 589,
-    "score": 89
+    "score": 89,
+    "globalRank": 37602
   },
   {
     "login": "chrisroadmap",
@@ -8257,7 +8846,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 590,
-    "score": 423
+    "score": 423,
+    "globalRank": 37603
   },
   {
     "login": "derkoe",
@@ -8271,7 +8861,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 591,
-    "score": 287
+    "score": 287,
+    "globalRank": 37604
   },
   {
     "login": "ian-ross",
@@ -8285,7 +8876,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 592,
-    "score": 1827
+    "score": 1827,
+    "globalRank": 37605
   },
   {
     "login": "beikov",
@@ -8299,7 +8891,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 593,
-    "score": 1380
+    "score": 1380,
+    "globalRank": 37606
   },
   {
     "login": "aurorasmiles",
@@ -8313,7 +8906,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 594,
-    "score": 124
+    "score": 124,
+    "globalRank": 37909
   },
   {
     "login": "imdatdalga",
@@ -8327,7 +8921,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 595,
-    "score": 94
+    "score": 94,
+    "globalRank": 37910
   },
   {
     "login": "barbaros163",
@@ -8341,7 +8936,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 596,
-    "score": 86
+    "score": 86,
+    "globalRank": 37911
   },
   {
     "login": "matmair",
@@ -8355,7 +8951,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 597,
-    "score": 1860
+    "score": 1860,
+    "globalRank": 37912
   },
   {
     "login": "konnov",
@@ -8369,7 +8966,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 598,
-    "score": 3953
+    "score": 3953,
+    "globalRank": 37913
   },
   {
     "login": "Ivkaa",
@@ -8383,7 +8981,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 599,
-    "score": 1254
+    "score": 1254,
+    "globalRank": 37914
   },
   {
     "login": "aentinger",
@@ -8397,7 +8996,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 600,
-    "score": 178
+    "score": 178,
+    "globalRank": 37915
   },
   {
     "login": "laktak",
@@ -8411,7 +9011,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 601,
-    "score": 172
+    "score": 172,
+    "globalRank": 38212
   },
   {
     "login": "alfbach",
@@ -8425,7 +9026,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 602,
-    "score": 330
+    "score": 330,
+    "globalRank": 38213
   },
   {
     "login": "burgholzer",
@@ -8439,7 +9041,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 603,
-    "score": 3277
+    "score": 3277,
+    "globalRank": 38214
   },
   {
     "login": "fabianschenk",
@@ -8453,7 +9056,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 604,
-    "score": 88
+    "score": 88,
+    "globalRank": 38215
   },
   {
     "login": "stefankoegl",
@@ -8467,7 +9071,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 605,
-    "score": 196
+    "score": 196,
+    "globalRank": 38216
   },
   {
     "login": "thalerjonathan",
@@ -8481,7 +9086,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 606,
-    "score": 86
+    "score": 86,
+    "globalRank": 38217
   },
   {
     "login": "avoelkl",
@@ -8495,7 +9101,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 607,
-    "score": 91
+    "score": 91,
+    "globalRank": 38502
   },
   {
     "login": "internetztube",
@@ -8509,7 +9116,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 608,
-    "score": 398
+    "score": 398,
+    "globalRank": 38503
   },
   {
     "login": "skasberger",
@@ -8523,7 +9131,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 609,
-    "score": 93
+    "score": 93,
+    "globalRank": 38504
   },
   {
     "login": "Findus23",
@@ -8537,7 +9146,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 610,
-    "score": 512
+    "score": 512,
+    "globalRank": 38505
   },
   {
     "login": "seeekr",
@@ -8551,7 +9161,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 611,
-    "score": 8405
+    "score": 8405,
+    "globalRank": 38506
   },
   {
     "login": "moritzschaefer",
@@ -8565,7 +9176,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 612,
-    "score": 910
+    "score": 910,
+    "globalRank": 38507
   },
   {
     "login": "manmal",
@@ -8579,7 +9191,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 613,
-    "score": 364
+    "score": 364,
+    "globalRank": 38508
   },
   {
     "login": "bstubert",
@@ -8593,7 +9206,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 614,
-    "score": 98
+    "score": 98,
+    "globalRank": 38509
   },
   {
     "login": "winstonallo",
@@ -8607,7 +9221,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 615,
-    "score": 2045
+    "score": 2045,
+    "globalRank": 38510
   },
   {
     "login": "luchaos",
@@ -8621,7 +9236,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 616,
-    "score": 115
+    "score": 115,
+    "globalRank": 38511
   },
   {
     "login": "anlumo",
@@ -8635,7 +9251,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 617,
-    "score": 423
+    "score": 423,
+    "globalRank": 38841
   },
   {
     "login": "euwars",
@@ -8649,7 +9266,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 618,
-    "score": 2282
+    "score": 2282,
+    "globalRank": 38842
   },
   {
     "login": "bp74",
@@ -8663,7 +9281,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 619,
-    "score": 83
+    "score": 83,
+    "globalRank": 38843
   },
   {
     "login": "metmajer",
@@ -8677,7 +9296,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 620,
-    "score": 102
+    "score": 102,
+    "globalRank": 38844
   },
   {
     "login": "manuelsc",
@@ -8691,7 +9311,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 621,
-    "score": 1514
+    "score": 1514,
+    "globalRank": 38845
   },
   {
     "login": "jeremyfromearth",
@@ -8705,7 +9326,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 622,
-    "score": 84
+    "score": 84,
+    "globalRank": 38846
   },
   {
     "login": "0xProtocol",
@@ -8719,7 +9341,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 623,
-    "score": 83
+    "score": 83,
+    "globalRank": 38847
   },
   {
     "login": "dklesev",
@@ -8733,7 +9356,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 624,
-    "score": 759
+    "score": 759,
+    "globalRank": 39165
   },
   {
     "login": "fbruggem",
@@ -8747,7 +9371,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 625,
-    "score": 377
+    "score": 377,
+    "globalRank": 39166
   },
   {
     "login": "thomasfr",
@@ -8761,7 +9386,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 626,
-    "score": 598
+    "score": 598,
+    "globalRank": 39167
   },
   {
     "login": "sunnat629",
@@ -8775,7 +9401,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 627,
-    "score": 2509
+    "score": 2509,
+    "globalRank": 39168
   },
   {
     "login": "zeha",
@@ -8789,7 +9416,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 628,
-    "score": 2407
+    "score": 2407,
+    "globalRank": 39169
   },
   {
     "login": "dejanb",
@@ -8803,7 +9431,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 629,
-    "score": 323
+    "score": 323,
+    "globalRank": 39170
   },
   {
     "login": "hoegaarden",
@@ -8817,7 +9446,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 630,
-    "score": 88
+    "score": 88,
+    "globalRank": 39171
   },
   {
     "login": "zwenza",
@@ -8831,7 +9461,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 631,
-    "score": 611
+    "score": 611,
+    "globalRank": 39502
   },
   {
     "login": "rafacm",
@@ -8845,7 +9476,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 632,
-    "score": 1319
+    "score": 1319,
+    "globalRank": 39503
   },
   {
     "login": "Rlxfly",
@@ -8859,7 +9491,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 633,
-    "score": 88
+    "score": 88,
+    "globalRank": 39504
   },
   {
     "login": "oertl",
@@ -8873,7 +9506,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 634,
-    "score": 530
+    "score": 530,
+    "globalRank": 39505
   },
   {
     "login": "jaylinski",
@@ -8887,7 +9521,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 635,
-    "score": 179
+    "score": 179,
+    "globalRank": 39506
   },
   {
     "login": "xai",
@@ -8901,7 +9536,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 636,
-    "score": 1492
+    "score": 1492,
+    "globalRank": 39507
   },
   {
     "login": "gidden",
@@ -8915,7 +9551,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 637,
-    "score": 93
+    "score": 93,
+    "globalRank": 39508
   },
   {
     "login": "Incredible-O",
@@ -8929,7 +9566,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 638,
-    "score": 1174
+    "score": 1174,
+    "globalRank": 39509
   },
   {
     "login": "axkibe",
@@ -8943,7 +9581,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 639,
-    "score": 112
+    "score": 112,
+    "globalRank": 39510
   },
   {
     "login": "busypeoples",
@@ -8957,7 +9596,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 640,
-    "score": 1247
+    "score": 1247,
+    "globalRank": 39511
   },
   {
     "login": "discostu105",
@@ -8971,7 +9611,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 641,
-    "score": 2514
+    "score": 2514,
+    "globalRank": 39512
   },
   {
     "login": "eternalstorms",
@@ -8985,7 +9626,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 642,
-    "score": 90
+    "score": 90,
+    "globalRank": 39809
   },
   {
     "login": "mikezks",
@@ -8999,7 +9641,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 643,
-    "score": 300
+    "score": 300,
+    "globalRank": 39810
   },
   {
     "login": "roman204",
@@ -9013,7 +9656,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 644,
-    "score": 86
+    "score": 86,
+    "globalRank": 39811
   },
   {
     "login": "gzsombor",
@@ -9027,7 +9671,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 645,
-    "score": 992
+    "score": 992,
+    "globalRank": 39812
   },
   {
     "login": "fosfrancesco",
@@ -9041,7 +9686,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 646,
-    "score": 340
+    "score": 340,
+    "globalRank": 39813
   },
   {
     "login": "llchrisll",
@@ -9055,7 +9701,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 647,
-    "score": 118
+    "score": 118,
+    "globalRank": 39814
   },
   {
     "login": "manleviet",
@@ -9069,7 +9716,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 648,
-    "score": 738
+    "score": 738,
+    "globalRank": 39815
   },
   {
     "login": "Vesal-J",
@@ -9083,7 +9731,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 649,
-    "score": 2405
+    "score": 2405,
+    "globalRank": 39816
   },
   {
     "login": "JPeer264",
@@ -9097,7 +9746,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 650,
-    "score": 2421
+    "score": 2421,
+    "globalRank": 39817
   },
   {
     "login": "Seidlm",
@@ -9111,7 +9761,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 651,
-    "score": 531
+    "score": 531,
+    "globalRank": 39818
   },
   {
     "login": "Oberon00",
@@ -9125,7 +9776,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 652,
-    "score": 120
+    "score": 120,
+    "globalRank": 40141
   },
   {
     "login": "olajep",
@@ -9139,7 +9791,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 653,
-    "score": 79
+    "score": 79,
+    "globalRank": 40142
   },
   {
     "login": "nohum",
@@ -9153,7 +9806,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 654,
-    "score": 83
+    "score": 83,
+    "globalRank": 40143
   },
   {
     "login": "NimmLor",
@@ -9167,7 +9821,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 655,
-    "score": 1222
+    "score": 1222,
+    "globalRank": 40144
   },
   {
     "login": "josefglatz",
@@ -9181,7 +9836,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 656,
-    "score": 174
+    "score": 174,
+    "globalRank": 40145
   },
   {
     "login": "rmitsch",
@@ -9195,7 +9851,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 657,
-    "score": 893
+    "score": 893,
+    "globalRank": 40146
   },
   {
     "login": "phiilu",
@@ -9209,7 +9866,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 658,
-    "score": 1327
+    "score": 1327,
+    "globalRank": 40147
   },
   {
     "login": "m6w6",
@@ -9223,7 +9881,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 659,
-    "score": 495
+    "score": 495,
+    "globalRank": 40148
   },
   {
     "login": "allogic",
@@ -9237,7 +9896,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 660,
-    "score": 312
+    "score": 312,
+    "globalRank": 40149
   },
   {
     "login": "altmann",
@@ -9251,7 +9911,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 661,
-    "score": 100
+    "score": 100,
+    "globalRank": 40150
   },
   {
     "login": "chirimoya",
@@ -9265,7 +9926,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 662,
-    "score": 216
+    "score": 216,
+    "globalRank": 40444
   },
   {
     "login": "nor0x",
@@ -9279,7 +9941,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 663,
-    "score": 2622
+    "score": 2622,
+    "globalRank": 40445
   },
   {
     "login": "rpoisel",
@@ -9293,7 +9956,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 664,
-    "score": 403
+    "score": 403,
+    "globalRank": 40446
   },
   {
     "login": "vwmaus",
@@ -9307,7 +9971,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 665,
-    "score": 288
+    "score": 288,
+    "globalRank": 40447
   },
   {
     "login": "lmrodriguezr",
@@ -9321,7 +9986,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 666,
-    "score": 838
+    "score": 838,
+    "globalRank": 40448
   },
   {
     "login": "nirmalrizal",
@@ -9335,7 +10001,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 667,
-    "score": 79
+    "score": 79,
+    "globalRank": 40449
   },
   {
     "login": "sakra",
@@ -9349,7 +10016,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 668,
-    "score": 86
+    "score": 86,
+    "globalRank": 40450
   },
   {
     "login": "pixelEDI",
@@ -9363,7 +10031,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 669,
-    "score": 285
+    "score": 285,
+    "globalRank": 40451
   },
   {
     "login": "iambriccardo",
@@ -9377,7 +10046,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 670,
-    "score": 2956
+    "score": 2956,
+    "globalRank": 40452
   },
   {
     "login": "keshrath",
@@ -9391,7 +10061,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 671,
-    "score": 2377
+    "score": 2377,
+    "globalRank": 40453
   },
   {
     "login": "sperrgebiet",
@@ -9405,7 +10076,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 672,
-    "score": 78
+    "score": 78,
+    "globalRank": 40454
   },
   {
     "login": "gcsalzburg",
@@ -9419,7 +10091,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 673,
-    "score": 203
+    "score": 203,
+    "globalRank": 40455
   },
   {
     "login": "qwersyk",
@@ -9433,7 +10106,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 674,
-    "score": 958
+    "score": 958,
+    "globalRank": 40456
   },
   {
     "login": "nehalist",
@@ -9447,7 +10121,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 675,
-    "score": 172
+    "score": 172,
+    "globalRank": 40457
   },
   {
     "login": "ThomasLamprecht",
@@ -9461,7 +10136,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 676,
-    "score": 2215
+    "score": 2215,
+    "globalRank": 40458
   },
   {
     "login": "mlang",
@@ -9475,7 +10151,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 677,
-    "score": 805
+    "score": 805,
+    "globalRank": 40459
   },
   {
     "login": "behas",
@@ -9489,7 +10166,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 678,
-    "score": 1092
+    "score": 1092,
+    "globalRank": 40460
   },
   {
     "login": "unused",
@@ -9503,7 +10181,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 679,
-    "score": 143
+    "score": 143,
+    "globalRank": 40461
   },
   {
     "login": "aleho",
@@ -9517,7 +10196,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 680,
-    "score": 4539
+    "score": 4539,
+    "globalRank": 40462
   },
   {
     "login": "christophsturm",
@@ -9531,7 +10211,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 681,
-    "score": 818
+    "score": 818,
+    "globalRank": 40463
   },
   {
     "login": "madc",
@@ -9545,7 +10226,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 682,
-    "score": 77
+    "score": 77,
+    "globalRank": 40739
   },
   {
     "login": "bettysteger",
@@ -9559,7 +10241,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 683,
-    "score": 2047
+    "score": 2047,
+    "globalRank": 40740
   },
   {
     "login": "kovzol",
@@ -9573,7 +10256,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 684,
-    "score": 803
+    "score": 803,
+    "globalRank": 40741
   },
   {
     "login": "cknitt",
@@ -9587,7 +10271,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 685,
-    "score": 1254
+    "score": 1254,
+    "globalRank": 40742
   },
   {
     "login": "jetzlstorfer",
@@ -9601,7 +10286,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 686,
-    "score": 1172
+    "score": 1172,
+    "globalRank": 40743
   },
   {
     "login": "Ferdi265",
@@ -9615,7 +10301,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 687,
-    "score": 243
+    "score": 243,
+    "globalRank": 41046
   },
   {
     "login": "dermotte",
@@ -9629,7 +10316,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 688,
-    "score": 230
+    "score": 230,
+    "globalRank": 41047
   },
   {
     "login": "ennerf",
@@ -9643,7 +10331,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 689,
-    "score": 1105
+    "score": 1105,
+    "globalRank": 41048
   },
   {
     "login": "ahmedetefy",
@@ -9657,7 +10346,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 690,
-    "score": 902
+    "score": 902,
+    "globalRank": 41049
   },
   {
     "login": "mihaigalos",
@@ -9671,7 +10361,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 691,
-    "score": 1063
+    "score": 1063,
+    "globalRank": 41050
   },
   {
     "login": "Inve1951",
@@ -9685,7 +10376,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 692,
-    "score": 218
+    "score": 218,
+    "globalRank": 41051
   },
   {
     "login": "farmio",
@@ -9699,7 +10391,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 693,
-    "score": 715
+    "score": 715,
+    "globalRank": 41052
   },
   {
     "login": "ozguripekci",
@@ -9713,7 +10406,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 694,
-    "score": 76
+    "score": 76,
+    "globalRank": 41053
   },
   {
     "login": "nickcernis",
@@ -9727,7 +10421,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 695,
-    "score": 1377
+    "score": 1377,
+    "globalRank": 41332
   },
   {
     "login": "jeroendoggen",
@@ -9741,7 +10436,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 696,
-    "score": 76
+    "score": 76,
+    "globalRank": 41333
   },
   {
     "login": "itislu",
@@ -9755,7 +10451,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 697,
-    "score": 2333
+    "score": 2333,
+    "globalRank": 41334
   },
   {
     "login": "luigicapogrosso",
@@ -9769,7 +10466,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 698,
-    "score": 506
+    "score": 506,
+    "globalRank": 41335
   },
   {
     "login": "lris",
@@ -9783,7 +10481,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 699,
-    "score": 75
+    "score": 75,
+    "globalRank": 41336
   },
   {
     "login": "kuchaale",
@@ -9797,7 +10496,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 700,
-    "score": 112
+    "score": 112,
+    "globalRank": 41337
   },
   {
     "login": "isoguzay",
@@ -9811,7 +10511,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 701,
-    "score": 284
+    "score": 284,
+    "globalRank": 41338
   },
   {
     "login": "mathiasertl",
@@ -9825,7 +10526,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 702,
-    "score": 616
+    "score": 616,
+    "globalRank": 41339
   },
   {
     "login": "timeu",
@@ -9839,7 +10541,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 703,
-    "score": 155
+    "score": 155,
+    "globalRank": 41340
   },
   {
     "login": "Yepoleb",
@@ -9853,7 +10556,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 704,
-    "score": 115
+    "score": 115,
+    "globalRank": 41341
   },
   {
     "login": "HaarigerHarald",
@@ -9867,7 +10571,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 705,
-    "score": 86
+    "score": 86,
+    "globalRank": 41342
   },
   {
     "login": "hpgrahsl",
@@ -9881,7 +10586,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 706,
-    "score": 257
+    "score": 257,
+    "globalRank": 41343
   },
   {
     "login": "digikar99",
@@ -9895,7 +10601,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 707,
-    "score": 976
+    "score": 976,
+    "globalRank": 41344
   },
   {
     "login": "aquarius",
@@ -9909,7 +10616,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 708,
-    "score": 75
+    "score": 75,
+    "globalRank": 41345
   },
   {
     "login": "PeterSurda",
@@ -9923,7 +10631,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 709,
-    "score": 142
+    "score": 142,
+    "globalRank": 41346
   },
   {
     "login": "prayerslayer",
@@ -9937,7 +10646,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 710,
-    "score": 76
+    "score": 76,
+    "globalRank": 41347
   },
   {
     "login": "agrippa1994",
@@ -9951,7 +10661,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 711,
-    "score": 92
+    "score": 92,
+    "globalRank": 41348
   },
   {
     "login": "DavideD",
@@ -9965,7 +10676,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 712,
-    "score": 969
+    "score": 969,
+    "globalRank": 41349
   },
   {
     "login": "otsch",
@@ -9979,7 +10691,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 713,
-    "score": 499
+    "score": 499,
+    "globalRank": 41350
   },
   {
     "login": "halajun",
@@ -9993,7 +10706,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 714,
-    "score": 79
+    "score": 79,
+    "globalRank": 41351
   },
   {
     "login": "LFDM",
@@ -10007,7 +10721,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 715,
-    "score": 9794
+    "score": 9794,
+    "globalRank": 41661
   },
   {
     "login": "hochem",
@@ -10021,7 +10736,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 716,
-    "score": 180
+    "score": 180,
+    "globalRank": 41662
   },
   {
     "login": "alexkowa",
@@ -10035,7 +10751,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 717,
-    "score": 227
+    "score": 227,
+    "globalRank": 41663
   },
   {
     "login": "robbyczgw-cla",
@@ -10049,7 +10766,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 718,
-    "score": 3616
+    "score": 3616,
+    "globalRank": 41664
   },
   {
     "login": "martinagrom",
@@ -10063,7 +10781,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 719,
-    "score": 74
+    "score": 74,
+    "globalRank": 41665
   },
   {
     "login": "peterus",
@@ -10077,7 +10796,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 720,
-    "score": 1034
+    "score": 1034,
+    "globalRank": 41666
   },
   {
     "login": "danigro77",
@@ -10091,7 +10811,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 721,
-    "score": 74
+    "score": 74,
+    "globalRank": 41667
   },
   {
     "login": "h4ckd0tm3",
@@ -10105,7 +10826,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 722,
-    "score": 952
+    "score": 952,
+    "globalRank": 41668
   },
   {
     "login": "hasanhakkaev",
@@ -10119,7 +10841,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 723,
-    "score": 172
+    "score": 172,
+    "globalRank": 41947
   },
   {
     "login": "barnabywalters",
@@ -10133,7 +10856,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 724,
-    "score": 87
+    "score": 87,
+    "globalRank": 41948
   },
   {
     "login": "mbuchetics",
@@ -10147,7 +10871,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 725,
-    "score": 85
+    "score": 85,
+    "globalRank": 41949
   },
   {
     "login": "mpfarrho",
@@ -10161,7 +10886,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 726,
-    "score": 134
+    "score": 134,
+    "globalRank": 41950
   },
   {
     "login": "admineral",
@@ -10175,7 +10901,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 727,
-    "score": 313
+    "score": 313,
+    "globalRank": 41951
   },
   {
     "login": "DerYeger",
@@ -10189,7 +10916,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 728,
-    "score": 658
+    "score": 658,
+    "globalRank": 41952
   },
   {
     "login": "McKay42",
@@ -10203,7 +10931,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 729,
-    "score": 109
+    "score": 109,
+    "globalRank": 41953
   },
   {
     "login": "seclorum",
@@ -10217,7 +10946,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 730,
-    "score": 273
+    "score": 273,
+    "globalRank": 41954
   },
   {
     "login": "clemenshelm",
@@ -10231,7 +10961,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 731,
-    "score": 4143
+    "score": 4143,
+    "globalRank": 42281
   },
   {
     "login": "herou",
@@ -10245,7 +10976,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 732,
-    "score": 85
+    "score": 85,
+    "globalRank": 42282
   },
   {
     "login": "terrorobe",
@@ -10259,7 +10991,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 733,
-    "score": 1779
+    "score": 1779,
+    "globalRank": 42283
   },
   {
     "login": "ream88",
@@ -10273,7 +11006,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 734,
-    "score": 2307
+    "score": 2307,
+    "globalRank": 42284
   },
   {
     "login": "mschnetzer",
@@ -10287,7 +11021,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 735,
-    "score": 119
+    "score": 119,
+    "globalRank": 42285
   },
   {
     "login": "pichlermarc",
@@ -10301,7 +11036,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 736,
-    "score": 1125
+    "score": 1125,
+    "globalRank": 42286
   },
   {
     "login": "ttntm",
@@ -10315,7 +11051,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 737,
-    "score": 327
+    "score": 327,
+    "globalRank": 42287
   },
   {
     "login": "coazz94",
@@ -10329,7 +11066,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 738,
-    "score": 95
+    "score": 95,
+    "globalRank": 42288
   },
   {
     "login": "Demystify-Color",
@@ -10343,7 +11081,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 739,
-    "score": 75
+    "score": 75,
+    "globalRank": 42289
   },
   {
     "login": "nicloay",
@@ -10357,7 +11096,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 740,
-    "score": 83
+    "score": 83,
+    "globalRank": 42290
   },
   {
     "login": "saviorand",
@@ -10371,7 +11111,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 741,
-    "score": 972
+    "score": 972,
+    "globalRank": 42291
   },
   {
     "login": "rahra",
@@ -10385,7 +11126,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 742,
-    "score": 149
+    "score": 149,
+    "globalRank": 42292
   },
   {
     "login": "igwillions",
@@ -10399,7 +11141,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 743,
-    "score": 72
+    "score": 72,
+    "globalRank": 42293
   },
   {
     "login": "JOJ0",
@@ -10413,7 +11156,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 744,
-    "score": 335
+    "score": 335,
+    "globalRank": 42294
   },
   {
     "login": "gklambauer",
@@ -10427,7 +11171,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 745,
-    "score": 133
+    "score": 133,
+    "globalRank": 42613
   },
   {
     "login": "MaxValue",
@@ -10441,7 +11186,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 746,
-    "score": 84
+    "score": 84,
+    "globalRank": 42614
   },
   {
     "login": "nuernbergerA",
@@ -10455,7 +11201,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 747,
-    "score": 114
+    "score": 114,
+    "globalRank": 42615
   },
   {
     "login": "rozita-hasani",
@@ -10469,7 +11216,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 748,
-    "score": 82
+    "score": 82,
+    "globalRank": 42616
   },
   {
     "login": "hamidrezanorouzi",
@@ -10483,7 +11231,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 749,
-    "score": 185
+    "score": 185,
+    "globalRank": 42617
   },
   {
     "login": "tkem",
@@ -10497,7 +11246,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 750,
-    "score": 333
+    "score": 333,
+    "globalRank": 42618
   },
   {
     "login": "mbalassi",
@@ -10511,7 +11261,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 751,
-    "score": 93
+    "score": 93,
+    "globalRank": 42619
   },
   {
     "login": "rfuzzo",
@@ -10525,7 +11276,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 752,
-    "score": 288
+    "score": 288,
+    "globalRank": 42620
   },
   {
     "login": "thotro",
@@ -10539,7 +11291,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 753,
-    "score": 71
+    "score": 71,
+    "globalRank": 42621
   },
   {
     "login": "AndreAhmed",
@@ -10553,7 +11306,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 754,
-    "score": 84
+    "score": 84,
+    "globalRank": 42622
   },
   {
     "login": "VTIvanov20",
@@ -10567,7 +11321,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 755,
-    "score": 88
+    "score": 88,
+    "globalRank": 42928
   },
   {
     "login": "seppinho",
@@ -10581,7 +11336,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 756,
-    "score": 218
+    "score": 218,
+    "globalRank": 42929
   },
   {
     "login": "fabiant7t",
@@ -10595,7 +11351,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 757,
-    "score": 1056
+    "score": 1056,
+    "globalRank": 42930
   },
   {
     "login": "WalternativE",
@@ -10609,7 +11366,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 758,
-    "score": 85
+    "score": 85,
+    "globalRank": 42931
   },
   {
     "login": "r1cky33",
@@ -10623,7 +11381,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 759,
-    "score": 83
+    "score": 83,
+    "globalRank": 42932
   },
   {
     "login": "khaeru",
@@ -10637,7 +11396,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 760,
-    "score": 1557
+    "score": 1557,
+    "globalRank": 42933
   },
   {
     "login": "mhesselbarth",
@@ -10651,7 +11411,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 761,
-    "score": 82
+    "score": 82,
+    "globalRank": 42934
   },
   {
     "login": "patschi",
@@ -10665,7 +11426,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 762,
-    "score": 678
+    "score": 678,
+    "globalRank": 42935
   },
   {
     "login": "bleeding182",
@@ -10679,7 +11441,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 763,
-    "score": 276
+    "score": 276,
+    "globalRank": 42936
   },
   {
     "login": "ahirner",
@@ -10693,7 +11456,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 764,
-    "score": 1959
+    "score": 1959,
+    "globalRank": 42937
   },
   {
     "login": "yuryalencar",
@@ -10707,7 +11471,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 765,
-    "score": 591
+    "score": 591,
+    "globalRank": 42938
   },
   {
     "login": "technik-gegg",
@@ -10721,7 +11486,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 766,
-    "score": 70
+    "score": 70,
+    "globalRank": 42939
   },
   {
     "login": "philparzer",
@@ -10735,7 +11501,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 767,
-    "score": 2326
+    "score": 2326,
+    "globalRank": 42940
   },
   {
     "login": "mwallerb",
@@ -10749,7 +11516,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 768,
-    "score": 199
+    "score": 199,
+    "globalRank": 42941
   },
   {
     "login": "juanitoddd",
@@ -10763,7 +11531,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 769,
-    "score": 117
+    "score": 117,
+    "globalRank": 42942
   },
   {
     "login": "motz0815",
@@ -10777,7 +11546,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 770,
-    "score": 548
+    "score": 548,
+    "globalRank": 43268
   },
   {
     "login": "nvaulin",
@@ -10791,7 +11561,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 771,
-    "score": 208
+    "score": 208,
+    "globalRank": 43269
   },
   {
     "login": "bountin",
@@ -10805,7 +11576,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 772,
-    "score": 75
+    "score": 75,
+    "globalRank": 43270
   },
   {
     "login": "wolfib",
@@ -10819,7 +11591,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 773,
-    "score": 293
+    "score": 293,
+    "globalRank": 43271
   },
   {
     "login": "KoKuToru",
@@ -10833,7 +11606,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 774,
-    "score": 150
+    "score": 150,
+    "globalRank": 43272
   },
   {
     "login": "hoebbelsB",
@@ -10847,7 +11621,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 775,
-    "score": 248
+    "score": 248,
+    "globalRank": 43273
   },
   {
     "login": "rozeridilar",
@@ -10861,7 +11636,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 776,
-    "score": 105
+    "score": 105,
+    "globalRank": 43274
   },
   {
     "login": "gbekes",
@@ -10875,7 +11651,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 777,
-    "score": 795
+    "score": 795,
+    "globalRank": 43275
   },
   {
     "login": "chaudum",
@@ -10889,7 +11666,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 778,
-    "score": 567
+    "score": 567,
+    "globalRank": 43276
   },
   {
     "login": "botic",
@@ -10903,7 +11681,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 779,
-    "score": 561
+    "score": 561,
+    "globalRank": 43277
   },
   {
     "login": "mmasana",
@@ -10917,7 +11696,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 780,
-    "score": 96
+    "score": 96,
+    "globalRank": 43278
   },
   {
     "login": "protyposis",
@@ -10931,7 +11711,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 781,
-    "score": 289
+    "score": 289,
+    "globalRank": 43279
   },
   {
     "login": "AliGhaderi98",
@@ -10945,7 +11726,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 782,
-    "score": 69
+    "score": 69,
+    "globalRank": 43280
   },
   {
     "login": "qu0b",
@@ -10959,7 +11741,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 783,
-    "score": 2048
+    "score": 2048,
+    "globalRank": 43281
   },
   {
     "login": "LuckyIntegral",
@@ -10973,7 +11756,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 784,
-    "score": 1719
+    "score": 1719,
+    "globalRank": 43282
   },
   {
     "login": "lukstei",
@@ -10987,7 +11771,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 785,
-    "score": 1506
+    "score": 1506,
+    "globalRank": 43601
   },
   {
     "login": "kelas",
@@ -11001,7 +11786,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 786,
-    "score": 203
+    "score": 203,
+    "globalRank": 43602
   },
   {
     "login": "dschrempf",
@@ -11015,7 +11801,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 787,
-    "score": 1582
+    "score": 1582,
+    "globalRank": 43603
   },
   {
     "login": "manoskary",
@@ -11029,7 +11816,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 788,
-    "score": 755
+    "score": 755,
+    "globalRank": 43604
   },
   {
     "login": "kavindyasinthasilva",
@@ -11043,7 +11831,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 789,
-    "score": 204
+    "score": 204,
+    "globalRank": 43605
   },
   {
     "login": "mansi-27",
@@ -11057,7 +11846,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 790,
-    "score": 71
+    "score": 71,
+    "globalRank": 43606
   },
   {
     "login": "marko-knoebl",
@@ -11071,7 +11861,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 791,
-    "score": 92
+    "score": 92,
+    "globalRank": 43970
   },
   {
     "login": "tomLadder",
@@ -11085,7 +11876,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 792,
-    "score": 652
+    "score": 652,
+    "globalRank": 43971
   },
   {
     "login": "mariachris",
@@ -11099,7 +11891,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 793,
-    "score": 1751
+    "score": 1751,
+    "globalRank": 43972
   },
   {
     "login": "thpoll83",
@@ -11113,7 +11906,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 794,
-    "score": 226
+    "score": 226,
+    "globalRank": 43973
   },
   {
     "login": "mdiener21",
@@ -11127,7 +11921,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 795,
-    "score": 642
+    "score": 642,
+    "globalRank": 43974
   },
   {
     "login": "vanessavieira",
@@ -11141,7 +11936,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 796,
-    "score": 67
+    "score": 67,
+    "globalRank": 43975
   },
   {
     "login": "socialhack",
@@ -11155,7 +11951,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 797,
-    "score": 71
+    "score": 71,
+    "globalRank": 43976
   },
   {
     "login": "artikrh",
@@ -11169,7 +11966,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 798,
-    "score": 85
+    "score": 85,
+    "globalRank": 43977
   },
   {
     "login": "hathbanger",
@@ -11183,7 +11981,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 799,
-    "score": 514
+    "score": 514,
+    "globalRank": 43978
   },
   {
     "login": "SIMULATAN",
@@ -11197,7 +11996,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 800,
-    "score": 1097
+    "score": 1097,
+    "globalRank": 44369
   },
   {
     "login": "dukesrg",
@@ -11211,7 +12011,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 801,
-    "score": 106
+    "score": 106,
+    "globalRank": 44370
   },
   {
     "login": "Blub",
@@ -11225,7 +12026,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 802,
-    "score": 434
+    "score": 434,
+    "globalRank": 44371
   },
   {
     "login": "lutrarutra",
@@ -11239,7 +12041,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 803,
-    "score": 1495
+    "score": 1495,
+    "globalRank": 44372
   },
   {
     "login": "cedced19",
@@ -11253,7 +12056,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 804,
-    "score": 336
+    "score": 336,
+    "globalRank": 44373
   },
   {
     "login": "lavish",
@@ -11267,7 +12071,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 805,
-    "score": 142
+    "score": 142,
+    "globalRank": 44374
   },
   {
     "login": "mschwaig",
@@ -11281,7 +12086,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 806,
-    "score": 925
+    "score": 925,
+    "globalRank": 44375
   },
   {
     "login": "slymax",
@@ -11295,7 +12101,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 807,
-    "score": 227
+    "score": 227,
+    "globalRank": 44732
   },
   {
     "login": "marceldobehere",
@@ -11309,7 +12116,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 808,
-    "score": 315
+    "score": 315,
+    "globalRank": 44733
   },
   {
     "login": "hannibal002",
@@ -11323,7 +12131,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 809,
-    "score": 2312
+    "score": 2312,
+    "globalRank": 44734
   },
   {
     "login": "ennioVisco",
@@ -11337,7 +12146,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 810,
-    "score": 1066
+    "score": 1066,
+    "globalRank": 44735
   },
   {
     "login": "dominikschubert",
@@ -11351,7 +12161,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 811,
-    "score": 105
+    "score": 105,
+    "globalRank": 44736
   },
   {
     "login": "todvora",
@@ -11365,7 +12176,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 812,
-    "score": 436
+    "score": 436,
+    "globalRank": 44737
   },
   {
     "login": "ar0551",
@@ -11379,7 +12191,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 813,
-    "score": 254
+    "score": 254,
+    "globalRank": 44738
   },
   {
     "login": "ACoolioDude",
@@ -11393,7 +12206,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 814,
-    "score": 117
+    "score": 117,
+    "globalRank": 44739
   },
   {
     "login": "rwachtler",
@@ -11407,7 +12221,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 815,
-    "score": 652
+    "score": 652,
+    "globalRank": 44740
   },
   {
     "login": "ungarj",
@@ -11421,7 +12236,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 816,
-    "score": 673
+    "score": 673,
+    "globalRank": 44741
   },
   {
     "login": "doebi",
@@ -11435,7 +12251,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 817,
-    "score": 394
+    "score": 394,
+    "globalRank": 44742
   },
   {
     "login": "grodowski",
@@ -11449,7 +12266,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 818,
-    "score": 1236
+    "score": 1236,
+    "globalRank": 44743
   },
   {
     "login": "jozef",
@@ -11463,7 +12281,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 819,
-    "score": 112
+    "score": 112,
+    "globalRank": 45113
   },
   {
     "login": "sharnik",
@@ -11477,7 +12296,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 820,
-    "score": 671
+    "score": 671,
+    "globalRank": 45114
   },
   {
     "login": "constantinius",
@@ -11491,7 +12311,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 821,
-    "score": 1972
+    "score": 1972,
+    "globalRank": 45115
   },
   {
     "login": "bendlas",
@@ -11505,7 +12326,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 822,
-    "score": 211
+    "score": 211,
+    "globalRank": 45116
   },
   {
     "login": "sylviamoss",
@@ -11519,7 +12341,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 823,
-    "score": 90
+    "score": 90,
+    "globalRank": 45117
   },
   {
     "login": "bbernhard",
@@ -11533,7 +12356,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 824,
-    "score": 286
+    "score": 286,
+    "globalRank": 45118
   },
   {
     "login": "mgravey",
@@ -11547,7 +12371,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 825,
-    "score": 302
+    "score": 302,
+    "globalRank": 45119
   },
   {
     "login": "mgratzer",
@@ -11561,7 +12386,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 826,
-    "score": 1538
+    "score": 1538,
+    "globalRank": 45120
   },
   {
     "login": "AgentD",
@@ -11575,7 +12401,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 827,
-    "score": 66
+    "score": 66,
+    "globalRank": 45121
   },
   {
     "login": "sh0w",
@@ -11589,7 +12416,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 828,
-    "score": 64
+    "score": 64,
+    "globalRank": 45122
   },
   {
     "login": "wachterjohannes",
@@ -11603,7 +12431,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 829,
-    "score": 1576
+    "score": 1576,
+    "globalRank": 45123
   },
   {
     "login": "mpoeter",
@@ -11617,7 +12446,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 830,
-    "score": 458
+    "score": 458,
+    "globalRank": 45124
   },
   {
     "login": "johannesugb",
@@ -11631,7 +12461,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 831,
-    "score": 300
+    "score": 300,
+    "globalRank": 45125
   },
   {
     "login": "stefanschoeberl",
@@ -11645,7 +12476,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 832,
-    "score": 80
+    "score": 80,
+    "globalRank": 45126
   },
   {
     "login": "hannestschofenig",
@@ -11659,7 +12491,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 833,
-    "score": 1120
+    "score": 1120,
+    "globalRank": 45127
   },
   {
     "login": "krauthaufen",
@@ -11673,7 +12506,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 834,
-    "score": 2098
+    "score": 2098,
+    "globalRank": 45128
   },
   {
     "login": "rnixx",
@@ -11687,7 +12521,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 835,
-    "score": 1200
+    "score": 1200,
+    "globalRank": 45129
   },
   {
     "login": "gzotti",
@@ -11701,7 +12536,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 836,
-    "score": 520
+    "score": 520,
+    "globalRank": 45511
   },
   {
     "login": "uecker",
@@ -11715,7 +12551,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 837,
-    "score": 704
+    "score": 704,
+    "globalRank": 45512
   },
   {
     "login": "arnarg",
@@ -11729,7 +12566,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 838,
-    "score": 636
+    "score": 636,
+    "globalRank": 45513
   },
   {
     "login": "secustor",
@@ -11743,7 +12581,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 839,
-    "score": 4543
+    "score": 4543,
+    "globalRank": 45514
   },
   {
     "login": "KailinTong",
@@ -11757,7 +12596,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 840,
-    "score": 136
+    "score": 136,
+    "globalRank": 45515
   },
   {
     "login": "Yolgie",
@@ -11771,7 +12611,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 841,
-    "score": 310
+    "score": 310,
+    "globalRank": 45516
   },
   {
     "login": "AminAlam",
@@ -11785,7 +12626,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 842,
-    "score": 695
+    "score": 695,
+    "globalRank": 45517
   },
   {
     "login": "BianchiGiulia",
@@ -11799,7 +12641,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 843,
-    "score": 64
+    "score": 64,
+    "globalRank": 45518
   },
   {
     "login": "zbynek",
@@ -11813,7 +12656,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 844,
-    "score": 1217
+    "score": 1217,
+    "globalRank": 45519
   },
   {
     "login": "JKamsker",
@@ -11827,7 +12671,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 845,
-    "score": 6056
+    "score": 6056,
+    "globalRank": 45520
   },
   {
     "login": "Fausi89",
@@ -11841,7 +12686,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 846,
-    "score": 166
+    "score": 166,
+    "globalRank": 45521
   },
   {
     "login": "cwe1ss",
@@ -11855,7 +12701,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 847,
-    "score": 132
+    "score": 132,
+    "globalRank": 45522
   },
   {
     "login": "cbx",
@@ -11869,7 +12716,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 848,
-    "score": 3908
+    "score": 3908,
+    "globalRank": 45523
   },
   {
     "login": "SimonTheSalesBooster",
@@ -11883,7 +12731,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 849,
-    "score": 337
+    "score": 337,
+    "globalRank": 45524
   },
   {
     "login": "Serafadam",
@@ -11897,7 +12746,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 850,
-    "score": 284
+    "score": 284,
+    "globalRank": 45525
   },
   {
     "login": "Lms24",
@@ -11911,7 +12761,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 851,
-    "score": 2759
+    "score": 2759,
+    "globalRank": 45919
   },
   {
     "login": "tla",
@@ -11925,7 +12776,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 852,
-    "score": 208
+    "score": 208,
+    "globalRank": 45920
   },
   {
     "login": "klausi",
@@ -11939,7 +12791,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 853,
-    "score": 3491
+    "score": 3491,
+    "globalRank": 45921
   },
   {
     "login": "Gbolahanomotosho",
@@ -11953,7 +12806,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 854,
-    "score": 320
+    "score": 320,
+    "globalRank": 45922
   },
   {
     "login": "mwallner",
@@ -11967,7 +12821,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 855,
-    "score": 298
+    "score": 298,
+    "globalRank": 45923
   },
   {
     "login": "MyGodItsFull0fStars",
@@ -11981,7 +12836,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 856,
-    "score": 142
+    "score": 142,
+    "globalRank": 45924
   },
   {
     "login": "michaelalang",
@@ -11995,7 +12851,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 857,
-    "score": 227
+    "score": 227,
+    "globalRank": 45925
   },
   {
     "login": "nbelyh",
@@ -12009,7 +12866,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 858,
-    "score": 395
+    "score": 395,
+    "globalRank": 45926
   },
   {
     "login": "dlhck",
@@ -12023,7 +12881,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 859,
-    "score": 3694
+    "score": 3694,
+    "globalRank": 45927
   },
   {
     "login": "Eprince-hub",
@@ -12037,7 +12896,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 860,
-    "score": 1054
+    "score": 1054,
+    "globalRank": 45928
   },
   {
     "login": "pshaddel",
@@ -12051,7 +12911,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 861,
-    "score": 352
+    "score": 352,
+    "globalRank": 45929
   },
   {
     "login": "dsoellinger",
@@ -12065,7 +12926,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 862,
-    "score": 67
+    "score": 67,
+    "globalRank": 45930
   },
   {
     "login": "DomiStyle",
@@ -12079,7 +12941,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 863,
-    "score": 73
+    "score": 73,
+    "globalRank": 45931
   },
   {
     "login": "tamacodechi",
@@ -12093,7 +12956,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 864,
-    "score": 65
+    "score": 65,
+    "globalRank": 45932
   },
   {
     "login": "MattMoony",
@@ -12107,7 +12971,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 865,
-    "score": 98
+    "score": 98,
+    "globalRank": 45933
   },
   {
     "login": "zRxnx",
@@ -12121,7 +12986,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 866,
-    "score": 150
+    "score": 150,
+    "globalRank": 45934
   },
   {
     "login": "Uter1007",
@@ -12135,7 +13001,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 867,
-    "score": 113
+    "score": 113,
+    "globalRank": 45935
   },
   {
     "login": "0xFEEDC0DE64",
@@ -12149,7 +13016,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 868,
-    "score": 130
+    "score": 130,
+    "globalRank": 45936
   },
   {
     "login": "mechaniac",
@@ -12163,7 +13031,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 869,
-    "score": 743
+    "score": 743,
+    "globalRank": 45937
   },
   {
     "login": "shan-shaji",
@@ -12177,7 +13046,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 870,
-    "score": 387
+    "score": 387,
+    "globalRank": 45938
   },
   {
     "login": "rened",
@@ -12191,7 +13061,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 871,
-    "score": 65
+    "score": 65,
+    "globalRank": 45939
   },
   {
     "login": "brainfoolong",
@@ -12205,7 +13076,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 872,
-    "score": 217
+    "score": 217,
+    "globalRank": 45940
   },
   {
     "login": "peerdavid",
@@ -12219,7 +13091,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 873,
-    "score": 778
+    "score": 778,
+    "globalRank": 46353
   },
   {
     "login": "ingambe",
@@ -12233,7 +13106,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 874,
-    "score": 73
+    "score": 73,
+    "globalRank": 46354
   },
   {
     "login": "elftausend",
@@ -12247,7 +13121,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 875,
-    "score": 1148
+    "score": 1148,
+    "globalRank": 46355
   },
   {
     "login": "mikegr",
@@ -12261,7 +13136,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 876,
-    "score": 61
+    "score": 61,
+    "globalRank": 46356
   },
   {
     "login": "flipace",
@@ -12275,7 +13151,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 877,
-    "score": 7732
+    "score": 7732,
+    "globalRank": 46357
   },
   {
     "login": "gebes",
@@ -12289,7 +13166,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 878,
-    "score": 1764
+    "score": 1764,
+    "globalRank": 46358
   },
   {
     "login": "cenk1cenk2",
@@ -12303,7 +13181,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 879,
-    "score": 9955
+    "score": 9955,
+    "globalRank": 46359
   },
   {
     "login": "ashwoods",
@@ -12317,7 +13196,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 880,
-    "score": 61
+    "score": 61,
+    "globalRank": 46360
   },
   {
     "login": "chpollin",
@@ -12331,7 +13211,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 881,
-    "score": 2767
+    "score": 2767,
+    "globalRank": 46361
   },
   {
     "login": "them-es",
@@ -12345,7 +13226,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 882,
-    "score": 96
+    "score": 96,
+    "globalRank": 46362
   },
   {
     "login": "creolis",
@@ -12359,7 +13241,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 883,
-    "score": 261
+    "score": 261,
+    "globalRank": 46363
   },
   {
     "login": "poechlauerbe",
@@ -12373,7 +13256,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 884,
-    "score": 1136
+    "score": 1136,
+    "globalRank": 46364
   },
   {
     "login": "Azer0s",
@@ -12387,7 +13271,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 885,
-    "score": 1278
+    "score": 1278,
+    "globalRank": 46365
   },
   {
     "login": "sgoeschl",
@@ -12401,7 +13286,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 886,
-    "score": 114
+    "score": 114,
+    "globalRank": 46366
   },
   {
     "login": "totoroot",
@@ -12415,7 +13301,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 887,
-    "score": 882
+    "score": 882,
+    "globalRank": 46806
   },
   {
     "login": "goswinr",
@@ -12429,7 +13316,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 888,
-    "score": 810
+    "score": 810,
+    "globalRank": 46807
   },
   {
     "login": "getlarge",
@@ -12443,7 +13331,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 889,
-    "score": 4371
+    "score": 4371,
+    "globalRank": 46808
   },
   {
     "login": "philipphofmann",
@@ -12457,7 +13346,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 890,
-    "score": 1702
+    "score": 1702,
+    "globalRank": 46809
   },
   {
     "login": "fschmid56",
@@ -12471,7 +13361,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 891,
-    "score": 68
+    "score": 68,
+    "globalRank": 46810
   },
   {
     "login": "golobor",
@@ -12485,7 +13376,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 892,
-    "score": 65
+    "score": 65,
+    "globalRank": 46811
   },
   {
     "login": "slogslog",
@@ -12499,7 +13391,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 893,
-    "score": 65
+    "score": 65,
+    "globalRank": 46812
   },
   {
     "login": "burnoutberni",
@@ -12513,7 +13406,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 894,
-    "score": 406
+    "score": 406,
+    "globalRank": 46813
   },
   {
     "login": "cxkoda",
@@ -12527,7 +13421,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 895,
-    "score": 2723
+    "score": 2723,
+    "globalRank": 46814
   },
   {
     "login": "pglira",
@@ -12541,7 +13436,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 896,
-    "score": 335
+    "score": 335,
+    "globalRank": 46815
   },
   {
     "login": "zarmonious",
@@ -12555,7 +13451,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 897,
-    "score": 60
+    "score": 60,
+    "globalRank": 46816
   },
   {
     "login": "thomaspeklak",
@@ -12569,7 +13466,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 898,
-    "score": 3185
+    "score": 3185,
+    "globalRank": 46817
   },
   {
     "login": "cmoestl",
@@ -12583,7 +13481,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 899,
-    "score": 139
+    "score": 139,
+    "globalRank": 47221
   },
   {
     "login": "planger",
@@ -12597,7 +13496,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 900,
-    "score": 318
+    "score": 318,
+    "globalRank": 47222
   },
   {
     "login": "arselabita",
@@ -12611,7 +13511,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 901,
-    "score": 847
+    "score": 847,
+    "globalRank": 47223
   },
   {
     "login": "namjul",
@@ -12625,7 +13526,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 902,
-    "score": 1403
+    "score": 1403,
+    "globalRank": 47224
   },
   {
     "login": "mplatzer",
@@ -12639,7 +13541,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 903,
-    "score": 1638
+    "score": 1638,
+    "globalRank": 47225
   },
   {
     "login": "omid2007hope",
@@ -12653,7 +13556,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 904,
-    "score": 141
+    "score": 141,
+    "globalRank": 47226
   },
   {
     "login": "michaeltroger",
@@ -12667,7 +13571,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 905,
-    "score": 613
+    "score": 613,
+    "globalRank": 47227
   },
   {
     "login": "shahabganji",
@@ -12681,7 +13586,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 906,
-    "score": 384
+    "score": 384,
+    "globalRank": 47228
   },
   {
     "login": "TheLevti",
@@ -12695,7 +13601,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 907,
-    "score": 1943
+    "score": 1943,
+    "globalRank": 47229
   },
   {
     "login": "flofriday",
@@ -12709,7 +13616,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 908,
-    "score": 1034
+    "score": 1034,
+    "globalRank": 47230
   },
   {
     "login": "Schpidi",
@@ -12723,7 +13631,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 909,
-    "score": 397
+    "score": 397,
+    "globalRank": 47231
   },
   {
     "login": "MauriceNino",
@@ -12737,7 +13646,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 910,
-    "score": 529
+    "score": 529,
+    "globalRank": 47232
   },
   {
     "login": "mplattner",
@@ -12751,7 +13661,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 911,
-    "score": 389
+    "score": 389,
+    "globalRank": 47233
   },
   {
     "login": "eray-yuztyurk",
@@ -12765,7 +13676,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 912,
-    "score": 291
+    "score": 291,
+    "globalRank": 47234
   },
   {
     "login": "valdeanda",
@@ -12779,7 +13691,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 913,
-    "score": 60
+    "score": 60,
+    "globalRank": 47235
   },
   {
     "login": "cadeyrn",
@@ -12793,7 +13706,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 914,
-    "score": 584
+    "score": 584,
+    "globalRank": 47236
   },
   {
     "login": "StRigaud",
@@ -12807,7 +13721,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 915,
-    "score": 1178
+    "score": 1178,
+    "globalRank": 47237
   },
   {
     "login": "knedlsepp",
@@ -12821,7 +13736,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 916,
-    "score": 79
+    "score": 79,
+    "globalRank": 47238
   },
   {
     "login": "NiHaiden",
@@ -12835,7 +13751,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 917,
-    "score": 823
+    "score": 823,
+    "globalRank": 47239
   },
   {
     "login": "AustrianAudio",
@@ -12849,7 +13766,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 918,
-    "score": 59
+    "score": 59,
+    "globalRank": 47240
   },
   {
     "login": "widmi",
@@ -12863,7 +13781,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 919,
-    "score": 59
+    "score": 59,
+    "globalRank": 47241
   },
   {
     "login": "rfilkov",
@@ -12877,7 +13796,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 920,
-    "score": 59
+    "score": 59,
+    "globalRank": 47242
   },
   {
     "login": "steos",
@@ -12891,7 +13811,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 921,
-    "score": 2333
+    "score": 2333,
+    "globalRank": 47637
   },
   {
     "login": "L-X-T",
@@ -12905,7 +13826,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 922,
-    "score": 459
+    "score": 459,
+    "globalRank": 47638
   },
   {
     "login": "rockofox",
@@ -12919,7 +13841,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 923,
-    "score": 656
+    "score": 656,
+    "globalRank": 47639
   },
   {
     "login": "gofal",
@@ -12933,7 +13856,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 924,
-    "score": 265
+    "score": 265,
+    "globalRank": 47640
   },
   {
     "login": "pstoellberger",
@@ -12947,7 +13871,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 925,
-    "score": 58
+    "score": 58,
+    "globalRank": 47641
   },
   {
     "login": "zapster",
@@ -12961,7 +13886,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 926,
-    "score": 674
+    "score": 674,
+    "globalRank": 47642
   },
   {
     "login": "Josehower",
@@ -12975,7 +13901,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 927,
-    "score": 1629
+    "score": 1629,
+    "globalRank": 47643
   },
   {
     "login": "mkalininait",
@@ -12989,7 +13916,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 928,
-    "score": 58
+    "score": 58,
+    "globalRank": 47644
   },
   {
     "login": "raccube",
@@ -13003,7 +13931,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 929,
-    "score": 375
+    "score": 375,
+    "globalRank": 47645
   },
   {
     "login": "ghostlydilemma",
@@ -13017,7 +13946,8 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 930,
-    "score": 59
+    "score": 59,
+    "globalRank": 47646
   },
   {
     "login": "alex-bretet",
@@ -13031,6 +13961,7 @@
     "country": "austria",
     "countryName": "Austria",
     "countryRank": 931,
-    "score": 58
+    "score": 58,
+    "globalRank": 47647
   }
 ]

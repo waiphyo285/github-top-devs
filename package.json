@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "eslint",
     "format": "prettier --write .",
-    "sync": "node scripts/fetch-data.js"
+    "sync": "node scripts/fetch-data.js --force"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.17",

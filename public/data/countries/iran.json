@@ -11,7 +11,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 1,
-    "score": 11755
+    "score": 11755,
+    "globalRank": 181
   },
   {
     "login": "SharifiZarchi",
@@ -25,7 +26,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 2,
-    "score": 4060
+    "score": 4060,
+    "globalRank": 656
   },
   {
     "login": "mrpaziresh",
@@ -39,7 +41,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 3,
-    "score": 3307
+    "score": 3307,
+    "globalRank": 902
   },
   {
     "login": "alikhazaeii",
@@ -53,7 +56,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 4,
-    "score": 2867
+    "score": 2867,
+    "globalRank": 1008
   },
   {
     "login": "CodingWithEnjoy",
@@ -67,7 +71,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 5,
-    "score": 2939
+    "score": 2939,
+    "globalRank": 1053
   },
   {
     "login": "FaezehRahimian",
@@ -81,7 +86,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 6,
-    "score": 2481
+    "score": 2481,
+    "globalRank": 1216
   },
   {
     "login": "ircfspace",
@@ -95,7 +101,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 7,
-    "score": 3214
+    "score": 3214,
+    "globalRank": 1252
   },
   {
     "login": "AmirPeyravan",
@@ -109,7 +116,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 8,
-    "score": 6394
+    "score": 6394,
+    "globalRank": 1260
   },
   {
     "login": "Wadan3",
@@ -123,7 +131,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 9,
-    "score": 2292
+    "score": 2292,
+    "globalRank": 1370
   },
   {
     "login": "Nima-Mollaei",
@@ -137,7 +146,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 10,
-    "score": 2404
+    "score": 2404,
+    "globalRank": 1391
   },
   {
     "login": "amirebadi21",
@@ -151,7 +161,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 11,
-    "score": 2150
+    "score": 2150,
+    "globalRank": 1478
   },
   {
     "login": "Mohsen-malekifard",
@@ -165,7 +176,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 12,
-    "score": 3751
+    "score": 3751,
+    "globalRank": 1485
   },
   {
     "login": "vfarid",
@@ -179,7 +191,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 13,
-    "score": 2122
+    "score": 2122,
+    "globalRank": 1504
   },
   {
     "login": "AmirhoseinHesami",
@@ -193,7 +206,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 14,
-    "score": 1862
+    "score": 1862,
+    "globalRank": 1845
   },
   {
     "login": "Kourva",
@@ -207,7 +221,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 15,
-    "score": 2557
+    "score": 2557,
+    "globalRank": 2050
   },
   {
     "login": "mhmdghaedi",
@@ -221,7 +236,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 16,
-    "score": 1642
+    "score": 1642,
+    "globalRank": 2094
   },
   {
     "login": "Ali-hey-0",
@@ -235,7 +251,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 17,
-    "score": 1828
+    "score": 1828,
+    "globalRank": 2135
   },
   {
     "login": "realrobotteam",
@@ -249,7 +266,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 18,
-    "score": 1576
+    "score": 1576,
+    "globalRank": 2319
   },
   {
     "login": "nimakian",
@@ -263,7 +281,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 19,
-    "score": 1473
+    "score": 1473,
+    "globalRank": 2417
   },
   {
     "login": "irvaniamirali",
@@ -277,7 +296,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 20,
-    "score": 1561
+    "score": 1561,
+    "globalRank": 2490
   },
   {
     "login": "thisisnabi",
@@ -291,7 +311,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 21,
-    "score": 1403
+    "score": 1403,
+    "globalRank": 2554
   },
   {
     "login": "abolfazl-shadrouh",
@@ -305,7 +326,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 22,
-    "score": 1838
+    "score": 1838,
+    "globalRank": 2619
   },
   {
     "login": "FarzaneF",
@@ -319,7 +341,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 23,
-    "score": 1346
+    "score": 1346,
+    "globalRank": 2665
   },
   {
     "login": "Azoonex",
@@ -333,7 +356,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 24,
-    "score": 2047
+    "score": 2047,
+    "globalRank": 2668
   },
   {
     "login": "amirallami-code",
@@ -347,7 +371,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 25,
-    "score": 1571
+    "score": 1571,
+    "globalRank": 2909
   },
   {
     "login": "HastiNeg",
@@ -361,7 +386,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 26,
-    "score": 1239
+    "score": 1239,
+    "globalRank": 2975
   },
   {
     "login": "myaaghubi",
@@ -375,7 +401,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 27,
-    "score": 1614
+    "score": 1614,
+    "globalRank": 3006
   },
   {
     "login": "alidehkhodaei",
@@ -389,7 +416,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 28,
-    "score": 1233
+    "score": 1233,
+    "globalRank": 3025
   },
   {
     "login": "mohammadnabia",
@@ -403,7 +431,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 29,
-    "score": 1214
+    "score": 1214,
+    "globalRank": 3125
   },
   {
     "login": "The404Hacking",
@@ -417,7 +446,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 30,
-    "score": 1183
+    "score": 1183,
+    "globalRank": 3161
   },
   {
     "login": "AliSabet81",
@@ -431,7 +461,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 31,
-    "score": 2853
+    "score": 2853,
+    "globalRank": 3162
   },
   {
     "login": "VahidN",
@@ -445,7 +476,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 32,
-    "score": 1678
+    "score": 1678,
+    "globalRank": 3197
   },
   {
     "login": "VIDAKHOSHPEY22",
@@ -459,7 +491,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 33,
-    "score": 2808
+    "score": 2808,
+    "globalRank": 3214
   },
   {
     "login": "AmirAbdollahi",
@@ -473,7 +506,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 34,
-    "score": 1201
+    "score": 1201,
+    "globalRank": 3277
   },
   {
     "login": "ArminHsseini-dev",
@@ -487,7 +521,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 35,
-    "score": 2122
+    "score": 2122,
+    "globalRank": 3666
   },
   {
     "login": "YALDAKHOSHPEY",
@@ -501,7 +536,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 36,
-    "score": 3023
+    "score": 3023,
+    "globalRank": 3714
   },
   {
     "login": "erfanoabdi",
@@ -515,7 +551,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 37,
-    "score": 1463
+    "score": 1463,
+    "globalRank": 3821
   },
   {
     "login": "amirbigg",
@@ -529,7 +566,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 38,
-    "score": 1030
+    "score": 1030,
+    "globalRank": 3847
   },
   {
     "login": "AhmadRafiee",
@@ -543,7 +581,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 39,
-    "score": 1045
+    "score": 1045,
+    "globalRank": 3936
   },
   {
     "login": "mohamadSaleh82",
@@ -557,7 +596,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 40,
-    "score": 2518
+    "score": 2518,
+    "globalRank": 3963
   },
   {
     "login": "thecompez",
@@ -571,7 +611,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 41,
-    "score": 1418
+    "score": 1418,
+    "globalRank": 4025
   },
   {
     "login": "Abolfazlghaseemi",
@@ -585,7 +626,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 42,
-    "score": 978
+    "score": 978,
+    "globalRank": 4069
   },
   {
     "login": "rootnitocom",
@@ -599,7 +641,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 43,
-    "score": 979
+    "score": 979,
+    "globalRank": 4070
   },
   {
     "login": "sorooshrabet",
@@ -613,7 +656,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 44,
-    "score": 1030
+    "score": 1030,
+    "globalRank": 4250
   },
   {
     "login": "ParhamPishro",
@@ -627,7 +671,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 45,
-    "score": 975
+    "score": 975,
+    "globalRank": 4266
   },
   {
     "login": "ALIILAPRO",
@@ -641,7 +686,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 46,
-    "score": 63614
+    "score": 63614,
+    "globalRank": 4452
   },
   {
     "login": "amir1376",
@@ -655,7 +701,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 47,
-    "score": 1379
+    "score": 1379,
+    "globalRank": 4585
   },
   {
     "login": "erfanyousefi",
@@ -669,7 +716,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 48,
-    "score": 3898
+    "score": 3898,
+    "globalRank": 5001
   },
   {
     "login": "AliBigdeli",
@@ -683,7 +731,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 49,
-    "score": 1325
+    "score": 1325,
+    "globalRank": 5005
   },
   {
     "login": "HamiParsa",
@@ -697,7 +746,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 50,
-    "score": 1761
+    "score": 1761,
+    "globalRank": 5030
   },
   {
     "login": "ErfiDev",
@@ -711,7 +761,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 51,
-    "score": 821
+    "score": 821,
+    "globalRank": 5051
   },
   {
     "login": "HRSadeghi",
@@ -725,7 +776,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 52,
-    "score": 819
+    "score": 819,
+    "globalRank": 5074
   },
   {
     "login": "ariaesm",
@@ -739,7 +791,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 53,
-    "score": 811
+    "score": 811,
+    "globalRank": 5138
   },
   {
     "login": "bugbounted",
@@ -753,7 +806,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 54,
-    "score": 571293
+    "score": 571293,
+    "globalRank": 5221
   },
   {
     "login": "mahdinazmi",
@@ -767,7 +821,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 55,
-    "score": 789
+    "score": 789,
+    "globalRank": 5347
   },
   {
     "login": "mhmdhoseinzade",
@@ -781,7 +836,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 56,
-    "score": 3056
+    "score": 3056,
+    "globalRank": 5348
   },
   {
     "login": "junguler",
@@ -795,7 +851,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 57,
-    "score": 1862
+    "score": 1862,
+    "globalRank": 5375
   },
   {
     "login": "safaeean",
@@ -809,7 +866,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 58,
-    "score": 817
+    "score": 817,
+    "globalRank": 5376
   },
   {
     "login": "miladbadeleh",
@@ -823,7 +881,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 59,
-    "score": 952
+    "score": 952,
+    "globalRank": 5385
   },
   {
     "login": "Shark-87",
@@ -837,7 +896,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 60,
-    "score": 760
+    "score": 760,
+    "globalRank": 5527
   },
   {
     "login": "parisam83",
@@ -851,7 +911,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 61,
-    "score": 860
+    "score": 860,
+    "globalRank": 5549
   },
   {
     "login": "Dariush-Tasdighi",
@@ -865,7 +926,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 62,
-    "score": 876
+    "score": 876,
+    "globalRank": 5581
   },
   {
     "login": "amirhamiri",
@@ -879,7 +941,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 63,
-    "score": 750
+    "score": 750,
+    "globalRank": 5663
   },
   {
     "login": "Nikoo-Asadnejad",
@@ -893,7 +956,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 64,
-    "score": 819
+    "score": 819,
+    "globalRank": 5904
   },
   {
     "login": "BamdadTabari",
@@ -907,7 +971,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 65,
-    "score": 4292
+    "score": 4292,
+    "globalRank": 6121
   },
   {
     "login": "KianEbtekari0",
@@ -921,7 +986,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 66,
-    "score": 802
+    "score": 802,
+    "globalRank": 6214
   },
   {
     "login": "Mehrdadghassabi",
@@ -935,7 +1001,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 67,
-    "score": 1353
+    "score": 1353,
+    "globalRank": 6256
   },
   {
     "login": "ghaseminya",
@@ -949,7 +1016,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 68,
-    "score": 676
+    "score": 676,
+    "globalRank": 6305
   },
   {
     "login": "malikhan-dev",
@@ -963,7 +1031,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 69,
-    "score": 1110
+    "score": 1110,
+    "globalRank": 6336
   },
   {
     "login": "AliN11",
@@ -977,7 +1046,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 70,
-    "score": 1302
+    "score": 1302,
+    "globalRank": 6397
   },
   {
     "login": "alighasemi889",
@@ -991,7 +1061,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 71,
-    "score": 785
+    "score": 785,
+    "globalRank": 6564
   },
   {
     "login": "MatinT-SA",
@@ -1005,7 +1076,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 72,
-    "score": 1651
+    "score": 1651,
+    "globalRank": 6595
   },
   {
     "login": "KiLJ4EdeN",
@@ -1019,7 +1091,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 73,
-    "score": 736
+    "score": 736,
+    "globalRank": 6708
   },
   {
     "login": "rsharifnasab",
@@ -1033,7 +1106,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 74,
-    "score": 2211
+    "score": 2211,
+    "globalRank": 6719
   },
   {
     "login": "ZahraSahranavard",
@@ -1047,7 +1121,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 75,
-    "score": 700
+    "score": 700,
+    "globalRank": 6855
   },
   {
     "login": "ElaheFahmideh",
@@ -1061,7 +1136,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 76,
-    "score": 1155
+    "score": 1155,
+    "globalRank": 6881
   },
   {
     "login": "arastu",
@@ -1075,7 +1151,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 77,
-    "score": 665
+    "score": 665,
+    "globalRank": 6964
   },
   {
     "login": "Arbabpouri",
@@ -1089,7 +1166,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 78,
-    "score": 2523
+    "score": 2523,
+    "globalRank": 6965
   },
   {
     "login": "MobinaJafarian",
@@ -1103,7 +1181,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 79,
-    "score": 1793
+    "score": 1793,
+    "globalRank": 7020
   },
   {
     "login": "FarzadForuozanfar",
@@ -1117,7 +1196,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 80,
-    "score": 673
+    "score": 673,
+    "globalRank": 7077
   },
   {
     "login": "ThisIsAR7",
@@ -1131,7 +1211,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 81,
-    "score": 599
+    "score": 599,
+    "globalRank": 7078
   },
   {
     "login": "HamidrezaBahmani",
@@ -1145,7 +1226,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 82,
-    "score": 616
+    "score": 616,
+    "globalRank": 7133
   },
   {
     "login": "the-pesar",
@@ -1159,7 +1241,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 83,
-    "score": 694
+    "score": 694,
+    "globalRank": 7420
   },
   {
     "login": "khanmhmdi",
@@ -1173,7 +1256,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 84,
-    "score": 691
+    "score": 691,
+    "globalRank": 7513
   },
   {
     "login": "rzashakeri",
@@ -1187,7 +1271,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 85,
-    "score": 564
+    "score": 564,
+    "globalRank": 7604
   },
   {
     "login": "ahmadpanah",
@@ -1201,7 +1286,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 86,
-    "score": 727
+    "score": 727,
+    "globalRank": 7636
   },
   {
     "login": "omidfarrokhi",
@@ -1215,7 +1301,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 87,
-    "score": 624
+    "score": 624,
+    "globalRank": 7698
   },
   {
     "login": "Hiras1388",
@@ -1229,7 +1316,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 88,
-    "score": 730
+    "score": 730,
+    "globalRank": 7805
   },
   {
     "login": "SadeghHayeri",
@@ -1243,7 +1331,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 89,
-    "score": 1386
+    "score": 1386,
+    "globalRank": 7830
   },
   {
     "login": "itzhoman",
@@ -1257,7 +1346,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 90,
-    "score": 998
+    "score": 998,
+    "globalRank": 7915
   },
   {
     "login": "SaraRasoulian",
@@ -1271,7 +1361,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 91,
-    "score": 574
+    "score": 574,
+    "globalRank": 7916
   },
   {
     "login": "yasinkarimzadehgh",
@@ -1285,7 +1376,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 92,
-    "score": 1908
+    "score": 1908,
+    "globalRank": 7929
   },
   {
     "login": "AbbasRostami",
@@ -1299,7 +1391,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 93,
-    "score": 1108
+    "score": 1108,
+    "globalRank": 7937
   },
   {
     "login": "arvin-ramezani",
@@ -1313,7 +1406,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 94,
-    "score": 1448
+    "score": 1448,
+    "globalRank": 8079
   },
   {
     "login": "p-delfani",
@@ -1327,7 +1421,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 95,
-    "score": 651
+    "score": 651,
+    "globalRank": 8080
   },
   {
     "login": "Hoomanzoh79",
@@ -1341,7 +1436,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 96,
-    "score": 680
+    "score": 680,
+    "globalRank": 8141
   },
   {
     "login": "tahamajs",
@@ -1355,7 +1451,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 97,
-    "score": 4267
+    "score": 4267,
+    "globalRank": 8307
   },
   {
     "login": "zahrakrmi",
@@ -1369,7 +1466,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 98,
-    "score": 504
+    "score": 504,
+    "globalRank": 8341
   },
   {
     "login": "muhamadzolfaghari",
@@ -1383,7 +1481,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 99,
-    "score": 522
+    "score": 522,
+    "globalRank": 8397
   },
   {
     "login": "SafaSafari",
@@ -1397,7 +1496,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 100,
-    "score": 975
+    "score": 975,
+    "globalRank": 8452
   },
   {
     "login": "YasinRezvani",
@@ -1411,7 +1511,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 101,
-    "score": 777
+    "score": 777,
+    "globalRank": 8494
   },
   {
     "login": "Amir-Mohamad",
@@ -1425,7 +1526,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 102,
-    "score": 684
+    "score": 684,
+    "globalRank": 8578
   },
   {
     "login": "SabriAmir",
@@ -1439,7 +1541,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 103,
-    "score": 571
+    "score": 571,
+    "globalRank": 8579
   },
   {
     "login": "MersadHabibi",
@@ -1453,7 +1556,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 104,
-    "score": 1244
+    "score": 1244,
+    "globalRank": 8594
   },
   {
     "login": "MrF3ri",
@@ -1467,7 +1571,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 105,
-    "score": 617
+    "score": 617,
+    "globalRank": 8595
   },
   {
     "login": "HirbodBehnam",
@@ -1481,7 +1586,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 106,
-    "score": 735
+    "score": 735,
+    "globalRank": 8618
   },
   {
     "login": "MatinAfzal",
@@ -1495,7 +1601,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 107,
-    "score": 630
+    "score": 630,
+    "globalRank": 8665
   },
   {
     "login": "MehdiMst00",
@@ -1509,7 +1616,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 108,
-    "score": 2432
+    "score": 2432,
+    "globalRank": 8682
   },
   {
     "login": "pouriya",
@@ -1523,7 +1631,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 109,
-    "score": 799
+    "score": 799,
+    "globalRank": 8746
   },
   {
     "login": "alireza-amirsamimi",
@@ -1537,7 +1646,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 110,
-    "score": 547
+    "score": 547,
+    "globalRank": 8882
   },
   {
     "login": "Arash-abraham",
@@ -1551,7 +1661,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 111,
-    "score": 2273
+    "score": 2273,
+    "globalRank": 8883
   },
   {
     "login": "omidlmazaheri",
@@ -1565,7 +1676,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 112,
-    "score": 724
+    "score": 724,
+    "globalRank": 8995
   },
   {
     "login": "oroumand",
@@ -1579,7 +1691,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 113,
-    "score": 718
+    "score": 718,
+    "globalRank": 9135
   },
   {
     "login": "ammahmoudi",
@@ -1593,7 +1706,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 114,
-    "score": 1177
+    "score": 1177,
+    "globalRank": 9166
   },
   {
     "login": "bkhezry",
@@ -1607,7 +1721,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 115,
-    "score": 475
+    "score": 475,
+    "globalRank": 9218
   },
   {
     "login": "SoheilGtex",
@@ -1621,7 +1736,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 116,
-    "score": 637
+    "score": 637,
+    "globalRank": 9244
   },
   {
     "login": "Armanebtekari",
@@ -1635,7 +1751,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 117,
-    "score": 455
+    "score": 455,
+    "globalRank": 9277
   },
   {
     "login": "yasi8084",
@@ -1649,7 +1766,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 118,
-    "score": 453
+    "score": 453,
+    "globalRank": 9302
   },
   {
     "login": "amirrahemi01",
@@ -1663,7 +1781,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 119,
-    "score": 625
+    "score": 625,
+    "globalRank": 9447
   },
   {
     "login": "nimah79",
@@ -1677,7 +1796,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 120,
-    "score": 2355
+    "score": 2355,
+    "globalRank": 9523
   },
   {
     "login": "seramo",
@@ -1691,7 +1811,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 121,
-    "score": 1360
+    "score": 1360,
+    "globalRank": 9732
   },
   {
     "login": "sadafamininia99",
@@ -1705,7 +1826,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 122,
-    "score": 675
+    "score": 675,
+    "globalRank": 9761
   },
   {
     "login": "parsa-sbg",
@@ -1719,7 +1841,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 123,
-    "score": 439
+    "score": 439,
+    "globalRank": 9933
   },
   {
     "login": "shahradhdev",
@@ -1733,7 +1856,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 124,
-    "score": 426
+    "score": 426,
+    "globalRank": 9934
   },
   {
     "login": "zahrabateninia",
@@ -1747,7 +1871,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 125,
-    "score": 709
+    "score": 709,
+    "globalRank": 9957
   },
   {
     "login": "CenaBabajannjhad",
@@ -1761,7 +1886,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 126,
-    "score": 425
+    "score": 425,
+    "globalRank": 9958
   },
   {
     "login": "ghost1372",
@@ -1775,7 +1901,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 127,
-    "score": 1746
+    "score": 1746,
+    "globalRank": 10105
   },
   {
     "login": "negar-karimnejad",
@@ -1789,7 +1916,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 128,
-    "score": 857
+    "score": 857,
+    "globalRank": 10237
   },
   {
     "login": "Afsanehaa",
@@ -1803,7 +1931,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 129,
-    "score": 411
+    "score": 411,
+    "globalRank": 10333
   },
   {
     "login": "AhmadReza-G",
@@ -1817,7 +1946,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 130,
-    "score": 452
+    "score": 452,
+    "globalRank": 10371
   },
   {
     "login": "zoghal",
@@ -1831,7 +1961,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 131,
-    "score": 571
+    "score": 571,
+    "globalRank": 10522
   },
   {
     "login": "Ariashakoo",
@@ -1845,7 +1976,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 132,
-    "score": 438
+    "score": 438,
+    "globalRank": 10523
   },
   {
     "login": "ali77gh",
@@ -1859,7 +1991,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 133,
-    "score": 1228
+    "score": 1228,
+    "globalRank": 10561
   },
   {
     "login": "erfanmola",
@@ -1873,7 +2006,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 134,
-    "score": 2009
+    "score": 2009,
+    "globalRank": 10589
   },
   {
     "login": "iamirsalimi",
@@ -1887,7 +2021,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 135,
-    "score": 563
+    "score": 563,
+    "globalRank": 10590
   },
   {
     "login": "vahidefarzane",
@@ -1901,7 +2036,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 136,
-    "score": 1432
+    "score": 1432,
+    "globalRank": 10643
   },
   {
     "login": "mazdakdev",
@@ -1915,7 +2051,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 137,
-    "score": 697
+    "score": 697,
+    "globalRank": 10644
   },
   {
     "login": "MatinGhanbari",
@@ -1929,7 +2066,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 138,
-    "score": 735
+    "score": 735,
+    "globalRank": 10645
   },
   {
     "login": "nafasebra",
@@ -1943,7 +2081,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 139,
-    "score": 1985
+    "score": 1985,
+    "globalRank": 10673
   },
   {
     "login": "hassan7303",
@@ -1957,7 +2096,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 140,
-    "score": 632
+    "score": 632,
+    "globalRank": 10711
   },
   {
     "login": "Mohammad-Ali-Malekzadeh",
@@ -1971,7 +2111,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 141,
-    "score": 403
+    "score": 403,
+    "globalRank": 10810
   },
   {
     "login": "prp-e",
@@ -1985,7 +2126,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 142,
-    "score": 4747
+    "score": 4747,
+    "globalRank": 11008
   },
   {
     "login": "MohamadNematizadeh",
@@ -1999,7 +2141,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 143,
-    "score": 414
+    "score": 414,
+    "globalRank": 11076
   },
   {
     "login": "MamarezaAlipour",
@@ -2013,7 +2156,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 144,
-    "score": 432
+    "score": 432,
+    "globalRank": 11204
   },
   {
     "login": "nimaa77",
@@ -2027,7 +2171,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 145,
-    "score": 828
+    "score": 828,
+    "globalRank": 11282
   },
   {
     "login": "Farid-Karimi",
@@ -2041,7 +2186,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 146,
-    "score": 459
+    "score": 459,
+    "globalRank": 11283
   },
   {
     "login": "abolfazlmahdikhanii",
@@ -2055,7 +2201,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 147,
-    "score": 910
+    "score": 910,
+    "globalRank": 11314
   },
   {
     "login": "mm0hammadi",
@@ -2069,7 +2216,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 148,
-    "score": 388
+    "score": 388,
+    "globalRank": 11365
   },
   {
     "login": "Mohammad-dn",
@@ -2083,7 +2231,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 149,
-    "score": 1527
+    "score": 1527,
+    "globalRank": 11399
   },
   {
     "login": "GavinRuff007",
@@ -2097,7 +2246,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 150,
-    "score": 1474
+    "score": 1474,
+    "globalRank": 11441
   },
   {
     "login": "AriyanMLZM",
@@ -2111,7 +2261,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 151,
-    "score": 985
+    "score": 985,
+    "globalRank": 11470
   },
   {
     "login": "1MahdiR",
@@ -2125,7 +2276,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 152,
-    "score": 489
+    "score": 489,
+    "globalRank": 11495
   },
   {
     "login": "xno1n",
@@ -2139,7 +2291,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 153,
-    "score": 375
+    "score": 375,
+    "globalRank": 11573
   },
   {
     "login": "arioobarzan",
@@ -2153,7 +2306,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 154,
-    "score": 1046
+    "score": 1046,
+    "globalRank": 11610
   },
   {
     "login": "armin-panahi",
@@ -2167,7 +2321,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 155,
-    "score": 377
+    "score": 377,
+    "globalRank": 11611
   },
   {
     "login": "hatamiarash7",
@@ -2181,7 +2336,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 156,
-    "score": 2511
+    "score": 2511,
+    "globalRank": 11677
   },
   {
     "login": "fulcrum6378",
@@ -2195,7 +2351,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 157,
-    "score": 616
+    "score": 616,
+    "globalRank": 11678
   },
   {
     "login": "maziyar-gerami",
@@ -2209,7 +2366,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 158,
-    "score": 1806
+    "score": 1806,
+    "globalRank": 11713
   },
   {
     "login": "rezaghorbanzadeh",
@@ -2223,7 +2381,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 159,
-    "score": 417
+    "score": 417,
+    "globalRank": 11751
   },
   {
     "login": "amirahmadadibi",
@@ -2237,7 +2396,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 160,
-    "score": 755
+    "score": 755,
+    "globalRank": 11752
   },
   {
     "login": "mohammadsld",
@@ -2251,7 +2411,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 161,
-    "score": 365
+    "score": 365,
+    "globalRank": 11791
   },
   {
     "login": "mehdi-jahani",
@@ -2265,7 +2426,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 162,
-    "score": 455
+    "score": 455,
+    "globalRank": 11792
   },
   {
     "login": "mjnaderi",
@@ -2279,7 +2441,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 163,
-    "score": 428
+    "score": 428,
+    "globalRank": 11942
   },
   {
     "login": "Armin-Abdollahi",
@@ -2293,7 +2456,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 164,
-    "score": 664
+    "score": 664,
+    "globalRank": 12077
   },
   {
     "login": "frau-azadeh",
@@ -2307,7 +2471,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 165,
-    "score": 6414
+    "score": 6414,
+    "globalRank": 12431
   },
   {
     "login": "nikzad-avasam",
@@ -2321,7 +2486,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 166,
-    "score": 1524
+    "score": 1524,
+    "globalRank": 12432
   },
   {
     "login": "Azumi67",
@@ -2335,7 +2501,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 167,
-    "score": 455
+    "score": 455,
+    "globalRank": 12471
   },
   {
     "login": "MooudMohammady",
@@ -2349,7 +2516,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 168,
-    "score": 532
+    "score": 532,
+    "globalRank": 12529
   },
   {
     "login": "Mehdih77",
@@ -2363,7 +2531,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 169,
-    "score": 344
+    "score": 344,
+    "globalRank": 12530
   },
   {
     "login": "HannaParsa",
@@ -2377,7 +2546,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 170,
-    "score": 349
+    "score": 349,
+    "globalRank": 12562
   },
   {
     "login": "ArianDilfanian",
@@ -2391,7 +2561,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 171,
-    "score": 349
+    "score": 349,
+    "globalRank": 12563
   },
   {
     "login": "Omidfoladvand4",
@@ -2405,7 +2576,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 172,
-    "score": 455
+    "score": 455,
+    "globalRank": 12682
   },
   {
     "login": "qa1",
@@ -2419,7 +2591,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 173,
-    "score": 347
+    "score": 347,
+    "globalRank": 12712
   },
   {
     "login": "alirezaamjadi",
@@ -2433,7 +2606,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 174,
-    "score": 431
+    "score": 431,
+    "globalRank": 12713
   },
   {
     "login": "rralireza",
@@ -2447,7 +2621,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 175,
-    "score": 466
+    "score": 466,
+    "globalRank": 12714
   },
   {
     "login": "Hossein-Haghshenas",
@@ -2461,7 +2636,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 176,
-    "score": 1927
+    "score": 1927,
+    "globalRank": 12748
   },
   {
     "login": "Mahan-Rahmani",
@@ -2475,7 +2651,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 177,
-    "score": 366
+    "score": 366,
+    "globalRank": 12787
   },
   {
     "login": "aligzsht",
@@ -2489,7 +2666,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 178,
-    "score": 589
+    "score": 589,
+    "globalRank": 12788
   },
   {
     "login": "hosseinnabi-ir",
@@ -2503,7 +2681,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 179,
-    "score": 354
+    "score": 354,
+    "globalRank": 12820
   },
   {
     "login": "alisharify7",
@@ -2517,7 +2696,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 180,
-    "score": 555
+    "score": 555,
+    "globalRank": 12821
   },
   {
     "login": "parsapanahpoor",
@@ -2531,7 +2711,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 181,
-    "score": 1590
+    "score": 1590,
+    "globalRank": 12858
   },
   {
     "login": "SajjadAemmi",
@@ -2545,7 +2726,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 182,
-    "score": 388
+    "score": 388,
+    "globalRank": 12893
   },
   {
     "login": "marziehbagherinia",
@@ -2559,7 +2741,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 183,
-    "score": 334
+    "score": 334,
+    "globalRank": 12894
   },
   {
     "login": "nimayazdi93",
@@ -2573,7 +2756,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 184,
-    "score": 355
+    "score": 355,
+    "globalRank": 12925
   },
   {
     "login": "amirhosseinrashidi1",
@@ -2587,7 +2771,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 185,
-    "score": 333
+    "score": 333,
+    "globalRank": 12958
   },
   {
     "login": "iamaliybi",
@@ -2601,7 +2786,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 186,
-    "score": 378
+    "score": 378,
+    "globalRank": 13057
   },
   {
     "login": "orgamiryazdani",
@@ -2615,7 +2801,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 187,
-    "score": 360
+    "score": 360,
+    "globalRank": 13058
   },
   {
     "login": "hmiddot",
@@ -2629,7 +2816,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 188,
-    "score": 328
+    "score": 328,
+    "globalRank": 13088
   },
   {
     "login": "Arzenow",
@@ -2643,7 +2831,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 189,
-    "score": 328
+    "score": 328,
+    "globalRank": 13089
   },
   {
     "login": "rtkktr",
@@ -2657,7 +2846,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 190,
-    "score": 335
+    "score": 335,
+    "globalRank": 13090
   },
   {
     "login": "saminshariati",
@@ -2671,7 +2861,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 191,
-    "score": 340
+    "score": 340,
+    "globalRank": 13125
   },
   {
     "login": "AzadNetCH",
@@ -2685,7 +2876,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 192,
-    "score": 463
+    "score": 463,
+    "globalRank": 13126
   },
   {
     "login": "mojtabagh0098",
@@ -2699,7 +2891,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 193,
-    "score": 395
+    "score": 395,
+    "globalRank": 13171
   },
   {
     "login": "MomoTaheri",
@@ -2713,7 +2906,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 194,
-    "score": 388
+    "score": 388,
+    "globalRank": 13207
   },
   {
     "login": "NabiKAZ",
@@ -2727,7 +2921,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 195,
-    "score": 460
+    "score": 460,
+    "globalRank": 13208
   },
   {
     "login": "morilog",
@@ -2741,7 +2936,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 196,
-    "score": 326
+    "score": 326,
+    "globalRank": 13209
   },
   {
     "login": "mohammad-ashrafi2020",
@@ -2755,7 +2951,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 197,
-    "score": 331
+    "score": 331,
+    "globalRank": 13238
   },
   {
     "login": "ah-nemati",
@@ -2769,7 +2966,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 198,
-    "score": 472
+    "score": 472,
+    "globalRank": 13278
   },
   {
     "login": "Ariamoradi1",
@@ -2783,7 +2981,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 199,
-    "score": 349
+    "score": 349,
+    "globalRank": 13313
   },
   {
     "login": "moein-bld",
@@ -2797,7 +2996,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 200,
-    "score": 613
+    "score": 613,
+    "globalRank": 13358
   },
   {
     "login": "sajjadsojoudi",
@@ -2811,7 +3011,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 201,
-    "score": 327
+    "score": 327,
+    "globalRank": 13428
   },
   {
     "login": "TheGreatAzizi",
@@ -2825,7 +3026,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 202,
-    "score": 515
+    "score": 515,
+    "globalRank": 13513
   },
   {
     "login": "hamedp-71",
@@ -2839,7 +3041,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 203,
-    "score": 1136
+    "score": 1136,
+    "globalRank": 13559
   },
   {
     "login": "mojtaba-afraz",
@@ -2853,7 +3056,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 204,
-    "score": 1159
+    "score": 1159,
+    "globalRank": 13560
   },
   {
     "login": "erfjab",
@@ -2867,7 +3071,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 205,
-    "score": 826
+    "score": 826,
+    "globalRank": 13647
   },
   {
     "login": "MHProDev",
@@ -2881,7 +3086,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 206,
-    "score": 315
+    "score": 315,
+    "globalRank": 13648
   },
   {
     "login": "MaryamKalantarii",
@@ -2895,7 +3101,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 207,
-    "score": 483
+    "score": 483,
+    "globalRank": 13649
   },
   {
     "login": "MohseenTajik",
@@ -2909,7 +3116,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 208,
-    "score": 420
+    "score": 420,
+    "globalRank": 13774
   },
   {
     "login": "h-varmazyar",
@@ -2923,7 +3131,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 209,
-    "score": 381
+    "score": 381,
+    "globalRank": 13775
   },
   {
     "login": "ZaraSdt7",
@@ -2937,7 +3146,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 210,
-    "score": 372
+    "score": 372,
+    "globalRank": 13846
   },
   {
     "login": "hamedakbarii",
@@ -2951,7 +3161,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 211,
-    "score": 384
+    "score": 384,
+    "globalRank": 13879
   },
   {
     "login": "GEEKGEEKOP",
@@ -2965,7 +3176,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 212,
-    "score": 322
+    "score": 322,
+    "globalRank": 13880
   },
   {
     "login": "faridhaavasi",
@@ -2979,7 +3191,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 213,
-    "score": 470
+    "score": 470,
+    "globalRank": 13881
   },
   {
     "login": "wwwAlireza",
@@ -2993,7 +3206,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 214,
-    "score": 308
+    "score": 308,
+    "globalRank": 13882
   },
   {
     "login": "ArdeshirV",
@@ -3007,7 +3221,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 215,
-    "score": 1980
+    "score": 1980,
+    "globalRank": 13909
   },
   {
     "login": "Rootkitsmm-zz",
@@ -3021,7 +3236,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 216,
-    "score": 306
+    "score": 306,
+    "globalRank": 13953
   },
   {
     "login": "danialbehzadi",
@@ -3035,7 +3251,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 217,
-    "score": 442
+    "score": 442,
+    "globalRank": 13954
   },
   {
     "login": "opiran-club",
@@ -3049,7 +3266,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 218,
-    "score": 354
+    "score": 354,
+    "globalRank": 13955
   },
   {
     "login": "mahdipakravan-dev",
@@ -3063,7 +3281,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 219,
-    "score": 535
+    "score": 535,
+    "globalRank": 13956
   },
   {
     "login": "naghinezhad",
@@ -3077,7 +3296,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 220,
-    "score": 361
+    "score": 361,
+    "globalRank": 14000
   },
   {
     "login": "Nastaran-Mz",
@@ -3091,7 +3311,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 221,
-    "score": 329
+    "score": 329,
+    "globalRank": 14080
   },
   {
     "login": "hamed-iam",
@@ -3105,7 +3326,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 222,
-    "score": 332
+    "score": 332,
+    "globalRank": 14129
   },
   {
     "login": "imanbakhtiari",
@@ -3119,7 +3341,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 223,
-    "score": 327
+    "score": 327,
+    "globalRank": 14166
   },
   {
     "login": "behdanisohrab",
@@ -3133,7 +3356,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 224,
-    "score": 469
+    "score": 469,
+    "globalRank": 14167
   },
   {
     "login": "ehsansafari",
@@ -3147,7 +3371,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 225,
-    "score": 2646
+    "score": 2646,
+    "globalRank": 14228
   },
   {
     "login": "usermp",
@@ -3161,7 +3386,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 226,
-    "score": 1833
+    "score": 1833,
+    "globalRank": 14307
   },
   {
     "login": "amirrezaask",
@@ -3175,7 +3401,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 227,
-    "score": 1225
+    "score": 1225,
+    "globalRank": 14445
   },
   {
     "login": "SahandMas",
@@ -3189,7 +3416,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 228,
-    "score": 366
+    "score": 366,
+    "globalRank": 14483
   },
   {
     "login": "Mhamedshamaei",
@@ -3203,7 +3431,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 229,
-    "score": 293
+    "score": 293,
+    "globalRank": 14529
   },
   {
     "login": "arshia-pourfar",
@@ -3217,7 +3446,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 230,
-    "score": 614
+    "score": 614,
+    "globalRank": 14530
   },
   {
     "login": "MahdiRahmany",
@@ -3231,7 +3461,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 231,
-    "score": 349
+    "score": 349,
+    "globalRank": 14596
   },
   {
     "login": "soheilghs",
@@ -3245,7 +3476,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 232,
-    "score": 404
+    "score": 404,
+    "globalRank": 14762
   },
   {
     "login": "jafarsaberi13",
@@ -3259,7 +3491,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 233,
-    "score": 366
+    "score": 366,
+    "globalRank": 14848
   },
   {
     "login": "AshkanShakiba",
@@ -3273,7 +3506,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 234,
-    "score": 291
+    "score": 291,
+    "globalRank": 14849
   },
   {
     "login": "M-A-Felegari",
@@ -3287,7 +3521,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 235,
-    "score": 319
+    "score": 319,
+    "globalRank": 14986
   },
   {
     "login": "hossein-no1",
@@ -3301,7 +3536,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 236,
-    "score": 393
+    "score": 393,
+    "globalRank": 14987
   },
   {
     "login": "alirezaafkar",
@@ -3315,7 +3551,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 237,
-    "score": 859
+    "score": 859,
+    "globalRank": 15082
   },
   {
     "login": "sirUnchained",
@@ -3329,7 +3566,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 238,
-    "score": 687
+    "score": 687,
+    "globalRank": 15230
   },
   {
     "login": "mohisa302",
@@ -3343,7 +3581,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 239,
-    "score": 318
+    "score": 318,
+    "globalRank": 15284
   },
   {
     "login": "3ina",
@@ -3357,7 +3596,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 240,
-    "score": 982
+    "score": 982,
+    "globalRank": 15331
   },
   {
     "login": "AliNikseresht",
@@ -3371,7 +3611,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 241,
-    "score": 541
+    "score": 541,
+    "globalRank": 15332
   },
   {
     "login": "sohrabkhanbadr",
@@ -3385,7 +3626,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 242,
-    "score": 297
+    "score": 297,
+    "globalRank": 15333
   },
   {
     "login": "omidfarhangnia",
@@ -3399,7 +3641,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 243,
-    "score": 562
+    "score": 562,
+    "globalRank": 15387
   },
   {
     "login": "mahmoud-eskandari",
@@ -3413,7 +3656,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 244,
-    "score": 334
+    "score": 334,
+    "globalRank": 15432
   },
   {
     "login": "amir-azimi-dev",
@@ -3427,7 +3671,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 245,
-    "score": 846
+    "score": 846,
+    "globalRank": 15433
   },
   {
     "login": "babaktaremi",
@@ -3441,7 +3686,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 246,
-    "score": 494
+    "score": 494,
+    "globalRank": 15434
   },
   {
     "login": "MasoudKaviani",
@@ -3455,7 +3701,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 247,
-    "score": 305
+    "score": 305,
+    "globalRank": 15523
   },
   {
     "login": "erfanetoon",
@@ -3469,7 +3716,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 248,
-    "score": 379
+    "score": 379,
+    "globalRank": 15575
   },
   {
     "login": "miladhashemzadeh",
@@ -3483,7 +3731,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 249,
-    "score": 328
+    "score": 328,
+    "globalRank": 15670
   },
   {
     "login": "Sir-Programmer",
@@ -3497,7 +3746,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 250,
-    "score": 1851
+    "score": 1851,
+    "globalRank": 15733
   },
   {
     "login": "amirkabiri",
@@ -3511,7 +3761,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 251,
-    "score": 780
+    "score": 780,
+    "globalRank": 15734
   },
   {
     "login": "M-Taghizadeh",
@@ -3525,7 +3776,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 252,
-    "score": 286
+    "score": 286,
+    "globalRank": 15783
   },
   {
     "login": "shahriaarrr",
@@ -3539,7 +3791,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 253,
-    "score": 517
+    "score": 517,
+    "globalRank": 15829
   },
   {
     "login": "sama-babaee-web",
@@ -3553,7 +3806,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 254,
-    "score": 294
+    "score": 294,
+    "globalRank": 15888
   },
   {
     "login": "AmyrAhmady",
@@ -3567,7 +3821,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 255,
-    "score": 918
+    "score": 918,
+    "globalRank": 15889
   },
   {
     "login": "mohsen-abbasian",
@@ -3581,7 +3836,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 256,
-    "score": 932
+    "score": 932,
+    "globalRank": 15890
   },
   {
     "login": "mthri",
@@ -3595,7 +3851,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 257,
-    "score": 752
+    "score": 752,
+    "globalRank": 15945
   },
   {
     "login": "websploit",
@@ -3609,7 +3866,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 258,
-    "score": 265
+    "score": 265,
+    "globalRank": 15946
   },
   {
     "login": "pourmand1376",
@@ -3623,7 +3881,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 259,
-    "score": 4247
+    "score": 4247,
+    "globalRank": 15947
   },
   {
     "login": "bezzad",
@@ -3637,7 +3896,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 260,
-    "score": 1188
+    "score": 1188,
+    "globalRank": 16003
   },
   {
     "login": "BlackIQ",
@@ -3651,7 +3911,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 261,
-    "score": 661
+    "score": 661,
+    "globalRank": 16052
   },
   {
     "login": "kavaan",
@@ -3665,7 +3926,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 262,
-    "score": 261
+    "score": 261,
+    "globalRank": 16155
   },
   {
     "login": "MehhdiMarzban",
@@ -3679,7 +3941,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 263,
-    "score": 1195
+    "score": 1195,
+    "globalRank": 16156
   },
   {
     "login": "mhmd435",
@@ -3693,7 +3956,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 264,
-    "score": 344
+    "score": 344,
+    "globalRank": 16205
   },
   {
     "login": "matinzx",
@@ -3707,7 +3971,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 265,
-    "score": 291
+    "score": 291,
+    "globalRank": 16206
   },
   {
     "login": "Pmahdian",
@@ -3721,7 +3986,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 266,
-    "score": 1672
+    "score": 1672,
+    "globalRank": 16207
   },
   {
     "login": "matinsajadii",
@@ -3735,7 +4001,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 267,
-    "score": 260
+    "score": 260,
+    "globalRank": 16208
   },
   {
     "login": "AlirezaChahardoli",
@@ -3749,7 +4016,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 268,
-    "score": 284
+    "score": 284,
+    "globalRank": 16269
   },
   {
     "login": "mhidusti",
@@ -3763,7 +4031,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 269,
-    "score": 356
+    "score": 356,
+    "globalRank": 16331
   },
   {
     "login": "hamednourzaei",
@@ -3777,7 +4046,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 270,
-    "score": 1133
+    "score": 1133,
+    "globalRank": 16332
   },
   {
     "login": "amirabbasasadi",
@@ -3791,7 +4061,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 271,
-    "score": 306
+    "score": 306,
+    "globalRank": 16387
   },
   {
     "login": "hhznmrnayeri",
@@ -3805,7 +4076,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 272,
-    "score": 309
+    "score": 309,
+    "globalRank": 16436
   },
   {
     "login": "amirnobari",
@@ -3819,7 +4091,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 273,
-    "score": 255
+    "score": 255,
+    "globalRank": 16484
   },
   {
     "login": "Zeynab-jalalian",
@@ -3833,7 +4106,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 274,
-    "score": 1967
+    "score": 1967,
+    "globalRank": 16533
   },
   {
     "login": "Mordecai-thebird",
@@ -3847,7 +4121,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 275,
-    "score": 298
+    "score": 298,
+    "globalRank": 16534
   },
   {
     "login": "ashkan0201",
@@ -3861,7 +4136,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 276,
-    "score": 357
+    "score": 357,
+    "globalRank": 16535
   },
   {
     "login": "mr-amirfazel",
@@ -3875,7 +4151,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 277,
-    "score": 260
+    "score": 260,
+    "globalRank": 16588
   },
   {
     "login": "phantomf4321",
@@ -3889,7 +4166,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 278,
-    "score": 520
+    "score": 520,
+    "globalRank": 16589
   },
   {
     "login": "aminizahra",
@@ -3903,7 +4181,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 279,
-    "score": 357
+    "score": 357,
+    "globalRank": 16775
   },
   {
     "login": "tahadostifam",
@@ -3917,7 +4196,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 280,
-    "score": 2239
+    "score": 2239,
+    "globalRank": 16827
   },
   {
     "login": "qasemB",
@@ -3931,7 +4211,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 281,
-    "score": 1370
+    "score": 1370,
+    "globalRank": 16828
   },
   {
     "login": "Sarinakasaiyan",
@@ -3945,7 +4226,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 282,
-    "score": 340
+    "score": 340,
+    "globalRank": 16889
   },
   {
     "login": "sarlakZM",
@@ -3959,7 +4241,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 283,
-    "score": 246
+    "score": 246,
+    "globalRank": 16943
   },
   {
     "login": "amirreza-akbari",
@@ -3973,7 +4256,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 284,
-    "score": 618
+    "score": 618,
+    "globalRank": 16944
   },
   {
     "login": "NIKJOO",
@@ -3987,7 +4271,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 285,
-    "score": 295
+    "score": 295,
+    "globalRank": 16991
   },
   {
     "login": "Sina-Taghizadeh",
@@ -4001,7 +4286,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 286,
-    "score": 270
+    "score": 270,
+    "globalRank": 16992
   },
   {
     "login": "MahdiMajidzadeh",
@@ -4015,7 +4301,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 287,
-    "score": 384
+    "score": 384,
+    "globalRank": 16993
   },
   {
     "login": "MohammadFarhangian",
@@ -4029,7 +4316,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 288,
-    "score": 244
+    "score": 244,
+    "globalRank": 17037
   },
   {
     "login": "Tarokh-Yaghoubi",
@@ -4043,7 +4331,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 289,
-    "score": 682
+    "score": 682,
+    "globalRank": 17082
   },
   {
     "login": "BuggerBag",
@@ -4057,7 +4346,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 290,
-    "score": 267
+    "score": 267,
+    "globalRank": 17083
   },
   {
     "login": "hoseinabedi",
@@ -4071,7 +4361,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 291,
-    "score": 1320
+    "score": 1320,
+    "globalRank": 17126
   },
   {
     "login": "seyed0123",
@@ -4085,7 +4376,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 292,
-    "score": 437
+    "score": 437,
+    "globalRank": 17175
   },
   {
     "login": "Amir-Afshar-1",
@@ -4099,7 +4391,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 293,
-    "score": 241
+    "score": 241,
+    "globalRank": 17176
   },
   {
     "login": "nariman-z-k",
@@ -4113,7 +4406,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 294,
-    "score": 241
+    "score": 241,
+    "globalRank": 17177
   },
   {
     "login": "mohammad8186",
@@ -4127,7 +4421,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 295,
-    "score": 244
+    "score": 244,
+    "globalRank": 17235
   },
   {
     "login": "SarahMoradi",
@@ -4141,7 +4436,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 296,
-    "score": 273
+    "score": 273,
+    "globalRank": 17236
   },
   {
     "login": "themehdihn",
@@ -4155,7 +4451,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 297,
-    "score": 285
+    "score": 285,
+    "globalRank": 17299
   },
   {
     "login": "itsnooshin",
@@ -4169,7 +4466,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 298,
-    "score": 248
+    "score": 248,
+    "globalRank": 17300
   },
   {
     "login": "oneHamidreza",
@@ -4183,7 +4481,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 299,
-    "score": 523
+    "score": 523,
+    "globalRank": 17357
   },
   {
     "login": "alibo",
@@ -4197,7 +4496,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 300,
-    "score": 263
+    "score": 263,
+    "globalRank": 17358
   },
   {
     "login": "NABEGHEHACOM",
@@ -4211,7 +4511,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 301,
-    "score": 238
+    "score": 238,
+    "globalRank": 17359
   },
   {
     "login": "MaryamBoneh",
@@ -4225,7 +4526,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 302,
-    "score": 463
+    "score": 463,
+    "globalRank": 17422
   },
   {
     "login": "mheidari98",
@@ -4239,7 +4541,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 303,
-    "score": 9544
+    "score": 9544,
+    "globalRank": 17423
   },
   {
     "login": "smf8",
@@ -4253,7 +4556,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 304,
-    "score": 256
+    "score": 256,
+    "globalRank": 17424
   },
   {
     "login": "FatemeZamanian",
@@ -4267,7 +4571,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 305,
-    "score": 251
+    "score": 251,
+    "globalRank": 17473
   },
   {
     "login": "amirhajif",
@@ -4281,7 +4586,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 306,
-    "score": 440
+    "score": 440,
+    "globalRank": 17701
   },
   {
     "login": "ImanRHT",
@@ -4295,7 +4601,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 307,
-    "score": 240
+    "score": 240,
+    "globalRank": 17702
   },
   {
     "login": "anvari1313",
@@ -4309,7 +4616,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 308,
-    "score": 272
+    "score": 272,
+    "globalRank": 17703
   },
   {
     "login": "mhbashari",
@@ -4323,7 +4631,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 309,
-    "score": 229
+    "score": 229,
+    "globalRank": 17857
   },
   {
     "login": "ARYAN-NIKNEZHAD",
@@ -4337,7 +4646,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 310,
-    "score": 894
+    "score": 894,
+    "globalRank": 17858
   },
   {
     "login": "codehaks",
@@ -4351,7 +4661,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 311,
-    "score": 1475
+    "score": 1475,
+    "globalRank": 17911
   },
   {
     "login": "alipejman",
@@ -4365,7 +4676,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 312,
-    "score": 249
+    "score": 249,
+    "globalRank": 17963
   },
   {
     "login": "tasha-dev",
@@ -4379,7 +4691,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 313,
-    "score": 1598
+    "score": 1598,
+    "globalRank": 17964
   },
   {
     "login": "MahanManouchehri",
@@ -4393,7 +4706,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 314,
-    "score": 524
+    "score": 524,
+    "globalRank": 17965
   },
   {
     "login": "AmirMohamadBabaee",
@@ -4407,7 +4721,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 315,
-    "score": 244
+    "score": 244,
+    "globalRank": 18023
   },
   {
     "login": "keivanipchihagh",
@@ -4421,7 +4736,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 316,
-    "score": 959
+    "score": 959,
+    "globalRank": 18077
   },
   {
     "login": "mablue",
@@ -4435,7 +4751,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 317,
-    "score": 289
+    "score": 289,
+    "globalRank": 18078
   },
   {
     "login": "saman2000hoseini",
@@ -4449,7 +4766,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 318,
-    "score": 239
+    "score": 239,
+    "globalRank": 18127
   },
   {
     "login": "tahasadough",
@@ -4463,7 +4781,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 319,
-    "score": 340
+    "score": 340,
+    "globalRank": 18178
   },
   {
     "login": "mahdi00021",
@@ -4477,7 +4796,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 320,
-    "score": 221
+    "score": 221,
+    "globalRank": 18286
   },
   {
     "login": "ramtinak",
@@ -4491,7 +4811,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 321,
-    "score": 455
+    "score": 455,
+    "globalRank": 18287
   },
   {
     "login": "salarizadi",
@@ -4505,7 +4826,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 322,
-    "score": 355
+    "score": 355,
+    "globalRank": 18418
   },
   {
     "login": "arxyzan",
@@ -4519,7 +4841,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 323,
-    "score": 667
+    "score": 667,
+    "globalRank": 18419
   },
   {
     "login": "amosavian",
@@ -4533,7 +4856,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 324,
-    "score": 281
+    "score": 281,
+    "globalRank": 18420
   },
   {
     "login": "hemansadeghi",
@@ -4547,7 +4871,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 325,
-    "score": 444
+    "score": 444,
+    "globalRank": 18470
   },
   {
     "login": "behdad222",
@@ -4561,7 +4886,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 326,
-    "score": 389
+    "score": 389,
+    "globalRank": 18471
   },
   {
     "login": "ErfanRht",
@@ -4575,7 +4901,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 327,
-    "score": 305
+    "score": 305,
+    "globalRank": 18472
   },
   {
     "login": "aKaReZa75",
@@ -4589,7 +4916,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 328,
-    "score": 826
+    "score": 826,
+    "globalRank": 18540
   },
   {
     "login": "01sadra",
@@ -4603,7 +4931,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 329,
-    "score": 329
+    "score": 329,
+    "globalRank": 18541
   },
   {
     "login": "alireza-abarian786",
@@ -4617,7 +4946,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 330,
-    "score": 280
+    "score": 280,
+    "globalRank": 18599
   },
   {
     "login": "TorhamDev",
@@ -4631,7 +4961,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 331,
-    "score": 257
+    "score": 257,
+    "globalRank": 18663
   },
   {
     "login": "amirziyacode",
@@ -4645,7 +4976,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 332,
-    "score": 317
+    "score": 317,
+    "globalRank": 18720
   },
   {
     "login": "kookma",
@@ -4659,7 +4991,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 333,
-    "score": 317
+    "score": 317,
+    "globalRank": 18721
   },
   {
     "login": "samanhoseinpour",
@@ -4673,7 +5006,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 334,
-    "score": 834
+    "score": 834,
+    "globalRank": 18722
   },
   {
     "login": "FarshidNooshi",
@@ -4687,7 +5021,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 335,
-    "score": 284
+    "score": 284,
+    "globalRank": 18723
   },
   {
     "login": "aiaaee",
@@ -4701,7 +5036,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 336,
-    "score": 418
+    "score": 418,
+    "globalRank": 18791
   },
   {
     "login": "Yalda-Khoshbahar",
@@ -4715,7 +5051,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 337,
-    "score": 213
+    "score": 213,
+    "globalRank": 18792
   },
   {
     "login": "Mahdi-rasooli",
@@ -4729,7 +5066,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 338,
-    "score": 479
+    "score": 479,
+    "globalRank": 18851
   },
   {
     "login": "fardina69",
@@ -4743,7 +5081,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 339,
-    "score": 212
+    "score": 212,
+    "globalRank": 18852
   },
   {
     "login": "akhundi01",
@@ -4757,7 +5096,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 340,
-    "score": 212
+    "score": 212,
+    "globalRank": 18928
   },
   {
     "login": "parsaaes",
@@ -4771,7 +5111,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 341,
-    "score": 250
+    "score": 250,
+    "globalRank": 18929
   },
   {
     "login": "AhmadMessbah",
@@ -4785,7 +5126,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 342,
-    "score": 562
+    "score": 562,
+    "globalRank": 19043
   },
   {
     "login": "npouriaa",
@@ -4799,7 +5141,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 343,
-    "score": 1074
+    "score": 1074,
+    "globalRank": 19044
   },
   {
     "login": "adelalizadeh13",
@@ -4813,7 +5156,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 344,
-    "score": 208
+    "score": 208,
+    "globalRank": 19117
   },
   {
     "login": "amirali-fadishei",
@@ -4827,7 +5171,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 345,
-    "score": 291
+    "score": 291,
+    "globalRank": 19118
   },
   {
     "login": "AsadiAhmad",
@@ -4841,7 +5186,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 346,
-    "score": 293
+    "score": 293,
+    "globalRank": 19260
   },
   {
     "login": "amirsinaa",
@@ -4855,7 +5201,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 347,
-    "score": 710
+    "score": 710,
+    "globalRank": 19333
   },
   {
     "login": "farzadafi",
@@ -4869,7 +5216,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 348,
-    "score": 562
+    "score": 562,
+    "globalRank": 19334
   },
   {
     "login": "ali-moradzade",
@@ -4883,7 +5231,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 349,
-    "score": 205
+    "score": 205,
+    "globalRank": 19335
   },
   {
     "login": "aradfarahani",
@@ -4897,7 +5246,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 350,
-    "score": 602
+    "score": 602,
+    "globalRank": 19336
   },
   {
     "login": "moh53n",
@@ -4911,7 +5261,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 351,
-    "score": 364
+    "score": 364,
+    "globalRank": 19337
   },
   {
     "login": "haajilari",
@@ -4925,7 +5276,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 352,
-    "score": 1358
+    "score": 1358,
+    "globalRank": 19491
   },
   {
     "login": "aliasghar1379",
@@ -4939,7 +5291,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 353,
-    "score": 324
+    "score": 324,
+    "globalRank": 19561
   },
   {
     "login": "EhsanShahbazii",
@@ -4953,7 +5306,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 354,
-    "score": 254
+    "score": 254,
+    "globalRank": 19562
   },
   {
     "login": "electronicjob",
@@ -4967,7 +5321,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 355,
-    "score": 205
+    "score": 205,
+    "globalRank": 19563
   },
   {
     "login": "dpoyyyy",
@@ -4981,7 +5336,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 356,
-    "score": 311
+    "score": 311,
+    "globalRank": 19639
   },
   {
     "login": "Mobin-Heydari",
@@ -4995,7 +5351,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 357,
-    "score": 3568
+    "score": 3568,
+    "globalRank": 19700
   },
   {
     "login": "SeyedMuhammadHosseinMousavi",
@@ -5009,7 +5366,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 358,
-    "score": 270
+    "score": 270,
+    "globalRank": 19935
   },
   {
     "login": "m-mdy-m",
@@ -5023,7 +5381,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 359,
-    "score": 1471
+    "score": 1471,
+    "globalRank": 19936
   },
   {
     "login": "sajjjadayobi",
@@ -5037,7 +5396,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 360,
-    "score": 324
+    "score": 324,
+    "globalRank": 19937
   },
   {
     "login": "tohidlo",
@@ -5051,7 +5411,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 361,
-    "score": 304
+    "score": 304,
+    "globalRank": 19938
   },
   {
     "login": "HosseineZolfi",
@@ -5065,7 +5426,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 362,
-    "score": 294
+    "score": 294,
+    "globalRank": 20007
   },
   {
     "login": "siavashsk",
@@ -5079,7 +5441,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 363,
-    "score": 278
+    "score": 278,
+    "globalRank": 20071
   },
   {
     "login": "mahdistz",
@@ -5093,7 +5456,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 364,
-    "score": 195
+    "score": 195,
+    "globalRank": 20072
   },
   {
     "login": "Agh-sp",
@@ -5107,7 +5471,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 365,
-    "score": 213
+    "score": 213,
+    "globalRank": 20073
   },
   {
     "login": "Nima-sltn",
@@ -5121,7 +5486,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 366,
-    "score": 1646
+    "score": 1646,
+    "globalRank": 20074
   },
   {
     "login": "mohamadkhoshnava",
@@ -5135,7 +5501,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 367,
-    "score": 209
+    "score": 209,
+    "globalRank": 20149
   },
   {
     "login": "AidaHashemi",
@@ -5149,7 +5516,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 368,
-    "score": 1118
+    "score": 1118,
+    "globalRank": 20150
   },
   {
     "login": "u-ataei",
@@ -5163,7 +5531,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 369,
-    "score": 202
+    "score": 202,
+    "globalRank": 20212
   },
   {
     "login": "maxtsh",
@@ -5177,7 +5546,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 370,
-    "score": 193
+    "score": 193,
+    "globalRank": 20213
   },
   {
     "login": "Amircfyt",
@@ -5191,7 +5561,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 371,
-    "score": 192
+    "score": 192,
+    "globalRank": 20280
   },
   {
     "login": "hamedaskari",
@@ -5205,7 +5576,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 372,
-    "score": 192
+    "score": 192,
+    "globalRank": 20281
   },
   {
     "login": "Thecode764",
@@ -5219,7 +5591,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 373,
-    "score": 242
+    "score": 242,
+    "globalRank": 20282
   },
   {
     "login": "pwdz",
@@ -5233,7 +5606,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 374,
-    "score": 217
+    "score": 217,
+    "globalRank": 20422
   },
   {
     "login": "saeideh-moghaddam",
@@ -5247,7 +5621,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 375,
-    "score": 190
+    "score": 190,
+    "globalRank": 20423
   },
   {
     "login": "ehsannarmani",
@@ -5261,7 +5636,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 376,
-    "score": 758
+    "score": 758,
+    "globalRank": 20424
   },
   {
     "login": "SaharAkkashe",
@@ -5275,7 +5651,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 377,
-    "score": 190
+    "score": 190,
+    "globalRank": 20425
   },
   {
     "login": "yasinsaee",
@@ -5289,7 +5666,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 378,
-    "score": 521
+    "score": 521,
+    "globalRank": 20426
   },
   {
     "login": "NavidEvx",
@@ -5303,7 +5681,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 379,
-    "score": 4799
+    "score": 4799,
+    "globalRank": 20503
   },
   {
     "login": "amir-aspad",
@@ -5317,7 +5696,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 380,
-    "score": 259
+    "score": 259,
+    "globalRank": 20504
   },
   {
     "login": "mohamad-khorsandi",
@@ -5331,7 +5711,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 381,
-    "score": 324
+    "score": 324,
+    "globalRank": 20505
   },
   {
     "login": "inforastegar",
@@ -5345,7 +5726,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 382,
-    "score": 195
+    "score": 195,
+    "globalRank": 20576
   },
   {
     "login": "MrYazdan",
@@ -5359,7 +5741,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 383,
-    "score": 1939
+    "score": 1939,
+    "globalRank": 20577
   },
   {
     "login": "dosepehr",
@@ -5373,7 +5756,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 384,
-    "score": 1018
+    "score": 1018,
+    "globalRank": 20661
   },
   {
     "login": "Nariman-Fallahi",
@@ -5387,7 +5771,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 385,
-    "score": 308
+    "score": 308,
+    "globalRank": 20662
   },
   {
     "login": "amerllica",
@@ -5401,7 +5786,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 386,
-    "score": 1956
+    "score": 1956,
+    "globalRank": 20663
   },
   {
     "login": "mehrsamohajeri",
@@ -5415,7 +5801,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 387,
-    "score": 265
+    "score": 265,
+    "globalRank": 20744
   },
   {
     "login": "imohamad",
@@ -5429,7 +5816,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 388,
-    "score": 188
+    "score": 188,
+    "globalRank": 20745
   },
   {
     "login": "H-Ahmadi",
@@ -5443,7 +5831,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 389,
-    "score": 188
+    "score": 188,
+    "globalRank": 20746
   },
   {
     "login": "mahdi-bayati-dev",
@@ -5457,7 +5846,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 390,
-    "score": 354
+    "score": 354,
+    "globalRank": 20747
   },
   {
     "login": "UndeadMe",
@@ -5471,7 +5861,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 391,
-    "score": 661
+    "score": 661,
+    "globalRank": 20822
   },
   {
     "login": "alireza-hashemii",
@@ -5485,7 +5876,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 392,
-    "score": 259
+    "score": 259,
+    "globalRank": 21015
   },
   {
     "login": "mohsen104",
@@ -5499,7 +5891,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 393,
-    "score": 540
+    "score": 540,
+    "globalRank": 21016
   },
   {
     "login": "arfrix",
@@ -5513,7 +5906,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 394,
-    "score": 183
+    "score": 183,
+    "globalRank": 21017
   },
   {
     "login": "aliesm-com",
@@ -5527,7 +5921,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 395,
-    "score": 1725
+    "score": 1725,
+    "globalRank": 21018
   },
   {
     "login": "Imandaneshi",
@@ -5541,7 +5936,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 396,
-    "score": 227
+    "score": 227,
+    "globalRank": 21106
   },
   {
     "login": "eddiecooro",
@@ -5555,7 +5951,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 397,
-    "score": 351
+    "score": 351,
+    "globalRank": 21107
   },
   {
     "login": "v74all",
@@ -5569,7 +5966,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 398,
-    "score": 234
+    "score": 234,
+    "globalRank": 21108
   },
   {
     "login": "JKhakpour",
@@ -5583,7 +5981,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 399,
-    "score": 182
+    "score": 182,
+    "globalRank": 21109
   },
   {
     "login": "daryoushjamshidi8080",
@@ -5597,7 +5996,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 400,
-    "score": 235
+    "score": 235,
+    "globalRank": 21110
   },
   {
     "login": "GhMamadreza84",
@@ -5611,7 +6011,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 401,
-    "score": 597
+    "score": 597,
+    "globalRank": 21197
   },
   {
     "login": "Sooshiance",
@@ -5625,7 +6026,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 402,
-    "score": 292
+    "score": 292,
+    "globalRank": 21198
   },
   {
     "login": "ShayanShahrabi",
@@ -5639,7 +6041,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 403,
-    "score": 342
+    "score": 342,
+    "globalRank": 21199
   },
   {
     "login": "Hkarimi561",
@@ -5653,7 +6056,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 404,
-    "score": 312
+    "score": 312,
+    "globalRank": 21200
   },
   {
     "login": "PouriaDamavandi",
@@ -5667,7 +6071,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 405,
-    "score": 758
+    "score": 758,
+    "globalRank": 21297
   },
   {
     "login": "Arminliryaee",
@@ -5681,7 +6086,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 406,
-    "score": 219
+    "score": 219,
+    "globalRank": 21298
   },
   {
     "login": "RanjbarAli",
@@ -5695,7 +6101,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 407,
-    "score": 184
+    "score": 184,
+    "globalRank": 21299
   },
   {
     "login": "amirdallalan",
@@ -5709,7 +6116,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 408,
-    "score": 180
+    "score": 180,
+    "globalRank": 21387
   },
   {
     "login": "Hanieh-mn",
@@ -5723,7 +6131,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 409,
-    "score": 179
+    "score": 179,
+    "globalRank": 21388
   },
   {
     "login": "erfanzar",
@@ -5737,7 +6146,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 410,
-    "score": 1662
+    "score": 1662,
+    "globalRank": 21389
   },
   {
     "login": "rzkhosroshahi",
@@ -5751,7 +6161,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 411,
-    "score": 292
+    "score": 292,
+    "globalRank": 21390
   },
   {
     "login": "theonewithdesire",
@@ -5765,7 +6176,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 412,
-    "score": 237
+    "score": 237,
+    "globalRank": 21391
   },
   {
     "login": "AliAhmadi-Software",
@@ -5779,7 +6191,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 413,
-    "score": 414
+    "score": 414,
+    "globalRank": 21638
   },
   {
     "login": "amirroox",
@@ -5793,7 +6206,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 414,
-    "score": 13916
+    "score": 13916,
+    "globalRank": 21639
   },
   {
     "login": "EngRajabi",
@@ -5807,7 +6221,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 415,
-    "score": 176
+    "score": 176,
+    "globalRank": 21640
   },
   {
     "login": "ArashShiri70",
@@ -5821,7 +6236,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 416,
-    "score": 176
+    "score": 176,
+    "globalRank": 21641
   },
   {
     "login": "cryptolovernew",
@@ -5835,7 +6251,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 417,
-    "score": 176
+    "score": 176,
+    "globalRank": 21642
   },
   {
     "login": "mrkeshi",
@@ -5849,7 +6266,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 418,
-    "score": 549
+    "score": 549,
+    "globalRank": 21740
   },
   {
     "login": "sadeghbarati",
@@ -5863,7 +6281,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 419,
-    "score": 315
+    "score": 315,
+    "globalRank": 21833
   },
   {
     "login": "Elyar0",
@@ -5877,7 +6296,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 420,
-    "score": 2709
+    "score": 2709,
+    "globalRank": 21834
   },
   {
     "login": "parhamdavin",
@@ -5891,7 +6311,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 421,
-    "score": 189
+    "score": 189,
+    "globalRank": 21932
   },
   {
     "login": "morteza-rahman-afg",
@@ -5905,7 +6326,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 422,
-    "score": 300
+    "score": 300,
+    "globalRank": 22048
   },
   {
     "login": "roshana01",
@@ -5919,7 +6341,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 423,
-    "score": 305
+    "score": 305,
+    "globalRank": 22049
   },
   {
     "login": "B3hnamR",
@@ -5933,7 +6356,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 424,
-    "score": 262
+    "score": 262,
+    "globalRank": 22050
   },
   {
     "login": "eric-py",
@@ -5947,7 +6371,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 425,
-    "score": 1010
+    "score": 1010,
+    "globalRank": 22164
   },
   {
     "login": "AmirHossein-Naei",
@@ -5961,7 +6386,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 426,
-    "score": 1074
+    "score": 1074,
+    "globalRank": 22284
   },
   {
     "login": "MohammadRouintan",
@@ -5975,7 +6401,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 427,
-    "score": 170
+    "score": 170,
+    "globalRank": 22285
   },
   {
     "login": "ersync",
@@ -5989,7 +6416,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 428,
-    "score": 748
+    "score": 748,
+    "globalRank": 22286
   },
   {
     "login": "Sarayounesi",
@@ -6003,7 +6431,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 429,
-    "score": 169
+    "score": 169,
+    "globalRank": 22409
   },
   {
     "login": "mehrdad-dev",
@@ -6017,7 +6446,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 430,
-    "score": 193
+    "score": 193,
+    "globalRank": 22510
   },
   {
     "login": "AmirHosseinBabaeayan",
@@ -6031,7 +6461,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 431,
-    "score": 168
+    "score": 168,
+    "globalRank": 22511
   },
   {
     "login": "0x1381",
@@ -6045,7 +6476,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 432,
-    "score": 184
+    "score": 184,
+    "globalRank": 22632
   },
   {
     "login": "MohammadAmanlou",
@@ -6059,7 +6491,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 433,
-    "score": 201
+    "score": 201,
+    "globalRank": 22633
   },
   {
     "login": "MojiWasp",
@@ -6073,7 +6506,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 434,
-    "score": 255
+    "score": 255,
+    "globalRank": 22746
   },
   {
     "login": "omidpurdarbani",
@@ -6087,7 +6521,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 435,
-    "score": 629
+    "score": 629,
+    "globalRank": 22747
   },
   {
     "login": "alichraghi",
@@ -6101,7 +6536,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 436,
-    "score": 350
+    "score": 350,
+    "globalRank": 22748
   },
   {
     "login": "hheydarian",
@@ -6115,7 +6551,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 437,
-    "score": 1146
+    "score": 1146,
+    "globalRank": 22749
   },
   {
     "login": "saeedghofrani",
@@ -6129,7 +6566,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 438,
-    "score": 1203
+    "score": 1203,
+    "globalRank": 22856
   },
   {
     "login": "EnAnsari",
@@ -6143,7 +6581,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 439,
-    "score": 1513
+    "score": 1513,
+    "globalRank": 22975
   },
   {
     "login": "Ali-YousefiTelori",
@@ -6157,7 +6596,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 440,
-    "score": 170
+    "score": 170,
+    "globalRank": 22976
   },
   {
     "login": "md86mi86",
@@ -6171,7 +6611,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 441,
-    "score": 234
+    "score": 234,
+    "globalRank": 22977
   },
   {
     "login": "amirhoseinsalimi",
@@ -6185,7 +6626,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 442,
-    "score": 558
+    "score": 558,
+    "globalRank": 22978
   },
   {
     "login": "alikomijani",
@@ -6199,7 +6641,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 443,
-    "score": 194
+    "score": 194,
+    "globalRank": 23104
   },
   {
     "login": "mahdi-ahmadi-2002",
@@ -6213,7 +6656,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 444,
-    "score": 222
+    "score": 222,
+    "globalRank": 23105
   },
   {
     "login": "faragh47",
@@ -6227,7 +6671,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 445,
-    "score": 166
+    "score": 166,
+    "globalRank": 23106
   },
   {
     "login": "sorahiatieh",
@@ -6241,7 +6686,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 446,
-    "score": 321
+    "score": 321,
+    "globalRank": 23107
   },
   {
     "login": "neginsoleimani",
@@ -6255,7 +6701,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 447,
-    "score": 163
+    "score": 163,
+    "globalRank": 23108
   },
   {
     "login": "fatemeabdolmaleki",
@@ -6269,7 +6716,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 448,
-    "score": 211
+    "score": 211,
+    "globalRank": 23231
   },
   {
     "login": "arman-aminian",
@@ -6283,7 +6731,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 449,
-    "score": 343
+    "score": 343,
+    "globalRank": 23232
   },
   {
     "login": "alirezafazeli8",
@@ -6297,7 +6746,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 450,
-    "score": 182
+    "score": 182,
+    "globalRank": 23233
   },
   {
     "login": "aminabdiii",
@@ -6311,7 +6761,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 451,
-    "score": 172
+    "score": 172,
+    "globalRank": 23349
   },
   {
     "login": "mahdihasanaghaei",
@@ -6325,7 +6776,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 452,
-    "score": 162
+    "score": 162,
+    "globalRank": 23350
   },
   {
     "login": "SMotlaq",
@@ -6339,7 +6791,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 453,
-    "score": 358
+    "score": 358,
+    "globalRank": 23351
   },
   {
     "login": "chilaPCB",
@@ -6353,7 +6806,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 454,
-    "score": 160
+    "score": 160,
+    "globalRank": 23466
   },
   {
     "login": "amir00462",
@@ -6367,7 +6821,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 455,
-    "score": 676
+    "score": 676,
+    "globalRank": 23467
   },
   {
     "login": "radioactiveAHM",
@@ -6381,7 +6836,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 456,
-    "score": 427
+    "score": 427,
+    "globalRank": 23468
   },
   {
     "login": "Nima-Hmz",
@@ -6395,7 +6851,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 457,
-    "score": 194
+    "score": 194,
+    "globalRank": 23469
   },
   {
     "login": "mehranus",
@@ -6409,7 +6866,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 458,
-    "score": 198
+    "score": 198,
+    "globalRank": 23580
   },
   {
     "login": "ImanX",
@@ -6423,7 +6881,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 459,
-    "score": 200
+    "score": 200,
+    "globalRank": 23581
   },
   {
     "login": "setayeshce",
@@ -6437,7 +6896,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 460,
-    "score": 159
+    "score": 159,
+    "globalRank": 23582
   },
   {
     "login": "Ho3einWave",
@@ -6451,7 +6911,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 461,
-    "score": 2091
+    "score": 2091,
+    "globalRank": 23583
   },
   {
     "login": "rezaghz",
@@ -6465,7 +6926,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 462,
-    "score": 585
+    "score": 585,
+    "globalRank": 23584
   },
   {
     "login": "erfaniranmehr",
@@ -6479,7 +6941,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 463,
-    "score": 158
+    "score": 158,
+    "globalRank": 23703
   },
   {
     "login": "SabaSahban",
@@ -6493,7 +6956,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 464,
-    "score": 171
+    "score": 171,
+    "globalRank": 23704
   },
   {
     "login": "hedieh-hj",
@@ -6507,7 +6971,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 465,
-    "score": 180
+    "score": 180,
+    "globalRank": 23705
   },
   {
     "login": "sina14",
@@ -6521,7 +6986,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 466,
-    "score": 1144
+    "score": 1144,
+    "globalRank": 23706
   },
   {
     "login": "elixez9",
@@ -6535,7 +7001,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 467,
-    "score": 205
+    "score": 205,
+    "globalRank": 23707
   },
   {
     "login": "mosipamo",
@@ -6549,7 +7016,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 468,
-    "score": 635
+    "score": 635,
+    "globalRank": 23708
   },
   {
     "login": "hojjatfazayeli",
@@ -6563,7 +7031,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 469,
-    "score": 170
+    "score": 170,
+    "globalRank": 23709
   },
   {
     "login": "amir-yaghoubi",
@@ -6577,7 +7046,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 470,
-    "score": 237
+    "score": 237,
+    "globalRank": 23843
   },
   {
     "login": "katayoon-faraji-web",
@@ -6591,7 +7061,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 471,
-    "score": 157
+    "score": 157,
+    "globalRank": 23844
   },
   {
     "login": "mehdisahraeei",
@@ -6605,7 +7076,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 472,
-    "score": 158
+    "score": 158,
+    "globalRank": 23845
   },
   {
     "login": "ParsaKSH",
@@ -6619,7 +7091,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 473,
-    "score": 773
+    "score": 773,
+    "globalRank": 23846
   },
   {
     "login": "AliEmili",
@@ -6633,7 +7106,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 474,
-    "score": 167
+    "score": 167,
+    "globalRank": 23847
   },
   {
     "login": "milad7akbari",
@@ -6647,7 +7121,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 475,
-    "score": 219
+    "score": 219,
+    "globalRank": 23848
   },
   {
     "login": "mohammadne",
@@ -6661,7 +7136,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 476,
-    "score": 344
+    "score": 344,
+    "globalRank": 23849
   },
   {
     "login": "VahidFarahmandian",
@@ -6675,7 +7151,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 477,
-    "score": 262
+    "score": 262,
+    "globalRank": 23850
   },
   {
     "login": "HaamedKhosravii",
@@ -6689,7 +7166,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 478,
-    "score": 202
+    "score": 202,
+    "globalRank": 23984
   },
   {
     "login": "alireza787b",
@@ -6703,7 +7181,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 479,
-    "score": 4763
+    "score": 4763,
+    "globalRank": 23985
   },
   {
     "login": "milad-2003",
@@ -6717,7 +7196,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 480,
-    "score": 303
+    "score": 303,
+    "globalRank": 24105
   },
   {
     "login": "mimr9",
@@ -6731,7 +7211,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 481,
-    "score": 156
+    "score": 156,
+    "globalRank": 24106
   },
   {
     "login": "salar-hagh",
@@ -6745,7 +7226,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 482,
-    "score": 155
+    "score": 155,
+    "globalRank": 24107
   },
   {
     "login": "waiterorg",
@@ -6759,7 +7241,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 483,
-    "score": 155
+    "score": 155,
+    "globalRank": 24108
   },
   {
     "login": "mostafaasadi",
@@ -6773,7 +7256,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 484,
-    "score": 175
+    "score": 175,
+    "globalRank": 24254
   },
   {
     "login": "selmashez",
@@ -6787,7 +7271,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 485,
-    "score": 167
+    "score": 167,
+    "globalRank": 24255
   },
   {
     "login": "monfaredman",
@@ -6801,7 +7286,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 486,
-    "score": 1270
+    "score": 1270,
+    "globalRank": 24256
   },
   {
     "login": "ahmadreza-log",
@@ -6815,7 +7301,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 487,
-    "score": 1934
+    "score": 1934,
+    "globalRank": 24257
   },
   {
     "login": "dori-dev",
@@ -6829,7 +7316,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 488,
-    "score": 157
+    "score": 157,
+    "globalRank": 24258
   },
   {
     "login": "KabiriAbolfazl",
@@ -6843,7 +7331,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 489,
-    "score": 328
+    "score": 328,
+    "globalRank": 24259
   },
   {
     "login": "xclud",
@@ -6857,7 +7346,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 490,
-    "score": 358
+    "score": 358,
+    "globalRank": 24260
   },
   {
     "login": "MahdiyarGHD",
@@ -6871,7 +7361,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 491,
-    "score": 828
+    "score": 828,
+    "globalRank": 24394
   },
   {
     "login": "Hanieh-Sadeghi",
@@ -6885,7 +7376,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 492,
-    "score": 153
+    "score": 153,
+    "globalRank": 24395
   },
   {
     "login": "blackestwhite",
@@ -6899,7 +7391,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 493,
-    "score": 1588
+    "score": 1588,
+    "globalRank": 24396
   },
   {
     "login": "shabane",
@@ -6913,7 +7406,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 494,
-    "score": 982
+    "score": 982,
+    "globalRank": 24397
   },
   {
     "login": "OmidZamani",
@@ -6927,7 +7421,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 495,
-    "score": 183
+    "score": 183,
+    "globalRank": 24398
   },
   {
     "login": "AmirAlipoor-ir",
@@ -6941,7 +7436,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 496,
-    "score": 635
+    "score": 635,
+    "globalRank": 24513
   },
   {
     "login": "VahidKhodadadi",
@@ -6955,7 +7451,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 497,
-    "score": 154
+    "score": 154,
+    "globalRank": 24514
   },
   {
     "login": "mojtabazaferani",
@@ -6969,7 +7466,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 498,
-    "score": 4915
+    "score": 4915,
+    "globalRank": 24657
   },
   {
     "login": "shahrzadJavadiKoushesh",
@@ -6983,7 +7481,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 499,
-    "score": 180
+    "score": 180,
+    "globalRank": 24658
   },
   {
     "login": "ammarsalahi",
@@ -6997,7 +7496,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 500,
-    "score": 268
+    "score": 268,
+    "globalRank": 24659
   },
   {
     "login": "hosseindamavandi",
@@ -7011,7 +7511,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 501,
-    "score": 266
+    "score": 266,
+    "globalRank": 24660
   },
   {
     "login": "NahidEbrahimian",
@@ -7025,7 +7526,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 502,
-    "score": 155
+    "score": 155,
+    "globalRank": 24661
   },
   {
     "login": "seyyedsinangh",
@@ -7039,7 +7541,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 503,
-    "score": 162
+    "score": 162,
+    "globalRank": 24792
   },
   {
     "login": "arsammojtabaei",
@@ -7053,7 +7556,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 504,
-    "score": 150
+    "score": 150,
+    "globalRank": 24793
   },
   {
     "login": "Mamalireza",
@@ -7067,7 +7571,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 505,
-    "score": 192
+    "score": 192,
+    "globalRank": 24794
   },
   {
     "login": "TheWeirdDev",
@@ -7081,7 +7586,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 506,
-    "score": 160
+    "score": 160,
+    "globalRank": 24795
   },
   {
     "login": "majidh1",
@@ -7095,7 +7601,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 507,
-    "score": 163
+    "score": 163,
+    "globalRank": 24796
   },
   {
     "login": "soroushfathi",
@@ -7109,7 +7616,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 508,
-    "score": 226
+    "score": 226,
+    "globalRank": 24797
   },
   {
     "login": "HasanProgrammer",
@@ -7123,7 +7631,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 509,
-    "score": 168
+    "score": 168,
+    "globalRank": 24798
   },
   {
     "login": "Morteza-hp",
@@ -7137,7 +7646,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 510,
-    "score": 570
+    "score": 570,
+    "globalRank": 24933
   },
   {
     "login": "creasydude",
@@ -7151,7 +7661,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 511,
-    "score": 1086
+    "score": 1086,
+    "globalRank": 24934
   },
   {
     "login": "mahajialirezaei",
@@ -7165,7 +7676,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 512,
-    "score": 1190
+    "score": 1190,
+    "globalRank": 24935
   },
   {
     "login": "mrsoftware",
@@ -7179,7 +7691,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 513,
-    "score": 168
+    "score": 168,
+    "globalRank": 24936
   },
   {
     "login": "mrakhgari",
@@ -7193,7 +7706,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 514,
-    "score": 149
+    "score": 149,
+    "globalRank": 24937
   },
   {
     "login": "mzarchi",
@@ -7207,7 +7721,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 515,
-    "score": 268
+    "score": 268,
+    "globalRank": 24938
   },
   {
     "login": "sarvenaz-srv",
@@ -7221,7 +7736,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 516,
-    "score": 190
+    "score": 190,
+    "globalRank": 24939
   },
   {
     "login": "FarzanRahmani",
@@ -7235,7 +7751,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 517,
-    "score": 182
+    "score": 182,
+    "globalRank": 24940
   },
   {
     "login": "YasinBlackhat",
@@ -7249,7 +7766,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 518,
-    "score": 148
+    "score": 148,
+    "globalRank": 25073
   },
   {
     "login": "holynf",
@@ -7263,7 +7781,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 519,
-    "score": 389
+    "score": 389,
+    "globalRank": 25074
   },
   {
     "login": "Erwinex",
@@ -7277,7 +7796,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 520,
-    "score": 148
+    "score": 148,
+    "globalRank": 25075
   },
   {
     "login": "MehdiKhoshnevisz",
@@ -7291,7 +7811,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 521,
-    "score": 242
+    "score": 242,
+    "globalRank": 25076
   },
   {
     "login": "haditabatabaei",
@@ -7305,7 +7826,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 522,
-    "score": 151
+    "score": 151,
+    "globalRank": 25077
   },
   {
     "login": "MhmudAlpurd",
@@ -7319,7 +7841,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 523,
-    "score": 320
+    "score": 320,
+    "globalRank": 25078
   },
   {
     "login": "parsa-black",
@@ -7333,7 +7856,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 524,
-    "score": 149
+    "score": 149,
+    "globalRank": 25205
   },
   {
     "login": "htaghizadeh",
@@ -7347,7 +7871,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 525,
-    "score": 147
+    "score": 147,
+    "globalRank": 25206
   },
   {
     "login": "fatememajdi",
@@ -7361,7 +7886,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 526,
-    "score": 170
+    "score": 170,
+    "globalRank": 25207
   },
   {
     "login": "alireza-baqeri",
@@ -7375,7 +7901,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 527,
-    "score": 219
+    "score": 219,
+    "globalRank": 25208
   },
   {
     "login": "sina-yeganeh",
@@ -7389,7 +7916,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 528,
-    "score": 210
+    "score": 210,
+    "globalRank": 25209
   },
   {
     "login": "farkoo",
@@ -7403,7 +7931,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 529,
-    "score": 397
+    "score": 397,
+    "globalRank": 25210
   },
   {
     "login": "mohsenkamini",
@@ -7417,7 +7946,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 530,
-    "score": 186
+    "score": 186,
+    "globalRank": 25211
   },
   {
     "login": "Mahdi6gh",
@@ -7431,7 +7961,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 531,
-    "score": 199
+    "score": 199,
+    "globalRank": 25212
   },
   {
     "login": "m-mohammad-d",
@@ -7445,7 +7976,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 532,
-    "score": 522
+    "score": 522,
+    "globalRank": 25335
   },
   {
     "login": "mhkarimi1383",
@@ -7459,7 +7991,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 533,
-    "score": 823
+    "score": 823,
+    "globalRank": 25336
   },
   {
     "login": "Scorpian-my",
@@ -7473,7 +8006,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 534,
-    "score": 209
+    "score": 209,
+    "globalRank": 25337
   },
   {
     "login": "hosseinhimself",
@@ -7487,7 +8021,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 535,
-    "score": 161
+    "score": 161,
+    "globalRank": 25338
   },
   {
     "login": "Mds92",
@@ -7501,7 +8036,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 536,
-    "score": 153
+    "score": 153,
+    "globalRank": 25471
   },
   {
     "login": "hadiheidariazar",
@@ -7515,7 +8051,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 537,
-    "score": 161
+    "score": 161,
+    "globalRank": 25472
   },
   {
     "login": "AminEfaf",
@@ -7529,7 +8066,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 538,
-    "score": 175
+    "score": 175,
+    "globalRank": 25473
   },
   {
     "login": "imorphii",
@@ -7543,7 +8081,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 539,
-    "score": 201
+    "score": 201,
+    "globalRank": 25474
   },
   {
     "login": "amirparsadd",
@@ -7557,7 +8096,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 540,
-    "score": 1512
+    "score": 1512,
+    "globalRank": 25626
   },
   {
     "login": "Mmarmemar5981",
@@ -7571,7 +8111,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 541,
-    "score": 143
+    "score": 143,
+    "globalRank": 25776
   },
   {
     "login": "FarzadNekouee",
@@ -7585,7 +8126,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 542,
-    "score": 254
+    "score": 254,
+    "globalRank": 25777
   },
   {
     "login": "amirsadeghi1",
@@ -7599,7 +8141,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 543,
-    "score": 4861
+    "score": 4861,
+    "globalRank": 25778
   },
   {
     "login": "amirhosseinNouri",
@@ -7613,7 +8156,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 544,
-    "score": 826
+    "score": 826,
+    "globalRank": 25779
   },
   {
     "login": "MHasannejadi",
@@ -7627,7 +8171,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 545,
-    "score": 143
+    "score": 143,
+    "globalRank": 25780
   },
   {
     "login": "alishi973",
@@ -7641,7 +8186,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 546,
-    "score": 358
+    "score": 358,
+    "globalRank": 25928
   },
   {
     "login": "FILTERING-RUBIKA-RYSON",
@@ -7655,7 +8201,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 547,
-    "score": 142
+    "score": 142,
+    "globalRank": 25929
   },
   {
     "login": "amir78729",
@@ -7669,7 +8216,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 548,
-    "score": 478
+    "score": 478,
+    "globalRank": 25930
   },
   {
     "login": "parsaGhorbanian",
@@ -7683,7 +8231,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 549,
-    "score": 145
+    "score": 145,
+    "globalRank": 25931
   },
   {
     "login": "aabharya",
@@ -7697,7 +8246,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 550,
-    "score": 642
+    "score": 642,
+    "globalRank": 25932
   },
   {
     "login": "mmdrezakz",
@@ -7711,7 +8261,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 551,
-    "score": 347
+    "score": 347,
+    "globalRank": 25933
   },
   {
     "login": "aryabz",
@@ -7725,7 +8276,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 552,
-    "score": 203
+    "score": 203,
+    "globalRank": 25934
   },
   {
     "login": "mahdimirbagheri",
@@ -7739,7 +8291,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 553,
-    "score": 146
+    "score": 146,
+    "globalRank": 25935
   },
   {
     "login": "Hesam-Norouzi",
@@ -7753,7 +8306,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 554,
-    "score": 158
+    "score": 158,
+    "globalRank": 26080
   },
   {
     "login": "fanishah",
@@ -7767,7 +8321,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 555,
-    "score": 171
+    "score": 171,
+    "globalRank": 26081
   },
   {
     "login": "Omid774",
@@ -7781,7 +8336,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 556,
-    "score": 2884
+    "score": 2884,
+    "globalRank": 26082
   },
   {
     "login": "TheKhanj",
@@ -7795,7 +8351,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 557,
-    "score": 1440
+    "score": 1440,
+    "globalRank": 26083
   },
   {
     "login": "ArminGh02",
@@ -7809,7 +8366,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 558,
-    "score": 167
+    "score": 167,
+    "globalRank": 26230
   },
   {
     "login": "rezapourabbasi",
@@ -7823,7 +8381,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 559,
-    "score": 510
+    "score": 510,
+    "globalRank": 26231
   },
   {
     "login": "lelnazrezaeel",
@@ -7837,7 +8396,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 560,
-    "score": 145
+    "score": 145,
+    "globalRank": 26232
   },
   {
     "login": "yousef-yaghoubi",
@@ -7851,7 +8411,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 561,
-    "score": 236
+    "score": 236,
+    "globalRank": 26391
   },
   {
     "login": "Artin-khodayari",
@@ -7865,7 +8426,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 562,
-    "score": 329
+    "score": 329,
+    "globalRank": 26392
   },
   {
     "login": "ZahraArshia",
@@ -7879,7 +8441,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 563,
-    "score": 139
+    "score": 139,
+    "globalRank": 26393
   },
   {
     "login": "parham-qasemi",
@@ -7893,7 +8456,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 564,
-    "score": 182
+    "score": 182,
+    "globalRank": 26541
   },
   {
     "login": "Kebabist",
@@ -7907,7 +8471,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 565,
-    "score": 242
+    "score": 242,
+    "globalRank": 26542
   },
   {
     "login": "CodeStarX",
@@ -7921,7 +8486,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 566,
-    "score": 141
+    "score": 141,
+    "globalRank": 26543
   },
   {
     "login": "AGC007",
@@ -7935,7 +8501,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 567,
-    "score": 138
+    "score": 138,
+    "globalRank": 26544
   },
   {
     "login": "amirkeramat",
@@ -7949,7 +8516,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 568,
-    "score": 142
+    "score": 142,
+    "globalRank": 26545
   },
   {
     "login": "MahdiyehKRM",
@@ -7963,7 +8531,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 569,
-    "score": 154
+    "score": 154,
+    "globalRank": 26546
   },
   {
     "login": "behnawwm",
@@ -7977,7 +8546,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 570,
-    "score": 193
+    "score": 193,
+    "globalRank": 26697
   },
   {
     "login": "GeeDook",
@@ -7991,7 +8561,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 571,
-    "score": 310
+    "score": 310,
+    "globalRank": 26698
   },
   {
     "login": "Mohammadparsa1384",
@@ -8005,7 +8576,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 572,
-    "score": 219
+    "score": 219,
+    "globalRank": 26699
   },
   {
     "login": "YeganeGholipour",
@@ -8019,7 +8591,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 573,
-    "score": 252
+    "score": 252,
+    "globalRank": 26700
   },
   {
     "login": "hamedbagheriii",
@@ -8033,7 +8606,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 574,
-    "score": 1588
+    "score": 1588,
+    "globalRank": 26701
   },
   {
     "login": "hadi-hajinia",
@@ -8047,7 +8621,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 575,
-    "score": 137
+    "score": 137,
+    "globalRank": 26702
   },
   {
     "login": "zahrabagheri1",
@@ -8061,7 +8636,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 576,
-    "score": 298
+    "score": 298,
+    "globalRank": 26703
   },
   {
     "login": "Niloofar-Palvaneh",
@@ -8075,7 +8651,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 577,
-    "score": 200
+    "score": 200,
+    "globalRank": 26704
   },
   {
     "login": "mhmda-83",
@@ -8089,7 +8666,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 578,
-    "score": 146
+    "score": 146,
+    "globalRank": 26705
   },
   {
     "login": "FARZINzx",
@@ -8103,7 +8681,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 579,
-    "score": 221
+    "score": 221,
+    "globalRank": 26706
   },
   {
     "login": "ms-fadaei",
@@ -8117,7 +8696,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 580,
-    "score": 137
+    "score": 137,
+    "globalRank": 26859
   },
   {
     "login": "HosseinHeydari2004",
@@ -8131,7 +8711,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 581,
-    "score": 433
+    "score": 433,
+    "globalRank": 26860
   },
   {
     "login": "Sisoog",
@@ -8145,7 +8726,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 582,
-    "score": 136
+    "score": 136,
+    "globalRank": 26861
   },
   {
     "login": "SepehrBazyar",
@@ -8159,7 +8741,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 583,
-    "score": 162
+    "score": 162,
+    "globalRank": 27015
   },
   {
     "login": "Miyankouh",
@@ -8173,7 +8756,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 584,
-    "score": 135
+    "score": 135,
+    "globalRank": 27016
   },
   {
     "login": "mahdikhoshdel",
@@ -8187,7 +8771,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 585,
-    "score": 160
+    "score": 160,
+    "globalRank": 27017
   },
   {
     "login": "farnaz-vand",
@@ -8201,7 +8786,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 586,
-    "score": 142
+    "score": 142,
+    "globalRank": 27018
   },
   {
     "login": "OkhtayMp",
@@ -8215,7 +8801,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 587,
-    "score": 3532
+    "score": 3532,
+    "globalRank": 27019
   },
   {
     "login": "ErfanMasoudiBA",
@@ -8229,7 +8816,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 588,
-    "score": 288
+    "score": 288,
+    "globalRank": 27020
   },
   {
     "login": "fozouni",
@@ -8243,7 +8831,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 589,
-    "score": 179
+    "score": 179,
+    "globalRank": 27021
   },
   {
     "login": "ahmadjafari86",
@@ -8257,7 +8846,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 590,
-    "score": 840
+    "score": 840,
+    "globalRank": 27022
   },
   {
     "login": "itsalinazarpour",
@@ -8271,7 +8861,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 591,
-    "score": 134
+    "score": 134,
+    "globalRank": 27198
   },
   {
     "login": "mehdi-ra",
@@ -8285,7 +8876,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 592,
-    "score": 246
+    "score": 246,
+    "globalRank": 27199
   },
   {
     "login": "ElmiraGhorbani",
@@ -8299,7 +8891,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 593,
-    "score": 135
+    "score": 135,
+    "globalRank": 27200
   },
   {
     "login": "Mahdi-Shabani",
@@ -8313,7 +8906,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 594,
-    "score": 263
+    "score": 263,
+    "globalRank": 27201
   },
   {
     "login": "amirtahapasandi",
@@ -8327,7 +8921,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 595,
-    "score": 133
+    "score": 133,
+    "globalRank": 27361
   },
   {
     "login": "MrAminiDev",
@@ -8341,7 +8936,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 596,
-    "score": 191
+    "score": 191,
+    "globalRank": 27362
   },
   {
     "login": "Notbeniz",
@@ -8355,7 +8951,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 597,
-    "score": 152
+    "score": 152,
+    "globalRank": 27363
   },
   {
     "login": "RealMrHex",
@@ -8369,7 +8966,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 598,
-    "score": 2109
+    "score": 2109,
+    "globalRank": 27364
   },
   {
     "login": "betrayed1x",
@@ -8383,7 +8981,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 599,
-    "score": 134
+    "score": 134,
+    "globalRank": 27365
   },
   {
     "login": "parham-ab",
@@ -8397,7 +8996,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 600,
-    "score": 252
+    "score": 252,
+    "globalRank": 27366
   },
   {
     "login": "sabamadadi",
@@ -8411,7 +9011,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 601,
-    "score": 501
+    "score": 501,
+    "globalRank": 27367
   },
   {
     "login": "nimafanniasl",
@@ -8425,7 +9026,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 602,
-    "score": 259
+    "score": 259,
+    "globalRank": 27368
   },
   {
     "login": "Keivan-sf",
@@ -8439,7 +9041,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 603,
-    "score": 1112
+    "score": 1112,
+    "globalRank": 27532
   },
   {
     "login": "MrMohebi",
@@ -8453,7 +9056,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 604,
-    "score": 2714
+    "score": 2714,
+    "globalRank": 27533
   },
   {
     "login": "aliteymouri",
@@ -8467,7 +9071,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 605,
-    "score": 132
+    "score": 132,
+    "globalRank": 27534
   },
   {
     "login": "jafar75",
@@ -8481,7 +9086,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 606,
-    "score": 407
+    "score": 407,
+    "globalRank": 27535
   },
   {
     "login": "amrzhd",
@@ -8495,7 +9101,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 607,
-    "score": 696
+    "score": 696,
+    "globalRank": 27536
   },
   {
     "login": "KimiyaKhoshnood",
@@ -8509,7 +9116,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 608,
-    "score": 344
+    "score": 344,
+    "globalRank": 27537
   },
   {
     "login": "mohammad-AKH-dev",
@@ -8523,7 +9131,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 609,
-    "score": 294
+    "score": 294,
+    "globalRank": 27678
   },
   {
     "login": "dianaash",
@@ -8537,7 +9146,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 610,
-    "score": 131
+    "score": 131,
+    "globalRank": 27679
   },
   {
     "login": "ErfanPanahi",
@@ -8551,7 +9161,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 611,
-    "score": 131
+    "score": 131,
+    "globalRank": 27680
   },
   {
     "login": "AmirRezaFarokhy",
@@ -8565,7 +9176,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 612,
-    "score": 132
+    "score": 132,
+    "globalRank": 27681
   },
   {
     "login": "mohamad-ashrafi",
@@ -8579,7 +9191,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 613,
-    "score": 937
+    "score": 937,
+    "globalRank": 27682
   },
   {
     "login": "rmrady",
@@ -8593,7 +9206,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 614,
-    "score": 130
+    "score": 130,
+    "globalRank": 27849
   },
   {
     "login": "younes-namipoor",
@@ -8607,7 +9221,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 615,
-    "score": 132
+    "score": 132,
+    "globalRank": 27850
   },
   {
     "login": "PoriyaAbdollahi",
@@ -8621,7 +9236,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 616,
-    "score": 253
+    "score": 253,
+    "globalRank": 27851
   },
   {
     "login": "YasinAshorian",
@@ -8635,7 +9251,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 617,
-    "score": 2124
+    "score": 2124,
+    "globalRank": 27997
   },
   {
     "login": "AminRezaeeyan",
@@ -8649,7 +9266,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 618,
-    "score": 456
+    "score": 456,
+    "globalRank": 27998
   },
   {
     "login": "mortezabozorgzade98",
@@ -8663,7 +9281,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 619,
-    "score": 139
+    "score": 139,
+    "globalRank": 27999
   },
   {
     "login": "koroshkorosh1",
@@ -8677,7 +9296,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 620,
-    "score": 189
+    "score": 189,
+    "globalRank": 28000
   },
   {
     "login": "KasraMg",
@@ -8691,7 +9311,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 621,
-    "score": 1357
+    "score": 1357,
+    "globalRank": 28001
   },
   {
     "login": "Incognito-Coder",
@@ -8705,7 +9326,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 622,
-    "score": 398
+    "score": 398,
+    "globalRank": 28002
   },
   {
     "login": "meisamrce",
@@ -8719,7 +9341,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 623,
-    "score": 130
+    "score": 130,
+    "globalRank": 28003
   },
   {
     "login": "Edrisym",
@@ -8733,7 +9356,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 624,
-    "score": 133
+    "score": 133,
+    "globalRank": 28167
   },
   {
     "login": "ainyava",
@@ -8747,7 +9371,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 625,
-    "score": 651
+    "score": 651,
+    "globalRank": 28168
   },
   {
     "login": "Fatemeh-Emadi",
@@ -8761,7 +9386,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 626,
-    "score": 139
+    "score": 139,
+    "globalRank": 28169
   },
   {
     "login": "erfanium",
@@ -8775,7 +9401,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 627,
-    "score": 395
+    "score": 395,
+    "globalRank": 28170
   },
   {
     "login": "AHGh1386",
@@ -8789,7 +9416,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 628,
-    "score": 138
+    "score": 138,
+    "globalRank": 28171
   },
   {
     "login": "mortezakarimi",
@@ -8803,7 +9431,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 629,
-    "score": 243
+    "score": 243,
+    "globalRank": 28172
   },
   {
     "login": "alirezaja1384",
@@ -8817,7 +9446,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 630,
-    "score": 138
+    "score": 138,
+    "globalRank": 28355
   },
   {
     "login": "mohammadbaghani",
@@ -8831,7 +9461,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 631,
-    "score": 439
+    "score": 439,
+    "globalRank": 28356
   },
   {
     "login": "Stink-Po",
@@ -8845,7 +9476,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 632,
-    "score": 135
+    "score": 135,
+    "globalRank": 28357
   },
   {
     "login": "amirQuf",
@@ -8859,7 +9491,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 633,
-    "score": 173
+    "score": 173,
+    "globalRank": 28358
   },
   {
     "login": "vefghmhassan",
@@ -8873,7 +9506,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 634,
-    "score": 365
+    "score": 365,
+    "globalRank": 28359
   },
   {
     "login": "DarkSuniuM",
@@ -8887,7 +9521,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 635,
-    "score": 133
+    "score": 133,
+    "globalRank": 28360
   },
   {
     "login": "smbanaie",
@@ -8901,7 +9536,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 636,
-    "score": 661
+    "score": 661,
+    "globalRank": 28361
   },
   {
     "login": "Hossara",
@@ -8915,7 +9551,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 637,
-    "score": 1821
+    "score": 1821,
+    "globalRank": 28362
   },
   {
     "login": "sinamoraddar",
@@ -8929,7 +9566,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 638,
-    "score": 175
+    "score": 175,
+    "globalRank": 28363
   },
   {
     "login": "vhidvz",
@@ -8943,7 +9581,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 639,
-    "score": 4933
+    "score": 4933,
+    "globalRank": 28364
   },
   {
     "login": "mahsa-tajari",
@@ -8957,7 +9596,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 640,
-    "score": 127
+    "score": 127,
+    "globalRank": 28365
   },
   {
     "login": "omidkick",
@@ -8971,7 +9611,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 641,
-    "score": 283
+    "score": 283,
+    "globalRank": 28366
   },
   {
     "login": "spdfalcon",
@@ -8985,7 +9626,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 642,
-    "score": 2143
+    "score": 2143,
+    "globalRank": 28536
   },
   {
     "login": "always-maap",
@@ -8999,7 +9641,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 643,
-    "score": 391
+    "score": 391,
+    "globalRank": 28537
   },
   {
     "login": "pedramalizade",
@@ -9013,7 +9656,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 644,
-    "score": 311
+    "score": 311,
+    "globalRank": 28538
   },
   {
     "login": "hiradsajde",
@@ -9027,7 +9671,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 645,
-    "score": 480
+    "score": 480,
+    "globalRank": 28539
   },
   {
     "login": "somayeh-n",
@@ -9041,7 +9686,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 646,
-    "score": 126
+    "score": 126,
+    "globalRank": 28540
   },
   {
     "login": "alikazemzadeh76",
@@ -9055,7 +9701,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 647,
-    "score": 126
+    "score": 126,
+    "globalRank": 28541
   },
   {
     "login": "nastaran-reshadati",
@@ -9069,7 +9716,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 648,
-    "score": 340
+    "score": 340,
+    "globalRank": 28542
   },
   {
     "login": "B-Esmaili",
@@ -9083,7 +9731,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 649,
-    "score": 154
+    "score": 154,
+    "globalRank": 28543
   },
   {
     "login": "alishirani1384",
@@ -9097,7 +9746,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 650,
-    "score": 281
+    "score": 281,
+    "globalRank": 28544
   },
   {
     "login": "EhsanSZ",
@@ -9111,7 +9761,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 651,
-    "score": 126
+    "score": 126,
+    "globalRank": 28545
   },
   {
     "login": "ehsan-mohammadi",
@@ -9125,7 +9776,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 652,
-    "score": 702
+    "score": 702,
+    "globalRank": 28546
   },
   {
     "login": "sinasezza",
@@ -9139,7 +9791,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 653,
-    "score": 1186
+    "score": 1186,
+    "globalRank": 28744
   },
   {
     "login": "parsampsh",
@@ -9153,7 +9806,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 654,
-    "score": 385
+    "score": 385,
+    "globalRank": 28745
   },
   {
     "login": "modos",
@@ -9167,7 +9821,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 655,
-    "score": 475
+    "score": 475,
+    "globalRank": 28746
   },
   {
     "login": "hosseinimh",
@@ -9181,7 +9836,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 656,
-    "score": 125
+    "score": 125,
+    "globalRank": 28747
   },
   {
     "login": "smircodes",
@@ -9195,7 +9851,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 657,
-    "score": 273
+    "score": 273,
+    "globalRank": 28748
   },
   {
     "login": "bardyavahydy",
@@ -9209,7 +9866,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 658,
-    "score": 1399
+    "score": 1399,
+    "globalRank": 28749
   },
   {
     "login": "SudoAmirHA",
@@ -9223,7 +9881,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 659,
-    "score": 127
+    "score": 127,
+    "globalRank": 28750
   },
   {
     "login": "peymanmajidi",
@@ -9237,7 +9896,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 660,
-    "score": 124
+    "score": 124,
+    "globalRank": 28910
   },
   {
     "login": "mo1ein",
@@ -9251,7 +9911,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 661,
-    "score": 330
+    "score": 330,
+    "globalRank": 28911
   },
   {
     "login": "mahursh",
@@ -9265,7 +9926,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 662,
-    "score": 421
+    "score": 421,
+    "globalRank": 28912
   },
   {
     "login": "ehsanx64",
@@ -9279,7 +9941,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 663,
-    "score": 290
+    "score": 290,
+    "globalRank": 28913
   },
   {
     "login": "sa9978",
@@ -9293,7 +9956,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 664,
-    "score": 124
+    "score": 124,
+    "globalRank": 28914
   },
   {
     "login": "mehdi-mirzaie78",
@@ -9307,7 +9971,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 665,
-    "score": 129
+    "score": 129,
+    "globalRank": 28915
   },
   {
     "login": "abbasyazdanmehr",
@@ -9321,7 +9986,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 666,
-    "score": 168
+    "score": 168,
+    "globalRank": 28916
   },
   {
     "login": "amirkhodabande",
@@ -9335,7 +10001,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 667,
-    "score": 145
+    "score": 145,
+    "globalRank": 28917
   },
   {
     "login": "hoseinjamil",
@@ -9349,7 +10016,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 668,
-    "score": 136
+    "score": 136,
+    "globalRank": 29115
   },
   {
     "login": "monarahmati",
@@ -9363,7 +10031,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 669,
-    "score": 124
+    "score": 124,
+    "globalRank": 29116
   },
   {
     "login": "RezaGeshaniWeb",
@@ -9377,7 +10046,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 670,
-    "score": 1038
+    "score": 1038,
+    "globalRank": 29117
   },
   {
     "login": "morteza-shahrabi-farahani",
@@ -9391,7 +10061,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 671,
-    "score": 123
+    "score": 123,
+    "globalRank": 29118
   },
   {
     "login": "Alaleh-Mohseni",
@@ -9405,7 +10076,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 672,
-    "score": 1826
+    "score": 1826,
+    "globalRank": 29119
   },
   {
     "login": "hrmoh",
@@ -9419,7 +10091,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 673,
-    "score": 1929
+    "score": 1929,
+    "globalRank": 29120
   },
   {
     "login": "farhad-aman",
@@ -9433,7 +10106,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 674,
-    "score": 132
+    "score": 132,
+    "globalRank": 29121
   },
   {
     "login": "hamid-shahsavani",
@@ -9447,7 +10121,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 675,
-    "score": 1782
+    "score": 1782,
+    "globalRank": 29122
   },
   {
     "login": "MKdir98",
@@ -9461,7 +10136,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 676,
-    "score": 127
+    "score": 127,
+    "globalRank": 29123
   },
   {
     "login": "masoumehmohebbi",
@@ -9475,7 +10151,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 677,
-    "score": 141
+    "score": 141,
+    "globalRank": 29124
   },
   {
     "login": "Nasim-Khalili",
@@ -9489,7 +10166,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 678,
-    "score": 199
+    "score": 199,
+    "globalRank": 29125
   },
   {
     "login": "amirsambahador",
@@ -9503,7 +10181,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 679,
-    "score": 145
+    "score": 145,
+    "globalRank": 29126
   },
   {
     "login": "AliBagheri2079",
@@ -9517,7 +10196,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 680,
-    "score": 122
+    "score": 122,
+    "globalRank": 29297
   },
   {
     "login": "tahamusvi",
@@ -9531,7 +10211,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 681,
-    "score": 736
+    "score": 736,
+    "globalRank": 29298
   },
   {
     "login": "ariaieboy",
@@ -9545,7 +10226,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 682,
-    "score": 1557
+    "score": 1557,
+    "globalRank": 29299
   },
   {
     "login": "moeinparvizi",
@@ -9559,7 +10241,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 683,
-    "score": 128
+    "score": 128,
+    "globalRank": 29300
   },
   {
     "login": "Ahmadrezadl",
@@ -9573,7 +10256,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 684,
-    "score": 741
+    "score": 741,
+    "globalRank": 29301
   },
   {
     "login": "Shayan-Ghani",
@@ -9587,7 +10271,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 685,
-    "score": 160
+    "score": 160,
+    "globalRank": 29302
   },
   {
     "login": "HamedTorabi39",
@@ -9601,7 +10286,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 686,
-    "score": 126
+    "score": 126,
+    "globalRank": 29303
   },
   {
     "login": "niloufar-yousefi",
@@ -9615,7 +10301,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 687,
-    "score": 122
+    "score": 122,
+    "globalRank": 29304
   },
   {
     "login": "CAgent47",
@@ -9629,7 +10316,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 688,
-    "score": 484
+    "score": 484,
+    "globalRank": 29305
   },
   {
     "login": "ali-sedaghi",
@@ -9643,7 +10331,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 689,
-    "score": 172
+    "score": 172,
+    "globalRank": 29477
   },
   {
     "login": "amiria703",
@@ -9657,7 +10346,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 690,
-    "score": 282
+    "score": 282,
+    "globalRank": 29478
   },
   {
     "login": "AlirezaRahmani2004",
@@ -9671,7 +10361,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 691,
-    "score": 123
+    "score": 123,
+    "globalRank": 29479
   },
   {
     "login": "MohammadAhmadiCode",
@@ -9685,7 +10376,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 692,
-    "score": 121
+    "score": 121,
+    "globalRank": 29480
   },
   {
     "login": "rseyf",
@@ -9699,7 +10391,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 693,
-    "score": 375
+    "score": 375,
+    "globalRank": 29481
   },
   {
     "login": "Hamzeh01",
@@ -9713,7 +10406,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 694,
-    "score": 162
+    "score": 162,
+    "globalRank": 29482
   },
   {
     "login": "naserianali",
@@ -9727,7 +10421,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 695,
-    "score": 1117
+    "score": 1117,
+    "globalRank": 29483
   },
   {
     "login": "AmirhossienGhodratnema",
@@ -9741,7 +10436,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 696,
-    "score": 503
+    "score": 503,
+    "globalRank": 29484
   },
   {
     "login": "parsarezaee",
@@ -9755,7 +10451,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 697,
-    "score": 517
+    "score": 517,
+    "globalRank": 29485
   },
   {
     "login": "mohamad-fallah",
@@ -9769,7 +10466,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 698,
-    "score": 739
+    "score": 739,
+    "globalRank": 29681
   },
   {
     "login": "Pishgard",
@@ -9783,7 +10481,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 699,
-    "score": 5120
+    "score": 5120,
+    "globalRank": 29682
   },
   {
     "login": "its-Ghzale",
@@ -9797,7 +10496,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 700,
-    "score": 120
+    "score": 120,
+    "globalRank": 29683
   },
   {
     "login": "ATofighi",
@@ -9811,7 +10511,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 701,
-    "score": 150
+    "score": 150,
+    "globalRank": 29684
   },
   {
     "login": "rshorche",
@@ -9825,7 +10526,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 702,
-    "score": 271
+    "score": 271,
+    "globalRank": 29685
   },
   {
     "login": "saeed-raeisi",
@@ -9839,7 +10541,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 703,
-    "score": 225
+    "score": 225,
+    "globalRank": 29686
   },
   {
     "login": "Parham-Dehghan",
@@ -9853,7 +10556,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 704,
-    "score": 495
+    "score": 495,
+    "globalRank": 29879
   },
   {
     "login": "ellicoder",
@@ -9867,7 +10571,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 705,
-    "score": 120
+    "score": 120,
+    "globalRank": 29880
   },
   {
     "login": "varaste",
@@ -9881,7 +10586,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 706,
-    "score": 127
+    "score": 127,
+    "globalRank": 29881
   },
   {
     "login": "MaxEdison",
@@ -9895,7 +10601,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 707,
-    "score": 377
+    "score": 377,
+    "globalRank": 29882
   },
   {
     "login": "bistcuite",
@@ -9909,7 +10616,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 708,
-    "score": 265
+    "score": 265,
+    "globalRank": 29883
   },
   {
     "login": "MahdiNavaei",
@@ -9923,7 +10631,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 709,
-    "score": 168
+    "score": 168,
+    "globalRank": 29884
   },
   {
     "login": "ehsanm-77",
@@ -9937,7 +10646,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 710,
-    "score": 125
+    "score": 125,
+    "globalRank": 29885
   },
   {
     "login": "RealMrSHA",
@@ -9951,7 +10661,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 711,
-    "score": 119
+    "score": 119,
+    "globalRank": 29886
   },
   {
     "login": "AmirhBeigi",
@@ -9965,7 +10676,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 712,
-    "score": 1112
+    "score": 1112,
+    "globalRank": 29887
   },
   {
     "login": "Amiraliv",
@@ -9979,7 +10691,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 713,
-    "score": 181
+    "score": 181,
+    "globalRank": 29888
   },
   {
     "login": "AliReza7222",
@@ -9993,7 +10706,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 714,
-    "score": 119
+    "score": 119,
+    "globalRank": 29889
   },
   {
     "login": "AlirezaAliakbari",
@@ -10007,7 +10721,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 715,
-    "score": 119
+    "score": 119,
+    "globalRank": 29890
   },
   {
     "login": "negarhonarvar",
@@ -10021,7 +10736,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 716,
-    "score": 120
+    "score": 120,
+    "globalRank": 30071
   },
   {
     "login": "H1RKANY",
@@ -10035,7 +10751,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 717,
-    "score": 118
+    "score": 118,
+    "globalRank": 30072
   },
   {
     "login": "H-0-O",
@@ -10049,7 +10766,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 718,
-    "score": 217
+    "score": 217,
+    "globalRank": 30073
   },
   {
     "login": "alivarastepour",
@@ -10063,7 +10781,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 719,
-    "score": 118
+    "score": 118,
+    "globalRank": 30074
   },
   {
     "login": "m2sh",
@@ -10077,7 +10796,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 720,
-    "score": 204
+    "score": 204,
+    "globalRank": 30075
   },
   {
     "login": "mohammadsadeghforoughi",
@@ -10091,7 +10811,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 721,
-    "score": 723
+    "score": 723,
+    "globalRank": 30076
   },
   {
     "login": "mhdi-nzari",
@@ -10105,7 +10826,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 722,
-    "score": 118
+    "score": 118,
+    "globalRank": 30282
   },
   {
     "login": "alikzalikz",
@@ -10119,7 +10841,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 723,
-    "score": 146
+    "score": 146,
+    "globalRank": 30283
   },
   {
     "login": "Ehsan-Mosaddeghi",
@@ -10133,7 +10856,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 724,
-    "score": 148
+    "score": 148,
+    "globalRank": 30284
   },
   {
     "login": "negarrezazadeh",
@@ -10147,7 +10871,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 725,
-    "score": 265
+    "score": 265,
+    "globalRank": 30285
   },
   {
     "login": "Alirezaaraby",
@@ -10161,7 +10886,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 726,
-    "score": 767
+    "score": 767,
+    "globalRank": 30494
   },
   {
     "login": "sahrayali2000",
@@ -10175,7 +10901,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 727,
-    "score": 118
+    "score": 118,
+    "globalRank": 30495
   },
   {
     "login": "faridprogrammer",
@@ -10189,7 +10916,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 728,
-    "score": 121
+    "score": 121,
+    "globalRank": 30496
   },
   {
     "login": "hsyir",
@@ -10203,7 +10931,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 729,
-    "score": 203
+    "score": 203,
+    "globalRank": 30497
   },
   {
     "login": "arminmehraeen",
@@ -10217,7 +10946,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 730,
-    "score": 440
+    "score": 440,
+    "globalRank": 30498
   },
   {
     "login": "Amirreza-Afra",
@@ -10231,7 +10961,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 731,
-    "score": 416
+    "score": 416,
+    "globalRank": 30499
   },
   {
     "login": "farazff",
@@ -10245,7 +10976,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 732,
-    "score": 122
+    "score": 122,
+    "globalRank": 30500
   },
   {
     "login": "AmooHashem",
@@ -10259,7 +10991,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 733,
-    "score": 2398
+    "score": 2398,
+    "globalRank": 30501
   },
   {
     "login": "ekm507",
@@ -10273,7 +11006,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 734,
-    "score": 437
+    "score": 437,
+    "globalRank": 30502
   },
   {
     "login": "SM2A",
@@ -10287,7 +11021,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 735,
-    "score": 459
+    "score": 459,
+    "globalRank": 30503
   },
   {
     "login": "AmirKakavand",
@@ -10301,7 +11036,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 736,
-    "score": 605
+    "score": 605,
+    "globalRank": 30504
   },
   {
     "login": "panahi-projects",
@@ -10315,7 +11051,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 737,
-    "score": 728
+    "score": 728,
+    "globalRank": 30728
   },
   {
     "login": "amirali-cheraghi-cyber",
@@ -10329,7 +11066,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 738,
-    "score": 145
+    "score": 145,
+    "globalRank": 30729
   },
   {
     "login": "danial137",
@@ -10343,7 +11081,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 739,
-    "score": 577
+    "score": 577,
+    "globalRank": 30730
   },
   {
     "login": "ZahraDehghanian97",
@@ -10357,7 +11096,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 740,
-    "score": 119
+    "score": 119,
+    "globalRank": 30731
   },
   {
     "login": "abbassep3200",
@@ -10371,7 +11111,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 741,
-    "score": 115
+    "score": 115,
+    "globalRank": 30732
   },
   {
     "login": "torkamanmahdi",
@@ -10385,7 +11126,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 742,
-    "score": 3280
+    "score": 3280,
+    "globalRank": 30733
   },
   {
     "login": "Zabihullah313",
@@ -10399,7 +11141,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 743,
-    "score": 135
+    "score": 135,
+    "globalRank": 30734
   },
   {
     "login": "NarimanN2",
@@ -10413,7 +11156,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 744,
-    "score": 156
+    "score": 156,
+    "globalRank": 30735
   },
   {
     "login": "TahaBakhtari",
@@ -10427,7 +11171,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 745,
-    "score": 209
+    "score": 209,
+    "globalRank": 30942
   },
   {
     "login": "mshajkarami",
@@ -10441,7 +11186,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 746,
-    "score": 236
+    "score": 236,
+    "globalRank": 30943
   },
   {
     "login": "farhad-ahmadi-04",
@@ -10455,7 +11201,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 747,
-    "score": 407
+    "score": 407,
+    "globalRank": 30944
   },
   {
     "login": "AmirRiahi2008",
@@ -10469,7 +11216,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 748,
-    "score": 357
+    "score": 357,
+    "globalRank": 30945
   },
   {
     "login": "Alimohammadi20",
@@ -10483,7 +11231,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 749,
-    "score": 392
+    "score": 392,
+    "globalRank": 30946
   },
   {
     "login": "Teghfo",
@@ -10497,7 +11246,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 750,
-    "score": 119
+    "score": 119,
+    "globalRank": 30947
   },
   {
     "login": "Sajadssa",
@@ -10511,7 +11261,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 751,
-    "score": 208
+    "score": 208,
+    "globalRank": 31173
   },
   {
     "login": "sinatb",
@@ -10525,7 +11276,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 752,
-    "score": 284
+    "score": 284,
+    "globalRank": 31174
   },
   {
     "login": "parsanoori",
@@ -10539,7 +11291,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 753,
-    "score": 154
+    "score": 154,
+    "globalRank": 31175
   },
   {
     "login": "imrostami",
@@ -10553,7 +11306,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 754,
-    "score": 125
+    "score": 125,
+    "globalRank": 31176
   },
   {
     "login": "amirh-p",
@@ -10567,7 +11321,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 755,
-    "score": 147
+    "score": 147,
+    "globalRank": 31177
   },
   {
     "login": "mahrokhnz",
@@ -10581,7 +11336,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 756,
-    "score": 163
+    "score": 163,
+    "globalRank": 31178
   },
   {
     "login": "parvvaresh",
@@ -10595,7 +11351,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 757,
-    "score": 503
+    "score": 503,
+    "globalRank": 31179
   },
   {
     "login": "aryan-mehrabi",
@@ -10609,7 +11366,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 758,
-    "score": 281
+    "score": 281,
+    "globalRank": 31180
   },
   {
     "login": "mmhosseinzadeh9190",
@@ -10623,7 +11381,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 759,
-    "score": 334
+    "score": 334,
+    "globalRank": 31181
   },
   {
     "login": "MohammadSoleimanikia",
@@ -10637,7 +11396,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 760,
-    "score": 609
+    "score": 609,
+    "globalRank": 31182
   },
   {
     "login": "soheil-js",
@@ -10651,7 +11411,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 761,
-    "score": 176
+    "score": 176,
+    "globalRank": 31183
   },
   {
     "login": "danialkeimasi",
@@ -10665,7 +11426,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 762,
-    "score": 848
+    "score": 848,
+    "globalRank": 31382
   },
   {
     "login": "amir-rahmanii",
@@ -10679,7 +11441,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 763,
-    "score": 309
+    "score": 309,
+    "globalRank": 31383
   },
   {
     "login": "hossein-heydari79",
@@ -10693,7 +11456,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 764,
-    "score": 114
+    "score": 114,
+    "globalRank": 31384
   },
   {
     "login": "vFlagz",
@@ -10707,7 +11471,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 765,
-    "score": 1421
+    "score": 1421,
+    "globalRank": 31385
   },
   {
     "login": "rozhinst",
@@ -10721,7 +11486,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 766,
-    "score": 114
+    "score": 114,
+    "globalRank": 31386
   },
   {
     "login": "farzadso",
@@ -10735,7 +11501,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 767,
-    "score": 132
+    "score": 132,
+    "globalRank": 31387
   },
   {
     "login": "Shahzadhpr",
@@ -10749,7 +11516,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 768,
-    "score": 332
+    "score": 332,
+    "globalRank": 31388
   },
   {
     "login": "machitgarha",
@@ -10763,7 +11531,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 769,
-    "score": 118
+    "score": 118,
+    "globalRank": 31389
   },
   {
     "login": "onionj",
@@ -10777,7 +11546,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 770,
-    "score": 3176
+    "score": 3176,
+    "globalRank": 31390
   },
   {
     "login": "deathline94",
@@ -10791,7 +11561,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 771,
-    "score": 159
+    "score": 159,
+    "globalRank": 31391
   },
   {
     "login": "farshadz1997",
@@ -10805,7 +11576,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 772,
-    "score": 531
+    "score": 531,
+    "globalRank": 31392
   },
   {
     "login": "HKalbasi",
@@ -10819,7 +11591,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 773,
-    "score": 797
+    "score": 797,
+    "globalRank": 31393
   },
   {
     "login": "Adibov",
@@ -10833,7 +11606,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 774,
-    "score": 1948
+    "score": 1948,
+    "globalRank": 31627
   },
   {
     "login": "MiladNz",
@@ -10847,7 +11621,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 775,
-    "score": 845
+    "score": 845,
+    "globalRank": 31628
   },
   {
     "login": "MmdQurani",
@@ -10861,7 +11636,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 776,
-    "score": 862
+    "score": 862,
+    "globalRank": 31629
   },
   {
     "login": "DanialSoleimany",
@@ -10875,7 +11651,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 777,
-    "score": 919
+    "score": 919,
+    "globalRank": 31630
   },
   {
     "login": "sahroush",
@@ -10889,7 +11666,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 778,
-    "score": 1001
+    "score": 1001,
+    "globalRank": 31631
   },
   {
     "login": "mojtabashirkhani",
@@ -10903,7 +11681,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 779,
-    "score": 110
+    "score": 110,
+    "globalRank": 31876
   },
   {
     "login": "AmirBahadorAmiri",
@@ -10917,7 +11696,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 780,
-    "score": 225
+    "score": 225,
+    "globalRank": 31877
   },
   {
     "login": "smarteist",
@@ -10931,7 +11711,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 781,
-    "score": 135
+    "score": 135,
+    "globalRank": 31878
   },
   {
     "login": "NegarDeveloper",
@@ -10945,7 +11726,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 782,
-    "score": 110
+    "score": 110,
+    "globalRank": 31879
   },
   {
     "login": "MahsanGilani",
@@ -10959,7 +11741,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 783,
-    "score": 137
+    "score": 137,
+    "globalRank": 31880
   },
   {
     "login": "sajjad1-moeis",
@@ -10973,7 +11756,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 784,
-    "score": 221
+    "score": 221,
+    "globalRank": 31881
   },
   {
     "login": "ShahzadMomayez",
@@ -10987,7 +11771,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 785,
-    "score": 162
+    "score": 162,
+    "globalRank": 31882
   },
   {
     "login": "ALYREZA",
@@ -11001,7 +11786,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 786,
-    "score": 152
+    "score": 152,
+    "globalRank": 31883
   },
   {
     "login": "AminHosseinniya",
@@ -11015,7 +11801,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 787,
-    "score": 132
+    "score": 132,
+    "globalRank": 31884
   },
   {
     "login": "vahidirp",
@@ -11029,7 +11816,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 788,
-    "score": 110
+    "score": 110,
+    "globalRank": 31885
   },
   {
     "login": "mojtabamstfpr",
@@ -11043,7 +11831,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 789,
-    "score": 114
+    "score": 114,
+    "globalRank": 31886
   },
   {
     "login": "ho3ein1379",
@@ -11057,7 +11846,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 790,
-    "score": 3082
+    "score": 3082,
+    "globalRank": 31887
   },
   {
     "login": "erfanmohamadnabi",
@@ -11071,7 +11861,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 791,
-    "score": 122
+    "score": 122,
+    "globalRank": 31888
   },
   {
     "login": "marziyemonshizadeh",
@@ -11085,7 +11876,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 792,
-    "score": 136
+    "score": 136,
+    "globalRank": 31889
   },
   {
     "login": "mahdinaghikhanii",
@@ -11099,7 +11891,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 793,
-    "score": 120
+    "score": 120,
+    "globalRank": 31890
   },
   {
     "login": "universePr",
@@ -11113,7 +11906,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 794,
-    "score": 457
+    "score": 457,
+    "globalRank": 31891
   },
   {
     "login": "mahdiamirabadii",
@@ -11127,7 +11921,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 795,
-    "score": 174
+    "score": 174,
+    "globalRank": 32121
   },
   {
     "login": "mahsabbpour",
@@ -11141,7 +11936,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 796,
-    "score": 109
+    "score": 109,
+    "globalRank": 32122
   },
   {
     "login": "roozbehsayadi",
@@ -11155,7 +11951,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 797,
-    "score": 109
+    "score": 109,
+    "globalRank": 32123
   },
   {
     "login": "mkazemiraz",
@@ -11169,7 +11966,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 798,
-    "score": 109
+    "score": 109,
+    "globalRank": 32124
   },
   {
     "login": "rezamosavi8740",
@@ -11183,7 +11981,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 799,
-    "score": 141
+    "score": 141,
+    "globalRank": 32125
   },
   {
     "login": "saber13812002",
@@ -11197,7 +11996,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 800,
-    "score": 3027
+    "score": 3027,
+    "globalRank": 32126
   },
   {
     "login": "B4rC0d",
@@ -11211,7 +12011,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 801,
-    "score": 108
+    "score": 108,
+    "globalRank": 32364
   },
   {
     "login": "amirhosseinweb",
@@ -11225,7 +12026,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 802,
-    "score": 190
+    "score": 190,
+    "globalRank": 32365
   },
   {
     "login": "rasoulMoafi",
@@ -11239,7 +12041,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 803,
-    "score": 115
+    "score": 115,
+    "globalRank": 32366
   },
   {
     "login": "AbolfazlGhaderi",
@@ -11253,7 +12056,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 804,
-    "score": 622
+    "score": 622,
+    "globalRank": 32367
   },
   {
     "login": "pouyam79i",
@@ -11267,7 +12071,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 805,
-    "score": 551
+    "score": 551,
+    "globalRank": 32368
   },
   {
     "login": "RezaGooner",
@@ -11281,7 +12086,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 806,
-    "score": 715
+    "score": 715,
+    "globalRank": 32560
   },
   {
     "login": "mateofz",
@@ -11295,7 +12101,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 807,
-    "score": 514
+    "score": 514,
+    "globalRank": 32561
   },
   {
     "login": "Mobin-Abbasi",
@@ -11309,7 +12116,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 808,
-    "score": 272
+    "score": 272,
+    "globalRank": 32562
   },
   {
     "login": "maedemir",
@@ -11323,7 +12131,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 809,
-    "score": 109
+    "score": 109,
+    "globalRank": 32563
   },
   {
     "login": "BijanProgrammer",
@@ -11337,7 +12146,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 810,
-    "score": 892
+    "score": 892,
+    "globalRank": 32564
   },
   {
     "login": "KEANU2003",
@@ -11351,7 +12161,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 811,
-    "score": 165
+    "score": 165,
+    "globalRank": 32565
   },
   {
     "login": "soraya-mi",
@@ -11365,7 +12176,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 812,
-    "score": 131
+    "score": 131,
+    "globalRank": 32566
   },
   {
     "login": "dkhorasanizadeh",
@@ -11379,7 +12191,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 813,
-    "score": 127
+    "score": 127,
+    "globalRank": 32789
   },
   {
     "login": "behjatifar",
@@ -11393,7 +12206,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 814,
-    "score": 178
+    "score": 178,
+    "globalRank": 32790
   },
   {
     "login": "ParsingTeam",
@@ -11407,7 +12221,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 815,
-    "score": 106
+    "score": 106,
+    "globalRank": 32791
   },
   {
     "login": "hosseingz",
@@ -11421,7 +12236,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 816,
-    "score": 518
+    "score": 518,
+    "globalRank": 32792
   },
   {
     "login": "rezaaa",
@@ -11435,7 +12251,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 817,
-    "score": 577
+    "score": 577,
+    "globalRank": 32793
   },
   {
     "login": "vahidrezazadeh",
@@ -11449,7 +12266,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 818,
-    "score": 1421
+    "score": 1421,
+    "globalRank": 32794
   },
   {
     "login": "Aryia-Behroziuan",
@@ -11463,7 +12281,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 819,
-    "score": 116
+    "score": 116,
+    "globalRank": 32795
   },
   {
     "login": "KaisenAmin",
@@ -11477,7 +12296,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 820,
-    "score": 284
+    "score": 284,
+    "globalRank": 32796
   },
   {
     "login": "Amirali-Yavari",
@@ -11491,7 +12311,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 821,
-    "score": 106
+    "score": 106,
+    "globalRank": 32797
   },
   {
     "login": "mozhgan-k",
@@ -11505,7 +12326,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 822,
-    "score": 545
+    "score": 545,
+    "globalRank": 32798
   },
   {
     "login": "edrisranjbar",
@@ -11519,7 +12341,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 823,
-    "score": 1500
+    "score": 1500,
+    "globalRank": 32799
   },
   {
     "login": "CFarhad",
@@ -11533,7 +12356,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 824,
-    "score": 127
+    "score": 127,
+    "globalRank": 32800
   },
   {
     "login": "hamidrezafarzin",
@@ -11547,7 +12371,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 825,
-    "score": 131
+    "score": 131,
+    "globalRank": 33019
   },
   {
     "login": "Mohammadmirabi",
@@ -11561,7 +12386,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 826,
-    "score": 136
+    "score": 136,
+    "globalRank": 33020
   },
   {
     "login": "afsharsharifi",
@@ -11575,7 +12401,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 827,
-    "score": 287
+    "score": 287,
+    "globalRank": 33021
   },
   {
     "login": "DanialJamshidi",
@@ -11589,7 +12416,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 828,
-    "score": 197
+    "score": 197,
+    "globalRank": 33022
   },
   {
     "login": "goli3148",
@@ -11603,7 +12431,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 829,
-    "score": 128
+    "score": 128,
+    "globalRank": 33023
   },
   {
     "login": "sajadnezamabadi",
@@ -11617,7 +12446,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 830,
-    "score": 110
+    "score": 110,
+    "globalRank": 33254
   },
   {
     "login": "adelabbaszare",
@@ -11631,7 +12461,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 831,
-    "score": 1118
+    "score": 1118,
+    "globalRank": 33255
   },
   {
     "login": "4lisalehi",
@@ -11645,7 +12476,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 832,
-    "score": 118
+    "score": 118,
+    "globalRank": 33256
   },
   {
     "login": "smrrazavian",
@@ -11659,7 +12491,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 833,
-    "score": 146
+    "score": 146,
+    "globalRank": 33257
   },
   {
     "login": "amirrezamousavifard",
@@ -11673,7 +12506,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 834,
-    "score": 134
+    "score": 134,
+    "globalRank": 33258
   },
   {
     "login": "Devby-Ali",
@@ -11687,7 +12521,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 835,
-    "score": 752
+    "score": 752,
+    "globalRank": 33259
   },
   {
     "login": "abolfazlshs80",
@@ -11701,7 +12536,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 836,
-    "score": 7047
+    "score": 7047,
+    "globalRank": 33260
   },
   {
     "login": "alirazavi",
@@ -11715,7 +12551,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 837,
-    "score": 104
+    "score": 104,
+    "globalRank": 33261
   },
   {
     "login": "madidqn",
@@ -11729,7 +12566,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 838,
-    "score": 314
+    "score": 314,
+    "globalRank": 33262
   },
   {
     "login": "mohammadrad81",
@@ -11743,7 +12581,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 839,
-    "score": 225
+    "score": 225,
+    "globalRank": 33263
   },
   {
     "login": "mimshins",
@@ -11757,7 +12596,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 840,
-    "score": 436
+    "score": 436,
+    "globalRank": 33264
   },
   {
     "login": "mamadoo",
@@ -11771,7 +12611,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 841,
-    "score": 104
+    "score": 104,
+    "globalRank": 33265
   },
   {
     "login": "Amir-rfz",
@@ -11785,7 +12626,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 842,
-    "score": 234
+    "score": 234,
+    "globalRank": 33266
   },
   {
     "login": "FarshidRoohi",
@@ -11799,7 +12641,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 843,
-    "score": 208
+    "score": 208,
+    "globalRank": 33267
   },
   {
     "login": "mmehrab-pz",
@@ -11813,7 +12656,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 844,
-    "score": 562
+    "score": 562,
+    "globalRank": 33268
   },
   {
     "login": "AryaRabiee",
@@ -11827,7 +12671,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 845,
-    "score": 140
+    "score": 140,
+    "globalRank": 33508
   },
   {
     "login": "mahdirezaie336",
@@ -11841,7 +12686,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 846,
-    "score": 115
+    "score": 115,
+    "globalRank": 33509
   },
   {
     "login": "Mobiwn",
@@ -11855,7 +12701,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 847,
-    "score": 164
+    "score": 164,
+    "globalRank": 33510
   },
   {
     "login": "MErfanPld",
@@ -11869,7 +12716,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 848,
-    "score": 282
+    "score": 282,
+    "globalRank": 33511
   },
   {
     "login": "Pouria-Farahani-developer",
@@ -11883,7 +12731,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 849,
-    "score": 300
+    "score": 300,
+    "globalRank": 33512
   },
   {
     "login": "Hsmnasiri",
@@ -11897,7 +12746,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 850,
-    "score": 248
+    "score": 248,
+    "globalRank": 33513
   },
   {
     "login": "Theparia",
@@ -11911,7 +12761,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 851,
-    "score": 115
+    "score": 115,
+    "globalRank": 33514
   },
   {
     "login": "MohammadrezaAmani",
@@ -11925,7 +12776,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 852,
-    "score": 2776
+    "score": 2776,
+    "globalRank": 33515
   },
   {
     "login": "KashaniKasra",
@@ -11939,7 +12791,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 853,
-    "score": 222
+    "score": 222,
+    "globalRank": 33516
   },
   {
     "login": "seyedmahdii",
@@ -11953,7 +12806,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 854,
-    "score": 484
+    "score": 484,
+    "globalRank": 33517
   },
   {
     "login": "Mahsa-Arabzadeh",
@@ -11967,7 +12821,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 855,
-    "score": 116
+    "score": 116,
+    "globalRank": 33518
   },
   {
     "login": "MohammadRezaQaderi",
@@ -11981,7 +12836,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 856,
-    "score": 3775
+    "score": 3775,
+    "globalRank": 33519
   },
   {
     "login": "ariaramin",
@@ -11995,7 +12851,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 857,
-    "score": 303
+    "score": 303,
+    "globalRank": 33520
   },
   {
     "login": "meysamzi",
@@ -12009,7 +12866,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 858,
-    "score": 109
+    "score": 109,
+    "globalRank": 33521
   },
   {
     "login": "mpourismaiel",
@@ -12023,7 +12881,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 859,
-    "score": 662
+    "score": 662,
+    "globalRank": 33522
   },
   {
     "login": "ThisIsNima01",
@@ -12037,7 +12896,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 860,
-    "score": 103
+    "score": 103,
+    "globalRank": 33523
   },
   {
     "login": "hypy13",
@@ -12051,7 +12911,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 861,
-    "score": 540
+    "score": 540,
+    "globalRank": 33524
   },
   {
     "login": "saalid",
@@ -12065,7 +12926,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 862,
-    "score": 117
+    "score": 117,
+    "globalRank": 33525
   },
   {
     "login": "NimaKhajehpour",
@@ -12079,7 +12941,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 863,
-    "score": 121
+    "score": 121,
+    "globalRank": 33802
   },
   {
     "login": "amir-mostafa-hs",
@@ -12093,7 +12956,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 864,
-    "score": 463
+    "score": 463,
+    "globalRank": 33803
   },
   {
     "login": "mihran-w",
@@ -12107,7 +12971,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 865,
-    "score": 239
+    "score": 239,
+    "globalRank": 33804
   },
   {
     "login": "MeladKamari",
@@ -12121,7 +12986,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 866,
-    "score": 146
+    "score": 146,
+    "globalRank": 33805
   },
   {
     "login": "farzadseyyedzadeh",
@@ -12135,7 +13001,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 867,
-    "score": 102
+    "score": 102,
+    "globalRank": 33806
   },
   {
     "login": "siamakrostami",
@@ -12149,7 +13016,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 868,
-    "score": 180
+    "score": 180,
+    "globalRank": 33807
   },
   {
     "login": "RezaKargar",
@@ -12163,7 +13031,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 869,
-    "score": 997
+    "score": 997,
+    "globalRank": 33808
   },
   {
     "login": "Hamed-Babaei",
@@ -12177,7 +13046,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 870,
-    "score": 1114
+    "score": 1114,
+    "globalRank": 33809
   },
   {
     "login": "professormahi",
@@ -12191,7 +13061,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 871,
-    "score": 130
+    "score": 130,
+    "globalRank": 33810
   },
   {
     "login": "parisakarimii",
@@ -12205,7 +13076,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 872,
-    "score": 152
+    "score": 152,
+    "globalRank": 34077
   },
   {
     "login": "roshandelpoor",
@@ -12219,7 +13091,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 873,
-    "score": 155
+    "score": 155,
+    "globalRank": 34078
   },
   {
     "login": "younesious",
@@ -12233,7 +13106,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 874,
-    "score": 129
+    "score": 129,
+    "globalRank": 34079
   },
   {
     "login": "omidiDeveloper",
@@ -12247,7 +13121,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 875,
-    "score": 208
+    "score": 208,
+    "globalRank": 34080
   },
   {
     "login": "Mehranlip",
@@ -12261,7 +13136,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 876,
-    "score": 101
+    "score": 101,
+    "globalRank": 34081
   },
   {
     "login": "AlirezaGholami0263",
@@ -12275,7 +13151,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 877,
-    "score": 160
+    "score": 160,
+    "globalRank": 34082
   },
   {
     "login": "shywn-mrk",
@@ -12289,7 +13166,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 878,
-    "score": 131
+    "score": 131,
+    "globalRank": 34083
   },
   {
     "login": "nimacpp",
@@ -12303,7 +13181,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 879,
-    "score": 118
+    "score": 118,
+    "globalRank": 34084
   },
   {
     "login": "itsmemoein",
@@ -12317,7 +13196,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 880,
-    "score": 101
+    "score": 101,
+    "globalRank": 34085
   },
   {
     "login": "Parisa-Bagherzadeh",
@@ -12331,7 +13211,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 881,
-    "score": 101
+    "score": 101,
+    "globalRank": 34297
   },
   {
     "login": "MortezaMahdaviMortazavi",
@@ -12345,7 +13226,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 882,
-    "score": 117
+    "score": 117,
+    "globalRank": 34298
   },
   {
     "login": "MohammadAminSaeediRad01",
@@ -12359,7 +13241,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 883,
-    "score": 100
+    "score": 100,
+    "globalRank": 34299
   },
   {
     "login": "aliazimoshan",
@@ -12373,7 +13256,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 884,
-    "score": 312
+    "score": 312,
+    "globalRank": 34300
   },
   {
     "login": "ismahdi",
@@ -12387,7 +13271,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 885,
-    "score": 448
+    "score": 448,
+    "globalRank": 34301
   },
   {
     "login": "Dashboard-Design",
@@ -12401,7 +13286,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 886,
-    "score": 484
+    "score": 484,
+    "globalRank": 34302
   },
   {
     "login": "Yekta-Ramzannasab",
@@ -12415,7 +13301,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 887,
-    "score": 178
+    "score": 178,
+    "globalRank": 34303
   },
   {
     "login": "Mehdi0xC",
@@ -12429,7 +13316,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 888,
-    "score": 197
+    "score": 197,
+    "globalRank": 34304
   },
   {
     "login": "ThisIsDara",
@@ -12443,7 +13331,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 889,
-    "score": 454
+    "score": 454,
+    "globalRank": 34305
   },
   {
     "login": "NimaCodez",
@@ -12457,7 +13346,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 890,
-    "score": 246
+    "score": 246,
+    "globalRank": 34306
   },
   {
     "login": "Bahareh0281",
@@ -12471,7 +13361,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 891,
-    "score": 180
+    "score": 180,
+    "globalRank": 34307
   },
   {
     "login": "ebrahimraeyat",
@@ -12485,7 +13376,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 892,
-    "score": 303
+    "score": 303,
+    "globalRank": 34308
   },
   {
     "login": "beigirad",
@@ -12499,7 +13391,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 893,
-    "score": 422
+    "score": 422,
+    "globalRank": 34510
   },
   {
     "login": "hesam-init",
@@ -12513,7 +13406,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 894,
-    "score": 487
+    "score": 487,
+    "globalRank": 34511
   },
   {
     "login": "ArgonStark",
@@ -12527,7 +13421,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 895,
-    "score": 129
+    "score": 129,
+    "globalRank": 34512
   },
   {
     "login": "Cmatrix1",
@@ -12541,7 +13436,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 896,
-    "score": 737
+    "score": 737,
+    "globalRank": 34513
   },
   {
     "login": "ErfanTech",
@@ -12555,7 +13451,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 897,
-    "score": 229
+    "score": 229,
+    "globalRank": 34514
   },
   {
     "login": "navidnasro",
@@ -12569,7 +13466,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 898,
-    "score": 121
+    "score": 121,
+    "globalRank": 34515
   },
   {
     "login": "Aliamrol",
@@ -12583,7 +13481,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 899,
-    "score": 193
+    "score": 193,
+    "globalRank": 34516
   },
   {
     "login": "Alirezawmoradi",
@@ -12597,7 +13496,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 900,
-    "score": 141
+    "score": 141,
+    "globalRank": 34517
   },
   {
     "login": "xandner",
@@ -12611,7 +13511,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 901,
-    "score": 1457
+    "score": 1457,
+    "globalRank": 34518
   },
   {
     "login": "ramintavakolii",
@@ -12625,7 +13526,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 902,
-    "score": 108
+    "score": 108,
+    "globalRank": 34519
   },
   {
     "login": "mehdipayervand",
@@ -12639,7 +13541,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 903,
-    "score": 101
+    "score": 101,
+    "globalRank": 34520
   },
   {
     "login": "alirezanazari",
@@ -12653,7 +13556,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 904,
-    "score": 106
+    "score": 106,
+    "globalRank": 34755
   },
   {
     "login": "sanafathii",
@@ -12667,7 +13571,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 905,
-    "score": 117
+    "score": 117,
+    "globalRank": 34756
   },
   {
     "login": "KasraFereydounpoor",
@@ -12681,7 +13586,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 906,
-    "score": 153
+    "score": 153,
+    "globalRank": 34757
   },
   {
     "login": "MPBCoder",
@@ -12695,7 +13601,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 907,
-    "score": 98
+    "score": 98,
+    "globalRank": 34758
   },
   {
     "login": "mja2015k",
@@ -12709,7 +13616,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 908,
-    "score": 99
+    "score": 99,
+    "globalRank": 34759
   },
   {
     "login": "FarhamAghdasi",
@@ -12723,7 +13631,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 909,
-    "score": 1733
+    "score": 1733,
+    "globalRank": 34760
   },
   {
     "login": "xsparvin",
@@ -12737,7 +13646,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 910,
-    "score": 467
+    "score": 467,
+    "globalRank": 34761
   },
   {
     "login": "parsaenami",
@@ -12751,7 +13661,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 911,
-    "score": 103
+    "score": 103,
+    "globalRank": 35015
   },
   {
     "login": "paria-rajaby",
@@ -12765,7 +13676,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 912,
-    "score": 190
+    "score": 190,
+    "globalRank": 35016
   },
   {
     "login": "mohamadkhalaj",
@@ -12779,7 +13691,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 913,
-    "score": 344
+    "score": 344,
+    "globalRank": 35017
   },
   {
     "login": "MahanVeisi8",
@@ -12793,7 +13706,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 914,
-    "score": 354
+    "score": 354,
+    "globalRank": 35018
   },
   {
     "login": "MehrdadShirvani",
@@ -12807,7 +13721,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 915,
-    "score": 1334
+    "score": 1334,
+    "globalRank": 35019
   },
   {
     "login": "bakhshipoor",
@@ -12821,7 +13736,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 916,
-    "score": 136
+    "score": 136,
+    "globalRank": 35020
   },
   {
     "login": "mohammadym",
@@ -12835,7 +13751,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 917,
-    "score": 97
+    "score": 97,
+    "globalRank": 35021
   },
   {
     "login": "AlirezaAK2000",
@@ -12849,7 +13766,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 918,
-    "score": 179
+    "score": 179,
+    "globalRank": 35022
   },
   {
     "login": "Sogand-mohamadiPour",
@@ -12863,7 +13781,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 919,
-    "score": 725
+    "score": 725,
+    "globalRank": 35023
   },
   {
     "login": "Yasna-Aarabi",
@@ -12877,7 +13796,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 920,
-    "score": 151
+    "score": 151,
+    "globalRank": 35024
   },
   {
     "login": "yasin115",
@@ -12891,7 +13811,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 921,
-    "score": 225
+    "score": 225,
+    "globalRank": 35025
   },
   {
     "login": "AmirAliEidivandi",
@@ -12905,7 +13826,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 922,
-    "score": 743
+    "score": 743,
+    "globalRank": 35026
   },
   {
     "login": "aliChavoshi",
@@ -12919,7 +13841,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 923,
-    "score": 1083
+    "score": 1083,
+    "globalRank": 35264
   },
   {
     "login": "rezasmind",
@@ -12933,7 +13856,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 924,
-    "score": 1000
+    "score": 1000,
+    "globalRank": 35265
   },
   {
     "login": "mdzarepour",
@@ -12947,7 +13871,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 925,
-    "score": 274
+    "score": 274,
+    "globalRank": 35266
   },
   {
     "login": "mh-zeynal",
@@ -12961,7 +13886,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 926,
-    "score": 239
+    "score": 239,
+    "globalRank": 35267
   },
   {
     "login": "MeysamAgah",
@@ -12975,7 +13901,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 927,
-    "score": 1245
+    "score": 1245,
+    "globalRank": 35268
   },
   {
     "login": "alirezasha01",
@@ -12989,7 +13916,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 928,
-    "score": 106
+    "score": 106,
+    "globalRank": 35269
   },
   {
     "login": "mhmd-android",
@@ -13003,7 +13931,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 929,
-    "score": 98
+    "score": 98,
+    "globalRank": 35270
   },
   {
     "login": "AliGH",
@@ -13017,7 +13946,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 930,
-    "score": 96
+    "score": 96,
+    "globalRank": 35271
   },
   {
     "login": "sepidehtajdini",
@@ -13031,7 +13961,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 931,
-    "score": 303
+    "score": 303,
+    "globalRank": 35272
   },
   {
     "login": "amirmojarad",
@@ -13045,7 +13976,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 932,
-    "score": 100
+    "score": 100,
+    "globalRank": 35273
   },
   {
     "login": "saadati944",
@@ -13059,7 +13991,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 933,
-    "score": 184
+    "score": 184,
+    "globalRank": 35274
   },
   {
     "login": "AliveIsHere",
@@ -13073,7 +14006,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 934,
-    "score": 99
+    "score": 99,
+    "globalRank": 35275
   },
   {
     "login": "rasooltaghipoor",
@@ -13087,7 +14021,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 935,
-    "score": 300
+    "score": 300,
+    "globalRank": 35520
   },
   {
     "login": "zahrakbri",
@@ -13101,7 +14036,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 936,
-    "score": 95
+    "score": 95,
+    "globalRank": 35521
   },
   {
     "login": "mehrdad3301",
@@ -13115,7 +14051,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 937,
-    "score": 380
+    "score": 380,
+    "globalRank": 35522
   },
   {
     "login": "theMasix",
@@ -13129,7 +14066,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 938,
-    "score": 118
+    "score": 118,
+    "globalRank": 35523
   },
   {
     "login": "ehsansouri23",
@@ -13143,7 +14081,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 939,
-    "score": 149
+    "score": 149,
+    "globalRank": 35524
   },
   {
     "login": "MR-Mostafa",
@@ -13157,7 +14096,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 940,
-    "score": 98
+    "score": 98,
+    "globalRank": 35525
   },
   {
     "login": "Mohammadshekari",
@@ -13171,7 +14111,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 941,
-    "score": 294
+    "score": 294,
+    "globalRank": 35526
   },
   {
     "login": "mrzt721010",
@@ -13185,7 +14126,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 942,
-    "score": 118
+    "score": 118,
+    "globalRank": 35527
   },
   {
     "login": "MohsenBizhani",
@@ -13199,7 +14141,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 943,
-    "score": 98
+    "score": 98,
+    "globalRank": 35528
   },
   {
     "login": "parhamahmady",
@@ -13213,7 +14156,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 944,
-    "score": 96
+    "score": 96,
+    "globalRank": 35773
   },
   {
     "login": "parrsa",
@@ -13227,7 +14171,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 945,
-    "score": 930
+    "score": 930,
+    "globalRank": 35774
   },
   {
     "login": "RaminNietzsche",
@@ -13241,7 +14186,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 946,
-    "score": 114
+    "score": 114,
+    "globalRank": 35775
   },
   {
     "login": "alirezagh73",
@@ -13255,7 +14201,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 947,
-    "score": 266
+    "score": 266,
+    "globalRank": 35776
   },
   {
     "login": "MeisamKargar",
@@ -13269,7 +14216,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 948,
-    "score": 94
+    "score": 94,
+    "globalRank": 35777
   },
   {
     "login": "MAmin-y",
@@ -13283,7 +14231,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 949,
-    "score": 182
+    "score": 182,
+    "globalRank": 35778
   },
   {
     "login": "LayaEtesam",
@@ -13297,7 +14246,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 950,
-    "score": 94
+    "score": 94,
+    "globalRank": 35779
   },
   {
     "login": "AssassinRobot",
@@ -13311,7 +14261,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 951,
-    "score": 158
+    "score": 158,
+    "globalRank": 35780
   },
   {
     "login": "seifollah2000",
@@ -13325,7 +14276,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 952,
-    "score": 97
+    "score": 97,
+    "globalRank": 35781
   },
   {
     "login": "ErfanPY",
@@ -13339,7 +14291,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 953,
-    "score": 1226
+    "score": 1226,
+    "globalRank": 35782
   },
   {
     "login": "mojtaba-khallash",
@@ -13353,7 +14306,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 954,
-    "score": 96
+    "score": 96,
+    "globalRank": 35783
   },
   {
     "login": "mmahdibarghi",
@@ -13367,7 +14321,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 955,
-    "score": 175
+    "score": 175,
+    "globalRank": 35784
   },
   {
     "login": "kasaiee",
@@ -13381,7 +14336,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 956,
-    "score": 107
+    "score": 107,
+    "globalRank": 35785
   },
   {
     "login": "mchoopani",
@@ -13395,7 +14351,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 957,
-    "score": 116
+    "score": 116,
+    "globalRank": 36030
   },
   {
     "login": "khosrotabar",
@@ -13409,7 +14366,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 958,
-    "score": 115
+    "score": 115,
+    "globalRank": 36031
   },
   {
     "login": "samuraee",
@@ -13423,7 +14381,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 959,
-    "score": 121
+    "score": 121,
+    "globalRank": 36032
   },
   {
     "login": "hadiazt",
@@ -13437,7 +14396,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 960,
-    "score": 1636
+    "score": 1636,
+    "globalRank": 36033
   },
   {
     "login": "ashkantaravati",
@@ -13451,7 +14411,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 961,
-    "score": 130
+    "score": 130,
+    "globalRank": 36034
   },
   {
     "login": "yegane-fmd",
@@ -13465,7 +14426,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 962,
-    "score": 96
+    "score": 96,
+    "globalRank": 36035
   },
   {
     "login": "ErfanXH",
@@ -13479,7 +14441,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 963,
-    "score": 787
+    "score": 787,
+    "globalRank": 36036
   },
   {
     "login": "gohossein",
@@ -13493,7 +14456,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 964,
-    "score": 112
+    "score": 112,
+    "globalRank": 36037
   },
   {
     "login": "mehrabmp",
@@ -13507,7 +14471,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 965,
-    "score": 5982
+    "score": 5982,
+    "globalRank": 36038
   },
   {
     "login": "shahab-bozorgi",
@@ -13521,7 +14486,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 966,
-    "score": 319
+    "score": 319,
+    "globalRank": 36039
   },
   {
     "login": "mohprogramer",
@@ -13535,7 +14501,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 967,
-    "score": 93
+    "score": 93,
+    "globalRank": 36040
   },
   {
     "login": "sanoooavi",
@@ -13549,7 +14516,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 968,
-    "score": 93
+    "score": 93,
+    "globalRank": 36041
   },
   {
     "login": "blue-farid",
@@ -13563,7 +14531,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 969,
-    "score": 103
+    "score": 103,
+    "globalRank": 36042
   },
   {
     "login": "amireho3ein",
@@ -13577,7 +14546,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 970,
-    "score": 93
+    "score": 93,
+    "globalRank": 36043
   },
   {
     "login": "ParsaBukani",
@@ -13591,7 +14561,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 971,
-    "score": 469
+    "score": 469,
+    "globalRank": 36044
   },
   {
     "login": "SajjadR17",
@@ -13605,7 +14576,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 972,
-    "score": 478
+    "score": 478,
+    "globalRank": 36045
   },
   {
     "login": "behzadam",
@@ -13619,7 +14591,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 973,
-    "score": 154
+    "score": 154,
+    "globalRank": 36305
   },
   {
     "login": "meysam101",
@@ -13633,7 +14606,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 974,
-    "score": 92
+    "score": 92,
+    "globalRank": 36306
   },
   {
     "login": "MR-MKZ",
@@ -13647,7 +14621,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 975,
-    "score": 1119
+    "score": 1119,
+    "globalRank": 36307
   },
   {
     "login": "masih-developer",
@@ -13661,7 +14636,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 976,
-    "score": 1502
+    "score": 1502,
+    "globalRank": 36308
   },
   {
     "login": "mhnasajpour",
@@ -13675,7 +14651,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 977,
-    "score": 125
+    "score": 125,
+    "globalRank": 36309
   },
   {
     "login": "tahaghafuri",
@@ -13689,7 +14666,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 978,
-    "score": 12199
+    "score": 12199,
+    "globalRank": 36310
   },
   {
     "login": "erfansafarzad7",
@@ -13703,7 +14681,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 979,
-    "score": 191
+    "score": 191,
+    "globalRank": 36311
   },
   {
     "login": "hoseinmohammadi-dev",
@@ -13717,7 +14696,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 980,
-    "score": 514
+    "score": 514,
+    "globalRank": 36312
   },
   {
     "login": "mostafa-charkazi",
@@ -13731,7 +14711,8 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 981,
-    "score": 157
+    "score": 157,
+    "globalRank": 36313
   },
   {
     "login": "Rmin-cell",
@@ -13745,6 +14726,7 @@
     "country": "iran",
     "countryName": "Iran",
     "countryRank": 982,
-    "score": 299
+    "score": 299,
+    "globalRank": 36314
   }
 ]
