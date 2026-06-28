@@ -528,6 +528,12 @@
     "developerCount": 973
   },
   {
+    "country": "netherlands",
+    "geoName": "Netherlands",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+    "developerCount": 924
+  },
+  {
     "country": "new zealand",
     "geoName": "New Zealand",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
@@ -651,13 +657,13 @@
     "country": "serbia",
     "geoName": "Serbia",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
-    "developerCount": 977
+    "developerCount": 979
   },
   {
     "country": "sierra leone",
     "geoName": "Sierra Leone",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-    "developerCount": 407
+    "developerCount": 438
   },
   {
     "country": "singapore",
