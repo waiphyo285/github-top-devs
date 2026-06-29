@@ -1,8 +1,8 @@
 {
-  "totalDevelopers": 123103,
+  "totalDevelopers": 123099,
   "totalCountries": 138,
-  "totalFollowers": 23667693,
-  "totalContributions": 109818854,
+  "totalFollowers": 23691678,
+  "totalContributions": 110061635,
   "topCountries": [
     {
       "country": "sri lanka",
@@ -75,13 +75,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/499550?s=72&u=dd9a9ba40daf29be7c310f7075e74251609b03f3&v=4",
       "location": "Singapore",
       "company": "VoidZero",
-      "followers": 107775,
-      "publicContributions": 148,
-      "privateContributions": 1977,
+      "followers": 108350,
+      "publicContributions": 170,
+      "privateContributions": 1987,
       "country": "singapore",
       "countryName": "Singapore",
       "countryRank": 1,
-      "score": 109900,
+      "score": 110507,
       "globalRank": 2
     },
     {
@@ -205,5 +205,5 @@
       "globalRank": 10
     }
   ],
-  "lastUpdated": "2026-06-28T02:37:01.958Z"
+  "lastUpdated": "2026-06-29T02:37:01.089Z"
 }
