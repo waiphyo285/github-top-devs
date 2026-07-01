@@ -1,8 +1,8 @@
 {
-  "totalDevelopers": 123096,
+  "totalDevelopers": 123095,
   "totalCountries": 138,
-  "totalFollowers": 23694174,
-  "totalContributions": 110238664,
+  "totalFollowers": 23711797,
+  "totalContributions": 110731938,
   "topCountries": [
     {
       "country": "sri lanka",
@@ -190,20 +190,20 @@
       "globalRank": 9
     },
     {
-      "login": "michaelliao",
-      "name": "Crypto Michael",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/470058?s=72&u=dbf6227607a526980eda6d438a9b8126ac04974b&v=4",
-      "location": "Beijing, China",
+      "login": "midudev",
+      "name": "Miguel Ángel Durán",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1561955?s=72&u=477b20a15a2e2361e07e5e414a560e6bff35e811&v=4",
+      "location": "Barcelona",
       "company": "",
-      "followers": 38513,
-      "publicContributions": 734,
-      "privateContributions": 0,
-      "country": "china",
-      "countryName": "China",
-      "countryRank": 3,
-      "score": 39247,
+      "followers": 38585,
+      "publicContributions": 3417,
+      "privateContributions": 2346,
+      "country": "spain",
+      "countryName": "Spain",
+      "countryRank": 1,
+      "score": 44348,
       "globalRank": 10
     }
   ],
-  "lastUpdated": "2026-06-30T02:31:28.544Z"
+  "lastUpdated": "2026-07-01T02:38:07.406Z"
 }
