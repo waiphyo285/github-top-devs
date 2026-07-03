@@ -117,9 +117,8 @@ export default function AboutPage() {
       </section>
 
       <div className="flex justify-center pt-4 border-t border-border/20 text-xs text-muted-foreground/60 gap-1.5 items-center font-mono">
-        <Calendar className="h-3.5 w-3.5" />
         <span>
-          Github Top Devs Client v1.0.0 (MVP) • Static CDN cache enabled
+          Github Top Devs Client (v1.0.0)
         </span>
       </div>
     </div>

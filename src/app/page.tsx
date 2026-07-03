@@ -16,6 +16,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { buttonVariants } from "@/components/ui/button";
 import { FlagImage } from "@/components/custom/flag-image";
 import { Avatar } from "@/components/ui/avatar";
+import { LocalTime } from "@/components/custom/local-time";
 
 export const metadata: Metadata = {
   title: "Github Top Devs | Discover Top GitHub Developers",
@@ -346,8 +347,7 @@ export default function HomePage() {
       </section>
 
       <div className="text-center text-xs text-muted-foreground/60">
-        Database last synced: {new Date(stats.lastUpdated).toLocaleString()} •
-        Static cache revalidating hourly
+        Database last synced: <LocalTime dateString={stats.lastUpdated} /> 
       </div>
     </div>
   );
