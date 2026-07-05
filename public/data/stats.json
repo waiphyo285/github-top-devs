@@ -1,8 +1,8 @@
 {
   "totalDevelopers": 123090,
   "totalCountries": 138,
-  "totalFollowers": 23726195,
-  "totalContributions": 111236353,
+  "totalFollowers": 23692332,
+  "totalContributions": 111327612,
   "topCountries": [
     {
       "country": "sri lanka",
@@ -145,21 +145,6 @@
       "globalRank": 6
     },
     {
-      "login": "IDouble",
-      "name": "Alp ₿📈🚀🌕",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18186995?s=72&u=7730425b69d2116ef76929ddc20e2d99dce291c8&v=4",
-      "location": "Zurich, Switzerland",
-      "company": "NDA",
-      "followers": 51870,
-      "publicContributions": 22,
-      "privateContributions": 0,
-      "country": "switzerland",
-      "countryName": "Switzerland",
-      "countryRank": 1,
-      "score": 51892,
-      "globalRank": 7
-    },
-    {
       "login": "steipete",
       "name": "Peter Steinberger",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58493?s=72&u=95a4fccef3d341039661c427695691a664e333ba&v=4",
@@ -172,7 +157,7 @@
       "countryName": "Austria",
       "countryRank": 1,
       "score": 277013,
-      "globalRank": 8
+      "globalRank": 7
     },
     {
       "login": "getify",
@@ -187,7 +172,7 @@
       "countryName": "United States of America",
       "countryRank": 2,
       "score": 45089,
-      "globalRank": 9
+      "globalRank": 8
     },
     {
       "login": "midudev",
@@ -202,8 +187,23 @@
       "countryName": "Spain",
       "countryRank": 1,
       "score": 44348,
+      "globalRank": 9
+    },
+    {
+      "login": "michaelliao",
+      "name": "Crypto Michael",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/470058?s=72&u=dbf6227607a526980eda6d438a9b8126ac04974b&v=4",
+      "location": "Beijing, China",
+      "company": "",
+      "followers": 38513,
+      "publicContributions": 734,
+      "privateContributions": 0,
+      "country": "china",
+      "countryName": "China",
+      "countryRank": 3,
+      "score": 39247,
       "globalRank": 10
     }
   ],
-  "lastUpdated": "2026-07-04T02:00:24.638Z"
+  "lastUpdated": "2026-07-05T02:08:52.167Z"
 }
