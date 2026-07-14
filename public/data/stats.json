@@ -1,8 +1,8 @@
 {
-  "totalDevelopers": 123100,
+  "totalDevelopers": 123102,
   "totalCountries": 138,
-  "totalFollowers": 23719678,
-  "totalContributions": 112168748,
+  "totalFollowers": 23788704,
+  "totalContributions": 112687964,
   "topCountries": [
     {
       "country": "sri lanka",
@@ -148,6 +148,21 @@
       "login": "steipete",
       "name": "Peter Steinberger",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58493?s=72&u=95a4fccef3d341039661c427695691a664e333ba&v=4",
+      "location": "London / San Francisco",
+      "company": "OpenAI",
+      "followers": 52396,
+      "publicContributions": 64646,
+      "privateContributions": 112452,
+      "country": "united kingdom",
+      "countryName": "United Kingdom",
+      "countryRank": 1,
+      "score": 229494,
+      "globalRank": 7
+    },
+    {
+      "login": "steipete",
+      "name": "Peter Steinberger",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58493?s=72&u=95a4fccef3d341039661c427695691a664e333ba&v=4",
       "location": "Vienna & London",
       "company": "Full-Time Open-Sourcerer",
       "followers": 49388,
@@ -157,7 +172,7 @@
       "countryName": "Austria",
       "countryRank": 1,
       "score": 277013,
-      "globalRank": 7
+      "globalRank": 8
     },
     {
       "login": "getify",
@@ -172,7 +187,7 @@
       "countryName": "United States of America",
       "countryRank": 2,
       "score": 45089,
-      "globalRank": 8
+      "globalRank": 9
     },
     {
       "login": "midudev",
@@ -187,23 +202,8 @@
       "countryName": "Spain",
       "countryRank": 1,
       "score": 44348,
-      "globalRank": 9
-    },
-    {
-      "login": "michaelliao",
-      "name": "Crypto Michael",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/470058?s=72&u=dbf6227607a526980eda6d438a9b8126ac04974b&v=4",
-      "location": "Beijing, China",
-      "company": "",
-      "followers": 38513,
-      "publicContributions": 734,
-      "privateContributions": 0,
-      "country": "china",
-      "countryName": "China",
-      "countryRank": 3,
-      "score": 39247,
       "globalRank": 10
     }
   ],
-  "lastUpdated": "2026-07-13T01:53:40.595Z"
+  "lastUpdated": "2026-07-14T01:30:28.168Z"
 }
