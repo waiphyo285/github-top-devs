@@ -21,6 +21,15 @@ import { FlagImage } from "@/components/custom/flag-image";
 
 import { Metadata } from "next";
 
+export const revalidate = 86400; // Revalidate static country pages once per day
+
+export async function generateStaticParams() {
+  const countries = getCountries();
+  return countries.map((c) => ({
+    country: c.country.toLowerCase().replace(/ /g, "_"),
+  }));
+}
+
 export async function generateMetadata({
   params,
 }: {
@@ -57,8 +66,6 @@ interface CountryPageProps {
     sortOrder?: string;
   }>;
 }
-
-export const revalidate = 0; // Dynamic page
 
 export default async function CountryDetailPage({
   params,

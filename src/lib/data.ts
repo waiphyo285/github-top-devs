@@ -113,7 +113,28 @@ export function getCountryDevelopers(countryKey: string): Developer[] {
     );
     if (fs.existsSync(filePath)) {
       const fileContent = fs.readFileSync(filePath, "utf8");
-      return JSON.parse(fileContent);
+      const devs: Developer[] = JSON.parse(fileContent);
+
+      const allDevs = getAllDevelopers();
+      if (allDevs.length > 0) {
+        const globalRankMap = new Map(
+          allDevs.map((d) => [
+            d.login.toLowerCase() + "_" + d.country.toLowerCase(),
+            d.globalRank,
+          ]),
+        );
+        return devs.map((dev) => ({
+          ...dev,
+          globalRank:
+            dev.globalRank ??
+            globalRankMap.get(
+              dev.login.toLowerCase() + "_" + (dev.country || "").toLowerCase(),
+            ) ??
+            dev.countryRank,
+        }));
+      }
+
+      return devs;
     }
   } catch (error) {
     console.error(`Error loading developers for country ${countryKey}:`, error);

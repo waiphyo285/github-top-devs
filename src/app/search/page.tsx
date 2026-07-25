@@ -43,7 +43,7 @@ interface SearchPageProps {
   }>;
 }
 
-export const revalidate = 0; // Dynamic search page
+export const revalidate = 3600; // 1-hour ISR cache for Vercel CDN
 
 export default async function SearchPage({ searchParams }: SearchPageProps) {
   const params = await searchParams;

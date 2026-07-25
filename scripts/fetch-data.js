@@ -18,6 +18,18 @@ if (!fs.existsSync(countriesDataDir)) {
   fs.mkdirSync(countriesDataDir, { recursive: true });
 }
 
+function safeWriteJson(filePath, data) {
+  const newContent = JSON.stringify(data, null, 2) + "\n";
+  if (fs.existsSync(filePath)) {
+    const existingContent = fs.readFileSync(filePath, "utf8");
+    if (existingContent === newContent) {
+      return false;
+    }
+  }
+  fs.writeFileSync(filePath, newContent, "utf8");
+  return true;
+}
+
 async function run() {
   try {
     if (
@@ -36,6 +48,7 @@ async function run() {
 
     const countriesMetadata = [];
     let allDevelopers = [];
+    let updatedCountryCount = 0;
 
     // Fetch each country data
     for (const loc of locations) {
@@ -81,15 +94,12 @@ async function run() {
           };
         });
 
-        // Save individual country data
-        fs.writeFileSync(
-          path.join(
-            countriesDataDir,
-            `${countryKey.toLowerCase().replace(/ /g, "_")}.json`,
-          ),
-          JSON.stringify(processedCountryDevs, null, 2),
-          "utf8",
-        );
+        // Save individual country data only if changed
+        const countryFilePath = path.join(countriesDataDir, countryFileName);
+        const written = safeWriteJson(countryFilePath, processedCountryDevs);
+        if (written) {
+          updatedCountryCount++;
+        }
 
         countriesMetadata.push({
           country: countryKey,
@@ -104,56 +114,22 @@ async function run() {
       }
     }
 
+    console.log(`✅ Synced ${locations.length} countries. Updated files: ${updatedCountryCount}`);
+
     // Sort global list of all developers by followers descending to assign global rank
     allDevelopers.sort((a, b) => b.followers - a.followers);
 
-    // Assign global rank
+    // Assign global rank for all.json
     allDevelopers = allDevelopers.map((dev, idx) => ({
       ...dev,
       globalRank: idx + 1,
     }));
 
-    // Update individual country JSON files to include globalRank
-    const devMap = new Map(
-      allDevelopers.map((d) => [d.login + "_" + d.country, d]),
-    );
+    // Save consolidated all.json only if changed
+    safeWriteJson(path.join(publicDataDir, "all.json"), allDevelopers);
 
-    for (const meta of countriesMetadata) {
-      const countryKey = meta.country;
-      const countryFile = path.join(
-        countriesDataDir,
-        `${countryKey.toLowerCase().replace(/ /g, "_")}.json`,
-      );
-      if (fs.existsSync(countryFile)) {
-        const devs = JSON.parse(fs.readFileSync(countryFile, "utf8"));
-        const updatedDevs = devs.map((d) => {
-          const globalDev = devMap.get(d.login + "_" + d.country);
-          return {
-            ...d,
-            globalRank: globalDev ? globalDev.globalRank : null,
-          };
-        });
-        fs.writeFileSync(
-          countryFile,
-          JSON.stringify(updatedDevs, null, 2),
-          "utf8",
-        );
-      }
-    }
-
-    // Save consolidated all.json
-    fs.writeFileSync(
-      path.join(publicDataDir, "all.json"),
-      JSON.stringify(allDevelopers, null, 2),
-      "utf8",
-    );
-
-    // Save countries metadata
-    fs.writeFileSync(
-      path.join(publicDataDir, "countries.json"),
-      JSON.stringify(countriesMetadata, null, 2),
-      "utf8",
-    );
+    // Save countries metadata only if changed
+    safeWriteJson(path.join(publicDataDir, "countries.json"), countriesMetadata);
 
     // Calculate global stats
     const totalDevelopers = allDevelopers.length;
@@ -176,6 +152,35 @@ async function run() {
     // Get top developers preview
     const topDevelopers = allDevelopers.slice(0, 10);
 
+    let lastUpdated = new Date().toISOString();
+    const statsPath = path.join(publicDataDir, "stats.json");
+    if (fs.existsSync(statsPath)) {
+      try {
+        const existingStats = JSON.parse(fs.readFileSync(statsPath, "utf8"));
+        const newStatsPreview = JSON.stringify({
+          totalDevelopers,
+          totalCountries,
+          totalFollowers,
+          totalContributions,
+          topCountries,
+          topDevelopers,
+        });
+        const existingStatsPreview = JSON.stringify({
+          totalDevelopers: existingStats.totalDevelopers,
+          totalCountries: existingStats.totalCountries,
+          totalFollowers: existingStats.totalFollowers,
+          totalContributions: existingStats.totalContributions,
+          topCountries: existingStats.topCountries,
+          topDevelopers: existingStats.topDevelopers,
+        });
+        if (newStatsPreview === existingStatsPreview && existingStats.lastUpdated) {
+          lastUpdated = existingStats.lastUpdated;
+        }
+      } catch {
+        // use new timestamp
+      }
+    }
+
     const stats = {
       totalDevelopers,
       totalCountries,
@@ -183,14 +188,10 @@ async function run() {
       totalContributions,
       topCountries,
       topDevelopers,
-      lastUpdated: new Date().toISOString(),
+      lastUpdated,
     };
 
-    fs.writeFileSync(
-      path.join(publicDataDir, "stats.json"),
-      JSON.stringify(stats, null, 2),
-      "utf8",
-    );
+    safeWriteJson(statsPath, stats);
   } catch (err) {
     console.error("Fetch script error:", err);
     process.exit(1);

@@ -34,7 +34,7 @@ interface PageProps {
   }>;
 }
 
-export const revalidate = 0; // Dynamic page
+export const revalidate = 86400; // 24-hour ISR cache for Vercel CDN
 
 export default async function DevelopersPage({ searchParams }: PageProps) {
   const params = await searchParams;

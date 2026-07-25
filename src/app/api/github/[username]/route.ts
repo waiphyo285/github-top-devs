@@ -25,7 +25,12 @@ export async function GET(
       );
     }
 
-    return NextResponse.json(data);
+    return NextResponse.json(data, {
+      headers: {
+        "Cache-Control":
+          "public, max-age=86400, s-maxage=86400, stale-while-revalidate=604800",
+      },
+    });
   } catch (error: any) {
     return NextResponse.json(
       { error: error?.message || "Internal Server Error" },

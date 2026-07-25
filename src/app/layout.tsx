@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
+import { GoogleTagManager } from "@next/third-parties/google";
 import "./globals.css";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
@@ -31,6 +32,7 @@ export default function RootLayout({
       className={`${inter.variable} ${mono.variable} h-full antialiased`}
       suppressHydrationWarning
     >
+      <GoogleTagManager gtmId="GTM-PJMSHTZR" />
       <body
         className="min-h-full flex flex-col bg-background text-foreground"
         suppressHydrationWarning
@@ -44,3 +46,4 @@ export default function RootLayout({
     </html>
   );
 }
+

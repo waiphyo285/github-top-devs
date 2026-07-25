@@ -30,7 +30,7 @@ interface PageProps {
   }>;
 }
 
-export const revalidate = 3600;
+export const revalidate = 86400; // 24 hour ISR cache
 
 export default async function CountriesPage({ searchParams }: PageProps) {
   const params = await searchParams;

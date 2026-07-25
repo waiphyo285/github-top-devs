@@ -61,7 +61,7 @@ interface ProfilePageProps {
   }>;
 }
 
-export const revalidate = 0; // Dynamic profile page
+export const revalidate = 86400; // 24-hour ISR cache for Vercel CDN
 
 export default async function DeveloperProfilePage({
   params,
