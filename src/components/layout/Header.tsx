@@ -32,8 +32,8 @@ export const Header: React.FC = () => {
   const isActive = (path: string) => pathname === path;
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/80 backdrop-blur-md">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div className="sticky top-0 z-50 w-full px-4 sm:px-6 lg:px-8 pt-3 pb-1 pointer-events-none">
+      <header className="mx-auto max-w-7xl rounded-2xl liquid-glass-dark bg-background/80 backdrop-blur-xl border border-border/60 shadow-[0_8px_32px_0_rgba(0,0,0,0.3)] pointer-events-auto px-4 sm:px-6">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">
@@ -129,9 +129,8 @@ export const Header: React.FC = () => {
             </button>
           </div>
         </div>
-      </div>
 
-      {/* Mobile Menu */}
+        {/* Mobile Menu */}
       {mobileMenuOpen && (
         <div className="md:hidden border-b border-border/40 bg-background/95 px-4 py-3 space-y-1">
           {navigation.map((item) => {
@@ -175,6 +174,7 @@ export const Header: React.FC = () => {
           </div>
         </div>
       )}
-    </header>
+      </header>
+    </div>
   );
 };

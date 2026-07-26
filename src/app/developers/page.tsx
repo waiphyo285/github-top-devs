@@ -202,9 +202,9 @@ export default async function DevelopersPage({ searchParams }: PageProps) {
         </CardContent>
       </Card>
 
-      <div className="max-h-[600px] overflow-auto border border-border/40 rounded-2xl bg-card/15 shadow-[0_4px_30px_rgba(0,0,0,0.1)] backdrop-blur-md">
+      <div className="max-h-[600px] overflow-auto border border-border/40 rounded-2xl bg-[#0c1220] shadow-2xl relative">
         <table className="w-full text-left border-collapse">
-          <thead className="sticky top-0 z-10 bg-card/95 backdrop-blur-md border-b border-border/30">
+          <thead className="sticky top-0 z-10 bg-[#0c1220] border-b border-border/40">
             <tr className="text-xs font-mono uppercase tracking-wider text-muted-foreground">
               <th className="py-4 px-6 font-medium w-20">Rank</th>
               <th className="py-4 px-6 font-medium">Developer</th>

@@ -45,19 +45,17 @@ export default function HomePage() {
 
   return (
     <div className="space-y-16 pb-12">
-      <section className="relative overflow-hidden rounded-3xl border border-border/30 bg-gradient-to-b from-card/80 to-background p-8 md:p-16 shadow-[0_0_50px_rgba(16,185,129,0.05)] text-center max-w-5xl mx-auto">
+      <section className="relative overflow-hidden rounded-3xl liquid-glass-dark border border-border/40 p-8 md:p-16 shadow-[0_0_50px_rgba(16,185,129,0.05)] text-center max-w-5xl mx-auto">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(16,185,129,0.08),transparent_50%)]" />
 
         <div className="absolute top-0 right-1/4 w-96 h-96 bg-primary/10 rounded-full blur-[100px] pointer-events-none" />
 
         <div className="relative z-10 space-y-6">
           <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">
-            Explore
+            Explore{" "}
             <span className="bg-gradient-to-r from-emerald-400 via-teal-400 to-emerald-400 bg-[length:200%_auto] bg-clip-text text-transparent animate-pulse">
-              {" "}
-              Top Developers{" "}
+              Top Developers
             </span>
-            Worldwide
           </h1>
 
           <p className="text-base md:text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
@@ -65,23 +63,23 @@ export default function HomePage() {
             Discover top developers based on followers and public contributions.
           </p>
 
-          <div className="max-w-xl mx-auto pt-4">
+          <div className="max-w-xl mx-auto w-full pt-4">
             <form
               action="/search"
               method="GET"
-              className="relative flex items-center"
+              className="relative flex items-center w-full min-w-0"
             >
-              <Search className="absolute left-4 h-5 w-5 text-muted-foreground" />
+              <Search className="absolute left-4 h-5 w-5 text-muted-foreground shrink-0 pointer-events-none" />
               <input
                 type="text"
                 name="q"
                 placeholder="Search username, name, country, or company..."
                 required
-                className="w-full bg-secondary/80 border border-border/60 rounded-xl py-3.5 pl-12 pr-28 text-sm focus:outline-none focus:ring-1 focus:ring-primary focus:border-primary placeholder:text-muted-foreground"
+                className="w-full min-w-0 bg-secondary/80 border border-border/60 rounded-xl py-3.5 pl-12 pr-28 text-sm focus:outline-none focus:ring-1 focus:ring-primary focus:border-primary placeholder:text-muted-foreground"
               />
               <button
                 type="submit"
-                className="absolute right-2 px-4 py-1.5 bg-primary text-primary-foreground font-semibold rounded-lg text-xs hover:bg-primary/95 transition-all shadow-[0_0_15px_rgba(16,185,129,0.2)]"
+                className="absolute right-2 px-4 py-1.5 bg-primary text-primary-foreground font-semibold rounded-lg text-xs hover:bg-primary/95 transition-all shadow-[0_0_15px_rgba(16,185,129,0.2)] shrink-0"
               >
                 Search
               </button>

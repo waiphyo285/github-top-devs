@@ -80,8 +80,8 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
   };
 
   return (
-    <div className="space-y-8 pb-12 max-w-4xl mx-auto">
-      <div className="space-y-4">
+    <div className="space-y-8 pb-12 max-w-4xl mx-auto w-full">
+      <div className="space-y-4 w-full">
         <div>
           <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
             Global Search
@@ -92,25 +92,25 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           </p>
         </div>
 
-        <Card className="border-border/40 bg-card/25 backdrop-blur-sm p-2 shadow-lg">
-          <CardContent className="p-0">
+        <Card className="border-border/40 bg-card/25 backdrop-blur-sm p-2 shadow-lg w-full shrink-0">
+          <CardContent className="p-0 w-full">
             <form
               method="GET"
               action="/search"
-              className="relative flex items-center"
+              className="relative flex items-center w-full min-w-0"
             >
-              <Search className="absolute left-4 h-5 w-5 text-muted-foreground" />
+              <Search className="absolute left-4 h-5 w-5 text-muted-foreground shrink-0 pointer-events-none" />
               <input
                 type="text"
                 name="q"
                 defaultValue={query}
                 placeholder="Search name, username, company, location or country..."
                 required
-                className="w-full bg-transparent border-0 rounded-xl py-4 pl-12 pr-28 text-sm sm:text-base focus:outline-none placeholder:text-muted-foreground/60 text-foreground"
+                className="w-full min-w-0 bg-transparent border-0 rounded-xl py-4 pl-12 pr-28 text-sm sm:text-base focus:outline-none placeholder:text-muted-foreground/60 text-foreground"
               />
               <button
                 type="submit"
-                className="absolute right-2 px-6 py-2.5 bg-primary text-primary-foreground font-bold rounded-lg text-xs sm:text-sm hover:bg-primary/95 transition-all shadow-[0_0_15px_rgba(16,185,129,0.2)]"
+                className="absolute right-2 px-6 py-2.5 bg-primary text-primary-foreground font-bold rounded-lg text-xs sm:text-sm hover:bg-primary/95 transition-all shadow-[0_0_15px_rgba(16,185,129,0.2)] shrink-0"
               >
                 Search
               </button>

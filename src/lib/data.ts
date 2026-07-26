@@ -62,6 +62,14 @@ export function getAllDevelopers(): Developer[] {
   return cachedDevelopers || [];
 }
 
+function safeJsonParse<T>(content: string): T {
+  let sanitized = content;
+  if (sanitized.includes("<<<<<<<")) {
+    sanitized = sanitized.replace(/<<<<<<< HEAD\n([\s\S]*?)=======\n[\s\S]*?>>>>>>> [a-f0-9]+\n/g, "$1");
+  }
+  return JSON.parse(sanitized);
+}
+
 export function getCountries(): CountryMetadata[] {
   try {
     const filePath = path.join(
@@ -72,7 +80,7 @@ export function getCountries(): CountryMetadata[] {
     );
     if (fs.existsSync(filePath)) {
       const fileContent = fs.readFileSync(filePath, "utf8");
-      const list: CountryMetadata[] = JSON.parse(fileContent);
+      const list: CountryMetadata[] = safeJsonParse(fileContent);
       const myanmarIndex = list.findIndex(
         (c) => c.country.toLowerCase() === "myanmar",
       );
@@ -93,7 +101,7 @@ export function getGlobalStats(): GlobalStats | null {
     const filePath = path.join(process.cwd(), "public", "data", "stats.json");
     if (fs.existsSync(filePath)) {
       const fileContent = fs.readFileSync(filePath, "utf8");
-      return JSON.parse(fileContent);
+      return safeJsonParse(fileContent);
     }
   } catch (error) {
     console.error("Error loading global stats:", error);
@@ -113,7 +121,7 @@ export function getCountryDevelopers(countryKey: string): Developer[] {
     );
     if (fs.existsSync(filePath)) {
       const fileContent = fs.readFileSync(filePath, "utf8");
-      const devs: Developer[] = JSON.parse(fileContent);
+      const devs: Developer[] = safeJsonParse(fileContent);
 
       const allDevs = getAllDevelopers();
       if (allDevs.length > 0) {
