@@ -32,13 +32,13 @@ export const Header: React.FC = () => {
   const isActive = (path: string) => pathname === path;
 
   return (
-    <div className="sticky top-0 z-50 w-full px-4 sm:px-6 lg:px-8 pt-3 pb-1 pointer-events-none">
-      <header className="mx-auto max-w-7xl rounded-2xl liquid-glass-dark bg-background/80 backdrop-blur-xl border border-border/60 shadow-[0_8px_32px_0_rgba(0,0,0,0.3)] pointer-events-auto px-4 sm:px-6">
+    <header className="sticky top-0 z-50 w-full bg-white/85 backdrop-blur-xl border-b border-emerald-200/60 shadow-sm transition-all duration-300">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
-              <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
+              <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
                 Github Top Devs
               </span>
             </Link>
@@ -53,10 +53,10 @@ export const Header: React.FC = () => {
                 <Link
                   key={item.name}
                   href={item.href}
-                  className={`flex items-center space-x-2 rounded-md px-3 py-2 text-sm font-medium transition-colors ${
+                  className={`flex items-center space-x-2 rounded-lg px-3.5 py-2 text-sm font-semibold transition-all ${
                     active
-                      ? "bg-secondary text-primary"
-                      : "text-muted-foreground hover:bg-secondary/50 hover:text-foreground"
+                      ? "bg-emerald-50 text-emerald-700 font-bold border border-emerald-200/80 shadow-sm"
+                      : "text-slate-600 hover:bg-emerald-50/60 hover:text-emerald-700"
                   }`}
                 >
                   <Icon className="h-4 w-4" />
@@ -174,7 +174,7 @@ export const Header: React.FC = () => {
           </div>
         </div>
       )}
-      </header>
-    </div>
+      </div>
+    </header>
   );
 };

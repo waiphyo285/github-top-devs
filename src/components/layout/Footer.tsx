@@ -6,13 +6,13 @@ export const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="w-full border-t border-border/40 bg-background/50 backdrop-blur-md">
+    <footer className="w-full border-t border-emerald-200/60 bg-white/80 backdrop-blur-md text-slate-600">
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Brand section */}
           <div className="flex flex-col space-y-3">
             <div className="flex items-center space-x-2">
-              <span className="text-lg font-bold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
+              <span className="text-lg font-bold tracking-tight bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
                 Github Top Devs
               </span>
             </div>

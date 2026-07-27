@@ -219,7 +219,7 @@ export default async function CountryDetailPage({
         </div>
       </div>
 
-      <Card className="border-border/40 bg-card/25 backdrop-blur-sm">
+      <Card className="sticky top-[64px] z-30 border border-emerald-200/60 bg-white/95 backdrop-blur-md shadow-md">
         <CardContent className="p-4">
           <form method="GET" className="flex flex-col sm:flex-row gap-4">
             {sortBy !== "countryRank" && (
@@ -263,25 +263,25 @@ export default async function CountryDetailPage({
         </CardContent>
       </Card>
 
-      <div className="max-h-[600px] overflow-auto border border-border/40 rounded-2xl bg-[#0c1220] shadow-2xl relative">
+      <div className="max-h-[600px] overflow-auto table-scroll border border-emerald-200/60 rounded-2xl bg-white/95 shadow-lg relative">
         <table className="w-full text-left border-collapse">
-          <thead className="sticky top-0 z-10 bg-[#0c1220] border-b border-border/40">
-            <tr className="text-xs font-mono uppercase tracking-wider text-muted-foreground">
-              <th className="py-4 px-6 font-medium w-20">Rank</th>
-              <th className="py-4 px-6 font-medium">Developer</th>
-              <th className="py-4 px-6 font-medium w-32 text-right">
+          <thead className="sticky top-0 z-20 bg-white shadow-sm border-b border-emerald-200/80">
+            <tr className="text-xs font-mono uppercase tracking-wider text-slate-500 bg-white">
+              <th className="py-4 px-6 font-medium w-20 sticky top-0 bg-white z-20 border-b border-emerald-200/80">Rank</th>
+              <th className="py-4 px-6 font-medium sticky top-0 bg-white z-20 border-b border-emerald-200/80">Developer</th>
+              <th className="py-4 px-6 font-medium w-32 text-right sticky top-0 bg-white z-20 border-b border-emerald-200/80">
                 {renderSortLink("followers", "Followers")}
               </th>
-              <th className="py-4 px-6 font-medium w-36 text-right">
+              <th className="py-4 px-6 font-medium w-36 text-right sticky top-0 bg-white z-20 border-b border-emerald-200/80">
                 {renderSortLink("publicContributions", "Contributions")}
               </th>
-              <th className="py-4 px-6 font-medium w-32 text-right">
+              <th className="py-4 px-6 font-medium w-32 text-right sticky top-0 bg-white z-20 border-b border-emerald-200/80">
                 {renderSortLink("score", "Score")}
               </th>
-              <th className="py-4 px-6 font-medium w-24 text-center">
+              <th className="py-4 px-6 font-medium w-24 text-center sticky top-0 bg-white z-20 border-b border-emerald-200/80">
                 {renderSortLink("globalRank", "Global")}
               </th>
-              <th className="py-4 px-6 font-medium w-40">City / Location</th>
+              <th className="py-4 px-6 font-medium w-40 sticky top-0 bg-white z-20 border-b border-emerald-200/80">City / Location</th>
             </tr>
           </thead>
           <tbody className="divide-y divide-border/20">

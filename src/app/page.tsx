@@ -45,20 +45,20 @@ export default function HomePage() {
 
   return (
     <div className="space-y-16 pb-12">
-      <section className="relative overflow-hidden rounded-3xl liquid-glass-dark border border-border/40 p-8 md:p-16 shadow-[0_0_50px_rgba(16,185,129,0.05)] text-center max-w-5xl mx-auto">
+      <section className="relative overflow-hidden rounded-3xl liquid-glass-dark bg-white/90 border border-emerald-200/60 p-8 md:p-16 shadow-[0_8px_32px_0_rgba(16,185,129,0.06)] text-center max-w-5xl mx-auto">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(16,185,129,0.08),transparent_50%)]" />
 
-        <div className="absolute top-0 right-1/4 w-96 h-96 bg-primary/10 rounded-full blur-[100px] pointer-events-none" />
+        <div className="absolute top-0 right-1/4 w-96 h-96 bg-emerald-500/10 rounded-full blur-[100px] pointer-events-none" />
 
         <div className="relative z-10 space-y-6">
-          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">
+          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-slate-900">
             Explore{" "}
-            <span className="bg-gradient-to-r from-emerald-400 via-teal-400 to-emerald-400 bg-[length:200%_auto] bg-clip-text text-transparent animate-pulse">
+            <span className="bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-600 bg-[length:200%_auto] bg-clip-text text-transparent animate-pulse">
               Top Developers
             </span>
           </h1>
 
-          <p className="text-base md:text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
+          <p className="text-base md:text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
             Browse and search rankings of the top open-source talent worldwide.
             Discover top developers based on followers and public contributions.
           </p>
