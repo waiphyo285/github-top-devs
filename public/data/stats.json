@@ -1,8 +1,8 @@
 {
-  "totalDevelopers": 123145,
+  "totalDevelopers": 123144,
   "totalCountries": 138,
-  "totalFollowers": 23815159,
-  "totalContributions": 113177586,
+  "totalFollowers": 23824759,
+  "totalContributions": 113469317,
   "topCountries": [
     {
       "country": "sri lanka",
@@ -205,5 +205,5 @@
       "globalRank": 10
     }
   ],
-  "lastUpdated": "2026-07-29T01:46:29.204Z"
+  "lastUpdated": "2026-07-30T01:28:59.650Z"
 }
