@@ -1,8 +1,8 @@
 {
   "totalDevelopers": 123144,
   "totalCountries": 138,
-  "totalFollowers": 23824759,
-  "totalContributions": 113469317,
+  "totalFollowers": 23781596,
+  "totalContributions": 113394924,
   "topCountries": [
     {
       "country": "sri lanka",
@@ -160,21 +160,6 @@
       "globalRank": 7
     },
     {
-      "login": "steipete",
-      "name": "Peter Steinberger",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58493?s=72&u=95a4fccef3d341039661c427695691a664e333ba&v=4",
-      "location": "Vienna & London",
-      "company": "Full-Time Open-Sourcerer",
-      "followers": 49388,
-      "publicContributions": 46535,
-      "privateContributions": 181090,
-      "country": "austria",
-      "countryName": "Austria",
-      "countryRank": 1,
-      "score": 277013,
-      "globalRank": 8
-    },
-    {
       "login": "getify",
       "name": "Kyle Simpson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/150330?s=72&u=41aa48771028d34bcf025eefe919bf75fbda77d4&v=4",
@@ -187,7 +172,7 @@
       "countryName": "United States of America",
       "countryRank": 2,
       "score": 45089,
-      "globalRank": 9
+      "globalRank": 8
     },
     {
       "login": "midudev",
@@ -202,8 +187,23 @@
       "countryName": "Spain",
       "countryRank": 1,
       "score": 44348,
+      "globalRank": 9
+    },
+    {
+      "login": "michaelliao",
+      "name": "Crypto Michael",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/470058?s=72&u=dbf6227607a526980eda6d438a9b8126ac04974b&v=4",
+      "location": "Beijing, China",
+      "company": "",
+      "followers": 38513,
+      "publicContributions": 734,
+      "privateContributions": 0,
+      "country": "china",
+      "countryName": "China",
+      "countryRank": 3,
+      "score": 39247,
       "globalRank": 10
     }
   ],
-  "lastUpdated": "2026-07-30T01:28:59.650Z"
+  "lastUpdated": "2026-07-31T01:55:37.749Z"
 }
