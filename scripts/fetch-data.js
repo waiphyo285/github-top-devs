@@ -7,19 +7,19 @@ const CONFIG_URL =
 const CACHE_BASE_URL =
   "https://raw.githubusercontent.com/gayanvoice/top-github-users/main/cache";
 
-const publicDataDir = path.join(__dirname, "..", "public", "data");
-const countriesDataDir = path.join(publicDataDir, "countries");
+const dataDir = path.join(__dirname, "..", "data");
+const countriesDataDir = path.join(dataDir, "countries");
 
 // Ensure directories exist
-if (!fs.existsSync(publicDataDir)) {
-  fs.mkdirSync(publicDataDir, { recursive: true });
+if (!fs.existsSync(dataDir)) {
+  fs.mkdirSync(dataDir, { recursive: true });
 }
 if (!fs.existsSync(countriesDataDir)) {
   fs.mkdirSync(countriesDataDir, { recursive: true });
 }
 
-function safeWriteJson(filePath, data) {
-  const newContent = JSON.stringify(data, null, 2) + "\n";
+function safeWriteJson(filePath, data, pretty = false) {
+  const newContent = (pretty ? JSON.stringify(data, null, 2) : JSON.stringify(data)) + "\n";
   if (fs.existsSync(filePath)) {
     const existingContent = fs.readFileSync(filePath, "utf8");
     if (existingContent === newContent) {
@@ -33,7 +33,7 @@ function safeWriteJson(filePath, data) {
 async function run() {
   try {
     if (
-      fs.existsSync(path.join(publicDataDir, "all.json")) &&
+      fs.existsSync(path.join(dataDir, "all.json")) &&
       !process.argv.includes("--force")
     ) {
       console.log("⚡ Using cached data. Pass --force to refetch.");
@@ -126,10 +126,21 @@ async function run() {
     }));
 
     // Save consolidated all.json only if changed
-    safeWriteJson(path.join(publicDataDir, "all.json"), allDevelopers);
+    safeWriteJson(path.join(dataDir, "all.json"), allDevelopers);
+
+    // Save lightweight top 1,000 developers for default global leaderboard
+    const topGlobalDevelopers = allDevelopers.slice(0, 1000);
+    safeWriteJson(path.join(dataDir, "top-global.json"), topGlobalDevelopers);
+
+    // Save username -> country map for fast developer profile lookups
+    const usernameMap = {};
+    for (const dev of allDevelopers) {
+      usernameMap[dev.login.toLowerCase()] = dev.country;
+    }
+    safeWriteJson(path.join(dataDir, "username-map.json"), usernameMap);
 
     // Save countries metadata only if changed
-    safeWriteJson(path.join(publicDataDir, "countries.json"), countriesMetadata);
+    safeWriteJson(path.join(dataDir, "countries.json"), countriesMetadata);
 
     // Calculate global stats
     const totalDevelopers = allDevelopers.length;
@@ -153,7 +164,7 @@ async function run() {
     const topDevelopers = allDevelopers.slice(0, 10);
 
     let lastUpdated = new Date().toISOString();
-    const statsPath = path.join(publicDataDir, "stats.json");
+    const statsPath = path.join(dataDir, "stats.json");
     if (fs.existsSync(statsPath)) {
       try {
         const existingStats = JSON.parse(fs.readFileSync(statsPath, "utf8"));

@@ -2,17 +2,14 @@
 
 import React, { useRef, useState } from "react";
 import { toPng } from "html-to-image";
-import { Download, Loader2, Sparkles } from "lucide-react";
+import { Download, Loader2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Developer, CountryMetadata } from "@/lib/data";
 import {
   Dialog,
   DialogContent,
-  DialogDescription,
-  DialogHeader,
   DialogTitle,
   DialogTrigger,
-  DialogFooter,
 } from "@/components/ui/dialog";
 
 interface CardStyle {
@@ -189,15 +186,7 @@ export function DeveloperCard({
       <DialogTrigger asChild>{trigger}</DialogTrigger>
 
       <DialogContent className="sm:max-w-[390px] bg-card border-border/40 text-foreground flex flex-col items-center p-5 rounded-2xl">
-        <DialogHeader className="w-full text-center sm:text-center space-y-1 mb-2">
-          <DialogTitle className="text-lg font-bold flex items-center justify-center gap-1.5 bg-gradient-to-r from-primary to-emerald-400 bg-clip-text text-transparent">
-            <Sparkles className="h-4 w-4 text-primary" />
-            <span>Developer Card</span>
-          </DialogTitle>
-          <DialogDescription className="text-xs text-muted-foreground">
-            Your GitHub journey, in one card.
-          </DialogDescription>
-        </DialogHeader>
+        <DialogTitle className="sr-only">Developer Card</DialogTitle>
 
         {/* Card Component (Will be captured as image) */}
         <div
@@ -337,20 +326,21 @@ export function DeveloperCard({
           </div>
         </div>
 
-        <DialogFooter className="w-full mt-4 flex sm:flex-row gap-2">
+        {/* Bottom Action Button */}
+        <div className="w-full px-3">
           <Button
             onClick={handleDownload}
             disabled={isDownloading}
-            className="w-full bg-primary text-primary-foreground hover:bg-primary/95 font-bold shadow-md shadow-primary/10 flex items-center justify-center gap-1.5 cursor-pointer"
+            className="w-full h-12 text-sm bg-primary text-primary-foreground hover:bg-primary/95 font-bold rounded-xl shadow-md shadow-primary/20 flex items-center justify-center gap-2 cursor-pointer transition-all active:scale-[0.99]"
           >
             {isDownloading ? (
-              <Loader2 className="h-4 w-4 animate-spin" />
+              <Loader2 className="h-5 w-5 animate-spin" />
             ) : (
-              <Download className="h-4 w-4" />
+              <Download className="h-5 w-5" />
             )}
-            <span>{isDownloading ? "Generating..." : "Save as PNG"}</span>
+            <span>{isDownloading ? "Generating..." : "Save Your Card"}</span>
           </Button>
-        </DialogFooter>
+        </div>
       </DialogContent>
     </Dialog>
   );

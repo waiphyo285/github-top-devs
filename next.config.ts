@@ -19,7 +19,7 @@ const nextConfig: NextConfig = {
     ],
   },
   outputFileTracingIncludes: {
-    "/**/*": ["./public/data/**/*"],
+    "/**/*": ["./data/**/*"],
   },
 };
 

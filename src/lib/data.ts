@@ -34,8 +34,21 @@ export interface GlobalStats {
   lastUpdated: string;
 }
 
-// In-memory cache for all developers
+// In-memory caches for fast server responses
 let cachedDevelopers: Developer[] | null = null;
+let cachedTopGlobal: Developer[] | null = null;
+let cachedUsernameMap: Record<string, string> | null = null;
+
+function safeJsonParse<T>(content: string): T {
+  let sanitized = content;
+  if (sanitized.includes("<<<<<<<")) {
+    sanitized = sanitized.replace(
+      /<<<<<<< HEAD\n([\s\S]*?)=======\n[\s\S]*?>>>>>>> [a-f0-9]+\n/g,
+      "$1",
+    );
+  }
+  return JSON.parse(sanitized);
+}
 
 export function getAllDevelopers(): Developer[] {
   if (cachedDevelopers) {
@@ -43,14 +56,10 @@ export function getAllDevelopers(): Developer[] {
   }
 
   try {
-    const filePath = path.join(process.cwd(), "public", "data", "all.json");
+    const filePath = path.join(process.cwd(), "data", "all.json");
     if (fs.existsSync(filePath)) {
-      console.log("Loading all.json into memory...");
       const fileContent = fs.readFileSync(filePath, "utf8");
-      cachedDevelopers = JSON.parse(fileContent);
-      console.log(
-        `Successfully loaded ${cachedDevelopers?.length} developers.`,
-      );
+      cachedDevelopers = safeJsonParse(fileContent);
     } else {
       cachedDevelopers = [];
     }
@@ -62,22 +71,47 @@ export function getAllDevelopers(): Developer[] {
   return cachedDevelopers || [];
 }
 
-function safeJsonParse<T>(content: string): T {
-  let sanitized = content;
-  if (sanitized.includes("<<<<<<<")) {
-    sanitized = sanitized.replace(/<<<<<<< HEAD\n([\s\S]*?)=======\n[\s\S]*?>>>>>>> [a-f0-9]+\n/g, "$1");
+export function getTopGlobalDevelopers(): Developer[] {
+  if (cachedTopGlobal) {
+    return cachedTopGlobal;
   }
-  return JSON.parse(sanitized);
+
+  try {
+    const filePath = path.join(process.cwd(), "data", "top-global.json");
+    if (fs.existsSync(filePath)) {
+      const fileContent = fs.readFileSync(filePath, "utf8");
+      cachedTopGlobal = safeJsonParse(fileContent);
+      return cachedTopGlobal || [];
+    }
+  } catch (error) {
+    console.error("Error loading top global developers:", error);
+  }
+
+  return getAllDevelopers().slice(0, 1000);
+}
+
+export function getUsernameMap(): Record<string, string> {
+  if (cachedUsernameMap) {
+    return cachedUsernameMap;
+  }
+
+  try {
+    const filePath = path.join(process.cwd(), "data", "username-map.json");
+    if (fs.existsSync(filePath)) {
+      const fileContent = fs.readFileSync(filePath, "utf8");
+      cachedUsernameMap = safeJsonParse(fileContent);
+      return cachedUsernameMap || {};
+    }
+  } catch (error) {
+    console.error("Error loading username map:", error);
+  }
+
+  return {};
 }
 
 export function getCountries(): CountryMetadata[] {
   try {
-    const filePath = path.join(
-      process.cwd(),
-      "public",
-      "data",
-      "countries.json",
-    );
+    const filePath = path.join(process.cwd(), "data", "countries.json");
     if (fs.existsSync(filePath)) {
       const fileContent = fs.readFileSync(filePath, "utf8");
       const list: CountryMetadata[] = safeJsonParse(fileContent);
@@ -98,7 +132,7 @@ export function getCountries(): CountryMetadata[] {
 
 export function getGlobalStats(): GlobalStats | null {
   try {
-    const filePath = path.join(process.cwd(), "public", "data", "stats.json");
+    const filePath = path.join(process.cwd(), "data", "stats.json");
     if (fs.existsSync(filePath)) {
       const fileContent = fs.readFileSync(filePath, "utf8");
       return safeJsonParse(fileContent);
@@ -114,7 +148,6 @@ export function getCountryDevelopers(countryKey: string): Developer[] {
     const formattedKey = countryKey.toLowerCase().replace(/ /g, "_");
     const filePath = path.join(
       process.cwd(),
-      "public",
       "data",
       "countries",
       `${formattedKey}.json`,
@@ -122,43 +155,44 @@ export function getCountryDevelopers(countryKey: string): Developer[] {
     if (fs.existsSync(filePath)) {
       const fileContent = fs.readFileSync(filePath, "utf8");
       const devs: Developer[] = safeJsonParse(fileContent);
-
-      const allDevs = getAllDevelopers();
-      if (allDevs.length > 0) {
-        const globalRankMap = new Map(
-          allDevs.map((d) => [
-            d.login.toLowerCase() + "_" + d.country.toLowerCase(),
-            d.globalRank,
-          ]),
-        );
-        return devs.map((dev) => ({
-          ...dev,
-          globalRank:
-            dev.globalRank ??
-            globalRankMap.get(
-              dev.login.toLowerCase() + "_" + (dev.country || "").toLowerCase(),
-            ) ??
-            dev.countryRank,
-        }));
-      }
-
       return devs;
     }
   } catch (error) {
-    console.error(`Error loading developers for country ${countryKey}:`, error);
+    console.error(
+      `Error loading developers for country ${countryKey}:`,
+      error,
+    );
   }
   return [];
 }
 
 export function getDeveloperByUsername(username: string): Developer | null {
-  // First look in global memory cache
-  const allDevs = getAllDevelopers();
   const lowerUsername = username.toLowerCase();
-  const found = allDevs.find((d) => d.login.toLowerCase() === lowerUsername);
-  if (found) {
-    return found;
+  const usernameMap = getUsernameMap();
+  const countryKey = usernameMap[lowerUsername];
+
+  if (countryKey) {
+    const countryDevs = getCountryDevelopers(countryKey);
+    const found = countryDevs.find(
+      (d) => d.login.toLowerCase() === lowerUsername,
+    );
+    if (found) {
+      return found;
+    }
   }
-  return null;
+
+  // Fallback to top global
+  const topDevs = getTopGlobalDevelopers();
+  const topFound = topDevs.find(
+    (d) => d.login.toLowerCase() === lowerUsername,
+  );
+  if (topFound) {
+    return topFound;
+  }
+
+  // Final fallback
+  const allDevs = getAllDevelopers();
+  return allDevs.find((d) => d.login.toLowerCase() === lowerUsername) || null;
 }
 
 export interface PaginatedResult<T> {
@@ -191,14 +225,15 @@ export function getPaginatedDevelopers({
 } = {}): PaginatedResult<Developer> {
   let list: Developer[] = [];
 
-  // If a specific country is filtered, fetch country list (saves parsing all.json)
   if (country) {
     list = getCountryDevelopers(country);
+  } else if (!search && page <= 20 && pageSize * page <= 1000) {
+    // Fast path: Use top 1,000 developers for default global views
+    list = getTopGlobalDevelopers();
   } else {
     list = getAllDevelopers();
   }
 
-  // Apply search filter if query exists
   if (search) {
     const query = search.toLowerCase().trim();
     list = list.filter(
@@ -211,7 +246,6 @@ export function getPaginatedDevelopers({
     );
   }
 
-  // Apply sorting
   list.sort((a, b) => {
     const valA = a[sortBy];
     const valB = b[sortBy];
