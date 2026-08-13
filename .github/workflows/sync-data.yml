@@ -1,9 +1,9 @@
-name: Daily Data Sync
+name: Weekly Data Sync
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC (07:00 Thailand)
-    - cron: "0 0 * * *"
+    # Runs every Sunday at 00:00 UTC (07:00 Thailand)
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 permissions:

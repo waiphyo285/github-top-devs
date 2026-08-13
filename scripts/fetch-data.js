@@ -47,6 +47,7 @@ async function run() {
     const locations = config.locations || [];
 
     const countriesMetadata = [];
+    const countryDevsMap = new Map();
     let allDevelopers = [];
     let updatedCountryCount = 0;
 
@@ -94,12 +95,7 @@ async function run() {
           };
         });
 
-        // Save individual country data only if changed
-        const countryFilePath = path.join(countriesDataDir, countryFileName);
-        const written = safeWriteJson(countryFilePath, processedCountryDevs);
-        if (written) {
-          updatedCountryCount++;
-        }
+        countryDevsMap.set(countryFileName, processedCountryDevs);
 
         countriesMetadata.push({
           country: countryKey,
@@ -114,16 +110,24 @@ async function run() {
       }
     }
 
-    console.log(`✅ Synced ${locations.length} countries. Updated files: ${updatedCountryCount}`);
-
     // Sort global list of all developers by followers descending to assign global rank
-    allDevelopers.sort((a, b) => b.followers - a.followers);
+    allDevelopers.sort((a, b) => (b.followers || 0) - (a.followers || 0));
 
-    // Assign global rank for all.json
-    allDevelopers = allDevelopers.map((dev, idx) => ({
-      ...dev,
-      globalRank: idx + 1,
-    }));
+    // Assign global rank in place so country data also includes globalRank
+    allDevelopers.forEach((dev, idx) => {
+      dev.globalRank = idx + 1;
+    });
+
+    // Save individual country data after globalRank has been assigned
+    for (const [countryFileName, processedCountryDevs] of countryDevsMap.entries()) {
+      const countryFilePath = path.join(countriesDataDir, countryFileName);
+      const written = safeWriteJson(countryFilePath, processedCountryDevs);
+      if (written) {
+        updatedCountryCount++;
+      }
+    }
+
+    console.log(`✅ Synced ${locations.length} countries. Updated files: ${updatedCountryCount}`);
 
     // Save consolidated all.json only if changed
     safeWriteJson(path.join(dataDir, "all.json"), allDevelopers);

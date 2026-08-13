@@ -177,6 +177,23 @@ export function getDeveloperByUsername(username: string): Developer | null {
       (d) => d.login.toLowerCase() === lowerUsername,
     );
     if (found) {
+      if (!found.globalRank || found.globalRank <= 0) {
+        const topDevs = getTopGlobalDevelopers();
+        const topFound = topDevs.find(
+          (d) => d.login.toLowerCase() === lowerUsername,
+        );
+        if (topFound && topFound.globalRank) {
+          found.globalRank = topFound.globalRank;
+        } else {
+          const allDevs = getAllDevelopers();
+          const allFound = allDevs.find(
+            (d) => d.login.toLowerCase() === lowerUsername,
+          );
+          if (allFound && allFound.globalRank) {
+            found.globalRank = allFound.globalRank;
+          }
+        }
+      }
       return found;
     }
   }
